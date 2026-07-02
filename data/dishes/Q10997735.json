@@ -1,0 +1,20 @@
+{
+  "id": "Q10997735",
+  "name": "gujia",
+  "description": "also known as ghughra in gujarati",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gujia-q10997735/gujia-q10997735-1.jpg",
+    "images/gujia-q10997735/gujia-q10997735-2.jpg",
+    "images/gujia-q10997735/gujia-q10997735-3.jpg",
+    "images/gujia-q10997735/gujia-q10997735-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10997735",
+    "themealdb": null
+  }
+}

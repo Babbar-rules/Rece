@@ -1,0 +1,18 @@
+{
+  "id": "Q108898648",
+  "name": "CurderBurger",
+  "description": "Cheeseburger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/curderburger-q108898648/curderburger-q108898648-1.png",
+    "images/curderburger-q108898648/curderburger-q108898648-2.jpg",
+    "images/curderburger-q108898648/curderburger-q108898648-3.jpg",
+    "images/curderburger-q108898648/curderburger-q108898648-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108898648",
+    "themealdb": null
+  }
+}

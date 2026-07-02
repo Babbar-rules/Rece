@@ -1,0 +1,20 @@
+{
+  "id": "Q109447101",
+  "name": "MOS Burger",
+  "description": "hamburger at MOS Burger",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mos-burger-q109447101/mos-burger-q109447101-1.jpg",
+    "images/mos-burger-q109447101/mos-burger-q109447101-2.jpg",
+    "images/mos-burger-q109447101/mos-burger-q109447101-3.jpg",
+    "images/mos-burger-q109447101/mos-burger-q109447101-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109447101",
+    "themealdb": null
+  }
+}

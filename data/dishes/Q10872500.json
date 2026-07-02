@@ -1,0 +1,18 @@
+{
+  "id": "Q10872500",
+  "name": "cutlet",
+  "description": "meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cutlet-q10872500/cutlet-q10872500-1.jpg",
+    "images/cutlet-q10872500/cutlet-q10872500-2.jpg",
+    "images/cutlet-q10872500/cutlet-q10872500-3.jpg",
+    "images/cutlet-q10872500/cutlet-q10872500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10872500",
+    "themealdb": null
+  }
+}

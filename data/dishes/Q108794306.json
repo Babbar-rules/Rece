@@ -1,0 +1,18 @@
+{
+  "id": "Q108794306",
+  "name": "subuta",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/subuta-q108794306/subuta-q108794306-1.jpg",
+    "images/subuta-q108794306/subuta-q108794306-2.jpg",
+    "images/subuta-q108794306/subuta-q108794306-3.jpg",
+    "images/subuta-q108794306/subuta-q108794306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108794306",
+    "themealdb": null
+  }
+}

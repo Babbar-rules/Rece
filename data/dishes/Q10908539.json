@@ -1,0 +1,22 @@
+{
+  "id": "Q10908539",
+  "name": "gunkanmaki",
+  "description": "sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/gunkanmaki-q10908539/gunkanmaki-q10908539-1.jpeg",
+    "images/gunkanmaki-q10908539/gunkanmaki-q10908539-2.jpg",
+    "images/gunkanmaki-q10908539/gunkanmaki-q10908539-3.jpeg",
+    "images/gunkanmaki-q10908539/gunkanmaki-q10908539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10908539",
+    "themealdb": null
+  }
+}

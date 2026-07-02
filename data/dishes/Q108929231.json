@@ -1,0 +1,18 @@
+{
+  "id": "Q108929231",
+  "name": "Taochiao",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/taochiao-q108929231/taochiao-q108929231-1.jpg",
+    "images/taochiao-q108929231/taochiao-q108929231-2.jpg",
+    "images/taochiao-q108929231/taochiao-q108929231-3.jpg",
+    "images/taochiao-q108929231/taochiao-q108929231-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108929231",
+    "themealdb": null
+  }
+}

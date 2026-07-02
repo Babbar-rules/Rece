@@ -1,0 +1,18 @@
+{
+  "id": "Q108794171",
+  "name": "seonji-guk",
+  "description": "Korean blood stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seonji-guk-q108794171/seonji-guk-q108794171-1.jpg",
+    "images/seonji-guk-q108794171/seonji-guk-q108794171-2.jpg",
+    "images/seonji-guk-q108794171/seonji-guk-q108794171-3.jpg",
+    "images/seonji-guk-q108794171/seonji-guk-q108794171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108794171",
+    "themealdb": null
+  }
+}

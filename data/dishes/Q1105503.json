@@ -1,0 +1,21 @@
+{
+  "id": "Q1105503",
+  "name": "Coda alla vaccinara",
+  "description": "Italian stew using oxtail",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Roman cuisine",
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/coda-alla-vaccinara-q1105503/coda-alla-vaccinara-q1105503-1.jpg",
+    "images/coda-alla-vaccinara-q1105503/coda-alla-vaccinara-q1105503-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1105503",
+    "themealdb": null
+  }
+}

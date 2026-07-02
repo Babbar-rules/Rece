@@ -1,0 +1,20 @@
+{
+  "id": "Q109391479",
+  "name": "Turkish ring dessert",
+  "description": "Turkish dessert with sherbet",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turkish-ring-dessert-q109391479/turkish-ring-dessert-q109391479-1.jpg",
+    "images/turkish-ring-dessert-q109391479/turkish-ring-dessert-q109391479-2.jpg",
+    "images/turkish-ring-dessert-q109391479/turkish-ring-dessert-q109391479-3.jpg",
+    "images/turkish-ring-dessert-q109391479/turkish-ring-dessert-q109391479-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109391479",
+    "themealdb": null
+  }
+}

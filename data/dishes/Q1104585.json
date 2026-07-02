@@ -1,0 +1,22 @@
+{
+  "id": "Q1104585",
+  "name": "Cobb salad",
+  "description": "American garden salad",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/cobb-salad-q1104585/cobb-salad-q1104585-1.jpg",
+    "images/cobb-salad-q1104585/cobb-salad-q1104585-2.jpg",
+    "images/cobb-salad-q1104585/cobb-salad-q1104585-3.jpg",
+    "images/cobb-salad-q1104585/cobb-salad-q1104585-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1104585",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1101046",
+  "name": "Tyurya",
+  "description": "Russian cold soup",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/tyurya-q1101046/tyurya-q1101046-1.png",
+    "images/tyurya-q1101046/tyurya-q1101046-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1101046",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q110362900",
+  "name": "pihta",
+  "description": "sacramental flatbread in Mandaeism",
+  "nationality": [
+    "Iran",
+    "Iraq"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pihta-q110362900/pihta-q110362900-1.jpg",
+    "images/pihta-q110362900/pihta-q110362900-2.jpg",
+    "images/pihta-q110362900/pihta-q110362900-3.jpg",
+    "images/pihta-q110362900/pihta-q110362900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110362900",
+    "themealdb": null
+  }
+}

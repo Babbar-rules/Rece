@@ -1,0 +1,18 @@
+{
+  "id": "Q109569034",
+  "name": "kaeng ho",
+  "description": "Northern Thai curry dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaeng-ho-q109569034/kaeng-ho-q109569034-1.jpg",
+    "images/kaeng-ho-q109569034/kaeng-ho-q109569034-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109569034",
+    "themealdb": null
+  }
+}

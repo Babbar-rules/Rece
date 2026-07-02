@@ -1,0 +1,21 @@
+{
+  "id": "Q110122147",
+  "name": "boh puniaram",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/boh-puniaram-q110122147/boh-puniaram-q110122147-1.jpg",
+    "images/boh-puniaram-q110122147/boh-puniaram-q110122147-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110122147",
+    "themealdb": null
+  }
+}

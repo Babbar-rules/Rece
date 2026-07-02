@@ -1,0 +1,18 @@
+{
+  "id": "Q109361052",
+  "name": "hikizuri",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hikizuri-q109361052/hikizuri-q109361052-1.jpg",
+    "images/hikizuri-q109361052/hikizuri-q109361052-2.jpg",
+    "images/hikizuri-q109361052/hikizuri-q109361052-3.jpg",
+    "images/hikizuri-q109361052/hikizuri-q109361052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109361052",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q109361903",
+  "name": "deep-fried confection",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-confection-q109361903/deep-fried-confection-q109361903-1.jpg",
+    "images/deep-fried-confection-q109361903/deep-fried-confection-q109361903-2.jpg",
+    "images/deep-fried-confection-q109361903/deep-fried-confection-q109361903-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109361903",
+    "themealdb": null
+  }
+}

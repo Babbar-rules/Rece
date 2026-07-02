@@ -1,0 +1,18 @@
+{
+  "id": "Q109236402",
+  "name": "Batter bread",
+  "description": "Bread with a high liquid-to-flour ratio",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/batter-bread-q109236402/batter-bread-q109236402-1.jpg",
+    "images/batter-bread-q109236402/batter-bread-q109236402-2.jpg",
+    "images/batter-bread-q109236402/batter-bread-q109236402-3.jpg",
+    "images/batter-bread-q109236402/batter-bread-q109236402-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109236402",
+    "themealdb": null
+  }
+}

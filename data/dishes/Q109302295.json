@@ -1,0 +1,18 @@
+{
+  "id": "Q109302295",
+  "name": "shuwa",
+  "description": "Omani lamb, mutton or goat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shuwa-q109302295/shuwa-q109302295-1.jpg",
+    "images/shuwa-q109302295/shuwa-q109302295-2.jpg",
+    "images/shuwa-q109302295/shuwa-q109302295-3.jpg",
+    "images/shuwa-q109302295/shuwa-q109302295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109302295",
+    "themealdb": null
+  }
+}

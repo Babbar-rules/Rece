@@ -1,0 +1,18 @@
+{
+  "id": "Q109567454",
+  "name": "Cabana",
+  "description": "chocolate bar produced by Rowntree's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabana-q109567454/cabana-q109567454-1.jpg",
+    "images/cabana-q109567454/cabana-q109567454-2.jpg",
+    "images/cabana-q109567454/cabana-q109567454-3.jpg",
+    "images/cabana-q109567454/cabana-q109567454-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109567454",
+    "themealdb": null
+  }
+}

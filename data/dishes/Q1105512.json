@@ -1,0 +1,24 @@
+{
+  "id": "Q1105512",
+  "name": "Lula kebab",
+  "description": "type of kebab, made from minced meat",
+  "nationality": [
+    "Azerbaijan",
+    "Armenia",
+    "Middle East",
+    "Central Asia",
+    "South Caucasus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lula-kebab-q1105512/lula-kebab-q1105512-1.jpg",
+    "images/lula-kebab-q1105512/lula-kebab-q1105512-2.jpg",
+    "images/lula-kebab-q1105512/lula-kebab-q1105512-3.jpg",
+    "images/lula-kebab-q1105512/lula-kebab-q1105512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1105512",
+    "themealdb": null
+  }
+}

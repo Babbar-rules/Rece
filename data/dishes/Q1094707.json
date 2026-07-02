@@ -1,0 +1,20 @@
+{
+  "id": "Q1094707",
+  "name": "clafoutis",
+  "description": "crustless tart French dessert traditionally made with black cherries and batter",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/clafoutis-q1094707/clafoutis-q1094707-1.jpg",
+    "images/clafoutis-q1094707/clafoutis-q1094707-2.jpg",
+    "images/clafoutis-q1094707/clafoutis-q1094707-3.jpg",
+    "images/clafoutis-q1094707/clafoutis-q1094707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1094707",
+    "themealdb": null
+  }
+}

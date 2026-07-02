@@ -1,0 +1,18 @@
+{
+  "id": "Q110279244",
+  "name": "Chocolate Easter Bunny",
+  "description": "rabbit-shaped chocolate confectionery eaten at Easter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-easter-bunny-q110279244/chocolate-easter-bunny-q110279244-1.jpg",
+    "images/chocolate-easter-bunny-q110279244/chocolate-easter-bunny-q110279244-2.jpg",
+    "images/chocolate-easter-bunny-q110279244/chocolate-easter-bunny-q110279244-3.jpg",
+    "images/chocolate-easter-bunny-q110279244/chocolate-easter-bunny-q110279244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110279244",
+    "themealdb": null
+  }
+}

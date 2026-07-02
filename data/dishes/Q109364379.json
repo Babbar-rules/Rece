@@ -1,0 +1,17 @@
+{
+  "id": "Q109364379",
+  "name": "pork tamago onigiri",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-tamago-onigiri-q109364379/pork-tamago-onigiri-q109364379-1.jpg",
+    "images/pork-tamago-onigiri-q109364379/pork-tamago-onigiri-q109364379-2.jpg",
+    "images/pork-tamago-onigiri-q109364379/pork-tamago-onigiri-q109364379-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109364379",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q109532998",
+  "name": "Balık çorbası",
+  "description": "fish soup, Turkish style",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/balk-corbas-q109532998/balk-corbas-q109532998-1.jpg",
+    "images/balk-corbas-q109532998/balk-corbas-q109532998-2.jpg",
+    "images/balk-corbas-q109532998/balk-corbas-q109532998-3.jpg",
+    "images/balk-corbas-q109532998/balk-corbas-q109532998-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109532998",
+    "themealdb": null
+  }
+}

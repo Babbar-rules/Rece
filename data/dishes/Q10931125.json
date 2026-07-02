@@ -1,0 +1,21 @@
+{
+  "id": "Q10931125",
+  "name": "Empanadilla",
+  "description": "",
+  "nationality": [
+    "Peru",
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/empanadilla-q10931125/empanadilla-q10931125-1.jpg",
+    "images/empanadilla-q10931125/empanadilla-q10931125-2.jpg",
+    "images/empanadilla-q10931125/empanadilla-q10931125-3.jpg",
+    "images/empanadilla-q10931125/empanadilla-q10931125-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10931125",
+    "themealdb": null
+  }
+}

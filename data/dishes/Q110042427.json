@@ -1,0 +1,20 @@
+{
+  "id": "Q110042427",
+  "name": "Farinha Torrada",
+  "description": "Traditional candy from Sesimbra",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/farinha-torrada-q110042427/farinha-torrada-q110042427-1.jpg",
+    "images/farinha-torrada-q110042427/farinha-torrada-q110042427-2.jpg",
+    "images/farinha-torrada-q110042427/farinha-torrada-q110042427-3.jpg",
+    "images/farinha-torrada-q110042427/farinha-torrada-q110042427-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110042427",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q110263128",
+  "name": "Salmon carpaccio",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salmon-carpaccio-q110263128/salmon-carpaccio-q110263128-1.jpg",
+    "images/salmon-carpaccio-q110263128/salmon-carpaccio-q110263128-2.jpg",
+    "images/salmon-carpaccio-q110263128/salmon-carpaccio-q110263128-3.jpg",
+    "images/salmon-carpaccio-q110263128/salmon-carpaccio-q110263128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110263128",
+    "themealdb": null
+  }
+}

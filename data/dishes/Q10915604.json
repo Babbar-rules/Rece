@@ -1,0 +1,20 @@
+{
+  "id": "Q10915604",
+  "name": "Taiwanese beef noodles",
+  "description": "Taiwanese soup dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/taiwanese-beef-noodles-q10915604/taiwanese-beef-noodles-q10915604-1.jpg",
+    "images/taiwanese-beef-noodles-q10915604/taiwanese-beef-noodles-q10915604-2.jpg",
+    "images/taiwanese-beef-noodles-q10915604/taiwanese-beef-noodles-q10915604-3.jpg",
+    "images/taiwanese-beef-noodles-q10915604/taiwanese-beef-noodles-q10915604-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10915604",
+    "themealdb": null
+  }
+}

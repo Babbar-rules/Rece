@@ -1,0 +1,20 @@
+{
+  "id": "Q109591670",
+  "name": "Buttery Jack",
+  "description": "product at Jack in the Box",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buttery-jack-q109591670/buttery-jack-q109591670-1.jpg",
+    "images/buttery-jack-q109591670/buttery-jack-q109591670-2.jpg",
+    "images/buttery-jack-q109591670/buttery-jack-q109591670-3.jpg",
+    "images/buttery-jack-q109591670/buttery-jack-q109591670-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109591670",
+    "themealdb": null
+  }
+}

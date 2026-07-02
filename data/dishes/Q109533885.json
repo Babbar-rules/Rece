@@ -1,0 +1,16 @@
+{
+  "id": "Q109533885",
+  "name": "Sunsal-chikin",
+  "description": "Korean fried chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sunsal-chikin-q109533885/sunsal-chikin-q109533885-1.jpg",
+    "images/sunsal-chikin-q109533885/sunsal-chikin-q109533885-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109533885",
+    "themealdb": null
+  }
+}

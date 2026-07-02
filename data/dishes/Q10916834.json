@@ -1,0 +1,24 @@
+{
+  "id": "Q10916834",
+  "name": "walnut soup",
+  "description": "type of soup",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Mexican cuisine",
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/walnut-soup-q10916834/walnut-soup-q10916834-1.jpg",
+    "images/walnut-soup-q10916834/walnut-soup-q10916834-2.jpg",
+    "images/walnut-soup-q10916834/walnut-soup-q10916834-3.jpg",
+    "images/walnut-soup-q10916834/walnut-soup-q10916834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10916834",
+    "themealdb": null
+  }
+}

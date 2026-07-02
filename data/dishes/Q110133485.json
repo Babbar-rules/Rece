@@ -1,0 +1,22 @@
+{
+  "id": "Q110133485",
+  "name": "soto medan",
+  "description": "traditional soup from medan",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-medan-q110133485/soto-medan-q110133485-1.jpg",
+    "images/soto-medan-q110133485/soto-medan-q110133485-2.jpg",
+    "images/soto-medan-q110133485/soto-medan-q110133485-3.jpg",
+    "images/soto-medan-q110133485/soto-medan-q110133485-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110133485",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q109313007",
+  "name": "lumache",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lumache-q109313007/lumache-q109313007-1.jpg",
+    "images/lumache-q109313007/lumache-q109313007-2.jpg",
+    "images/lumache-q109313007/lumache-q109313007-3.jpg",
+    "images/lumache-q109313007/lumache-q109313007-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109313007",
+    "themealdb": null
+  }
+}

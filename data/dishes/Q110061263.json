@@ -1,0 +1,20 @@
+{
+  "id": "Q110061263",
+  "name": "Pizza Poro",
+  "description": "pizza made from smoked reindeer, tomato sauce, cheese, chanterelle mushrooms and red onion",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-poro-q110061263/pizza-poro-q110061263-1.jpg",
+    "images/pizza-poro-q110061263/pizza-poro-q110061263-2.jpg",
+    "images/pizza-poro-q110061263/pizza-poro-q110061263-3.jpg",
+    "images/pizza-poro-q110061263/pizza-poro-q110061263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110061263",
+    "themealdb": null
+  }
+}

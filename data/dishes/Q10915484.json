@@ -1,0 +1,20 @@
+{
+  "id": "Q10915484",
+  "name": "Taiwan ramen",
+  "description": "Japanese ramen dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taiwan-ramen-q10915484/taiwan-ramen-q10915484-1.jpg",
+    "images/taiwan-ramen-q10915484/taiwan-ramen-q10915484-2.jpg",
+    "images/taiwan-ramen-q10915484/taiwan-ramen-q10915484-3.jpg",
+    "images/taiwan-ramen-q10915484/taiwan-ramen-q10915484-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10915484",
+    "themealdb": null
+  }
+}

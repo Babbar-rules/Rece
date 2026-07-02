@@ -1,0 +1,68 @@
+{
+  "id": "Q1102230",
+  "name": "ukha",
+  "description": "fish soup",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Seafood"
+  ],
+  "images": [
+    "images/ukha-q1102230/ukha-q1102230-1.jpg",
+    "images/ukha-q1102230/ukha-q1102230-2.jpg",
+    "images/ukha-q1102230/ukha-q1102230-3.png",
+    "images/ukha-q1102230/ukha-q1102230-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53079",
+    "category": "Seafood",
+    "area": "Russian",
+    "instructions": "In a medium pot, heat the olive oil over medium-high heat. Add the onions and cook, stirring occasionally until the onions start to caramelize. Add the carrots and cook until the carrots start to soften, about 4 more minutes.\r\nAdd the stock, water, potatoes, bay leaves, and black peppercorns. Season with salt and bring to a boil. Reduce heat, cover and cook for 10 minutes. Add the millet and cook for 15 more minutes until millet and potatoes are cooked.\r\nGently add the fish cubes. Stir and bring the soup to a simmer. The fish will cook through very fast, so make sure to not overcook them. They are done when the flesh is opaque and flakes easily.\r\nGarnish the soup with chopped fresh dill or parsley before serving.",
+    "ingredients": [
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "2 medium"
+      },
+      {
+        "ingredient": "Fish Stock",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "4 large"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Cod",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Salmon",
+        "measure": "1"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=cS3Yn-y5uVg",
+    "thumb": "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1102230",
+    "themealdb": "53079"
+  }
+}

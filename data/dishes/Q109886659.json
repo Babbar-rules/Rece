@@ -1,0 +1,18 @@
+{
+  "id": "Q109886659",
+  "name": "popping candy",
+  "description": "hard fizzy candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/popping-candy-q109886659/popping-candy-q109886659-1.jpg",
+    "images/popping-candy-q109886659/popping-candy-q109886659-2.jpg",
+    "images/popping-candy-q109886659/popping-candy-q109886659-3.jpg",
+    "images/popping-candy-q109886659/popping-candy-q109886659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109886659",
+    "themealdb": null
+  }
+}

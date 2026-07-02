@@ -1,0 +1,18 @@
+{
+  "id": "Q109325895",
+  "name": "tahini halva",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tahini-halva-q109325895/tahini-halva-q109325895-1.jpg",
+    "images/tahini-halva-q109325895/tahini-halva-q109325895-2.jpg",
+    "images/tahini-halva-q109325895/tahini-halva-q109325895-3.jpg",
+    "images/tahini-halva-q109325895/tahini-halva-q109325895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109325895",
+    "themealdb": null
+  }
+}

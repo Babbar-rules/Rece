@@ -1,0 +1,20 @@
+{
+  "id": "Q1090081",
+  "name": "Khuushuur",
+  "description": "Mongolian food",
+  "nationality": [
+    "Mongolia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khuushuur-q1090081/khuushuur-q1090081-1.jpg",
+    "images/khuushuur-q1090081/khuushuur-q1090081-2.jpg",
+    "images/khuushuur-q1090081/khuushuur-q1090081-3.jpg",
+    "images/khuushuur-q1090081/khuushuur-q1090081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1090081",
+    "themealdb": null
+  }
+}

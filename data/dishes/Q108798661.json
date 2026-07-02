@@ -1,0 +1,20 @@
+{
+  "id": "Q108798661",
+  "name": "Southern fried chicken",
+  "description": "fried chicken dish from the Southern United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/southern-fried-chicken-q108798661/southern-fried-chicken-q108798661-1.jpg",
+    "images/southern-fried-chicken-q108798661/southern-fried-chicken-q108798661-2.jpg",
+    "images/southern-fried-chicken-q108798661/southern-fried-chicken-q108798661-3.jpg",
+    "images/southern-fried-chicken-q108798661/southern-fried-chicken-q108798661-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108798661",
+    "themealdb": null
+  }
+}

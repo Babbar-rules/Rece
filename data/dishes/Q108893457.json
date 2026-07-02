@@ -1,0 +1,20 @@
+{
+  "id": "Q108893457",
+  "name": "crab bisque",
+  "description": "dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-bisque-q108893457/crab-bisque-q108893457-1.jpg",
+    "images/crab-bisque-q108893457/crab-bisque-q108893457-2.jpg",
+    "images/crab-bisque-q108893457/crab-bisque-q108893457-3.jpg",
+    "images/crab-bisque-q108893457/crab-bisque-q108893457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108893457",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q109591575",
+  "name": "Big Buford",
+  "description": "hamburger at Checkers",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/big-buford-q109591575/big-buford-q109591575-1.jpg",
+    "images/big-buford-q109591575/big-buford-q109591575-2.jpg",
+    "images/big-buford-q109591575/big-buford-q109591575-3.jpg",
+    "images/big-buford-q109591575/big-buford-q109591575-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109591575",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q10978475",
+  "name": "Pekasam",
+  "description": "Malay fermented food originating from Perak and Kedah",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pekasam-q10978475/pekasam-q10978475-1.jpg",
+    "images/pekasam-q10978475/pekasam-q10978475-2.jpg",
+    "images/pekasam-q10978475/pekasam-q10978475-3.jpg",
+    "images/pekasam-q10978475/pekasam-q10978475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10978475",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q110117776",
+  "name": "changnanjeot",
+  "description": "Korean dish of spicy salted pollock innards",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/changnanjeot-q110117776/changnanjeot-q110117776-1.jpg",
+    "images/changnanjeot-q110117776/changnanjeot-q110117776-2.jpg",
+    "images/changnanjeot-q110117776/changnanjeot-q110117776-3.jpg",
+    "images/changnanjeot-q110117776/changnanjeot-q110117776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110117776",
+    "themealdb": null
+  }
+}

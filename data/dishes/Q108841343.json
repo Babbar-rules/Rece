@@ -1,0 +1,18 @@
+{
+  "id": "Q108841343",
+  "name": "K-brot",
+  "description": "German potato and rye wartime bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/k-brot-q108841343/k-brot-q108841343-1.jpg",
+    "images/k-brot-q108841343/k-brot-q108841343-2.jpg",
+    "images/k-brot-q108841343/k-brot-q108841343-3.jpg",
+    "images/k-brot-q108841343/k-brot-q108841343-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108841343",
+    "themealdb": null
+  }
+}

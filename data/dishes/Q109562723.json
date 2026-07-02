@@ -1,0 +1,20 @@
+{
+  "id": "Q109562723",
+  "name": "Mr. Whippy",
+  "description": "brand of soft-mix ice cream in the UK",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mr-whippy-q109562723/mr-whippy-q109562723-1.jpg",
+    "images/mr-whippy-q109562723/mr-whippy-q109562723-2.jpg",
+    "images/mr-whippy-q109562723/mr-whippy-q109562723-3.jpg",
+    "images/mr-whippy-q109562723/mr-whippy-q109562723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109562723",
+    "themealdb": null
+  }
+}

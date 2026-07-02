@@ -1,0 +1,18 @@
+{
+  "id": "Q10946121",
+  "name": "Tasimi",
+  "description": "Chinese lamb dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tasimi-q10946121/tasimi-q10946121-1.jpg",
+    "images/tasimi-q10946121/tasimi-q10946121-2.png",
+    "images/tasimi-q10946121/tasimi-q10946121-3.jpg",
+    "images/tasimi-q10946121/tasimi-q10946121-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10946121",
+    "themealdb": null
+  }
+}

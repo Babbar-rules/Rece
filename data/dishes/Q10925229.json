@@ -1,0 +1,18 @@
+{
+  "id": "Q10925229",
+  "name": "Four Herbs Soup",
+  "description": "Chinese soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/four-herbs-soup-q10925229/four-herbs-soup-q10925229-1.jpg",
+    "images/four-herbs-soup-q10925229/four-herbs-soup-q10925229-2.jpg",
+    "images/four-herbs-soup-q10925229/four-herbs-soup-q10925229-3.jpg",
+    "images/four-herbs-soup-q10925229/four-herbs-soup-q10925229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10925229",
+    "themealdb": null
+  }
+}

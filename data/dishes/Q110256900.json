@@ -1,0 +1,18 @@
+{
+  "id": "Q110256900",
+  "name": "Kouraikei Ramen",
+  "description": "Japanese noodle soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kouraikei-ramen-q110256900/kouraikei-ramen-q110256900-1.jpg",
+    "images/kouraikei-ramen-q110256900/kouraikei-ramen-q110256900-2.jpg",
+    "images/kouraikei-ramen-q110256900/kouraikei-ramen-q110256900-3.jpg",
+    "images/kouraikei-ramen-q110256900/kouraikei-ramen-q110256900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110256900",
+    "themealdb": null
+  }
+}

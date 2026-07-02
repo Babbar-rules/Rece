@@ -1,0 +1,20 @@
+{
+  "id": "Q1091253",
+  "name": "nikuman",
+  "description": "Japanese dish of dumplings stuffed with meat, derived from the Chinese baozi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nikuman-q1091253/nikuman-q1091253-1.jpg",
+    "images/nikuman-q1091253/nikuman-q1091253-2.jpg",
+    "images/nikuman-q1091253/nikuman-q1091253-3.jpg",
+    "images/nikuman-q1091253/nikuman-q1091253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1091253",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1105083",
+  "name": "caramel apple",
+  "description": "apple covered with layer of caramel",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/caramel-apple-q1105083/caramel-apple-q1105083-1.jpg",
+    "images/caramel-apple-q1105083/caramel-apple-q1105083-2.jpg",
+    "images/caramel-apple-q1105083/caramel-apple-q1105083-3.jpg",
+    "images/caramel-apple-q1105083/caramel-apple-q1105083-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1105083",
+    "themealdb": null
+  }
+}

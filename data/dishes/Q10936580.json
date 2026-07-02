@@ -1,0 +1,22 @@
+{
+  "id": "Q10936580",
+  "name": "Tāi-khe tāu-koa",
+  "description": "",
+  "nationality": [
+    "Daxi District"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/tai-khe-tau-koa-q10936580/tai-khe-tau-koa-q10936580-1.jpg",
+    "images/tai-khe-tau-koa-q10936580/tai-khe-tau-koa-q10936580-2.jpg",
+    "images/tai-khe-tau-koa-q10936580/tai-khe-tau-koa-q10936580-3.jpg",
+    "images/tai-khe-tau-koa-q10936580/tai-khe-tau-koa-q10936580-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10936580",
+    "themealdb": null
+  }
+}

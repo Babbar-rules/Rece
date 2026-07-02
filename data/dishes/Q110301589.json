@@ -1,0 +1,21 @@
+{
+  "id": "Q110301589",
+  "name": "Kepta duona",
+  "description": "Lithuanian, latvian garlic bread chips",
+  "nationality": [
+    "Lithuania",
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kepta-duona-q110301589/kepta-duona-q110301589-1.jpg",
+    "images/kepta-duona-q110301589/kepta-duona-q110301589-2.jpg",
+    "images/kepta-duona-q110301589/kepta-duona-q110301589-3.jpg",
+    "images/kepta-duona-q110301589/kepta-duona-q110301589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110301589",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10989778",
+  "name": "bacalhau",
+  "description": "dish, also the name for dried salted cod in Portuguese cuisine",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalhau-q10989778/bacalhau-q10989778-1.jpg",
+    "images/bacalhau-q10989778/bacalhau-q10989778-2.jpg",
+    "images/bacalhau-q10989778/bacalhau-q10989778-3.jpg",
+    "images/bacalhau-q10989778/bacalhau-q10989778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10989778",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q109827446",
+  "name": "bannock",
+  "description": "indigenous North American bread",
+  "nationality": [],
+  "region_cuisine": [
+    "indigenous cuisine of the Americas"
+  ],
+  "images": [
+    "images/bannock-q109827446/bannock-q109827446-1.jpg",
+    "images/bannock-q109827446/bannock-q109827446-2.jpg",
+    "images/bannock-q109827446/bannock-q109827446-3.jpg",
+    "images/bannock-q109827446/bannock-q109827446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109827446",
+    "themealdb": null
+  }
+}

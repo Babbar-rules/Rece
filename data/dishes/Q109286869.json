@@ -1,0 +1,18 @@
+{
+  "id": "Q109286869",
+  "name": "radish kimchi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/radish-kimchi-q109286869/radish-kimchi-q109286869-1.jpg",
+    "images/radish-kimchi-q109286869/radish-kimchi-q109286869-2.jpg",
+    "images/radish-kimchi-q109286869/radish-kimchi-q109286869-3.jpg",
+    "images/radish-kimchi-q109286869/radish-kimchi-q109286869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109286869",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q109591500",
+  "name": "A1 Ultimate Cheeseburger",
+  "description": "hamburger at Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/a1-ultimate-cheeseburger-q109591500/a1-ultimate-cheeseburger-q109591500-1.jpg",
+    "images/a1-ultimate-cheeseburger-q109591500/a1-ultimate-cheeseburger-q109591500-2.jpg",
+    "images/a1-ultimate-cheeseburger-q109591500/a1-ultimate-cheeseburger-q109591500-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109591500",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q109346137",
+  "name": "Mala crawfish",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mala-crawfish-q109346137/mala-crawfish-q109346137-1.jpg",
+    "images/mala-crawfish-q109346137/mala-crawfish-q109346137-2.jpg",
+    "images/mala-crawfish-q109346137/mala-crawfish-q109346137-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109346137",
+    "themealdb": null
+  }
+}

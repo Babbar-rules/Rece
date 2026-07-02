@@ -1,0 +1,20 @@
+{
+  "id": "Q109602739",
+  "name": "isobeage",
+  "description": "tempura with seaweed batter",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/isobeage-q109602739/isobeage-q109602739-1.jpg",
+    "images/isobeage-q109602739/isobeage-q109602739-2.jpg",
+    "images/isobeage-q109602739/isobeage-q109602739-3.jpg",
+    "images/isobeage-q109602739/isobeage-q109602739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109602739",
+    "themealdb": null
+  }
+}

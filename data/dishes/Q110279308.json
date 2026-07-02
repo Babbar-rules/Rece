@@ -1,0 +1,18 @@
+{
+  "id": "Q110279308",
+  "name": "chocolate Saint Nicholas",
+  "description": "chocolate confectionery in the shape of Saint Nicholas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-saint-nicholas-q110279308/chocolate-saint-nicholas-q110279308-1.jpg",
+    "images/chocolate-saint-nicholas-q110279308/chocolate-saint-nicholas-q110279308-2.jpg",
+    "images/chocolate-saint-nicholas-q110279308/chocolate-saint-nicholas-q110279308-3.jpg",
+    "images/chocolate-saint-nicholas-q110279308/chocolate-saint-nicholas-q110279308-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110279308",
+    "themealdb": null
+  }
+}

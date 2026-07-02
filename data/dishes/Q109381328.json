@@ -1,0 +1,18 @@
+{
+  "id": "Q109381328",
+  "name": "lamb burger",
+  "description": "dish made with lamb",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamb-burger-q109381328/lamb-burger-q109381328-1.jpg",
+    "images/lamb-burger-q109381328/lamb-burger-q109381328-2.jpg",
+    "images/lamb-burger-q109381328/lamb-burger-q109381328-3.jpg",
+    "images/lamb-burger-q109381328/lamb-burger-q109381328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109381328",
+    "themealdb": null
+  }
+}

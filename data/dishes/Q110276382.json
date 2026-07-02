@@ -1,0 +1,18 @@
+{
+  "id": "Q110276382",
+  "name": "Street food in Nigeria",
+  "description": "traditional cuisine of Nigeria",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/street-food-in-nigeria-q110276382/street-food-in-nigeria-q110276382-1.jpg",
+    "images/street-food-in-nigeria-q110276382/street-food-in-nigeria-q110276382-2.jpg",
+    "images/street-food-in-nigeria-q110276382/street-food-in-nigeria-q110276382-3.jpg",
+    "images/street-food-in-nigeria-q110276382/street-food-in-nigeria-q110276382-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110276382",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1087577",
+  "name": "sakuramochi",
+  "description": "mochi made with sakura",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sakuramochi-q1087577/sakuramochi-q1087577-1.jpg",
+    "images/sakuramochi-q1087577/sakuramochi-q1087577-2.jpg",
+    "images/sakuramochi-q1087577/sakuramochi-q1087577-3.jpg",
+    "images/sakuramochi-q1087577/sakuramochi-q1087577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1087577",
+    "themealdb": null
+  }
+}

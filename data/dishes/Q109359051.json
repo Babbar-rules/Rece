@@ -1,0 +1,18 @@
+{
+  "id": "Q109359051",
+  "name": "Seri-nabe",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seri-nabe-q109359051/seri-nabe-q109359051-1.jpg",
+    "images/seri-nabe-q109359051/seri-nabe-q109359051-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109359051",
+    "themealdb": null
+  }
+}

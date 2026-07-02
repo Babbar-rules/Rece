@@ -1,0 +1,24 @@
+{
+  "id": "Q109558070",
+  "name": "croffle",
+  "description": "croissant dough cooked on a waffle pan",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine",
+    "Irish cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/croffle-q109558070/croffle-q109558070-1.jpg",
+    "images/croffle-q109558070/croffle-q109558070-2.jpg",
+    "images/croffle-q109558070/croffle-q109558070-3.jpg",
+    "images/croffle-q109558070/croffle-q109558070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109558070",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10899266",
+  "name": "gua-bao",
+  "description": "a flat folded steamed bun sandwiching various meats in Fujian cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gua-bao-q10899266/gua-bao-q10899266-1.jpg",
+    "images/gua-bao-q10899266/gua-bao-q10899266-2.jpg",
+    "images/gua-bao-q10899266/gua-bao-q10899266-3.jpeg",
+    "images/gua-bao-q10899266/gua-bao-q10899266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10899266",
+    "themealdb": null
+  }
+}

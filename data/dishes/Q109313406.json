@@ -1,0 +1,18 @@
+{
+  "id": "Q109313406",
+  "name": "Creste di gallo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creste-di-gallo-q109313406/creste-di-gallo-q109313406-1.jpg",
+    "images/creste-di-gallo-q109313406/creste-di-gallo-q109313406-2.jpg",
+    "images/creste-di-gallo-q109313406/creste-di-gallo-q109313406-3.jpg",
+    "images/creste-di-gallo-q109313406/creste-di-gallo-q109313406-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109313406",
+    "themealdb": null
+  }
+}

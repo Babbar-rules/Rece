@@ -1,0 +1,18 @@
+{
+  "id": "Q109438515",
+  "name": "sambal salabance",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sambal-salabance-q109438515/sambal-salabance-q109438515-1.jpg",
+    "images/sambal-salabance-q109438515/sambal-salabance-q109438515-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109438515",
+    "themealdb": null
+  }
+}

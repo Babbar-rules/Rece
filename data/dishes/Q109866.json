@@ -1,0 +1,19 @@
+{
+  "id": "Q109866",
+  "name": "gyūhi",
+  "description": "Traditional Japanese sweet",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyuhi-q109866/gyuhi-q109866-1.jpg",
+    "images/gyuhi-q109866/gyuhi-q109866-2.jpg",
+    "images/gyuhi-q109866/gyuhi-q109866-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109866",
+    "themealdb": null
+  }
+}

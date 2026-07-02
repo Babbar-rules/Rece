@@ -1,0 +1,22 @@
+{
+  "id": "Q11045882",
+  "name": "seruit",
+  "description": "Indonesian traditional fish cuisine from Lampung",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/seruit-q11045882/seruit-q11045882-1.jpg",
+    "images/seruit-q11045882/seruit-q11045882-2.jpg",
+    "images/seruit-q11045882/seruit-q11045882-3.jpg",
+    "images/seruit-q11045882/seruit-q11045882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11045882",
+    "themealdb": null
+  }
+}

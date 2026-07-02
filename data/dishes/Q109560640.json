@@ -1,0 +1,18 @@
+{
+  "id": "Q109560640",
+  "name": "dump cake",
+  "description": "American dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dump-cake-q109560640/dump-cake-q109560640-1.jpg",
+    "images/dump-cake-q109560640/dump-cake-q109560640-2.jpg",
+    "images/dump-cake-q109560640/dump-cake-q109560640-3.jpg",
+    "images/dump-cake-q109560640/dump-cake-q109560640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109560640",
+    "themealdb": null
+  }
+}

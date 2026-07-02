@@ -1,0 +1,20 @@
+{
+  "id": "Q108770407",
+  "name": "Lalanga",
+  "description": "Greek and Turkish cuisine",
+  "nationality": [
+    "Byzantine Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lalanga-q108770407/lalanga-q108770407-1.jpg",
+    "images/lalanga-q108770407/lalanga-q108770407-2.jpg",
+    "images/lalanga-q108770407/lalanga-q108770407-3.jpg",
+    "images/lalanga-q108770407/lalanga-q108770407-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108770407",
+    "themealdb": null
+  }
+}

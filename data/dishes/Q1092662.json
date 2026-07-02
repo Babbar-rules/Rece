@@ -1,0 +1,20 @@
+{
+  "id": "Q1092662",
+  "name": "ciorbă de perișoare",
+  "description": "Romanian soup prepared with minced meat dumplings",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciorba-de-perisoare-q1092662/ciorba-de-perisoare-q1092662-1.jpg",
+    "images/ciorba-de-perisoare-q1092662/ciorba-de-perisoare-q1092662-2.jpg",
+    "images/ciorba-de-perisoare-q1092662/ciorba-de-perisoare-q1092662-3.jpg",
+    "images/ciorba-de-perisoare-q1092662/ciorba-de-perisoare-q1092662-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1092662",
+    "themealdb": null
+  }
+}

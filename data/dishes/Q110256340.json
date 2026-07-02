@@ -1,0 +1,18 @@
+{
+  "id": "Q110256340",
+  "name": "chocolate Santa Claus",
+  "description": "chocolate confectionery in the shape of Santa Claus",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-santa-claus-q110256340/chocolate-santa-claus-q110256340-1.jpg",
+    "images/chocolate-santa-claus-q110256340/chocolate-santa-claus-q110256340-2.jpg",
+    "images/chocolate-santa-claus-q110256340/chocolate-santa-claus-q110256340-3.jpg",
+    "images/chocolate-santa-claus-q110256340/chocolate-santa-claus-q110256340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110256340",
+    "themealdb": null
+  }
+}

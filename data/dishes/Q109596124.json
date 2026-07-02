@@ -1,0 +1,18 @@
+{
+  "id": "Q109596124",
+  "name": "Taiwan donut",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/taiwan-donut-q109596124/taiwan-donut-q109596124-1.jpg",
+    "images/taiwan-donut-q109596124/taiwan-donut-q109596124-2.jpg",
+    "images/taiwan-donut-q109596124/taiwan-donut-q109596124-3.jpg",
+    "images/taiwan-donut-q109596124/taiwan-donut-q109596124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109596124",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q109615251",
+  "name": "roast beef",
+  "description": "various kinds of roasted beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roast-beef-q109615251/roast-beef-q109615251-1.jpg",
+    "images/roast-beef-q109615251/roast-beef-q109615251-2.jpg",
+    "images/roast-beef-q109615251/roast-beef-q109615251-3.jpg",
+    "images/roast-beef-q109615251/roast-beef-q109615251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109615251",
+    "themealdb": null
+  }
+}

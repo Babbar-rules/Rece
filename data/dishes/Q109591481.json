@@ -1,0 +1,20 @@
+{
+  "id": "Q109591481",
+  "name": "Buck Double",
+  "description": "hamburger at Burger King",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buck-double-q109591481/buck-double-q109591481-1.jpg",
+    "images/buck-double-q109591481/buck-double-q109591481-2.jpg",
+    "images/buck-double-q109591481/buck-double-q109591481-3.jpg",
+    "images/buck-double-q109591481/buck-double-q109591481-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109591481",
+    "themealdb": null
+  }
+}

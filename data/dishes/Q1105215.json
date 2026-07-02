@@ -1,0 +1,22 @@
+{
+  "id": "Q1105215",
+  "name": "Cocido madrileño",
+  "description": "food",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "cuisine of Madrid"
+  ],
+  "images": [
+    "images/cocido-madrileno-q1105215/cocido-madrileno-q1105215-1.jpg",
+    "images/cocido-madrileno-q1105215/cocido-madrileno-q1105215-2.jpg",
+    "images/cocido-madrileno-q1105215/cocido-madrileno-q1105215-3.jpg",
+    "images/cocido-madrileno-q1105215/cocido-madrileno-q1105215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1105215",
+    "themealdb": null
+  }
+}

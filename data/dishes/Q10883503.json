@@ -1,0 +1,18 @@
+{
+  "id": "Q10883503",
+  "name": "Ningyōyaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ningyoyaki-q10883503/ningyoyaki-q10883503-1.jpg",
+    "images/ningyoyaki-q10883503/ningyoyaki-q10883503-2.jpg",
+    "images/ningyoyaki-q10883503/ningyoyaki-q10883503-3.jpg",
+    "images/ningyoyaki-q10883503/ningyoyaki-q10883503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10883503",
+    "themealdb": null
+  }
+}

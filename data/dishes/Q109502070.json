@@ -1,0 +1,22 @@
+{
+  "id": "Q109502070",
+  "name": "Fruta de horno",
+  "description": "type of traditional Mexican cookie",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/fruta-de-horno-q109502070/fruta-de-horno-q109502070-1.jpg",
+    "images/fruta-de-horno-q109502070/fruta-de-horno-q109502070-2.jpg",
+    "images/fruta-de-horno-q109502070/fruta-de-horno-q109502070-3.jpg",
+    "images/fruta-de-horno-q109502070/fruta-de-horno-q109502070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109502070",
+    "themealdb": null
+  }
+}

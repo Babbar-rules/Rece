@@ -1,0 +1,18 @@
+{
+  "id": "Q109019732",
+  "name": "dholl puri",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dholl-puri-q109019732/dholl-puri-q109019732-1.jpg",
+    "images/dholl-puri-q109019732/dholl-puri-q109019732-2.jpg",
+    "images/dholl-puri-q109019732/dholl-puri-q109019732-3.jpg",
+    "images/dholl-puri-q109019732/dholl-puri-q109019732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109019732",
+    "themealdb": null
+  }
+}

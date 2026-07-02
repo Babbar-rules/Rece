@@ -1,0 +1,20 @@
+{
+  "id": "Q10898791",
+  "name": "steamed fish head with diced hot red peppers",
+  "description": "fish head dish originated from Hunan, China",
+  "nationality": [],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/steamed-fish-head-with-diced-hot-red-peppers-q10898791/steamed-fish-head-with-diced-hot-red-peppers-q10898791-1.jpg",
+    "images/steamed-fish-head-with-diced-hot-red-peppers-q10898791/steamed-fish-head-with-diced-hot-red-peppers-q10898791-2.jpg",
+    "images/steamed-fish-head-with-diced-hot-red-peppers-q10898791/steamed-fish-head-with-diced-hot-red-peppers-q10898791-3.jpg",
+    "images/steamed-fish-head-with-diced-hot-red-peppers-q10898791/steamed-fish-head-with-diced-hot-red-peppers-q10898791-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10898791",
+    "themealdb": null
+  }
+}

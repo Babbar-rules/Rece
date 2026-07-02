@@ -1,0 +1,22 @@
+{
+  "id": "Q10954885",
+  "name": "Dodol betawi",
+  "description": "Typical Food in Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/dodol-betawi-q10954885/dodol-betawi-q10954885-1.jpg",
+    "images/dodol-betawi-q10954885/dodol-betawi-q10954885-2.jpg",
+    "images/dodol-betawi-q10954885/dodol-betawi-q10954885-3.jpg",
+    "images/dodol-betawi-q10954885/dodol-betawi-q10954885-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10954885",
+    "themealdb": null
+  }
+}

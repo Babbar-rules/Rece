@@ -1,0 +1,16 @@
+{
+  "id": "Q108757735",
+  "name": "Biscoitos Duchen",
+  "description": "cookie brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/biscoitos-duchen-q108757735/biscoitos-duchen-q108757735-1.jpg",
+    "images/biscoitos-duchen-q108757735/biscoitos-duchen-q108757735-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108757735",
+    "themealdb": null
+  }
+}

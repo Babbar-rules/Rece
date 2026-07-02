@@ -1,0 +1,22 @@
+{
+  "id": "Q1093380",
+  "name": "club sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/club-sandwich-q1093380/club-sandwich-q1093380-1.jpg",
+    "images/club-sandwich-q1093380/club-sandwich-q1093380-2.jpg",
+    "images/club-sandwich-q1093380/club-sandwich-q1093380-3.jpg",
+    "images/club-sandwich-q1093380/club-sandwich-q1093380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1093380",
+    "themealdb": null
+  }
+}

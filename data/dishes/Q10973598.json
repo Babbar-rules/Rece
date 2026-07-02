@@ -1,0 +1,18 @@
+{
+  "id": "Q10973598",
+  "name": "hotch pot",
+  "description": "type of mutton soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hotch-pot-q10973598/hotch-pot-q10973598-1.jpg",
+    "images/hotch-pot-q10973598/hotch-pot-q10973598-2.jpg",
+    "images/hotch-pot-q10973598/hotch-pot-q10973598-3.jpg",
+    "images/hotch-pot-q10973598/hotch-pot-q10973598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10973598",
+    "themealdb": null
+  }
+}

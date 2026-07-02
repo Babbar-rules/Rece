@@ -1,0 +1,22 @@
+{
+  "id": "Q109439271",
+  "name": "pempek sambal",
+  "description": "traditional food from Palembang, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pempek-sambal-q109439271/pempek-sambal-q109439271-1.jpg",
+    "images/pempek-sambal-q109439271/pempek-sambal-q109439271-2.jpg",
+    "images/pempek-sambal-q109439271/pempek-sambal-q109439271-3.jpg",
+    "images/pempek-sambal-q109439271/pempek-sambal-q109439271-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109439271",
+    "themealdb": null
+  }
+}

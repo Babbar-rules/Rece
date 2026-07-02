@@ -1,0 +1,20 @@
+{
+  "id": "Q109668004",
+  "name": "Elena Ruz",
+  "description": "Cuban turkey sandwich with cream cheese and strawberry jam on medianoche bread",
+  "nationality": [
+    "Cuba"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/elena-ruz-q109668004/elena-ruz-q109668004-1.jpg",
+    "images/elena-ruz-q109668004/elena-ruz-q109668004-2.jpg",
+    "images/elena-ruz-q109668004/elena-ruz-q109668004-3.jpg",
+    "images/elena-ruz-q109668004/elena-ruz-q109668004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109668004",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q108839458",
+  "name": "crispy deep-fried mushroom",
+  "description": "Indonesian deep-fried battered mushroom",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crispy-deep-fried-mushroom-q108839458/crispy-deep-fried-mushroom-q108839458-1.jpg",
+    "images/crispy-deep-fried-mushroom-q108839458/crispy-deep-fried-mushroom-q108839458-2.jpg",
+    "images/crispy-deep-fried-mushroom-q108839458/crispy-deep-fried-mushroom-q108839458-3.jpg",
+    "images/crispy-deep-fried-mushroom-q108839458/crispy-deep-fried-mushroom-q108839458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108839458",
+    "themealdb": null
+  }
+}

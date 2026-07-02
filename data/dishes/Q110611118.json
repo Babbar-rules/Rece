@@ -1,0 +1,18 @@
+{
+  "id": "Q110611118",
+  "name": "white bread crust",
+  "description": "crust of a white bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-bread-crust-q110611118/white-bread-crust-q110611118-1.jpg",
+    "images/white-bread-crust-q110611118/white-bread-crust-q110611118-2.jpg",
+    "images/white-bread-crust-q110611118/white-bread-crust-q110611118-3.jpg",
+    "images/white-bread-crust-q110611118/white-bread-crust-q110611118-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110611118",
+    "themealdb": null
+  }
+}

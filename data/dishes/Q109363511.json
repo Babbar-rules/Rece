@@ -1,0 +1,22 @@
+{
+  "id": "Q109363511",
+  "name": "Jinju naengmyeon",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/jinju-naengmyeon-q109363511/jinju-naengmyeon-q109363511-1.jpg",
+    "images/jinju-naengmyeon-q109363511/jinju-naengmyeon-q109363511-2.jpg",
+    "images/jinju-naengmyeon-q109363511/jinju-naengmyeon-q109363511-3.jpg",
+    "images/jinju-naengmyeon-q109363511/jinju-naengmyeon-q109363511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109363511",
+    "themealdb": null
+  }
+}

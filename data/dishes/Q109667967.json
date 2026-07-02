@@ -1,0 +1,20 @@
+{
+  "id": "Q109667967",
+  "name": "medianoche",
+  "description": "type of bread in Cuban cuisine made of soft, sweet egg dough",
+  "nationality": [
+    "Cuba"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/medianoche-q109667967/medianoche-q109667967-1.jpg",
+    "images/medianoche-q109667967/medianoche-q109667967-2.jpg",
+    "images/medianoche-q109667967/medianoche-q109667967-3.jpg",
+    "images/medianoche-q109667967/medianoche-q109667967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109667967",
+    "themealdb": null
+  }
+}

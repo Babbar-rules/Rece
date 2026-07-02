@@ -1,0 +1,23 @@
+{
+  "id": "Q10971166",
+  "name": "timphan",
+  "description": "Indonesian steamed banana dumpling",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/timphan-q10971166/timphan-q10971166-1.jpg",
+    "images/timphan-q10971166/timphan-q10971166-2.jpg",
+    "images/timphan-q10971166/timphan-q10971166-3.jpg",
+    "images/timphan-q10971166/timphan-q10971166-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10971166",
+    "themealdb": null
+  }
+}

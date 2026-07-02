@@ -1,0 +1,18 @@
+{
+  "id": "Q110577413",
+  "name": "fatira",
+  "description": "small, round, saltless, half-baked biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fatira-q110577413/fatira-q110577413-1.jpg",
+    "images/fatira-q110577413/fatira-q110577413-2.jpg",
+    "images/fatira-q110577413/fatira-q110577413-3.jpg",
+    "images/fatira-q110577413/fatira-q110577413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110577413",
+    "themealdb": null
+  }
+}

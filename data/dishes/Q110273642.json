@@ -1,0 +1,18 @@
+{
+  "id": "Q110273642",
+  "name": "Shiromiso",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shiromiso-q110273642/shiromiso-q110273642-1.jpg",
+    "images/shiromiso-q110273642/shiromiso-q110273642-2.jpg",
+    "images/shiromiso-q110273642/shiromiso-q110273642-3.jpg",
+    "images/shiromiso-q110273642/shiromiso-q110273642-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110273642",
+    "themealdb": null
+  }
+}

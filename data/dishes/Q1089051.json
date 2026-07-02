@@ -1,0 +1,18 @@
+{
+  "id": "Q1089051",
+  "name": "tripe soup",
+  "description": "soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tripe-soup-q1089051/tripe-soup-q1089051-1.jpg",
+    "images/tripe-soup-q1089051/tripe-soup-q1089051-2.jpg",
+    "images/tripe-soup-q1089051/tripe-soup-q1089051-3.jpg",
+    "images/tripe-soup-q1089051/tripe-soup-q1089051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1089051",
+    "themealdb": null
+  }
+}

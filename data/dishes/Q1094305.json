@@ -1,0 +1,20 @@
+{
+  "id": "Q1094305",
+  "name": "Luther Burger",
+  "description": "hamburger or cheeseburger with one or more glazed doughnuts in place of the bun",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/luther-burger-q1094305/luther-burger-q1094305-1.jpg",
+    "images/luther-burger-q1094305/luther-burger-q1094305-2.jpg",
+    "images/luther-burger-q1094305/luther-burger-q1094305-3.jpg",
+    "images/luther-burger-q1094305/luther-burger-q1094305-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1094305",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1104577",
+  "name": "pepper steak",
+  "description": "pork dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pepper-steak-q1104577/pepper-steak-q1104577-1.jpg",
+    "images/pepper-steak-q1104577/pepper-steak-q1104577-2.jpg",
+    "images/pepper-steak-q1104577/pepper-steak-q1104577-3.jpg",
+    "images/pepper-steak-q1104577/pepper-steak-q1104577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1104577",
+    "themealdb": null
+  }
+}
