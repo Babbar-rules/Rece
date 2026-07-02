@@ -1,0 +1,18 @@
+{
+  "id": "Q127683948",
+  "name": "Sweet and Spicy",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-and-spicy-q127683948/sweet-and-spicy-q127683948-1.jpg",
+    "images/sweet-and-spicy-q127683948/sweet-and-spicy-q127683948-2.jpg",
+    "images/sweet-and-spicy-q127683948/sweet-and-spicy-q127683948-3.jpg",
+    "images/sweet-and-spicy-q127683948/sweet-and-spicy-q127683948-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683948",
+    "themealdb": null
+  }
+}

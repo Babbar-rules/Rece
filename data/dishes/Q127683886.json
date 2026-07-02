@@ -1,0 +1,18 @@
+{
+  "id": "Q127683886",
+  "name": "Lemon Meringue",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-meringue-q127683886/lemon-meringue-q127683886-1.jpg",
+    "images/lemon-meringue-q127683886/lemon-meringue-q127683886-2.jpg",
+    "images/lemon-meringue-q127683886/lemon-meringue-q127683886-3.jpg",
+    "images/lemon-meringue-q127683886/lemon-meringue-q127683886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683886",
+    "themealdb": null
+  }
+}

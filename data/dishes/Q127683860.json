@@ -1,0 +1,18 @@
+{
+  "id": "Q127683860",
+  "name": "Sunrise Sandwich",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sunrise-sandwich-q127683860/sunrise-sandwich-q127683860-1.jpg",
+    "images/sunrise-sandwich-q127683860/sunrise-sandwich-q127683860-2.jpg",
+    "images/sunrise-sandwich-q127683860/sunrise-sandwich-q127683860-3.jpg",
+    "images/sunrise-sandwich-q127683860/sunrise-sandwich-q127683860-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683860",
+    "themealdb": null
+  }
+}

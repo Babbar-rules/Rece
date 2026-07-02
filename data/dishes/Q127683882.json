@@ -1,0 +1,18 @@
+{
+  "id": "Q127683882",
+  "name": "French Silk",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/french-silk-q127683882/french-silk-q127683882-1.jpg",
+    "images/french-silk-q127683882/french-silk-q127683882-2.jpg",
+    "images/french-silk-q127683882/french-silk-q127683882-3.jpg",
+    "images/french-silk-q127683882/french-silk-q127683882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683882",
+    "themealdb": null
+  }
+}

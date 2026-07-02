@@ -1,0 +1,18 @@
+{
+  "id": "Q127683901",
+  "name": "Royal Anne",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/royal-anne-q127683901/royal-anne-q127683901-1.png",
+    "images/royal-anne-q127683901/royal-anne-q127683901-2.jpg",
+    "images/royal-anne-q127683901/royal-anne-q127683901-3.jpg",
+    "images/royal-anne-q127683901/royal-anne-q127683901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683901",
+    "themealdb": null
+  }
+}

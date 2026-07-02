@@ -1,0 +1,18 @@
+{
+  "id": "Q127683858",
+  "name": "Sour Salad",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sour-salad-q127683858/sour-salad-q127683858-1.jpg",
+    "images/sour-salad-q127683858/sour-salad-q127683858-2.jpg",
+    "images/sour-salad-q127683858/sour-salad-q127683858-3.jpg",
+    "images/sour-salad-q127683858/sour-salad-q127683858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683858",
+    "themealdb": null
+  }
+}

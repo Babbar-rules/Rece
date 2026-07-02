@@ -1,0 +1,18 @@
+{
+  "id": "Q127683875",
+  "name": "Cherry Cordial",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-cordial-q127683875/cherry-cordial-q127683875-1.jpg",
+    "images/cherry-cordial-q127683875/cherry-cordial-q127683875-2.jpg",
+    "images/cherry-cordial-q127683875/cherry-cordial-q127683875-3.jpg",
+    "images/cherry-cordial-q127683875/cherry-cordial-q127683875-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683875",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683961",
+  "name": "Lava Lobster",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lava-lobster-q127683961/lava-lobster-q127683961-1.jpg",
+    "images/lava-lobster-q127683961/lava-lobster-q127683961-2.jpg",
+    "images/lava-lobster-q127683961/lava-lobster-q127683961-3.jpg",
+    "images/lava-lobster-q127683961/lava-lobster-q127683961-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683961",
+    "themealdb": null
+  }
+}

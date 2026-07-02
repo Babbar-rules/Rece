@@ -1,0 +1,18 @@
+{
+  "id": "Q127683950",
+  "name": "Caterpillar Roll",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caterpillar-roll-q127683950/caterpillar-roll-q127683950-1.jpg",
+    "images/caterpillar-roll-q127683950/caterpillar-roll-q127683950-2.jpg",
+    "images/caterpillar-roll-q127683950/caterpillar-roll-q127683950-3.jpg",
+    "images/caterpillar-roll-q127683950/caterpillar-roll-q127683950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683950",
+    "themealdb": null
+  }
+}

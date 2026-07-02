@@ -1,0 +1,18 @@
+{
+  "id": "Q127683861",
+  "name": "Surf and Turf",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/surf-and-turf-q127683861/surf-and-turf-q127683861-1.jpg",
+    "images/surf-and-turf-q127683861/surf-and-turf-q127683861-2.jpg",
+    "images/surf-and-turf-q127683861/surf-and-turf-q127683861-3.jpg",
+    "images/surf-and-turf-q127683861/surf-and-turf-q127683861-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683861",
+    "themealdb": null
+  }
+}

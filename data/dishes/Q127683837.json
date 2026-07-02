@@ -1,0 +1,18 @@
+{
+  "id": "Q127683837",
+  "name": "Classic Cuban",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/classic-cuban-q127683837/classic-cuban-q127683837-1.jpg",
+    "images/classic-cuban-q127683837/classic-cuban-q127683837-2.jpg",
+    "images/classic-cuban-q127683837/classic-cuban-q127683837-3.jpg",
+    "images/classic-cuban-q127683837/classic-cuban-q127683837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683837",
+    "themealdb": null
+  }
+}

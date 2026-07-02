@@ -1,0 +1,16 @@
+{
+  "id": "Q127683843",
+  "name": "Grilled Cheesesteak",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-cheesesteak-q127683843/grilled-cheesesteak-q127683843-1.jpg",
+    "images/grilled-cheesesteak-q127683843/grilled-cheesesteak-q127683843-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683843",
+    "themealdb": null
+  }
+}

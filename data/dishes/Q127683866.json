@@ -1,0 +1,15 @@
+{
+  "id": "Q127683866",
+  "name": "Veggie Melt",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veggie-melt-q127683866/veggie-melt-q127683866-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683866",
+    "themealdb": null
+  }
+}

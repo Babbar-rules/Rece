@@ -1,0 +1,18 @@
+{
+  "id": "Q127683942",
+  "name": "Queso Caliente",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/queso-caliente-q127683942/queso-caliente-q127683942-1.jpg",
+    "images/queso-caliente-q127683942/queso-caliente-q127683942-2.jpg",
+    "images/queso-caliente-q127683942/queso-caliente-q127683942-3.jpg",
+    "images/queso-caliente-q127683942/queso-caliente-q127683942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683942",
+    "themealdb": null
+  }
+}

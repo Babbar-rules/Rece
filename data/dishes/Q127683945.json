@@ -1,0 +1,18 @@
+{
+  "id": "Q127683945",
+  "name": "Salsa Verde",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salsa-verde-q127683945/salsa-verde-q127683945-1.jpg",
+    "images/salsa-verde-q127683945/salsa-verde-q127683945-2.jpg",
+    "images/salsa-verde-q127683945/salsa-verde-q127683945-3.jpg",
+    "images/salsa-verde-q127683945/salsa-verde-q127683945-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683945",
+    "themealdb": null
+  }
+}

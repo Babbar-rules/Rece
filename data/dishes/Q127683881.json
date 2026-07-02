@@ -1,0 +1,18 @@
+{
+  "id": "Q127683881",
+  "name": "Fluffernutter",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fluffernutter-q127683881/fluffernutter-q127683881-1.jpg",
+    "images/fluffernutter-q127683881/fluffernutter-q127683881-2.jpg",
+    "images/fluffernutter-q127683881/fluffernutter-q127683881-3.jpg",
+    "images/fluffernutter-q127683881/fluffernutter-q127683881-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683881",
+    "themealdb": null
+  }
+}

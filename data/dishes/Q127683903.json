@@ -1,0 +1,18 @@
+{
+  "id": "Q127683903",
+  "name": "Shoofly Pie",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shoofly-pie-q127683903/shoofly-pie-q127683903-1.png",
+    "images/shoofly-pie-q127683903/shoofly-pie-q127683903-2.jpg",
+    "images/shoofly-pie-q127683903/shoofly-pie-q127683903-3.png",
+    "images/shoofly-pie-q127683903/shoofly-pie-q127683903-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683903",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683839",
+  "name": "Cordon Bleu",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cordon-bleu-q127683839/cordon-bleu-q127683839-1.jpg",
+    "images/cordon-bleu-q127683839/cordon-bleu-q127683839-2.jpg",
+    "images/cordon-bleu-q127683839/cordon-bleu-q127683839-3.png",
+    "images/cordon-bleu-q127683839/cordon-bleu-q127683839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683839",
+    "themealdb": null
+  }
+}

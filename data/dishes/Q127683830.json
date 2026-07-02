@@ -1,0 +1,17 @@
+{
+  "id": "Q127683830",
+  "name": "Beef Buster",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-buster-q127683830/beef-buster-q127683830-1.jpg",
+    "images/beef-buster-q127683830/beef-buster-q127683830-2.jpg",
+    "images/beef-buster-q127683830/beef-buster-q127683830-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683830",
+    "themealdb": null
+  }
+}

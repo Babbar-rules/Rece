@@ -1,0 +1,18 @@
+{
+  "id": "Q127683898",
+  "name": "Prune Creek",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prune-creek-q127683898/prune-creek-q127683898-1.jpg",
+    "images/prune-creek-q127683898/prune-creek-q127683898-2.jpg",
+    "images/prune-creek-q127683898/prune-creek-q127683898-3.jpg",
+    "images/prune-creek-q127683898/prune-creek-q127683898-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683898",
+    "themealdb": null
+  }
+}

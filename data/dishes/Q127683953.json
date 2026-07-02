@@ -1,0 +1,18 @@
+{
+  "id": "Q127683953",
+  "name": "Crunchy Crab",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crunchy-crab-q127683953/crunchy-crab-q127683953-1.jpg",
+    "images/crunchy-crab-q127683953/crunchy-crab-q127683953-2.jpg",
+    "images/crunchy-crab-q127683953/crunchy-crab-q127683953-3.jpg",
+    "images/crunchy-crab-q127683953/crunchy-crab-q127683953-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683953",
+    "themealdb": null
+  }
+}

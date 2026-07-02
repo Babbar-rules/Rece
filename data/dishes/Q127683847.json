@@ -1,0 +1,15 @@
+{
+  "id": "Q127683847",
+  "name": "Kickin' Chicken",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kickin-chicken-q127683847/kickin-chicken-q127683847-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683847",
+    "themealdb": null
+  }
+}

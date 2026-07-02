@@ -1,0 +1,16 @@
+{
+  "id": "Q127468020",
+  "name": "Campbell's Spaghetti",
+  "description": "American brand of canned spaghetti strands in tomato and cheese sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/campbells-spaghetti-q127468020/campbells-spaghetti-q127468020-1.jpg",
+    "images/campbells-spaghetti-q127468020/campbells-spaghetti-q127468020-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127468020",
+    "themealdb": null
+  }
+}

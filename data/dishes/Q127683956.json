@@ -1,0 +1,18 @@
+{
+  "id": "Q127683956",
+  "name": "Ginger Shrimp",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-shrimp-q127683956/ginger-shrimp-q127683956-1.jpg",
+    "images/ginger-shrimp-q127683956/ginger-shrimp-q127683956-2.jpg",
+    "images/ginger-shrimp-q127683956/ginger-shrimp-q127683956-3.jpg",
+    "images/ginger-shrimp-q127683956/ginger-shrimp-q127683956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683956",
+    "themealdb": null
+  }
+}

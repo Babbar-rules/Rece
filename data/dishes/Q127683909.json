@@ -1,0 +1,18 @@
+{
+  "id": "Q127683909",
+  "name": "Ancho Onion",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ancho-onion-q127683909/ancho-onion-q127683909-1.jpg",
+    "images/ancho-onion-q127683909/ancho-onion-q127683909-2.jpg",
+    "images/ancho-onion-q127683909/ancho-onion-q127683909-3.jpg",
+    "images/ancho-onion-q127683909/ancho-onion-q127683909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683909",
+    "themealdb": null
+  }
+}

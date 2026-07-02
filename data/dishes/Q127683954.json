@@ -1,0 +1,18 @@
+{
+  "id": "Q127683954",
+  "name": "Crunchy Roll",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crunchy-roll-q127683954/crunchy-roll-q127683954-1.jpg",
+    "images/crunchy-roll-q127683954/crunchy-roll-q127683954-2.jpg",
+    "images/crunchy-roll-q127683954/crunchy-roll-q127683954-3.jpg",
+    "images/crunchy-roll-q127683954/crunchy-roll-q127683954-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683954",
+    "themealdb": null
+  }
+}

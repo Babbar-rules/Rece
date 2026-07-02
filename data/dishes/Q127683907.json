@@ -1,0 +1,18 @@
+{
+  "id": "Q127683907",
+  "name": "Tiramisu",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tiramisu-q127683907/tiramisu-q127683907-1.jpg",
+    "images/tiramisu-q127683907/tiramisu-q127683907-2.jpg",
+    "images/tiramisu-q127683907/tiramisu-q127683907-3.jpg",
+    "images/tiramisu-q127683907/tiramisu-q127683907-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683907",
+    "themealdb": null
+  }
+}

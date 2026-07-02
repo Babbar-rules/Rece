@@ -1,0 +1,18 @@
+{
+  "id": "Q127683873",
+  "name": "Caramel Apple",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caramel-apple-q127683873/caramel-apple-q127683873-1.jpg",
+    "images/caramel-apple-q127683873/caramel-apple-q127683873-2.jpg",
+    "images/caramel-apple-q127683873/caramel-apple-q127683873-3.jpg",
+    "images/caramel-apple-q127683873/caramel-apple-q127683873-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683873",
+    "themealdb": null
+  }
+}

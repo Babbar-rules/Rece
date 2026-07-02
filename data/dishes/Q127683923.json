@@ -1,0 +1,18 @@
+{
+  "id": "Q127683923",
+  "name": "Cool and Creamy",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cool-and-creamy-q127683923/cool-and-creamy-q127683923-1.jpg",
+    "images/cool-and-creamy-q127683923/cool-and-creamy-q127683923-2.jpeg",
+    "images/cool-and-creamy-q127683923/cool-and-creamy-q127683923-3.jpeg",
+    "images/cool-and-creamy-q127683923/cool-and-creamy-q127683923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683923",
+    "themealdb": null
+  }
+}

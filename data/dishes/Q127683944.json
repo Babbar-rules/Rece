@@ -1,0 +1,15 @@
+{
+  "id": "Q127683944",
+  "name": "Rowdy Rice",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rowdy-rice-q127683944/rowdy-rice-q127683944-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683944",
+    "themealdb": null
+  }
+}

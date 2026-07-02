@@ -1,0 +1,18 @@
+{
+  "id": "Q127683908",
+  "name": "Wild Berry",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wild-berry-q127683908/wild-berry-q127683908-1.jpg",
+    "images/wild-berry-q127683908/wild-berry-q127683908-2.jpg",
+    "images/wild-berry-q127683908/wild-berry-q127683908-3.jpg",
+    "images/wild-berry-q127683908/wild-berry-q127683908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683908",
+    "themealdb": null
+  }
+}

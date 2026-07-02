@@ -1,0 +1,18 @@
+{
+  "id": "Q127683913",
+  "name": "Black n' Blue",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-n-blue-q127683913/black-n-blue-q127683913-1.jpg",
+    "images/black-n-blue-q127683913/black-n-blue-q127683913-2.jpg",
+    "images/black-n-blue-q127683913/black-n-blue-q127683913-3.jpg",
+    "images/black-n-blue-q127683913/black-n-blue-q127683913-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683913",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683916",
+  "name": "Carne Con Queso",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-con-queso-q127683916/carne-con-queso-q127683916-1.jpg",
+    "images/carne-con-queso-q127683916/carne-con-queso-q127683916-2.jpg",
+    "images/carne-con-queso-q127683916/carne-con-queso-q127683916-3.jpg",
+    "images/carne-con-queso-q127683916/carne-con-queso-q127683916-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683916",
+    "themealdb": null
+  }
+}

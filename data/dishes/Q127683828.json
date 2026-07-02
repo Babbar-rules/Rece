@@ -1,0 +1,18 @@
+{
+  "id": "Q127683828",
+  "name": "Awesome Onion",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/awesome-onion-q127683828/awesome-onion-q127683828-1.jpg",
+    "images/awesome-onion-q127683828/awesome-onion-q127683828-2.jpg",
+    "images/awesome-onion-q127683828/awesome-onion-q127683828-3.jpg",
+    "images/awesome-onion-q127683828/awesome-onion-q127683828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683828",
+    "themealdb": null
+  }
+}

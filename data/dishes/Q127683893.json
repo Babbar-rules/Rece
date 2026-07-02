@@ -1,0 +1,18 @@
+{
+  "id": "Q127683893",
+  "name": "Peach Cobbler",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peach-cobbler-q127683893/peach-cobbler-q127683893-1.jpg",
+    "images/peach-cobbler-q127683893/peach-cobbler-q127683893-2.jpg",
+    "images/peach-cobbler-q127683893/peach-cobbler-q127683893-3.jpg",
+    "images/peach-cobbler-q127683893/peach-cobbler-q127683893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683893",
+    "themealdb": null
+  }
+}

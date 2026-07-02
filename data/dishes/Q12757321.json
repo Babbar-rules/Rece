@@ -1,0 +1,18 @@
+{
+  "id": "Q12757321",
+  "name": "Plazma cake",
+  "description": "soft cake made with Plazma biscuits",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plazma-cake-q12757321/plazma-cake-q12757321-1.jpg",
+    "images/plazma-cake-q12757321/plazma-cake-q12757321-2.jpg",
+    "images/plazma-cake-q12757321/plazma-cake-q12757321-3.jpg",
+    "images/plazma-cake-q12757321/plazma-cake-q12757321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12757321",
+    "themealdb": null
+  }
+}

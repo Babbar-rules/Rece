@@ -1,0 +1,17 @@
+{
+  "id": "Q127683840",
+  "name": "Fiery Flatbread",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fiery-flatbread-q127683840/fiery-flatbread-q127683840-1.jpg",
+    "images/fiery-flatbread-q127683840/fiery-flatbread-q127683840-2.jpg",
+    "images/fiery-flatbread-q127683840/fiery-flatbread-q127683840-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683840",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q127683915",
+  "name": "Carnita Fajita",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carnita-fajita-q127683915/carnita-fajita-q127683915-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683915",
+    "themealdb": null
+  }
+}

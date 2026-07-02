@@ -1,0 +1,18 @@
+{
+  "id": "Q127683844",
+  "name": "Health Nut",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/health-nut-q127683844/health-nut-q127683844-1.jpg",
+    "images/health-nut-q127683844/health-nut-q127683844-2.jpg",
+    "images/health-nut-q127683844/health-nut-q127683844-3.jpg",
+    "images/health-nut-q127683844/health-nut-q127683844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683844",
+    "themealdb": null
+  }
+}

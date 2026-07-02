@@ -1,0 +1,17 @@
+{
+  "id": "Q12752003",
+  "name": "Zlatiborska pršuta",
+  "description": "Serbian smoked ham",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zlatiborska-prsuta-q12752003/zlatiborska-prsuta-q12752003-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12752003",
+    "themealdb": null
+  }
+}

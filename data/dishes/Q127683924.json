@@ -1,0 +1,18 @@
+{
+  "id": "Q127683924",
+  "name": "Cool Azul",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cool-azul-q127683924/cool-azul-q127683924-1.jpg",
+    "images/cool-azul-q127683924/cool-azul-q127683924-2.jpg",
+    "images/cool-azul-q127683924/cool-azul-q127683924-3.jpg",
+    "images/cool-azul-q127683924/cool-azul-q127683924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683924",
+    "themealdb": null
+  }
+}

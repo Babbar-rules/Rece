@@ -1,0 +1,18 @@
+{
+  "id": "Q127683962",
+  "name": "Momo Mango",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/momo-mango-q127683962/momo-mango-q127683962-1.jpg",
+    "images/momo-mango-q127683962/momo-mango-q127683962-2.jpg",
+    "images/momo-mango-q127683962/momo-mango-q127683962-3.jpg",
+    "images/momo-mango-q127683962/momo-mango-q127683962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683962",
+    "themealdb": null
+  }
+}

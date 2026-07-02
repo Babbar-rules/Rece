@@ -1,0 +1,18 @@
+{
+  "id": "Q127683883",
+  "name": "Graceland King",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/graceland-king-q127683883/graceland-king-q127683883-1.jpg",
+    "images/graceland-king-q127683883/graceland-king-q127683883-2.jpg",
+    "images/graceland-king-q127683883/graceland-king-q127683883-3.jpg",
+    "images/graceland-king-q127683883/graceland-king-q127683883-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683883",
+    "themealdb": null
+  }
+}

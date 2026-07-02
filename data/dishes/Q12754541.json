@@ -1,0 +1,18 @@
+{
+  "id": "Q12754541",
+  "name": "lenja pita",
+  "description": "Montenegrin and Serbian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lenja-pita-q12754541/lenja-pita-q12754541-1.jpg",
+    "images/lenja-pita-q12754541/lenja-pita-q12754541-2.jpg",
+    "images/lenja-pita-q12754541/lenja-pita-q12754541-3.jpg",
+    "images/lenja-pita-q12754541/lenja-pita-q12754541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12754541",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683880",
+  "name": "Derby Pie",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/derby-pie-q127683880/derby-pie-q127683880-1.jpg",
+    "images/derby-pie-q127683880/derby-pie-q127683880-2.jpg",
+    "images/derby-pie-q127683880/derby-pie-q127683880-3.jpg",
+    "images/derby-pie-q127683880/derby-pie-q127683880-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683880",
+    "themealdb": null
+  }
+}

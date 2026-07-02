@@ -1,0 +1,18 @@
+{
+  "id": "Q127683943",
+  "name": "Queso Chancho",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/queso-chancho-q127683943/queso-chancho-q127683943-1.jpg",
+    "images/queso-chancho-q127683943/queso-chancho-q127683943-2.jpg",
+    "images/queso-chancho-q127683943/queso-chancho-q127683943-3.jpg",
+    "images/queso-chancho-q127683943/queso-chancho-q127683943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683943",
+    "themealdb": null
+  }
+}

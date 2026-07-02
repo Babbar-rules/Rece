@@ -1,0 +1,18 @@
+{
+  "id": "Q127683884",
+  "name": "Granny Smith",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/granny-smith-q127683884/granny-smith-q127683884-1.jpg",
+    "images/granny-smith-q127683884/granny-smith-q127683884-2.jpg",
+    "images/granny-smith-q127683884/granny-smith-q127683884-3.jpg",
+    "images/granny-smith-q127683884/granny-smith-q127683884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683884",
+    "themealdb": null
+  }
+}

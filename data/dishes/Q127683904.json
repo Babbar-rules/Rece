@@ -1,0 +1,18 @@
+{
+  "id": "Q127683904",
+  "name": "Southern Pecan",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/southern-pecan-q127683904/southern-pecan-q127683904-1.jpg",
+    "images/southern-pecan-q127683904/southern-pecan-q127683904-2.jpg",
+    "images/southern-pecan-q127683904/southern-pecan-q127683904-3.jpg",
+    "images/southern-pecan-q127683904/southern-pecan-q127683904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683904",
+    "themealdb": null
+  }
+}

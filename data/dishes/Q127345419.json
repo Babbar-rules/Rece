@@ -1,0 +1,18 @@
+{
+  "id": "Q127345419",
+  "name": "AirHeads 5 Bars",
+  "description": "5-bar pack of AirHeads",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airheads-5-bars-q127345419/airheads-5-bars-q127345419-1.jpg",
+    "images/airheads-5-bars-q127345419/airheads-5-bars-q127345419-2.jpg",
+    "images/airheads-5-bars-q127345419/airheads-5-bars-q127345419-3.jpg",
+    "images/airheads-5-bars-q127345419/airheads-5-bars-q127345419-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127345419",
+    "themealdb": null
+  }
+}

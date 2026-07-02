@@ -1,0 +1,16 @@
+{
+  "id": "Q127683911",
+  "name": "Beefy Beans",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beefy-beans-q127683911/beefy-beans-q127683911-1.jpg",
+    "images/beefy-beans-q127683911/beefy-beans-q127683911-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683911",
+    "themealdb": null
+  }
+}

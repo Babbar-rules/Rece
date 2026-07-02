@@ -1,0 +1,18 @@
+{
+  "id": "Q127683946",
+  "name": "Smothered Chicken",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smothered-chicken-q127683946/smothered-chicken-q127683946-1.jpg",
+    "images/smothered-chicken-q127683946/smothered-chicken-q127683946-2.jpg",
+    "images/smothered-chicken-q127683946/smothered-chicken-q127683946-3.jpg",
+    "images/smothered-chicken-q127683946/smothered-chicken-q127683946-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683946",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q127513534",
+  "name": "Porridge beans",
+  "description": "Nigerians highly proteinous food",
+  "nationality": [
+    "Mesoamerica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/porridge-beans-q127513534/porridge-beans-q127513534-1.jpg",
+    "images/porridge-beans-q127513534/porridge-beans-q127513534-2.jpg",
+    "images/porridge-beans-q127513534/porridge-beans-q127513534-3.jpg",
+    "images/porridge-beans-q127513534/porridge-beans-q127513534-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127513534",
+    "themealdb": null
+  }
+}

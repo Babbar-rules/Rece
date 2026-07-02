@@ -1,0 +1,15 @@
+{
+  "id": "Q127598560",
+  "name": "Bunte Tüte",
+  "description": "Gummybear from Haribo",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bunte-tute-q127598560/bunte-tute-q127598560-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127598560",
+    "themealdb": null
+  }
+}

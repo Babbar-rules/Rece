@@ -1,0 +1,18 @@
+{
+  "id": "Q127683889",
+  "name": "Mississippi Mud",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mississippi-mud-q127683889/mississippi-mud-q127683889-1.png",
+    "images/mississippi-mud-q127683889/mississippi-mud-q127683889-2.jpg",
+    "images/mississippi-mud-q127683889/mississippi-mud-q127683889-3.jpg",
+    "images/mississippi-mud-q127683889/mississippi-mud-q127683889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683889",
+    "themealdb": null
+  }
+}

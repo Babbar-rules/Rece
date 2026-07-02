@@ -1,0 +1,18 @@
+{
+  "id": "Q127683851",
+  "name": "Pickled Peppers",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-peppers-q127683851/pickled-peppers-q127683851-1.jpg",
+    "images/pickled-peppers-q127683851/pickled-peppers-q127683851-2.jpg",
+    "images/pickled-peppers-q127683851/pickled-peppers-q127683851-3.jpg",
+    "images/pickled-peppers-q127683851/pickled-peppers-q127683851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683851",
+    "themealdb": null
+  }
+}

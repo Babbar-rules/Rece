@@ -1,0 +1,15 @@
+{
+  "id": "Q127683941",
+  "name": "Puerco Picante",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/puerco-picante-q127683941/puerco-picante-q127683941-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683941",
+    "themealdb": null
+  }
+}

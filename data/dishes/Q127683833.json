@@ -1,0 +1,18 @@
+{
+  "id": "Q127683833",
+  "name": "Butterbrezel",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/butterbrezel-q127683833/butterbrezel-q127683833-1.jpg",
+    "images/butterbrezel-q127683833/butterbrezel-q127683833-2.jpg",
+    "images/butterbrezel-q127683833/butterbrezel-q127683833-3.jpg",
+    "images/butterbrezel-q127683833/butterbrezel-q127683833-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683833",
+    "themealdb": null
+  }
+}

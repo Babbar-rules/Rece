@@ -1,0 +1,18 @@
+{
+  "id": "Q127683905",
+  "name": "Sugar Dragon",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugar-dragon-q127683905/sugar-dragon-q127683905-1.jpg",
+    "images/sugar-dragon-q127683905/sugar-dragon-q127683905-2.jpg",
+    "images/sugar-dragon-q127683905/sugar-dragon-q127683905-3.jpg",
+    "images/sugar-dragon-q127683905/sugar-dragon-q127683905-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683905",
+    "themealdb": null
+  }
+}

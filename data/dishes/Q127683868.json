@@ -1,0 +1,18 @@
+{
+  "id": "Q127683868",
+  "name": "Wild Western",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wild-western-q127683868/wild-western-q127683868-1.jpg",
+    "images/wild-western-q127683868/wild-western-q127683868-2.jpg",
+    "images/wild-western-q127683868/wild-western-q127683868-3.jpg",
+    "images/wild-western-q127683868/wild-western-q127683868-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683868",
+    "themealdb": null
+  }
+}

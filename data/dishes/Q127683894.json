@@ -1,0 +1,18 @@
+{
+  "id": "Q127683894",
+  "name": "Pineapple Upside Down",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-upside-down-q127683894/pineapple-upside-down-q127683894-1.jpg",
+    "images/pineapple-upside-down-q127683894/pineapple-upside-down-q127683894-2.jpg",
+    "images/pineapple-upside-down-q127683894/pineapple-upside-down-q127683894-3.jpg",
+    "images/pineapple-upside-down-q127683894/pineapple-upside-down-q127683894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683894",
+    "themealdb": null
+  }
+}

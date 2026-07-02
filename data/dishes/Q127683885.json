@@ -1,0 +1,18 @@
+{
+  "id": "Q127683885",
+  "name": "Kiwi Strawberry",
+  "description": "Papa's Bakeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kiwi-strawberry-q127683885/kiwi-strawberry-q127683885-1.jpg",
+    "images/kiwi-strawberry-q127683885/kiwi-strawberry-q127683885-2.jpg",
+    "images/kiwi-strawberry-q127683885/kiwi-strawberry-q127683885-3.jpg",
+    "images/kiwi-strawberry-q127683885/kiwi-strawberry-q127683885-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683885",
+    "themealdb": null
+  }
+}

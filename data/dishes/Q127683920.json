@@ -1,0 +1,18 @@
+{
+  "id": "Q127683920",
+  "name": "Cheesy Chicken",
+  "description": "Papa's Taco Mia! special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheesy-chicken-q127683920/cheesy-chicken-q127683920-1.jpg",
+    "images/cheesy-chicken-q127683920/cheesy-chicken-q127683920-2.jpg",
+    "images/cheesy-chicken-q127683920/cheesy-chicken-q127683920-3.jpg",
+    "images/cheesy-chicken-q127683920/cheesy-chicken-q127683920-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683920",
+    "themealdb": null
+  }
+}

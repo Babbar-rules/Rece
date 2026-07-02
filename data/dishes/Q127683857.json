@@ -1,0 +1,18 @@
+{
+  "id": "Q127683857",
+  "name": "Sauce Pocket",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauce-pocket-q127683857/sauce-pocket-q127683857-1.jpg",
+    "images/sauce-pocket-q127683857/sauce-pocket-q127683857-2.jpg",
+    "images/sauce-pocket-q127683857/sauce-pocket-q127683857-3.jpg",
+    "images/sauce-pocket-q127683857/sauce-pocket-q127683857-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683857",
+    "themealdb": null
+  }
+}

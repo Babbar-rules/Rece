@@ -1,0 +1,18 @@
+{
+  "id": "Q127683867",
+  "name": "Western Omelette",
+  "description": "Papa's Cheeseria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/western-omelette-q127683867/western-omelette-q127683867-1.jpg",
+    "images/western-omelette-q127683867/western-omelette-q127683867-2.jpg",
+    "images/western-omelette-q127683867/western-omelette-q127683867-3.jpg",
+    "images/western-omelette-q127683867/western-omelette-q127683867-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683867",
+    "themealdb": null
+  }
+}

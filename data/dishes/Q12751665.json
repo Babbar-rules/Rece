@@ -1,0 +1,20 @@
+{
+  "id": "Q12751665",
+  "name": "Eurocrem",
+  "description": "hazelnut- and cocoa-flavoured milk chocolate spread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eurocrem-q12751665/eurocrem-q12751665-1.jpg",
+    "images/eurocrem-q12751665/eurocrem-q12751665-2.jpg",
+    "images/eurocrem-q12751665/eurocrem-q12751665-3.jpg",
+    "images/eurocrem-q12751665/eurocrem-q12751665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12751665",
+    "themealdb": null
+  }
+}
