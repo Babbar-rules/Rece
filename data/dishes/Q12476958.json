@@ -1,0 +1,17 @@
+{
+  "id": "Q12476958",
+  "name": "Bongko mento",
+  "description": "typically food from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12476958",
+    "themealdb": null
+  }
+}

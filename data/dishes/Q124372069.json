@@ -1,0 +1,20 @@
+{
+  "id": "Q124372069",
+  "name": "samhap",
+  "description": "class of Korean dishes incorporating three main ingredients",
+  "nationality": [],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/samhap-q124372069/samhap-q124372069-1.jpg",
+    "images/samhap-q124372069/samhap-q124372069-2.jpg",
+    "images/samhap-q124372069/samhap-q124372069-3.jpg",
+    "images/samhap-q124372069/samhap-q124372069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124372069",
+    "themealdb": null
+  }
+}

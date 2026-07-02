@@ -1,0 +1,21 @@
+{
+  "id": "Q12516002",
+  "name": "Soto Jepara",
+  "description": "Indonesian chicken soup dish that contain beef",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-jepara-q12516002/soto-jepara-q12516002-1.jpg",
+    "images/soto-jepara-q12516002/soto-jepara-q12516002-2.jpg",
+    "images/soto-jepara-q12516002/soto-jepara-q12516002-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516002",
+    "themealdb": null
+  }
+}

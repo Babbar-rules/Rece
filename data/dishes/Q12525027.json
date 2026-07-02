@@ -1,0 +1,22 @@
+{
+  "id": "Q12525027",
+  "name": "Sweet Peanut sticky rice",
+  "description": "Indonesian snack made of glutinous rice flour",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/sweet-peanut-sticky-rice-q12525027/sweet-peanut-sticky-rice-q12525027-1.jpg",
+    "images/sweet-peanut-sticky-rice-q12525027/sweet-peanut-sticky-rice-q12525027-2.jpg",
+    "images/sweet-peanut-sticky-rice-q12525027/sweet-peanut-sticky-rice-q12525027-3.jpg",
+    "images/sweet-peanut-sticky-rice-q12525027/sweet-peanut-sticky-rice-q12525027-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12525027",
+    "themealdb": null
+  }
+}

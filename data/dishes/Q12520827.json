@@ -1,0 +1,22 @@
+{
+  "id": "Q12520827",
+  "name": "tengkleng",
+  "description": "Indonesian goat stew",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tengkleng-q12520827/tengkleng-q12520827-1.jpeg",
+    "images/tengkleng-q12520827/tengkleng-q12520827-2.jpeg",
+    "images/tengkleng-q12520827/tengkleng-q12520827-3.jpg",
+    "images/tengkleng-q12520827/tengkleng-q12520827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12520827",
+    "themealdb": null
+  }
+}

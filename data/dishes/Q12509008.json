@@ -1,0 +1,21 @@
+{
+  "id": "Q12509008",
+  "name": "Rujak Kuah Pindang",
+  "description": "Indonesian traditional cuisine",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rujak-kuah-pindang-q12509008/rujak-kuah-pindang-q12509008-1.jpg",
+    "images/rujak-kuah-pindang-q12509008/rujak-kuah-pindang-q12509008-2.jpg",
+    "images/rujak-kuah-pindang-q12509008/rujak-kuah-pindang-q12509008-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12509008",
+    "themealdb": null
+  }
+}

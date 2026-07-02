@@ -1,0 +1,22 @@
+{
+  "id": "Q12518255",
+  "name": "suwar-suwir",
+  "description": "snacks originating from Jember made from fermented cassava",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/suwar-suwir-q12518255/suwar-suwir-q12518255-1.jpg",
+    "images/suwar-suwir-q12518255/suwar-suwir-q12518255-2.jpg",
+    "images/suwar-suwir-q12518255/suwar-suwir-q12518255-3.jpg",
+    "images/suwar-suwir-q12518255/suwar-suwir-q12518255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12518255",
+    "themealdb": null
+  }
+}

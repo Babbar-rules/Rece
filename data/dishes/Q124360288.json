@@ -1,0 +1,18 @@
+{
+  "id": "Q124360288",
+  "name": "Chupe de centolla",
+  "description": "Chilean crab soup",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chupe-de-centolla-q124360288/chupe-de-centolla-q124360288-1.jpg",
+    "images/chupe-de-centolla-q124360288/chupe-de-centolla-q124360288-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124360288",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q124655829",
+  "name": "fried onion burger",
+  "description": "burger originated in Oklahoma, United States during the Great Depression",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-onion-burger-q124655829/fried-onion-burger-q124655829-1.jpg",
+    "images/fried-onion-burger-q124655829/fried-onion-burger-q124655829-2.jpg",
+    "images/fried-onion-burger-q124655829/fried-onion-burger-q124655829-3.jpg",
+    "images/fried-onion-burger-q124655829/fried-onion-burger-q124655829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124655829",
+    "themealdb": null
+  }
+}

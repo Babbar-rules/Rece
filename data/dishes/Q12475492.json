@@ -1,0 +1,20 @@
+{
+  "id": "Q12475492",
+  "name": "bebek goreng",
+  "description": "Indonesian fried duck",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bebek-goreng-q12475492/bebek-goreng-q12475492-1.jpg",
+    "images/bebek-goreng-q12475492/bebek-goreng-q12475492-2.jpg",
+    "images/bebek-goreng-q12475492/bebek-goreng-q12475492-3.jpg",
+    "images/bebek-goreng-q12475492/bebek-goreng-q12475492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12475492",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q124418279",
+  "name": "Twist",
+  "description": "Israeli chocolate bar",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/twist-q124418279/twist-q124418279-1.png",
+    "images/twist-q124418279/twist-q124418279-2.jpg",
+    "images/twist-q124418279/twist-q124418279-3.jpg",
+    "images/twist-q124418279/twist-q124418279-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124418279",
+    "themealdb": null
+  }
+}

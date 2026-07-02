@@ -1,0 +1,18 @@
+{
+  "id": "Q125276782",
+  "name": "Honigkuchen",
+  "description": "German gingerbread with more than 50 % honey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/honigkuchen-q125276782/honigkuchen-q125276782-1.jpg",
+    "images/honigkuchen-q125276782/honigkuchen-q125276782-2.jpg",
+    "images/honigkuchen-q125276782/honigkuchen-q125276782-3.jpg",
+    "images/honigkuchen-q125276782/honigkuchen-q125276782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125276782",
+    "themealdb": null
+  }
+}

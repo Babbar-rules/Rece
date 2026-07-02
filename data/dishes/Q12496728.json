@@ -1,0 +1,20 @@
+{
+  "id": "Q12496728",
+  "name": "Mangut Lele",
+  "description": "Indonesian fish soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mangut-lele-q12496728/mangut-lele-q12496728-1.jpg",
+    "images/mangut-lele-q12496728/mangut-lele-q12496728-2.jpg",
+    "images/mangut-lele-q12496728/mangut-lele-q12496728-3.jpg",
+    "images/mangut-lele-q12496728/mangut-lele-q12496728-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12496728",
+    "themealdb": null
+  }
+}

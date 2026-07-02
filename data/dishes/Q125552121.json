@@ -1,0 +1,18 @@
+{
+  "id": "Q125552121",
+  "name": "stingless bees honey",
+  "description": "animal product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stingless-bees-honey-q125552121/stingless-bees-honey-q125552121-1.jpg",
+    "images/stingless-bees-honey-q125552121/stingless-bees-honey-q125552121-2.jpg",
+    "images/stingless-bees-honey-q125552121/stingless-bees-honey-q125552121-3.jpg",
+    "images/stingless-bees-honey-q125552121/stingless-bees-honey-q125552121-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125552121",
+    "themealdb": null
+  }
+}

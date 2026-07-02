@@ -1,0 +1,18 @@
+{
+  "id": "Q125302711",
+  "name": "chickpea dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chickpea-dish-q125302711/chickpea-dish-q125302711-1.jpg",
+    "images/chickpea-dish-q125302711/chickpea-dish-q125302711-2.jpg",
+    "images/chickpea-dish-q125302711/chickpea-dish-q125302711-3.jpg",
+    "images/chickpea-dish-q125302711/chickpea-dish-q125302711-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125302711",
+    "themealdb": null
+  }
+}

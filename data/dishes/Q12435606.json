@@ -1,0 +1,18 @@
+{
+  "id": "Q12435606",
+  "name": "coconut ice",
+  "description": "type of confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-ice-q12435606/coconut-ice-q12435606-1.jpg",
+    "images/coconut-ice-q12435606/coconut-ice-q12435606-2.jpg",
+    "images/coconut-ice-q12435606/coconut-ice-q12435606-3.jpg",
+    "images/coconut-ice-q12435606/coconut-ice-q12435606-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12435606",
+    "themealdb": null
+  }
+}

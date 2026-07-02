@@ -1,0 +1,18 @@
+{
+  "id": "Q124739975",
+  "name": "baixaria",
+  "description": "Brazilian meal popular in Acre",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baixaria-q124739975/baixaria-q124739975-1.jpg",
+    "images/baixaria-q124739975/baixaria-q124739975-2.jpg",
+    "images/baixaria-q124739975/baixaria-q124739975-3.jpg",
+    "images/baixaria-q124739975/baixaria-q124739975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124739975",
+    "themealdb": null
+  }
+}

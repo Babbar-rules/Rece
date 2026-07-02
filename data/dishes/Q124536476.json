@@ -1,0 +1,15 @@
+{
+  "id": "Q124536476",
+  "name": "boldo ice cream",
+  "description": "ice cream with natural or artificial boldo flavoring",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124536476",
+    "themealdb": null
+  }
+}

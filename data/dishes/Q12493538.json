@@ -1,0 +1,22 @@
+{
+  "id": "Q12493538",
+  "name": "Laksan",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/laksan-q12493538/laksan-q12493538-1.jpg",
+    "images/laksan-q12493538/laksan-q12493538-2.jpg",
+    "images/laksan-q12493538/laksan-q12493538-3.jpg",
+    "images/laksan-q12493538/laksan-q12493538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12493538",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q12516008",
+  "name": "Soto Sokaraja",
+  "description": "Type of traditional soup dish from Banyumas, Indonesia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soto-sokaraja-q12516008/soto-sokaraja-q12516008-1.jpg",
+    "images/soto-sokaraja-q12516008/soto-sokaraja-q12516008-2.jpg",
+    "images/soto-sokaraja-q12516008/soto-sokaraja-q12516008-3.jpg",
+    "images/soto-sokaraja-q12516008/soto-sokaraja-q12516008-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516008",
+    "themealdb": null
+  }
+}

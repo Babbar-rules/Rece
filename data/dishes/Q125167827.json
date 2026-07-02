@@ -1,0 +1,18 @@
+{
+  "id": "Q125167827",
+  "name": "frozen pizza",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frozen-pizza-q125167827/frozen-pizza-q125167827-1.png",
+    "images/frozen-pizza-q125167827/frozen-pizza-q125167827-2.jpg",
+    "images/frozen-pizza-q125167827/frozen-pizza-q125167827-3.jpg",
+    "images/frozen-pizza-q125167827/frozen-pizza-q125167827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125167827",
+    "themealdb": null
+  }
+}

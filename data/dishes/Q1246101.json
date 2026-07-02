@@ -1,0 +1,16 @@
+{
+  "id": "Q1246101",
+  "name": "Dorome",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dorome-q1246101/dorome-q1246101-1.jpg",
+    "images/dorome-q1246101/dorome-q1246101-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1246101",
+    "themealdb": null
+  }
+}

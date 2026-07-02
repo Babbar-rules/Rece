@@ -1,0 +1,18 @@
+{
+  "id": "Q12476145",
+  "name": "bibim naengmyeon",
+  "description": "naengmyeon eaten mixed",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bibim-naengmyeon-q12476145/bibim-naengmyeon-q12476145-1.jpg",
+    "images/bibim-naengmyeon-q12476145/bibim-naengmyeon-q12476145-2.jpg",
+    "images/bibim-naengmyeon-q12476145/bibim-naengmyeon-q12476145-3.jpg",
+    "images/bibim-naengmyeon-q12476145/bibim-naengmyeon-q12476145-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12476145",
+    "themealdb": null
+  }
+}

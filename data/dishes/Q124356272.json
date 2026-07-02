@@ -1,0 +1,19 @@
+{
+  "id": "Q124356272",
+  "name": "Guatitas a la jardinera",
+  "description": "Chilean dish",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guatitas-a-la-jardinera-q124356272/guatitas-a-la-jardinera-q124356272-1.jpg",
+    "images/guatitas-a-la-jardinera-q124356272/guatitas-a-la-jardinera-q124356272-2.jpg",
+    "images/guatitas-a-la-jardinera-q124356272/guatitas-a-la-jardinera-q124356272-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124356272",
+    "themealdb": null
+  }
+}

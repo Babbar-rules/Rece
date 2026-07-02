@@ -1,0 +1,18 @@
+{
+  "id": "Q12522300",
+  "name": "Trenz",
+  "description": "Food brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/trenz-q12522300/trenz-q12522300-1.jpg",
+    "images/trenz-q12522300/trenz-q12522300-2.jpg",
+    "images/trenz-q12522300/trenz-q12522300-3.jpg",
+    "images/trenz-q12522300/trenz-q12522300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12522300",
+    "themealdb": null
+  }
+}

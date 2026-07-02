@@ -1,0 +1,18 @@
+{
+  "id": "Q124356176",
+  "name": "sémola con leche",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/semola-con-leche-q124356176/semola-con-leche-q124356176-1.jpg",
+    "images/semola-con-leche-q124356176/semola-con-leche-q124356176-2.jpg",
+    "images/semola-con-leche-q124356176/semola-con-leche-q124356176-3.jpg",
+    "images/semola-con-leche-q124356176/semola-con-leche-q124356176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124356176",
+    "themealdb": null
+  }
+}

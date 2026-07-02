@@ -1,0 +1,18 @@
+{
+  "id": "Q1255306",
+  "name": "dragée",
+  "description": "Confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dragee-q1255306/dragee-q1255306-1.png",
+    "images/dragee-q1255306/dragee-q1255306-2.png",
+    "images/dragee-q1255306/dragee-q1255306-3.jpg",
+    "images/dragee-q1255306/dragee-q1255306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1255306",
+    "themealdb": null
+  }
+}

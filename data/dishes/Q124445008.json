@@ -1,0 +1,15 @@
+{
+  "id": "Q124445008",
+  "name": "Kapitein Koek",
+  "description": "brand",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124445008",
+    "themealdb": null
+  }
+}

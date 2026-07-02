@@ -1,0 +1,20 @@
+{
+  "id": "Q125289631",
+  "name": "pescado en Tikin Xic",
+  "description": "dish from Yucatan, Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pescado-en-tikin-xic-q125289631/pescado-en-tikin-xic-q125289631-1.jpg",
+    "images/pescado-en-tikin-xic-q125289631/pescado-en-tikin-xic-q125289631-2.jpg",
+    "images/pescado-en-tikin-xic-q125289631/pescado-en-tikin-xic-q125289631-3.jpg",
+    "images/pescado-en-tikin-xic-q125289631/pescado-en-tikin-xic-q125289631-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125289631",
+    "themealdb": null
+  }
+}

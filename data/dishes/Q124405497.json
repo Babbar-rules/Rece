@@ -1,0 +1,18 @@
+{
+  "id": "Q124405497",
+  "name": "Tapioca cake",
+  "description": "traditional cake of Brazil's North Region cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tapioca-cake-q124405497/tapioca-cake-q124405497-1.jpg",
+    "images/tapioca-cake-q124405497/tapioca-cake-q124405497-2.jpg",
+    "images/tapioca-cake-q124405497/tapioca-cake-q124405497-3.jpg",
+    "images/tapioca-cake-q124405497/tapioca-cake-q124405497-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124405497",
+    "themealdb": null
+  }
+}

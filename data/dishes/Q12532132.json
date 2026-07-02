@@ -1,0 +1,20 @@
+{
+  "id": "Q12532132",
+  "name": "Aqta",
+  "description": "Kazakh dish",
+  "nationality": [
+    "Kazakhstan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aqta-q12532132/aqta-q12532132-1.jpg",
+    "images/aqta-q12532132/aqta-q12532132-2.jpg",
+    "images/aqta-q12532132/aqta-q12532132-3.jpg",
+    "images/aqta-q12532132/aqta-q12532132-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12532132",
+    "themealdb": null
+  }
+}

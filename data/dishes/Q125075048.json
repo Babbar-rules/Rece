@@ -1,0 +1,18 @@
+{
+  "id": "Q125075048",
+  "name": "savoury tart",
+  "description": "open pie which is not salty",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/savoury-tart-q125075048/savoury-tart-q125075048-1.jpg",
+    "images/savoury-tart-q125075048/savoury-tart-q125075048-2.jpg",
+    "images/savoury-tart-q125075048/savoury-tart-q125075048-3.jpg",
+    "images/savoury-tart-q125075048/savoury-tart-q125075048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125075048",
+    "themealdb": null
+  }
+}

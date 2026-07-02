@@ -1,0 +1,18 @@
+{
+  "id": "Q125055902",
+  "name": "sweet tart",
+  "description": "open pie which is not salty",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-tart-q125055902/sweet-tart-q125055902-1.jpg",
+    "images/sweet-tart-q125055902/sweet-tart-q125055902-2.jpg",
+    "images/sweet-tart-q125055902/sweet-tart-q125055902-3.jpg",
+    "images/sweet-tart-q125055902/sweet-tart-q125055902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125055902",
+    "themealdb": null
+  }
+}

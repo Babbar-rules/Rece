@@ -1,0 +1,18 @@
+{
+  "id": "Q125030544",
+  "name": "cream of sorrel soup",
+  "description": "traditional French springtime food",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/cream-of-sorrel-soup-q125030544/cream-of-sorrel-soup-q125030544-1.png",
+    "images/cream-of-sorrel-soup-q125030544/cream-of-sorrel-soup-q125030544-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125030544",
+    "themealdb": null
+  }
+}

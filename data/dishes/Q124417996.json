@@ -1,0 +1,20 @@
+{
+  "id": "Q124417996",
+  "name": "Egozi",
+  "description": "Israeli chocolate bar",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egozi-q124417996/egozi-q124417996-1.jpg",
+    "images/egozi-q124417996/egozi-q124417996-2.jpg",
+    "images/egozi-q124417996/egozi-q124417996-3.jpg",
+    "images/egozi-q124417996/egozi-q124417996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124417996",
+    "themealdb": null
+  }
+}

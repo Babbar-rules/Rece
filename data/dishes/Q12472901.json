@@ -1,0 +1,23 @@
+{
+  "id": "Q12472901",
+  "name": "ayam tangkap",
+  "description": "Acehnese cuisine made from chicken",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ayam-tangkap-q12472901/ayam-tangkap-q12472901-1.jpg",
+    "images/ayam-tangkap-q12472901/ayam-tangkap-q12472901-2.jpg",
+    "images/ayam-tangkap-q12472901/ayam-tangkap-q12472901-3.jpg",
+    "images/ayam-tangkap-q12472901/ayam-tangkap-q12472901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12472901",
+    "themealdb": null
+  }
+}

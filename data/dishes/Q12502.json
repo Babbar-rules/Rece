@@ -1,0 +1,20 @@
+{
+  "id": "Q12502",
+  "name": "charlotte",
+  "description": "dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/charlotte-q12502/charlotte-q12502-1.jpg",
+    "images/charlotte-q12502/charlotte-q12502-2.jpg",
+    "images/charlotte-q12502/charlotte-q12502-3.jpg",
+    "images/charlotte-q12502/charlotte-q12502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12502",
+    "themealdb": null
+  }
+}

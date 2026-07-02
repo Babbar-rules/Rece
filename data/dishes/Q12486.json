@@ -1,0 +1,18 @@
+{
+  "id": "Q12486",
+  "name": "buckwheat pancake",
+  "description": "pancake made with buckwheat flour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buckwheat-pancake-q12486/buckwheat-pancake-q12486-1.jpg",
+    "images/buckwheat-pancake-q12486/buckwheat-pancake-q12486-2.jpg",
+    "images/buckwheat-pancake-q12486/buckwheat-pancake-q12486-3.jpg",
+    "images/buckwheat-pancake-q12486/buckwheat-pancake-q12486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12486",
+    "themealdb": null
+  }
+}

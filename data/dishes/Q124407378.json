@@ -1,0 +1,20 @@
+{
+  "id": "Q124407378",
+  "name": "bolinho de arroz",
+  "description": "Brazilian fried snack made of leftover cooked rice with eggs and herbs",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolinho-de-arroz-q124407378/bolinho-de-arroz-q124407378-1.jpg",
+    "images/bolinho-de-arroz-q124407378/bolinho-de-arroz-q124407378-2.jpg",
+    "images/bolinho-de-arroz-q124407378/bolinho-de-arroz-q124407378-3.jpg",
+    "images/bolinho-de-arroz-q124407378/bolinho-de-arroz-q124407378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124407378",
+    "themealdb": null
+  }
+}

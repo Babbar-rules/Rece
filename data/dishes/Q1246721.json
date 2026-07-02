@@ -1,0 +1,25 @@
+{
+  "id": "Q1246721",
+  "name": "Tarama",
+  "description": "roe-based meze common to Turkey and Greece",
+  "nationality": [
+    "Greece",
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine",
+    "Greek cuisine",
+    "Romanian cuisine"
+  ],
+  "images": [
+    "images/tarama-q1246721/tarama-q1246721-1.jpg",
+    "images/tarama-q1246721/tarama-q1246721-2.jpg",
+    "images/tarama-q1246721/tarama-q1246721-3.jpg",
+    "images/tarama-q1246721/tarama-q1246721-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1246721",
+    "themealdb": null
+  }
+}

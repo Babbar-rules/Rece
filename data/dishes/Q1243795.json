@@ -1,0 +1,21 @@
+{
+  "id": "Q1243795",
+  "name": "Tuna pot",
+  "description": "Fish and potato stew",
+  "nationality": [],
+  "region_cuisine": [
+    "Cantabrian cuisine",
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/tuna-pot-q1243795/tuna-pot-q1243795-1.jpg",
+    "images/tuna-pot-q1243795/tuna-pot-q1243795-2.jpg",
+    "images/tuna-pot-q1243795/tuna-pot-q1243795-3.jpg",
+    "images/tuna-pot-q1243795/tuna-pot-q1243795-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1243795",
+    "themealdb": null
+  }
+}

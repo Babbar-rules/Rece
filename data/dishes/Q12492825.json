@@ -1,0 +1,22 @@
+{
+  "id": "Q12492825",
+  "name": "lampet",
+  "description": "Batak traditional rice cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lampet-q12492825/lampet-q12492825-1.jpg",
+    "images/lampet-q12492825/lampet-q12492825-2.jpg",
+    "images/lampet-q12492825/lampet-q12492825-3.jpg",
+    "images/lampet-q12492825/lampet-q12492825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12492825",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q12481775",
+  "name": "Doclang",
+  "description": "Indonesian traditional rice cake with peanut sauce dish from Bogor",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/doclang-q12481775/doclang-q12481775-1.jpg",
+    "images/doclang-q12481775/doclang-q12481775-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12481775",
+    "themealdb": null
+  }
+}

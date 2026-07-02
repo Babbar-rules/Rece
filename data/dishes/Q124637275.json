@@ -1,0 +1,18 @@
+{
+  "id": "Q124637275",
+  "name": "eggs royale",
+  "description": "variation of eggs Benedict that uses smoked salmon instead of ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eggs-royale-q124637275/eggs-royale-q124637275-1.jpg",
+    "images/eggs-royale-q124637275/eggs-royale-q124637275-2.jpg",
+    "images/eggs-royale-q124637275/eggs-royale-q124637275-3.jpg",
+    "images/eggs-royale-q124637275/eggs-royale-q124637275-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124637275",
+    "themealdb": null
+  }
+}

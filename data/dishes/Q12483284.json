@@ -1,0 +1,18 @@
+{
+  "id": "Q12483284",
+  "name": "Galamai",
+  "description": "Indonesian traditional rice flour cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galamai-q12483284/galamai-q12483284-1.jpg",
+    "images/galamai-q12483284/galamai-q12483284-2.jpg",
+    "images/galamai-q12483284/galamai-q12483284-3.jpg",
+    "images/galamai-q12483284/galamai-q12483284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12483284",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q12539586",
+  "name": "Grechanyky",
+  "description": "Ukrainian dish",
+  "nationality": [
+    "Belarus",
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grechanyky-q12539586/grechanyky-q12539586-1.jpg",
+    "images/grechanyky-q12539586/grechanyky-q12539586-2.jpg",
+    "images/grechanyky-q12539586/grechanyky-q12539586-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12539586",
+    "themealdb": null
+  }
+}

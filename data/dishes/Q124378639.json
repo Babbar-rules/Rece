@@ -1,0 +1,20 @@
+{
+  "id": "Q124378639",
+  "name": "kroket sandwich",
+  "description": "common Dutch fried snack sandwich",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kroket-sandwich-q124378639/kroket-sandwich-q124378639-1.jpg",
+    "images/kroket-sandwich-q124378639/kroket-sandwich-q124378639-2.jpg",
+    "images/kroket-sandwich-q124378639/kroket-sandwich-q124378639-3.jpg",
+    "images/kroket-sandwich-q124378639/kroket-sandwich-q124378639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124378639",
+    "themealdb": null
+  }
+}

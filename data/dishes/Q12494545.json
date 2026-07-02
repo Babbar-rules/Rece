@@ -1,0 +1,22 @@
+{
+  "id": "Q12494545",
+  "name": "Corn Rice",
+  "description": "one type of rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/corn-rice-q12494545/corn-rice-q12494545-1.jpg",
+    "images/corn-rice-q12494545/corn-rice-q12494545-2.jpg",
+    "images/corn-rice-q12494545/corn-rice-q12494545-3.jpg",
+    "images/corn-rice-q12494545/corn-rice-q12494545-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12494545",
+    "themealdb": null
+  }
+}

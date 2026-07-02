@@ -1,0 +1,20 @@
+{
+  "id": "Q124744092",
+  "name": "zozulia",
+  "description": "sweet millet dish with poppy seeds from Ukraine",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zozulia-q124744092/zozulia-q124744092-1.jpg",
+    "images/zozulia-q124744092/zozulia-q124744092-2.jpg",
+    "images/zozulia-q124744092/zozulia-q124744092-3.jpg",
+    "images/zozulia-q124744092/zozulia-q124744092-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124744092",
+    "themealdb": null
+  }
+}

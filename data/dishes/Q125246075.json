@@ -1,0 +1,18 @@
+{
+  "id": "Q125246075",
+  "name": "legume dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/legume-dish-q125246075/legume-dish-q125246075-1.jpg",
+    "images/legume-dish-q125246075/legume-dish-q125246075-2.jpg",
+    "images/legume-dish-q125246075/legume-dish-q125246075-3.jpg",
+    "images/legume-dish-q125246075/legume-dish-q125246075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125246075",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q125199752",
+  "name": "Espumilla",
+  "description": "Ecuadorian whipped dessert",
+  "nationality": [
+    "Ecuador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/espumilla-q125199752/espumilla-q125199752-1.jpg",
+    "images/espumilla-q125199752/espumilla-q125199752-2.jpg",
+    "images/espumilla-q125199752/espumilla-q125199752-3.jpg",
+    "images/espumilla-q125199752/espumilla-q125199752-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125199752",
+    "themealdb": null
+  }
+}

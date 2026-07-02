@@ -1,0 +1,18 @@
+{
+  "id": "Q12443146",
+  "name": "broccoli curry",
+  "description": "Tamil dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/broccoli-curry-q12443146/broccoli-curry-q12443146-1.jpg",
+    "images/broccoli-curry-q12443146/broccoli-curry-q12443146-2.jpg",
+    "images/broccoli-curry-q12443146/broccoli-curry-q12443146-3.jpg",
+    "images/broccoli-curry-q12443146/broccoli-curry-q12443146-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12443146",
+    "themealdb": null
+  }
+}

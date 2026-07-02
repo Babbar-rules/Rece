@@ -1,0 +1,22 @@
+{
+  "id": "Q12492887",
+  "name": "Kuluban",
+  "description": "Indonesian traditional salad dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kuluban-q12492887/kuluban-q12492887-1.jpg",
+    "images/kuluban-q12492887/kuluban-q12492887-2.jpg",
+    "images/kuluban-q12492887/kuluban-q12492887-3.jpg",
+    "images/kuluban-q12492887/kuluban-q12492887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12492887",
+    "themealdb": null
+  }
+}

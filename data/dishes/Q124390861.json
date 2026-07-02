@@ -1,0 +1,18 @@
+{
+  "id": "Q124390861",
+  "name": "twisted carrots",
+  "description": "two or more carrots twisted together",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/twisted-carrots-q124390861/twisted-carrots-q124390861-1.jpg",
+    "images/twisted-carrots-q124390861/twisted-carrots-q124390861-2.jpg",
+    "images/twisted-carrots-q124390861/twisted-carrots-q124390861-3.jpg",
+    "images/twisted-carrots-q124390861/twisted-carrots-q124390861-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124390861",
+    "themealdb": null
+  }
+}

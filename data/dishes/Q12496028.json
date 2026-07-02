@@ -1,0 +1,20 @@
+{
+  "id": "Q12496028",
+  "name": "Madumongso",
+  "description": "Indonesian sweet snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/madumongso-q12496028/madumongso-q12496028-1.jpg",
+    "images/madumongso-q12496028/madumongso-q12496028-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12496028",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q12447286",
+  "name": "Murgh Musallam",
+  "description": "dish from the Indian subcontinent",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/murgh-musallam-q12447286/murgh-musallam-q12447286-1.jpg",
+    "images/murgh-musallam-q12447286/murgh-musallam-q12447286-2.jpg",
+    "images/murgh-musallam-q12447286/murgh-musallam-q12447286-3.jpg",
+    "images/murgh-musallam-q12447286/murgh-musallam-q12447286-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12447286",
+    "themealdb": null
+  }
+}

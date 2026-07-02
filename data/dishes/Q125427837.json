@@ -1,0 +1,18 @@
+{
+  "id": "Q125427837",
+  "name": "Tokyo Dome Monaka Ice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tokyo-dome-monaka-ice-q125427837/tokyo-dome-monaka-ice-q125427837-1.jpg",
+    "images/tokyo-dome-monaka-ice-q125427837/tokyo-dome-monaka-ice-q125427837-2.jpg",
+    "images/tokyo-dome-monaka-ice-q125427837/tokyo-dome-monaka-ice-q125427837-3.jpg",
+    "images/tokyo-dome-monaka-ice-q125427837/tokyo-dome-monaka-ice-q125427837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125427837",
+    "themealdb": null
+  }
+}

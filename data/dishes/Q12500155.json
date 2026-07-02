@@ -1,0 +1,22 @@
+{
+  "id": "Q12500155",
+  "name": "nasi tempong",
+  "description": "Indonesian rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-tempong-q12500155/nasi-tempong-q12500155-1.jpg",
+    "images/nasi-tempong-q12500155/nasi-tempong-q12500155-2.jpg",
+    "images/nasi-tempong-q12500155/nasi-tempong-q12500155-3.jpg",
+    "images/nasi-tempong-q12500155/nasi-tempong-q12500155-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12500155",
+    "themealdb": null
+  }
+}

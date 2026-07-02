@@ -1,0 +1,15 @@
+{
+  "id": "Q124932404",
+  "name": "pollo arvejado",
+  "description": "Chilean gastronomy dish",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124932404",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q124611159",
+  "name": "Macho ruso",
+  "description": "Chilean dessert",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/macho-ruso-q124611159/macho-ruso-q124611159-1.png",
+    "images/macho-ruso-q124611159/macho-ruso-q124611159-2.png",
+    "images/macho-ruso-q124611159/macho-ruso-q124611159-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124611159",
+    "themealdb": null
+  }
+}

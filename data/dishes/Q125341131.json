@@ -1,0 +1,18 @@
+{
+  "id": "Q125341131",
+  "name": "Urhobo Native Food",
+  "description": "Various types of traditional food enjoyed by the Urhobos",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/urhobo-native-food-q125341131/urhobo-native-food-q125341131-1.jpg",
+    "images/urhobo-native-food-q125341131/urhobo-native-food-q125341131-2.jpg",
+    "images/urhobo-native-food-q125341131/urhobo-native-food-q125341131-3.jpg",
+    "images/urhobo-native-food-q125341131/urhobo-native-food-q125341131-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125341131",
+    "themealdb": null
+  }
+}

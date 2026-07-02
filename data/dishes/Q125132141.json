@@ -1,0 +1,18 @@
+{
+  "id": "Q125132141",
+  "name": "stuffed dessert",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-dessert-q125132141/stuffed-dessert-q125132141-1.jpg",
+    "images/stuffed-dessert-q125132141/stuffed-dessert-q125132141-2.jpg",
+    "images/stuffed-dessert-q125132141/stuffed-dessert-q125132141-3.jpg",
+    "images/stuffed-dessert-q125132141/stuffed-dessert-q125132141-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125132141",
+    "themealdb": null
+  }
+}

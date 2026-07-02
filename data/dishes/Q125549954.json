@@ -1,0 +1,20 @@
+{
+  "id": "Q125549954",
+  "name": "Leg soup",
+  "description": "Yemenite dish",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/leg-soup-q125549954/leg-soup-q125549954-1.jpg",
+    "images/leg-soup-q125549954/leg-soup-q125549954-2.jpg",
+    "images/leg-soup-q125549954/leg-soup-q125549954-3.jpg",
+    "images/leg-soup-q125549954/leg-soup-q125549954-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125549954",
+    "themealdb": null
+  }
+}

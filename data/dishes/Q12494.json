@@ -1,0 +1,21 @@
+{
+  "id": "Q12494",
+  "name": "ladyfinger",
+  "description": "dry, egg-based, sweet sponge cake biscuits",
+  "nationality": [
+    "Italy",
+    "Duchy of Savoy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ladyfinger-q12494/ladyfinger-q12494-1.jpg",
+    "images/ladyfinger-q12494/ladyfinger-q12494-2.jpg",
+    "images/ladyfinger-q12494/ladyfinger-q12494-3.jpg",
+    "images/ladyfinger-q12494/ladyfinger-q12494-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12494",
+    "themealdb": null
+  }
+}

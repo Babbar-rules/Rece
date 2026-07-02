@@ -1,0 +1,18 @@
+{
+  "id": "Q125056425",
+  "name": "custard dessert",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/custard-dessert-q125056425/custard-dessert-q125056425-1.jpg",
+    "images/custard-dessert-q125056425/custard-dessert-q125056425-2.jpg",
+    "images/custard-dessert-q125056425/custard-dessert-q125056425-3.jpg",
+    "images/custard-dessert-q125056425/custard-dessert-q125056425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125056425",
+    "themealdb": null
+  }
+}

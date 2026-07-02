@@ -1,0 +1,20 @@
+{
+  "id": "Q125401322",
+  "name": "Mikan-gori",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mikan-gori-q125401322/mikan-gori-q125401322-1.jpg",
+    "images/mikan-gori-q125401322/mikan-gori-q125401322-2.jpg",
+    "images/mikan-gori-q125401322/mikan-gori-q125401322-3.jpg",
+    "images/mikan-gori-q125401322/mikan-gori-q125401322-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125401322",
+    "themealdb": null
+  }
+}

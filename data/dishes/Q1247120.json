@@ -1,0 +1,22 @@
+{
+  "id": "Q1247120",
+  "name": "digestive biscuit",
+  "description": "Scottish semi-sweet biscuit",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/digestive-biscuit-q1247120/digestive-biscuit-q1247120-1.jpg",
+    "images/digestive-biscuit-q1247120/digestive-biscuit-q1247120-2.jpg",
+    "images/digestive-biscuit-q1247120/digestive-biscuit-q1247120-3.jpg",
+    "images/digestive-biscuit-q1247120/digestive-biscuit-q1247120-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1247120",
+    "themealdb": null
+  }
+}

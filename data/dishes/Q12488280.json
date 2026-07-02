@@ -1,0 +1,20 @@
+{
+  "id": "Q12488280",
+  "name": "Kaasstengels",
+  "description": "Dutch and Indonesian cheese cookie",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaasstengels-q12488280/kaasstengels-q12488280-1.jpg",
+    "images/kaasstengels-q12488280/kaasstengels-q12488280-2.jpg",
+    "images/kaasstengels-q12488280/kaasstengels-q12488280-3.jpg",
+    "images/kaasstengels-q12488280/kaasstengels-q12488280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12488280",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q12498026",
+  "name": "mendol",
+  "description": "processed tempeh",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/mendol-q12498026/mendol-q12498026-1.png",
+    "images/mendol-q12498026/mendol-q12498026-2.jpg",
+    "images/mendol-q12498026/mendol-q12498026-3.jpg",
+    "images/mendol-q12498026/mendol-q12498026-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12498026",
+    "themealdb": null
+  }
+}

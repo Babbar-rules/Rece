@@ -1,0 +1,20 @@
+{
+  "id": "Q12477251",
+  "name": "Brenebon",
+  "description": "Indonesian traditional soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brenebon-q12477251/brenebon-q12477251-1.jpg",
+    "images/brenebon-q12477251/brenebon-q12477251-2.jpg",
+    "images/brenebon-q12477251/brenebon-q12477251-3.jpg",
+    "images/brenebon-q12477251/brenebon-q12477251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12477251",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q125176553",
+  "name": "ITSA Burger",
+  "description": "menu item at Blake's Lotaburger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/itsa-burger-q125176553/itsa-burger-q125176553-1.jpg",
+    "images/itsa-burger-q125176553/itsa-burger-q125176553-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125176553",
+    "themealdb": null
+  }
+}

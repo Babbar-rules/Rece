@@ -1,0 +1,18 @@
+{
+  "id": "Q12483254",
+  "name": "Gagodoh",
+  "description": "Indonesian traditional filled cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gagodoh-q12483254/gagodoh-q12483254-1.jpg",
+    "images/gagodoh-q12483254/gagodoh-q12483254-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12483254",
+    "themealdb": null
+  }
+}

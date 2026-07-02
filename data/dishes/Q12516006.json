@@ -1,0 +1,22 @@
+{
+  "id": "Q12516006",
+  "name": "Soto Kudus",
+  "description": "Clear soup with shredded chicken or buffalo meat",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-kudus-q12516006/soto-kudus-q12516006-1.jpg",
+    "images/soto-kudus-q12516006/soto-kudus-q12516006-2.jpg",
+    "images/soto-kudus-q12516006/soto-kudus-q12516006-3.jpg",
+    "images/soto-kudus-q12516006/soto-kudus-q12516006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516006",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q124405934",
+  "name": "\"Bull's eye\" cookie",
+  "description": "traditional cookie of Brazil's North Region cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bulls-eye-cookie-q124405934/bulls-eye-cookie-q124405934-1.jpg",
+    "images/bulls-eye-cookie-q124405934/bulls-eye-cookie-q124405934-2.jpg",
+    "images/bulls-eye-cookie-q124405934/bulls-eye-cookie-q124405934-3.jpg",
+    "images/bulls-eye-cookie-q124405934/bulls-eye-cookie-q124405934-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124405934",
+    "themealdb": null
+  }
+}

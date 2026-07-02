@@ -1,0 +1,20 @@
+{
+  "id": "Q12501711",
+  "name": "Pacco'",
+  "description": "Indonesian traditional raw fish dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pacco-q12501711/pacco-q12501711-1.jpg",
+    "images/pacco-q12501711/pacco-q12501711-2.jpg",
+    "images/pacco-q12501711/pacco-q12501711-3.jpg",
+    "images/pacco-q12501711/pacco-q12501711-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12501711",
+    "themealdb": null
+  }
+}

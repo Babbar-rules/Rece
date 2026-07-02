@@ -1,0 +1,20 @@
+{
+  "id": "Q12473144",
+  "name": "bacem",
+  "description": "Indonesian kind of dish and also the method to prepare it by adding coconut water and palm sugar to the ingredients",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacem-q12473144/bacem-q12473144-1.jpg",
+    "images/bacem-q12473144/bacem-q12473144-2.jpg",
+    "images/bacem-q12473144/bacem-q12473144-3.jpg",
+    "images/bacem-q12473144/bacem-q12473144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12473144",
+    "themealdb": null
+  }
+}

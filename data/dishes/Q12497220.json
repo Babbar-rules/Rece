@@ -1,0 +1,21 @@
+{
+  "id": "Q12497220",
+  "name": "masam keueueng",
+  "description": "soup dish from Aceh, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/masam-keueueng-q12497220/masam-keueueng-q12497220-1.jpg",
+    "images/masam-keueueng-q12497220/masam-keueueng-q12497220-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12497220",
+    "themealdb": null
+  }
+}

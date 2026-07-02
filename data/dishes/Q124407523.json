@@ -1,0 +1,20 @@
+{
+  "id": "Q124407523",
+  "name": "Sobá",
+  "description": "Brazilian noodle dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/soba-q124407523/soba-q124407523-1.jpg",
+    "images/soba-q124407523/soba-q124407523-2.jpg",
+    "images/soba-q124407523/soba-q124407523-3.png",
+    "images/soba-q124407523/soba-q124407523-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124407523",
+    "themealdb": null
+  }
+}

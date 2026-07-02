@@ -1,0 +1,22 @@
+{
+  "id": "Q12498031",
+  "name": "mendoan",
+  "description": "Indonesian fritter made of tempeh",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/mendoan-q12498031/mendoan-q12498031-1.jpg",
+    "images/mendoan-q12498031/mendoan-q12498031-2.jpg",
+    "images/mendoan-q12498031/mendoan-q12498031-3.jpg",
+    "images/mendoan-q12498031/mendoan-q12498031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12498031",
+    "themealdb": null
+  }
+}

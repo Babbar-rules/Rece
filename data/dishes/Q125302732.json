@@ -1,0 +1,18 @@
+{
+  "id": "Q125302732",
+  "name": "pea dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pea-dish-q125302732/pea-dish-q125302732-1.jpg",
+    "images/pea-dish-q125302732/pea-dish-q125302732-2.jpg",
+    "images/pea-dish-q125302732/pea-dish-q125302732-3.jpg",
+    "images/pea-dish-q125302732/pea-dish-q125302732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125302732",
+    "themealdb": null
+  }
+}

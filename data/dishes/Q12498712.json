@@ -1,0 +1,22 @@
+{
+  "id": "Q12498712",
+  "name": "Model (food)",
+  "description": "traditional dish food from Palembang",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/model-food-q12498712/model-food-q12498712-1.png",
+    "images/model-food-q12498712/model-food-q12498712-2.jpg",
+    "images/model-food-q12498712/model-food-q12498712-3.jpg",
+    "images/model-food-q12498712/model-food-q12498712-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12498712",
+    "themealdb": null
+  }
+}

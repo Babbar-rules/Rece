@@ -1,0 +1,22 @@
+{
+  "id": "Q124411842",
+  "name": "imitation chicken",
+  "description": "Chinese chicken meat alternative made with tofu skin",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/imitation-chicken-q124411842/imitation-chicken-q124411842-1.jpg",
+    "images/imitation-chicken-q124411842/imitation-chicken-q124411842-2.jpg",
+    "images/imitation-chicken-q124411842/imitation-chicken-q124411842-3.jpg",
+    "images/imitation-chicken-q124411842/imitation-chicken-q124411842-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124411842",
+    "themealdb": null
+  }
+}

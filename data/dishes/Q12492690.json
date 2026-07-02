@@ -1,0 +1,21 @@
+{
+  "id": "Q12492690",
+  "name": "kuah beulangong",
+  "description": "Acehnese goat curry",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kuah-beulangong-q12492690/kuah-beulangong-q12492690-1.jpg",
+    "images/kuah-beulangong-q12492690/kuah-beulangong-q12492690-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12492690",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q125495324",
+  "name": "Skinny Cow",
+  "description": "ice cream brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/skinny-cow-q125495324/skinny-cow-q125495324-1.jpg",
+    "images/skinny-cow-q125495324/skinny-cow-q125495324-2.jpg",
+    "images/skinny-cow-q125495324/skinny-cow-q125495324-3.jpg",
+    "images/skinny-cow-q125495324/skinny-cow-q125495324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125495324",
+    "themealdb": null
+  }
+}

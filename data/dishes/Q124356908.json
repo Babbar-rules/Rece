@@ -1,0 +1,20 @@
+{
+  "id": "Q124356908",
+  "name": "Sopaipillas pasadas",
+  "description": "Chilean sweet",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sopaipillas-pasadas-q124356908/sopaipillas-pasadas-q124356908-1.jpg",
+    "images/sopaipillas-pasadas-q124356908/sopaipillas-pasadas-q124356908-2.jpg",
+    "images/sopaipillas-pasadas-q124356908/sopaipillas-pasadas-q124356908-3.jpg",
+    "images/sopaipillas-pasadas-q124356908/sopaipillas-pasadas-q124356908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124356908",
+    "themealdb": null
+  }
+}

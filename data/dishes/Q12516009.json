@@ -1,0 +1,22 @@
+{
+  "id": "Q12516009",
+  "name": "Seasoning soup",
+  "description": "Jepara's signature soup made with beef offal and meat without coconut milk",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/seasoning-soup-q12516009/seasoning-soup-q12516009-1.jpg",
+    "images/seasoning-soup-q12516009/seasoning-soup-q12516009-2.jpg",
+    "images/seasoning-soup-q12516009/seasoning-soup-q12516009-3.jpg",
+    "images/seasoning-soup-q12516009/seasoning-soup-q12516009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516009",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q12516005",
+  "name": "Candlenut soup",
+  "description": "Soto from Pati Regency, Central Java, with yellow broth seasoned with candlenut, coconut milk, and chicken",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/candlenut-soup-q12516005/candlenut-soup-q12516005-1.jpg",
+    "images/candlenut-soup-q12516005/candlenut-soup-q12516005-2.jpg",
+    "images/candlenut-soup-q12516005/candlenut-soup-q12516005-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516005",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q124739175",
+  "name": "Bagea",
+  "description": "Traditional Indonesian cookies made from sago and mixed with nuts",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bagea-q124739175/bagea-q124739175-1.jpg",
+    "images/bagea-q124739175/bagea-q124739175-2.jpg",
+    "images/bagea-q124739175/bagea-q124739175-3.jpg",
+    "images/bagea-q124739175/bagea-q124739175-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124739175",
+    "themealdb": null
+  }
+}

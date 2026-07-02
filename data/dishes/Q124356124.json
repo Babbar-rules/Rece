@@ -1,0 +1,20 @@
+{
+  "id": "Q124356124",
+  "name": "empanada de pino",
+  "description": "Chilean dish",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/empanada-de-pino-q124356124/empanada-de-pino-q124356124-1.jpg",
+    "images/empanada-de-pino-q124356124/empanada-de-pino-q124356124-2.jpg",
+    "images/empanada-de-pino-q124356124/empanada-de-pino-q124356124-3.jpg",
+    "images/empanada-de-pino-q124356124/empanada-de-pino-q124356124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124356124",
+    "themealdb": null
+  }
+}

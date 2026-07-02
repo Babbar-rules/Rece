@@ -1,0 +1,17 @@
+{
+  "id": "Q124538359",
+  "name": "Pastel de jaiba",
+  "description": "Chilean crab pie",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastel-de-jaiba-q124538359/pastel-de-jaiba-q124538359-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124538359",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q124392501",
+  "name": "Flavorless candy",
+  "description": "Japanese candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/flavorless-candy-q124392501/flavorless-candy-q124392501-1.jpg",
+    "images/flavorless-candy-q124392501/flavorless-candy-q124392501-2.jpg",
+    "images/flavorless-candy-q124392501/flavorless-candy-q124392501-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124392501",
+    "themealdb": null
+  }
+}

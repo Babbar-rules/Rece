@@ -1,0 +1,22 @@
+{
+  "id": "Q12478448",
+  "name": "Celimpungan",
+  "description": "Indonesian speciality Food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/celimpungan-q12478448/celimpungan-q12478448-1.jpg",
+    "images/celimpungan-q12478448/celimpungan-q12478448-2.jpg",
+    "images/celimpungan-q12478448/celimpungan-q12478448-3.jpg",
+    "images/celimpungan-q12478448/celimpungan-q12478448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12478448",
+    "themealdb": null
+  }
+}

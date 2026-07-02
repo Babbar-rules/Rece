@@ -1,0 +1,23 @@
+{
+  "id": "Q12507089",
+  "name": "Pulut kuning",
+  "description": "yellow glutinous rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pulut-kuning-q12507089/pulut-kuning-q12507089-1.jpg",
+    "images/pulut-kuning-q12507089/pulut-kuning-q12507089-2.jpg",
+    "images/pulut-kuning-q12507089/pulut-kuning-q12507089-3.jpg",
+    "images/pulut-kuning-q12507089/pulut-kuning-q12507089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12507089",
+    "themealdb": null
+  }
+}

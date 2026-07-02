@@ -1,0 +1,22 @@
+{
+  "id": "Q12489250",
+  "name": "Kapurung",
+  "description": "a type of soup made from sago starch originated from Palopo in South Sulawesi",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kapurung-q12489250/kapurung-q12489250-1.jpg",
+    "images/kapurung-q12489250/kapurung-q12489250-2.jpg",
+    "images/kapurung-q12489250/kapurung-q12489250-3.jpg",
+    "images/kapurung-q12489250/kapurung-q12489250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12489250",
+    "themealdb": null
+  }
+}

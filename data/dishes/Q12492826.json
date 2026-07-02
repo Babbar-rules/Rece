@@ -1,0 +1,22 @@
+{
+  "id": "Q12492826",
+  "name": "Ombus ombus",
+  "description": "traditional Batak culinary",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ombus-ombus-q12492826/ombus-ombus-q12492826-1.png",
+    "images/ombus-ombus-q12492826/ombus-ombus-q12492826-2.png",
+    "images/ombus-ombus-q12492826/ombus-ombus-q12492826-3.jpg",
+    "images/ombus-ombus-q12492826/ombus-ombus-q12492826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12492826",
+    "themealdb": null
+  }
+}

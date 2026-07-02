@@ -1,0 +1,20 @@
+{
+  "id": "Q1252111",
+  "name": "princess cake",
+  "description": "Swedish layer cake consisting of layers of sponge cake, pastry cream, a dome of whipped cream and a dyed marzipan top",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/princess-cake-q1252111/princess-cake-q1252111-1.jpg",
+    "images/princess-cake-q1252111/princess-cake-q1252111-2.jpg",
+    "images/princess-cake-q1252111/princess-cake-q1252111-3.jpg",
+    "images/princess-cake-q1252111/princess-cake-q1252111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1252111",
+    "themealdb": null
+  }
+}

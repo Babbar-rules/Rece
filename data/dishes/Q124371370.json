@@ -1,0 +1,18 @@
+{
+  "id": "Q124371370",
+  "name": "Taiwanese duck rice",
+  "description": "rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/taiwanese-duck-rice-q124371370/taiwanese-duck-rice-q124371370-1.jpg",
+    "images/taiwanese-duck-rice-q124371370/taiwanese-duck-rice-q124371370-2.jpg",
+    "images/taiwanese-duck-rice-q124371370/taiwanese-duck-rice-q124371370-3.jpg",
+    "images/taiwanese-duck-rice-q124371370/taiwanese-duck-rice-q124371370-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124371370",
+    "themealdb": null
+  }
+}

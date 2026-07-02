@@ -1,0 +1,18 @@
+{
+  "id": "Q124727156",
+  "name": "plum butter",
+  "description": "fruit butter made of plums",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plum-butter-q124727156/plum-butter-q124727156-1.jpg",
+    "images/plum-butter-q124727156/plum-butter-q124727156-2.jpg",
+    "images/plum-butter-q124727156/plum-butter-q124727156-3.jpg",
+    "images/plum-butter-q124727156/plum-butter-q124727156-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124727156",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q124525332",
+  "name": "Torta de manjarate",
+  "description": "Chilean cake",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124525332",
+    "themealdb": null
+  }
+}

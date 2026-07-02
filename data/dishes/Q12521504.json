@@ -1,0 +1,22 @@
+{
+  "id": "Q12521504",
+  "name": "timlo",
+  "description": "traditional soup dish from Surakarta, Central Java, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/timlo-q12521504/timlo-q12521504-1.jpg",
+    "images/timlo-q12521504/timlo-q12521504-2.jpg",
+    "images/timlo-q12521504/timlo-q12521504-3.jpg",
+    "images/timlo-q12521504/timlo-q12521504-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12521504",
+    "themealdb": null
+  }
+}

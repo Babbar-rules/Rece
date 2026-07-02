@@ -1,0 +1,21 @@
+{
+  "id": "Q12497149",
+  "name": "Acehnese Murtabak",
+  "description": "A dish that has a savory taste and is rich in spices",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/acehnese-murtabak-q12497149/acehnese-murtabak-q12497149-1.jpg",
+    "images/acehnese-murtabak-q12497149/acehnese-murtabak-q12497149-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12497149",
+    "themealdb": null
+  }
+}

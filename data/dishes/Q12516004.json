@@ -1,0 +1,22 @@
+{
+  "id": "Q12516004",
+  "name": "Soto Betawi",
+  "description": "One type of soup containing beef and offal",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-betawi-q12516004/soto-betawi-q12516004-1.jpg",
+    "images/soto-betawi-q12516004/soto-betawi-q12516004-2.jpg",
+    "images/soto-betawi-q12516004/soto-betawi-q12516004-3.jpg",
+    "images/soto-betawi-q12516004/soto-betawi-q12516004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516004",
+    "themealdb": null
+  }
+}

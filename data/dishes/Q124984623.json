@@ -1,0 +1,18 @@
+{
+  "id": "Q124984623",
+  "name": "mousse cake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mousse-cake-q124984623/mousse-cake-q124984623-1.jpg",
+    "images/mousse-cake-q124984623/mousse-cake-q124984623-2.jpg",
+    "images/mousse-cake-q124984623/mousse-cake-q124984623-3.jpg",
+    "images/mousse-cake-q124984623/mousse-cake-q124984623-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124984623",
+    "themealdb": null
+  }
+}

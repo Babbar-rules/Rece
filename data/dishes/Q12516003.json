@@ -1,0 +1,18 @@
+{
+  "id": "Q12516003",
+  "name": "Soto Kediri",
+  "description": "Chicken soup with coconut milk sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soto-kediri-q12516003/soto-kediri-q12516003-1.jpg",
+    "images/soto-kediri-q12516003/soto-kediri-q12516003-2.jpg",
+    "images/soto-kediri-q12516003/soto-kediri-q12516003-3.jpg",
+    "images/soto-kediri-q12516003/soto-kediri-q12516003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12516003",
+    "themealdb": null
+  }
+}
