@@ -1,0 +1,20 @@
+{
+  "id": "Q10856331",
+  "name": "Tamago doufu",
+  "description": "savory egg pudding hardened like tofu",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamago-doufu-q10856331/tamago-doufu-q10856331-1.jpg",
+    "images/tamago-doufu-q10856331/tamago-doufu-q10856331-2.jpg",
+    "images/tamago-doufu-q10856331/tamago-doufu-q10856331-3.jpg",
+    "images/tamago-doufu-q10856331/tamago-doufu-q10856331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10856331",
+    "themealdb": null
+  }
+}

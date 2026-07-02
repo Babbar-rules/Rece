@@ -1,0 +1,18 @@
+{
+  "id": "Q108568436",
+  "name": "Nilaga",
+  "description": "Filipino dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nilaga-q108568436/nilaga-q108568436-1.jpg",
+    "images/nilaga-q108568436/nilaga-q108568436-2.jpg",
+    "images/nilaga-q108568436/nilaga-q108568436-3.jpg",
+    "images/nilaga-q108568436/nilaga-q108568436-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108568436",
+    "themealdb": null
+  }
+}

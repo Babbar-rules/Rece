@@ -1,0 +1,18 @@
+{
+  "id": "Q108331164",
+  "name": "baton",
+  "description": "type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baton-q108331164/baton-q108331164-1.jpg",
+    "images/baton-q108331164/baton-q108331164-2.jpg",
+    "images/baton-q108331164/baton-q108331164-3.jpg",
+    "images/baton-q108331164/baton-q108331164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108331164",
+    "themealdb": null
+  }
+}

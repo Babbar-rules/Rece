@@ -1,0 +1,20 @@
+{
+  "id": "Q10860102",
+  "name": "nigirizushi",
+  "description": "variety of sushi consisting of a small mound of rice topped with a topping (typically raw seafood)",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nigirizushi-q10860102/nigirizushi-q10860102-1.jpg",
+    "images/nigirizushi-q10860102/nigirizushi-q10860102-2.jpg",
+    "images/nigirizushi-q10860102/nigirizushi-q10860102-3.jpg",
+    "images/nigirizushi-q10860102/nigirizushi-q10860102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10860102",
+    "themealdb": null
+  }
+}

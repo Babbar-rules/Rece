@@ -1,0 +1,20 @@
+{
+  "id": "Q108417752",
+  "name": "Pizza bianca",
+  "description": "Roman flatbread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-bianca-q108417752/pizza-bianca-q108417752-1.png",
+    "images/pizza-bianca-q108417752/pizza-bianca-q108417752-2.jpg",
+    "images/pizza-bianca-q108417752/pizza-bianca-q108417752-3.jpg",
+    "images/pizza-bianca-q108417752/pizza-bianca-q108417752-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108417752",
+    "themealdb": null
+  }
+}

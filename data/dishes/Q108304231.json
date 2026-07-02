@@ -1,0 +1,18 @@
+{
+  "id": "Q108304231",
+  "name": "Popcorn shrimp",
+  "description": "shrimp fritter finger food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/popcorn-shrimp-q108304231/popcorn-shrimp-q108304231-1.jpg",
+    "images/popcorn-shrimp-q108304231/popcorn-shrimp-q108304231-2.jpg",
+    "images/popcorn-shrimp-q108304231/popcorn-shrimp-q108304231-3.jpg",
+    "images/popcorn-shrimp-q108304231/popcorn-shrimp-q108304231-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108304231",
+    "themealdb": null
+  }
+}

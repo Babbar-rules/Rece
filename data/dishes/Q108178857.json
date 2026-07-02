@@ -1,0 +1,18 @@
+{
+  "id": "Q108178857",
+  "name": "Galho",
+  "description": "naga dish made with mixed vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galho-q108178857/galho-q108178857-1.jpg",
+    "images/galho-q108178857/galho-q108178857-2.jpg",
+    "images/galho-q108178857/galho-q108178857-3.jpg",
+    "images/galho-q108178857/galho-q108178857-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108178857",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10842725",
+  "name": "sabazushi",
+  "description": "kind of sushi made from saba (mackerel)",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sabazushi-q10842725/sabazushi-q10842725-1.jpg",
+    "images/sabazushi-q10842725/sabazushi-q10842725-2.jpg",
+    "images/sabazushi-q10842725/sabazushi-q10842725-3.jpg",
+    "images/sabazushi-q10842725/sabazushi-q10842725-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10842725",
+    "themealdb": null
+  }
+}

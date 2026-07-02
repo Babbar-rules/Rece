@@ -1,0 +1,18 @@
+{
+  "id": "Q108086009",
+  "name": "linguine carbonara",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/linguine-carbonara-q108086009/linguine-carbonara-q108086009-1.jpg",
+    "images/linguine-carbonara-q108086009/linguine-carbonara-q108086009-2.jpg",
+    "images/linguine-carbonara-q108086009/linguine-carbonara-q108086009-3.jpg",
+    "images/linguine-carbonara-q108086009/linguine-carbonara-q108086009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108086009",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q10860302",
+  "name": "haya-zushi",
+  "description": "style of sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/haya-zushi-q10860302/haya-zushi-q10860302-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10860302",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q108697664",
+  "name": "Alu Bhorta",
+  "description": "Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alu-bhorta-q108697664/alu-bhorta-q108697664-1.jpg",
+    "images/alu-bhorta-q108697664/alu-bhorta-q108697664-2.jpg",
+    "images/alu-bhorta-q108697664/alu-bhorta-q108697664-3.jpg",
+    "images/alu-bhorta-q108697664/alu-bhorta-q108697664-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108697664",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q108296002",
+  "name": "neritic squid rice noodles",
+  "description": "traditional rice noodle soup from Tainan, Taiwan",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neritic-squid-rice-noodles-q108296002/neritic-squid-rice-noodles-q108296002-1.jpg",
+    "images/neritic-squid-rice-noodles-q108296002/neritic-squid-rice-noodles-q108296002-2.jpg",
+    "images/neritic-squid-rice-noodles-q108296002/neritic-squid-rice-noodles-q108296002-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108296002",
+    "themealdb": null
+  }
+}

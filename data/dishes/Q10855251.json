@@ -1,0 +1,20 @@
+{
+  "id": "Q10855251",
+  "name": "gyeran-ppang",
+  "description": "Korean snack",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyeran-ppang-q10855251/gyeran-ppang-q10855251-1.jpg",
+    "images/gyeran-ppang-q10855251/gyeran-ppang-q10855251-2.jpg",
+    "images/gyeran-ppang-q10855251/gyeran-ppang-q10855251-3.jpg",
+    "images/gyeran-ppang-q10855251/gyeran-ppang-q10855251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10855251",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q107879852",
+  "name": "almond croissant",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/almond-croissant-q107879852/almond-croissant-q107879852-1.gif",
+    "images/almond-croissant-q107879852/almond-croissant-q107879852-2.jpg",
+    "images/almond-croissant-q107879852/almond-croissant-q107879852-3.jpg",
+    "images/almond-croissant-q107879852/almond-croissant-q107879852-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107879852",
+    "themealdb": null
+  }
+}

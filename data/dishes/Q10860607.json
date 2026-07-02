@@ -1,0 +1,20 @@
+{
+  "id": "Q10860607",
+  "name": "tekkamaki",
+  "description": "tekka maki",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tekkamaki-q10860607/tekkamaki-q10860607-1.jpg",
+    "images/tekkamaki-q10860607/tekkamaki-q10860607-2.jpg",
+    "images/tekkamaki-q10860607/tekkamaki-q10860607-3.jpg",
+    "images/tekkamaki-q10860607/tekkamaki-q10860607-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10860607",
+    "themealdb": null
+  }
+}

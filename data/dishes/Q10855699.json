@@ -1,0 +1,20 @@
+{
+  "id": "Q10855699",
+  "name": "kinoko no yama",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinoko-no-yama-q10855699/kinoko-no-yama-q10855699-1.jpg",
+    "images/kinoko-no-yama-q10855699/kinoko-no-yama-q10855699-2.jpg",
+    "images/kinoko-no-yama-q10855699/kinoko-no-yama-q10855699-3.jpg",
+    "images/kinoko-no-yama-q10855699/kinoko-no-yama-q10855699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10855699",
+    "themealdb": null
+  }
+}

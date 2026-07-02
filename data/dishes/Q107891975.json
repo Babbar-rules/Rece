@@ -1,0 +1,18 @@
+{
+  "id": "Q107891975",
+  "name": "chocolate éclair",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-eclair-q107891975/chocolate-eclair-q107891975-1.png",
+    "images/chocolate-eclair-q107891975/chocolate-eclair-q107891975-2.png",
+    "images/chocolate-eclair-q107891975/chocolate-eclair-q107891975-3.jpg",
+    "images/chocolate-eclair-q107891975/chocolate-eclair-q107891975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107891975",
+    "themealdb": null
+  }
+}

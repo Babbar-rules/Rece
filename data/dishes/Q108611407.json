@@ -1,0 +1,17 @@
+{
+  "id": "Q108611407",
+  "name": "Zukeana",
+  "description": "A kind of Donburi or Chirashizushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zukeana-q108611407/zukeana-q108611407-1.jpg",
+    "images/zukeana-q108611407/zukeana-q108611407-2.jpg",
+    "images/zukeana-q108611407/zukeana-q108611407-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108611407",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q108595777",
+  "name": "gyokatsu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gyokatsu-q108595777/gyokatsu-q108595777-1.jpg",
+    "images/gyokatsu-q108595777/gyokatsu-q108595777-2.jpg",
+    "images/gyokatsu-q108595777/gyokatsu-q108595777-3.jpg",
+    "images/gyokatsu-q108595777/gyokatsu-q108595777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108595777",
+    "themealdb": null
+  }
+}

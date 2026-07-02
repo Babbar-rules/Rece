@@ -1,0 +1,18 @@
+{
+  "id": "Q107870318",
+  "name": "Pear tarts",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pear-tarts-q107870318/pear-tarts-q107870318-1.jpg",
+    "images/pear-tarts-q107870318/pear-tarts-q107870318-2.jpg",
+    "images/pear-tarts-q107870318/pear-tarts-q107870318-3.jpg",
+    "images/pear-tarts-q107870318/pear-tarts-q107870318-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107870318",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10859880",
+  "name": "Bajo",
+  "description": "Czechoslovak chewing gum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bajo-q10859880/bajo-q10859880-1.jpg",
+    "images/bajo-q10859880/bajo-q10859880-2.jpg",
+    "images/bajo-q10859880/bajo-q10859880-3.jpg",
+    "images/bajo-q10859880/bajo-q10859880-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10859880",
+    "themealdb": null
+  }
+}

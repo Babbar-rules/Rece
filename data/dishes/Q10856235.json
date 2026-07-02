@@ -1,0 +1,20 @@
+{
+  "id": "Q10856235",
+  "name": "Nuta",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nuta-q10856235/nuta-q10856235-1.jpg",
+    "images/nuta-q10856235/nuta-q10856235-2.jpg",
+    "images/nuta-q10856235/nuta-q10856235-3.jpeg",
+    "images/nuta-q10856235/nuta-q10856235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10856235",
+    "themealdb": null
+  }
+}

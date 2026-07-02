@@ -1,0 +1,20 @@
+{
+  "id": "Q10861386",
+  "name": "kaki no ha zushi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaki-no-ha-zushi-q10861386/kaki-no-ha-zushi-q10861386-1.jpg",
+    "images/kaki-no-ha-zushi-q10861386/kaki-no-ha-zushi-q10861386-2.jpg",
+    "images/kaki-no-ha-zushi-q10861386/kaki-no-ha-zushi-q10861386-3.jpg",
+    "images/kaki-no-ha-zushi-q10861386/kaki-no-ha-zushi-q10861386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10861386",
+    "themealdb": null
+  }
+}

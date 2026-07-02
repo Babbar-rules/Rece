@@ -1,0 +1,20 @@
+{
+  "id": "Q10856452",
+  "name": "dak-bokkeum-tang",
+  "description": "Korean dish of braised spicy chicken",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dak-bokkeum-tang-q10856452/dak-bokkeum-tang-q10856452-1.jpg",
+    "images/dak-bokkeum-tang-q10856452/dak-bokkeum-tang-q10856452-2.jpg",
+    "images/dak-bokkeum-tang-q10856452/dak-bokkeum-tang-q10856452-3.jpg",
+    "images/dak-bokkeum-tang-q10856452/dak-bokkeum-tang-q10856452-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10856452",
+    "themealdb": null
+  }
+}

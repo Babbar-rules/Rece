@@ -1,0 +1,18 @@
+{
+  "id": "Q108086096",
+  "name": "Fleischknödel",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fleischknodel-q108086096/fleischknodel-q108086096-1.jpg",
+    "images/fleischknodel-q108086096/fleischknodel-q108086096-2.jpg",
+    "images/fleischknodel-q108086096/fleischknodel-q108086096-3.jpg",
+    "images/fleischknodel-q108086096/fleischknodel-q108086096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108086096",
+    "themealdb": null
+  }
+}

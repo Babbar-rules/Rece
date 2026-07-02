@@ -1,0 +1,18 @@
+{
+  "id": "Q107885744",
+  "name": "tatsutaage",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tatsutaage-q107885744/tatsutaage-q107885744-1.jpg",
+    "images/tatsutaage-q107885744/tatsutaage-q107885744-2.jpg",
+    "images/tatsutaage-q107885744/tatsutaage-q107885744-3.jpg",
+    "images/tatsutaage-q107885744/tatsutaage-q107885744-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107885744",
+    "themealdb": null
+  }
+}

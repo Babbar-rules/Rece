@@ -1,0 +1,19 @@
+{
+  "id": "Q10856415",
+  "name": "Takenoko No Sato",
+  "description": "Japanese chocolate snack food produced by Meiji Seika",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/takenoko-no-sato-q10856415/takenoko-no-sato-q10856415-1.jpg",
+    "images/takenoko-no-sato-q10856415/takenoko-no-sato-q10856415-2.jpg",
+    "images/takenoko-no-sato-q10856415/takenoko-no-sato-q10856415-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10856415",
+    "themealdb": null
+  }
+}

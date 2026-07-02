@@ -1,0 +1,20 @@
+{
+  "id": "Q10859806",
+  "name": "norimaki",
+  "description": "rolled/filled seafood appetizer",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/norimaki-q10859806/norimaki-q10859806-1.jpg",
+    "images/norimaki-q10859806/norimaki-q10859806-2.jpg",
+    "images/norimaki-q10859806/norimaki-q10859806-3.jpg",
+    "images/norimaki-q10859806/norimaki-q10859806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10859806",
+    "themealdb": null
+  }
+}

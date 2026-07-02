@@ -1,0 +1,18 @@
+{
+  "id": "Q108672552",
+  "name": "butter burger",
+  "description": "Hamburger topped with butter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/butter-burger-q108672552/butter-burger-q108672552-1.jpg",
+    "images/butter-burger-q108672552/butter-burger-q108672552-2.jpg",
+    "images/butter-burger-q108672552/butter-burger-q108672552-3.jpg",
+    "images/butter-burger-q108672552/butter-burger-q108672552-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108672552",
+    "themealdb": null
+  }
+}

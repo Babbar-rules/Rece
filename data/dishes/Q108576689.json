@@ -1,0 +1,18 @@
+{
+  "id": "Q108576689",
+  "name": "cream roll",
+  "description": "sweet bun with cream filling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-roll-q108576689/cream-roll-q108576689-1.jpg",
+    "images/cream-roll-q108576689/cream-roll-q108576689-2.jpg",
+    "images/cream-roll-q108576689/cream-roll-q108576689-3.jpg",
+    "images/cream-roll-q108576689/cream-roll-q108576689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108576689",
+    "themealdb": null
+  }
+}

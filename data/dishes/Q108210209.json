@@ -1,0 +1,18 @@
+{
+  "id": "Q108210209",
+  "name": "YGF Malatang",
+  "description": "spicy hot pot chain restaurant from China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ygf-malatang-q108210209/ygf-malatang-q108210209-1.jpg",
+    "images/ygf-malatang-q108210209/ygf-malatang-q108210209-2.jpg",
+    "images/ygf-malatang-q108210209/ygf-malatang-q108210209-3.jpg",
+    "images/ygf-malatang-q108210209/ygf-malatang-q108210209-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108210209",
+    "themealdb": null
+  }
+}

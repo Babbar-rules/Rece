@@ -1,0 +1,19 @@
+{
+  "id": "Q10861385",
+  "name": "edomae-zushi",
+  "description": "kind of sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/edomae-zushi-q10861385/edomae-zushi-q10861385-1.jpg",
+    "images/edomae-zushi-q10861385/edomae-zushi-q10861385-2.jpg",
+    "images/edomae-zushi-q10861385/edomae-zushi-q10861385-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10861385",
+    "themealdb": null
+  }
+}

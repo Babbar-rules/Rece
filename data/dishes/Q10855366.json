@@ -1,0 +1,18 @@
+{
+  "id": "Q10855366",
+  "name": "Goheimochi",
+  "description": "Japanese regional cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goheimochi-q10855366/goheimochi-q10855366-1.jpg",
+    "images/goheimochi-q10855366/goheimochi-q10855366-2.jpg",
+    "images/goheimochi-q10855366/goheimochi-q10855366-3.jpg",
+    "images/goheimochi-q10855366/goheimochi-q10855366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10855366",
+    "themealdb": null
+  }
+}

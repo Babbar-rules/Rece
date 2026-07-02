@@ -1,0 +1,22 @@
+{
+  "id": "Q108684938",
+  "name": "Changsha stinky tofu",
+  "description": "hunan cuisine snack",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [
+    "Hunan cuisine"
+  ],
+  "images": [
+    "images/changsha-stinky-tofu-q108684938/changsha-stinky-tofu-q108684938-1.jpg",
+    "images/changsha-stinky-tofu-q108684938/changsha-stinky-tofu-q108684938-2.jpg",
+    "images/changsha-stinky-tofu-q108684938/changsha-stinky-tofu-q108684938-3.jpg",
+    "images/changsha-stinky-tofu-q108684938/changsha-stinky-tofu-q108684938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108684938",
+    "themealdb": null
+  }
+}

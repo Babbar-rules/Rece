@@ -1,0 +1,18 @@
+{
+  "id": "Q108649402",
+  "name": "icebox pie",
+  "description": "family of no-bake pies popular in the USA",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/icebox-pie-q108649402/icebox-pie-q108649402-1.jpg",
+    "images/icebox-pie-q108649402/icebox-pie-q108649402-2.jpg",
+    "images/icebox-pie-q108649402/icebox-pie-q108649402-3.jpg",
+    "images/icebox-pie-q108649402/icebox-pie-q108649402-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108649402",
+    "themealdb": null
+  }
+}

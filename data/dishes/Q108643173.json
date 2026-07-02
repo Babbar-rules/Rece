@@ -1,0 +1,18 @@
+{
+  "id": "Q108643173",
+  "name": "mealie bread",
+  "description": "South African sweetcorn bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mealie-bread-q108643173/mealie-bread-q108643173-1.jpg",
+    "images/mealie-bread-q108643173/mealie-bread-q108643173-2.jpg",
+    "images/mealie-bread-q108643173/mealie-bread-q108643173-3.jpg",
+    "images/mealie-bread-q108643173/mealie-bread-q108643173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108643173",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q10868024",
+  "name": "Shanghai-style salad",
+  "description": "localized Shanghai-style salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shanghai-style-salad-q10868024/shanghai-style-salad-q10868024-1.jpg",
+    "images/shanghai-style-salad-q10868024/shanghai-style-salad-q10868024-2.jpg",
+    "images/shanghai-style-salad-q10868024/shanghai-style-salad-q10868024-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10868024",
+    "themealdb": null
+  }
+}

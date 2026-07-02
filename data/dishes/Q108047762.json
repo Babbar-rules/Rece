@@ -1,0 +1,18 @@
+{
+  "id": "Q108047762",
+  "name": "pennoni",
+  "description": "long, tubular pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pennoni-q108047762/pennoni-q108047762-1.jpg",
+    "images/pennoni-q108047762/pennoni-q108047762-2.jpg",
+    "images/pennoni-q108047762/pennoni-q108047762-3.jpg",
+    "images/pennoni-q108047762/pennoni-q108047762-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108047762",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1083840",
+  "name": "balti",
+  "description": "type of curry cooked and eaten in a thin, pressed-steel wok called a \"balti bowl\"",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/balti-q1083840/balti-q1083840-1.jpg",
+    "images/balti-q1083840/balti-q1083840-2.png",
+    "images/balti-q1083840/balti-q1083840-3.jpg",
+    "images/balti-q1083840/balti-q1083840-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1083840",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10859394",
+  "name": "beefsteak",
+  "description": "flat cut of beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beefsteak-q10859394/beefsteak-q10859394-1.jpg",
+    "images/beefsteak-q10859394/beefsteak-q10859394-2.jpg",
+    "images/beefsteak-q10859394/beefsteak-q10859394-3.jpg",
+    "images/beefsteak-q10859394/beefsteak-q10859394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10859394",
+    "themealdb": null
+  }
+}

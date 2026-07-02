@@ -1,0 +1,20 @@
+{
+  "id": "Q108408336",
+  "name": "Famichiki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/famichiki-q108408336/famichiki-q108408336-1.jpg",
+    "images/famichiki-q108408336/famichiki-q108408336-2.jpg",
+    "images/famichiki-q108408336/famichiki-q108408336-3.jpg",
+    "images/famichiki-q108408336/famichiki-q108408336-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q108408336",
+    "themealdb": null
+  }
+}
