@@ -1,0 +1,20 @@
+{
+  "id": "Q133817",
+  "name": "jeon",
+  "description": "Korean pan-fried dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeon-q133817/jeon-q133817-1.jpg",
+    "images/jeon-q133817/jeon-q133817-2.jpg",
+    "images/jeon-q133817/jeon-q133817-3.jpg",
+    "images/jeon-q133817/jeon-q133817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133817",
+    "themealdb": null
+  }
+}

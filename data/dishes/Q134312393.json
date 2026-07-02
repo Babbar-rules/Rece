@@ -1,0 +1,19 @@
+{
+  "id": "Q134312393",
+  "name": "Nihari Haleem",
+  "description": "variation of Haleem prepared using Nihari as its meat base",
+  "nationality": [],
+  "region_cuisine": [
+    "South Asian cuisine"
+  ],
+  "images": [
+    "images/nihari-haleem-q134312393/nihari-haleem-q134312393-1.jpg",
+    "images/nihari-haleem-q134312393/nihari-haleem-q134312393-2.jpg",
+    "images/nihari-haleem-q134312393/nihari-haleem-q134312393-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134312393",
+    "themealdb": null
+  }
+}

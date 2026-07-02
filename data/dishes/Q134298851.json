@@ -1,0 +1,18 @@
+{
+  "id": "Q134298851",
+  "name": "shredded carrot",
+  "description": "preparation of carrots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shredded-carrot-q134298851/shredded-carrot-q134298851-1.jpg",
+    "images/shredded-carrot-q134298851/shredded-carrot-q134298851-2.jpg",
+    "images/shredded-carrot-q134298851/shredded-carrot-q134298851-3.jpg",
+    "images/shredded-carrot-q134298851/shredded-carrot-q134298851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134298851",
+    "themealdb": null
+  }
+}

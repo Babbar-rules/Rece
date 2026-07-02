@@ -1,0 +1,18 @@
+{
+  "id": "Q131903278",
+  "name": "Mogimogi Fruits Gummy",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mogimogi-fruits-gummy-q131903278/mogimogi-fruits-gummy-q131903278-1.jpg",
+    "images/mogimogi-fruits-gummy-q131903278/mogimogi-fruits-gummy-q131903278-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131903278",
+    "themealdb": null
+  }
+}

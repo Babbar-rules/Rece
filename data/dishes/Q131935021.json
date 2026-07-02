@@ -1,0 +1,18 @@
+{
+  "id": "Q131935021",
+  "name": "ice cream flavor",
+  "description": "type of ice cream by added flavor ingredients",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-flavor-q131935021/ice-cream-flavor-q131935021-1.jpg",
+    "images/ice-cream-flavor-q131935021/ice-cream-flavor-q131935021-2.jpg",
+    "images/ice-cream-flavor-q131935021/ice-cream-flavor-q131935021-3.jpg",
+    "images/ice-cream-flavor-q131935021/ice-cream-flavor-q131935021-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131935021",
+    "themealdb": null
+  }
+}

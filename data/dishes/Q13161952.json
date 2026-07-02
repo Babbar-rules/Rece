@@ -1,0 +1,18 @@
+{
+  "id": "Q13161952",
+  "name": "shredded chicken",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shredded-chicken-q13161952/shredded-chicken-q13161952-1.jpg",
+    "images/shredded-chicken-q13161952/shredded-chicken-q13161952-2.jpg",
+    "images/shredded-chicken-q13161952/shredded-chicken-q13161952-3.jpg",
+    "images/shredded-chicken-q13161952/shredded-chicken-q13161952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13161952",
+    "themealdb": null
+  }
+}

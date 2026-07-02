@@ -1,0 +1,18 @@
+{
+  "id": "Q134983416",
+  "name": "Joyride Sweets",
+  "description": "naturally-flavored gummy candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/joyride-sweets-q134983416/joyride-sweets-q134983416-1.jpg",
+    "images/joyride-sweets-q134983416/joyride-sweets-q134983416-2.png",
+    "images/joyride-sweets-q134983416/joyride-sweets-q134983416-3.png",
+    "images/joyride-sweets-q134983416/joyride-sweets-q134983416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134983416",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1344219",
+  "name": "Rúgbrauð",
+  "description": "Icelandic rye bread",
+  "nationality": [
+    "Iceland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rugbrau-q1344219/rugbrau-q1344219-1.jpg",
+    "images/rugbrau-q1344219/rugbrau-q1344219-2.jpg",
+    "images/rugbrau-q1344219/rugbrau-q1344219-3.jpg",
+    "images/rugbrau-q1344219/rugbrau-q1344219-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1344219",
+    "themealdb": null
+  }
+}

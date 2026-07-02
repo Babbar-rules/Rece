@@ -1,0 +1,18 @@
+{
+  "id": "Q132681438",
+  "name": "Xarró",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/xarro-q132681438/xarro-q132681438-1.jpg",
+    "images/xarro-q132681438/xarro-q132681438-2.jpg",
+    "images/xarro-q132681438/xarro-q132681438-3.jpg",
+    "images/xarro-q132681438/xarro-q132681438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132681438",
+    "themealdb": null
+  }
+}

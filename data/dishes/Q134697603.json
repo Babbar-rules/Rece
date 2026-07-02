@@ -1,0 +1,16 @@
+{
+  "id": "Q134697603",
+  "name": "Ikomochi",
+  "description": "Japanese rice confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ikomochi-q134697603/ikomochi-q134697603-1.png",
+    "images/ikomochi-q134697603/ikomochi-q134697603-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134697603",
+    "themealdb": null
+  }
+}

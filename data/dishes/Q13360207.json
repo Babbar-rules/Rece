@@ -1,0 +1,20 @@
+{
+  "id": "Q13360207",
+  "name": "parma ham",
+  "description": "type of ham",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parma-ham-q13360207/parma-ham-q13360207-1.jpg",
+    "images/parma-ham-q13360207/parma-ham-q13360207-2.jpg",
+    "images/parma-ham-q13360207/parma-ham-q13360207-3.jpg",
+    "images/parma-ham-q13360207/parma-ham-q13360207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13360207",
+    "themealdb": null
+  }
+}

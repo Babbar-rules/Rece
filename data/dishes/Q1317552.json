@@ -1,0 +1,20 @@
+{
+  "id": "Q1317552",
+  "name": "orzo",
+  "description": "form of short-cut pasta which is shaped like a large grain of rice",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/orzo-q1317552/orzo-q1317552-1.jpg",
+    "images/orzo-q1317552/orzo-q1317552-2.jpg",
+    "images/orzo-q1317552/orzo-q1317552-3.jpg",
+    "images/orzo-q1317552/orzo-q1317552-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1317552",
+    "themealdb": null
+  }
+}

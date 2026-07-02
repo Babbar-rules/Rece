@@ -1,0 +1,22 @@
+{
+  "id": "Q13212332",
+  "name": "risi e bisi",
+  "description": "Italian rice and peas dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Veneto"
+  ],
+  "images": [
+    "images/risi-e-bisi-q13212332/risi-e-bisi-q13212332-1.jpg",
+    "images/risi-e-bisi-q13212332/risi-e-bisi-q13212332-2.jpg",
+    "images/risi-e-bisi-q13212332/risi-e-bisi-q13212332-3.jpg",
+    "images/risi-e-bisi-q13212332/risi-e-bisi-q13212332-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13212332",
+    "themealdb": null
+  }
+}

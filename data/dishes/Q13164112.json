@@ -1,0 +1,18 @@
+{
+  "id": "Q13164112",
+  "name": "beef jerky",
+  "description": "jerky made of beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-jerky-q13164112/beef-jerky-q13164112-1.jpg",
+    "images/beef-jerky-q13164112/beef-jerky-q13164112-2.jpg",
+    "images/beef-jerky-q13164112/beef-jerky-q13164112-3.jpg",
+    "images/beef-jerky-q13164112/beef-jerky-q13164112-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13164112",
+    "themealdb": null
+  }
+}

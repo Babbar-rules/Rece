@@ -1,0 +1,20 @@
+{
+  "id": "Q133501493",
+  "name": "ballorieh",
+  "description": "Middle Eastern sweet pastry made with pistachio filling and knafeh dough (qadaif).",
+  "nationality": [
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ballorieh-q133501493/ballorieh-q133501493-1.jpg",
+    "images/ballorieh-q133501493/ballorieh-q133501493-2.jpg",
+    "images/ballorieh-q133501493/ballorieh-q133501493-3.jpg",
+    "images/ballorieh-q133501493/ballorieh-q133501493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133501493",
+    "themealdb": null
+  }
+}

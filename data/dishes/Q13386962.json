@@ -1,0 +1,20 @@
+{
+  "id": "Q13386962",
+  "name": "Mango shaved ice",
+  "description": "Taiwanese shaved ice dessert with mango topping",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mango-shaved-ice-q13386962/mango-shaved-ice-q13386962-1.jpg",
+    "images/mango-shaved-ice-q13386962/mango-shaved-ice-q13386962-2.jpg",
+    "images/mango-shaved-ice-q13386962/mango-shaved-ice-q13386962-3.jpg",
+    "images/mango-shaved-ice-q13386962/mango-shaved-ice-q13386962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13386962",
+    "themealdb": null
+  }
+}

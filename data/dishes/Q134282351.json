@@ -1,0 +1,17 @@
+{
+  "id": "Q134282351",
+  "name": "Kyushu soy sauce",
+  "description": "Soy sauce primarily consumed in the Kyushu and Okinawa regions of Japan",
+  "nationality": [
+    "Kyushu"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kyushu-soy-sauce-q134282351/kyushu-soy-sauce-q134282351-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134282351",
+    "themealdb": null
+  }
+}

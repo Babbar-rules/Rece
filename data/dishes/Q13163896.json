@@ -1,0 +1,18 @@
+{
+  "id": "Q13163896",
+  "name": "cup noodle",
+  "description": "type of noodle packaged and prepared in a paper cup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cup-noodle-q13163896/cup-noodle-q13163896-1.jpg",
+    "images/cup-noodle-q13163896/cup-noodle-q13163896-2.jpg",
+    "images/cup-noodle-q13163896/cup-noodle-q13163896-3.jpg",
+    "images/cup-noodle-q13163896/cup-noodle-q13163896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13163896",
+    "themealdb": null
+  }
+}

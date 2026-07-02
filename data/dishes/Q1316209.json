@@ -1,0 +1,18 @@
+{
+  "id": "Q1316209",
+  "name": "street food",
+  "description": "ready-to-eat food or drink served on a street",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/street-food-q1316209/street-food-q1316209-1.jpg",
+    "images/street-food-q1316209/street-food-q1316209-2.jpg",
+    "images/street-food-q1316209/street-food-q1316209-3.png",
+    "images/street-food-q1316209/street-food-q1316209-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1316209",
+    "themealdb": null
+  }
+}

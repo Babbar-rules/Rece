@@ -1,0 +1,20 @@
+{
+  "id": "Q1340323",
+  "name": "Barros Luco",
+  "description": "Chilean hot sandwich",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barros-luco-q1340323/barros-luco-q1340323-1.jpg",
+    "images/barros-luco-q1340323/barros-luco-q1340323-2.jpg",
+    "images/barros-luco-q1340323/barros-luco-q1340323-3.jpg",
+    "images/barros-luco-q1340323/barros-luco-q1340323-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1340323",
+    "themealdb": null
+  }
+}

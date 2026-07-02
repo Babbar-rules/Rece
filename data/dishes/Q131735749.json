@@ -1,0 +1,20 @@
+{
+  "id": "Q131735749",
+  "name": "Wheel Pie",
+  "description": "Taiwanese pastry dessert",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wheel-pie-q131735749/wheel-pie-q131735749-1.jpg",
+    "images/wheel-pie-q131735749/wheel-pie-q131735749-2.jpg",
+    "images/wheel-pie-q131735749/wheel-pie-q131735749-3.jpg",
+    "images/wheel-pie-q131735749/wheel-pie-q131735749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131735749",
+    "themealdb": null
+  }
+}

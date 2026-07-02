@@ -1,0 +1,18 @@
+{
+  "id": "Q13164446",
+  "name": "Ginger candy",
+  "description": "type of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-candy-q13164446/ginger-candy-q13164446-1.jpg",
+    "images/ginger-candy-q13164446/ginger-candy-q13164446-2.jpg",
+    "images/ginger-candy-q13164446/ginger-candy-q13164446-3.jpg",
+    "images/ginger-candy-q13164446/ginger-candy-q13164446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13164446",
+    "themealdb": null
+  }
+}

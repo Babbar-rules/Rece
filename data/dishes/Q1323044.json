@@ -1,0 +1,19 @@
+{
+  "id": "Q1323044",
+  "name": "rumbledethumps",
+  "description": "potato dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rumbledethumps-q1323044/rumbledethumps-q1323044-1.jpg",
+    "images/rumbledethumps-q1323044/rumbledethumps-q1323044-2.jpg",
+    "images/rumbledethumps-q1323044/rumbledethumps-q1323044-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1323044",
+    "themealdb": null
+  }
+}

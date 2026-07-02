@@ -1,0 +1,20 @@
+{
+  "id": "Q13319",
+  "name": "frozen yogurt",
+  "description": "frozen dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frozen-yogurt-q13319/frozen-yogurt-q13319-1.jpg",
+    "images/frozen-yogurt-q13319/frozen-yogurt-q13319-2.jpg",
+    "images/frozen-yogurt-q13319/frozen-yogurt-q13319-3.jpg",
+    "images/frozen-yogurt-q13319/frozen-yogurt-q13319-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13319",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q133465144",
+  "name": "Emmamba",
+  "description": "Ugandan dish made by deep frying Lungfish",
+  "nationality": [
+    "Uganda"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/emmamba-q133465144/emmamba-q133465144-1.jpg",
+    "images/emmamba-q133465144/emmamba-q133465144-2.jpg",
+    "images/emmamba-q133465144/emmamba-q133465144-3.jpg",
+    "images/emmamba-q133465144/emmamba-q133465144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133465144",
+    "themealdb": null
+  }
+}

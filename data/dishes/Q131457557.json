@@ -1,0 +1,18 @@
+{
+  "id": "Q131457557",
+  "name": "rat dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rat-dish-q131457557/rat-dish-q131457557-1.jpg",
+    "images/rat-dish-q131457557/rat-dish-q131457557-2.jpg",
+    "images/rat-dish-q131457557/rat-dish-q131457557-3.jpg",
+    "images/rat-dish-q131457557/rat-dish-q131457557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131457557",
+    "themealdb": null
+  }
+}

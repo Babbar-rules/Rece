@@ -1,0 +1,20 @@
+{
+  "id": "Q13302",
+  "name": "sorbet",
+  "description": "frozen dessert",
+  "nationality": [
+    "Persian Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sorbet-q13302/sorbet-q13302-1.jpg",
+    "images/sorbet-q13302/sorbet-q13302-2.jpg",
+    "images/sorbet-q13302/sorbet-q13302-3.jpg",
+    "images/sorbet-q13302/sorbet-q13302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13302",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1317601",
+  "name": "sata andagi",
+  "description": "doughnut-like Okinawan dessert made from deep fried dough",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sata-andagi-q1317601/sata-andagi-q1317601-1.jpg",
+    "images/sata-andagi-q1317601/sata-andagi-q1317601-2.jpg",
+    "images/sata-andagi-q1317601/sata-andagi-q1317601-3.jpg",
+    "images/sata-andagi-q1317601/sata-andagi-q1317601-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1317601",
+    "themealdb": null
+  }
+}

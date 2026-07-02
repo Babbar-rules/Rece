@@ -1,0 +1,18 @@
+{
+  "id": "Q134165564",
+  "name": "creamy peanut butter",
+  "description": "type of peanut butter that is not crunchy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creamy-peanut-butter-q134165564/creamy-peanut-butter-q134165564-1.jpg",
+    "images/creamy-peanut-butter-q134165564/creamy-peanut-butter-q134165564-2.jpg",
+    "images/creamy-peanut-butter-q134165564/creamy-peanut-butter-q134165564-3.jpg",
+    "images/creamy-peanut-butter-q134165564/creamy-peanut-butter-q134165564-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134165564",
+    "themealdb": null
+  }
+}

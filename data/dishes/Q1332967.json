@@ -1,0 +1,20 @@
+{
+  "id": "Q1332967",
+  "name": "white pudding",
+  "description": "British and Irish dish of suet or fat, oatmeal or barley, breadcrumbs and sometimes pork filled into a natural or cellulose sausage casing",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/white-pudding-q1332967/white-pudding-q1332967-1.jpg",
+    "images/white-pudding-q1332967/white-pudding-q1332967-2.jpg",
+    "images/white-pudding-q1332967/white-pudding-q1332967-3.jpg",
+    "images/white-pudding-q1332967/white-pudding-q1332967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1332967",
+    "themealdb": null
+  }
+}

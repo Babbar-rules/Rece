@@ -1,0 +1,89 @@
+{
+  "id": "Q13220342",
+  "name": "vlaai",
+  "description": "type of pie, typically from the Dutch or Belgian province of Limburg, with a bread-like dough",
+  "nationality": [
+    "Belgium",
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/vlaai-q13220342/vlaai-q13220342-1.jpg",
+    "images/vlaai-q13220342/vlaai-q13220342-2.jpg",
+    "images/vlaai-q13220342/vlaai-q13220342-3.jpg",
+    "images/vlaai-q13220342/vlaai-q13220342-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53391",
+    "category": "Dessert",
+    "area": null,
+    "instructions": "Heat the oven to 180°C. For the dough, mix flour and sugar in a bowl. Heat the 100 grams of milk to lukewarm and dissolve the yeast in it. Let stand for a while until it starts to bubble. Then add to the flour along with the coconut oil and mix into a smooth dough. Let rise for 30 minutes, covered, in a warm place.\r\nMeanwhile, make the rice pudding by putting the rice with sugar, milk and vanilla extract in a saucepan. Add the cardamom, star anise and cinnamon. Bring to a boil and cook, stirring constantly. Take out the spices. In a small bowl, mix baking soda with lemon juice/apple vinegar. Stir well until baking soda is dissolved, then mix into the rice pudding.\r\nRoll out the dough on a floured work surface (it is very sticky, but don’t stress it will be fine) and line the bottom and edges of a greased mold with it. Spread the rice pudding over the bottom and bake for about 25 to 30 minutes.",
+    "ingredients": [
+      {
+        "ingredient": "Flour",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Coconut Oil",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Vegetable Millk",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Yeast",
+        "measure": "10g"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Dessert Rice",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Vegetable Millk",
+        "measure": "700g"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Star Anise",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Cinnamon Stick",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "1/2 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=Od8EjjvwN_Y",
+    "thumb": "https://www.themealdb.com/images/media/meals/x8opo81777582259.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13220342",
+    "themealdb": "53391"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q1320701",
+  "name": "Ga'at",
+  "description": "porridge-like dish originated from Ethiopia and Eritrea",
+  "nationality": [
+    "Ethiopia"
+  ],
+  "region_cuisine": [
+    "Ethiopian cuisine",
+    "Eritrean cuisine"
+  ],
+  "images": [
+    "images/gaat-q1320701/gaat-q1320701-1.jpg",
+    "images/gaat-q1320701/gaat-q1320701-2.jpg",
+    "images/gaat-q1320701/gaat-q1320701-3.jpg",
+    "images/gaat-q1320701/gaat-q1320701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1320701",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q13305",
+  "name": "Italian ice",
+  "description": "frozen dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-ice-q13305/italian-ice-q13305-1.jpg",
+    "images/italian-ice-q13305/italian-ice-q13305-2.jpg",
+    "images/italian-ice-q13305/italian-ice-q13305-3.jpg",
+    "images/italian-ice-q13305/italian-ice-q13305-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13305",
+    "themealdb": null
+  }
+}

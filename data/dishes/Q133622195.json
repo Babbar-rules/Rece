@@ -1,0 +1,19 @@
+{
+  "id": "Q133622195",
+  "name": "Ripe plantain arepa",
+  "description": "Typical food from Colombia and Venezuela",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ripe-plantain-arepa-q133622195/ripe-plantain-arepa-q133622195-1.jpg",
+    "images/ripe-plantain-arepa-q133622195/ripe-plantain-arepa-q133622195-2.jpg",
+    "images/ripe-plantain-arepa-q133622195/ripe-plantain-arepa-q133622195-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133622195",
+    "themealdb": null
+  }
+}

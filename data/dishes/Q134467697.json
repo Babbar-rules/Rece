@@ -1,0 +1,19 @@
+{
+  "id": "Q134467697",
+  "name": "arepa pelada",
+  "description": "arepa prepared without industrial processing",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arepa-pelada-q134467697/arepa-pelada-q134467697-1.jpg",
+    "images/arepa-pelada-q134467697/arepa-pelada-q134467697-2.jpg",
+    "images/arepa-pelada-q134467697/arepa-pelada-q134467697-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134467697",
+    "themealdb": null
+  }
+}

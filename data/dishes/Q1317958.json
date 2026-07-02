@@ -1,0 +1,20 @@
+{
+  "id": "Q1317958",
+  "name": "pici",
+  "description": "a thick, hand-rolled pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pici-q1317958/pici-q1317958-1.jpeg",
+    "images/pici-q1317958/pici-q1317958-2.jpg",
+    "images/pici-q1317958/pici-q1317958-3.jpeg",
+    "images/pici-q1317958/pici-q1317958-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1317958",
+    "themealdb": null
+  }
+}

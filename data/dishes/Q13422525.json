@@ -1,0 +1,20 @@
+{
+  "id": "Q13422525",
+  "name": "bublik",
+  "description": "ring-shaped bread roll",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bublik-q13422525/bublik-q13422525-1.jpg",
+    "images/bublik-q13422525/bublik-q13422525-2.jpg",
+    "images/bublik-q13422525/bublik-q13422525-3.jpg",
+    "images/bublik-q13422525/bublik-q13422525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13422525",
+    "themealdb": null
+  }
+}

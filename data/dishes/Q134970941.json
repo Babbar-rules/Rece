@@ -1,0 +1,18 @@
+{
+  "id": "Q134970941",
+  "name": "hot pressed sandwich",
+  "description": "sandwich that was press-heated through pie iron or other cooking appliance",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-pressed-sandwich-q134970941/hot-pressed-sandwich-q134970941-1.jpg",
+    "images/hot-pressed-sandwich-q134970941/hot-pressed-sandwich-q134970941-2.jpg",
+    "images/hot-pressed-sandwich-q134970941/hot-pressed-sandwich-q134970941-3.jpg",
+    "images/hot-pressed-sandwich-q134970941/hot-pressed-sandwich-q134970941-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134970941",
+    "themealdb": null
+  }
+}

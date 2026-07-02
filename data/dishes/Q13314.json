@@ -1,0 +1,20 @@
+{
+  "id": "Q13314",
+  "name": "parfait",
+  "description": "frozen dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parfait-q13314/parfait-q13314-1.jpg",
+    "images/parfait-q13314/parfait-q13314-2.jpg",
+    "images/parfait-q13314/parfait-q13314-3.jpg",
+    "images/parfait-q13314/parfait-q13314-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13314",
+    "themealdb": null
+  }
+}

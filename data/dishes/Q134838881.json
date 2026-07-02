@@ -1,0 +1,18 @@
+{
+  "id": "Q134838881",
+  "name": "McCrispy",
+  "description": "chicken sandwich from McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mccrispy-q134838881/mccrispy-q134838881-1.png",
+    "images/mccrispy-q134838881/mccrispy-q134838881-2.png",
+    "images/mccrispy-q134838881/mccrispy-q134838881-3.png",
+    "images/mccrispy-q134838881/mccrispy-q134838881-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134838881",
+    "themealdb": null
+  }
+}

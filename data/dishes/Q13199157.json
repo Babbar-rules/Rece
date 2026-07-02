@@ -1,0 +1,18 @@
+{
+  "id": "Q13199157",
+  "name": "dodol garut",
+  "description": "Sundanese confectionery from Garut, Indonesia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dodol-garut-q13199157/dodol-garut-q13199157-1.jpg",
+    "images/dodol-garut-q13199157/dodol-garut-q13199157-2.jpg",
+    "images/dodol-garut-q13199157/dodol-garut-q13199157-3.jpg",
+    "images/dodol-garut-q13199157/dodol-garut-q13199157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13199157",
+    "themealdb": null
+  }
+}

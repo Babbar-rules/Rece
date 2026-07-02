@@ -1,0 +1,20 @@
+{
+  "id": "Q1317802",
+  "name": "gâche vendéenne",
+  "description": "French sweet bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gache-vendeenne-q1317802/gache-vendeenne-q1317802-1.jpg",
+    "images/gache-vendeenne-q1317802/gache-vendeenne-q1317802-2.jpg",
+    "images/gache-vendeenne-q1317802/gache-vendeenne-q1317802-3.jpg",
+    "images/gache-vendeenne-q1317802/gache-vendeenne-q1317802-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1317802",
+    "themealdb": null
+  }
+}

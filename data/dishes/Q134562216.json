@@ -1,0 +1,20 @@
+{
+  "id": "Q134562216",
+  "name": "Kashiwameshi",
+  "description": "Traditional Japanese rice dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kashiwameshi-q134562216/kashiwameshi-q134562216-1.jpg",
+    "images/kashiwameshi-q134562216/kashiwameshi-q134562216-2.jpg",
+    "images/kashiwameshi-q134562216/kashiwameshi-q134562216-3.jpg",
+    "images/kashiwameshi-q134562216/kashiwameshi-q134562216-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134562216",
+    "themealdb": null
+  }
+}

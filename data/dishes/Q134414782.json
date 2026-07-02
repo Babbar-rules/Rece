@@ -1,0 +1,18 @@
+{
+  "id": "Q134414782",
+  "name": "alfajor santafesino",
+  "description": "alfajor in Santa Fe province, Argentina",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alfajor-santafesino-q134414782/alfajor-santafesino-q134414782-1.jpg",
+    "images/alfajor-santafesino-q134414782/alfajor-santafesino-q134414782-2.jpg",
+    "images/alfajor-santafesino-q134414782/alfajor-santafesino-q134414782-3.jpg",
+    "images/alfajor-santafesino-q134414782/alfajor-santafesino-q134414782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134414782",
+    "themealdb": null
+  }
+}

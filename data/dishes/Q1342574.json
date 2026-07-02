@@ -1,0 +1,22 @@
+{
+  "id": "Q1342574",
+  "name": "crème anglaise",
+  "description": "light pouring custard",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "English cuisine"
+  ],
+  "images": [
+    "images/creme-anglaise-q1342574/creme-anglaise-q1342574-1.jpg",
+    "images/creme-anglaise-q1342574/creme-anglaise-q1342574-2.jpg",
+    "images/creme-anglaise-q1342574/creme-anglaise-q1342574-3.jpg",
+    "images/creme-anglaise-q1342574/creme-anglaise-q1342574-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1342574",
+    "themealdb": null
+  }
+}

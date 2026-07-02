@@ -1,0 +1,18 @@
+{
+  "id": "Q131459325",
+  "name": "Muri Ghanto",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/muri-ghanto-q131459325/muri-ghanto-q131459325-1.jpg",
+    "images/muri-ghanto-q131459325/muri-ghanto-q131459325-2.jpg",
+    "images/muri-ghanto-q131459325/muri-ghanto-q131459325-3.jpg",
+    "images/muri-ghanto-q131459325/muri-ghanto-q131459325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131459325",
+    "themealdb": null
+  }
+}

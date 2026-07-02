@@ -1,0 +1,20 @@
+{
+  "id": "Q1338822",
+  "name": "samgyeopsal",
+  "description": "Korean grilled pork belly dish",
+  "nationality": [
+    "Fourth Republic of South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samgyeopsal-q1338822/samgyeopsal-q1338822-1.jpg",
+    "images/samgyeopsal-q1338822/samgyeopsal-q1338822-2.jpg",
+    "images/samgyeopsal-q1338822/samgyeopsal-q1338822-3.jpg",
+    "images/samgyeopsal-q1338822/samgyeopsal-q1338822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1338822",
+    "themealdb": null
+  }
+}

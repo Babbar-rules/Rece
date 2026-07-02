@@ -1,0 +1,20 @@
+{
+  "id": "Q1335219",
+  "name": "Samgyetang",
+  "description": "Korean soup of a whole young chicken filled with garlic, rice, jujube, and ginseng",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samgyetang-q1335219/samgyetang-q1335219-1.jpg",
+    "images/samgyetang-q1335219/samgyetang-q1335219-2.jpg",
+    "images/samgyetang-q1335219/samgyetang-q1335219-3.jpg",
+    "images/samgyetang-q1335219/samgyetang-q1335219-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1335219",
+    "themealdb": null
+  }
+}

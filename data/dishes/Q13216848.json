@@ -1,0 +1,20 @@
+{
+  "id": "Q13216848",
+  "name": "Rouyot",
+  "description": "type of baked goods",
+  "nationality": [
+    "Walloon Region"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rouyot-q13216848/rouyot-q13216848-1.jpg",
+    "images/rouyot-q13216848/rouyot-q13216848-2.jpg",
+    "images/rouyot-q13216848/rouyot-q13216848-3.jpg",
+    "images/rouyot-q13216848/rouyot-q13216848-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13216848",
+    "themealdb": null
+  }
+}

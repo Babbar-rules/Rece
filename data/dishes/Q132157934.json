@@ -1,0 +1,22 @@
+{
+  "id": "Q132157934",
+  "name": "Ji Pai",
+  "description": "Taiwanese Fried Chicken Cutlet",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/ji-pai-q132157934/ji-pai-q132157934-1.jpg",
+    "images/ji-pai-q132157934/ji-pai-q132157934-2.png",
+    "images/ji-pai-q132157934/ji-pai-q132157934-3.jpg",
+    "images/ji-pai-q132157934/ji-pai-q132157934-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132157934",
+    "themealdb": null
+  }
+}

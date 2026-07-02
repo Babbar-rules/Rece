@@ -1,0 +1,20 @@
+{
+  "id": "Q13422497",
+  "name": "sopa de ajo",
+  "description": "common Spanish soup",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sopa-de-ajo-q13422497/sopa-de-ajo-q13422497-1.jpg",
+    "images/sopa-de-ajo-q13422497/sopa-de-ajo-q13422497-2.jpg",
+    "images/sopa-de-ajo-q13422497/sopa-de-ajo-q13422497-3.jpg",
+    "images/sopa-de-ajo-q13422497/sopa-de-ajo-q13422497-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13422497",
+    "themealdb": null
+  }
+}

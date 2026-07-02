@@ -1,0 +1,18 @@
+{
+  "id": "Q135112167",
+  "name": "The William Mitchell",
+  "description": "Artistic ice lolly",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-william-mitchell-q135112167/the-william-mitchell-q135112167-1.jpg",
+    "images/the-william-mitchell-q135112167/the-william-mitchell-q135112167-2.png",
+    "images/the-william-mitchell-q135112167/the-william-mitchell-q135112167-3.jpg",
+    "images/the-william-mitchell-q135112167/the-william-mitchell-q135112167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135112167",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q134609821",
+  "name": "lamb brisket stew",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamb-brisket-stew-q134609821/lamb-brisket-stew-q134609821-1.jpg",
+    "images/lamb-brisket-stew-q134609821/lamb-brisket-stew-q134609821-2.jpg",
+    "images/lamb-brisket-stew-q134609821/lamb-brisket-stew-q134609821-3.jpg",
+    "images/lamb-brisket-stew-q134609821/lamb-brisket-stew-q134609821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134609821",
+    "themealdb": null
+  }
+}

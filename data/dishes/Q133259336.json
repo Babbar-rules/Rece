@@ -1,0 +1,20 @@
+{
+  "id": "Q133259336",
+  "name": "Chakluk",
+  "description": "Meitei-style meal",
+  "nationality": [],
+  "region_cuisine": [
+    "Manipuri cuisine"
+  ],
+  "images": [
+    "images/chakluk-q133259336/chakluk-q133259336-1.jpg",
+    "images/chakluk-q133259336/chakluk-q133259336-2.jpg",
+    "images/chakluk-q133259336/chakluk-q133259336-3.jpg",
+    "images/chakluk-q133259336/chakluk-q133259336-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133259336",
+    "themealdb": null
+  }
+}

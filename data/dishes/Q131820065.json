@@ -1,0 +1,20 @@
+{
+  "id": "Q131820065",
+  "name": "Kyiv Borscht",
+  "description": "Ukrainian cuisine",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kyiv-borscht-q131820065/kyiv-borscht-q131820065-1.jpg",
+    "images/kyiv-borscht-q131820065/kyiv-borscht-q131820065-2.jpg",
+    "images/kyiv-borscht-q131820065/kyiv-borscht-q131820065-3.jpg",
+    "images/kyiv-borscht-q131820065/kyiv-borscht-q131820065-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131820065",
+    "themealdb": null
+  }
+}

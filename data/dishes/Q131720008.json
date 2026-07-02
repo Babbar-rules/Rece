@@ -1,0 +1,19 @@
+{
+  "id": "Q131720008",
+  "name": "csülök pékné módra",
+  "description": "",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/csulok-pekne-modra-q131720008/csulok-pekne-modra-q131720008-1.png",
+    "images/csulok-pekne-modra-q131720008/csulok-pekne-modra-q131720008-2.jpg",
+    "images/csulok-pekne-modra-q131720008/csulok-pekne-modra-q131720008-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131720008",
+    "themealdb": null
+  }
+}

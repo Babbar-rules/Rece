@@ -1,0 +1,20 @@
+{
+  "id": "Q131736473",
+  "name": "Potato curls",
+  "description": "potato roll with various fillings",
+  "nationality": [],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/potato-curls-q131736473/potato-curls-q131736473-1.jpg",
+    "images/potato-curls-q131736473/potato-curls-q131736473-2.jpg",
+    "images/potato-curls-q131736473/potato-curls-q131736473-3.jpg",
+    "images/potato-curls-q131736473/potato-curls-q131736473-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131736473",
+    "themealdb": null
+  }
+}

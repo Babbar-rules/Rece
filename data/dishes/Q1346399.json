@@ -1,0 +1,18 @@
+{
+  "id": "Q1346399",
+  "name": "prosphora",
+  "description": "bread used in Eastern Orthodox rituals",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prosphora-q1346399/prosphora-q1346399-1.jpg",
+    "images/prosphora-q1346399/prosphora-q1346399-2.jpg",
+    "images/prosphora-q1346399/prosphora-q1346399-3.jpg",
+    "images/prosphora-q1346399/prosphora-q1346399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1346399",
+    "themealdb": null
+  }
+}

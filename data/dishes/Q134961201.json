@@ -1,0 +1,18 @@
+{
+  "id": "Q134961201",
+  "name": "Irish soda bread",
+  "description": "Irish quickbread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/irish-soda-bread-q134961201/irish-soda-bread-q134961201-1.jpg",
+    "images/irish-soda-bread-q134961201/irish-soda-bread-q134961201-2.jpg",
+    "images/irish-soda-bread-q134961201/irish-soda-bread-q134961201-3.jpg",
+    "images/irish-soda-bread-q134961201/irish-soda-bread-q134961201-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134961201",
+    "themealdb": null
+  }
+}

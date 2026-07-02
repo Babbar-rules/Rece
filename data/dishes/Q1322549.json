@@ -1,0 +1,22 @@
+{
+  "id": "Q1322549",
+  "name": "butter chicken",
+  "description": "Indian curry dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/butter-chicken-q1322549/butter-chicken-q1322549-1.jpg",
+    "images/butter-chicken-q1322549/butter-chicken-q1322549-2.jpg",
+    "images/butter-chicken-q1322549/butter-chicken-q1322549-3.jpg",
+    "images/butter-chicken-q1322549/butter-chicken-q1322549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1322549",
+    "themealdb": null
+  }
+}

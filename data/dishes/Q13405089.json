@@ -1,0 +1,18 @@
+{
+  "id": "Q13405089",
+  "name": "lontong balap",
+  "description": "Indonesian rice cake dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lontong-balap-q13405089/lontong-balap-q13405089-1.jpg",
+    "images/lontong-balap-q13405089/lontong-balap-q13405089-2.jpg",
+    "images/lontong-balap-q13405089/lontong-balap-q13405089-3.png",
+    "images/lontong-balap-q13405089/lontong-balap-q13405089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13405089",
+    "themealdb": null
+  }
+}

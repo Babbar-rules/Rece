@@ -1,0 +1,18 @@
+{
+  "id": "Q131683895",
+  "name": "jaffle",
+  "description": "toasted sandwich with sealed edges",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jaffle-q131683895/jaffle-q131683895-1.jpg",
+    "images/jaffle-q131683895/jaffle-q131683895-2.jpg",
+    "images/jaffle-q131683895/jaffle-q131683895-3.jpg",
+    "images/jaffle-q131683895/jaffle-q131683895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131683895",
+    "themealdb": null
+  }
+}

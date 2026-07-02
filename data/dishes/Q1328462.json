@@ -1,0 +1,18 @@
+{
+  "id": "Q1328462",
+  "name": "honeycomb toffee",
+  "description": "type of sweet candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/honeycomb-toffee-q1328462/honeycomb-toffee-q1328462-1.jpg",
+    "images/honeycomb-toffee-q1328462/honeycomb-toffee-q1328462-2.jpg",
+    "images/honeycomb-toffee-q1328462/honeycomb-toffee-q1328462-3.jpg",
+    "images/honeycomb-toffee-q1328462/honeycomb-toffee-q1328462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1328462",
+    "themealdb": null
+  }
+}

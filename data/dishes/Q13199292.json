@@ -1,0 +1,18 @@
+{
+  "id": "Q13199292",
+  "name": "Géco",
+  "description": "Type of fermented bean paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/geco-q13199292/geco-q13199292-1.jpg",
+    "images/geco-q13199292/geco-q13199292-2.jpg",
+    "images/geco-q13199292/geco-q13199292-3.jpg",
+    "images/geco-q13199292/geco-q13199292-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13199292",
+    "themealdb": null
+  }
+}

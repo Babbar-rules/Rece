@@ -1,0 +1,18 @@
+{
+  "id": "Q135112256",
+  "name": "The One With All the Colour",
+  "description": "Artistic ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-one-with-all-the-colour-q135112256/the-one-with-all-the-colour-q135112256-1.jpg",
+    "images/the-one-with-all-the-colour-q135112256/the-one-with-all-the-colour-q135112256-2.jpg",
+    "images/the-one-with-all-the-colour-q135112256/the-one-with-all-the-colour-q135112256-3.jpg",
+    "images/the-one-with-all-the-colour-q135112256/the-one-with-all-the-colour-q135112256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135112256",
+    "themealdb": null
+  }
+}

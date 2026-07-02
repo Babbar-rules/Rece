@@ -1,0 +1,18 @@
+{
+  "id": "Q134385",
+  "name": "fugu",
+  "description": "various species of pufferfish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fugu-q134385/fugu-q134385-1.jpg",
+    "images/fugu-q134385/fugu-q134385-2.jpg",
+    "images/fugu-q134385/fugu-q134385-3.jpg",
+    "images/fugu-q134385/fugu-q134385-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134385",
+    "themealdb": null
+  }
+}

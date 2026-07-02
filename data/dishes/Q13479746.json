@@ -1,0 +1,20 @@
+{
+  "id": "Q13479746",
+  "name": "Covrigi",
+  "description": "Romanian baked goods similar to pretzels",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/covrigi-q13479746/covrigi-q13479746-1.jpg",
+    "images/covrigi-q13479746/covrigi-q13479746-2.jpg",
+    "images/covrigi-q13479746/covrigi-q13479746-3.jpg",
+    "images/covrigi-q13479746/covrigi-q13479746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13479746",
+    "themealdb": null
+  }
+}

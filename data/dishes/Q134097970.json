@@ -1,0 +1,18 @@
+{
+  "id": "Q134097970",
+  "name": "Jin-Kara",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jin-kara-q134097970/jin-kara-q134097970-1.jpg",
+    "images/jin-kara-q134097970/jin-kara-q134097970-2.jpg",
+    "images/jin-kara-q134097970/jin-kara-q134097970-3.jpg",
+    "images/jin-kara-q134097970/jin-kara-q134097970-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134097970",
+    "themealdb": null
+  }
+}

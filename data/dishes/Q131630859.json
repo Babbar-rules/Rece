@@ -1,0 +1,18 @@
+{
+  "id": "Q131630859",
+  "name": "hajnowski marcinek",
+  "description": "cake from Poland",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hajnowski-marcinek-q131630859/hajnowski-marcinek-q131630859-1.jpg",
+    "images/hajnowski-marcinek-q131630859/hajnowski-marcinek-q131630859-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131630859",
+    "themealdb": null
+  }
+}

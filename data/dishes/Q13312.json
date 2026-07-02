@@ -1,0 +1,18 @@
+{
+  "id": "Q13312",
+  "name": "snow cone",
+  "description": "shaved ice dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/snow-cone-q13312/snow-cone-q13312-1.jpg",
+    "images/snow-cone-q13312/snow-cone-q13312-2.jpg",
+    "images/snow-cone-q13312/snow-cone-q13312-3.jpg",
+    "images/snow-cone-q13312/snow-cone-q13312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13312",
+    "themealdb": null
+  }
+}

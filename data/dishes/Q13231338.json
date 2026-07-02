@@ -1,0 +1,20 @@
+{
+  "id": "Q13231338",
+  "name": "Czech-style hot dog",
+  "description": "fast food dish",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/czech-style-hot-dog-q13231338/czech-style-hot-dog-q13231338-1.jpg",
+    "images/czech-style-hot-dog-q13231338/czech-style-hot-dog-q13231338-2.jpg",
+    "images/czech-style-hot-dog-q13231338/czech-style-hot-dog-q13231338-3.jpg",
+    "images/czech-style-hot-dog-q13231338/czech-style-hot-dog-q13231338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13231338",
+    "themealdb": null
+  }
+}

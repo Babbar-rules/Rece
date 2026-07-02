@@ -1,0 +1,18 @@
+{
+  "id": "Q134527504",
+  "name": "lajiao chaorou",
+  "description": "pork dish of Hunan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lajiao-chaorou-q134527504/lajiao-chaorou-q134527504-1.jpg",
+    "images/lajiao-chaorou-q134527504/lajiao-chaorou-q134527504-2.jpg",
+    "images/lajiao-chaorou-q134527504/lajiao-chaorou-q134527504-3.jpg",
+    "images/lajiao-chaorou-q134527504/lajiao-chaorou-q134527504-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134527504",
+    "themealdb": null
+  }
+}

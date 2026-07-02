@@ -1,0 +1,18 @@
+{
+  "id": "Q133892366",
+  "name": "soy ice cream",
+  "description": "type of ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-ice-cream-q133892366/soy-ice-cream-q133892366-1.jpg",
+    "images/soy-ice-cream-q133892366/soy-ice-cream-q133892366-2.jpg",
+    "images/soy-ice-cream-q133892366/soy-ice-cream-q133892366-3.jpg",
+    "images/soy-ice-cream-q133892366/soy-ice-cream-q133892366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133892366",
+    "themealdb": null
+  }
+}

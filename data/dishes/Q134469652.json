@@ -1,0 +1,22 @@
+{
+  "id": "Q134469652",
+  "name": "murcia's salad",
+  "description": "typical salad from the Region of Murcia",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "cuisine of the Region of Murcia"
+  ],
+  "images": [
+    "images/murcias-salad-q134469652/murcias-salad-q134469652-1.jpg",
+    "images/murcias-salad-q134469652/murcias-salad-q134469652-2.jpg",
+    "images/murcias-salad-q134469652/murcias-salad-q134469652-3.jpg",
+    "images/murcias-salad-q134469652/murcias-salad-q134469652-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134469652",
+    "themealdb": null
+  }
+}

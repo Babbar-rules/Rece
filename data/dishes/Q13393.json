@@ -1,0 +1,22 @@
+{
+  "id": "Q13393",
+  "name": "onigiri",
+  "description": "Japanese rice ball",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/onigiri-q13393/onigiri-q13393-1.jpg",
+    "images/onigiri-q13393/onigiri-q13393-2.jpg",
+    "images/onigiri-q13393/onigiri-q13393-3.jpg",
+    "images/onigiri-q13393/onigiri-q13393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13393",
+    "themealdb": null
+  }
+}

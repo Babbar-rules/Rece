@@ -1,0 +1,20 @@
+{
+  "id": "Q1318753",
+  "name": "bubblegum",
+  "description": "type of chewing gum",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubblegum-q1318753/bubblegum-q1318753-1.jpg",
+    "images/bubblegum-q1318753/bubblegum-q1318753-2.jpg",
+    "images/bubblegum-q1318753/bubblegum-q1318753-3.jpg",
+    "images/bubblegum-q1318753/bubblegum-q1318753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1318753",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q134298793",
+  "name": "sautéed potatoes",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-potatoes-q134298793/sauteed-potatoes-q134298793-1.jpg",
+    "images/sauteed-potatoes-q134298793/sauteed-potatoes-q134298793-2.jpg",
+    "images/sauteed-potatoes-q134298793/sauteed-potatoes-q134298793-3.jpg",
+    "images/sauteed-potatoes-q134298793/sauteed-potatoes-q134298793-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134298793",
+    "themealdb": null
+  }
+}

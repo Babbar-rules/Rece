@@ -1,0 +1,20 @@
+{
+  "id": "Q1343820",
+  "name": "som tam",
+  "description": "",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/som-tam-q1343820/som-tam-q1343820-1.jpg",
+    "images/som-tam-q1343820/som-tam-q1343820-2.jpg",
+    "images/som-tam-q1343820/som-tam-q1343820-3.jpg",
+    "images/som-tam-q1343820/som-tam-q1343820-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1343820",
+    "themealdb": null
+  }
+}

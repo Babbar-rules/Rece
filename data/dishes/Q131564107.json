@@ -1,0 +1,22 @@
+{
+  "id": "Q131564107",
+  "name": "ِAbbas bread",
+  "description": "type of Iraqi bread",
+  "nationality": [
+    "Iraq"
+  ],
+  "region_cuisine": [
+    "Iraqi cuisine"
+  ],
+  "images": [
+    "images/abbas-bread-q131564107/abbas-bread-q131564107-1.jpg",
+    "images/abbas-bread-q131564107/abbas-bread-q131564107-2.jpg",
+    "images/abbas-bread-q131564107/abbas-bread-q131564107-3.jpg",
+    "images/abbas-bread-q131564107/abbas-bread-q131564107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131564107",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1328767",
+  "name": "Polonaise",
+  "description": "sauce in Polish cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/polonaise-q1328767/polonaise-q1328767-1.jpg",
+    "images/polonaise-q1328767/polonaise-q1328767-2.jpg",
+    "images/polonaise-q1328767/polonaise-q1328767-3.jpg",
+    "images/polonaise-q1328767/polonaise-q1328767-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1328767",
+    "themealdb": null
+  }
+}

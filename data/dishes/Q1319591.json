@@ -1,0 +1,18 @@
+{
+  "id": "Q1319591",
+  "name": "ice cream bar",
+  "description": "frozen dessert on a stick",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-bar-q1319591/ice-cream-bar-q1319591-1.jpg",
+    "images/ice-cream-bar-q1319591/ice-cream-bar-q1319591-2.jpg",
+    "images/ice-cream-bar-q1319591/ice-cream-bar-q1319591-3.png",
+    "images/ice-cream-bar-q1319591/ice-cream-bar-q1319591-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1319591",
+    "themealdb": null
+  }
+}

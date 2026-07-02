@@ -1,0 +1,22 @@
+{
+  "id": "Q1347028",
+  "name": "pulled pork",
+  "description": "classic American barbecue dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/pulled-pork-q1347028/pulled-pork-q1347028-1.jpg",
+    "images/pulled-pork-q1347028/pulled-pork-q1347028-2.jpg",
+    "images/pulled-pork-q1347028/pulled-pork-q1347028-3.jpg",
+    "images/pulled-pork-q1347028/pulled-pork-q1347028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1347028",
+    "themealdb": null
+  }
+}

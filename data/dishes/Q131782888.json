@@ -1,0 +1,18 @@
+{
+  "id": "Q131782888",
+  "name": "Okra Soup",
+  "description": "a Turkish variant of Okra soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okra-soup-q131782888/okra-soup-q131782888-1.jpg",
+    "images/okra-soup-q131782888/okra-soup-q131782888-2.jpg",
+    "images/okra-soup-q131782888/okra-soup-q131782888-3.jpg",
+    "images/okra-soup-q131782888/okra-soup-q131782888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131782888",
+    "themealdb": null
+  }
+}

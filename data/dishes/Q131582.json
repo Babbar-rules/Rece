@@ -1,0 +1,22 @@
+{
+  "id": "Q131582",
+  "name": "tiramisu",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/tiramisu-q131582/tiramisu-q131582-1.jpg",
+    "images/tiramisu-q131582/tiramisu-q131582-2.jpg",
+    "images/tiramisu-q131582/tiramisu-q131582-3.jpg",
+    "images/tiramisu-q131582/tiramisu-q131582-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131582",
+    "themealdb": null
+  }
+}

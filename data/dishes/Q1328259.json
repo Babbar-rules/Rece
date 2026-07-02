@@ -1,0 +1,20 @@
+{
+  "id": "Q1328259",
+  "name": "san-nakji",
+  "description": "Korean dish of sliced raw octopus",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/san-nakji-q1328259/san-nakji-q1328259-1.jpg",
+    "images/san-nakji-q1328259/san-nakji-q1328259-2.jpg",
+    "images/san-nakji-q1328259/san-nakji-q1328259-3.jpg",
+    "images/san-nakji-q1328259/san-nakji-q1328259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1328259",
+    "themealdb": null
+  }
+}

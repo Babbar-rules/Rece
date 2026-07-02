@@ -1,0 +1,18 @@
+{
+  "id": "Q134960080",
+  "name": "Pickleball burger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickleball-burger-q134960080/pickleball-burger-q134960080-1.jpg",
+    "images/pickleball-burger-q134960080/pickleball-burger-q134960080-2.jpg",
+    "images/pickleball-burger-q134960080/pickleball-burger-q134960080-3.jpg",
+    "images/pickleball-burger-q134960080/pickleball-burger-q134960080-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134960080",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q132681709",
+  "name": "kielbasa slaska",
+  "description": "type of Polish brühwurst, typical of Upper Silesia",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Silesian cuisine"
+  ],
+  "images": [
+    "images/kielbasa-slaska-q132681709/kielbasa-slaska-q132681709-1.jpg",
+    "images/kielbasa-slaska-q132681709/kielbasa-slaska-q132681709-2.jpg",
+    "images/kielbasa-slaska-q132681709/kielbasa-slaska-q132681709-3.jpg",
+    "images/kielbasa-slaska-q132681709/kielbasa-slaska-q132681709-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132681709",
+    "themealdb": null
+  }
+}

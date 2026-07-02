@@ -1,0 +1,22 @@
+{
+  "id": "Q13147213",
+  "name": "varenyky",
+  "description": "stuffed dumplings of unleavened dough",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/varenyky-q13147213/varenyky-q13147213-1.jpg",
+    "images/varenyky-q13147213/varenyky-q13147213-2.jpg",
+    "images/varenyky-q13147213/varenyky-q13147213-3.jpg",
+    "images/varenyky-q13147213/varenyky-q13147213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13147213",
+    "themealdb": null
+  }
+}

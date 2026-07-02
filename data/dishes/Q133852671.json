@@ -1,0 +1,18 @@
+{
+  "id": "Q133852671",
+  "name": "smothered burrito",
+  "description": "burrito with ingredients on the outside, meant to be eaten with utensils on a plate rather than held",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smothered-burrito-q133852671/smothered-burrito-q133852671-1.jpg",
+    "images/smothered-burrito-q133852671/smothered-burrito-q133852671-2.jpg",
+    "images/smothered-burrito-q133852671/smothered-burrito-q133852671-3.jpg",
+    "images/smothered-burrito-q133852671/smothered-burrito-q133852671-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133852671",
+    "themealdb": null
+  }
+}

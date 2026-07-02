@@ -1,0 +1,20 @@
+{
+  "id": "Q1345626",
+  "name": "goro",
+  "description": "Norwegian sweet bread",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goro-q1345626/goro-q1345626-1.jpg",
+    "images/goro-q1345626/goro-q1345626-2.jpg",
+    "images/goro-q1345626/goro-q1345626-3.jpg",
+    "images/goro-q1345626/goro-q1345626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1345626",
+    "themealdb": null
+  }
+}

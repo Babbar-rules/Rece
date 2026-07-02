@@ -1,0 +1,23 @@
+{
+  "id": "Q134152",
+  "name": "pan loaf",
+  "description": "type of bread that is very soft inside and has thin crust",
+  "nationality": [
+    "United States",
+    "Italy",
+    "France",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-loaf-q134152/pan-loaf-q134152-1.jpg",
+    "images/pan-loaf-q134152/pan-loaf-q134152-2.jpg",
+    "images/pan-loaf-q134152/pan-loaf-q134152-3.jpg",
+    "images/pan-loaf-q134152/pan-loaf-q134152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134152",
+    "themealdb": null
+  }
+}

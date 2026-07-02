@@ -1,0 +1,18 @@
+{
+  "id": "Q134590386",
+  "name": "halloumi fries",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/halloumi-fries-q134590386/halloumi-fries-q134590386-1.jpg",
+    "images/halloumi-fries-q134590386/halloumi-fries-q134590386-2.jpg",
+    "images/halloumi-fries-q134590386/halloumi-fries-q134590386-3.jpg",
+    "images/halloumi-fries-q134590386/halloumi-fries-q134590386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134590386",
+    "themealdb": null
+  }
+}

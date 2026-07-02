@@ -1,0 +1,18 @@
+{
+  "id": "Q1348968",
+  "name": "strawberry jam",
+  "description": "jam made from strawberries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-jam-q1348968/strawberry-jam-q1348968-1.jpg",
+    "images/strawberry-jam-q1348968/strawberry-jam-q1348968-2.jpg",
+    "images/strawberry-jam-q1348968/strawberry-jam-q1348968-3.jpg",
+    "images/strawberry-jam-q1348968/strawberry-jam-q1348968-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1348968",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q135112272",
+  "name": "In Search of the Pineapple",
+  "description": "Artistic ice lolly",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/in-search-of-the-pineapple-q135112272/in-search-of-the-pineapple-q135112272-1.png",
+    "images/in-search-of-the-pineapple-q135112272/in-search-of-the-pineapple-q135112272-2.jpg",
+    "images/in-search-of-the-pineapple-q135112272/in-search-of-the-pineapple-q135112272-3.jpg",
+    "images/in-search-of-the-pineapple-q135112272/in-search-of-the-pineapple-q135112272-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135112272",
+    "themealdb": null
+  }
+}

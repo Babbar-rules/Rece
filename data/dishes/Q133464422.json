@@ -1,0 +1,20 @@
+{
+  "id": "Q133464422",
+  "name": "KFC Original Recipe Chicken",
+  "description": "KFC product",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kfc-original-recipe-chicken-q133464422/kfc-original-recipe-chicken-q133464422-1.jpg",
+    "images/kfc-original-recipe-chicken-q133464422/kfc-original-recipe-chicken-q133464422-2.jpg",
+    "images/kfc-original-recipe-chicken-q133464422/kfc-original-recipe-chicken-q133464422-3.jpg",
+    "images/kfc-original-recipe-chicken-q133464422/kfc-original-recipe-chicken-q133464422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133464422",
+    "themealdb": null
+  }
+}

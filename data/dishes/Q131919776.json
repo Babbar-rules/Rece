@@ -1,0 +1,18 @@
+{
+  "id": "Q131919776",
+  "name": "pizza in Brazil",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-in-brazil-q131919776/pizza-in-brazil-q131919776-1.jpg",
+    "images/pizza-in-brazil-q131919776/pizza-in-brazil-q131919776-2.jpg",
+    "images/pizza-in-brazil-q131919776/pizza-in-brazil-q131919776-3.png",
+    "images/pizza-in-brazil-q131919776/pizza-in-brazil-q131919776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131919776",
+    "themealdb": null
+  }
+}

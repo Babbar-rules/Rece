@@ -1,0 +1,18 @@
+{
+  "id": "Q132795118",
+  "name": "8 desserts in 1 pan",
+  "description": "tray consisting of 8 desserts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/8-desserts-in-1-pan-q132795118/8-desserts-in-1-pan-q132795118-1.png",
+    "images/8-desserts-in-1-pan-q132795118/8-desserts-in-1-pan-q132795118-2.jpg",
+    "images/8-desserts-in-1-pan-q132795118/8-desserts-in-1-pan-q132795118-3.jpg",
+    "images/8-desserts-in-1-pan-q132795118/8-desserts-in-1-pan-q132795118-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q132795118",
+    "themealdb": null
+  }
+}

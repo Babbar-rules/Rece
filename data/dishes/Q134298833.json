@@ -1,0 +1,18 @@
+{
+  "id": "Q134298833",
+  "name": "jalapeño peppers stuffed with cheese",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jalapeno-peppers-stuffed-with-cheese-q134298833/jalapeno-peppers-stuffed-with-cheese-q134298833-1.jpg",
+    "images/jalapeno-peppers-stuffed-with-cheese-q134298833/jalapeno-peppers-stuffed-with-cheese-q134298833-2.jpg",
+    "images/jalapeno-peppers-stuffed-with-cheese-q134298833/jalapeno-peppers-stuffed-with-cheese-q134298833-3.jpg",
+    "images/jalapeno-peppers-stuffed-with-cheese-q134298833/jalapeno-peppers-stuffed-with-cheese-q134298833-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q134298833",
+    "themealdb": null
+  }
+}
