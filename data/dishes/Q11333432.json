@@ -1,0 +1,18 @@
+{
+  "id": "Q11333432",
+  "name": "furai",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/furai-q11333432/furai-q11333432-1.jpg",
+    "images/furai-q11333432/furai-q11333432-2.jpg",
+    "images/furai-q11333432/furai-q11333432-3.jpg",
+    "images/furai-q11333432/furai-q11333432-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11333432",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11377768",
+  "name": "Sendai ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sendai-ramen-q11377768/sendai-ramen-q11377768-1.jpg",
+    "images/sendai-ramen-q11377768/sendai-ramen-q11377768-2.jpg",
+    "images/sendai-ramen-q11377768/sendai-ramen-q11377768-3.jpg",
+    "images/sendai-ramen-q11377768/sendai-ramen-q11377768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11377768",
+    "themealdb": null
+  }
+}

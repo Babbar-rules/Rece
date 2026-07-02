@@ -1,0 +1,18 @@
+{
+  "id": "Q11348512",
+  "name": "Hearth bread",
+  "description": "rustic or artisan bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hearth-bread-q11348512/hearth-bread-q11348512-1.jpg",
+    "images/hearth-bread-q11348512/hearth-bread-q11348512-2.jpg",
+    "images/hearth-bread-q11348512/hearth-bread-q11348512-3.jpg",
+    "images/hearth-bread-q11348512/hearth-bread-q11348512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11348512",
+    "themealdb": null
+  }
+}

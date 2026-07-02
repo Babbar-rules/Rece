@@ -1,0 +1,22 @@
+{
+  "id": "Q1136702",
+  "name": "Passatelli",
+  "description": "typical pasta from Romagna",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/passatelli-q1136702/passatelli-q1136702-1.jpg",
+    "images/passatelli-q1136702/passatelli-q1136702-2.jpg",
+    "images/passatelli-q1136702/passatelli-q1136702-3.jpg",
+    "images/passatelli-q1136702/passatelli-q1136702-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1136702",
+    "themealdb": null
+  }
+}

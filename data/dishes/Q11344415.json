@@ -1,0 +1,20 @@
+{
+  "id": "Q11344415",
+  "name": "mona ou",
+  "description": "ice cream",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mona-ou-q11344415/mona-ou-q11344415-1.jpg",
+    "images/mona-ou-q11344415/mona-ou-q11344415-2.jpg",
+    "images/mona-ou-q11344415/mona-ou-q11344415-3.jpg",
+    "images/mona-ou-q11344415/mona-ou-q11344415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11344415",
+    "themealdb": null
+  }
+}

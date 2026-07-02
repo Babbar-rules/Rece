@@ -1,0 +1,20 @@
+{
+  "id": "Q11338778",
+  "name": "Volga rice",
+  "description": "Japanese fried rice dish",
+  "nationality": [],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/volga-rice-q11338778/volga-rice-q11338778-1.jpg",
+    "images/volga-rice-q11338778/volga-rice-q11338778-2.jpg",
+    "images/volga-rice-q11338778/volga-rice-q11338778-3.jpg",
+    "images/volga-rice-q11338778/volga-rice-q11338778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11338778",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11335663",
+  "name": "pudding à la mode",
+  "description": "crème caramel",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pudding-a-la-mode-q11335663/pudding-a-la-mode-q11335663-1.jpg",
+    "images/pudding-a-la-mode-q11335663/pudding-a-la-mode-q11335663-2.jpg",
+    "images/pudding-a-la-mode-q11335663/pudding-a-la-mode-q11335663-3.jpg",
+    "images/pudding-a-la-mode-q11335663/pudding-a-la-mode-q11335663-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11335663",
+    "themealdb": null
+  }
+}

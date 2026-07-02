@@ -1,0 +1,18 @@
+{
+  "id": "Q11353687",
+  "name": "Nanakusa-gayu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nanakusa-gayu-q11353687/nanakusa-gayu-q11353687-1.jpg",
+    "images/nanakusa-gayu-q11353687/nanakusa-gayu-q11353687-2.jpeg",
+    "images/nanakusa-gayu-q11353687/nanakusa-gayu-q11353687-3.jpeg",
+    "images/nanakusa-gayu-q11353687/nanakusa-gayu-q11353687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11353687",
+    "themealdb": null
+  }
+}

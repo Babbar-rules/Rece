@@ -1,0 +1,20 @@
+{
+  "id": "Q113389255",
+  "name": "Diguiyangni",
+  "description": "",
+  "nationality": [
+    "Guinea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/diguiyangni-q113389255/diguiyangni-q113389255-1.jpg",
+    "images/diguiyangni-q113389255/diguiyangni-q113389255-2.jpg",
+    "images/diguiyangni-q113389255/diguiyangni-q113389255-3.jpg",
+    "images/diguiyangni-q113389255/diguiyangni-q113389255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113389255",
+    "themealdb": null
+  }
+}

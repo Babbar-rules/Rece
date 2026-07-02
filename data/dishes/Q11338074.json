@@ -1,0 +1,20 @@
+{
+  "id": "Q11338074",
+  "name": "Hormone yaki udon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hormone-yaki-udon-q11338074/hormone-yaki-udon-q11338074-1.jpg",
+    "images/hormone-yaki-udon-q11338074/hormone-yaki-udon-q11338074-2.jpg",
+    "images/hormone-yaki-udon-q11338074/hormone-yaki-udon-q11338074-3.jpg",
+    "images/hormone-yaki-udon-q11338074/hormone-yaki-udon-q11338074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11338074",
+    "themealdb": null
+  }
+}

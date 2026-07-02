@@ -1,0 +1,20 @@
+{
+  "id": "Q11352226",
+  "name": "roll with sliced sausage",
+  "description": "",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roll-with-sliced-sausage-q11352226/roll-with-sliced-sausage-q11352226-1.jpg",
+    "images/roll-with-sliced-sausage-q11352226/roll-with-sliced-sausage-q11352226-2.jpg",
+    "images/roll-with-sliced-sausage-q11352226/roll-with-sliced-sausage-q11352226-3.jpg",
+    "images/roll-with-sliced-sausage-q11352226/roll-with-sliced-sausage-q11352226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11352226",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "Q1135831",
+  "name": "Rogan josh",
+  "description": "Aromatic curried meat",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [
+    "Lamb"
+  ],
+  "images": [
+    "images/rogan-josh-q1135831/rogan-josh-q1135831-1.jpg",
+    "images/rogan-josh-q1135831/rogan-josh-q1135831-2.jpg",
+    "images/rogan-josh-q1135831/rogan-josh-q1135831-3.jpg",
+    "images/rogan-josh-q1135831/rogan-josh-q1135831-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52808",
+    "category": "Lamb",
+    "area": "India",
+    "instructions": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice.",
+    "ingredients": [
+      {
+        "ingredient": "Onion",
+        "measure": "2 quartered"
+      },
+      {
+        "ingredient": "Sunflower Oil",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "4 cloves"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "Thumb sized peeled and very finely grated"
+      },
+      {
+        "ingredient": "Madras Paste",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "cinnamon stick",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "6 bashed to break shells"
+      },
+      {
+        "ingredient": "Cloves",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Tomato Purée",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Lamb",
+        "measure": "1kg cubed"
+      },
+      {
+        "ingredient": "Greek yogurt",
+        "measure": "150ml"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "Garnish chopped"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=NZVo32n7iS8",
+    "thumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1135831",
+    "themealdb": "52808"
+  }
+}

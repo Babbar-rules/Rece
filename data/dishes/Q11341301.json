@@ -1,0 +1,20 @@
+{
+  "id": "Q11341301",
+  "name": "Marusei butter sand",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marusei-butter-sand-q11341301/marusei-butter-sand-q11341301-1.jpg",
+    "images/marusei-butter-sand-q11341301/marusei-butter-sand-q11341301-2.jpg",
+    "images/marusei-butter-sand-q11341301/marusei-butter-sand-q11341301-3.jpg",
+    "images/marusei-butter-sand-q11341301/marusei-butter-sand-q11341301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11341301",
+    "themealdb": null
+  }
+}

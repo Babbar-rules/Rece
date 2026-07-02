@@ -1,0 +1,18 @@
+{
+  "id": "Q11395942",
+  "name": "Hakodate ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hakodate-ramen-q11395942/hakodate-ramen-q11395942-1.png",
+    "images/hakodate-ramen-q11395942/hakodate-ramen-q11395942-2.png",
+    "images/hakodate-ramen-q11395942/hakodate-ramen-q11395942-3.jpg",
+    "images/hakodate-ramen-q11395942/hakodate-ramen-q11395942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11395942",
+    "themealdb": null
+  }
+}

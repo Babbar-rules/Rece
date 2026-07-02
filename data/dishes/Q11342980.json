@@ -1,0 +1,20 @@
+{
+  "id": "Q11342980",
+  "name": "mire biscuit",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mire-biscuit-q11342980/mire-biscuit-q11342980-1.jpg",
+    "images/mire-biscuit-q11342980/mire-biscuit-q11342980-2.jpg",
+    "images/mire-biscuit-q11342980/mire-biscuit-q11342980-3.jpg",
+    "images/mire-biscuit-q11342980/mire-biscuit-q11342980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11342980",
+    "themealdb": null
+  }
+}

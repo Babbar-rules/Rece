@@ -1,0 +1,23 @@
+{
+  "id": "Q113859684",
+  "name": "Zucchini slice",
+  "description": "dish common in Australia and New Zealand",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [
+    "New Zealand cuisine",
+    "Australian cuisine"
+  ],
+  "images": [
+    "images/zucchini-slice-q113859684/zucchini-slice-q113859684-1.jpg",
+    "images/zucchini-slice-q113859684/zucchini-slice-q113859684-2.jpg",
+    "images/zucchini-slice-q113859684/zucchini-slice-q113859684-3.jpg",
+    "images/zucchini-slice-q113859684/zucchini-slice-q113859684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113859684",
+    "themealdb": null
+  }
+}

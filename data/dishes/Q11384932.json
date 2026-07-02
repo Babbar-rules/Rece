@@ -1,0 +1,18 @@
+{
+  "id": "Q11384932",
+  "name": "Sano ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sano-ramen-q11384932/sano-ramen-q11384932-1.jpg",
+    "images/sano-ramen-q11384932/sano-ramen-q11384932-2.jpg",
+    "images/sano-ramen-q11384932/sano-ramen-q11384932-3.jpg",
+    "images/sano-ramen-q11384932/sano-ramen-q11384932-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11384932",
+    "themealdb": null
+  }
+}

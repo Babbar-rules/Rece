@@ -1,0 +1,18 @@
+{
+  "id": "Q113946149",
+  "name": "golonka",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/golonka-q113946149/golonka-q113946149-1.jpg",
+    "images/golonka-q113946149/golonka-q113946149-2.jpg",
+    "images/golonka-q113946149/golonka-q113946149-3.jpg",
+    "images/golonka-q113946149/golonka-q113946149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113946149",
+    "themealdb": null
+  }
+}

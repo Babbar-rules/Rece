@@ -1,0 +1,96 @@
+{
+  "id": "Q1139389",
+  "name": "dal",
+  "description": "pulses used throughout South Asia in cooking",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/dal-q1139389/dal-q1139389-1.jpg",
+    "images/dal-q1139389/dal-q1139389-2.jpg",
+    "images/dal-q1139389/dal-q1139389-3.jpg",
+    "images/dal-q1139389/dal-q1139389-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52785",
+    "category": "Vegetarian",
+    "area": "India",
+    "instructions": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.\r\nCook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.\r\nIn a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.\r\nAdd tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.\r\nAdd cilantro and garam masala cook for about one minute.\r\nPour the seasoning over dal mix it well and cook for another minute.\r\nServe with Naan.",
+    "ingredients": [
+      {
+        "ingredient": "Toor dal",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2-1/2 cups"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Turmeric",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Ghee",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Chopped tomatoes",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Cumin seeds",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Mustard Seeds",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Green Chilli",
+        "measure": "1 tbs chopped"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "2 tsp shredded"
+      },
+      {
+        "ingredient": "Cilantro",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Garam Masala",
+        "measure": "1/4 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=J4D855Q9-jg",
+    "thumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1139389",
+    "themealdb": "52785"
+  }
+}

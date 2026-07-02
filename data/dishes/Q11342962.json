@@ -1,0 +1,20 @@
+{
+  "id": "Q11342962",
+  "name": "mille crêpe",
+  "description": "stacking of several crepes with cream or fruit in between",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mille-crepe-q11342962/mille-crepe-q11342962-1.jpg",
+    "images/mille-crepe-q11342962/mille-crepe-q11342962-2.jpg",
+    "images/mille-crepe-q11342962/mille-crepe-q11342962-3.jpg",
+    "images/mille-crepe-q11342962/mille-crepe-q11342962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11342962",
+    "themealdb": null
+  }
+}

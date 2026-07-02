@@ -1,0 +1,18 @@
+{
+  "id": "Q11393750",
+  "name": "gu-zōni",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gu-zoni-q11393750/gu-zoni-q11393750-1.jpg",
+    "images/gu-zoni-q11393750/gu-zoni-q11393750-2.jpg",
+    "images/gu-zoni-q11393750/gu-zoni-q11393750-3.jpg",
+    "images/gu-zoni-q11393750/gu-zoni-q11393750-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11393750",
+    "themealdb": null
+  }
+}

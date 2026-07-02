@@ -1,0 +1,18 @@
+{
+  "id": "Q11380763",
+  "name": "Datemaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/datemaki-q11380763/datemaki-q11380763-1.jpg",
+    "images/datemaki-q11380763/datemaki-q11380763-2.jpg",
+    "images/datemaki-q11380763/datemaki-q11380763-3.jpg",
+    "images/datemaki-q11380763/datemaki-q11380763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11380763",
+    "themealdb": null
+  }
+}

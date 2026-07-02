@@ -1,0 +1,18 @@
+{
+  "id": "Q11389772",
+  "name": "Halawa",
+  "description": "Egyptian food prepared from Tehina, sugar and flavors",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/halawa-q11389772/halawa-q11389772-1.jpg",
+    "images/halawa-q11389772/halawa-q11389772-2.jpg",
+    "images/halawa-q11389772/halawa-q11389772-3.jpg",
+    "images/halawa-q11389772/halawa-q11389772-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11389772",
+    "themealdb": null
+  }
+}

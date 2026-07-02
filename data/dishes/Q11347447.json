@@ -1,0 +1,20 @@
+{
+  "id": "Q11347447",
+  "name": "ramune",
+  "description": "Japanese confectionery",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ramune-q11347447/ramune-q11347447-1.jpg",
+    "images/ramune-q11347447/ramune-q11347447-2.jpg",
+    "images/ramune-q11347447/ramune-q11347447-3.jpg",
+    "images/ramune-q11347447/ramune-q11347447-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11347447",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11337025",
+  "name": "baby castella",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-castella-q11337025/baby-castella-q11337025-1.jpg",
+    "images/baby-castella-q11337025/baby-castella-q11337025-2.jpg",
+    "images/baby-castella-q11337025/baby-castella-q11337025-3.jpg",
+    "images/baby-castella-q11337025/baby-castella-q11337025-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11337025",
+    "themealdb": null
+  }
+}

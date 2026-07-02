@@ -1,0 +1,18 @@
+{
+  "id": "Q11372295",
+  "name": "Gokabou",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gokabou-q11372295/gokabou-q11372295-1.jpg",
+    "images/gokabou-q11372295/gokabou-q11372295-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11372295",
+    "themealdb": null
+  }
+}

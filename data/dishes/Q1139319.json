@@ -1,0 +1,24 @@
+{
+  "id": "Q1139319",
+  "name": "semla",
+  "description": "traditional Scandinavian sweet roll associated with Shrove Tuesday",
+  "nationality": [
+    "Finland",
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Finnish cuisine",
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/semla-q1139319/semla-q1139319-1.jpg",
+    "images/semla-q1139319/semla-q1139319-2.jpg",
+    "images/semla-q1139319/semla-q1139319-3.jpg",
+    "images/semla-q1139319/semla-q1139319-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1139319",
+    "themealdb": null
+  }
+}

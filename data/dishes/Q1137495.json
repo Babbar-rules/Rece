@@ -1,0 +1,20 @@
+{
+  "id": "Q1137495",
+  "name": "Paris–Brest",
+  "description": "French dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parisbrest-q1137495/parisbrest-q1137495-1.jpg",
+    "images/parisbrest-q1137495/parisbrest-q1137495-2.jpg",
+    "images/parisbrest-q1137495/parisbrest-q1137495-3.jpg",
+    "images/parisbrest-q1137495/parisbrest-q1137495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1137495",
+    "themealdb": null
+  }
+}

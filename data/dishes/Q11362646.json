@@ -1,0 +1,19 @@
+{
+  "id": "Q11362646",
+  "name": "jambo mochi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jambo-mochi-q11362646/jambo-mochi-q11362646-1.jpg",
+    "images/jambo-mochi-q11362646/jambo-mochi-q11362646-2.jpg",
+    "images/jambo-mochi-q11362646/jambo-mochi-q11362646-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11362646",
+    "themealdb": null
+  }
+}

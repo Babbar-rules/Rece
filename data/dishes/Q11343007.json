@@ -1,0 +1,18 @@
+{
+  "id": "Q11343007",
+  "name": "MINTIA",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mintia-q11343007/mintia-q11343007-1.jpg",
+    "images/mintia-q11343007/mintia-q11343007-2.jpg",
+    "images/mintia-q11343007/mintia-q11343007-3.jpg",
+    "images/mintia-q11343007/mintia-q11343007-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11343007",
+    "themealdb": null
+  }
+}

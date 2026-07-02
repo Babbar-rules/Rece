@@ -1,0 +1,17 @@
+{
+  "id": "Q113855577",
+  "name": "Arippayasam",
+  "description": "Payasasm made of rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arippayasam-q113855577/arippayasam-q113855577-1.jpg",
+    "images/arippayasam-q113855577/arippayasam-q113855577-2.jpg",
+    "images/arippayasam-q113855577/arippayasam-q113855577-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113855577",
+    "themealdb": null
+  }
+}

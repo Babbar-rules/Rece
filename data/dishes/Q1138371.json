@@ -1,0 +1,22 @@
+{
+  "id": "Q1138371",
+  "name": "crab cake",
+  "description": "American crab dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/crab-cake-q1138371/crab-cake-q1138371-1.jpg",
+    "images/crab-cake-q1138371/crab-cake-q1138371-2.jpg",
+    "images/crab-cake-q1138371/crab-cake-q1138371-3.jpg",
+    "images/crab-cake-q1138371/crab-cake-q1138371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1138371",
+    "themealdb": null
+  }
+}

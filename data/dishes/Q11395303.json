@@ -1,0 +1,18 @@
+{
+  "id": "Q11395303",
+  "name": "hiyashi ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hiyashi-ramen-q11395303/hiyashi-ramen-q11395303-1.jpg",
+    "images/hiyashi-ramen-q11395303/hiyashi-ramen-q11395303-2.jpg",
+    "images/hiyashi-ramen-q11395303/hiyashi-ramen-q11395303-3.jpg",
+    "images/hiyashi-ramen-q11395303/hiyashi-ramen-q11395303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11395303",
+    "themealdb": null
+  }
+}

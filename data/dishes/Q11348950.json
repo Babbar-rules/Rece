@@ -1,0 +1,18 @@
+{
+  "id": "Q11348950",
+  "name": "LeTAO",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/letao-q11348950/letao-q11348950-1.jpg",
+    "images/letao-q11348950/letao-q11348950-2.jpg",
+    "images/letao-q11348950/letao-q11348950-3.jpg",
+    "images/letao-q11348950/letao-q11348950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11348950",
+    "themealdb": null
+  }
+}

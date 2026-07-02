@@ -1,0 +1,20 @@
+{
+  "id": "Q1139364",
+  "name": "Chūkadon",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chukadon-q1139364/chukadon-q1139364-1.jpg",
+    "images/chukadon-q1139364/chukadon-q1139364-2.jpg",
+    "images/chukadon-q1139364/chukadon-q1139364-3.jpg",
+    "images/chukadon-q1139364/chukadon-q1139364-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1139364",
+    "themealdb": null
+  }
+}

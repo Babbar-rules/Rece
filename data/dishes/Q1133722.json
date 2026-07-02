@@ -1,0 +1,22 @@
+{
+  "id": "Q1133722",
+  "name": "Yangzhou fried rice",
+  "description": "Chinese-style dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/yangzhou-fried-rice-q1133722/yangzhou-fried-rice-q1133722-1.jpg",
+    "images/yangzhou-fried-rice-q1133722/yangzhou-fried-rice-q1133722-2.jpg",
+    "images/yangzhou-fried-rice-q1133722/yangzhou-fried-rice-q1133722-3.jpg",
+    "images/yangzhou-fried-rice-q1133722/yangzhou-fried-rice-q1133722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133722",
+    "themealdb": null
+  }
+}

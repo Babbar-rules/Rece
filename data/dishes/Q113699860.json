@@ -1,0 +1,21 @@
+{
+  "id": "Q113699860",
+  "name": "Torrone di Caltanissetta",
+  "description": "",
+  "nationality": [
+    "Italy",
+    "Caltanissetta"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torrone-di-caltanissetta-q113699860/torrone-di-caltanissetta-q113699860-1.jpg",
+    "images/torrone-di-caltanissetta-q113699860/torrone-di-caltanissetta-q113699860-2.jpg",
+    "images/torrone-di-caltanissetta-q113699860/torrone-di-caltanissetta-q113699860-3.jpg",
+    "images/torrone-di-caltanissetta-q113699860/torrone-di-caltanissetta-q113699860-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113699860",
+    "themealdb": null
+  }
+}

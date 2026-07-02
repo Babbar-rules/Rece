@@ -1,0 +1,19 @@
+{
+  "id": "Q11367190",
+  "name": "nakami soup",
+  "description": "okinawan pork tripe soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nakami-soup-q11367190/nakami-soup-q11367190-1.jpg",
+    "images/nakami-soup-q11367190/nakami-soup-q11367190-2.jpg",
+    "images/nakami-soup-q11367190/nakami-soup-q11367190-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11367190",
+    "themealdb": null
+  }
+}

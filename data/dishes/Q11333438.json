@@ -1,0 +1,18 @@
+{
+  "id": "Q11333438",
+  "name": "fried cake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-cake-q11333438/fried-cake-q11333438-1.jpg",
+    "images/fried-cake-q11333438/fried-cake-q11333438-2.jpg",
+    "images/fried-cake-q11333438/fried-cake-q11333438-3.jpg",
+    "images/fried-cake-q11333438/fried-cake-q11333438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11333438",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q11357853",
+  "name": "bublanina",
+  "description": "fruit sponge cake",
+  "nationality": [
+    "Poland",
+    "Czech Republic",
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bublanina-q11357853/bublanina-q11357853-1.jpg",
+    "images/bublanina-q11357853/bublanina-q11357853-2.jpg",
+    "images/bublanina-q11357853/bublanina-q11357853-3.jpg",
+    "images/bublanina-q11357853/bublanina-q11357853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11357853",
+    "themealdb": null
+  }
+}

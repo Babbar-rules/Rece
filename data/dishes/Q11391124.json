@@ -1,0 +1,18 @@
+{
+  "id": "Q11391124",
+  "name": "Hachinohe ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hachinohe-ramen-q11391124/hachinohe-ramen-q11391124-1.jpg",
+    "images/hachinohe-ramen-q11391124/hachinohe-ramen-q11391124-2.jpg",
+    "images/hachinohe-ramen-q11391124/hachinohe-ramen-q11391124-3.jpg",
+    "images/hachinohe-ramen-q11391124/hachinohe-ramen-q11391124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11391124",
+    "themealdb": null
+  }
+}

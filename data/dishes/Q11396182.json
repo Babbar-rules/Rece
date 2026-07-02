@@ -1,0 +1,20 @@
+{
+  "id": "Q11396182",
+  "name": "Kiriboshi daikon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kiriboshi-daikon-q11396182/kiriboshi-daikon-q11396182-1.jpg",
+    "images/kiriboshi-daikon-q11396182/kiriboshi-daikon-q11396182-2.jpg",
+    "images/kiriboshi-daikon-q11396182/kiriboshi-daikon-q11396182-3.jpg",
+    "images/kiriboshi-daikon-q11396182/kiriboshi-daikon-q11396182-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11396182",
+    "themealdb": null
+  }
+}

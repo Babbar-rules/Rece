@@ -1,0 +1,22 @@
+{
+  "id": "Q1137679",
+  "name": "baozi",
+  "description": "filled bun",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/baozi-q1137679/baozi-q1137679-1.jpg",
+    "images/baozi-q1137679/baozi-q1137679-2.jpg",
+    "images/baozi-q1137679/baozi-q1137679-3.jpg",
+    "images/baozi-q1137679/baozi-q1137679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1137679",
+    "themealdb": null
+  }
+}

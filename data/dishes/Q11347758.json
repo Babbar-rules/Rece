@@ -1,0 +1,18 @@
+{
+  "id": "Q11347758",
+  "name": "ramen salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ramen-salad-q11347758/ramen-salad-q11347758-1.jpg",
+    "images/ramen-salad-q11347758/ramen-salad-q11347758-2.jpg",
+    "images/ramen-salad-q11347758/ramen-salad-q11347758-3.jpg",
+    "images/ramen-salad-q11347758/ramen-salad-q11347758-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11347758",
+    "themealdb": null
+  }
+}

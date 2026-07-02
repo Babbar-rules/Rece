@@ -1,0 +1,18 @@
+{
+  "id": "Q113612703",
+  "name": "eggplant dish",
+  "description": "dish prepared from eggplants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eggplant-dish-q113612703/eggplant-dish-q113612703-1.jpg",
+    "images/eggplant-dish-q113612703/eggplant-dish-q113612703-2.jpg",
+    "images/eggplant-dish-q113612703/eggplant-dish-q113612703-3.jpg",
+    "images/eggplant-dish-q113612703/eggplant-dish-q113612703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113612703",
+    "themealdb": null
+  }
+}

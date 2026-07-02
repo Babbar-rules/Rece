@@ -1,0 +1,18 @@
+{
+  "id": "Q113389041",
+  "name": "bakers' confection",
+  "description": "food prepared by bakers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bakers-confection-q113389041/bakers-confection-q113389041-1.jpg",
+    "images/bakers-confection-q113389041/bakers-confection-q113389041-2.jpg",
+    "images/bakers-confection-q113389041/bakers-confection-q113389041-3.jpg",
+    "images/bakers-confection-q113389041/bakers-confection-q113389041-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113389041",
+    "themealdb": null
+  }
+}

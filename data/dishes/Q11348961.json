@@ -1,0 +1,20 @@
+{
+  "id": "Q11348961",
+  "name": "LOOK",
+  "description": "Japanese chocolate bland",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/look-q11348961/look-q11348961-1.jpg",
+    "images/look-q11348961/look-q11348961-2.jpg",
+    "images/look-q11348961/look-q11348961-3.jpg",
+    "images/look-q11348961/look-q11348961-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11348961",
+    "themealdb": null
+  }
+}

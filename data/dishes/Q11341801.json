@@ -1,0 +1,20 @@
+{
+  "id": "Q11341801",
+  "name": "Marble chocolate",
+  "description": "Japanese chocolate",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marble-chocolate-q11341801/marble-chocolate-q11341801-1.jpg",
+    "images/marble-chocolate-q11341801/marble-chocolate-q11341801-2.jpg",
+    "images/marble-chocolate-q11341801/marble-chocolate-q11341801-3.jpg",
+    "images/marble-chocolate-q11341801/marble-chocolate-q11341801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11341801",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q113815312",
+  "name": "Kansai-Style Okonomiyaki",
+  "description": "",
+  "nationality": [
+    "Kansai"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kansai-style-okonomiyaki-q113815312/kansai-style-okonomiyaki-q113815312-1.jpg",
+    "images/kansai-style-okonomiyaki-q113815312/kansai-style-okonomiyaki-q113815312-2.jpg",
+    "images/kansai-style-okonomiyaki-q113815312/kansai-style-okonomiyaki-q113815312-3.jpg",
+    "images/kansai-style-okonomiyaki-q113815312/kansai-style-okonomiyaki-q113815312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113815312",
+    "themealdb": null
+  }
+}

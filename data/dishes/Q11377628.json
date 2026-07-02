@@ -1,0 +1,22 @@
+{
+  "id": "Q11377628",
+  "name": "tanindon",
+  "description": "Japanese rice dish of pork and eggs",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/tanindon-q11377628/tanindon-q11377628-1.jpg",
+    "images/tanindon-q11377628/tanindon-q11377628-2.jpg",
+    "images/tanindon-q11377628/tanindon-q11377628-3.jpg",
+    "images/tanindon-q11377628/tanindon-q11377628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11377628",
+    "themealdb": null
+  }
+}

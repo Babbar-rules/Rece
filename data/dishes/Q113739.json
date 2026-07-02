@@ -1,0 +1,21 @@
+{
+  "id": "Q113739",
+  "name": "katsuobushi",
+  "description": "dried, fermented, and smoked skipjack tuna",
+  "nationality": [
+    "Japan",
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katsuobushi-q113739/katsuobushi-q113739-1.jpg",
+    "images/katsuobushi-q113739/katsuobushi-q113739-2.jpg",
+    "images/katsuobushi-q113739/katsuobushi-q113739-3.jpg",
+    "images/katsuobushi-q113739/katsuobushi-q113739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113739",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11374829",
+  "name": "Kyoto ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kyoto-ramen-q11374829/kyoto-ramen-q11374829-1.jpg",
+    "images/kyoto-ramen-q11374829/kyoto-ramen-q11374829-2.jpg",
+    "images/kyoto-ramen-q11374829/kyoto-ramen-q11374829-3.jpg",
+    "images/kyoto-ramen-q11374829/kyoto-ramen-q11374829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11374829",
+    "themealdb": null
+  }
+}

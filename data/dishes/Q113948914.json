@@ -1,0 +1,20 @@
+{
+  "id": "Q113948914",
+  "name": "Louise cake",
+  "description": "New Zealand shortcake",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/louise-cake-q113948914/louise-cake-q113948914-1.jpg",
+    "images/louise-cake-q113948914/louise-cake-q113948914-2.jpg",
+    "images/louise-cake-q113948914/louise-cake-q113948914-3.jpg",
+    "images/louise-cake-q113948914/louise-cake-q113948914-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113948914",
+    "themealdb": null
+  }
+}

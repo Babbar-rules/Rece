@@ -1,0 +1,18 @@
+{
+  "id": "Q11340457",
+  "name": "McDonald’s french fries",
+  "description": "French fries sold by hamburger chain McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcdonalds-french-fries-q11340457/mcdonalds-french-fries-q11340457-1.jpg",
+    "images/mcdonalds-french-fries-q11340457/mcdonalds-french-fries-q11340457-2.jpg",
+    "images/mcdonalds-french-fries-q11340457/mcdonalds-french-fries-q11340457-3.jpg",
+    "images/mcdonalds-french-fries-q11340457/mcdonalds-french-fries-q11340457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11340457",
+    "themealdb": null
+  }
+}

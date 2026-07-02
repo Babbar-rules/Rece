@@ -1,0 +1,22 @@
+{
+  "id": "Q113666509",
+  "name": "taco acorazado",
+  "description": "",
+  "nationality": [
+    "Mexico",
+    "Morelos"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/taco-acorazado-q113666509/taco-acorazado-q113666509-1.jpg",
+    "images/taco-acorazado-q113666509/taco-acorazado-q113666509-2.jpg",
+    "images/taco-acorazado-q113666509/taco-acorazado-q113666509-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113666509",
+    "themealdb": null
+  }
+}

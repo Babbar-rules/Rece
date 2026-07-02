@@ -1,0 +1,16 @@
+{
+  "id": "Q11370574",
+  "name": "Chichi dango",
+  "description": "type of Japanese confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chichi-dango-q11370574/chichi-dango-q11370574-1.jpg",
+    "images/chichi-dango-q11370574/chichi-dango-q11370574-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11370574",
+    "themealdb": null
+  }
+}

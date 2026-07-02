@@ -1,0 +1,20 @@
+{
+  "id": "Q11332417",
+  "name": "Fish katsu",
+  "description": "Fried fishcake from Tokushima prefecture, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-katsu-q11332417/fish-katsu-q11332417-1.jpg",
+    "images/fish-katsu-q11332417/fish-katsu-q11332417-2.jpg",
+    "images/fish-katsu-q11332417/fish-katsu-q11332417-3.jpg",
+    "images/fish-katsu-q11332417/fish-katsu-q11332417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11332417",
+    "themealdb": null
+  }
+}

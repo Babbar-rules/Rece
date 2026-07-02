@@ -1,0 +1,20 @@
+{
+  "id": "Q1133123",
+  "name": "Buddha Jumps Over the Wall",
+  "description": "Fujian soup of many expensive ingredients, e.g. shark fin, bamboo shoots, scallops, sea cucumber, abalone, fish maw, Jinhua ham, pork tendon, ginseng, mushrooms",
+  "nationality": [
+    "Qing dynasty"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buddha-jumps-over-the-wall-q1133123/buddha-jumps-over-the-wall-q1133123-1.jpg",
+    "images/buddha-jumps-over-the-wall-q1133123/buddha-jumps-over-the-wall-q1133123-2.jpg",
+    "images/buddha-jumps-over-the-wall-q1133123/buddha-jumps-over-the-wall-q1133123-3.jpg",
+    "images/buddha-jumps-over-the-wall-q1133123/buddha-jumps-over-the-wall-q1133123-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133123",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q11392800",
+  "name": "Hyōrokumochi",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hyorokumochi-q11392800/hyorokumochi-q11392800-1.jpg",
+    "images/hyorokumochi-q11392800/hyorokumochi-q11392800-2.jpg",
+    "images/hyorokumochi-q11392800/hyorokumochi-q11392800-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11392800",
+    "themealdb": null
+  }
+}

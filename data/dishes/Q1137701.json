@@ -1,0 +1,20 @@
+{
+  "id": "Q1137701",
+  "name": "taco rice",
+  "description": "popular example of Okinawan cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taco-rice-q1137701/taco-rice-q1137701-1.jpg",
+    "images/taco-rice-q1137701/taco-rice-q1137701-2.jpg",
+    "images/taco-rice-q1137701/taco-rice-q1137701-3.jpg",
+    "images/taco-rice-q1137701/taco-rice-q1137701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1137701",
+    "themealdb": null
+  }
+}

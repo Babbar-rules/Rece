@@ -1,0 +1,18 @@
+{
+  "id": "Q11337766",
+  "name": "toasted sandwich",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/toasted-sandwich-q11337766/toasted-sandwich-q11337766-1.jpg",
+    "images/toasted-sandwich-q11337766/toasted-sandwich-q11337766-2.jpg",
+    "images/toasted-sandwich-q11337766/toasted-sandwich-q11337766-3.jpg",
+    "images/toasted-sandwich-q11337766/toasted-sandwich-q11337766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11337766",
+    "themealdb": null
+  }
+}

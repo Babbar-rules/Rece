@@ -1,0 +1,20 @@
+{
+  "id": "Q1133127",
+  "name": "corn dog",
+  "description": "deep-fried, corn-battered hot dog on a stick",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-dog-q1133127/corn-dog-q1133127-1.jpg",
+    "images/corn-dog-q1133127/corn-dog-q1133127-2.jpg",
+    "images/corn-dog-q1133127/corn-dog-q1133127-3.jpg",
+    "images/corn-dog-q1133127/corn-dog-q1133127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133127",
+    "themealdb": null
+  }
+}

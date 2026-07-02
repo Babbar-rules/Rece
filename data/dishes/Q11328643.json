@@ -1,0 +1,20 @@
+{
+  "id": "Q11328643",
+  "name": "Pie no mi",
+  "description": "Japanese small chocolate pie",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pie-no-mi-q11328643/pie-no-mi-q11328643-1.jpg",
+    "images/pie-no-mi-q11328643/pie-no-mi-q11328643-2.jpg",
+    "images/pie-no-mi-q11328643/pie-no-mi-q11328643-3.jpg",
+    "images/pie-no-mi-q11328643/pie-no-mi-q11328643-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11328643",
+    "themealdb": null
+  }
+}

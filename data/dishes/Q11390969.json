@@ -1,0 +1,20 @@
+{
+  "id": "Q11390969",
+  "name": "Yawata-maki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yawata-maki-q11390969/yawata-maki-q11390969-1.jpg",
+    "images/yawata-maki-q11390969/yawata-maki-q11390969-2.jpeg",
+    "images/yawata-maki-q11390969/yawata-maki-q11390969-3.jpg",
+    "images/yawata-maki-q11390969/yawata-maki-q11390969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11390969",
+    "themealdb": null
+  }
+}

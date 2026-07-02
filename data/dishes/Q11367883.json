@@ -1,0 +1,17 @@
+{
+  "id": "Q11367883",
+  "name": "Kushikino tuna ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kushikino-tuna-ramen-q11367883/kushikino-tuna-ramen-q11367883-1.jpg",
+    "images/kushikino-tuna-ramen-q11367883/kushikino-tuna-ramen-q11367883-2.jpg",
+    "images/kushikino-tuna-ramen-q11367883/kushikino-tuna-ramen-q11367883-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11367883",
+    "themealdb": null
+  }
+}

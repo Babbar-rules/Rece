@@ -1,0 +1,20 @@
+{
+  "id": "Q11331461",
+  "name": "pizza toast",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-toast-q11331461/pizza-toast-q11331461-1.jpg",
+    "images/pizza-toast-q11331461/pizza-toast-q11331461-2.jpg",
+    "images/pizza-toast-q11331461/pizza-toast-q11331461-3.jpg",
+    "images/pizza-toast-q11331461/pizza-toast-q11331461-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11331461",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11339918",
+  "name": "macaroni salad",
+  "description": "type of pasta salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/macaroni-salad-q11339918/macaroni-salad-q11339918-1.jpg",
+    "images/macaroni-salad-q11339918/macaroni-salad-q11339918-2.jpg",
+    "images/macaroni-salad-q11339918/macaroni-salad-q11339918-3.jpg",
+    "images/macaroni-salad-q11339918/macaroni-salad-q11339918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11339918",
+    "themealdb": null
+  }
+}

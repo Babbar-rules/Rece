@@ -1,0 +1,22 @@
+{
+  "id": "Q1137803",
+  "name": "pasta e fagioli",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cucina povera"
+  ],
+  "images": [
+    "images/pasta-e-fagioli-q1137803/pasta-e-fagioli-q1137803-1.jpg",
+    "images/pasta-e-fagioli-q1137803/pasta-e-fagioli-q1137803-2.jpg",
+    "images/pasta-e-fagioli-q1137803/pasta-e-fagioli-q1137803-3.jpg",
+    "images/pasta-e-fagioli-q1137803/pasta-e-fagioli-q1137803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1137803",
+    "themealdb": null
+  }
+}

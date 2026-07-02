@@ -1,0 +1,20 @@
+{
+  "id": "Q113534616",
+  "name": "Käferbohnensalat",
+  "description": "",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaferbohnensalat-q113534616/kaferbohnensalat-q113534616-1.jpg",
+    "images/kaferbohnensalat-q113534616/kaferbohnensalat-q113534616-2.jpg",
+    "images/kaferbohnensalat-q113534616/kaferbohnensalat-q113534616-3.jpg",
+    "images/kaferbohnensalat-q113534616/kaferbohnensalat-q113534616-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113534616",
+    "themealdb": null
+  }
+}

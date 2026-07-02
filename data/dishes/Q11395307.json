@@ -1,0 +1,19 @@
+{
+  "id": "Q11395307",
+  "name": "hiyashiru",
+  "description": "cold miso soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hiyashiru-q11395307/hiyashiru-q11395307-1.jpg",
+    "images/hiyashiru-q11395307/hiyashiru-q11395307-2.jpg",
+    "images/hiyashiru-q11395307/hiyashiru-q11395307-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11395307",
+    "themealdb": null
+  }
+}

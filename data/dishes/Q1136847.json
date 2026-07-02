@@ -1,0 +1,20 @@
+{
+  "id": "Q1136847",
+  "name": "strozzapreti",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/strozzapreti-q1136847/strozzapreti-q1136847-1.jpg",
+    "images/strozzapreti-q1136847/strozzapreti-q1136847-2.jpg",
+    "images/strozzapreti-q1136847/strozzapreti-q1136847-3.jpg",
+    "images/strozzapreti-q1136847/strozzapreti-q1136847-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1136847",
+    "themealdb": null
+  }
+}

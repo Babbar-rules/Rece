@@ -1,0 +1,20 @@
+{
+  "id": "Q1139527",
+  "name": "California roll",
+  "description": "uramakizushi containing cucumber, crab or imitation crab, and avocado, originating in North America",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/california-roll-q1139527/california-roll-q1139527-1.jpg",
+    "images/california-roll-q1139527/california-roll-q1139527-2.jpg",
+    "images/california-roll-q1139527/california-roll-q1139527-3.jpg",
+    "images/california-roll-q1139527/california-roll-q1139527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1139527",
+    "themealdb": null
+  }
+}

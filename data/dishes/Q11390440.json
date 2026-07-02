@@ -1,0 +1,20 @@
+{
+  "id": "Q11390440",
+  "name": "Hatchō Miso",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hatcho-miso-q11390440/hatcho-miso-q11390440-1.jpg",
+    "images/hatcho-miso-q11390440/hatcho-miso-q11390440-2.jpg",
+    "images/hatcho-miso-q11390440/hatcho-miso-q11390440-3.jpg",
+    "images/hatcho-miso-q11390440/hatcho-miso-q11390440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11390440",
+    "themealdb": null
+  }
+}

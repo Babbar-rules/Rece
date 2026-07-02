@@ -1,0 +1,20 @@
+{
+  "id": "Q113291374",
+  "name": "babelutte",
+  "description": "sweets made from candy syrup and butter",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/babelutte-q113291374/babelutte-q113291374-1.jpg",
+    "images/babelutte-q113291374/babelutte-q113291374-2.jpg",
+    "images/babelutte-q113291374/babelutte-q113291374-3.jpg",
+    "images/babelutte-q113291374/babelutte-q113291374-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113291374",
+    "themealdb": null
+  }
+}

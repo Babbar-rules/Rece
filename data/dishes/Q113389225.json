@@ -1,0 +1,18 @@
+{
+  "id": "Q113389225",
+  "name": "sweet pastry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-pastry-q113389225/sweet-pastry-q113389225-1.jpg",
+    "images/sweet-pastry-q113389225/sweet-pastry-q113389225-2.jpg",
+    "images/sweet-pastry-q113389225/sweet-pastry-q113389225-3.jpg",
+    "images/sweet-pastry-q113389225/sweet-pastry-q113389225-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113389225",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11391553",
+  "name": "Hachiōji ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hachioji-ramen-q11391553/hachioji-ramen-q11391553-1.jpg",
+    "images/hachioji-ramen-q11391553/hachioji-ramen-q11391553-2.jpg",
+    "images/hachioji-ramen-q11391553/hachioji-ramen-q11391553-3.jpg",
+    "images/hachioji-ramen-q11391553/hachioji-ramen-q11391553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11391553",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q113390839",
+  "name": "yoka cake",
+  "description": "",
+  "nationality": [
+    "Guinea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yoka-cake-q113390839/yoka-cake-q113390839-1.jpg",
+    "images/yoka-cake-q113390839/yoka-cake-q113390839-2.jpg",
+    "images/yoka-cake-q113390839/yoka-cake-q113390839-3.jpg",
+    "images/yoka-cake-q113390839/yoka-cake-q113390839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113390839",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11349663",
+  "name": "lettuce maki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lettuce-maki-q11349663/lettuce-maki-q11349663-1.jpg",
+    "images/lettuce-maki-q11349663/lettuce-maki-q11349663-2.jpg",
+    "images/lettuce-maki-q11349663/lettuce-maki-q11349663-3.jpg",
+    "images/lettuce-maki-q11349663/lettuce-maki-q11349663-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11349663",
+    "themealdb": null
+  }
+}

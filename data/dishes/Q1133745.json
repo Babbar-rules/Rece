@@ -1,0 +1,20 @@
+{
+  "id": "Q1133745",
+  "name": "Tonjiru",
+  "description": "Japanese soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tonjiru-q1133745/tonjiru-q1133745-1.jpg",
+    "images/tonjiru-q1133745/tonjiru-q1133745-2.jpg",
+    "images/tonjiru-q1133745/tonjiru-q1133745-3.jpg",
+    "images/tonjiru-q1133745/tonjiru-q1133745-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133745",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1136833",
+  "name": "radiatori",
+  "description": "shaped pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/radiatori-q1136833/radiatori-q1136833-1.jpg",
+    "images/radiatori-q1136833/radiatori-q1136833-2.jpg",
+    "images/radiatori-q1136833/radiatori-q1136833-3.jpg",
+    "images/radiatori-q1136833/radiatori-q1136833-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1136833",
+    "themealdb": null
+  }
+}

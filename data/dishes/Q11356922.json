@@ -1,0 +1,16 @@
+{
+  "id": "Q11356922",
+  "name": "Mikasano",
+  "description": "confectionery manufactured in Taketa, Oita, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mikasano-q11356922/mikasano-q11356922-1.jpg",
+    "images/mikasano-q11356922/mikasano-q11356922-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11356922",
+    "themealdb": null
+  }
+}

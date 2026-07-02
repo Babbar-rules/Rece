@@ -1,0 +1,20 @@
+{
+  "id": "Q11328605",
+  "name": "Vermont curry",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vermont-curry-q11328605/vermont-curry-q11328605-1.jpg",
+    "images/vermont-curry-q11328605/vermont-curry-q11328605-2.jpg",
+    "images/vermont-curry-q11328605/vermont-curry-q11328605-3.jpg",
+    "images/vermont-curry-q11328605/vermont-curry-q11328605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11328605",
+    "themealdb": null
+  }
+}

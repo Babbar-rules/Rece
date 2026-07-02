@@ -1,0 +1,20 @@
+{
+  "id": "Q1137204",
+  "name": "Country Captain",
+  "description": "curried chicken and rice dish in the Southern US; a mild stew of browned chicken pieces, onions, and curry powder with almonds and raisins or currants over rice",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/country-captain-q1137204/country-captain-q1137204-1.jpg",
+    "images/country-captain-q1137204/country-captain-q1137204-2.jpg",
+    "images/country-captain-q1137204/country-captain-q1137204-3.jpg",
+    "images/country-captain-q1137204/country-captain-q1137204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1137204",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11349933",
+  "name": "lemon steak",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-steak-q11349933/lemon-steak-q11349933-1.jpg",
+    "images/lemon-steak-q11349933/lemon-steak-q11349933-2.jpg",
+    "images/lemon-steak-q11349933/lemon-steak-q11349933-3.jpg",
+    "images/lemon-steak-q11349933/lemon-steak-q11349933-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11349933",
+    "themealdb": null
+  }
+}

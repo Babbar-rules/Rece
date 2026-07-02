@@ -1,0 +1,19 @@
+{
+  "id": "Q11346020",
+  "name": "Yokosuka navy burger",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yokosuka-navy-burger-q11346020/yokosuka-navy-burger-q11346020-1.jpg",
+    "images/yokosuka-navy-burger-q11346020/yokosuka-navy-burger-q11346020-2.jpg",
+    "images/yokosuka-navy-burger-q11346020/yokosuka-navy-burger-q11346020-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11346020",
+    "themealdb": null
+  }
+}

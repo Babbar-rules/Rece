@@ -1,0 +1,18 @@
+{
+  "id": "Q11347431",
+  "name": "lamu shabu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamu-shabu-q11347431/lamu-shabu-q11347431-1.jpg",
+    "images/lamu-shabu-q11347431/lamu-shabu-q11347431-2.jpg",
+    "images/lamu-shabu-q11347431/lamu-shabu-q11347431-3.jpg",
+    "images/lamu-shabu-q11347431/lamu-shabu-q11347431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11347431",
+    "themealdb": null
+  }
+}

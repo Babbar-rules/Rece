@@ -1,0 +1,18 @@
+{
+  "id": "Q11330634",
+  "name": "Bisco",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bisco-q11330634/bisco-q11330634-1.jpg",
+    "images/bisco-q11330634/bisco-q11330634-2.jpg",
+    "images/bisco-q11330634/bisco-q11330634-3.jpg",
+    "images/bisco-q11330634/bisco-q11330634-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11330634",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q113560755",
+  "name": "air-fried fries",
+  "description": "fries cooked in an air fryer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/air-fried-fries-q113560755/air-fried-fries-q113560755-1.jpg",
+    "images/air-fried-fries-q113560755/air-fried-fries-q113560755-2.jpg",
+    "images/air-fried-fries-q113560755/air-fried-fries-q113560755-3.jpg",
+    "images/air-fried-fries-q113560755/air-fried-fries-q113560755-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113560755",
+    "themealdb": null
+  }
+}

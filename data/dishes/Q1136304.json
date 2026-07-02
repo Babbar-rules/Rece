@@ -1,0 +1,20 @@
+{
+  "id": "Q1136304",
+  "name": "Istrian stew",
+  "description": "stew",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/istrian-stew-q1136304/istrian-stew-q1136304-1.jpg",
+    "images/istrian-stew-q1136304/istrian-stew-q1136304-2.jpg",
+    "images/istrian-stew-q1136304/istrian-stew-q1136304-3.jpg",
+    "images/istrian-stew-q1136304/istrian-stew-q1136304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1136304",
+    "themealdb": null
+  }
+}

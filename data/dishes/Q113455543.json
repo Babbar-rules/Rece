@@ -1,0 +1,22 @@
+{
+  "id": "Q113455543",
+  "name": "Xis",
+  "description": "Brazilian grilled sandwich",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/xis-q113455543/xis-q113455543-1.jpg",
+    "images/xis-q113455543/xis-q113455543-2.jpg",
+    "images/xis-q113455543/xis-q113455543-3.jpg",
+    "images/xis-q113455543/xis-q113455543-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113455543",
+    "themealdb": null
+  }
+}

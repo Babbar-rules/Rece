@@ -1,0 +1,20 @@
+{
+  "id": "Q11343229",
+  "name": "muchi",
+  "description": "type of soft confectionery made of pounded glutinous rice",
+  "nationality": [
+    "Ryukyu Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muchi-q11343229/muchi-q11343229-1.jpg",
+    "images/muchi-q11343229/muchi-q11343229-2.jpg",
+    "images/muchi-q11343229/muchi-q11343229-3.jpg",
+    "images/muchi-q11343229/muchi-q11343229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11343229",
+    "themealdb": null
+  }
+}

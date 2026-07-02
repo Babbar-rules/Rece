@@ -1,0 +1,18 @@
+{
+  "id": "Q113411438",
+  "name": "kaluzhskoe testo",
+  "description": "kind of confection in Russia, named after Kaluga city",
+  "nationality": [
+    "Russian Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaluzhskoe-testo-q113411438/kaluzhskoe-testo-q113411438-1.jpg",
+    "images/kaluzhskoe-testo-q113411438/kaluzhskoe-testo-q113411438-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113411438",
+    "themealdb": null
+  }
+}

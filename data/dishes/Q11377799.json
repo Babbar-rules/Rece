@@ -1,0 +1,18 @@
+{
+  "id": "Q11377799",
+  "name": "Sendai miso",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sendai-miso-q11377799/sendai-miso-q11377799-1.jpg",
+    "images/sendai-miso-q11377799/sendai-miso-q11377799-2.jpg",
+    "images/sendai-miso-q11377799/sendai-miso-q11377799-3.jpg",
+    "images/sendai-miso-q11377799/sendai-miso-q11377799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11377799",
+    "themealdb": null
+  }
+}

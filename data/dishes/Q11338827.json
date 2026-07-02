@@ -1,0 +1,20 @@
+{
+  "id": "Q11338827",
+  "name": "Bon Curry",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bon-curry-q11338827/bon-curry-q11338827-1.jpg",
+    "images/bon-curry-q11338827/bon-curry-q11338827-2.jpg",
+    "images/bon-curry-q11338827/bon-curry-q11338827-3.jpg",
+    "images/bon-curry-q11338827/bon-curry-q11338827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11338827",
+    "themealdb": null
+  }
+}

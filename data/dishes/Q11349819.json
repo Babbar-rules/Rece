@@ -1,0 +1,18 @@
+{
+  "id": "Q11349819",
+  "name": "Retort pouch curry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/retort-pouch-curry-q11349819/retort-pouch-curry-q11349819-1.jpg",
+    "images/retort-pouch-curry-q11349819/retort-pouch-curry-q11349819-2.jpg",
+    "images/retort-pouch-curry-q11349819/retort-pouch-curry-q11349819-3.jpg",
+    "images/retort-pouch-curry-q11349819/retort-pouch-curry-q11349819-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11349819",
+    "themealdb": null
+  }
+}

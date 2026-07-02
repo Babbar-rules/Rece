@@ -1,0 +1,16 @@
+{
+  "id": "Q11351431",
+  "name": "wani ryori",
+  "description": "Japanese regional cuisine made from shark meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wani-ryori-q11351431/wani-ryori-q11351431-1.jpg",
+    "images/wani-ryori-q11351431/wani-ryori-q11351431-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11351431",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11333930",
+  "name": "Fruiche",
+  "description": "instant dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fruiche-q11333930/fruiche-q11333930-1.jpg",
+    "images/fruiche-q11333930/fruiche-q11333930-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11333930",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11338601",
+  "name": "bograč",
+  "description": "Slovenian meat stew",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bograc-q11338601/bograc-q11338601-1.jpg",
+    "images/bograc-q11338601/bograc-q11338601-2.jpg",
+    "images/bograc-q11338601/bograc-q11338601-3.jpg",
+    "images/bograc-q11338601/bograc-q11338601-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11338601",
+    "themealdb": null
+  }
+}

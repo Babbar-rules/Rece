@@ -1,0 +1,17 @@
+{
+  "id": "Q113487285",
+  "name": "Roseau d'Annecy",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roseau-dannecy-q113487285/roseau-dannecy-q113487285-1.jpg",
+    "images/roseau-dannecy-q113487285/roseau-dannecy-q113487285-2.jpg",
+    "images/roseau-dannecy-q113487285/roseau-dannecy-q113487285-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113487285",
+    "themealdb": null
+  }
+}

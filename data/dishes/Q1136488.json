@@ -1,0 +1,20 @@
+{
+  "id": "Q1136488",
+  "name": "gozinaki",
+  "description": "sweetness made of nuts and honey",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gozinaki-q1136488/gozinaki-q1136488-1.jpg",
+    "images/gozinaki-q1136488/gozinaki-q1136488-2.jpg",
+    "images/gozinaki-q1136488/gozinaki-q1136488-3.jpg",
+    "images/gozinaki-q1136488/gozinaki-q1136488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1136488",
+    "themealdb": null
+  }
+}

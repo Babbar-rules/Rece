@@ -1,0 +1,18 @@
+{
+  "id": "Q11339222",
+  "name": "potato yakisoba",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-yakisoba-q11339222/potato-yakisoba-q11339222-1.jpg",
+    "images/potato-yakisoba-q11339222/potato-yakisoba-q11339222-2.jpg",
+    "images/potato-yakisoba-q11339222/potato-yakisoba-q11339222-3.jpg",
+    "images/potato-yakisoba-q11339222/potato-yakisoba-q11339222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11339222",
+    "themealdb": null
+  }
+}

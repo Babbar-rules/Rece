@@ -1,0 +1,20 @@
+{
+  "id": "Q113667563",
+  "name": "seviyan",
+  "description": "sweet dish",
+  "nationality": [],
+  "region_cuisine": [
+    "South Asian cuisine"
+  ],
+  "images": [
+    "images/seviyan-q113667563/seviyan-q113667563-1.jpg",
+    "images/seviyan-q113667563/seviyan-q113667563-2.jpg",
+    "images/seviyan-q113667563/seviyan-q113667563-3.jpg",
+    "images/seviyan-q113667563/seviyan-q113667563-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113667563",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q11353238",
+  "name": "issen yōshoku",
+  "description": "Japanese crepe-like dish with Worcestershire sauce and chopped scallion",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/issen-yoshoku-q11353238/issen-yoshoku-q11353238-1.jpg",
+    "images/issen-yoshoku-q11353238/issen-yoshoku-q11353238-2.jpg",
+    "images/issen-yoshoku-q11353238/issen-yoshoku-q11353238-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11353238",
+    "themealdb": null
+  }
+}
