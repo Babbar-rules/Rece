@@ -18,6 +18,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 330            # under the 6h hard cap
+    env:
+      PYTHONUNBUFFERED: "1"        # stream scraper progress live to the log
     steps:
       - uses: actions/checkout@v4
 
