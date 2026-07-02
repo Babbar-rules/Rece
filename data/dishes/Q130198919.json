@@ -1,0 +1,18 @@
+{
+  "id": "Q130198919",
+  "name": "smash burger",
+  "description": "type of hamburger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smash-burger-q130198919/smash-burger-q130198919-1.jpg",
+    "images/smash-burger-q130198919/smash-burger-q130198919-2.jpg",
+    "images/smash-burger-q130198919/smash-burger-q130198919-3.jpg",
+    "images/smash-burger-q130198919/smash-burger-q130198919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130198919",
+    "themealdb": null
+  }
+}

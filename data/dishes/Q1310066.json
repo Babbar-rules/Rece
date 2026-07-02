@@ -1,0 +1,22 @@
+{
+  "id": "Q1310066",
+  "name": "LPG cake",
+  "description": "type of cake from southeast Germany",
+  "nationality": [
+    "German Democratic Republic"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/lpg-cake-q1310066/lpg-cake-q1310066-1.jpg",
+    "images/lpg-cake-q1310066/lpg-cake-q1310066-2.jpg",
+    "images/lpg-cake-q1310066/lpg-cake-q1310066-3.jpg",
+    "images/lpg-cake-q1310066/lpg-cake-q1310066-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1310066",
+    "themealdb": null
+  }
+}

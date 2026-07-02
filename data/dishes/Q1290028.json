@@ -1,0 +1,20 @@
+{
+  "id": "Q1290028",
+  "name": "somlói galuska",
+  "description": "Hungarian dessert",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/somloi-galuska-q1290028/somloi-galuska-q1290028-1.jpg",
+    "images/somloi-galuska-q1290028/somloi-galuska-q1290028-2.jpg",
+    "images/somloi-galuska-q1290028/somloi-galuska-q1290028-3.jpg",
+    "images/somloi-galuska-q1290028/somloi-galuska-q1290028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1290028",
+    "themealdb": null
+  }
+}

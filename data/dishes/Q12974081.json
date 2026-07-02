@@ -1,0 +1,20 @@
+{
+  "id": "Q12974081",
+  "name": "Ambur biryani",
+  "description": "biryani dish from southern India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ambur-biryani-q12974081/ambur-biryani-q12974081-1.jpg",
+    "images/ambur-biryani-q12974081/ambur-biryani-q12974081-2.jpg",
+    "images/ambur-biryani-q12974081/ambur-biryani-q12974081-3.jpg",
+    "images/ambur-biryani-q12974081/ambur-biryani-q12974081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12974081",
+    "themealdb": null
+  }
+}

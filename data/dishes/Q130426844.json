@@ -1,0 +1,20 @@
+{
+  "id": "Q130426844",
+  "name": "Karaagekun",
+  "description": "product of Lawson",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/karaagekun-q130426844/karaagekun-q130426844-1.jpg",
+    "images/karaagekun-q130426844/karaagekun-q130426844-2.jpg",
+    "images/karaagekun-q130426844/karaagekun-q130426844-3.jpg",
+    "images/karaagekun-q130426844/karaagekun-q130426844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130426844",
+    "themealdb": null
+  }
+}

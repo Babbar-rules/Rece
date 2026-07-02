@@ -1,0 +1,22 @@
+{
+  "id": "Q130633595",
+  "name": "chocolate haupia pie",
+  "description": "hawaiian dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Hawaii regional cuisine"
+  ],
+  "images": [
+    "images/chocolate-haupia-pie-q130633595/chocolate-haupia-pie-q130633595-1.jpg",
+    "images/chocolate-haupia-pie-q130633595/chocolate-haupia-pie-q130633595-2.jpg",
+    "images/chocolate-haupia-pie-q130633595/chocolate-haupia-pie-q130633595-3.jpg",
+    "images/chocolate-haupia-pie-q130633595/chocolate-haupia-pie-q130633595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130633595",
+    "themealdb": null
+  }
+}

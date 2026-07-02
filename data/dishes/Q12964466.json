@@ -1,0 +1,20 @@
+{
+  "id": "Q12964466",
+  "name": "Hamonado",
+  "description": "Filipino Christmas dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hamonado-q12964466/hamonado-q12964466-1.jpg",
+    "images/hamonado-q12964466/hamonado-q12964466-2.jpg",
+    "images/hamonado-q12964466/hamonado-q12964466-3.jpg",
+    "images/hamonado-q12964466/hamonado-q12964466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12964466",
+    "themealdb": null
+  }
+}

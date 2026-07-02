@@ -1,0 +1,22 @@
+{
+  "id": "Q13095830",
+  "name": "pasung",
+  "description": "Javanese food made from rice flour",
+  "nationality": [
+    "Java"
+  ],
+  "region_cuisine": [
+    "Javanese cuisine"
+  ],
+  "images": [
+    "images/pasung-q13095830/pasung-q13095830-1.jpg",
+    "images/pasung-q13095830/pasung-q13095830-2.jpg",
+    "images/pasung-q13095830/pasung-q13095830-3.jpg",
+    "images/pasung-q13095830/pasung-q13095830-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13095830",
+    "themealdb": null
+  }
+}

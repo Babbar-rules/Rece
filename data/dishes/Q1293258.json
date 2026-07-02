@@ -1,0 +1,20 @@
+{
+  "id": "Q1293258",
+  "name": "bakmi",
+  "description": "Indonesian pasta dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bakmi-q1293258/bakmi-q1293258-1.jpg",
+    "images/bakmi-q1293258/bakmi-q1293258-2.jpg",
+    "images/bakmi-q1293258/bakmi-q1293258-3.jpg",
+    "images/bakmi-q1293258/bakmi-q1293258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1293258",
+    "themealdb": null
+  }
+}

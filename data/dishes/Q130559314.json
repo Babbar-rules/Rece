@@ -1,0 +1,18 @@
+{
+  "id": "Q130559314",
+  "name": "sayur rebung",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sayur-rebung-q130559314/sayur-rebung-q130559314-1.jpg",
+    "images/sayur-rebung-q130559314/sayur-rebung-q130559314-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130559314",
+    "themealdb": null
+  }
+}

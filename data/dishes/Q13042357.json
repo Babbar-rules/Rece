@@ -1,0 +1,18 @@
+{
+  "id": "Q13042357",
+  "name": "Lëng viçi",
+  "description": "recipe for a juicy beef dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/leng-vici-q13042357/leng-vici-q13042357-1.jpg",
+    "images/leng-vici-q13042357/leng-vici-q13042357-2.jpg",
+    "images/leng-vici-q13042357/leng-vici-q13042357-3.jpg",
+    "images/leng-vici-q13042357/leng-vici-q13042357-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13042357",
+    "themealdb": null
+  }
+}

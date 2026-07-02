@@ -1,0 +1,21 @@
+{
+  "id": "Q131118490",
+  "name": "Chicken tuturuga",
+  "description": "traditional food from Manado",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/chicken-tuturuga-q131118490/chicken-tuturuga-q131118490-1.jpg",
+    "images/chicken-tuturuga-q131118490/chicken-tuturuga-q131118490-2.jpg",
+    "images/chicken-tuturuga-q131118490/chicken-tuturuga-q131118490-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131118490",
+    "themealdb": null
+  }
+}

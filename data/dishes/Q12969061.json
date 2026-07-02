@@ -1,0 +1,20 @@
+{
+  "id": "Q12969061",
+  "name": "Paksiw",
+  "description": "Filipino cooking process",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paksiw-q12969061/paksiw-q12969061-1.jpg",
+    "images/paksiw-q12969061/paksiw-q12969061-2.jpg",
+    "images/paksiw-q12969061/paksiw-q12969061-3.jpg",
+    "images/paksiw-q12969061/paksiw-q12969061-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12969061",
+    "themealdb": null
+  }
+}

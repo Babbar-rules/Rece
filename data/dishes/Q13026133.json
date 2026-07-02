@@ -1,0 +1,18 @@
+{
+  "id": "Q13026133",
+  "name": "kaeng hang le",
+  "description": "Northern Thai curry dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaeng-hang-le-q13026133/kaeng-hang-le-q13026133-1.jpg",
+    "images/kaeng-hang-le-q13026133/kaeng-hang-le-q13026133-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13026133",
+    "themealdb": null
+  }
+}

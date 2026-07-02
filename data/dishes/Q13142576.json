@@ -1,0 +1,19 @@
+{
+  "id": "Q13142576",
+  "name": "Fastenwähe",
+  "description": "Swiss pastry",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/fastenwahe-q13142576/fastenwahe-q13142576-1.jpg",
+    "images/fastenwahe-q13142576/fastenwahe-q13142576-2.jpg",
+    "images/fastenwahe-q13142576/fastenwahe-q13142576-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13142576",
+    "themealdb": null
+  }
+}

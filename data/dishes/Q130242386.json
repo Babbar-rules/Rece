@@ -1,0 +1,18 @@
+{
+  "id": "Q130242386",
+  "name": "buckwheat honey",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buckwheat-honey-q130242386/buckwheat-honey-q130242386-1.jpg",
+    "images/buckwheat-honey-q130242386/buckwheat-honey-q130242386-2.jpg",
+    "images/buckwheat-honey-q130242386/buckwheat-honey-q130242386-3.jpg",
+    "images/buckwheat-honey-q130242386/buckwheat-honey-q130242386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130242386",
+    "themealdb": null
+  }
+}

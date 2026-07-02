@@ -1,0 +1,20 @@
+{
+  "id": "Q12997603",
+  "name": "chakli",
+  "description": "fried-dough snack from India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chakli-q12997603/chakli-q12997603-1.jpg",
+    "images/chakli-q12997603/chakli-q12997603-2.jpg",
+    "images/chakli-q12997603/chakli-q12997603-3.jpg",
+    "images/chakli-q12997603/chakli-q12997603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12997603",
+    "themealdb": null
+  }
+}

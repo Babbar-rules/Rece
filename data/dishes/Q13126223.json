@@ -1,0 +1,18 @@
+{
+  "id": "Q13126223",
+  "name": "Welsh breakfast",
+  "description": "traditional full breakfast in Wales",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/welsh-breakfast-q13126223/welsh-breakfast-q13126223-1.jpg",
+    "images/welsh-breakfast-q13126223/welsh-breakfast-q13126223-2.jpg",
+    "images/welsh-breakfast-q13126223/welsh-breakfast-q13126223-3.jpg",
+    "images/welsh-breakfast-q13126223/welsh-breakfast-q13126223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13126223",
+    "themealdb": null
+  }
+}

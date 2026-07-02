@@ -1,0 +1,18 @@
+{
+  "id": "Q130709926",
+  "name": "tori paitan ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tori-paitan-ramen-q130709926/tori-paitan-ramen-q130709926-1.jpg",
+    "images/tori-paitan-ramen-q130709926/tori-paitan-ramen-q130709926-2.jpg",
+    "images/tori-paitan-ramen-q130709926/tori-paitan-ramen-q130709926-3.jpg",
+    "images/tori-paitan-ramen-q130709926/tori-paitan-ramen-q130709926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130709926",
+    "themealdb": null
+  }
+}

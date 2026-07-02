@@ -1,0 +1,20 @@
+{
+  "id": "Q13035439",
+  "name": "melkkos",
+  "description": "South African porridge",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/melkkos-q13035439/melkkos-q13035439-1.jpg",
+    "images/melkkos-q13035439/melkkos-q13035439-2.jpg",
+    "images/melkkos-q13035439/melkkos-q13035439-3.jpg",
+    "images/melkkos-q13035439/melkkos-q13035439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13035439",
+    "themealdb": null
+  }
+}

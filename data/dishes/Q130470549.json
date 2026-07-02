@@ -1,0 +1,18 @@
+{
+  "id": "Q130470549",
+  "name": "Tabak maaz",
+  "description": "a dish in served in Wazwan made from ribs of lamb simmered in yogurt, then fried",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tabak-maaz-q130470549/tabak-maaz-q130470549-1.jpg",
+    "images/tabak-maaz-q130470549/tabak-maaz-q130470549-2.jpg",
+    "images/tabak-maaz-q130470549/tabak-maaz-q130470549-3.jpg",
+    "images/tabak-maaz-q130470549/tabak-maaz-q130470549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130470549",
+    "themealdb": null
+  }
+}

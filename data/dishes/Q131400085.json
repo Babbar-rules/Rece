@@ -1,0 +1,18 @@
+{
+  "id": "Q131400085",
+  "name": "Kuanfen noodles",
+  "description": "Chinese potato noodles",
+  "nationality": [],
+  "region_cuisine": [
+    "Sichuan cuisine"
+  ],
+  "images": [
+    "images/kuanfen-noodles-q131400085/kuanfen-noodles-q131400085-1.jpg",
+    "images/kuanfen-noodles-q131400085/kuanfen-noodles-q131400085-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131400085",
+    "themealdb": null
+  }
+}

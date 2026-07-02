@@ -1,0 +1,65 @@
+{
+  "id": "Q13136717",
+  "name": "ontbijtkoek",
+  "description": "Dutch-Belgian spiced cake",
+  "nationality": [
+    "Belgium",
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/ontbijtkoek-q13136717/ontbijtkoek-q13136717-1.jpg",
+    "images/ontbijtkoek-q13136717/ontbijtkoek-q13136717-2.jpg",
+    "images/ontbijtkoek-q13136717/ontbijtkoek-q13136717-3.jpg",
+    "images/ontbijtkoek-q13136717/ontbijtkoek-q13136717-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53387",
+    "category": "Dessert",
+    "area": "Netherlands",
+    "instructions": "Preheat the oven to 160˚C (320˚F) Line a cake pan with parchment paper and set aside.\r\n\r\nMix all the dry ingredients together in a large bowl. Place the milk in a small saucepan and heat it until it is almost boiling but not quite.\r\nPour the milk slowly into the dry ingredients while whisking. Don't overmix! As soon as it is combined to a smooth batter you pour it into the cake pan. Sprinkle the pearl sugar over the top and bake it in the oven for about 1 hour.\r\nCheck after about 50 minutes how the cake is progressing. If a cake tester comes out clean the cake it cooked. If not let it cook for a little longer.",
+    "ingredients": [
+      {
+        "ingredient": "Self-raising Flour",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Dark Brown Soft Sugar",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      }
+    ],
+    "youtube": "https://www.youtube.com/shorts/3NIRQ3KMorw",
+    "thumb": "https://www.themealdb.com/images/media/meals/uwq8001777540502.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13136717",
+    "themealdb": "53387"
+  }
+}

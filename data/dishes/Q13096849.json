@@ -1,0 +1,20 @@
+{
+  "id": "Q13096849",
+  "name": "nasi jinggo",
+  "description": "Balinese dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-jinggo-q13096849/nasi-jinggo-q13096849-1.jpg",
+    "images/nasi-jinggo-q13096849/nasi-jinggo-q13096849-2.jpg",
+    "images/nasi-jinggo-q13096849/nasi-jinggo-q13096849-3.jpg",
+    "images/nasi-jinggo-q13096849/nasi-jinggo-q13096849-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13096849",
+    "themealdb": null
+  }
+}

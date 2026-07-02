@@ -1,0 +1,18 @@
+{
+  "id": "Q13113101",
+  "name": "Paripuvada",
+  "description": "snack food of Kerala",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paripuvada-q13113101/paripuvada-q13113101-1.jpg",
+    "images/paripuvada-q13113101/paripuvada-q13113101-2.jpg",
+    "images/paripuvada-q13113101/paripuvada-q13113101-3.jpg",
+    "images/paripuvada-q13113101/paripuvada-q13113101-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13113101",
+    "themealdb": null
+  }
+}

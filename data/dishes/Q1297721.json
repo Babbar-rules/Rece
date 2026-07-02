@@ -1,0 +1,22 @@
+{
+  "id": "Q1297721",
+  "name": "eggs Sardou",
+  "description": "Louisiana Creole cuisine dish made with poached eggs, artichoke bottoms, creamed spinach and Hollandaise sauce",
+  "nationality": [
+    "Louisiana"
+  ],
+  "region_cuisine": [
+    "Louisiana Creole cuisine"
+  ],
+  "images": [
+    "images/eggs-sardou-q1297721/eggs-sardou-q1297721-1.jpg",
+    "images/eggs-sardou-q1297721/eggs-sardou-q1297721-2.jpg",
+    "images/eggs-sardou-q1297721/eggs-sardou-q1297721-3.jpg",
+    "images/eggs-sardou-q1297721/eggs-sardou-q1297721-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1297721",
+    "themealdb": null
+  }
+}

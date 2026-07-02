@@ -1,0 +1,20 @@
+{
+  "id": "Q131286570",
+  "name": "Szczecin bread",
+  "description": "",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/szczecin-bread-q131286570/szczecin-bread-q131286570-1.jpg",
+    "images/szczecin-bread-q131286570/szczecin-bread-q131286570-2.jpg",
+    "images/szczecin-bread-q131286570/szczecin-bread-q131286570-3.png",
+    "images/szczecin-bread-q131286570/szczecin-bread-q131286570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131286570",
+    "themealdb": null
+  }
+}

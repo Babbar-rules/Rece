@@ -1,0 +1,20 @@
+{
+  "id": "Q130961449",
+  "name": "Rivers state native soup",
+  "description": "Nigerian dish",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rivers-state-native-soup-q130961449/rivers-state-native-soup-q130961449-1.jpg",
+    "images/rivers-state-native-soup-q130961449/rivers-state-native-soup-q130961449-2.jpg",
+    "images/rivers-state-native-soup-q130961449/rivers-state-native-soup-q130961449-3.jpg",
+    "images/rivers-state-native-soup-q130961449/rivers-state-native-soup-q130961449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130961449",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q131302426",
+  "name": "Chicken Bacon Ranch",
+  "description": "Papa's Pizzeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-bacon-ranch-q131302426/chicken-bacon-ranch-q131302426-1.jpg",
+    "images/chicken-bacon-ranch-q131302426/chicken-bacon-ranch-q131302426-2.jpg",
+    "images/chicken-bacon-ranch-q131302426/chicken-bacon-ranch-q131302426-3.jpg",
+    "images/chicken-bacon-ranch-q131302426/chicken-bacon-ranch-q131302426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131302426",
+    "themealdb": null
+  }
+}

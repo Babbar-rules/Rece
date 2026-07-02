@@ -1,0 +1,20 @@
+{
+  "id": "Q12975870",
+  "name": "kool",
+  "description": "Sri Lankan seafood stew",
+  "nationality": [
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kool-q12975870/kool-q12975870-1.jpg",
+    "images/kool-q12975870/kool-q12975870-2.png",
+    "images/kool-q12975870/kool-q12975870-3.jpg",
+    "images/kool-q12975870/kool-q12975870-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12975870",
+    "themealdb": null
+  }
+}

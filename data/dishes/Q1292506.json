@@ -1,0 +1,18 @@
+{
+  "id": "Q1292506",
+  "name": "gammon",
+  "description": "type of pork",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gammon-q1292506/gammon-q1292506-1.jpg",
+    "images/gammon-q1292506/gammon-q1292506-2.jpg",
+    "images/gammon-q1292506/gammon-q1292506-3.jpg",
+    "images/gammon-q1292506/gammon-q1292506-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1292506",
+    "themealdb": null
+  }
+}

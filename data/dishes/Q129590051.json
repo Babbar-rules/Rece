@@ -1,0 +1,18 @@
+{
+  "id": "Q129590051",
+  "name": "pizza in North Korea",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-in-north-korea-q129590051/pizza-in-north-korea-q129590051-1.jpg",
+    "images/pizza-in-north-korea-q129590051/pizza-in-north-korea-q129590051-2.jpg",
+    "images/pizza-in-north-korea-q129590051/pizza-in-north-korea-q129590051-3.jpg",
+    "images/pizza-in-north-korea-q129590051/pizza-in-north-korea-q129590051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129590051",
+    "themealdb": null
+  }
+}

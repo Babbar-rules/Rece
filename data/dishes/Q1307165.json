@@ -1,0 +1,20 @@
+{
+  "id": "Q1307165",
+  "name": "Quality Street",
+  "description": "British brand of confectionery",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quality-street-q1307165/quality-street-q1307165-1.jpg",
+    "images/quality-street-q1307165/quality-street-q1307165-2.jpg",
+    "images/quality-street-q1307165/quality-street-q1307165-3.jpg",
+    "images/quality-street-q1307165/quality-street-q1307165-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1307165",
+    "themealdb": null
+  }
+}

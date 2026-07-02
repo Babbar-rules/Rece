@@ -1,0 +1,20 @@
+{
+  "id": "Q130265510",
+  "name": "3-in-1",
+  "description": "menu item in Irish fast food outlets",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/3-in-1-q130265510/3-in-1-q130265510-1.jpg",
+    "images/3-in-1-q130265510/3-in-1-q130265510-2.jpg",
+    "images/3-in-1-q130265510/3-in-1-q130265510-3.jpg",
+    "images/3-in-1-q130265510/3-in-1-q130265510-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130265510",
+    "themealdb": null
+  }
+}

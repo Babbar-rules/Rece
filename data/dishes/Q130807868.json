@@ -1,0 +1,20 @@
+{
+  "id": "Q130807868",
+  "name": "Chestnut hearts",
+  "description": "South Tyrolean dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chestnut-hearts-q130807868/chestnut-hearts-q130807868-1.jpg",
+    "images/chestnut-hearts-q130807868/chestnut-hearts-q130807868-2.jpg",
+    "images/chestnut-hearts-q130807868/chestnut-hearts-q130807868-3.jpg",
+    "images/chestnut-hearts-q130807868/chestnut-hearts-q130807868-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130807868",
+    "themealdb": null
+  }
+}

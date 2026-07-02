@@ -1,0 +1,18 @@
+{
+  "id": "Q131289477",
+  "name": "Spicy Sausage",
+  "description": "Papa's Pizzeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spicy-sausage-q131289477/spicy-sausage-q131289477-1.jpg",
+    "images/spicy-sausage-q131289477/spicy-sausage-q131289477-2.jpg",
+    "images/spicy-sausage-q131289477/spicy-sausage-q131289477-3.jpg",
+    "images/spicy-sausage-q131289477/spicy-sausage-q131289477-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131289477",
+    "themealdb": null
+  }
+}

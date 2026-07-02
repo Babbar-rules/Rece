@@ -1,0 +1,20 @@
+{
+  "id": "Q129307327",
+  "name": "Johor laksa",
+  "description": "type of laksa from Johor, Malaysia",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/johor-laksa-q129307327/johor-laksa-q129307327-1.jpg",
+    "images/johor-laksa-q129307327/johor-laksa-q129307327-2.jpg",
+    "images/johor-laksa-q129307327/johor-laksa-q129307327-3.jpg",
+    "images/johor-laksa-q129307327/johor-laksa-q129307327-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129307327",
+    "themealdb": null
+  }
+}

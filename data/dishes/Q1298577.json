@@ -1,0 +1,20 @@
+{
+  "id": "Q1298577",
+  "name": "mapo doufu",
+  "description": "Sichuan province dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/mapo-doufu-q1298577/mapo-doufu-q1298577-1.jpg",
+    "images/mapo-doufu-q1298577/mapo-doufu-q1298577-2.jpg",
+    "images/mapo-doufu-q1298577/mapo-doufu-q1298577-3.jpg",
+    "images/mapo-doufu-q1298577/mapo-doufu-q1298577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1298577",
+    "themealdb": null
+  }
+}

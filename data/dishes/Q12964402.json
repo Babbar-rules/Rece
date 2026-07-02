@@ -1,0 +1,20 @@
+{
+  "id": "Q12964402",
+  "name": "gummy candy",
+  "description": "gelatin/gum-based candies",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gummy-candy-q12964402/gummy-candy-q12964402-1.jpg",
+    "images/gummy-candy-q12964402/gummy-candy-q12964402-2.jpg",
+    "images/gummy-candy-q12964402/gummy-candy-q12964402-3.jpg",
+    "images/gummy-candy-q12964402/gummy-candy-q12964402-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12964402",
+    "themealdb": null
+  }
+}

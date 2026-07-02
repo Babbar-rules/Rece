@@ -1,0 +1,18 @@
+{
+  "id": "Q129257463",
+  "name": "cheese dish",
+  "description": "dish with cheese as a main or significant ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-dish-q129257463/cheese-dish-q129257463-1.jpg",
+    "images/cheese-dish-q129257463/cheese-dish-q129257463-2.jpg",
+    "images/cheese-dish-q129257463/cheese-dish-q129257463-3.jpg",
+    "images/cheese-dish-q129257463/cheese-dish-q129257463-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129257463",
+    "themealdb": null
+  }
+}

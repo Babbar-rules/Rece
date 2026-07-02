@@ -1,0 +1,18 @@
+{
+  "id": "Q130878",
+  "name": "chewing gum",
+  "description": "soft, cohesive substance intended for chewing but not swallowing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chewing-gum-q130878/chewing-gum-q130878-1.jpg",
+    "images/chewing-gum-q130878/chewing-gum-q130878-2.jpg",
+    "images/chewing-gum-q130878/chewing-gum-q130878-3.jpg",
+    "images/chewing-gum-q130878/chewing-gum-q130878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130878",
+    "themealdb": null
+  }
+}

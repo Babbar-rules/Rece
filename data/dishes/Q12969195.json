@@ -1,0 +1,20 @@
+{
+  "id": "Q12969195",
+  "name": "papaitan",
+  "description": "Filipino soup",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/papaitan-q12969195/papaitan-q12969195-1.jpg",
+    "images/papaitan-q12969195/papaitan-q12969195-2.jpg",
+    "images/papaitan-q12969195/papaitan-q12969195-3.jpg",
+    "images/papaitan-q12969195/papaitan-q12969195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12969195",
+    "themealdb": null
+  }
+}

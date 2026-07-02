@@ -1,0 +1,18 @@
+{
+  "id": "Q129175425",
+  "name": "meat sandwich",
+  "description": "sandwich containing meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-sandwich-q129175425/meat-sandwich-q129175425-1.jpg",
+    "images/meat-sandwich-q129175425/meat-sandwich-q129175425-2.jpg",
+    "images/meat-sandwich-q129175425/meat-sandwich-q129175425-3.jpg",
+    "images/meat-sandwich-q129175425/meat-sandwich-q129175425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129175425",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q130632338",
+  "name": "Eungkot Paya",
+  "description": "processed curry made from freshwater fish or swamp fish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/eungkot-paya-q130632338/eungkot-paya-q130632338-1.jpg",
+    "images/eungkot-paya-q130632338/eungkot-paya-q130632338-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130632338",
+    "themealdb": null
+  }
+}

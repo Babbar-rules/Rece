@@ -1,0 +1,20 @@
+{
+  "id": "Q12962178",
+  "name": "biko",
+  "description": "type of sweet rice cake from the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biko-q12962178/biko-q12962178-1.jpg",
+    "images/biko-q12962178/biko-q12962178-2.jpg",
+    "images/biko-q12962178/biko-q12962178-3.jpg",
+    "images/biko-q12962178/biko-q12962178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12962178",
+    "themealdb": null
+  }
+}

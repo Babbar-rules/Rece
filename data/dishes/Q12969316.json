@@ -1,0 +1,20 @@
+{
+  "id": "Q12969316",
+  "name": "pastillas",
+  "description": "Philippine milk-based confectionery",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastillas-q12969316/pastillas-q12969316-1.jpg",
+    "images/pastillas-q12969316/pastillas-q12969316-2.jpg",
+    "images/pastillas-q12969316/pastillas-q12969316-3.jpg",
+    "images/pastillas-q12969316/pastillas-q12969316-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12969316",
+    "themealdb": null
+  }
+}

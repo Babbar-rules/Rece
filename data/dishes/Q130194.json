@@ -1,0 +1,24 @@
+{
+  "id": "Q130194",
+  "name": "Nam ngiao",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China",
+    "Myanmar",
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/nam-ngiao-q130194/nam-ngiao-q130194-1.jpg",
+    "images/nam-ngiao-q130194/nam-ngiao-q130194-2.jpg",
+    "images/nam-ngiao-q130194/nam-ngiao-q130194-3.jpg",
+    "images/nam-ngiao-q130194/nam-ngiao-q130194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130194",
+    "themealdb": null
+  }
+}

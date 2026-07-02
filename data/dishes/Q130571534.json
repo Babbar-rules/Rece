@@ -1,0 +1,20 @@
+{
+  "id": "Q130571534",
+  "name": "Dubai chocolate",
+  "description": "chocolate tablet filled with battered dough and pistachio",
+  "nationality": [
+    "United Arab Emirates"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dubai-chocolate-q130571534/dubai-chocolate-q130571534-1.jpg",
+    "images/dubai-chocolate-q130571534/dubai-chocolate-q130571534-2.jpg",
+    "images/dubai-chocolate-q130571534/dubai-chocolate-q130571534-3.jpg",
+    "images/dubai-chocolate-q130571534/dubai-chocolate-q130571534-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130571534",
+    "themealdb": null
+  }
+}

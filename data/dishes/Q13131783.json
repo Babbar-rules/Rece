@@ -1,0 +1,18 @@
+{
+  "id": "Q13131783",
+  "name": "Teisen Berffro",
+  "description": "shortbread pressed with scallop shell",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/teisen-berffro-q13131783/teisen-berffro-q13131783-1.jpg",
+    "images/teisen-berffro-q13131783/teisen-berffro-q13131783-2.jpg",
+    "images/teisen-berffro-q13131783/teisen-berffro-q13131783-3.jpg",
+    "images/teisen-berffro-q13131783/teisen-berffro-q13131783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13131783",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q130300520",
+  "name": "Cadbury Favourites",
+  "description": "selection of machine wrapped chocolates made by Cadbury",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cadbury-favourites-q130300520/cadbury-favourites-q130300520-1.jpg",
+    "images/cadbury-favourites-q130300520/cadbury-favourites-q130300520-2.jpg",
+    "images/cadbury-favourites-q130300520/cadbury-favourites-q130300520-3.jpg",
+    "images/cadbury-favourites-q130300520/cadbury-favourites-q130300520-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130300520",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q130677132",
+  "name": "Obo Ẹgwa",
+  "description": "Igala native soup prepared using beans",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/obo-egwa-q130677132/obo-egwa-q130677132-1.jpg",
+    "images/obo-egwa-q130677132/obo-egwa-q130677132-2.jpg",
+    "images/obo-egwa-q130677132/obo-egwa-q130677132-3.jpg",
+    "images/obo-egwa-q130677132/obo-egwa-q130677132-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130677132",
+    "themealdb": null
+  }
+}

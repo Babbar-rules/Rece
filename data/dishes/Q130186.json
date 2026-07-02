@@ -1,0 +1,18 @@
+{
+  "id": "Q130186",
+  "name": "torte",
+  "description": "rich, usually multilayered, cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/torte-q130186/torte-q130186-1.jpg",
+    "images/torte-q130186/torte-q130186-2.jpg",
+    "images/torte-q130186/torte-q130186-3.jpg",
+    "images/torte-q130186/torte-q130186-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130186",
+    "themealdb": null
+  }
+}

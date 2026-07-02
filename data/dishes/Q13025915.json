@@ -1,0 +1,19 @@
+{
+  "id": "Q13025915",
+  "name": "suea rong hai",
+  "description": "Northeastern Thai local food cooked from brisket of beef, flavored with spices, grilled rare, sliced into small pieces, and served with sticky rice and other dishes",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suea-rong-hai-q13025915/suea-rong-hai-q13025915-1.jpg",
+    "images/suea-rong-hai-q13025915/suea-rong-hai-q13025915-2.jpg",
+    "images/suea-rong-hai-q13025915/suea-rong-hai-q13025915-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13025915",
+    "themealdb": null
+  }
+}

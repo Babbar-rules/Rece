@@ -1,0 +1,20 @@
+{
+  "id": "Q13140030",
+  "name": "Papad",
+  "description": "type of bread",
+  "nationality": [
+    "Punjab"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/papad-q13140030/papad-q13140030-1.jpg",
+    "images/papad-q13140030/papad-q13140030-2.jpg",
+    "images/papad-q13140030/papad-q13140030-3.jpg",
+    "images/papad-q13140030/papad-q13140030-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13140030",
+    "themealdb": null
+  }
+}

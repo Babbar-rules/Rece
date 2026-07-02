@@ -1,0 +1,18 @@
+{
+  "id": "Q131318830",
+  "name": "Spicy Ranch",
+  "description": "Papa's Pizzeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spicy-ranch-q131318830/spicy-ranch-q131318830-1.jpg",
+    "images/spicy-ranch-q131318830/spicy-ranch-q131318830-2.jpg",
+    "images/spicy-ranch-q131318830/spicy-ranch-q131318830-3.jpg",
+    "images/spicy-ranch-q131318830/spicy-ranch-q131318830-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131318830",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1289229",
+  "name": "Prague ham",
+  "description": "type of boneless ham originally from Prague",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prague-ham-q1289229/prague-ham-q1289229-1.jpg",
+    "images/prague-ham-q1289229/prague-ham-q1289229-2.jpg",
+    "images/prague-ham-q1289229/prague-ham-q1289229-3.jpg",
+    "images/prague-ham-q1289229/prague-ham-q1289229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1289229",
+    "themealdb": null
+  }
+}

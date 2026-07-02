@@ -1,0 +1,20 @@
+{
+  "id": "Q129811536",
+  "name": "ais kepal",
+  "description": "Malaysian shaved ice dish",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ais-kepal-q129811536/ais-kepal-q129811536-1.jpg",
+    "images/ais-kepal-q129811536/ais-kepal-q129811536-2.jpg",
+    "images/ais-kepal-q129811536/ais-kepal-q129811536-3.jpg",
+    "images/ais-kepal-q129811536/ais-kepal-q129811536-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129811536",
+    "themealdb": null
+  }
+}

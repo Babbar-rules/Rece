@@ -1,0 +1,20 @@
+{
+  "id": "Q13044059",
+  "name": "patsas",
+  "description": "Greek tripe soup",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/patsas-q13044059/patsas-q13044059-1.jpg",
+    "images/patsas-q13044059/patsas-q13044059-2.jpg",
+    "images/patsas-q13044059/patsas-q13044059-3.jpg",
+    "images/patsas-q13044059/patsas-q13044059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13044059",
+    "themealdb": null
+  }
+}

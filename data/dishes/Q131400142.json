@@ -1,0 +1,20 @@
+{
+  "id": "Q131400142",
+  "name": "Suan la fen",
+  "description": "Chinese noodle stew",
+  "nationality": [],
+  "region_cuisine": [
+    "Sichuan cuisine"
+  ],
+  "images": [
+    "images/suan-la-fen-q131400142/suan-la-fen-q131400142-1.jpg",
+    "images/suan-la-fen-q131400142/suan-la-fen-q131400142-2.jpg",
+    "images/suan-la-fen-q131400142/suan-la-fen-q131400142-3.jpg",
+    "images/suan-la-fen-q131400142/suan-la-fen-q131400142-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131400142",
+    "themealdb": null
+  }
+}

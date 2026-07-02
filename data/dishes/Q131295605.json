@@ -1,0 +1,15 @@
+{
+  "id": "Q131295605",
+  "name": "Beefy Bell Pepper",
+  "description": "Papa's Pizzeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beefy-bell-pepper-q131295605/beefy-bell-pepper-q131295605-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131295605",
+    "themealdb": null
+  }
+}

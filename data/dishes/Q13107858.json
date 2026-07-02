@@ -1,0 +1,18 @@
+{
+  "id": "Q13107858",
+  "name": "Papillote",
+  "description": "chocolate in shiny paper",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papillote-q13107858/papillote-q13107858-1.jpg",
+    "images/papillote-q13107858/papillote-q13107858-2.jpg",
+    "images/papillote-q13107858/papillote-q13107858-3.jpg",
+    "images/papillote-q13107858/papillote-q13107858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13107858",
+    "themealdb": null
+  }
+}

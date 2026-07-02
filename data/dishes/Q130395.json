@@ -1,0 +1,18 @@
+{
+  "id": "Q130395",
+  "name": "oladyi",
+  "description": "small thick pancakes or fritters common in Russian, Ukrainian and Belarusian cuisines",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oladyi-q130395/oladyi-q130395-1.jpg",
+    "images/oladyi-q130395/oladyi-q130395-2.jpg",
+    "images/oladyi-q130395/oladyi-q130395-3.jpg",
+    "images/oladyi-q130395/oladyi-q130395-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130395",
+    "themealdb": null
+  }
+}

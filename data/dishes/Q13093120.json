@@ -1,0 +1,20 @@
+{
+  "id": "Q13093120",
+  "name": "gemblong",
+  "description": "Indonesian traditional cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gemblong-q13093120/gemblong-q13093120-1.jpg",
+    "images/gemblong-q13093120/gemblong-q13093120-2.jpg",
+    "images/gemblong-q13093120/gemblong-q13093120-3.jpg",
+    "images/gemblong-q13093120/gemblong-q13093120-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13093120",
+    "themealdb": null
+  }
+}

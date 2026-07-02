@@ -1,0 +1,17 @@
+{
+  "id": "Q128883353",
+  "name": "Jolly Rancher Raspberry",
+  "description": "flavor of Jolly Rancher hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jolly-rancher-raspberry-q128883353/jolly-rancher-raspberry-q128883353-1.jpg",
+    "images/jolly-rancher-raspberry-q128883353/jolly-rancher-raspberry-q128883353-2.jpg",
+    "images/jolly-rancher-raspberry-q128883353/jolly-rancher-raspberry-q128883353-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128883353",
+    "themealdb": null
+  }
+}

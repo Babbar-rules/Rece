@@ -1,0 +1,20 @@
+{
+  "id": "Q130323394",
+  "name": "schnitzel Pavlišov",
+  "description": "",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [
+    "Czech cuisine"
+  ],
+  "images": [
+    "images/schnitzel-pavlisov-q130323394/schnitzel-pavlisov-q130323394-1.jpg",
+    "images/schnitzel-pavlisov-q130323394/schnitzel-pavlisov-q130323394-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130323394",
+    "themealdb": null
+  }
+}

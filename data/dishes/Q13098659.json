@@ -1,0 +1,22 @@
+{
+  "id": "Q13098659",
+  "name": "Es Pisang Ijo",
+  "description": "dessert of South Sulawesi",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/es-pisang-ijo-q13098659/es-pisang-ijo-q13098659-1.jpg",
+    "images/es-pisang-ijo-q13098659/es-pisang-ijo-q13098659-2.jpg",
+    "images/es-pisang-ijo-q13098659/es-pisang-ijo-q13098659-3.jpg",
+    "images/es-pisang-ijo-q13098659/es-pisang-ijo-q13098659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13098659",
+    "themealdb": null
+  }
+}

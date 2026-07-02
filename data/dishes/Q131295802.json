@@ -1,0 +1,18 @@
+{
+  "id": "Q131295802",
+  "name": "Buffalo Bacon",
+  "description": "Papa's Pizzeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buffalo-bacon-q131295802/buffalo-bacon-q131295802-1.jpg",
+    "images/buffalo-bacon-q131295802/buffalo-bacon-q131295802-2.jpg",
+    "images/buffalo-bacon-q131295802/buffalo-bacon-q131295802-3.jpg",
+    "images/buffalo-bacon-q131295802/buffalo-bacon-q131295802-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131295802",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q130417163",
+  "name": "Coffee ice cream",
+  "description": "ice cream flavor",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coffee-ice-cream-q130417163/coffee-ice-cream-q130417163-1.jpg",
+    "images/coffee-ice-cream-q130417163/coffee-ice-cream-q130417163-2.jpg",
+    "images/coffee-ice-cream-q130417163/coffee-ice-cream-q130417163-3.jpg",
+    "images/coffee-ice-cream-q130417163/coffee-ice-cream-q130417163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130417163",
+    "themealdb": null
+  }
+}

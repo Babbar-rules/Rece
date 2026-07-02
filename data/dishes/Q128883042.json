@@ -1,0 +1,16 @@
+{
+  "id": "Q128883042",
+  "name": "Jolly Rancher Pineapple",
+  "description": "flavor of Jolly Rancher hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jolly-rancher-pineapple-q128883042/jolly-rancher-pineapple-q128883042-1.jpg",
+    "images/jolly-rancher-pineapple-q128883042/jolly-rancher-pineapple-q128883042-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128883042",
+    "themealdb": null
+  }
+}

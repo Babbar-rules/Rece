@@ -1,0 +1,18 @@
+{
+  "id": "Q1297370",
+  "name": "coddled egg",
+  "description": "eggs that are gently or lightly cooked in water just below boiling temperature in or out of the shell or other container",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coddled-egg-q1297370/coddled-egg-q1297370-1.jpg",
+    "images/coddled-egg-q1297370/coddled-egg-q1297370-2.jpg",
+    "images/coddled-egg-q1297370/coddled-egg-q1297370-3.jpg",
+    "images/coddled-egg-q1297370/coddled-egg-q1297370-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1297370",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q13094672",
+  "name": "lentho",
+  "description": "Indonesian savoury snack made of black-eyed pea",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lentho-q13094672/lentho-q13094672-1.jpg",
+    "images/lentho-q13094672/lentho-q13094672-2.jpg",
+    "images/lentho-q13094672/lentho-q13094672-3.jpg",
+    "images/lentho-q13094672/lentho-q13094672-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13094672",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q131104406",
+  "name": "Siddu",
+  "description": "type of wheat flour bread from India",
+  "nationality": [],
+  "region_cuisine": [
+    "North Indian cuisine"
+  ],
+  "images": [
+    "images/siddu-q131104406/siddu-q131104406-1.jpg",
+    "images/siddu-q131104406/siddu-q131104406-2.jpg",
+    "images/siddu-q131104406/siddu-q131104406-3.jpg",
+    "images/siddu-q131104406/siddu-q131104406-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131104406",
+    "themealdb": null
+  }
+}

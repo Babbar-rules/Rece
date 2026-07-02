@@ -1,0 +1,20 @@
+{
+  "id": "Q129152",
+  "name": "Christmas wafer",
+  "description": "food",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-wafer-q129152/christmas-wafer-q129152-1.jpg",
+    "images/christmas-wafer-q129152/christmas-wafer-q129152-2.jpg",
+    "images/christmas-wafer-q129152/christmas-wafer-q129152-3.jpg",
+    "images/christmas-wafer-q129152/christmas-wafer-q129152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129152",
+    "themealdb": null
+  }
+}

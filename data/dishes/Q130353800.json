@@ -1,0 +1,18 @@
+{
+  "id": "Q130353800",
+  "name": "Manija",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/manija-q130353800/manija-q130353800-1.jpg",
+    "images/manija-q130353800/manija-q130353800-2.jpg",
+    "images/manija-q130353800/manija-q130353800-3.jpg",
+    "images/manija-q130353800/manija-q130353800-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130353800",
+    "themealdb": null
+  }
+}

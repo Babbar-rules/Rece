@@ -1,0 +1,20 @@
+{
+  "id": "Q1305079",
+  "name": "ghormeh sabzi",
+  "description": "Iranian herb stew",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ghormeh-sabzi-q1305079/ghormeh-sabzi-q1305079-1.jpg",
+    "images/ghormeh-sabzi-q1305079/ghormeh-sabzi-q1305079-2.jpg",
+    "images/ghormeh-sabzi-q1305079/ghormeh-sabzi-q1305079-3.jpg",
+    "images/ghormeh-sabzi-q1305079/ghormeh-sabzi-q1305079-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1305079",
+    "themealdb": null
+  }
+}

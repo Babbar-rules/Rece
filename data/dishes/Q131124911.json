@@ -1,0 +1,20 @@
+{
+  "id": "Q131124911",
+  "name": "Thiere",
+  "description": "Senegalese couscous dish originating from the Serer people",
+  "nationality": [
+    "Senegal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thiere-q131124911/thiere-q131124911-1.jpg",
+    "images/thiere-q131124911/thiere-q131124911-2.jpg",
+    "images/thiere-q131124911/thiere-q131124911-3.jpg",
+    "images/thiere-q131124911/thiere-q131124911-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131124911",
+    "themealdb": null
+  }
+}

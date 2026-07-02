@@ -1,0 +1,72 @@
+{
+  "id": "Q1308323",
+  "name": "egg drop soup",
+  "description": "Chinese soup of wispy beaten eggs in boiled chicken broth",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/egg-drop-soup-q1308323/egg-drop-soup-q1308323-1.jpg",
+    "images/egg-drop-soup-q1308323/egg-drop-soup-q1308323-2.jpg",
+    "images/egg-drop-soup-q1308323/egg-drop-soup-q1308323-3.jpg",
+    "images/egg-drop-soup-q1308323/egg-drop-soup-q1308323-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52955",
+    "category": "Vegetarian",
+    "area": "Chinese",
+    "instructions": "In a wok add chicken broth and wait for it to boil.\r\nNext add salt, sugar, white pepper, sesame seed oil.\r\nWhen the chicken broth is boiling add the vegetables to the wok.\r\nTo thicken the sauce, whisk together 1 Tablespoon of cornstarch and 2 Tablespoon of water in a bowl and slowly add to your soup until it's the right thickness.\r\nNext add 1 egg slightly beaten with a knife or fork and add it to the soup slowly and stir for 8 seconds\r\nServe the soup in a bowl and add the green onions on top.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Sesame Seed Oil",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Peas",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "Mushrooms",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "1/4 cup"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=9XpzHm9QpZg",
+    "thumb": "https://www.themealdb.com/images/media/meals/1529446137.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1308323",
+    "themealdb": "52955"
+  }
+}

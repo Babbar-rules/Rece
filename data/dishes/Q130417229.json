@@ -1,0 +1,20 @@
+{
+  "id": "Q130417229",
+  "name": "Tilkor Tarua",
+  "description": "tarua of Tilkor leaves in Mithila",
+  "nationality": [],
+  "region_cuisine": [
+    "Maithil cuisine"
+  ],
+  "images": [
+    "images/tilkor-tarua-q130417229/tilkor-tarua-q130417229-1.jpg",
+    "images/tilkor-tarua-q130417229/tilkor-tarua-q130417229-2.jpg",
+    "images/tilkor-tarua-q130417229/tilkor-tarua-q130417229-3.jpg",
+    "images/tilkor-tarua-q130417229/tilkor-tarua-q130417229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130417229",
+    "themealdb": null
+  }
+}

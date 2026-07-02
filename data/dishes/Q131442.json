@@ -1,0 +1,22 @@
+{
+  "id": "Q131442",
+  "name": "Sachertorte",
+  "description": "specific type of chocolate cake, or torte",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/sachertorte-q131442/sachertorte-q131442-1.jpg",
+    "images/sachertorte-q131442/sachertorte-q131442-2.jpg",
+    "images/sachertorte-q131442/sachertorte-q131442-3.jpg",
+    "images/sachertorte-q131442/sachertorte-q131442-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131442",
+    "themealdb": null
+  }
+}

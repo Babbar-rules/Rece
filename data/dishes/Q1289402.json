@@ -1,0 +1,20 @@
+{
+  "id": "Q1289402",
+  "name": "slambuc",
+  "description": "Hungarian stew",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slambuc-q1289402/slambuc-q1289402-1.jpg",
+    "images/slambuc-q1289402/slambuc-q1289402-2.jpg",
+    "images/slambuc-q1289402/slambuc-q1289402-3.jpg",
+    "images/slambuc-q1289402/slambuc-q1289402-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1289402",
+    "themealdb": null
+  }
+}

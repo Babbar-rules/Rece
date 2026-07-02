@@ -1,0 +1,20 @@
+{
+  "id": "Q12971248",
+  "name": "macaroni soup",
+  "description": "soup containing macaroni pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/macaroni-soup-q12971248/macaroni-soup-q12971248-1.jpg",
+    "images/macaroni-soup-q12971248/macaroni-soup-q12971248-2.jpeg",
+    "images/macaroni-soup-q12971248/macaroni-soup-q12971248-3.jpg",
+    "images/macaroni-soup-q12971248/macaroni-soup-q12971248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12971248",
+    "themealdb": null
+  }
+}

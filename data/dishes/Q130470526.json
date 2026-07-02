@@ -1,0 +1,18 @@
+{
+  "id": "Q130470526",
+  "name": "Rista",
+  "description": "Meatballs in a fiery red gravy, a dish in Wazwan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rista-q130470526/rista-q130470526-1.jpg",
+    "images/rista-q130470526/rista-q130470526-2.jpg",
+    "images/rista-q130470526/rista-q130470526-3.jpg",
+    "images/rista-q130470526/rista-q130470526-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q130470526",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Q129098238",
+  "name": "split pea soup",
+  "description": "variety of pea soup containing split peas",
+  "nationality": [
+    "Canadian"
+  ],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/split-pea-soup-q129098238/split-pea-soup-q129098238-1.jpg",
+    "images/split-pea-soup-q129098238/split-pea-soup-q129098238-2.jpg",
+    "images/split-pea-soup-q129098238/split-pea-soup-q129098238-3.jpg",
+    "images/split-pea-soup-q129098238/split-pea-soup-q129098238-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52925",
+    "category": "Side",
+    "area": "Canadian",
+    "instructions": "Put the gammon in a very large pan with 2 litres water and bring to the boil. Remove from the heat and drain off the water – this helps to get rid of some of the saltiness. Recover with 2 litres cold water and bring to the boil again. Put everything but the frozen peas into the pan and bring to the boil. Reduce to a simmer and cook for 1½-2½ hrs, topping up the water as and when you need to, to a similar level it started at. As the ham cooks and softens, you can halve it if you want, so it is all submerged under the liquid. When the ham is tender enough to pull into shreds, it is ready.\r\nLift out the ham, peel off and discard the skin. While it is still hot (wear a clean pair of rubber gloves), shred the meat. Remove bay from the soup and stir in the frozen peas. Simmer for 1 min, then blend until smooth. Add a splash of water if too thick, and return to the pan to heat through if it has cooled, or if you are making ahead.\r\nWhen you are ready to serve, mix the hot soup with most of the ham – gently reheat if made ahead. Serve in bowls with the remaining ham scattered on top, and eat with crusty bread and butter.",
+    "ingredients": [
+      {
+        "ingredient": "Ham",
+        "measure": "1kg"
+      },
+      {
+        "ingredient": "Peas",
+        "measure": "200g (soaked overnight)"
+      },
+      {
+        "ingredient": "Onions",
+        "measure": "2 chopped"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "2 chopped"
+      },
+      {
+        "ingredient": "Bay Leaves",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Celery",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Frozen Peas",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Bread",
+        "measure": "to serve"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=qdhWz7qAaCU",
+    "thumb": "https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q129098238",
+    "themealdb": "52925"
+  }
+}

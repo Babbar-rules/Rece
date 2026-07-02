@@ -1,0 +1,20 @@
+{
+  "id": "Q1294686",
+  "name": "Vichyssoise",
+  "description": "chilled soup made of leeks, potatoes, and cream",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vichyssoise-q1294686/vichyssoise-q1294686-1.jpg",
+    "images/vichyssoise-q1294686/vichyssoise-q1294686-2.jpg",
+    "images/vichyssoise-q1294686/vichyssoise-q1294686-3.jpg",
+    "images/vichyssoise-q1294686/vichyssoise-q1294686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1294686",
+    "themealdb": null
+  }
+}
