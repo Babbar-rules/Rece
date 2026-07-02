@@ -1,0 +1,18 @@
+{
+  "id": "Q1465330",
+  "name": "fried ice cream",
+  "description": "Coated, deep-fried dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-ice-cream-q1465330/fried-ice-cream-q1465330-1.jpg",
+    "images/fried-ice-cream-q1465330/fried-ice-cream-q1465330-2.jpg",
+    "images/fried-ice-cream-q1465330/fried-ice-cream-q1465330-3.jpg",
+    "images/fried-ice-cream-q1465330/fried-ice-cream-q1465330-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1465330",
+    "themealdb": null
+  }
+}

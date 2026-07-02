@@ -1,0 +1,17 @@
+{
+  "id": "Q1420904",
+  "name": "diplomat pudding",
+  "description": "classic dessert",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/diplomat-pudding-q1420904/diplomat-pudding-q1420904-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1420904",
+    "themealdb": null
+  }
+}

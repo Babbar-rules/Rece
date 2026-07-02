@@ -1,0 +1,22 @@
+{
+  "id": "Q139846003",
+  "name": "Taiwanese Steak",
+  "description": "Steak in Taiwan",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/taiwanese-steak-q139846003/taiwanese-steak-q139846003-1.jpg",
+    "images/taiwanese-steak-q139846003/taiwanese-steak-q139846003-2.jpg",
+    "images/taiwanese-steak-q139846003/taiwanese-steak-q139846003-3.jpg",
+    "images/taiwanese-steak-q139846003/taiwanese-steak-q139846003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139846003",
+    "themealdb": null
+  }
+}

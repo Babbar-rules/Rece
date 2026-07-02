@@ -1,0 +1,18 @@
+{
+  "id": "Q1397302",
+  "name": "Faschierte Laibchen",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/faschierte-laibchen-q1397302/faschierte-laibchen-q1397302-1.jpg",
+    "images/faschierte-laibchen-q1397302/faschierte-laibchen-q1397302-2.jpg",
+    "images/faschierte-laibchen-q1397302/faschierte-laibchen-q1397302-3.jpg",
+    "images/faschierte-laibchen-q1397302/faschierte-laibchen-q1397302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1397302",
+    "themealdb": null
+  }
+}

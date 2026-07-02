@@ -1,0 +1,20 @@
+{
+  "id": "Q1422742",
+  "name": "Syllabub",
+  "description": "British dessert made with cream and wine",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/syllabub-q1422742/syllabub-q1422742-1.jpg",
+    "images/syllabub-q1422742/syllabub-q1422742-2.jpg",
+    "images/syllabub-q1422742/syllabub-q1422742-3.jpg",
+    "images/syllabub-q1422742/syllabub-q1422742-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1422742",
+    "themealdb": null
+  }
+}

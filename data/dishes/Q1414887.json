@@ -1,0 +1,18 @@
+{
+  "id": "Q1414887",
+  "name": "Lamajun",
+  "description": "Middle Eastern food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamajun-q1414887/lamajun-q1414887-1.jpg",
+    "images/lamajun-q1414887/lamajun-q1414887-2.jpg",
+    "images/lamajun-q1414887/lamajun-q1414887-3.png",
+    "images/lamajun-q1414887/lamajun-q1414887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1414887",
+    "themealdb": null
+  }
+}

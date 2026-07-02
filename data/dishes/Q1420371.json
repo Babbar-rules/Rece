@@ -1,0 +1,20 @@
+{
+  "id": "Q1420371",
+  "name": "Goxua",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/goxua-q1420371/goxua-q1420371-1.jpg",
+    "images/goxua-q1420371/goxua-q1420371-2.jpg",
+    "images/goxua-q1420371/goxua-q1420371-3.jpg",
+    "images/goxua-q1420371/goxua-q1420371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1420371",
+    "themealdb": null
+  }
+}

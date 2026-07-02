@@ -1,0 +1,18 @@
+{
+  "id": "Q14333256",
+  "name": "sesame roll",
+  "description": "sesame bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sesame-roll-q14333256/sesame-roll-q14333256-1.jpg",
+    "images/sesame-roll-q14333256/sesame-roll-q14333256-2.jpg",
+    "images/sesame-roll-q14333256/sesame-roll-q14333256-3.jpg",
+    "images/sesame-roll-q14333256/sesame-roll-q14333256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14333256",
+    "themealdb": null
+  }
+}

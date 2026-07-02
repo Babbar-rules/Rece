@@ -1,0 +1,20 @@
+{
+  "id": "Q141898",
+  "name": "Kimchi",
+  "description": "Traditional Korean dish of fermented vegetables",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kimchi-q141898/kimchi-q141898-1.jpg",
+    "images/kimchi-q141898/kimchi-q141898-2.jpg",
+    "images/kimchi-q141898/kimchi-q141898-3.jpg",
+    "images/kimchi-q141898/kimchi-q141898-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q141898",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q1420442",
+  "name": "Lohikeitto",
+  "description": "fish soup",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [
+    "Karelian cuisine",
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/lohikeitto-q1420442/lohikeitto-q1420442-1.jpg",
+    "images/lohikeitto-q1420442/lohikeitto-q1420442-2.jpg",
+    "images/lohikeitto-q1420442/lohikeitto-q1420442-3.jpg",
+    "images/lohikeitto-q1420442/lohikeitto-q1420442-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1420442",
+    "themealdb": null
+  }
+}

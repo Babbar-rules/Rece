@@ -1,0 +1,20 @@
+{
+  "id": "Q1429062",
+  "name": "Springerle",
+  "description": "Molded, anise-flavored cookie associated with German Christmas tradition",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/springerle-q1429062/springerle-q1429062-1.jpg",
+    "images/springerle-q1429062/springerle-q1429062-2.jpg",
+    "images/springerle-q1429062/springerle-q1429062-3.jpg",
+    "images/springerle-q1429062/springerle-q1429062-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1429062",
+    "themealdb": null
+  }
+}

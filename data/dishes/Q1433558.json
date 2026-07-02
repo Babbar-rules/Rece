@@ -1,0 +1,21 @@
+{
+  "id": "Q1433558",
+  "name": "cholent",
+  "description": "kosher stew",
+  "nationality": [
+    "France",
+    "North Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cholent-q1433558/cholent-q1433558-1.jpg",
+    "images/cholent-q1433558/cholent-q1433558-2.jpg",
+    "images/cholent-q1433558/cholent-q1433558-3.jpg",
+    "images/cholent-q1433558/cholent-q1433558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1433558",
+    "themealdb": null
+  }
+}

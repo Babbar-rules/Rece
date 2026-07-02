@@ -1,0 +1,20 @@
+{
+  "id": "Q1465158",
+  "name": "Fritada",
+  "description": "traditional Ecuadorian dish",
+  "nationality": [
+    "Ecuador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fritada-q1465158/fritada-q1465158-1.jpg",
+    "images/fritada-q1465158/fritada-q1465158-2.jpg",
+    "images/fritada-q1465158/fritada-q1465158-3.jpg",
+    "images/fritada-q1465158/fritada-q1465158-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1465158",
+    "themealdb": null
+  }
+}

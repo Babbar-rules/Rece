@@ -1,0 +1,18 @@
+{
+  "id": "Q140343254",
+  "name": "Strawberry Shortcake Bar",
+  "description": "ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-shortcake-bar-q140343254/strawberry-shortcake-bar-q140343254-1.jpg",
+    "images/strawberry-shortcake-bar-q140343254/strawberry-shortcake-bar-q140343254-2.jpg",
+    "images/strawberry-shortcake-bar-q140343254/strawberry-shortcake-bar-q140343254-3.jpg",
+    "images/strawberry-shortcake-bar-q140343254/strawberry-shortcake-bar-q140343254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140343254",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1394677",
+  "name": "Kaisen-don",
+  "description": "Japanese seafood rice bowl",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kaisen-don-q1394677/kaisen-don-q1394677-1.jpg",
+    "images/kaisen-don-q1394677/kaisen-don-q1394677-2.jpg",
+    "images/kaisen-don-q1394677/kaisen-don-q1394677-3.jpg",
+    "images/kaisen-don-q1394677/kaisen-don-q1394677-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1394677",
+    "themealdb": null
+  }
+}

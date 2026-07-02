@@ -1,0 +1,20 @@
+{
+  "id": "Q139413840",
+  "name": "shpachky",
+  "description": "ritual baked goods from Horodyshche region, Ukraine",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shpachky-q139413840/shpachky-q139413840-1.jpg",
+    "images/shpachky-q139413840/shpachky-q139413840-2.jpg",
+    "images/shpachky-q139413840/shpachky-q139413840-3.jpg",
+    "images/shpachky-q139413840/shpachky-q139413840-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139413840",
+    "themealdb": null
+  }
+}

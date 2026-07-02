@@ -1,0 +1,18 @@
+{
+  "id": "Q1397493",
+  "name": "Fasnachtschüechli",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fasnachtschuechli-q1397493/fasnachtschuechli-q1397493-1.jpg",
+    "images/fasnachtschuechli-q1397493/fasnachtschuechli-q1397493-2.jpg",
+    "images/fasnachtschuechli-q1397493/fasnachtschuechli-q1397493-3.jpg",
+    "images/fasnachtschuechli-q1397493/fasnachtschuechli-q1397493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1397493",
+    "themealdb": null
+  }
+}

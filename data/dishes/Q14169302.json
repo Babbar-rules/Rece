@@ -1,0 +1,20 @@
+{
+  "id": "Q14169302",
+  "name": "chocolate chip cookie",
+  "description": "cookie including pieces of chocolate",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-chip-cookie-q14169302/chocolate-chip-cookie-q14169302-1.jpg",
+    "images/chocolate-chip-cookie-q14169302/chocolate-chip-cookie-q14169302-2.jpg",
+    "images/chocolate-chip-cookie-q14169302/chocolate-chip-cookie-q14169302-3.jpg",
+    "images/chocolate-chip-cookie-q14169302/chocolate-chip-cookie-q14169302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14169302",
+    "themealdb": null
+  }
+}

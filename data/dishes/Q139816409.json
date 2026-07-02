@@ -1,0 +1,23 @@
+{
+  "id": "Q139816409",
+  "name": "xian doujiang",
+  "description": "savory soy milk soup eaten",
+  "nationality": [
+    "Wu"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine",
+    "Shanghai cuisine"
+  ],
+  "images": [
+    "images/xian-doujiang-q139816409/xian-doujiang-q139816409-1.jpg",
+    "images/xian-doujiang-q139816409/xian-doujiang-q139816409-2.jpg",
+    "images/xian-doujiang-q139816409/xian-doujiang-q139816409-3.jpg",
+    "images/xian-doujiang-q139816409/xian-doujiang-q139816409-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139816409",
+    "themealdb": null
+  }
+}

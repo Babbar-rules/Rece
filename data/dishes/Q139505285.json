@@ -1,0 +1,15 @@
+{
+  "id": "Q139505285",
+  "name": "Tamago Sando",
+  "description": "Japanese-style egg salad sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tamago-sando-q139505285/tamago-sando-q139505285-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139505285",
+    "themealdb": null
+  }
+}

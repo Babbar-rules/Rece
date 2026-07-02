@@ -1,0 +1,20 @@
+{
+  "id": "Q1454955",
+  "name": "Rompope",
+  "description": "eggnog-like drink",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rompope-q1454955/rompope-q1454955-1.jpg",
+    "images/rompope-q1454955/rompope-q1454955-2.jpg",
+    "images/rompope-q1454955/rompope-q1454955-3.jpg",
+    "images/rompope-q1454955/rompope-q1454955-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1454955",
+    "themealdb": null
+  }
+}

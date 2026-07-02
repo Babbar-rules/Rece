@@ -1,0 +1,18 @@
+{
+  "id": "Q1389341",
+  "name": "Tejate",
+  "description": "Maize and cacao beverage from Oaxaca",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tejate-q1389341/tejate-q1389341-1.jpg",
+    "images/tejate-q1389341/tejate-q1389341-2.jpg",
+    "images/tejate-q1389341/tejate-q1389341-3.jpg",
+    "images/tejate-q1389341/tejate-q1389341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1389341",
+    "themealdb": null
+  }
+}

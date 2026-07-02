@@ -1,0 +1,20 @@
+{
+  "id": "Q14524937",
+  "name": "Cronut",
+  "description": "a croissant-doughnut pastry invented by New York City pastry chef Dominique Ansel of Dominique Ansel Bakery",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cronut-q14524937/cronut-q14524937-1.jpg",
+    "images/cronut-q14524937/cronut-q14524937-2.jpg",
+    "images/cronut-q14524937/cronut-q14524937-3.jpg",
+    "images/cronut-q14524937/cronut-q14524937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14524937",
+    "themealdb": null
+  }
+}

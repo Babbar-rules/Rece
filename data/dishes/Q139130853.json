@@ -1,0 +1,22 @@
+{
+  "id": "Q139130853",
+  "name": "Khao man gai",
+  "description": "Thai variant of Hainanese chicken rice",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/khao-man-gai-q139130853/khao-man-gai-q139130853-1.jpg",
+    "images/khao-man-gai-q139130853/khao-man-gai-q139130853-2.jpg",
+    "images/khao-man-gai-q139130853/khao-man-gai-q139130853-3.jpg",
+    "images/khao-man-gai-q139130853/khao-man-gai-q139130853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139130853",
+    "themealdb": null
+  }
+}

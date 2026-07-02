@@ -1,0 +1,20 @@
+{
+  "id": "Q139266197",
+  "name": "Taiwanese Hot pot",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/taiwanese-hot-pot-q139266197/taiwanese-hot-pot-q139266197-1.jpg",
+    "images/taiwanese-hot-pot-q139266197/taiwanese-hot-pot-q139266197-2.jpg",
+    "images/taiwanese-hot-pot-q139266197/taiwanese-hot-pot-q139266197-3.png",
+    "images/taiwanese-hot-pot-q139266197/taiwanese-hot-pot-q139266197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139266197",
+    "themealdb": null
+  }
+}

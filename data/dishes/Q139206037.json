@@ -1,0 +1,18 @@
+{
+  "id": "Q139206037",
+  "name": "chocolate in Japan",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-in-japan-q139206037/chocolate-in-japan-q139206037-1.jpg",
+    "images/chocolate-in-japan-q139206037/chocolate-in-japan-q139206037-2.jpg",
+    "images/chocolate-in-japan-q139206037/chocolate-in-japan-q139206037-3.jpg",
+    "images/chocolate-in-japan-q139206037/chocolate-in-japan-q139206037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139206037",
+    "themealdb": null
+  }
+}

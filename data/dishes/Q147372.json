@@ -1,0 +1,22 @@
+{
+  "id": "Q147372",
+  "name": "zapiekanka",
+  "description": "Polish open-face sandwich made of half of a baguette or other long roll of bread",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/zapiekanka-q147372/zapiekanka-q147372-1.jpg",
+    "images/zapiekanka-q147372/zapiekanka-q147372-2.jpg",
+    "images/zapiekanka-q147372/zapiekanka-q147372-3.jpg",
+    "images/zapiekanka-q147372/zapiekanka-q147372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q147372",
+    "themealdb": null
+  }
+}

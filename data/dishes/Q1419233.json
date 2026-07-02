@@ -1,0 +1,20 @@
+{
+  "id": "Q1419233",
+  "name": "spaghetti aglio e olio",
+  "description": "Italian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-aglio-e-olio-q1419233/spaghetti-aglio-e-olio-q1419233-1.jpg",
+    "images/spaghetti-aglio-e-olio-q1419233/spaghetti-aglio-e-olio-q1419233-2.png",
+    "images/spaghetti-aglio-e-olio-q1419233/spaghetti-aglio-e-olio-q1419233-3.jpg",
+    "images/spaghetti-aglio-e-olio-q1419233/spaghetti-aglio-e-olio-q1419233-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1419233",
+    "themealdb": null
+  }
+}

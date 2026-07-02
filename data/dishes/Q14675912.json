@@ -1,0 +1,20 @@
+{
+  "id": "Q14675912",
+  "name": "bok caang",
+  "description": "Cantonese food",
+  "nationality": [],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/bok-caang-q14675912/bok-caang-q14675912-1.jpg",
+    "images/bok-caang-q14675912/bok-caang-q14675912-2.jpg",
+    "images/bok-caang-q14675912/bok-caang-q14675912-3.jpg",
+    "images/bok-caang-q14675912/bok-caang-q14675912-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14675912",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1429469",
+  "name": "Florentine biscuit",
+  "description": "Italian pastry of nuts and fruit",
+  "nationality": [
+    "Florence"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/florentine-biscuit-q1429469/florentine-biscuit-q1429469-1.jpg",
+    "images/florentine-biscuit-q1429469/florentine-biscuit-q1429469-2.jpg",
+    "images/florentine-biscuit-q1429469/florentine-biscuit-q1429469-3.jpg",
+    "images/florentine-biscuit-q1429469/florentine-biscuit-q1429469-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1429469",
+    "themealdb": null
+  }
+}

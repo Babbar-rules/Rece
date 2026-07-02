@@ -1,0 +1,22 @@
+{
+  "id": "Q14554958",
+  "name": "Moon Pie",
+  "description": "confectionery item",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the Southern United States"
+  ],
+  "images": [
+    "images/moon-pie-q14554958/moon-pie-q14554958-1.jpg",
+    "images/moon-pie-q14554958/moon-pie-q14554958-2.jpg",
+    "images/moon-pie-q14554958/moon-pie-q14554958-3.jpg",
+    "images/moon-pie-q14554958/moon-pie-q14554958-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14554958",
+    "themealdb": null
+  }
+}

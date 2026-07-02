@@ -1,0 +1,20 @@
+{
+  "id": "Q14832965",
+  "name": "western fried rice",
+  "description": "",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/western-fried-rice-q14832965/western-fried-rice-q14832965-1.jpg",
+    "images/western-fried-rice-q14832965/western-fried-rice-q14832965-2.jpg",
+    "images/western-fried-rice-q14832965/western-fried-rice-q14832965-3.jpg",
+    "images/western-fried-rice-q14832965/western-fried-rice-q14832965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14832965",
+    "themealdb": null
+  }
+}

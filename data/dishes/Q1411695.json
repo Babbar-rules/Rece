@@ -1,0 +1,53 @@
+{
+  "id": "Q1411695",
+  "name": "pa amb tomàquet",
+  "description": "traditional regional dish from Spain and France",
+  "nationality": [
+    "Pyrénées-Orientales",
+    "Catalonia"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/pa-amb-tomaquet-q1411695/pa-amb-tomaquet-q1411695-1.jpg",
+    "images/pa-amb-tomaquet-q1411695/pa-amb-tomaquet-q1411695-2.jpg",
+    "images/pa-amb-tomaquet-q1411695/pa-amb-tomaquet-q1411695-3.jpg",
+    "images/pa-amb-tomaquet-q1411695/pa-amb-tomaquet-q1411695-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53417",
+    "category": "Vegetarian",
+    "area": null,
+    "instructions": "Toast the bread slices -- either in a toaster, or by baking them in the oven at 400°F -- until crispy and golden.  (Toasting/baking time will totally depend on the type and thickness of your bread.)\r\n\r\nTake a clove of garlic and rub it cut-side-down all over the top of a slice of bread.\r\n\r\nTake a tomato half and rub it cut-side-down all over the top of the bread.\r\n\r\nDrizzle the bread evenly with a hint of olive oil.  Sprinkle with a pinch of salt.\r\n\r\nRepeat with the remaining slices of bread.  Then serve immediately while they're nice and warm!",
+    "ingredients": [
+      {
+        "ingredient": "Bread",
+        "measure": "2 sliced"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "3 chopped"
+      },
+      {
+        "ingredient": "Extra Virgin Olive Oil",
+        "measure": "Splash"
+      },
+      {
+        "ingredient": "Sea Salt",
+        "measure": "To taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=nFoQ5K-7_24",
+    "thumb": "https://www.themealdb.com/images/media/meals/lz9rw91779733434.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1411695",
+    "themealdb": "53417"
+  }
+}

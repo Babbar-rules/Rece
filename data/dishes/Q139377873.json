@@ -1,0 +1,17 @@
+{
+  "id": "Q139377873",
+  "name": "Pommes Darphin",
+  "description": "potato dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pommes-darphin-q139377873/pommes-darphin-q139377873-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139377873",
+    "themealdb": null
+  }
+}

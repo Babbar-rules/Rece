@@ -1,0 +1,20 @@
+{
+  "id": "Q14116162",
+  "name": "Pihlaja",
+  "description": "Finnish brand of candy",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pihlaja-q14116162/pihlaja-q14116162-1.jpg",
+    "images/pihlaja-q14116162/pihlaja-q14116162-2.jpg",
+    "images/pihlaja-q14116162/pihlaja-q14116162-3.jpg",
+    "images/pihlaja-q14116162/pihlaja-q14116162-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14116162",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1410129",
+  "name": "Feuerzangenbowle",
+  "description": "German alcoholic drink",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/feuerzangenbowle-q1410129/feuerzangenbowle-q1410129-1.jpg",
+    "images/feuerzangenbowle-q1410129/feuerzangenbowle-q1410129-2.jpg",
+    "images/feuerzangenbowle-q1410129/feuerzangenbowle-q1410129-3.jpg",
+    "images/feuerzangenbowle-q1410129/feuerzangenbowle-q1410129-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1410129",
+    "themealdb": null
+  }
+}

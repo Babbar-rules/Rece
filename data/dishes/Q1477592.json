@@ -1,0 +1,20 @@
+{
+  "id": "Q1477592",
+  "name": "Churchkhela",
+  "description": "candle-shaped nut candy",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/churchkhela-q1477592/churchkhela-q1477592-1.jpg",
+    "images/churchkhela-q1477592/churchkhela-q1477592-2.jpg",
+    "images/churchkhela-q1477592/churchkhela-q1477592-3.jpg",
+    "images/churchkhela-q1477592/churchkhela-q1477592-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1477592",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q14595838",
+  "name": "amplang",
+  "description": "Indonesian fish cracker snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amplang-q14595838/amplang-q14595838-1.jpg",
+    "images/amplang-q14595838/amplang-q14595838-2.jpg",
+    "images/amplang-q14595838/amplang-q14595838-3.jpg",
+    "images/amplang-q14595838/amplang-q14595838-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14595838",
+    "themealdb": null
+  }
+}

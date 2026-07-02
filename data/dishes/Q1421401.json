@@ -1,0 +1,20 @@
+{
+  "id": "Q1421401",
+  "name": "pastel de nata",
+  "description": "Portuguese egg tart pastry dusted with cinnamon",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastel-de-nata-q1421401/pastel-de-nata-q1421401-1.jpg",
+    "images/pastel-de-nata-q1421401/pastel-de-nata-q1421401-2.jpg",
+    "images/pastel-de-nata-q1421401/pastel-de-nata-q1421401-3.jpg",
+    "images/pastel-de-nata-q1421401/pastel-de-nata-q1421401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1421401",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q14523339",
+  "name": "Krapfen",
+  "description": "German sweet bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krapfen-q14523339/krapfen-q14523339-1.jpg",
+    "images/krapfen-q14523339/krapfen-q14523339-2.jpg",
+    "images/krapfen-q14523339/krapfen-q14523339-3.jpg",
+    "images/krapfen-q14523339/krapfen-q14523339-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14523339",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1398251",
+  "name": "fattoush",
+  "description": "dish of Levantine cuisine, a salad of pieces of bread, parsley, cucumbers and tomatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fattoush-q1398251/fattoush-q1398251-1.jpg",
+    "images/fattoush-q1398251/fattoush-q1398251-2.jpg",
+    "images/fattoush-q1398251/fattoush-q1398251-3.jpg",
+    "images/fattoush-q1398251/fattoush-q1398251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1398251",
+    "themealdb": null
+  }
+}

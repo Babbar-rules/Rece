@@ -1,0 +1,20 @@
+{
+  "id": "Q1412112",
+  "name": "San Daniele ham",
+  "description": "kind of prosciutto produced in San Daniele del Friuli area, in the Friuli-Venezia Giulia region of Italy, darker in color and sweeter in flavor",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/san-daniele-ham-q1412112/san-daniele-ham-q1412112-1.jpg",
+    "images/san-daniele-ham-q1412112/san-daniele-ham-q1412112-2.jpg",
+    "images/san-daniele-ham-q1412112/san-daniele-ham-q1412112-3.jpg",
+    "images/san-daniele-ham-q1412112/san-daniele-ham-q1412112-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1412112",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1427844",
+  "name": "meat dish",
+  "description": "food preparation including meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-dish-q1427844/meat-dish-q1427844-1.jpg",
+    "images/meat-dish-q1427844/meat-dish-q1427844-2.jpg",
+    "images/meat-dish-q1427844/meat-dish-q1427844-3.jpg",
+    "images/meat-dish-q1427844/meat-dish-q1427844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1427844",
+    "themealdb": null
+  }
+}

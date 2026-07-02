@@ -1,0 +1,17 @@
+{
+  "id": "Q139915904",
+  "name": "Buffalo-style pizza",
+  "description": "style of pizza from Buffalo, New York",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buffalo-style-pizza-q139915904/buffalo-style-pizza-q139915904-1.jpg",
+    "images/buffalo-style-pizza-q139915904/buffalo-style-pizza-q139915904-2.jpg",
+    "images/buffalo-style-pizza-q139915904/buffalo-style-pizza-q139915904-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139915904",
+    "themealdb": null
+  }
+}

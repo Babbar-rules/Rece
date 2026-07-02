@@ -1,0 +1,18 @@
+{
+  "id": "Q139752088",
+  "name": "Munchkins",
+  "description": "type of donut hole treat sold by Dunkin'",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/munchkins-q139752088/munchkins-q139752088-1.jpg",
+    "images/munchkins-q139752088/munchkins-q139752088-2.jpg",
+    "images/munchkins-q139752088/munchkins-q139752088-3.jpg",
+    "images/munchkins-q139752088/munchkins-q139752088-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139752088",
+    "themealdb": null
+  }
+}

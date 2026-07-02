@@ -1,0 +1,18 @@
+{
+  "id": "Q1420726",
+  "name": "Fisherman's Friend",
+  "description": "brand of menthol lozenges",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fishermans-friend-q1420726/fishermans-friend-q1420726-1.jpg",
+    "images/fishermans-friend-q1420726/fishermans-friend-q1420726-2.jpg",
+    "images/fishermans-friend-q1420726/fishermans-friend-q1420726-3.jpg",
+    "images/fishermans-friend-q1420726/fishermans-friend-q1420726-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1420726",
+    "themealdb": null
+  }
+}

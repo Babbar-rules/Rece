@@ -1,0 +1,18 @@
+{
+  "id": "Q1444936",
+  "name": "Frankfurter Brenten",
+  "description": "tea biscuit specialty from Frankfurt",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frankfurter-brenten-q1444936/frankfurter-brenten-q1444936-1.jpg",
+    "images/frankfurter-brenten-q1444936/frankfurter-brenten-q1444936-2.jpg",
+    "images/frankfurter-brenten-q1444936/frankfurter-brenten-q1444936-3.jpg",
+    "images/frankfurter-brenten-q1444936/frankfurter-brenten-q1444936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1444936",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q139270254",
+  "name": "zlyvana kasha",
+  "description": "traditional porridge from Karnaukhivka, Ukraine",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zlyvana-kasha-q139270254/zlyvana-kasha-q139270254-1.jpg",
+    "images/zlyvana-kasha-q139270254/zlyvana-kasha-q139270254-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139270254",
+    "themealdb": null
+  }
+}

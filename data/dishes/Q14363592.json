@@ -1,0 +1,18 @@
+{
+  "id": "Q14363592",
+  "name": "bread soup",
+  "description": "bread dish; type of soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-soup-q14363592/bread-soup-q14363592-1.jpg",
+    "images/bread-soup-q14363592/bread-soup-q14363592-2.jpg",
+    "images/bread-soup-q14363592/bread-soup-q14363592-3.jpg",
+    "images/bread-soup-q14363592/bread-soup-q14363592-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14363592",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1470812",
+  "name": "fruit soup",
+  "description": "soup prepared using fruit as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-soup-q1470812/fruit-soup-q1470812-1.jpg",
+    "images/fruit-soup-q1470812/fruit-soup-q1470812-2.jpg",
+    "images/fruit-soup-q1470812/fruit-soup-q1470812-3.jpg",
+    "images/fruit-soup-q1470812/fruit-soup-q1470812-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1470812",
+    "themealdb": null
+  }
+}

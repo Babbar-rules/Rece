@@ -1,0 +1,18 @@
+{
+  "id": "Q14320029",
+  "name": "Hoppelpoppel",
+  "description": "potato and egg casserole",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hoppelpoppel-q14320029/hoppelpoppel-q14320029-1.jpg",
+    "images/hoppelpoppel-q14320029/hoppelpoppel-q14320029-2.jpg",
+    "images/hoppelpoppel-q14320029/hoppelpoppel-q14320029-3.jpg",
+    "images/hoppelpoppel-q14320029/hoppelpoppel-q14320029-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14320029",
+    "themealdb": null
+  }
+}

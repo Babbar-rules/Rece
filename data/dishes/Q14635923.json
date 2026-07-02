@@ -1,0 +1,18 @@
+{
+  "id": "Q14635923",
+  "name": "Ampo snack",
+  "description": "Indonesian snack made of soil",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ampo-snack-q14635923/ampo-snack-q14635923-1.jpg",
+    "images/ampo-snack-q14635923/ampo-snack-q14635923-2.jpg",
+    "images/ampo-snack-q14635923/ampo-snack-q14635923-3.jpg",
+    "images/ampo-snack-q14635923/ampo-snack-q14635923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14635923",
+    "themealdb": null
+  }
+}

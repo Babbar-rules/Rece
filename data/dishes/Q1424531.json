@@ -1,0 +1,20 @@
+{
+  "id": "Q1424531",
+  "name": "rollmops",
+  "description": "pickled herring fillets",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rollmops-q1424531/rollmops-q1424531-1.jpg",
+    "images/rollmops-q1424531/rollmops-q1424531-2.jpg",
+    "images/rollmops-q1424531/rollmops-q1424531-3.jpg",
+    "images/rollmops-q1424531/rollmops-q1424531-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1424531",
+    "themealdb": null
+  }
+}

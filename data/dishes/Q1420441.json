@@ -1,0 +1,20 @@
+{
+  "id": "Q1420441",
+  "name": "fish finger",
+  "description": "food product consisting of breaded and fried fish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-finger-q1420441/fish-finger-q1420441-1.jpg",
+    "images/fish-finger-q1420441/fish-finger-q1420441-2.jpg",
+    "images/fish-finger-q1420441/fish-finger-q1420441-3.jpg",
+    "images/fish-finger-q1420441/fish-finger-q1420441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1420441",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1396059",
+  "name": "Far Breton",
+  "description": "cake from Brittany",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/far-breton-q1396059/far-breton-q1396059-1.jpg",
+    "images/far-breton-q1396059/far-breton-q1396059-2.jpg",
+    "images/far-breton-q1396059/far-breton-q1396059-3.jpg",
+    "images/far-breton-q1396059/far-breton-q1396059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1396059",
+    "themealdb": null
+  }
+}

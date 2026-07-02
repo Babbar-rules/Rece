@@ -1,0 +1,20 @@
+{
+  "id": "Q140042843",
+  "name": "duffin",
+  "description": "doughnut and muffin hybrid cake",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duffin-q140042843/duffin-q140042843-1.jpg",
+    "images/duffin-q140042843/duffin-q140042843-2.jpg",
+    "images/duffin-q140042843/duffin-q140042843-3.jpg",
+    "images/duffin-q140042843/duffin-q140042843-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140042843",
+    "themealdb": null
+  }
+}

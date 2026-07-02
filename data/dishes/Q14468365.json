@@ -1,0 +1,72 @@
+{
+  "id": "Q14468365",
+  "name": "Kuih",
+  "description": "Bite-sized snack or dessert foods originating from Southeast Asia",
+  "nationality": [
+    "Indonesia",
+    "Singapore",
+    "Malaysia",
+    "Taiwan",
+    "China"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/kuih-q14468365/kuih-q14468365-1.jpg",
+    "images/kuih-q14468365/kuih-q14468365-2.jpg",
+    "images/kuih-q14468365/kuih-q14468365-3.jpg",
+    "images/kuih-q14468365/kuih-q14468365-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53054",
+    "category": "Dessert",
+    "area": "Malaysian",
+    "instructions": "Soak glutinous rice with water for at least 1 ½ hours prior to using. Drain.\r\nPrepare a 9-inch round or square cake pan and spray with cooking spray or line with plastic wrap.\r\nMix coconut milk, water, salt and the rice. Pour it into cake pan, topped with the pandan knots.\r\nSteam for 30 minutes.\r\nAfter 30 minutes, fluff up the rice and remove pandan knots. Then, using a greased spatula, flatten the steamed rice. Make sure there are no holes/air bubbles and gaps in the rice, especially the sides.\r\nSteam for another 10 minutes.\r\n\r\nCombine pandan juice, coconut milk, all purpose flour, cornflour, and sugar. Mix well.\r\nAdd eggs and whisk well then strain into a medium sized metal bowl or pot.\r\nPlace pandan mixture over simmering water (double boiler or bain-marie)\r\nStir continuously and cook till custard starts to thicken. (15 minutes)\r\nPour pandan custard into glutinous rice layer, give it a little tap (for air bubbles) and continue to steam for 30 minutes.\r\nRemove kuih seri muka from the steamer and allow to cool completely before cutting into rectangles or diamond shapes.",
+    "ingredients": [
+      {
+        "ingredient": "Rice",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "150ml"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "100ml"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Corn Flour",
+        "measure": "5 tbs"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Coconut Cream",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "140g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=_NJtCfqgaBo",
+    "thumb": "https://www.themealdb.com/images/media/meals/6ut2og1619790195.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14468365",
+    "themealdb": "53054"
+  }
+}

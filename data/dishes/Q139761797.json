@@ -1,0 +1,20 @@
+{
+  "id": "Q139761797",
+  "name": "Yorkshire Christmas pie",
+  "description": "English pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yorkshire-christmas-pie-q139761797/yorkshire-christmas-pie-q139761797-1.jpg",
+    "images/yorkshire-christmas-pie-q139761797/yorkshire-christmas-pie-q139761797-2.jpg",
+    "images/yorkshire-christmas-pie-q139761797/yorkshire-christmas-pie-q139761797-3.png",
+    "images/yorkshire-christmas-pie-q139761797/yorkshire-christmas-pie-q139761797-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139761797",
+    "themealdb": null
+  }
+}

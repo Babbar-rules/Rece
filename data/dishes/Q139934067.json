@@ -1,0 +1,18 @@
+{
+  "id": "Q139934067",
+  "name": "instant stock",
+  "description": "dehydrated bouillon used for cooking",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/instant-stock-q139934067/instant-stock-q139934067-1.jpg",
+    "images/instant-stock-q139934067/instant-stock-q139934067-2.jpg",
+    "images/instant-stock-q139934067/instant-stock-q139934067-3.jpg",
+    "images/instant-stock-q139934067/instant-stock-q139934067-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139934067",
+    "themealdb": null
+  }
+}

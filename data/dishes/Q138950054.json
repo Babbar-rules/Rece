@@ -1,0 +1,20 @@
+{
+  "id": "Q138950054",
+  "name": "Hoagie",
+  "description": "dish usually consisting of a flour tortilla filled with fries and döner kebab meat",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hoagie-q138950054/hoagie-q138950054-1.jpg",
+    "images/hoagie-q138950054/hoagie-q138950054-2.jpg",
+    "images/hoagie-q138950054/hoagie-q138950054-3.jpg",
+    "images/hoagie-q138950054/hoagie-q138950054-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138950054",
+    "themealdb": null
+  }
+}

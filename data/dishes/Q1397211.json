@@ -1,0 +1,20 @@
+{
+  "id": "Q1397211",
+  "name": "soft serve",
+  "description": "type of ice cream that is softer than regular ice creams as a result of air being introduced during freezing",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soft-serve-q1397211/soft-serve-q1397211-1.jpg",
+    "images/soft-serve-q1397211/soft-serve-q1397211-2.png",
+    "images/soft-serve-q1397211/soft-serve-q1397211-3.jpg",
+    "images/soft-serve-q1397211/soft-serve-q1397211-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1397211",
+    "themealdb": null
+  }
+}

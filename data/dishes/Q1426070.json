@@ -1,0 +1,20 @@
+{
+  "id": "Q1426070",
+  "name": "Mlinci",
+  "description": "dish",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mlinci-q1426070/mlinci-q1426070-1.jpg",
+    "images/mlinci-q1426070/mlinci-q1426070-2.jpg",
+    "images/mlinci-q1426070/mlinci-q1426070-3.jpg",
+    "images/mlinci-q1426070/mlinci-q1426070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1426070",
+    "themealdb": null
+  }
+}

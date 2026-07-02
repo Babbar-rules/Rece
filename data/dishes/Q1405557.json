@@ -1,0 +1,18 @@
+{
+  "id": "Q1405557",
+  "name": "Schmarrn",
+  "description": "type of Austrian or Bavarian dishes consisting of a larger piece of food that is cut into pieces and stirred",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schmarrn-q1405557/schmarrn-q1405557-1.jpg",
+    "images/schmarrn-q1405557/schmarrn-q1405557-2.jpg",
+    "images/schmarrn-q1405557/schmarrn-q1405557-3.jpg",
+    "images/schmarrn-q1405557/schmarrn-q1405557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1405557",
+    "themealdb": null
+  }
+}

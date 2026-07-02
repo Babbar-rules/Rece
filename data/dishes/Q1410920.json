@@ -1,0 +1,20 @@
+{
+  "id": "Q1410920",
+  "name": "salty licorice",
+  "description": "Northern European confectionery",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salty-licorice-q1410920/salty-licorice-q1410920-1.jpg",
+    "images/salty-licorice-q1410920/salty-licorice-q1410920-2.jpg",
+    "images/salty-licorice-q1410920/salty-licorice-q1410920-3.jpg",
+    "images/salty-licorice-q1410920/salty-licorice-q1410920-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1410920",
+    "themealdb": null
+  }
+}

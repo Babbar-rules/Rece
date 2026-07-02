@@ -1,0 +1,23 @@
+{
+  "id": "Q1450611",
+  "name": "half sour pickle",
+  "description": "cucumber that has been pickled in brine for a short time",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/half-sour-pickle-q1450611/half-sour-pickle-q1450611-1.jpg",
+    "images/half-sour-pickle-q1450611/half-sour-pickle-q1450611-2.jpg",
+    "images/half-sour-pickle-q1450611/half-sour-pickle-q1450611-3.jpg",
+    "images/half-sour-pickle-q1450611/half-sour-pickle-q1450611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1450611",
+    "themealdb": null
+  }
+}

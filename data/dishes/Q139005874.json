@@ -1,0 +1,18 @@
+{
+  "id": "Q139005874",
+  "name": "Bay-kara",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bay-kara-q139005874/bay-kara-q139005874-1.png",
+    "images/bay-kara-q139005874/bay-kara-q139005874-2.png",
+    "images/bay-kara-q139005874/bay-kara-q139005874-3.png",
+    "images/bay-kara-q139005874/bay-kara-q139005874-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139005874",
+    "themealdb": null
+  }
+}

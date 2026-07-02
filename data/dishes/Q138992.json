@@ -1,0 +1,18 @@
+{
+  "id": "Q138992",
+  "name": "Rheintaler Ribelmais",
+  "description": "maize-based food from Rhine valley",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rheintaler-ribelmais-q138992/rheintaler-ribelmais-q138992-1.jpg",
+    "images/rheintaler-ribelmais-q138992/rheintaler-ribelmais-q138992-2.jpg",
+    "images/rheintaler-ribelmais-q138992/rheintaler-ribelmais-q138992-3.jpg",
+    "images/rheintaler-ribelmais-q138992/rheintaler-ribelmais-q138992-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138992",
+    "themealdb": null
+  }
+}

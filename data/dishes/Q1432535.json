@@ -1,0 +1,88 @@
+{
+  "id": "Q1432535",
+  "name": "chicken soup",
+  "description": "soup made from chicken",
+  "nationality": [
+    "Thai"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/chicken-soup-q1432535/chicken-soup-q1432535-1.jpg",
+    "images/chicken-soup-q1432535/chicken-soup-q1432535-2.jpg",
+    "images/chicken-soup-q1432535/chicken-soup-q1432535-3.jpg",
+    "images/chicken-soup-q1432535/chicken-soup-q1432535-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53214",
+    "category": "Chicken",
+    "area": "Thai",
+    "instructions": "step 1\r\nHeat the oil in your largest pan, add the onion and fry for 3 mins to soften. Add the chicken and garlic, and cook until the chicken changes colour.\r\n\r\nstep 2\r\nAdd the curry paste, coconut milk, stock, lime leaves and fish sauce, then simmer for 12 mins. Add the chopped onion tops, green beans and bamboo shoots and cook for 4-6 mins, until the beans are just tender.\r\n\r\nstep 3\r\nMeanwhile, put the lime juice and basil in a narrow jug and blitz with a hand blender to make a smooth green paste. Pour into the soup with the sliced spring onion and heat through. Serve with lime wedges for a light lunch or supper or as a make-ahead starter.",
+    "ingredients": [
+      {
+        "ingredient": "Sunflower Oil",
+        "measure": "2 tblsp"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Chicken Thighs",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "4 sliced"
+      },
+      {
+        "ingredient": "Thai Green Curry Paste",
+        "measure": "280g"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "400ml"
+      },
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "2 Litres"
+      },
+      {
+        "ingredient": "Lime Leaves",
+        "measure": "5"
+      },
+      {
+        "ingredient": "Fish Sauce",
+        "measure": "2 tblsp"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "1  bunch"
+      },
+      {
+        "ingredient": "Green Beans",
+        "measure": "280g"
+      },
+      {
+        "ingredient": "Bamboo Shoot",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "Juice of 2"
+      },
+      {
+        "ingredient": "Basil",
+        "measure": "Bunch"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=3s4Yitd546w",
+    "thumb": "https://www.themealdb.com/images/media/meals/7kb44y1763589084.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1432535",
+    "themealdb": "53214"
+  }
+}

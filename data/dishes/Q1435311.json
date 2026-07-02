@@ -1,0 +1,20 @@
+{
+  "id": "Q1435311",
+  "name": "Folar",
+  "description": "Portuguese bread",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/folar-q1435311/folar-q1435311-1.jpg",
+    "images/folar-q1435311/folar-q1435311-2.jpg",
+    "images/folar-q1435311/folar-q1435311-3.jpg",
+    "images/folar-q1435311/folar-q1435311-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1435311",
+    "themealdb": null
+  }
+}

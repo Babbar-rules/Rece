@@ -1,0 +1,20 @@
+{
+  "id": "Q1412378",
+  "name": "Gofio",
+  "description": "Food of Canarian origin made up of unsifted flour of toasted cereals",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gofio-q1412378/gofio-q1412378-1.jpg",
+    "images/gofio-q1412378/gofio-q1412378-2.jpg",
+    "images/gofio-q1412378/gofio-q1412378-3.jpg",
+    "images/gofio-q1412378/gofio-q1412378-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1412378",
+    "themealdb": null
+  }
+}

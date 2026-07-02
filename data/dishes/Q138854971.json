@@ -1,0 +1,20 @@
+{
+  "id": "Q138854971",
+  "name": "Ofe akwụ",
+  "description": "traditional soup of Anambra people, Nigeria",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ofe-akwu-q138854971/ofe-akwu-q138854971-1.jpg",
+    "images/ofe-akwu-q138854971/ofe-akwu-q138854971-2.jpg",
+    "images/ofe-akwu-q138854971/ofe-akwu-q138854971-3.jpg",
+    "images/ofe-akwu-q138854971/ofe-akwu-q138854971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138854971",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q1427307",
+  "name": "Flatkaka",
+  "description": "Icelandic rye flatbread",
+  "nationality": [
+    "Iceland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flatkaka-q1427307/flatkaka-q1427307-1.jpg",
+    "images/flatkaka-q1427307/flatkaka-q1427307-2.jpg",
+    "images/flatkaka-q1427307/flatkaka-q1427307-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1427307",
+    "themealdb": null
+  }
+}

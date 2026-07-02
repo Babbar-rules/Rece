@@ -1,0 +1,20 @@
+{
+  "id": "Q1408045",
+  "name": "Gatsby",
+  "description": "South African sandwich",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gatsby-q1408045/gatsby-q1408045-1.jpg",
+    "images/gatsby-q1408045/gatsby-q1408045-2.jpg",
+    "images/gatsby-q1408045/gatsby-q1408045-3.jpg",
+    "images/gatsby-q1408045/gatsby-q1408045-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1408045",
+    "themealdb": null
+  }
+}

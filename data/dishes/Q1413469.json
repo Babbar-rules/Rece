@@ -1,0 +1,17 @@
+{
+  "id": "Q1413469",
+  "name": "Filinchen",
+  "description": "waffle bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/filinchen-q1413469/filinchen-q1413469-1.jpg",
+    "images/filinchen-q1413469/filinchen-q1413469-2.jpg",
+    "images/filinchen-q1413469/filinchen-q1413469-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1413469",
+    "themealdb": null
+  }
+}

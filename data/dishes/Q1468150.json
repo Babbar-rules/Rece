@@ -1,0 +1,22 @@
+{
+  "id": "Q1468150",
+  "name": "gingerbread for sauce",
+  "description": "baked good used for making sauces",
+  "nationality": [
+    "Austria",
+    "Germany",
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gingerbread-for-sauce-q1468150/gingerbread-for-sauce-q1468150-1.jpg",
+    "images/gingerbread-for-sauce-q1468150/gingerbread-for-sauce-q1468150-2.jpg",
+    "images/gingerbread-for-sauce-q1468150/gingerbread-for-sauce-q1468150-3.jpg",
+    "images/gingerbread-for-sauce-q1468150/gingerbread-for-sauce-q1468150-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1468150",
+    "themealdb": null
+  }
+}

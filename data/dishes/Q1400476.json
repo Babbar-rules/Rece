@@ -1,0 +1,20 @@
+{
+  "id": "Q1400476",
+  "name": "Smarties",
+  "description": "British brand of chocolate confectionery",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smarties-q1400476/smarties-q1400476-1.jpg",
+    "images/smarties-q1400476/smarties-q1400476-2.jpg",
+    "images/smarties-q1400476/smarties-q1400476-3.jpg",
+    "images/smarties-q1400476/smarties-q1400476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1400476",
+    "themealdb": null
+  }
+}

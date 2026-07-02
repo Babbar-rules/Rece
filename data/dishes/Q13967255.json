@@ -1,0 +1,20 @@
+{
+  "id": "Q13967255",
+  "name": "pestil",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pestil-q13967255/pestil-q13967255-1.jpg",
+    "images/pestil-q13967255/pestil-q13967255-2.jpg",
+    "images/pestil-q13967255/pestil-q13967255-3.jpg",
+    "images/pestil-q13967255/pestil-q13967255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13967255",
+    "themealdb": null
+  }
+}

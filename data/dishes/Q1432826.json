@@ -1,0 +1,20 @@
+{
+  "id": "Q1432826",
+  "name": "Tartufo",
+  "description": "Italian ice cream",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tartufo-q1432826/tartufo-q1432826-1.jpg",
+    "images/tartufo-q1432826/tartufo-q1432826-2.jpg",
+    "images/tartufo-q1432826/tartufo-q1432826-3.jpg",
+    "images/tartufo-q1432826/tartufo-q1432826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1432826",
+    "themealdb": null
+  }
+}

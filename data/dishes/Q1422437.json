@@ -1,0 +1,20 @@
+{
+  "id": "Q1422437",
+  "name": "unagi",
+  "description": "the Japanese word for freshwater eel, a culinary ingredient",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/unagi-q1422437/unagi-q1422437-1.jpg",
+    "images/unagi-q1422437/unagi-q1422437-2.jpg",
+    "images/unagi-q1422437/unagi-q1422437-3.jpg",
+    "images/unagi-q1422437/unagi-q1422437-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1422437",
+    "themealdb": null
+  }
+}

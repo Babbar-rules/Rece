@@ -1,0 +1,22 @@
+{
+  "id": "Q139501650",
+  "name": "dagga",
+  "description": "spicy tomato salad from Gaza",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Palestinian cuisine"
+  ],
+  "images": [
+    "images/dagga-q139501650/dagga-q139501650-1.jpg",
+    "images/dagga-q139501650/dagga-q139501650-2.jpg",
+    "images/dagga-q139501650/dagga-q139501650-3.jpg",
+    "images/dagga-q139501650/dagga-q139501650-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139501650",
+    "themealdb": null
+  }
+}

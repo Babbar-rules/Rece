@@ -1,0 +1,17 @@
+{
+  "id": "Q139820814",
+  "name": "BayStars Nachos",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baystars-nachos-q139820814/baystars-nachos-q139820814-1.jpg",
+    "images/baystars-nachos-q139820814/baystars-nachos-q139820814-2.jpg",
+    "images/baystars-nachos-q139820814/baystars-nachos-q139820814-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139820814",
+    "themealdb": null
+  }
+}

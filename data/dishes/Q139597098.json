@@ -1,0 +1,16 @@
+{
+  "id": "Q139597098",
+  "name": "kibbeh samak",
+  "description": "Lebanese dish made of fish meat",
+  "nationality": [
+    "Lebanon",
+    "Levant"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139597098",
+    "themealdb": null
+  }
+}

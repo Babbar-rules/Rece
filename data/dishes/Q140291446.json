@@ -1,0 +1,18 @@
+{
+  "id": "Q140291446",
+  "name": "Beer brat",
+  "description": "type of sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beer-brat-q140291446/beer-brat-q140291446-1.jpg",
+    "images/beer-brat-q140291446/beer-brat-q140291446-2.jpg",
+    "images/beer-brat-q140291446/beer-brat-q140291446-3.jpg",
+    "images/beer-brat-q140291446/beer-brat-q140291446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140291446",
+    "themealdb": null
+  }
+}

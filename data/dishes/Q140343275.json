@@ -1,0 +1,18 @@
+{
+  "id": "Q140343275",
+  "name": "Giant Vanilla Sandwich",
+  "description": "ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/giant-vanilla-sandwich-q140343275/giant-vanilla-sandwich-q140343275-1.jpg",
+    "images/giant-vanilla-sandwich-q140343275/giant-vanilla-sandwich-q140343275-2.jpg",
+    "images/giant-vanilla-sandwich-q140343275/giant-vanilla-sandwich-q140343275-3.jpg",
+    "images/giant-vanilla-sandwich-q140343275/giant-vanilla-sandwich-q140343275-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140343275",
+    "themealdb": null
+  }
+}

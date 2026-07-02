@@ -1,0 +1,20 @@
+{
+  "id": "Q14782277",
+  "name": "Carne de vinha d'alhos",
+  "description": "Portuguese dish, of meat marinated with garlic and wine",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-de-vinha-dalhos-q14782277/carne-de-vinha-dalhos-q14782277-1.jpg",
+    "images/carne-de-vinha-dalhos-q14782277/carne-de-vinha-dalhos-q14782277-2.jpg",
+    "images/carne-de-vinha-dalhos-q14782277/carne-de-vinha-dalhos-q14782277-3.jpg",
+    "images/carne-de-vinha-dalhos-q14782277/carne-de-vinha-dalhos-q14782277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14782277",
+    "themealdb": null
+  }
+}

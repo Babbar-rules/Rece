@@ -1,0 +1,22 @@
+{
+  "id": "Q1455040",
+  "name": "Chiburekki",
+  "description": "Crimean Tatar deep-fried turnover",
+  "nationality": [
+    "Crimea"
+  ],
+  "region_cuisine": [
+    "Crimean Tatar cuisine"
+  ],
+  "images": [
+    "images/chiburekki-q1455040/chiburekki-q1455040-1.jpg",
+    "images/chiburekki-q1455040/chiburekki-q1455040-2.jpg",
+    "images/chiburekki-q1455040/chiburekki-q1455040-3.jpg",
+    "images/chiburekki-q1455040/chiburekki-q1455040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1455040",
+    "themealdb": null
+  }
+}

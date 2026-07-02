@@ -1,0 +1,17 @@
+{
+  "id": "Q140309389",
+  "name": "Dingle pie",
+  "description": "meat pie made in Ireland",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [
+    "Irish cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140309389",
+    "themealdb": null
+  }
+}

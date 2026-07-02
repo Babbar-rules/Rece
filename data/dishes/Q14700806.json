@@ -1,0 +1,18 @@
+{
+  "id": "Q14700806",
+  "name": "scooped ice cream",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/scooped-ice-cream-q14700806/scooped-ice-cream-q14700806-1.jpg",
+    "images/scooped-ice-cream-q14700806/scooped-ice-cream-q14700806-2.jpg",
+    "images/scooped-ice-cream-q14700806/scooped-ice-cream-q14700806-3.jpg",
+    "images/scooped-ice-cream-q14700806/scooped-ice-cream-q14700806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14700806",
+    "themealdb": null
+  }
+}

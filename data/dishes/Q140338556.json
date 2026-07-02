@@ -1,0 +1,20 @@
+{
+  "id": "Q140338556",
+  "name": "Loop the Loop",
+  "description": "ice cream",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/loop-the-loop-q140338556/loop-the-loop-q140338556-1.jpg",
+    "images/loop-the-loop-q140338556/loop-the-loop-q140338556-2.jpg",
+    "images/loop-the-loop-q140338556/loop-the-loop-q140338556-3.jpg",
+    "images/loop-the-loop-q140338556/loop-the-loop-q140338556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140338556",
+    "themealdb": null
+  }
+}

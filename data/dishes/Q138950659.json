@@ -1,0 +1,18 @@
+{
+  "id": "Q138950659",
+  "name": "panoramic sugar egg",
+  "description": "Easter egg made from sugar and royal icing, containing small dioramas inside that can be viewed through a small window",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/panoramic-sugar-egg-q138950659/panoramic-sugar-egg-q138950659-1.jpg",
+    "images/panoramic-sugar-egg-q138950659/panoramic-sugar-egg-q138950659-2.jpg",
+    "images/panoramic-sugar-egg-q138950659/panoramic-sugar-egg-q138950659-3.jpg",
+    "images/panoramic-sugar-egg-q138950659/panoramic-sugar-egg-q138950659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138950659",
+    "themealdb": null
+  }
+}

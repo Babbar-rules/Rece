@@ -1,0 +1,18 @@
+{
+  "id": "Q140343602",
+  "name": "Feast",
+  "description": "ice cream brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/feast-q140343602/feast-q140343602-1.png",
+    "images/feast-q140343602/feast-q140343602-2.jpg",
+    "images/feast-q140343602/feast-q140343602-3.jpg",
+    "images/feast-q140343602/feast-q140343602-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140343602",
+    "themealdb": null
+  }
+}

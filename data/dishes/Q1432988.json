@@ -1,0 +1,20 @@
+{
+  "id": "Q1432988",
+  "name": "kagami mochi",
+  "description": "Japanese dessert consisting of 2 round mochi, the smaller placed atop the larger, and a daidai with an attached leaf on top, with a sheet of konbu and a skewer of dried persimmons under the mochi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kagami-mochi-q1432988/kagami-mochi-q1432988-1.jpg",
+    "images/kagami-mochi-q1432988/kagami-mochi-q1432988-2.jpg",
+    "images/kagami-mochi-q1432988/kagami-mochi-q1432988-3.jpg",
+    "images/kagami-mochi-q1432988/kagami-mochi-q1432988-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1432988",
+    "themealdb": null
+  }
+}

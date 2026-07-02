@@ -1,0 +1,19 @@
+{
+  "id": "Q139659622",
+  "name": "onigirazu",
+  "description": "type of onigiri",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/onigirazu-q139659622/onigirazu-q139659622-1.jpg",
+    "images/onigirazu-q139659622/onigirazu-q139659622-2.jpg",
+    "images/onigirazu-q139659622/onigirazu-q139659622-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q139659622",
+    "themealdb": null
+  }
+}

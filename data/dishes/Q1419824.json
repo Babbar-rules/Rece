@@ -1,0 +1,23 @@
+{
+  "id": "Q1419824",
+  "name": "pavlova",
+  "description": "dessert",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [
+    "New Zealand cuisine",
+    "Australian cuisine"
+  ],
+  "images": [
+    "images/pavlova-q1419824/pavlova-q1419824-1.jpg",
+    "images/pavlova-q1419824/pavlova-q1419824-2.jpg",
+    "images/pavlova-q1419824/pavlova-q1419824-3.jpg",
+    "images/pavlova-q1419824/pavlova-q1419824-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1419824",
+    "themealdb": null
+  }
+}

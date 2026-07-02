@@ -1,0 +1,18 @@
+{
+  "id": "Q1472342",
+  "name": "Fasnetsküchle",
+  "description": "pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fasnetskuchle-q1472342/fasnetskuchle-q1472342-1.jpg",
+    "images/fasnetskuchle-q1472342/fasnetskuchle-q1472342-2.jpg",
+    "images/fasnetskuchle-q1472342/fasnetskuchle-q1472342-3.jpg",
+    "images/fasnetskuchle-q1472342/fasnetskuchle-q1472342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1472342",
+    "themealdb": null
+  }
+}

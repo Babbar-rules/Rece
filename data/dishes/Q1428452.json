@@ -1,0 +1,22 @@
+{
+  "id": "Q1428452",
+  "name": "Flying Jacob",
+  "description": "Swedish casserole dish with chicken and banana",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/flying-jacob-q1428452/flying-jacob-q1428452-1.jpg",
+    "images/flying-jacob-q1428452/flying-jacob-q1428452-2.jpg",
+    "images/flying-jacob-q1428452/flying-jacob-q1428452-3.jpg",
+    "images/flying-jacob-q1428452/flying-jacob-q1428452-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1428452",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1459788",
+  "name": "Goiabada",
+  "description": "popular dessert throughout the Portuguese-speaking countries, made from guavas",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goiabada-q1459788/goiabada-q1459788-1.jpg",
+    "images/goiabada-q1459788/goiabada-q1459788-2.jpg",
+    "images/goiabada-q1459788/goiabada-q1459788-3.jpg",
+    "images/goiabada-q1459788/goiabada-q1459788-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1459788",
+    "themealdb": null
+  }
+}
