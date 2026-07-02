@@ -8,10 +8,11 @@ from pathlib import Path
 
 import requests
 
-# Be a polite bot. Wikidata/Wikimedia require a descriptive User-Agent.
+# Be a polite bot. Wikimedia REQUIRES a descriptive User-Agent with a real
+# contact; a vague UA gets 429'd aggressively. Set a valid contact here.
 USER_AGENT = (
     "WorldDishesScraper/1.0 "
-    "(https://github.com/; contact via repo issues) requests"
+    "(https://github.com/Babbar-rules/Rece; godfathertheme1@gmail.com) requests"
 )
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -44,16 +45,27 @@ def make_session() -> requests.Session:
     return s
 
 
+def _retry_after(resp, attempt: int) -> float:
+    """Seconds to wait after a 429/503, honoring the Retry-After header."""
+    ra = resp.headers.get("Retry-After") if resp is not None else None
+    if ra:
+        try:
+            return min(float(ra), 120.0)
+        except ValueError:
+            pass
+    return min(5 * (2 ** attempt), 120.0)  # exponential backoff, capped
+
+
 def get_json(session: requests.Session, url: str, *, params=None,
-             limiter: RateLimiter | None = None, retries: int = 4):
+             limiter: RateLimiter | None = None, retries: int = 5):
     """GET JSON with retry/backoff. Returns parsed JSON or None."""
     for attempt in range(retries):
         if limiter:
             limiter.wait()
         try:
             r = session.get(url, params=params, timeout=45)
-            if r.status_code == 429:
-                time.sleep(5 * (attempt + 1))
+            if r.status_code in (429, 503):
+                time.sleep(_retry_after(r, attempt))
                 continue
             r.raise_for_status()
             return r.json()
@@ -63,6 +75,31 @@ def get_json(session: requests.Session, url: str, *, params=None,
                 return None
             time.sleep(2 * (attempt + 1))
     return None
+
+
+def download_file(session: requests.Session, url: str, dest,
+                  *, limiter: RateLimiter | None = None, retries: int = 5) -> bool:
+    """Download a binary file with 429/503 retry + backoff. True on success."""
+    for attempt in range(retries):
+        if limiter:
+            limiter.wait()
+        try:
+            r = session.get(url, timeout=60, stream=True)
+            if r.status_code in (429, 503):
+                r.close()
+                time.sleep(_retry_after(r, attempt))
+                continue
+            r.raise_for_status()
+            with open(dest, "wb") as fh:
+                for chunk in r.iter_content(8192):
+                    fh.write(chunk)
+            return True
+        except requests.RequestException as exc:
+            if attempt == retries - 1:
+                print(f"    ! image failed {url}: {exc}")
+                return False
+            time.sleep(2 * (attempt + 1))
+    return False
 
 
 def slugify(text: str) -> str:

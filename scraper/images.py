@@ -11,12 +11,15 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from .common import IMAGES_DIR, RateLimiter, get_json, make_session
+from .common import (IMAGES_DIR, RateLimiter, download_file, get_json,
+                     make_session)
 
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 MAX_IMAGES = 4
 
-_limiter = RateLimiter(0.5)
+# Wikimedia bot policy wants a modest rate. ~1.1s between calls keeps us well
+# under their threshold and avoids 429s on upload.wikimedia.org.
+_limiter = RateLimiter(1.1)
 
 
 def _commons_search(session, term: str, need: int) -> list[str]:
@@ -66,14 +69,6 @@ def download_images(slug: str, name: str, wikidata_image: str,
         if ext not in (".jpg", ".jpeg", ".png", ".webp", ".gif"):
             ext = ".jpg"
         out = dest / f"{slug}-{len(saved) + 1}{ext}"
-        try:
-            _limiter.wait()
-            r = session.get(url, timeout=45, stream=True)
-            r.raise_for_status()
-            with open(out, "wb") as fh:
-                for chunk in r.iter_content(8192):
-                    fh.write(chunk)
+        if download_file(session, url, out, limiter=_limiter):
             saved.append(str(out.relative_to(IMAGES_DIR.parent).as_posix()))
-        except Exception as exc:  # noqa: BLE001 - keep scraping on any failure
-            print(f"    ! image failed {url}: {exc}")
     return saved
