@@ -1,0 +1,18 @@
+{
+  "id": "Q127684074",
+  "name": "Chili con Queso",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chili-con-queso-q127684074/chili-con-queso-q127684074-1.jpg",
+    "images/chili-con-queso-q127684074/chili-con-queso-q127684074-2.jpg",
+    "images/chili-con-queso-q127684074/chili-con-queso-q127684074-3.jpg",
+    "images/chili-con-queso-q127684074/chili-con-queso-q127684074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684074",
+    "themealdb": null
+  }
+}

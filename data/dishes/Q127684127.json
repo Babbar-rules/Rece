@@ -1,0 +1,18 @@
+{
+  "id": "Q127684127",
+  "name": "Lunar Eclipse",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lunar-eclipse-q127684127/lunar-eclipse-q127684127-1.jpg",
+    "images/lunar-eclipse-q127684127/lunar-eclipse-q127684127-2.jpg",
+    "images/lunar-eclipse-q127684127/lunar-eclipse-q127684127-3.jpg",
+    "images/lunar-eclipse-q127684127/lunar-eclipse-q127684127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684127",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683965",
+  "name": "Philly Roll",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/philly-roll-q127683965/philly-roll-q127683965-1.jpg",
+    "images/philly-roll-q127683965/philly-roll-q127683965-2.jpg",
+    "images/philly-roll-q127683965/philly-roll-q127683965-3.jpg",
+    "images/philly-roll-q127683965/philly-roll-q127683965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683965",
+    "themealdb": null
+  }
+}

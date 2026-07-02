@@ -1,0 +1,18 @@
+{
+  "id": "Q127684123",
+  "name": "Gingersnap",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gingersnap-q127684123/gingersnap-q127684123-1.jpg",
+    "images/gingersnap-q127684123/gingersnap-q127684123-2.jpg",
+    "images/gingersnap-q127684123/gingersnap-q127684123-3.jpg",
+    "images/gingersnap-q127684123/gingersnap-q127684123-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684123",
+    "themealdb": null
+  }
+}

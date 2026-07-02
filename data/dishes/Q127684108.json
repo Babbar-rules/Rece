@@ -1,0 +1,18 @@
+{
+  "id": "Q127684108",
+  "name": "Veggie Garden",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veggie-garden-q127684108/veggie-garden-q127684108-1.jpg",
+    "images/veggie-garden-q127684108/veggie-garden-q127684108-2.jpg",
+    "images/veggie-garden-q127684108/veggie-garden-q127684108-3.jpg",
+    "images/veggie-garden-q127684108/veggie-garden-q127684108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684108",
+    "themealdb": null
+  }
+}

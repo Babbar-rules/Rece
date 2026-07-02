@@ -1,0 +1,18 @@
+{
+  "id": "Q127684079",
+  "name": "El Completo",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/el-completo-q127684079/el-completo-q127684079-1.jpg",
+    "images/el-completo-q127684079/el-completo-q127684079-2.jpg",
+    "images/el-completo-q127684079/el-completo-q127684079-3.jpg",
+    "images/el-completo-q127684079/el-completo-q127684079-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684079",
+    "themealdb": null
+  }
+}

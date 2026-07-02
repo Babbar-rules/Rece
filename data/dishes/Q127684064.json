@@ -1,0 +1,18 @@
+{
+  "id": "Q127684064",
+  "name": "The Californian",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-californian-q127684064/the-californian-q127684064-1.jpg",
+    "images/the-californian-q127684064/the-californian-q127684064-2.png",
+    "images/the-californian-q127684064/the-californian-q127684064-3.jpg",
+    "images/the-californian-q127684064/the-californian-q127684064-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684064",
+    "themealdb": null
+  }
+}

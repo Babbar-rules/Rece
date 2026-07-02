@@ -1,0 +1,18 @@
+{
+  "id": "Q127684138",
+  "name": "Snack Attack",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/snack-attack-q127684138/snack-attack-q127684138-1.jpg",
+    "images/snack-attack-q127684138/snack-attack-q127684138-2.jpg",
+    "images/snack-attack-q127684138/snack-attack-q127684138-3.jpg",
+    "images/snack-attack-q127684138/snack-attack-q127684138-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684138",
+    "themealdb": null
+  }
+}

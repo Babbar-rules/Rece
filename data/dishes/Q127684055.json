@@ -1,0 +1,18 @@
+{
+  "id": "Q127684055",
+  "name": "Rustic Garden",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rustic-garden-q127684055/rustic-garden-q127684055-1.jpg",
+    "images/rustic-garden-q127684055/rustic-garden-q127684055-2.jpg",
+    "images/rustic-garden-q127684055/rustic-garden-q127684055-3.jpg",
+    "images/rustic-garden-q127684055/rustic-garden-q127684055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684055",
+    "themealdb": null
+  }
+}

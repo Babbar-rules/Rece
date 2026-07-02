@@ -1,0 +1,18 @@
+{
+  "id": "Q127684068",
+  "name": "The Smokehouse",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-smokehouse-q127684068/the-smokehouse-q127684068-1.jpg",
+    "images/the-smokehouse-q127684068/the-smokehouse-q127684068-2.jpg",
+    "images/the-smokehouse-q127684068/the-smokehouse-q127684068-3.jpg",
+    "images/the-smokehouse-q127684068/the-smokehouse-q127684068-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684068",
+    "themealdb": null
+  }
+}

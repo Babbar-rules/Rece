@@ -1,0 +1,18 @@
+{
+  "id": "Q127684092",
+  "name": "Red Snapper",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/red-snapper-q127684092/red-snapper-q127684092-1.png",
+    "images/red-snapper-q127684092/red-snapper-q127684092-2.jpg",
+    "images/red-snapper-q127684092/red-snapper-q127684092-3.jpg",
+    "images/red-snapper-q127684092/red-snapper-q127684092-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684092",
+    "themealdb": null
+  }
+}

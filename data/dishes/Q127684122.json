@@ -1,0 +1,17 @@
+{
+  "id": "Q127684122",
+  "name": "Fruit n' Fudge",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-n-fudge-q127684122/fruit-n-fudge-q127684122-1.jpg",
+    "images/fruit-n-fudge-q127684122/fruit-n-fudge-q127684122-2.jpg",
+    "images/fruit-n-fudge-q127684122/fruit-n-fudge-q127684122-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684122",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683977",
+  "name": "Sunrise Roll",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sunrise-roll-q127683977/sunrise-roll-q127683977-1.jpg",
+    "images/sunrise-roll-q127683977/sunrise-roll-q127683977-2.jpg",
+    "images/sunrise-roll-q127683977/sunrise-roll-q127683977-3.jpg",
+    "images/sunrise-roll-q127683977/sunrise-roll-q127683977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683977",
+    "themealdb": null
+  }
+}

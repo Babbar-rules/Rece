@@ -1,0 +1,16 @@
+{
+  "id": "Q127684111",
+  "name": "Ambrosia Split",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ambrosia-split-q127684111/ambrosia-split-q127684111-1.png",
+    "images/ambrosia-split-q127684111/ambrosia-split-q127684111-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684111",
+    "themealdb": null
+  }
+}

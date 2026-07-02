@@ -1,0 +1,18 @@
+{
+  "id": "Q127683978",
+  "name": "Surf & Turf",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/surf-turf-q127683978/surf-turf-q127683978-1.jpg",
+    "images/surf-turf-q127683978/surf-turf-q127683978-2.jpg",
+    "images/surf-turf-q127683978/surf-turf-q127683978-3.jpg",
+    "images/surf-turf-q127683978/surf-turf-q127683978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683978",
+    "themealdb": null
+  }
+}

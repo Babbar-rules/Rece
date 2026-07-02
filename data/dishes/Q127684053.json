@@ -1,0 +1,18 @@
+{
+  "id": "Q127684053",
+  "name": "Quattro Stagioni",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/quattro-stagioni-q127684053/quattro-stagioni-q127684053-1.jpg",
+    "images/quattro-stagioni-q127684053/quattro-stagioni-q127684053-2.png",
+    "images/quattro-stagioni-q127684053/quattro-stagioni-q127684053-3.jpg",
+    "images/quattro-stagioni-q127684053/quattro-stagioni-q127684053-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684053",
+    "themealdb": null
+  }
+}

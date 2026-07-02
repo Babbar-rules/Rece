@@ -1,0 +1,18 @@
+{
+  "id": "Q127684124",
+  "name": "Hot and Cool",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-and-cool-q127684124/hot-and-cool-q127684124-1.jpg",
+    "images/hot-and-cool-q127684124/hot-and-cool-q127684124-2.jpg",
+    "images/hot-and-cool-q127684124/hot-and-cool-q127684124-3.jpg",
+    "images/hot-and-cool-q127684124/hot-and-cool-q127684124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684124",
+    "themealdb": null
+  }
+}

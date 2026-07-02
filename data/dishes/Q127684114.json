@@ -1,0 +1,18 @@
+{
+  "id": "Q127684114",
+  "name": "Blue Mousse",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blue-mousse-q127684114/blue-mousse-q127684114-1.jpg",
+    "images/blue-mousse-q127684114/blue-mousse-q127684114-2.jpg",
+    "images/blue-mousse-q127684114/blue-mousse-q127684114-3.jpg",
+    "images/blue-mousse-q127684114/blue-mousse-q127684114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684114",
+    "themealdb": null
+  }
+}

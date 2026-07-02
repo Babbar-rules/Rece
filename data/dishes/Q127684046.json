@@ -1,0 +1,17 @@
+{
+  "id": "Q127684046",
+  "name": "Meat Amore",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-amore-q127684046/meat-amore-q127684046-1.jpg",
+    "images/meat-amore-q127684046/meat-amore-q127684046-2.jpg",
+    "images/meat-amore-q127684046/meat-amore-q127684046-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684046",
+    "themealdb": null
+  }
+}

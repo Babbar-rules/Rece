@@ -1,0 +1,18 @@
+{
+  "id": "Q127683964",
+  "name": "Orange Roll",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/orange-roll-q127683964/orange-roll-q127683964-1.jpg",
+    "images/orange-roll-q127683964/orange-roll-q127683964-2.jpg",
+    "images/orange-roll-q127683964/orange-roll-q127683964-3.jpg",
+    "images/orange-roll-q127683964/orange-roll-q127683964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683964",
+    "themealdb": null
+  }
+}

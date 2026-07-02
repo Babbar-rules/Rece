@@ -1,0 +1,18 @@
+{
+  "id": "Q127684067",
+  "name": "The Muffuletta",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-muffuletta-q127684067/the-muffuletta-q127684067-1.jpg",
+    "images/the-muffuletta-q127684067/the-muffuletta-q127684067-2.jpg",
+    "images/the-muffuletta-q127684067/the-muffuletta-q127684067-3.jpg",
+    "images/the-muffuletta-q127684067/the-muffuletta-q127684067-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684067",
+    "themealdb": null
+  }
+}

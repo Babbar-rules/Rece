@@ -1,0 +1,15 @@
+{
+  "id": "Q127684110",
+  "name": "Woonsocket Dynamite",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/woonsocket-dynamite-q127684110/woonsocket-dynamite-q127684110-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684110",
+    "themealdb": null
+  }
+}

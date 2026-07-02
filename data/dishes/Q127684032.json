@@ -1,0 +1,18 @@
+{
+  "id": "Q127684032",
+  "name": "Buffalo Chicken",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buffalo-chicken-q127684032/buffalo-chicken-q127684032-1.jpg",
+    "images/buffalo-chicken-q127684032/buffalo-chicken-q127684032-2.jpg",
+    "images/buffalo-chicken-q127684032/buffalo-chicken-q127684032-3.jpg",
+    "images/buffalo-chicken-q127684032/buffalo-chicken-q127684032-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684032",
+    "themealdb": null
+  }
+}

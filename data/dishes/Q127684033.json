@@ -1,0 +1,18 @@
+{
+  "id": "Q127684033",
+  "name": "Buffalo Grinder",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buffalo-grinder-q127684033/buffalo-grinder-q127684033-1.jpg",
+    "images/buffalo-grinder-q127684033/buffalo-grinder-q127684033-2.jpg",
+    "images/buffalo-grinder-q127684033/buffalo-grinder-q127684033-3.jpg",
+    "images/buffalo-grinder-q127684033/buffalo-grinder-q127684033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684033",
+    "themealdb": null
+  }
+}

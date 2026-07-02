@@ -1,0 +1,18 @@
+{
+  "id": "Q127684137",
+  "name": "Rocky Roadster",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rocky-roadster-q127684137/rocky-roadster-q127684137-1.jpg",
+    "images/rocky-roadster-q127684137/rocky-roadster-q127684137-2.jpg",
+    "images/rocky-roadster-q127684137/rocky-roadster-q127684137-3.jpg",
+    "images/rocky-roadster-q127684137/rocky-roadster-q127684137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684137",
+    "themealdb": null
+  }
+}

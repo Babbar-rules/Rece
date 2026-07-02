@@ -1,0 +1,18 @@
+{
+  "id": "Q127684034",
+  "name": "Chicken Cacciatore",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-cacciatore-q127684034/chicken-cacciatore-q127684034-1.jpg",
+    "images/chicken-cacciatore-q127684034/chicken-cacciatore-q127684034-2.jpg",
+    "images/chicken-cacciatore-q127684034/chicken-cacciatore-q127684034-3.jpg",
+    "images/chicken-cacciatore-q127684034/chicken-cacciatore-q127684034-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684034",
+    "themealdb": null
+  }
+}

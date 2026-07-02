@@ -1,0 +1,18 @@
+{
+  "id": "Q127683985",
+  "name": "Veggie Roll",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veggie-roll-q127683985/veggie-roll-q127683985-1.jpg",
+    "images/veggie-roll-q127683985/veggie-roll-q127683985-2.jpg",
+    "images/veggie-roll-q127683985/veggie-roll-q127683985-3.jpg",
+    "images/veggie-roll-q127683985/veggie-roll-q127683985-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683985",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684066",
+  "name": "The Meateor",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-meateor-q127684066/the-meateor-q127684066-1.png",
+    "images/the-meateor-q127684066/the-meateor-q127684066-2.jpg",
+    "images/the-meateor-q127684066/the-meateor-q127684066-3.jpg",
+    "images/the-meateor-q127684066/the-meateor-q127684066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684066",
+    "themealdb": null
+  }
+}

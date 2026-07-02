@@ -1,0 +1,18 @@
+{
+  "id": "Q127684153",
+  "name": "Awesome Saucer",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/awesome-saucer-q127684153/awesome-saucer-q127684153-1.jpg",
+    "images/awesome-saucer-q127684153/awesome-saucer-q127684153-2.jpg",
+    "images/awesome-saucer-q127684153/awesome-saucer-q127684153-3.jpg",
+    "images/awesome-saucer-q127684153/awesome-saucer-q127684153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684153",
+    "themealdb": null
+  }
+}

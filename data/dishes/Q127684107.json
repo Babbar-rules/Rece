@@ -1,0 +1,18 @@
+{
+  "id": "Q127684107",
+  "name": "The Midwestern",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-midwestern-q127684107/the-midwestern-q127684107-1.png",
+    "images/the-midwestern-q127684107/the-midwestern-q127684107-2.png",
+    "images/the-midwestern-q127684107/the-midwestern-q127684107-3.jpg",
+    "images/the-midwestern-q127684107/the-midwestern-q127684107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684107",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684131",
+  "name": "Neapolitan",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/neapolitan-q127684131/neapolitan-q127684131-1.png",
+    "images/neapolitan-q127684131/neapolitan-q127684131-2.png",
+    "images/neapolitan-q127684131/neapolitan-q127684131-3.jpg",
+    "images/neapolitan-q127684131/neapolitan-q127684131-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684131",
+    "themealdb": null
+  }
+}

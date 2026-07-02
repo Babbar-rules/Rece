@@ -1,0 +1,18 @@
+{
+  "id": "Q127684063",
+  "name": "The BLT",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-blt-q127684063/the-blt-q127684063-1.jpg",
+    "images/the-blt-q127684063/the-blt-q127684063-2.jpg",
+    "images/the-blt-q127684063/the-blt-q127684063-3.jpg",
+    "images/the-blt-q127684063/the-blt-q127684063-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684063",
+    "themealdb": null
+  }
+}

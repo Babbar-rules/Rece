@@ -1,0 +1,15 @@
+{
+  "id": "Q127683970",
+  "name": "Searing Salmon",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/searing-salmon-q127683970/searing-salmon-q127683970-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683970",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684065",
+  "name": "The Denver",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-denver-q127684065/the-denver-q127684065-1.jpg",
+    "images/the-denver-q127684065/the-denver-q127684065-2.jpg",
+    "images/the-denver-q127684065/the-denver-q127684065-3.jpg",
+    "images/the-denver-q127684065/the-denver-q127684065-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684065",
+    "themealdb": null
+  }
+}

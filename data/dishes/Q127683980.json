@@ -1,0 +1,18 @@
+{
+  "id": "Q127683980",
+  "name": "Tempura Teriyaki",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tempura-teriyaki-q127683980/tempura-teriyaki-q127683980-1.jpg",
+    "images/tempura-teriyaki-q127683980/tempura-teriyaki-q127683980-2.jpg",
+    "images/tempura-teriyaki-q127683980/tempura-teriyaki-q127683980-3.jpg",
+    "images/tempura-teriyaki-q127683980/tempura-teriyaki-q127683980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683980",
+    "themealdb": null
+  }
+}

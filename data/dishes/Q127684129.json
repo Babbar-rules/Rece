@@ -1,0 +1,16 @@
+{
+  "id": "Q127684129",
+  "name": "Mint Madness",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mint-madness-q127684129/mint-madness-q127684129-1.jpg",
+    "images/mint-madness-q127684129/mint-madness-q127684129-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684129",
+    "themealdb": null
+  }
+}

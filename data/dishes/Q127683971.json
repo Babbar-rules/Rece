@@ -1,0 +1,16 @@
+{
+  "id": "Q127683971",
+  "name": "Sesame Cephalopod",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sesame-cephalopod-q127683971/sesame-cephalopod-q127683971-1.jpg",
+    "images/sesame-cephalopod-q127683971/sesame-cephalopod-q127683971-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683971",
+    "themealdb": null
+  }
+}

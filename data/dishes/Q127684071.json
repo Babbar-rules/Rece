@@ -1,0 +1,18 @@
+{
+  "id": "Q127684071",
+  "name": "'Basa Nova",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/basa-nova-q127684071/basa-nova-q127684071-1.png",
+    "images/basa-nova-q127684071/basa-nova-q127684071-2.jpg",
+    "images/basa-nova-q127684071/basa-nova-q127684071-3.jpg",
+    "images/basa-nova-q127684071/basa-nova-q127684071-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684071",
+    "themealdb": null
+  }
+}

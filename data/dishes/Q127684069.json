@@ -1,0 +1,18 @@
+{
+  "id": "Q127684069",
+  "name": "The Wildfire",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-wildfire-q127684069/the-wildfire-q127684069-1.jpg",
+    "images/the-wildfire-q127684069/the-wildfire-q127684069-2.jpg",
+    "images/the-wildfire-q127684069/the-wildfire-q127684069-3.jpg",
+    "images/the-wildfire-q127684069/the-wildfire-q127684069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684069",
+    "themealdb": null
+  }
+}

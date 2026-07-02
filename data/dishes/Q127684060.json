@@ -1,0 +1,18 @@
+{
+  "id": "Q127684060",
+  "name": "Spicy Meatball",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spicy-meatball-q127684060/spicy-meatball-q127684060-1.jpg",
+    "images/spicy-meatball-q127684060/spicy-meatball-q127684060-2.jpg",
+    "images/spicy-meatball-q127684060/spicy-meatball-q127684060-3.jpg",
+    "images/spicy-meatball-q127684060/spicy-meatball-q127684060-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684060",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684047",
+  "name": "Neptune's Feast",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/neptunes-feast-q127684047/neptunes-feast-q127684047-1.jpg",
+    "images/neptunes-feast-q127684047/neptunes-feast-q127684047-2.jpg",
+    "images/neptunes-feast-q127684047/neptunes-feast-q127684047-3.jpg",
+    "images/neptunes-feast-q127684047/neptunes-feast-q127684047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684047",
+    "themealdb": null
+  }
+}

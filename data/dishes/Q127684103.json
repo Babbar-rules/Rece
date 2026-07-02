@@ -1,0 +1,18 @@
+{
+  "id": "Q127684103",
+  "name": "The Classic",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-classic-q127684103/the-classic-q127684103-1.png",
+    "images/the-classic-q127684103/the-classic-q127684103-2.jpg",
+    "images/the-classic-q127684103/the-classic-q127684103-3.jpg",
+    "images/the-classic-q127684103/the-classic-q127684103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684103",
+    "themealdb": null
+  }
+}

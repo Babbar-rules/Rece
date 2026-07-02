@@ -1,0 +1,18 @@
+{
+  "id": "Q127683976",
+  "name": "Steak & Eggs",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-eggs-q127683976/steak-eggs-q127683976-1.jpg",
+    "images/steak-eggs-q127683976/steak-eggs-q127683976-2.jpg",
+    "images/steak-eggs-q127683976/steak-eggs-q127683976-3.jpg",
+    "images/steak-eggs-q127683976/steak-eggs-q127683976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683976",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684082",
+  "name": "Golden Retriever",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/golden-retriever-q127684082/golden-retriever-q127684082-1.jpg",
+    "images/golden-retriever-q127684082/golden-retriever-q127684082-2.jpg",
+    "images/golden-retriever-q127684082/golden-retriever-q127684082-3.jpg",
+    "images/golden-retriever-q127684082/golden-retriever-q127684082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684082",
+    "themealdb": null
+  }
+}

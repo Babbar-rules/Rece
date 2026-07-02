@@ -1,0 +1,17 @@
+{
+  "id": "Q127684044",
+  "name": "Level 4 Meltdown",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/level-4-meltdown-q127684044/level-4-meltdown-q127684044-1.jpg",
+    "images/level-4-meltdown-q127684044/level-4-meltdown-q127684044-2.jpg",
+    "images/level-4-meltdown-q127684044/level-4-meltdown-q127684044-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684044",
+    "themealdb": null
+  }
+}

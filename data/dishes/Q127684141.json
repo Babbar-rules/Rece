@@ -1,0 +1,18 @@
+{
+  "id": "Q127684141",
+  "name": "Strawberry Burst",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-burst-q127684141/strawberry-burst-q127684141-1.jpg",
+    "images/strawberry-burst-q127684141/strawberry-burst-q127684141-2.jpg",
+    "images/strawberry-burst-q127684141/strawberry-burst-q127684141-3.jpg",
+    "images/strawberry-burst-q127684141/strawberry-burst-q127684141-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684141",
+    "themealdb": null
+  }
+}

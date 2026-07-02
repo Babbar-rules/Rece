@@ -1,0 +1,18 @@
+{
+  "id": "Q127684086",
+  "name": "Michigan Dog",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/michigan-dog-q127684086/michigan-dog-q127684086-1.png",
+    "images/michigan-dog-q127684086/michigan-dog-q127684086-2.jpg",
+    "images/michigan-dog-q127684086/michigan-dog-q127684086-3.jpg",
+    "images/michigan-dog-q127684086/michigan-dog-q127684086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684086",
+    "themealdb": null
+  }
+}

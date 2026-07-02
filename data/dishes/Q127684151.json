@@ -1,0 +1,16 @@
+{
+  "id": "Q127684151",
+  "name": "Albino Brood",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/albino-brood-q127684151/albino-brood-q127684151-1.jpg",
+    "images/albino-brood-q127684151/albino-brood-q127684151-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684151",
+    "themealdb": null
+  }
+}

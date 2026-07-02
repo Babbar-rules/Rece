@@ -1,0 +1,18 @@
+{
+  "id": "Q127684035",
+  "name": "Chicken Caesar",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-caesar-q127684035/chicken-caesar-q127684035-1.jpg",
+    "images/chicken-caesar-q127684035/chicken-caesar-q127684035-2.jpg",
+    "images/chicken-caesar-q127684035/chicken-caesar-q127684035-3.jpg",
+    "images/chicken-caesar-q127684035/chicken-caesar-q127684035-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684035",
+    "themealdb": null
+  }
+}

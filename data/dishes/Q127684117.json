@@ -1,0 +1,15 @@
+{
+  "id": "Q127684117",
+  "name": "Chocolate Mojito",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-mojito-q127684117/chocolate-mojito-q127684117-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684117",
+    "themealdb": null
+  }
+}

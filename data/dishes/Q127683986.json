@@ -1,0 +1,16 @@
+{
+  "id": "Q127683986",
+  "name": "Wasabi Wagyu",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wasabi-wagyu-q127683986/wasabi-wagyu-q127683986-1.jpg",
+    "images/wasabi-wagyu-q127683986/wasabi-wagyu-q127683986-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683986",
+    "themealdb": null
+  }
+}

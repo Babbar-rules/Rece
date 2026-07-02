@@ -1,0 +1,18 @@
+{
+  "id": "Q127684148",
+  "name": "White Chocolate Mocha",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-chocolate-mocha-q127684148/white-chocolate-mocha-q127684148-1.jpg",
+    "images/white-chocolate-mocha-q127684148/white-chocolate-mocha-q127684148-2.jpg",
+    "images/white-chocolate-mocha-q127684148/white-chocolate-mocha-q127684148-3.jpg",
+    "images/white-chocolate-mocha-q127684148/white-chocolate-mocha-q127684148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684148",
+    "themealdb": null
+  }
+}

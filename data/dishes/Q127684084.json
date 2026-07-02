@@ -1,0 +1,18 @@
+{
+  "id": "Q127684084",
+  "name": "Italian Tube Steak",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-tube-steak-q127684084/italian-tube-steak-q127684084-1.webp",
+    "images/italian-tube-steak-q127684084/italian-tube-steak-q127684084-2.webp",
+    "images/italian-tube-steak-q127684084/italian-tube-steak-q127684084-3.webp",
+    "images/italian-tube-steak-q127684084/italian-tube-steak-q127684084-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684084",
+    "themealdb": null
+  }
+}

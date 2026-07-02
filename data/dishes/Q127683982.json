@@ -1,0 +1,18 @@
+{
+  "id": "Q127683982",
+  "name": "Tofu BBQ",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-bbq-q127683982/tofu-bbq-q127683982-1.jpg",
+    "images/tofu-bbq-q127683982/tofu-bbq-q127683982-2.jpeg",
+    "images/tofu-bbq-q127683982/tofu-bbq-q127683982-3.jpg",
+    "images/tofu-bbq-q127683982/tofu-bbq-q127683982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683982",
+    "themealdb": null
+  }
+}

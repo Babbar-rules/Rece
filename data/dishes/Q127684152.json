@@ -1,0 +1,18 @@
+{
+  "id": "Q127684152",
+  "name": "Atomic Twist",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/atomic-twist-q127684152/atomic-twist-q127684152-1.jpg",
+    "images/atomic-twist-q127684152/atomic-twist-q127684152-2.gif",
+    "images/atomic-twist-q127684152/atomic-twist-q127684152-3.jpg",
+    "images/atomic-twist-q127684152/atomic-twist-q127684152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684152",
+    "themealdb": null
+  }
+}

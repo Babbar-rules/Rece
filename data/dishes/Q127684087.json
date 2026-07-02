@@ -1,0 +1,18 @@
+{
+  "id": "Q127684087",
+  "name": "Peter Piper",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peter-piper-q127684087/peter-piper-q127684087-1.jpg",
+    "images/peter-piper-q127684087/peter-piper-q127684087-2.png",
+    "images/peter-piper-q127684087/peter-piper-q127684087-3.png",
+    "images/peter-piper-q127684087/peter-piper-q127684087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684087",
+    "themealdb": null
+  }
+}

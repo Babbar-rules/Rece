@@ -1,0 +1,18 @@
+{
+  "id": "Q127684146",
+  "name": "Tropical Typhoon",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tropical-typhoon-q127684146/tropical-typhoon-q127684146-1.jpg",
+    "images/tropical-typhoon-q127684146/tropical-typhoon-q127684146-2.jpg",
+    "images/tropical-typhoon-q127684146/tropical-typhoon-q127684146-3.jpg",
+    "images/tropical-typhoon-q127684146/tropical-typhoon-q127684146-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684146",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127683988",
+  "name": "Yummy Onion",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yummy-onion-q127683988/yummy-onion-q127683988-1.jpg",
+    "images/yummy-onion-q127683988/yummy-onion-q127683988-2.jpg",
+    "images/yummy-onion-q127683988/yummy-onion-q127683988-3.jpg",
+    "images/yummy-onion-q127683988/yummy-onion-q127683988-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683988",
+    "themealdb": null
+  }
+}

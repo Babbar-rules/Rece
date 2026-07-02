@@ -1,0 +1,18 @@
+{
+  "id": "Q127684143",
+  "name": "Sweet Stripes",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-stripes-q127684143/sweet-stripes-q127684143-1.jpg",
+    "images/sweet-stripes-q127684143/sweet-stripes-q127684143-2.jpg",
+    "images/sweet-stripes-q127684143/sweet-stripes-q127684143-3.jpg",
+    "images/sweet-stripes-q127684143/sweet-stripes-q127684143-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684143",
+    "themealdb": null
+  }
+}

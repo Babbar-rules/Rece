@@ -1,0 +1,18 @@
+{
+  "id": "Q127684051",
+  "name": "Pizza Margherita",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-margherita-q127684051/pizza-margherita-q127684051-1.jpg",
+    "images/pizza-margherita-q127684051/pizza-margherita-q127684051-2.jpg",
+    "images/pizza-margherita-q127684051/pizza-margherita-q127684051-3.jpg",
+    "images/pizza-margherita-q127684051/pizza-margherita-q127684051-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684051",
+    "themealdb": null
+  }
+}

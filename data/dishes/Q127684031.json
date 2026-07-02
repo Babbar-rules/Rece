@@ -1,0 +1,18 @@
+{
+  "id": "Q127684031",
+  "name": "Bacon Cheeseburger",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-cheeseburger-q127684031/bacon-cheeseburger-q127684031-1.jpg",
+    "images/bacon-cheeseburger-q127684031/bacon-cheeseburger-q127684031-2.jpg",
+    "images/bacon-cheeseburger-q127684031/bacon-cheeseburger-q127684031-3.jpg",
+    "images/bacon-cheeseburger-q127684031/bacon-cheeseburger-q127684031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684031",
+    "themealdb": null
+  }
+}

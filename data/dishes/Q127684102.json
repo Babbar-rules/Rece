@@ -1,0 +1,18 @@
+{
+  "id": "Q127684102",
+  "name": "The Bavarian",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-bavarian-q127684102/the-bavarian-q127684102-1.jpg",
+    "images/the-bavarian-q127684102/the-bavarian-q127684102-2.png",
+    "images/the-bavarian-q127684102/the-bavarian-q127684102-3.jpg",
+    "images/the-bavarian-q127684102/the-bavarian-q127684102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684102",
+    "themealdb": null
+  }
+}

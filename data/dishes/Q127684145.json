@@ -1,0 +1,18 @@
+{
+  "id": "Q127684145",
+  "name": "Tiramisu",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tiramisu-q127684145/tiramisu-q127684145-1.jpg",
+    "images/tiramisu-q127684145/tiramisu-q127684145-2.jpg",
+    "images/tiramisu-q127684145/tiramisu-q127684145-3.jpg",
+    "images/tiramisu-q127684145/tiramisu-q127684145-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684145",
+    "themealdb": null
+  }
+}

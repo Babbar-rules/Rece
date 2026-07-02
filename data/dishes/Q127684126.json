@@ -1,0 +1,18 @@
+{
+  "id": "Q127684126",
+  "name": "Knickerbocker Glory",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/knickerbocker-glory-q127684126/knickerbocker-glory-q127684126-1.jpg",
+    "images/knickerbocker-glory-q127684126/knickerbocker-glory-q127684126-2.jpg",
+    "images/knickerbocker-glory-q127684126/knickerbocker-glory-q127684126-3.jpg",
+    "images/knickerbocker-glory-q127684126/knickerbocker-glory-q127684126-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684126",
+    "themealdb": null
+  }
+}

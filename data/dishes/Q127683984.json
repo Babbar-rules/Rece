@@ -1,0 +1,18 @@
+{
+  "id": "Q127683984",
+  "name": "Unagi Maki",
+  "description": "Papa's Sushiria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/unagi-maki-q127683984/unagi-maki-q127683984-1.jpg",
+    "images/unagi-maki-q127683984/unagi-maki-q127683984-2.jpg",
+    "images/unagi-maki-q127683984/unagi-maki-q127683984-3.jpg",
+    "images/unagi-maki-q127683984/unagi-maki-q127683984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127683984",
+    "themealdb": null
+  }
+}

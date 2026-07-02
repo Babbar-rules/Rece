@@ -1,0 +1,18 @@
+{
+  "id": "Q127684036",
+  "name": "Chicken Club",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-club-q127684036/chicken-club-q127684036-1.jpg",
+    "images/chicken-club-q127684036/chicken-club-q127684036-2.jpg",
+    "images/chicken-club-q127684036/chicken-club-q127684036-3.jpg",
+    "images/chicken-club-q127684036/chicken-club-q127684036-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684036",
+    "themealdb": null
+  }
+}

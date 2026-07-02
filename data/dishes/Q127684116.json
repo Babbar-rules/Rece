@@ -1,0 +1,18 @@
+{
+  "id": "Q127684116",
+  "name": "Chocoholic",
+  "description": "Papa's Scooperia special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocoholic-q127684116/chocoholic-q127684116-1.jpg",
+    "images/chocoholic-q127684116/chocoholic-q127684116-2.jpg",
+    "images/chocoholic-q127684116/chocoholic-q127684116-3.jpg",
+    "images/chocoholic-q127684116/chocoholic-q127684116-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684116",
+    "themealdb": null
+  }
+}

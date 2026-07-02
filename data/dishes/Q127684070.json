@@ -1,0 +1,18 @@
+{
+  "id": "Q127684070",
+  "name": "The Works",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-works-q127684070/the-works-q127684070-1.jpg",
+    "images/the-works-q127684070/the-works-q127684070-2.jpg",
+    "images/the-works-q127684070/the-works-q127684070-3.jpg",
+    "images/the-works-q127684070/the-works-q127684070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684070",
+    "themealdb": null
+  }
+}

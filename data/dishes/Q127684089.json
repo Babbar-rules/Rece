@@ -1,0 +1,16 @@
+{
+  "id": "Q127684089",
+  "name": "Pickle Pup",
+  "description": "Papa's Hot Doggeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickle-pup-q127684089/pickle-pup-q127684089-1.jpg",
+    "images/pickle-pup-q127684089/pickle-pup-q127684089-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684089",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q127684038",
+  "name": "Fishy Fruit",
+  "description": "Papa's Pizzeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fishy-fruit-q127684038/fishy-fruit-q127684038-1.jpg",
+    "images/fishy-fruit-q127684038/fishy-fruit-q127684038-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684038",
+    "themealdb": null
+  }
+}
