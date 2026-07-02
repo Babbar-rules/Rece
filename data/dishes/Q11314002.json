@@ -1,0 +1,18 @@
+{
+  "id": "Q11314002",
+  "name": "soup curry",
+  "description": "a local dish originating from Sapporo, Hokkaido, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soup-curry-q11314002/soup-curry-q11314002-1.jpg",
+    "images/soup-curry-q11314002/soup-curry-q11314002-2.jpg",
+    "images/soup-curry-q11314002/soup-curry-q11314002-3.jpg",
+    "images/soup-curry-q11314002/soup-curry-q11314002-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11314002",
+    "themealdb": null
+  }
+}

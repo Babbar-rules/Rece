@@ -1,0 +1,18 @@
+{
+  "id": "Q11295482",
+  "name": "COUNTRY MA'AM",
+  "description": "Japanese chewy cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/country-maam-q11295482/country-maam-q11295482-1.jpg",
+    "images/country-maam-q11295482/country-maam-q11295482-2.jpg",
+    "images/country-maam-q11295482/country-maam-q11295482-3.jpg",
+    "images/country-maam-q11295482/country-maam-q11295482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11295482",
+    "themealdb": null
+  }
+}

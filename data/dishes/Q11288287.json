@@ -1,0 +1,20 @@
+{
+  "id": "Q11288287",
+  "name": "Fukagawa-meshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fukagawa-meshi-q11288287/fukagawa-meshi-q11288287-1.jpg",
+    "images/fukagawa-meshi-q11288287/fukagawa-meshi-q11288287-2.jpg",
+    "images/fukagawa-meshi-q11288287/fukagawa-meshi-q11288287-3.jpg",
+    "images/fukagawa-meshi-q11288287/fukagawa-meshi-q11288287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11288287",
+    "themealdb": null
+  }
+}

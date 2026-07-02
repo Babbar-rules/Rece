@@ -1,0 +1,20 @@
+{
+  "id": "Q11304814",
+  "name": "Sapporo Ichiban Shio",
+  "description": "instant noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sapporo-ichiban-shio-q11304814/sapporo-ichiban-shio-q11304814-1.jpg",
+    "images/sapporo-ichiban-shio-q11304814/sapporo-ichiban-shio-q11304814-2.jpg",
+    "images/sapporo-ichiban-shio-q11304814/sapporo-ichiban-shio-q11304814-3.jpg",
+    "images/sapporo-ichiban-shio-q11304814/sapporo-ichiban-shio-q11304814-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11304814",
+    "themealdb": null
+  }
+}

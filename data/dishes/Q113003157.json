@@ -1,0 +1,18 @@
+{
+  "id": "Q113003157",
+  "name": "deep fried egg",
+  "description": "deep fried egg dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-egg-q113003157/deep-fried-egg-q113003157-1.jpg",
+    "images/deep-fried-egg-q113003157/deep-fried-egg-q113003157-2.jpg",
+    "images/deep-fried-egg-q113003157/deep-fried-egg-q113003157-3.jpg",
+    "images/deep-fried-egg-q113003157/deep-fried-egg-q113003157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113003157",
+    "themealdb": null
+  }
+}

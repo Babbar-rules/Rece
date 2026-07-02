@@ -1,0 +1,18 @@
+{
+  "id": "Q11282169",
+  "name": "Aisu no mi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aisu-no-mi-q11282169/aisu-no-mi-q11282169-1.jpg",
+    "images/aisu-no-mi-q11282169/aisu-no-mi-q11282169-2.jpg",
+    "images/aisu-no-mi-q11282169/aisu-no-mi-q11282169-3.jpg",
+    "images/aisu-no-mi-q11282169/aisu-no-mi-q11282169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11282169",
+    "themealdb": null
+  }
+}

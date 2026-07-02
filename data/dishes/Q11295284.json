@@ -1,0 +1,18 @@
+{
+  "id": "Q11295284",
+  "name": "karēdon",
+  "description": "donburi with Japanese curry (karē)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/karedon-q11295284/karedon-q11295284-1.jpg",
+    "images/karedon-q11295284/karedon-q11295284-2.jpg",
+    "images/karedon-q11295284/karedon-q11295284-3.jpg",
+    "images/karedon-q11295284/karedon-q11295284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11295284",
+    "themealdb": null
+  }
+}

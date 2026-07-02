@@ -1,0 +1,18 @@
+{
+  "id": "Q11306923",
+  "name": "Shiumai Bento",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shiumai-bento-q11306923/shiumai-bento-q11306923-1.jpg",
+    "images/shiumai-bento-q11306923/shiumai-bento-q11306923-2.jpg",
+    "images/shiumai-bento-q11306923/shiumai-bento-q11306923-3.jpg",
+    "images/shiumai-bento-q11306923/shiumai-bento-q11306923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11306923",
+    "themealdb": null
+  }
+}

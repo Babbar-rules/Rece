@@ -1,0 +1,20 @@
+{
+  "id": "Q11288609",
+  "name": "soil porridge",
+  "description": "porridge made from soil, supposedly eaten in Japan during times of famine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soil-porridge-q11288609/soil-porridge-q11288609-1.jpg",
+    "images/soil-porridge-q11288609/soil-porridge-q11288609-2.jpg",
+    "images/soil-porridge-q11288609/soil-porridge-q11288609-3.jpg",
+    "images/soil-porridge-q11288609/soil-porridge-q11288609-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11288609",
+    "themealdb": null
+  }
+}

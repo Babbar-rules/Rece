@@ -1,0 +1,18 @@
+{
+  "id": "Q11318890",
+  "name": "zuke",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zuke-q11318890/zuke-q11318890-1.jpg",
+    "images/zuke-q11318890/zuke-q11318890-2.jpg",
+    "images/zuke-q11318890/zuke-q11318890-3.jpg",
+    "images/zuke-q11318890/zuke-q11318890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11318890",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11303453",
+  "name": "Cola up",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cola-up-q11303453/cola-up-q11303453-1.jpg",
+    "images/cola-up-q11303453/cola-up-q11303453-2.jpg",
+    "images/cola-up-q11303453/cola-up-q11303453-3.jpg",
+    "images/cola-up-q11303453/cola-up-q11303453-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11303453",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q11282175",
+  "name": "aisukurin",
+  "description": "low-fat ice cream-like dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aisukurin-q11282175/aisukurin-q11282175-1.jpg",
+    "images/aisukurin-q11282175/aisukurin-q11282175-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11282175",
+    "themealdb": null
+  }
+}

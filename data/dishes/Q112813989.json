@@ -1,0 +1,18 @@
+{
+  "id": "Q112813989",
+  "name": "Jacky",
+  "description": "Finnish dessert brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jacky-q112813989/jacky-q112813989-1.jpg",
+    "images/jacky-q112813989/jacky-q112813989-2.jpg",
+    "images/jacky-q112813989/jacky-q112813989-3.jpg",
+    "images/jacky-q112813989/jacky-q112813989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112813989",
+    "themealdb": null
+  }
+}

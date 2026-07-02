@@ -1,0 +1,20 @@
+{
+  "id": "Q11286685",
+  "name": "Italian",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-q11286685/italian-q11286685-1.jpg",
+    "images/italian-q11286685/italian-q11286685-2.png",
+    "images/italian-q11286685/italian-q11286685-3.jpg",
+    "images/italian-q11286685/italian-q11286685-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11286685",
+    "themealdb": null
+  }
+}

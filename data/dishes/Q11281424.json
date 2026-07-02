@@ -1,0 +1,20 @@
+{
+  "id": "Q11281424",
+  "name": "ramen can",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ramen-can-q11281424/ramen-can-q11281424-1.png",
+    "images/ramen-can-q11281424/ramen-can-q11281424-2.jpg",
+    "images/ramen-can-q11281424/ramen-can-q11281424-3.jpg",
+    "images/ramen-can-q11281424/ramen-can-q11281424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11281424",
+    "themealdb": null
+  }
+}

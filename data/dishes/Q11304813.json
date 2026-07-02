@@ -1,0 +1,18 @@
+{
+  "id": "Q11304813",
+  "name": "Sapporo Ichiban Miso",
+  "description": "instant noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sapporo-ichiban-miso-q11304813/sapporo-ichiban-miso-q11304813-1.jpg",
+    "images/sapporo-ichiban-miso-q11304813/sapporo-ichiban-miso-q11304813-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11304813",
+    "themealdb": null
+  }
+}

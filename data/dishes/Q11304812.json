@@ -1,0 +1,17 @@
+{
+  "id": "Q11304812",
+  "name": "Sapporo Ichiban Shoyu",
+  "description": "instant noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sapporo-ichiban-shoyu-q11304812/sapporo-ichiban-shoyu-q11304812-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11304812",
+    "themealdb": null
+  }
+}

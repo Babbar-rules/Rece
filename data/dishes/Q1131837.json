@@ -1,0 +1,20 @@
+{
+  "id": "Q1131837",
+  "name": "Ndolé",
+  "description": "national dish of Cameroon",
+  "nationality": [
+    "Cameroon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ndole-q1131837/ndole-q1131837-1.jpg",
+    "images/ndole-q1131837/ndole-q1131837-2.jpg",
+    "images/ndole-q1131837/ndole-q1131837-3.jpg",
+    "images/ndole-q1131837/ndole-q1131837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1131837",
+    "themealdb": null
+  }
+}

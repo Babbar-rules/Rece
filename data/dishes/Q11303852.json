@@ -1,0 +1,20 @@
+{
+  "id": "Q11303852",
+  "name": "Neapolitan wafer",
+  "description": "thin Japanese waffle stuffed with cream",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neapolitan-wafer-q11303852/neapolitan-wafer-q11303852-1.jpg",
+    "images/neapolitan-wafer-q11303852/neapolitan-wafer-q11303852-2.jpg",
+    "images/neapolitan-wafer-q11303852/neapolitan-wafer-q11303852-3.jpg",
+    "images/neapolitan-wafer-q11303852/neapolitan-wafer-q11303852-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11303852",
+    "themealdb": null
+  }
+}

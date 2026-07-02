@@ -1,0 +1,18 @@
+{
+  "id": "Q11288757",
+  "name": "hina-arare",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hina-arare-q11288757/hina-arare-q11288757-1.jpg",
+    "images/hina-arare-q11288757/hina-arare-q11288757-2.jpg",
+    "images/hina-arare-q11288757/hina-arare-q11288757-3.jpg",
+    "images/hina-arare-q11288757/hina-arare-q11288757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11288757",
+    "themealdb": null
+  }
+}

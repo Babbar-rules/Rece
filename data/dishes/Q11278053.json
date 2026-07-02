@@ -1,0 +1,18 @@
+{
+  "id": "Q11278053",
+  "name": "Bonchi-age",
+  "description": "Japanese fried rice cracker",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bonchi-age-q11278053/bonchi-age-q11278053-1.jpg",
+    "images/bonchi-age-q11278053/bonchi-age-q11278053-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11278053",
+    "themealdb": null
+  }
+}

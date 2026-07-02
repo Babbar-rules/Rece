@@ -1,0 +1,18 @@
+{
+  "id": "Q11280034",
+  "name": "motsu curry",
+  "description": "variety of Japanese curry from Shizuoka, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/motsu-curry-q11280034/motsu-curry-q11280034-1.jpg",
+    "images/motsu-curry-q11280034/motsu-curry-q11280034-2.jpg",
+    "images/motsu-curry-q11280034/motsu-curry-q11280034-3.jpg",
+    "images/motsu-curry-q11280034/motsu-curry-q11280034-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11280034",
+    "themealdb": null
+  }
+}

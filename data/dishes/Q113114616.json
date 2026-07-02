@@ -1,0 +1,16 @@
+{
+  "id": "Q113114616",
+  "name": "Snail pepper soup",
+  "description": "Nigerian soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/snail-pepper-soup-q113114616/snail-pepper-soup-q113114616-1.jpg",
+    "images/snail-pepper-soup-q113114616/snail-pepper-soup-q113114616-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113114616",
+    "themealdb": null
+  }
+}

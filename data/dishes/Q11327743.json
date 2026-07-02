@@ -1,0 +1,18 @@
+{
+  "id": "Q11327743",
+  "name": "butter rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/butter-rice-q11327743/butter-rice-q11327743-1.jpg",
+    "images/butter-rice-q11327743/butter-rice-q11327743-2.jpg",
+    "images/butter-rice-q11327743/butter-rice-q11327743-3.jpg",
+    "images/butter-rice-q11327743/butter-rice-q11327743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11327743",
+    "themealdb": null
+  }
+}

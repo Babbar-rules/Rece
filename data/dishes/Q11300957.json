@@ -1,0 +1,18 @@
+{
+  "id": "Q11300957",
+  "name": "Guten burger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/guten-burger-q11300957/guten-burger-q11300957-1.jpg",
+    "images/guten-burger-q11300957/guten-burger-q11300957-2.jpg",
+    "images/guten-burger-q11300957/guten-burger-q11300957-3.jpg",
+    "images/guten-burger-q11300957/guten-burger-q11300957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11300957",
+    "themealdb": null
+  }
+}

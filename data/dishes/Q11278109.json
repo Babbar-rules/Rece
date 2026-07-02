@@ -1,0 +1,18 @@
+{
+  "id": "Q11278109",
+  "name": "pōpō",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/popo-q11278109/popo-q11278109-1.jpg",
+    "images/popo-q11278109/popo-q11278109-2.png",
+    "images/popo-q11278109/popo-q11278109-3.jpg",
+    "images/popo-q11278109/popo-q11278109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11278109",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11293960",
+  "name": "Kakioko",
+  "description": "local version of okonomiyaki",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kakioko-q11293960/kakioko-q11293960-1.jpg",
+    "images/kakioko-q11293960/kakioko-q11293960-2.jpg",
+    "images/kakioko-q11293960/kakioko-q11293960-3.jpg",
+    "images/kakioko-q11293960/kakioko-q11293960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11293960",
+    "themealdb": null
+  }
+}

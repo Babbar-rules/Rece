@@ -1,0 +1,17 @@
+{
+  "id": "Q11300440",
+  "name": "Glico (confection)",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/glico-confection-q11300440/glico-confection-q11300440-1.jpg",
+    "images/glico-confection-q11300440/glico-confection-q11300440-2.jpg",
+    "images/glico-confection-q11300440/glico-confection-q11300440-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11300440",
+    "themealdb": null
+  }
+}

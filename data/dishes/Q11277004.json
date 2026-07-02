@@ -1,0 +1,17 @@
+{
+  "id": "Q11277004",
+  "name": "fukuregashi",
+  "description": "Japanese confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fukuregashi-q11277004/fukuregashi-q11277004-1.jpg",
+    "images/fukuregashi-q11277004/fukuregashi-q11277004-2.jpg",
+    "images/fukuregashi-q11277004/fukuregashi-q11277004-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11277004",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11277634",
+  "name": "beko mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beko-mochi-q11277634/beko-mochi-q11277634-1.jpg",
+    "images/beko-mochi-q11277634/beko-mochi-q11277634-2.jpg",
+    "images/beko-mochi-q11277634/beko-mochi-q11277634-3.jpg",
+    "images/beko-mochi-q11277634/beko-mochi-q11277634-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11277634",
+    "themealdb": null
+  }
+}

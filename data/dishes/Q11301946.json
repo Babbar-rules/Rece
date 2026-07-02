@@ -1,0 +1,18 @@
+{
+  "id": "Q11301946",
+  "name": "Cocoa Cigarette",
+  "description": "Japanese candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cocoa-cigarette-q11301946/cocoa-cigarette-q11301946-1.jpg",
+    "images/cocoa-cigarette-q11301946/cocoa-cigarette-q11301946-2.jpg",
+    "images/cocoa-cigarette-q11301946/cocoa-cigarette-q11301946-3.jpg",
+    "images/cocoa-cigarette-q11301946/cocoa-cigarette-q11301946-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11301946",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q11303684",
+  "name": "gori dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gori-dish-q11303684/gori-dish-q11303684-1.jpg",
+    "images/gori-dish-q11303684/gori-dish-q11303684-2.jpg",
+    "images/gori-dish-q11303684/gori-dish-q11303684-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11303684",
+    "themealdb": null
+  }
+}

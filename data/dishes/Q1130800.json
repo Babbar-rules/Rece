@@ -1,0 +1,20 @@
+{
+  "id": "Q1130800",
+  "name": "bún bò Huế",
+  "description": "Vietnamese soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-bo-hue-q1130800/bun-bo-hue-q1130800-1.jpg",
+    "images/bun-bo-hue-q1130800/bun-bo-hue-q1130800-2.jpg",
+    "images/bun-bo-hue-q1130800/bun-bo-hue-q1130800-3.jpg",
+    "images/bun-bo-hue-q1130800/bun-bo-hue-q1130800-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1130800",
+    "themealdb": null
+  }
+}

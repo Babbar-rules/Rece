@@ -1,0 +1,20 @@
+{
+  "id": "Q113070503",
+  "name": "Otong soup",
+  "description": "Efik soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/otong-soup-q113070503/otong-soup-q113070503-1.jpg",
+    "images/otong-soup-q113070503/otong-soup-q113070503-2.jpg",
+    "images/otong-soup-q113070503/otong-soup-q113070503-3.jpg",
+    "images/otong-soup-q113070503/otong-soup-q113070503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113070503",
+    "themealdb": null
+  }
+}

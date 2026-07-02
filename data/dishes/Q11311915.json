@@ -1,0 +1,18 @@
+{
+  "id": "Q11311915",
+  "name": "stamina rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stamina-rice-q11311915/stamina-rice-q11311915-1.jpg",
+    "images/stamina-rice-q11311915/stamina-rice-q11311915-2.jpg",
+    "images/stamina-rice-q11311915/stamina-rice-q11311915-3.jpg",
+    "images/stamina-rice-q11311915/stamina-rice-q11311915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11311915",
+    "themealdb": null
+  }
+}

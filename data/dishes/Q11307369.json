@@ -1,0 +1,18 @@
+{
+  "id": "Q11307369",
+  "name": "Cinnamon Toast",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cinnamon-toast-q11307369/cinnamon-toast-q11307369-1.jpg",
+    "images/cinnamon-toast-q11307369/cinnamon-toast-q11307369-2.jpg",
+    "images/cinnamon-toast-q11307369/cinnamon-toast-q11307369-3.jpg",
+    "images/cinnamon-toast-q11307369/cinnamon-toast-q11307369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11307369",
+    "themealdb": null
+  }
+}

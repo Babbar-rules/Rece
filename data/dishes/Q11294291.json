@@ -1,0 +1,18 @@
+{
+  "id": "Q11294291",
+  "name": "Cup Noodle Curry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cup-noodle-curry-q11294291/cup-noodle-curry-q11294291-1.jpg",
+    "images/cup-noodle-curry-q11294291/cup-noodle-curry-q11294291-2.jpg",
+    "images/cup-noodle-curry-q11294291/cup-noodle-curry-q11294291-3.jpg",
+    "images/cup-noodle-curry-q11294291/cup-noodle-curry-q11294291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11294291",
+    "themealdb": null
+  }
+}

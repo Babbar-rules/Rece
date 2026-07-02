@@ -1,0 +1,18 @@
+{
+  "id": "Q11277440",
+  "name": "budo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/budo-q11277440/budo-q11277440-1.jpg",
+    "images/budo-q11277440/budo-q11277440-2.jpg",
+    "images/budo-q11277440/budo-q11277440-3.jpg",
+    "images/budo-q11277440/budo-q11277440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11277440",
+    "themealdb": null
+  }
+}

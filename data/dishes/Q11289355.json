@@ -1,0 +1,18 @@
+{
+  "id": "Q11289355",
+  "name": "uroko dango",
+  "description": "Japanese sweet dumpling",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uroko-dango-q11289355/uroko-dango-q11289355-1.jpg",
+    "images/uroko-dango-q11289355/uroko-dango-q11289355-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11289355",
+    "themealdb": null
+  }
+}

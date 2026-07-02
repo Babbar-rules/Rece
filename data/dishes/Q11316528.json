@@ -1,0 +1,20 @@
+{
+  "id": "Q11316528",
+  "name": "tanmen",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tanmen-q11316528/tanmen-q11316528-1.jpg",
+    "images/tanmen-q11316528/tanmen-q11316528-2.jpg",
+    "images/tanmen-q11316528/tanmen-q11316528-3.jpg",
+    "images/tanmen-q11316528/tanmen-q11316528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11316528",
+    "themealdb": null
+  }
+}

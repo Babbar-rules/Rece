@@ -1,0 +1,20 @@
+{
+  "id": "Q112860630",
+  "name": "miyan taushe",
+  "description": "hausa soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miyan-taushe-q112860630/miyan-taushe-q112860630-1.jpg",
+    "images/miyan-taushe-q112860630/miyan-taushe-q112860630-2.jpg",
+    "images/miyan-taushe-q112860630/miyan-taushe-q112860630-3.jpg",
+    "images/miyan-taushe-q112860630/miyan-taushe-q112860630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112860630",
+    "themealdb": null
+  }
+}

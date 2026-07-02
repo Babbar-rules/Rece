@@ -1,0 +1,18 @@
+{
+  "id": "Q11280099",
+  "name": "Momiji",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/momiji-q11280099/momiji-q11280099-1.jpg",
+    "images/momiji-q11280099/momiji-q11280099-2.jpg",
+    "images/momiji-q11280099/momiji-q11280099-3.jpg",
+    "images/momiji-q11280099/momiji-q11280099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11280099",
+    "themealdb": null
+  }
+}

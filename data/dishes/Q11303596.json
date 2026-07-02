@@ -1,0 +1,17 @@
+{
+  "id": "Q11303596",
+  "name": "Gokko jiru",
+  "description": "Japanese fish soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gokko-jiru-q11303596/gokko-jiru-q11303596-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11303596",
+    "themealdb": null
+  }
+}

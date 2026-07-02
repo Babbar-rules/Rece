@@ -1,0 +1,18 @@
+{
+  "id": "Q11308887",
+  "name": "Cup Noodle Seafood",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cup-noodle-seafood-q11308887/cup-noodle-seafood-q11308887-1.jpg",
+    "images/cup-noodle-seafood-q11308887/cup-noodle-seafood-q11308887-2.jpg",
+    "images/cup-noodle-seafood-q11308887/cup-noodle-seafood-q11308887-3.jpg",
+    "images/cup-noodle-seafood-q11308887/cup-noodle-seafood-q11308887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11308887",
+    "themealdb": null
+  }
+}

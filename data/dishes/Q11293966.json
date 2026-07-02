@@ -1,0 +1,22 @@
+{
+  "id": "Q11293966",
+  "name": "kaki fry",
+  "description": "Japanese deep-fried oysters",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/kaki-fry-q11293966/kaki-fry-q11293966-1.jpg",
+    "images/kaki-fry-q11293966/kaki-fry-q11293966-2.jpg",
+    "images/kaki-fry-q11293966/kaki-fry-q11293966-3.jpg",
+    "images/kaki-fry-q11293966/kaki-fry-q11293966-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11293966",
+    "themealdb": null
+  }
+}

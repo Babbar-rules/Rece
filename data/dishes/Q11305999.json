@@ -1,0 +1,17 @@
+{
+  "id": "Q11305999",
+  "name": "sanma-men",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sanma-men-q11305999/sanma-men-q11305999-1.jpg",
+    "images/sanma-men-q11305999/sanma-men-q11305999-2.jpg",
+    "images/sanma-men-q11305999/sanma-men-q11305999-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11305999",
+    "themealdb": null
+  }
+}

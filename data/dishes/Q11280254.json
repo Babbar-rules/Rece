@@ -1,0 +1,20 @@
+{
+  "id": "Q11280254",
+  "name": "yakiton",
+  "description": "pork dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yakiton-q11280254/yakiton-q11280254-1.jpg",
+    "images/yakiton-q11280254/yakiton-q11280254-2.jpg",
+    "images/yakiton-q11280254/yakiton-q11280254-3.jpg",
+    "images/yakiton-q11280254/yakiton-q11280254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11280254",
+    "themealdb": null
+  }
+}

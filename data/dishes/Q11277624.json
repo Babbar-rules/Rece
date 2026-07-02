@@ -1,0 +1,18 @@
+{
+  "id": "Q11277624",
+  "name": "Henba Mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/henba-mochi-q11277624/henba-mochi-q11277624-1.jpg",
+    "images/henba-mochi-q11277624/henba-mochi-q11277624-2.jpg",
+    "images/henba-mochi-q11277624/henba-mochi-q11277624-3.jpg",
+    "images/henba-mochi-q11277624/henba-mochi-q11277624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11277624",
+    "themealdb": null
+  }
+}

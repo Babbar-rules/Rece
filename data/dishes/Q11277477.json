@@ -1,0 +1,18 @@
+{
+  "id": "Q11277477",
+  "name": "buri daikon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buri-daikon-q11277477/buri-daikon-q11277477-1.jpg",
+    "images/buri-daikon-q11277477/buri-daikon-q11277477-2.jpg",
+    "images/buri-daikon-q11277477/buri-daikon-q11277477-3.jpg",
+    "images/buri-daikon-q11277477/buri-daikon-q11277477-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11277477",
+    "themealdb": null
+  }
+}

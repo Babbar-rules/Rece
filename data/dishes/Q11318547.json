@@ -1,0 +1,18 @@
+{
+  "id": "Q11318547",
+  "name": "TIROL-CHOCO",
+  "description": "Japanese candy company",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tirol-choco-q11318547/tirol-choco-q11318547-1.jpg",
+    "images/tirol-choco-q11318547/tirol-choco-q11318547-2.jpg",
+    "images/tirol-choco-q11318547/tirol-choco-q11318547-3.jpg",
+    "images/tirol-choco-q11318547/tirol-choco-q11318547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11318547",
+    "themealdb": null
+  }
+}

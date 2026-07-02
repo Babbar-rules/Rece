@@ -1,0 +1,18 @@
+{
+  "id": "Q11322243",
+  "name": "tonkatsu ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tonkatsu-ramen-q11322243/tonkatsu-ramen-q11322243-1.jpg",
+    "images/tonkatsu-ramen-q11322243/tonkatsu-ramen-q11322243-2.jpg",
+    "images/tonkatsu-ramen-q11322243/tonkatsu-ramen-q11322243-3.jpg",
+    "images/tonkatsu-ramen-q11322243/tonkatsu-ramen-q11322243-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11322243",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q113039087",
+  "name": "Afia Efere",
+  "description": "Nigerian soup popular amongst the Efik/Ibibio tribe",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/afia-efere-q113039087/afia-efere-q113039087-1.jpg",
+    "images/afia-efere-q113039087/afia-efere-q113039087-2.jpg",
+    "images/afia-efere-q113039087/afia-efere-q113039087-3.jpg",
+    "images/afia-efere-q113039087/afia-efere-q113039087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113039087",
+    "themealdb": null
+  }
+}

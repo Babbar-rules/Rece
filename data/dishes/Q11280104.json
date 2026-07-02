@@ -1,0 +1,20 @@
+{
+  "id": "Q11280104",
+  "name": "momiji manjū",
+  "description": "Japanese dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/momiji-manju-q11280104/momiji-manju-q11280104-1.jpg",
+    "images/momiji-manju-q11280104/momiji-manju-q11280104-2.jpg",
+    "images/momiji-manju-q11280104/momiji-manju-q11280104-3.jpg",
+    "images/momiji-manju-q11280104/momiji-manju-q11280104-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11280104",
+    "themealdb": null
+  }
+}

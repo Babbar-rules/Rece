@@ -1,0 +1,20 @@
+{
+  "id": "Q11322056",
+  "name": "Japanese Turkish ice cream",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/japanese-turkish-ice-cream-q11322056/japanese-turkish-ice-cream-q11322056-1.jpg",
+    "images/japanese-turkish-ice-cream-q11322056/japanese-turkish-ice-cream-q11322056-2.png",
+    "images/japanese-turkish-ice-cream-q11322056/japanese-turkish-ice-cream-q11322056-3.jpg",
+    "images/japanese-turkish-ice-cream-q11322056/japanese-turkish-ice-cream-q11322056-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11322056",
+    "themealdb": null
+  }
+}

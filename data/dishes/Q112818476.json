@@ -1,0 +1,20 @@
+{
+  "id": "Q112818476",
+  "name": "curry udon",
+  "description": "Japanese noodle dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curry-udon-q112818476/curry-udon-q112818476-1.jpg",
+    "images/curry-udon-q112818476/curry-udon-q112818476-2.jpg",
+    "images/curry-udon-q112818476/curry-udon-q112818476-3.jpg",
+    "images/curry-udon-q112818476/curry-udon-q112818476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112818476",
+    "themealdb": null
+  }
+}

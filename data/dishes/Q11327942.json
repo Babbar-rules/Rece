@@ -1,0 +1,17 @@
+{
+  "id": "Q11327942",
+  "name": "banana castella",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-castella-q11327942/banana-castella-q11327942-1.jpg",
+    "images/banana-castella-q11327942/banana-castella-q11327942-2.jpg",
+    "images/banana-castella-q11327942/banana-castella-q11327942-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11327942",
+    "themealdb": null
+  }
+}

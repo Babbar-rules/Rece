@@ -1,0 +1,19 @@
+{
+  "id": "Q11301550",
+  "name": "gesodon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gesodon-q11301550/gesodon-q11301550-1.jpg",
+    "images/gesodon-q11301550/gesodon-q11301550-2.jpg",
+    "images/gesodon-q11301550/gesodon-q11301550-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11301550",
+    "themealdb": null
+  }
+}

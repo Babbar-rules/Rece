@@ -1,0 +1,20 @@
+{
+  "id": "Q1127705",
+  "name": "shrimp paste",
+  "description": "fermented condiment",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-paste-q1127705/shrimp-paste-q1127705-1.jpg",
+    "images/shrimp-paste-q1127705/shrimp-paste-q1127705-2.jpg",
+    "images/shrimp-paste-q1127705/shrimp-paste-q1127705-3.jpg",
+    "images/shrimp-paste-q1127705/shrimp-paste-q1127705-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1127705",
+    "themealdb": null
+  }
+}

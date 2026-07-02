@@ -1,0 +1,20 @@
+{
+  "id": "Q11276778",
+  "name": "quick bread",
+  "description": "bread leavened with leavening agents other than yeast or eggs",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quick-bread-q11276778/quick-bread-q11276778-1.jpg",
+    "images/quick-bread-q11276778/quick-bread-q11276778-2.jpg",
+    "images/quick-bread-q11276778/quick-bread-q11276778-3.jpg",
+    "images/quick-bread-q11276778/quick-bread-q11276778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11276778",
+    "themealdb": null
+  }
+}

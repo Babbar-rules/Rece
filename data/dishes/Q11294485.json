@@ -1,0 +1,17 @@
+{
+  "id": "Q11294485",
+  "name": "kani-jiru",
+  "description": "traditional Japanese crab soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kani-jiru-q11294485/kani-jiru-q11294485-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11294485",
+    "themealdb": null
+  }
+}

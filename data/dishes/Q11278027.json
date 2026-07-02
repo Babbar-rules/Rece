@@ -1,0 +1,20 @@
+{
+  "id": "Q11278027",
+  "name": "Botan nabe",
+  "description": "stew made of boar meat",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/botan-nabe-q11278027/botan-nabe-q11278027-1.jpg",
+    "images/botan-nabe-q11278027/botan-nabe-q11278027-2.jpg",
+    "images/botan-nabe-q11278027/botan-nabe-q11278027-3.jpg",
+    "images/botan-nabe-q11278027/botan-nabe-q11278027-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11278027",
+    "themealdb": null
+  }
+}

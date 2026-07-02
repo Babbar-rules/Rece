@@ -1,0 +1,18 @@
+{
+  "id": "Q11285229",
+  "name": "silver dragée",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/silver-dragee-q11285229/silver-dragee-q11285229-1.jpg",
+    "images/silver-dragee-q11285229/silver-dragee-q11285229-2.jpg",
+    "images/silver-dragee-q11285229/silver-dragee-q11285229-3.jpg",
+    "images/silver-dragee-q11285229/silver-dragee-q11285229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11285229",
+    "themealdb": null
+  }
+}

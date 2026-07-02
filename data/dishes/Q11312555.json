@@ -1,0 +1,18 @@
+{
+  "id": "Q11312555",
+  "name": "candy bar",
+  "description": "type of sugar confectionery that is in the shape of a bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/candy-bar-q11312555/candy-bar-q11312555-1.jpg",
+    "images/candy-bar-q11312555/candy-bar-q11312555-2.jpg",
+    "images/candy-bar-q11312555/candy-bar-q11312555-3.jpg",
+    "images/candy-bar-q11312555/candy-bar-q11312555-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11312555",
+    "themealdb": null
+  }
+}

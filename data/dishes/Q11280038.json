@@ -1,0 +1,20 @@
+{
+  "id": "Q11280038",
+  "name": "motsuni",
+  "description": "Japanese tripe stew",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/motsuni-q11280038/motsuni-q11280038-1.jpg",
+    "images/motsuni-q11280038/motsuni-q11280038-2.jpg",
+    "images/motsuni-q11280038/motsuni-q11280038-3.jpg",
+    "images/motsuni-q11280038/motsuni-q11280038-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11280038",
+    "themealdb": null
+  }
+}

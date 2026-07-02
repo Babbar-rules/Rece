@@ -1,0 +1,18 @@
+{
+  "id": "Q11314427",
+  "name": "Seventeen Ice",
+  "description": "Japanese ice cream brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seventeen-ice-q11314427/seventeen-ice-q11314427-1.jpg",
+    "images/seventeen-ice-q11314427/seventeen-ice-q11314427-2.jpg",
+    "images/seventeen-ice-q11314427/seventeen-ice-q11314427-3.jpg",
+    "images/seventeen-ice-q11314427/seventeen-ice-q11314427-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11314427",
+    "themealdb": null
+  }
+}

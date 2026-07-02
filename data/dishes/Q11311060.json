@@ -1,0 +1,22 @@
+{
+  "id": "Q11311060",
+  "name": "Peanut tofu",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Okinawan cuisine"
+  ],
+  "images": [
+    "images/peanut-tofu-q11311060/peanut-tofu-q11311060-1.jpg",
+    "images/peanut-tofu-q11311060/peanut-tofu-q11311060-2.jpg",
+    "images/peanut-tofu-q11311060/peanut-tofu-q11311060-3.jpg",
+    "images/peanut-tofu-q11311060/peanut-tofu-q11311060-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11311060",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q113279398",
+  "name": "Spanish bread",
+  "description": "a sweet bread from the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spanish-bread-q113279398/spanish-bread-q113279398-1.jpg",
+    "images/spanish-bread-q113279398/spanish-bread-q113279398-2.jpg",
+    "images/spanish-bread-q113279398/spanish-bread-q113279398-3.jpg",
+    "images/spanish-bread-q113279398/spanish-bread-q113279398-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113279398",
+    "themealdb": null
+  }
+}

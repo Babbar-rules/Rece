@@ -1,0 +1,18 @@
+{
+  "id": "Q11295283",
+  "name": "curry ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/curry-ramen-q11295283/curry-ramen-q11295283-1.jpg",
+    "images/curry-ramen-q11295283/curry-ramen-q11295283-2.jpg",
+    "images/curry-ramen-q11295283/curry-ramen-q11295283-3.jpg",
+    "images/curry-ramen-q11295283/curry-ramen-q11295283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11295283",
+    "themealdb": null
+  }
+}

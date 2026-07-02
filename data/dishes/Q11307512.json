@@ -1,0 +1,20 @@
+{
+  "id": "Q11307512",
+  "name": "Siberia",
+  "description": "Japanese pastry made from castelle and yōkan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/siberia-q11307512/siberia-q11307512-1.jpg",
+    "images/siberia-q11307512/siberia-q11307512-2.jpg",
+    "images/siberia-q11307512/siberia-q11307512-3.jpg",
+    "images/siberia-q11307512/siberia-q11307512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11307512",
+    "themealdb": null
+  }
+}

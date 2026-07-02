@@ -1,0 +1,16 @@
+{
+  "id": "Q11280033",
+  "name": "motsu soba",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/motsu-soba-q11280033/motsu-soba-q11280033-1.jpg",
+    "images/motsu-soba-q11280033/motsu-soba-q11280033-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11280033",
+    "themealdb": null
+  }
+}

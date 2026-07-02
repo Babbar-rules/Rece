@@ -1,0 +1,20 @@
+{
+  "id": "Q11318281",
+  "name": "char siu onigiri",
+  "description": "type of onigiri",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/char-siu-onigiri-q11318281/char-siu-onigiri-q11318281-1.jpg",
+    "images/char-siu-onigiri-q11318281/char-siu-onigiri-q11318281-2.jpg",
+    "images/char-siu-onigiri-q11318281/char-siu-onigiri-q11318281-3.jpg",
+    "images/char-siu-onigiri-q11318281/char-siu-onigiri-q11318281-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11318281",
+    "themealdb": null
+  }
+}

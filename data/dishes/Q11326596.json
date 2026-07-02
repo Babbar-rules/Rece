@@ -1,0 +1,20 @@
+{
+  "id": "Q11326596",
+  "name": "honey toast",
+  "description": "Japanese dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/honey-toast-q11326596/honey-toast-q11326596-1.jpg",
+    "images/honey-toast-q11326596/honey-toast-q11326596-2.jpg",
+    "images/honey-toast-q11326596/honey-toast-q11326596-3.jpg",
+    "images/honey-toast-q11326596/honey-toast-q11326596-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11326596",
+    "themealdb": null
+  }
+}

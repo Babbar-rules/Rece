@@ -1,0 +1,22 @@
+{
+  "id": "Q11294479",
+  "name": "tomalley",
+  "description": "lobster or crab digestive organs, eaten as a delicacy in Eastern Asia",
+  "nationality": [
+    "Japan",
+    "Vietnam",
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomalley-q11294479/tomalley-q11294479-1.jpg",
+    "images/tomalley-q11294479/tomalley-q11294479-2.jpg",
+    "images/tomalley-q11294479/tomalley-q11294479-3.jpg",
+    "images/tomalley-q11294479/tomalley-q11294479-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11294479",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11327115",
+  "name": "hanton rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/hanton-rice-q11327115/hanton-rice-q11327115-1.jpg",
+    "images/hanton-rice-q11327115/hanton-rice-q11327115-2.jpg",
+    "images/hanton-rice-q11327115/hanton-rice-q11327115-3.jpg",
+    "images/hanton-rice-q11327115/hanton-rice-q11327115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11327115",
+    "themealdb": null
+  }
+}

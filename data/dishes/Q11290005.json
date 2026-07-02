@@ -1,0 +1,18 @@
+{
+  "id": "Q11290005",
+  "name": "escalope",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/escalope-q11290005/escalope-q11290005-1.jpg",
+    "images/escalope-q11290005/escalope-q11290005-2.jpg",
+    "images/escalope-q11290005/escalope-q11290005-3.jpg",
+    "images/escalope-q11290005/escalope-q11290005-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11290005",
+    "themealdb": null
+  }
+}

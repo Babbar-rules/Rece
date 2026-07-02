@@ -1,0 +1,20 @@
+{
+  "id": "Q1132679",
+  "name": "Tenshindon",
+  "description": "Chinese-Japanese specialty",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tenshindon-q1132679/tenshindon-q1132679-1.jpg",
+    "images/tenshindon-q1132679/tenshindon-q1132679-2.jpg",
+    "images/tenshindon-q1132679/tenshindon-q1132679-3.jpg",
+    "images/tenshindon-q1132679/tenshindon-q1132679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1132679",
+    "themealdb": null
+  }
+}

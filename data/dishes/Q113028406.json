@@ -1,0 +1,18 @@
+{
+  "id": "Q113028406",
+  "name": "fried meat",
+  "description": "meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-meat-q113028406/fried-meat-q113028406-1.jpg",
+    "images/fried-meat-q113028406/fried-meat-q113028406-2.jpg",
+    "images/fried-meat-q113028406/fried-meat-q113028406-3.jpg",
+    "images/fried-meat-q113028406/fried-meat-q113028406-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113028406",
+    "themealdb": null
+  }
+}

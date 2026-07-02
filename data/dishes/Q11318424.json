@@ -1,0 +1,20 @@
+{
+  "id": "Q11318424",
+  "name": "Choco Bat",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/choco-bat-q11318424/choco-bat-q11318424-1.jpg",
+    "images/choco-bat-q11318424/choco-bat-q11318424-2.jpg",
+    "images/choco-bat-q11318424/choco-bat-q11318424-3.jpg",
+    "images/choco-bat-q11318424/choco-bat-q11318424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11318424",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11293688",
+  "name": "schnitzel",
+  "description": "breaded, fried flat piece of meat",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schnitzel-q11293688/schnitzel-q11293688-1.jpg",
+    "images/schnitzel-q11293688/schnitzel-q11293688-2.jpg",
+    "images/schnitzel-q11293688/schnitzel-q11293688-3.jpg",
+    "images/schnitzel-q11293688/schnitzel-q11293688-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11293688",
+    "themealdb": null
+  }
+}

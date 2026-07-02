@@ -1,0 +1,18 @@
+{
+  "id": "Q11289615",
+  "name": "stingray fin",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stingray-fin-q11289615/stingray-fin-q11289615-1.jpg",
+    "images/stingray-fin-q11289615/stingray-fin-q11289615-2.jpg",
+    "images/stingray-fin-q11289615/stingray-fin-q11289615-3.jpg",
+    "images/stingray-fin-q11289615/stingray-fin-q11289615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11289615",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11323173",
+  "name": "Doria",
+  "description": "Japanese type of gratin",
+  "nationality": [],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/doria-q11323173/doria-q11323173-1.jpg",
+    "images/doria-q11323173/doria-q11323173-2.jpg",
+    "images/doria-q11323173/doria-q11323173-3.jpg",
+    "images/doria-q11323173/doria-q11323173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11323173",
+    "themealdb": null
+  }
+}

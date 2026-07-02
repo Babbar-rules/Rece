@@ -1,0 +1,20 @@
+{
+  "id": "Q113131032",
+  "name": "Yamin",
+  "description": "noodle dish from West Java",
+  "nationality": [],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/yamin-q113131032/yamin-q113131032-1.jpg",
+    "images/yamin-q113131032/yamin-q113131032-2.jpg",
+    "images/yamin-q113131032/yamin-q113131032-3.jpg",
+    "images/yamin-q113131032/yamin-q113131032-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113131032",
+    "themealdb": null
+  }
+}

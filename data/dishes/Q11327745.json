@@ -1,0 +1,22 @@
+{
+  "id": "Q11327745",
+  "name": "butter mochi",
+  "description": "Hawaiian confection made from glutinous rice flour and butter",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Hawaiian cuisine"
+  ],
+  "images": [
+    "images/butter-mochi-q11327745/butter-mochi-q11327745-1.jpg",
+    "images/butter-mochi-q11327745/butter-mochi-q11327745-2.jpg",
+    "images/butter-mochi-q11327745/butter-mochi-q11327745-3.jpg",
+    "images/butter-mochi-q11327745/butter-mochi-q11327745-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11327745",
+    "themealdb": null
+  }
+}

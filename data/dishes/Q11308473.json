@@ -1,0 +1,18 @@
+{
+  "id": "Q11308473",
+  "name": "Shiro-Noir",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shiro-noir-q11308473/shiro-noir-q11308473-1.jpg",
+    "images/shiro-noir-q11308473/shiro-noir-q11308473-2.jpg",
+    "images/shiro-noir-q11308473/shiro-noir-q11308473-3.jpg",
+    "images/shiro-noir-q11308473/shiro-noir-q11308473-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11308473",
+    "themealdb": null
+  }
+}

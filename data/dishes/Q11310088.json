@@ -1,0 +1,18 @@
+{
+  "id": "Q11310088",
+  "name": "jampan",
+  "description": "Japanese jam-filled pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jampan-q11310088/jampan-q11310088-1.jpg",
+    "images/jampan-q11310088/jampan-q11310088-2.jpg",
+    "images/jampan-q11310088/jampan-q11310088-3.jpg",
+    "images/jampan-q11310088/jampan-q11310088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11310088",
+    "themealdb": null
+  }
+}

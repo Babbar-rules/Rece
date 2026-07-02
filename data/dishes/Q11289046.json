@@ -1,0 +1,20 @@
+{
+  "id": "Q11289046",
+  "name": "unidon",
+  "description": "Sea urchin bowl",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/unidon-q11289046/unidon-q11289046-1.jpg",
+    "images/unidon-q11289046/unidon-q11289046-2.jpg",
+    "images/unidon-q11289046/unidon-q11289046-3.jpg",
+    "images/unidon-q11289046/unidon-q11289046-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11289046",
+    "themealdb": null
+  }
+}

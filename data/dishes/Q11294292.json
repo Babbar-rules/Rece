@@ -1,0 +1,18 @@
+{
+  "id": "Q11294292",
+  "name": "Cup Noodle Original",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cup-noodle-original-q11294292/cup-noodle-original-q11294292-1.jpg",
+    "images/cup-noodle-original-q11294292/cup-noodle-original-q11294292-2.jpg",
+    "images/cup-noodle-original-q11294292/cup-noodle-original-q11294292-3.jpg",
+    "images/cup-noodle-original-q11294292/cup-noodle-original-q11294292-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11294292",
+    "themealdb": null
+  }
+}

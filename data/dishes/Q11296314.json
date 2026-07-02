@@ -1,0 +1,20 @@
+{
+  "id": "Q11296314",
+  "name": "Galbo",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galbo-q11296314/galbo-q11296314-1.jpeg",
+    "images/galbo-q11296314/galbo-q11296314-2.jpg",
+    "images/galbo-q11296314/galbo-q11296314-3.jpg",
+    "images/galbo-q11296314/galbo-q11296314-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11296314",
+    "themealdb": null
+  }
+}

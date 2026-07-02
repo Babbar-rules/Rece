@@ -1,0 +1,18 @@
+{
+  "id": "Q11311918",
+  "name": "stamina ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stamina-ramen-q11311918/stamina-ramen-q11311918-1.jpg",
+    "images/stamina-ramen-q11311918/stamina-ramen-q11311918-2.jpg",
+    "images/stamina-ramen-q11311918/stamina-ramen-q11311918-3.jpg",
+    "images/stamina-ramen-q11311918/stamina-ramen-q11311918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11311918",
+    "themealdb": null
+  }
+}

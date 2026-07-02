@@ -1,0 +1,18 @@
+{
+  "id": "Q113070599",
+  "name": "Yam pepper soup",
+  "description": "Nigerian soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yam-pepper-soup-q113070599/yam-pepper-soup-q113070599-1.jpg",
+    "images/yam-pepper-soup-q113070599/yam-pepper-soup-q113070599-2.jpg",
+    "images/yam-pepper-soup-q113070599/yam-pepper-soup-q113070599-3.jpg",
+    "images/yam-pepper-soup-q113070599/yam-pepper-soup-q113070599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q113070599",
+    "themealdb": null
+  }
+}

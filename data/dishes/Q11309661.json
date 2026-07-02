@@ -1,0 +1,20 @@
+{
+  "id": "Q11309661",
+  "name": "Giant Cone",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/giant-cone-q11309661/giant-cone-q11309661-1.jpg",
+    "images/giant-cone-q11309661/giant-cone-q11309661-2.jpg",
+    "images/giant-cone-q11309661/giant-cone-q11309661-3.jpg",
+    "images/giant-cone-q11309661/giant-cone-q11309661-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11309661",
+    "themealdb": null
+  }
+}
