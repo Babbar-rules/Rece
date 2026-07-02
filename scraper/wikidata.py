@@ -11,8 +11,10 @@ from .common import RateLimiter, get_json
 
 SPARQL_URL = "https://query.wikidata.org/sparql"
 
-# One page of results. We paginate with LIMIT/OFFSET to stay under the
-# 60s query timeout of the public endpoint.
+# Keyset (cursor) pagination: instead of OFFSET (which makes WDQS re-sort the
+# whole result set on every page and eventually hit the 60s timeout), we filter
+# ?dish > last-seen QID and take the next N. Cost per page stays constant, so
+# the full 10k+ crawl is reliable regardless of how deep we are.
 QUERY = """
 SELECT ?dish ?dishLabel ?dishDescription
        (SAMPLE(?image) AS ?img)
@@ -20,6 +22,7 @@ SELECT ?dish ?dishLabel ?dishDescription
        (GROUP_CONCAT(DISTINCT ?cuisineLabel; separator=" | ") AS ?cuisines)
 WHERE {
   ?dish wdt:P279* wd:Q746549 .
+  FILTER(STR(?dish) > "%s")
   OPTIONAL { ?dish wdt:P18 ?image . }
   OPTIONAL { ?dish wdt:P495 ?country . ?country rdfs:label ?countryLabel .
              FILTER(LANG(?countryLabel) = "en") }
@@ -30,8 +33,8 @@ WHERE {
              FILTER(LANG(?dishDescription) = "en") }
 }
 GROUP BY ?dish ?dishLabel ?dishDescription
-ORDER BY ?dish
-LIMIT %d OFFSET %d
+ORDER BY ASC(STR(?dish))
+LIMIT %d
 """
 
 PAGE_SIZE = 500
@@ -42,11 +45,15 @@ def _qid(uri: str) -> str:
 
 
 def iter_dishes(session):
-    """Yield dish dicts from Wikidata, paginated."""
+    """Yield dish dicts from Wikidata using keyset (cursor) pagination."""
     limiter = RateLimiter(2.0)  # be gentle to the public endpoint
-    offset = 0
+    cursor = ""                 # last-seen dish URI; "" starts from the top
+    total = 0
     while True:
-        query = QUERY % (PAGE_SIZE, offset)
+        # ORDER BY STR(?dish) and FILTER STR(?dish) > cursor use the SAME string
+        # ordering (WDQS orders bare IRIs by internal id, which would disagree),
+        # so we never skip or repeat a dish.
+        query = QUERY % (cursor, PAGE_SIZE)
         data = get_json(
             session, SPARQL_URL,
             params={"query": query, "format": "json"},
@@ -58,19 +65,22 @@ def iter_dishes(session):
         rows = data.get("results", {}).get("bindings", [])
         if not rows:
             return
+        last_uri = cursor
         for row in rows:
             def val(key):
                 return row.get(key, {}).get("value", "") or ""
 
+            last_uri = val("dish")
             countries = [c for c in val("countries").split(" | ") if c]
             cuisines = [c for c in val("cuisines").split(" | ") if c]
             yield {
-                "wikidata_id": _qid(val("dish")),
+                "wikidata_id": _qid(last_uri),
                 "name": val("dishLabel"),
                 "description": val("dishDescription"),
                 "countries": countries,          # nationality / country of origin
                 "cuisines": cuisines,            # region / cuisine
                 "wikidata_image": val("img"),    # Commons full URL (P18)
             }
-        offset += PAGE_SIZE
-        print(f"  .. Wikidata: fetched {offset} dishes so far")
+        total += len(rows)
+        cursor = last_uri
+        print(f"  .. Wikidata: fetched {total} dishes so far (cursor {_qid(cursor)})")
