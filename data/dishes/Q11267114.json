@@ -1,0 +1,18 @@
+{
+  "id": "Q11267114",
+  "name": "Goen choko",
+  "description": "Japanese coin chocolate",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goen-choko-q11267114/goen-choko-q11267114-1.jpg",
+    "images/goen-choko-q11267114/goen-choko-q11267114-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11267114",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11270244",
+  "name": "zenzai",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zenzai-q11270244/zenzai-q11270244-1.jpg",
+    "images/zenzai-q11270244/zenzai-q11270244-2.jpg",
+    "images/zenzai-q11270244/zenzai-q11270244-3.jpg",
+    "images/zenzai-q11270244/zenzai-q11270244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11270244",
+    "themealdb": null
+  }
+}

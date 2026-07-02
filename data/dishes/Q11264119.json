@@ -1,0 +1,18 @@
+{
+  "id": "Q11264119",
+  "name": "Kabura Senbei",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kabura-senbei-q11264119/kabura-senbei-q11264119-1.jpg",
+    "images/kabura-senbei-q11264119/kabura-senbei-q11264119-2.jpg",
+    "images/kabura-senbei-q11264119/kabura-senbei-q11264119-3.jpg",
+    "images/kabura-senbei-q11264119/kabura-senbei-q11264119-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264119",
+    "themealdb": null
+  }
+}

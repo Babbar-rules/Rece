@@ -1,0 +1,19 @@
+{
+  "id": "Q11274488",
+  "name": "Namie yakisoba",
+  "description": "local fried noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/namie-yakisoba-q11274488/namie-yakisoba-q11274488-1.jpg",
+    "images/namie-yakisoba-q11274488/namie-yakisoba-q11274488-2.jpg",
+    "images/namie-yakisoba-q11274488/namie-yakisoba-q11274488-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11274488",
+    "themealdb": null
+  }
+}

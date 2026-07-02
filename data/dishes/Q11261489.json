@@ -1,0 +1,18 @@
+{
+  "id": "Q11261489",
+  "name": "okoshi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okoshi-q11261489/okoshi-q11261489-1.jpg",
+    "images/okoshi-q11261489/okoshi-q11261489-2.jpg",
+    "images/okoshi-q11261489/okoshi-q11261489-3.jpg",
+    "images/okoshi-q11261489/okoshi-q11261489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261489",
+    "themealdb": null
+  }
+}

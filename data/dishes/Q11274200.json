@@ -1,0 +1,18 @@
+{
+  "id": "Q11274200",
+  "name": "Nagamochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nagamochi-q11274200/nagamochi-q11274200-1.jpg",
+    "images/nagamochi-q11274200/nagamochi-q11274200-2.jpg",
+    "images/nagamochi-q11274200/nagamochi-q11274200-3.jpg",
+    "images/nagamochi-q11274200/nagamochi-q11274200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11274200",
+    "themealdb": null
+  }
+}

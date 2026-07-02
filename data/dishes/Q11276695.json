@@ -1,0 +1,18 @@
+{
+  "id": "Q11276695",
+  "name": "Hiruzen yakisoba",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hiruzen-yakisoba-q11276695/hiruzen-yakisoba-q11276695-1.jpg",
+    "images/hiruzen-yakisoba-q11276695/hiruzen-yakisoba-q11276695-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11276695",
+    "themealdb": null
+  }
+}

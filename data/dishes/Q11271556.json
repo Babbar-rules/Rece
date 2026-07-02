@@ -1,0 +1,18 @@
+{
+  "id": "Q11271556",
+  "name": "dashimaki tamago",
+  "description": "savory rolled egg omelette",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dashimaki-tamago-q11271556/dashimaki-tamago-q11271556-1.jpg",
+    "images/dashimaki-tamago-q11271556/dashimaki-tamago-q11271556-2.jpg",
+    "images/dashimaki-tamago-q11271556/dashimaki-tamago-q11271556-3.jpg",
+    "images/dashimaki-tamago-q11271556/dashimaki-tamago-q11271556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11271556",
+    "themealdb": null
+  }
+}

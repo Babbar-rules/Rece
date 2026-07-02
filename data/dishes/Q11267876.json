@@ -1,0 +1,18 @@
+{
+  "id": "Q11267876",
+  "name": "sake chazuke",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sake-chazuke-q11267876/sake-chazuke-q11267876-1.jpg",
+    "images/sake-chazuke-q11267876/sake-chazuke-q11267876-2.jpg",
+    "images/sake-chazuke-q11267876/sake-chazuke-q11267876-3.jpg",
+    "images/sake-chazuke-q11267876/sake-chazuke-q11267876-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11267876",
+    "themealdb": null
+  }
+}

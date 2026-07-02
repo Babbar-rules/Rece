@@ -1,0 +1,18 @@
+{
+  "id": "Q11266026",
+  "name": "kenchō",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kencho-q11266026/kencho-q11266026-1.jpg",
+    "images/kencho-q11266026/kencho-q11266026-2.jpg",
+    "images/kencho-q11266026/kencho-q11266026-3.jpg",
+    "images/kencho-q11266026/kencho-q11266026-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11266026",
+    "themealdb": null
+  }
+}

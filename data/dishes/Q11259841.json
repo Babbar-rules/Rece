@@ -1,0 +1,22 @@
+{
+  "id": "Q11259841",
+  "name": "inago no tsukudani",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/inago-no-tsukudani-q11259841/inago-no-tsukudani-q11259841-1.jpg",
+    "images/inago-no-tsukudani-q11259841/inago-no-tsukudani-q11259841-2.jpg",
+    "images/inago-no-tsukudani-q11259841/inago-no-tsukudani-q11259841-3.jpg",
+    "images/inago-no-tsukudani-q11259841/inago-no-tsukudani-q11259841-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11259841",
+    "themealdb": null
+  }
+}

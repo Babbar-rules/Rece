@@ -1,0 +1,18 @@
+{
+  "id": "Q11269408",
+  "name": "Jappa jiru",
+  "description": "Japanese regional cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jappa-jiru-q11269408/jappa-jiru-q11269408-1.jpg",
+    "images/jappa-jiru-q11269408/jappa-jiru-q11269408-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11269408",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q1126275",
+  "name": "pakora",
+  "description": "piece of meat or vegetable from the Indian subcontinent",
+  "nationality": [
+    "India",
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pakora-q1126275/pakora-q1126275-1.jpg",
+    "images/pakora-q1126275/pakora-q1126275-2.jpg",
+    "images/pakora-q1126275/pakora-q1126275-3.jpg",
+    "images/pakora-q1126275/pakora-q1126275-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1126275",
+    "themealdb": null
+  }
+}

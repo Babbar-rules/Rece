@@ -1,0 +1,20 @@
+{
+  "id": "Q11269303",
+  "name": "shingorō",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shingoro-q11269303/shingoro-q11269303-1.jpg",
+    "images/shingoro-q11269303/shingoro-q11269303-2.jpg",
+    "images/shingoro-q11269303/shingoro-q11269303-3.jpg",
+    "images/shingoro-q11269303/shingoro-q11269303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11269303",
+    "themealdb": null
+  }
+}

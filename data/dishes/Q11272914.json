@@ -1,0 +1,20 @@
+{
+  "id": "Q11272914",
+  "name": "Tofu chikuwa",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-chikuwa-q11272914/tofu-chikuwa-q11272914-1.jpg",
+    "images/tofu-chikuwa-q11272914/tofu-chikuwa-q11272914-2.jpg",
+    "images/tofu-chikuwa-q11272914/tofu-chikuwa-q11272914-3.jpg",
+    "images/tofu-chikuwa-q11272914/tofu-chikuwa-q11272914-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11272914",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11268660",
+  "name": "Xavier",
+  "description": "Japanese food brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/xavier-q11268660/xavier-q11268660-1.jpg",
+    "images/xavier-q11268660/xavier-q11268660-2.jpg",
+    "images/xavier-q11268660/xavier-q11268660-3.jpg",
+    "images/xavier-q11268660/xavier-q11268660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11268660",
+    "themealdb": null
+  }
+}

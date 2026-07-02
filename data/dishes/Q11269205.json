@@ -1,0 +1,20 @@
+{
+  "id": "Q11269205",
+  "name": "shirasudon",
+  "description": "rice bowl topped with small fish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shirasudon-q11269205/shirasudon-q11269205-1.jpg",
+    "images/shirasudon-q11269205/shirasudon-q11269205-2.jpg",
+    "images/shirasudon-q11269205/shirasudon-q11269205-3.jpg",
+    "images/shirasudon-q11269205/shirasudon-q11269205-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11269205",
+    "themealdb": null
+  }
+}

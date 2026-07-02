@@ -1,0 +1,20 @@
+{
+  "id": "Q11264066",
+  "name": "kani-meshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kani-meshi-q11264066/kani-meshi-q11264066-1.jpg",
+    "images/kani-meshi-q11264066/kani-meshi-q11264066-2.jpg",
+    "images/kani-meshi-q11264066/kani-meshi-q11264066-3.jpg",
+    "images/kani-meshi-q11264066/kani-meshi-q11264066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264066",
+    "themealdb": null
+  }
+}

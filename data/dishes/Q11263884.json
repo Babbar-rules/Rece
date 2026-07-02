@@ -1,0 +1,18 @@
+{
+  "id": "Q11263884",
+  "name": "katayaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katayaki-q11263884/katayaki-q11263884-1.jpg",
+    "images/katayaki-q11263884/katayaki-q11263884-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11263884",
+    "themealdb": null
+  }
+}

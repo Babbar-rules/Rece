@@ -1,0 +1,20 @@
+{
+  "id": "Q11262023",
+  "name": "Onigiri senbei",
+  "description": "Japanese rice cracker",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/onigiri-senbei-q11262023/onigiri-senbei-q11262023-1.jpg",
+    "images/onigiri-senbei-q11262023/onigiri-senbei-q11262023-2.jpg",
+    "images/onigiri-senbei-q11262023/onigiri-senbei-q11262023-3.jpg",
+    "images/onigiri-senbei-q11262023/onigiri-senbei-q11262023-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11262023",
+    "themealdb": null
+  }
+}

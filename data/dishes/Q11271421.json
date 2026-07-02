@@ -1,0 +1,20 @@
+{
+  "id": "Q11271421",
+  "name": "tarako spaghetti",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarako-spaghetti-q11271421/tarako-spaghetti-q11271421-1.jpg",
+    "images/tarako-spaghetti-q11271421/tarako-spaghetti-q11271421-2.jpg",
+    "images/tarako-spaghetti-q11271421/tarako-spaghetti-q11271421-3.jpg",
+    "images/tarako-spaghetti-q11271421/tarako-spaghetti-q11271421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11271421",
+    "themealdb": null
+  }
+}

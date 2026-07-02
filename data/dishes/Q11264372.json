@@ -1,0 +1,20 @@
+{
+  "id": "Q11264372",
+  "name": "yudofu",
+  "description": "Japanese tofu dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yudofu-q11264372/yudofu-q11264372-1.jpg",
+    "images/yudofu-q11264372/yudofu-q11264372-2.jpg",
+    "images/yudofu-q11264372/yudofu-q11264372-3.jpg",
+    "images/yudofu-q11264372/yudofu-q11264372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264372",
+    "themealdb": null
+  }
+}

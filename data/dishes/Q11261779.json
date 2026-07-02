@@ -1,0 +1,19 @@
+{
+  "id": "Q11261779",
+  "name": "occhi di lupo",
+  "description": "type of tubular pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/occhi-di-lupo-q11261779/occhi-di-lupo-q11261779-1.jpg",
+    "images/occhi-di-lupo-q11261779/occhi-di-lupo-q11261779-2.jpg",
+    "images/occhi-di-lupo-q11261779/occhi-di-lupo-q11261779-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261779",
+    "themealdb": null
+  }
+}

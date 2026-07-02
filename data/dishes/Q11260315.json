@@ -1,0 +1,20 @@
+{
+  "id": "Q11260315",
+  "name": "uguisu an",
+  "description": "sweet green peas paste",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uguisu-an-q11260315/uguisu-an-q11260315-1.jpg",
+    "images/uguisu-an-q11260315/uguisu-an-q11260315-2.jpg",
+    "images/uguisu-an-q11260315/uguisu-an-q11260315-3.jpg",
+    "images/uguisu-an-q11260315/uguisu-an-q11260315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260315",
+    "themealdb": null
+  }
+}

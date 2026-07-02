@@ -1,0 +1,22 @@
+{
+  "id": "Q112605733",
+  "name": "Vitamin salad",
+  "description": "",
+  "nationality": [
+    "Soviet Union"
+  ],
+  "region_cuisine": [
+    "Soviet cuisine"
+  ],
+  "images": [
+    "images/vitamin-salad-q112605733/vitamin-salad-q112605733-1.jpg",
+    "images/vitamin-salad-q112605733/vitamin-salad-q112605733-2.jpg",
+    "images/vitamin-salad-q112605733/vitamin-salad-q112605733-3.jpg",
+    "images/vitamin-salad-q112605733/vitamin-salad-q112605733-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112605733",
+    "themealdb": null
+  }
+}

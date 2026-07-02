@@ -1,0 +1,20 @@
+{
+  "id": "Q11260815",
+  "name": "uruka",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uruka-q11260815/uruka-q11260815-1.jpg",
+    "images/uruka-q11260815/uruka-q11260815-2.jpg",
+    "images/uruka-q11260815/uruka-q11260815-3.jpg",
+    "images/uruka-q11260815/uruka-q11260815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260815",
+    "themealdb": null
+  }
+}

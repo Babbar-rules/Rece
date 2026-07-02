@@ -1,0 +1,18 @@
+{
+  "id": "Q11274940",
+  "name": "nure senbei",
+  "description": "soft texture rice cracker",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nure-senbei-q11274940/nure-senbei-q11274940-1.jpg",
+    "images/nure-senbei-q11274940/nure-senbei-q11274940-2.jpg",
+    "images/nure-senbei-q11274940/nure-senbei-q11274940-3.jpg",
+    "images/nure-senbei-q11274940/nure-senbei-q11274940-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11274940",
+    "themealdb": null
+  }
+}

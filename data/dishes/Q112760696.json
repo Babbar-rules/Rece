@@ -1,0 +1,18 @@
+{
+  "id": "Q112760696",
+  "name": "semiya payasam",
+  "description": "sweet dish of Kerala",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/semiya-payasam-q112760696/semiya-payasam-q112760696-1.jpg",
+    "images/semiya-payasam-q112760696/semiya-payasam-q112760696-2.jpg",
+    "images/semiya-payasam-q112760696/semiya-payasam-q112760696-3.jpg",
+    "images/semiya-payasam-q112760696/semiya-payasam-q112760696-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112760696",
+    "themealdb": null
+  }
+}

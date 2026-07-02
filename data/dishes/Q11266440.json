@@ -1,0 +1,18 @@
+{
+  "id": "Q11266440",
+  "name": "Cocco",
+  "description": "Japanese steamed cake containing milk cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cocco-q11266440/cocco-q11266440-1.jpg",
+    "images/cocco-q11266440/cocco-q11266440-2.jpg",
+    "images/cocco-q11266440/cocco-q11266440-3.jpg",
+    "images/cocco-q11266440/cocco-q11266440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11266440",
+    "themealdb": null
+  }
+}

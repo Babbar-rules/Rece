@@ -1,0 +1,17 @@
+{
+  "id": "Q11263819",
+  "name": "kasumaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kasumaki-q11263819/kasumaki-q11263819-1.jpg",
+    "images/kasumaki-q11263819/kasumaki-q11263819-2.jpg",
+    "images/kasumaki-q11263819/kasumaki-q11263819-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11263819",
+    "themealdb": null
+  }
+}

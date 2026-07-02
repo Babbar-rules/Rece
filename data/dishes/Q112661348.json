@@ -1,0 +1,22 @@
+{
+  "id": "Q112661348",
+  "name": "Hojas de parra",
+  "description": "Spanish dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/hojas-de-parra-q112661348/hojas-de-parra-q112661348-1.jpg",
+    "images/hojas-de-parra-q112661348/hojas-de-parra-q112661348-2.jpg",
+    "images/hojas-de-parra-q112661348/hojas-de-parra-q112661348-3.jpg",
+    "images/hojas-de-parra-q112661348/hojas-de-parra-q112661348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112661348",
+    "themealdb": null
+  }
+}

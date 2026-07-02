@@ -1,0 +1,18 @@
+{
+  "id": "Q11274235",
+  "name": "Nagoyan",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nagoyan-q11274235/nagoyan-q11274235-1.jpg",
+    "images/nagoyan-q11274235/nagoyan-q11274235-2.jpg",
+    "images/nagoyan-q11274235/nagoyan-q11274235-3.jpg",
+    "images/nagoyan-q11274235/nagoyan-q11274235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11274235",
+    "themealdb": null
+  }
+}

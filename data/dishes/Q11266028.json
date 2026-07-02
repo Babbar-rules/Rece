@@ -1,0 +1,20 @@
+{
+  "id": "Q11266028",
+  "name": "Kenchinjiru",
+  "description": "Japanese soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kenchinjiru-q11266028/kenchinjiru-q11266028-1.jpg",
+    "images/kenchinjiru-q11266028/kenchinjiru-q11266028-2.jpg",
+    "images/kenchinjiru-q11266028/kenchinjiru-q11266028-3.jpg",
+    "images/kenchinjiru-q11266028/kenchinjiru-q11266028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11266028",
+    "themealdb": null
+  }
+}

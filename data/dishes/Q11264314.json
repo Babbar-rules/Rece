@@ -1,0 +1,18 @@
+{
+  "id": "Q11264314",
+  "name": "karasumi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/karasumi-q11264314/karasumi-q11264314-1.jpg",
+    "images/karasumi-q11264314/karasumi-q11264314-2.jpg",
+    "images/karasumi-q11264314/karasumi-q11264314-3.jpg",
+    "images/karasumi-q11264314/karasumi-q11264314-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264314",
+    "themealdb": null
+  }
+}

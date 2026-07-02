@@ -1,0 +1,20 @@
+{
+  "id": "Q11274985",
+  "name": "negiyaki",
+  "description": "scallion pancake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/negiyaki-q11274985/negiyaki-q11274985-1.jpg",
+    "images/negiyaki-q11274985/negiyaki-q11274985-2.jpg",
+    "images/negiyaki-q11274985/negiyaki-q11274985-3.jpg",
+    "images/negiyaki-q11274985/negiyaki-q11274985-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11274985",
+    "themealdb": null
+  }
+}

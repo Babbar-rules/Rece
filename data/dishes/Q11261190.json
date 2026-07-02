@@ -1,0 +1,18 @@
+{
+  "id": "Q11261190",
+  "name": "oiri",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oiri-q11261190/oiri-q11261190-1.jpg",
+    "images/oiri-q11261190/oiri-q11261190-2.jpg",
+    "images/oiri-q11261190/oiri-q11261190-3.jpeg",
+    "images/oiri-q11261190/oiri-q11261190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261190",
+    "themealdb": null
+  }
+}

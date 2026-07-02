@@ -1,0 +1,18 @@
+{
+  "id": "Q11272509",
+  "name": "Tsuyu-yakisoba",
+  "description": "local cuisine in Aomori prefecture, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tsuyu-yakisoba-q11272509/tsuyu-yakisoba-q11272509-1.jpg",
+    "images/tsuyu-yakisoba-q11272509/tsuyu-yakisoba-q11272509-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11272509",
+    "themealdb": null
+  }
+}

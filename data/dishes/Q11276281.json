@@ -1,0 +1,18 @@
+{
+  "id": "Q11276281",
+  "name": "Hitokuchi gyoza",
+  "description": "bite-size gyoza",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hitokuchi-gyoza-q11276281/hitokuchi-gyoza-q11276281-1.jpg",
+    "images/hitokuchi-gyoza-q11276281/hitokuchi-gyoza-q11276281-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11276281",
+    "themealdb": null
+  }
+}

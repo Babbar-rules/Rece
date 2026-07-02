@@ -1,0 +1,20 @@
+{
+  "id": "Q11275959",
+  "name": "bakudandon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bakudandon-q11275959/bakudandon-q11275959-1.jpg",
+    "images/bakudandon-q11275959/bakudandon-q11275959-2.jpg",
+    "images/bakudandon-q11275959/bakudandon-q11275959-3.jpg",
+    "images/bakudandon-q11275959/bakudandon-q11275959-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11275959",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11266889",
+  "name": "komochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/komochi-q11266889/komochi-q11266889-1.jpg",
+    "images/komochi-q11266889/komochi-q11266889-2.jpg",
+    "images/komochi-q11266889/komochi-q11266889-3.jpg",
+    "images/komochi-q11266889/komochi-q11266889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11266889",
+    "themealdb": null
+  }
+}

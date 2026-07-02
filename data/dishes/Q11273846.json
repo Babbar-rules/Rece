@@ -1,0 +1,20 @@
+{
+  "id": "Q11273846",
+  "name": "doteyaki",
+  "description": "simmered beef tendon",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doteyaki-q11273846/doteyaki-q11273846-1.jpg",
+    "images/doteyaki-q11273846/doteyaki-q11273846-2.jpg",
+    "images/doteyaki-q11273846/doteyaki-q11273846-3.jpg",
+    "images/doteyaki-q11273846/doteyaki-q11273846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11273846",
+    "themealdb": null
+  }
+}

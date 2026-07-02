@@ -1,0 +1,19 @@
+{
+  "id": "Q11275835",
+  "name": "harako meshi",
+  "description": "rice bowl with cooked salmon and salmon roe",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/harako-meshi-q11275835/harako-meshi-q11275835-1.jpg",
+    "images/harako-meshi-q11275835/harako-meshi-q11275835-2.jpg",
+    "images/harako-meshi-q11275835/harako-meshi-q11275835-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11275835",
+    "themealdb": null
+  }
+}

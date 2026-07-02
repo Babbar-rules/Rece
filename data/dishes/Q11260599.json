@@ -1,0 +1,18 @@
+{
+  "id": "Q11260599",
+  "name": "Moray as food",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/moray-as-food-q11260599/moray-as-food-q11260599-1.jpg",
+    "images/moray-as-food-q11260599/moray-as-food-q11260599-2.jpg",
+    "images/moray-as-food-q11260599/moray-as-food-q11260599-3.jpg",
+    "images/moray-as-food-q11260599/moray-as-food-q11260599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260599",
+    "themealdb": null
+  }
+}

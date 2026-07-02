@@ -1,0 +1,18 @@
+{
+  "id": "Q11266228",
+  "name": "ishigoromo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ishigoromo-q11266228/ishigoromo-q11266228-1.jpg",
+    "images/ishigoromo-q11266228/ishigoromo-q11266228-2.jpg",
+    "images/ishigoromo-q11266228/ishigoromo-q11266228-3.jpg",
+    "images/ishigoromo-q11266228/ishigoromo-q11266228-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11266228",
+    "themealdb": null
+  }
+}

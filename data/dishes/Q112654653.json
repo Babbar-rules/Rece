@@ -1,0 +1,18 @@
+{
+  "id": "Q112654653",
+  "name": "McWrap",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcwrap-q112654653/mcwrap-q112654653-1.jpg",
+    "images/mcwrap-q112654653/mcwrap-q112654653-2.jpg",
+    "images/mcwrap-q112654653/mcwrap-q112654653-3.jpg",
+    "images/mcwrap-q112654653/mcwrap-q112654653-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112654653",
+    "themealdb": null
+  }
+}

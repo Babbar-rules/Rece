@@ -1,0 +1,20 @@
+{
+  "id": "Q11275191",
+  "name": "noppe",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/noppe-q11275191/noppe-q11275191-1.jpg",
+    "images/noppe-q11275191/noppe-q11275191-2.jpg",
+    "images/noppe-q11275191/noppe-q11275191-3.jpg",
+    "images/noppe-q11275191/noppe-q11275191-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11275191",
+    "themealdb": null
+  }
+}

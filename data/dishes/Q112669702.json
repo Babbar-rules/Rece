@@ -1,0 +1,18 @@
+{
+  "id": "Q112669702",
+  "name": "pepperoni pizza",
+  "description": "pizza with pepperoni toppings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pepperoni-pizza-q112669702/pepperoni-pizza-q112669702-1.jpg",
+    "images/pepperoni-pizza-q112669702/pepperoni-pizza-q112669702-2.jpg",
+    "images/pepperoni-pizza-q112669702/pepperoni-pizza-q112669702-3.jpg",
+    "images/pepperoni-pizza-q112669702/pepperoni-pizza-q112669702-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112669702",
+    "themealdb": null
+  }
+}

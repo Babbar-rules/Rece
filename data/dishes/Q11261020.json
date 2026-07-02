@@ -1,0 +1,18 @@
+{
+  "id": "Q11261020",
+  "name": "ebisu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ebisu-q11261020/ebisu-q11261020-1.jpg",
+    "images/ebisu-q11261020/ebisu-q11261020-2.jpg",
+    "images/ebisu-q11261020/ebisu-q11261020-3.jpeg",
+    "images/ebisu-q11261020/ebisu-q11261020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261020",
+    "themealdb": null
+  }
+}

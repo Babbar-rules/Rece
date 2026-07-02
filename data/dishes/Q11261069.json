@@ -1,0 +1,20 @@
+{
+  "id": "Q11261069",
+  "name": "Ebimeshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ebimeshi-q11261069/ebimeshi-q11261069-1.jpg",
+    "images/ebimeshi-q11261069/ebimeshi-q11261069-2.jpg",
+    "images/ebimeshi-q11261069/ebimeshi-q11261069-3.jpg",
+    "images/ebimeshi-q11261069/ebimeshi-q11261069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261069",
+    "themealdb": null
+  }
+}

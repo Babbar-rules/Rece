@@ -1,0 +1,19 @@
+{
+  "id": "Q11265405",
+  "name": "Kuchiko",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuchiko-q11265405/kuchiko-q11265405-1.jpg",
+    "images/kuchiko-q11265405/kuchiko-q11265405-2.jpg",
+    "images/kuchiko-q11265405/kuchiko-q11265405-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11265405",
+    "themealdb": null
+  }
+}

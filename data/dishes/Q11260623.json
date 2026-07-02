@@ -1,0 +1,16 @@
+{
+  "id": "Q11260623",
+  "name": "udon de SKY",
+  "description": "world first airline cup noodle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/udon-de-sky-q11260623/udon-de-sky-q11260623-1.jpg",
+    "images/udon-de-sky-q11260623/udon-de-sky-q11260623-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260623",
+    "themealdb": null
+  }
+}

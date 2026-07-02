@@ -1,0 +1,20 @@
+{
+  "id": "Q11276076",
+  "name": "panjū",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panju-q11276076/panju-q11276076-1.jpg",
+    "images/panju-q11276076/panju-q11276076-2.jpg",
+    "images/panju-q11276076/panju-q11276076-3.jpg",
+    "images/panju-q11276076/panju-q11276076-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11276076",
+    "themealdb": null
+  }
+}

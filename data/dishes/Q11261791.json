@@ -1,0 +1,16 @@
+{
+  "id": "Q11261791",
+  "name": "okkirikomi",
+  "description": "Japanese noodle dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okkirikomi-q11261791/okkirikomi-q11261791-1.jpg",
+    "images/okkirikomi-q11261791/okkirikomi-q11261791-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261791",
+    "themealdb": null
+  }
+}

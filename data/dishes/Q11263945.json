@@ -1,0 +1,18 @@
+{
+  "id": "Q11263945",
+  "name": "katsumeshi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/katsumeshi-q11263945/katsumeshi-q11263945-1.jpg",
+    "images/katsumeshi-q11263945/katsumeshi-q11263945-2.jpg",
+    "images/katsumeshi-q11263945/katsumeshi-q11263945-3.jpg",
+    "images/katsumeshi-q11263945/katsumeshi-q11263945-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11263945",
+    "themealdb": null
+  }
+}

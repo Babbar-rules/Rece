@@ -1,0 +1,18 @@
+{
+  "id": "Q11274144",
+  "name": "nagasaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nagasaki-q11274144/nagasaki-q11274144-1.jpg",
+    "images/nagasaki-q11274144/nagasaki-q11274144-2.jpg",
+    "images/nagasaki-q11274144/nagasaki-q11274144-3.jpg",
+    "images/nagasaki-q11274144/nagasaki-q11274144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11274144",
+    "themealdb": null
+  }
+}

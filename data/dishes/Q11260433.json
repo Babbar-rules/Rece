@@ -1,0 +1,19 @@
+{
+  "id": "Q11260433",
+  "name": "uzume meshi",
+  "description": "Japanese rice dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uzume-meshi-q11260433/uzume-meshi-q11260433-1.jpg",
+    "images/uzume-meshi-q11260433/uzume-meshi-q11260433-2.jpg",
+    "images/uzume-meshi-q11260433/uzume-meshi-q11260433-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260433",
+    "themealdb": null
+  }
+}

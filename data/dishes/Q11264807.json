@@ -1,0 +1,20 @@
+{
+  "id": "Q11264807",
+  "name": "Kizushi",
+  "description": "vinegared mackerel",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kizushi-q11264807/kizushi-q11264807-1.jpg",
+    "images/kizushi-q11264807/kizushi-q11264807-2.jpg",
+    "images/kizushi-q11264807/kizushi-q11264807-3.jpg",
+    "images/kizushi-q11264807/kizushi-q11264807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264807",
+    "themealdb": null
+  }
+}

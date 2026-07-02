@@ -1,0 +1,18 @@
+{
+  "id": "Q11267635",
+  "name": "Saga Nishiki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/saga-nishiki-q11267635/saga-nishiki-q11267635-1.jpg",
+    "images/saga-nishiki-q11267635/saga-nishiki-q11267635-2.jpg",
+    "images/saga-nishiki-q11267635/saga-nishiki-q11267635-3.jpg",
+    "images/saga-nishiki-q11267635/saga-nishiki-q11267635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11267635",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11273229",
+  "name": "Charcoal biscuit",
+  "description": "type of biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/charcoal-biscuit-q11273229/charcoal-biscuit-q11273229-1.jpg",
+    "images/charcoal-biscuit-q11273229/charcoal-biscuit-q11273229-2.jpg",
+    "images/charcoal-biscuit-q11273229/charcoal-biscuit-q11273229-3.jpg",
+    "images/charcoal-biscuit-q11273229/charcoal-biscuit-q11273229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11273229",
+    "themealdb": null
+  }
+}

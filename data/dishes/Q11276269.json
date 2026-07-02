@@ -1,0 +1,20 @@
+{
+  "id": "Q11276269",
+  "name": "hitsumabushi",
+  "description": "local cuisine from the Nagoya region of Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hitsumabushi-q11276269/hitsumabushi-q11276269-1.jpg",
+    "images/hitsumabushi-q11276269/hitsumabushi-q11276269-2.jpg",
+    "images/hitsumabushi-q11276269/hitsumabushi-q11276269-3.jpg",
+    "images/hitsumabushi-q11276269/hitsumabushi-q11276269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11276269",
+    "themealdb": null
+  }
+}

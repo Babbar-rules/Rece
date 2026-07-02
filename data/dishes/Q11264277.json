@@ -1,0 +1,20 @@
+{
+  "id": "Q11264277",
+  "name": "Kayaki",
+  "description": "grilled scallops",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kayaki-q11264277/kayaki-q11264277-1.jpg",
+    "images/kayaki-q11264277/kayaki-q11264277-2.jpg",
+    "images/kayaki-q11264277/kayaki-q11264277-3.jpg",
+    "images/kayaki-q11264277/kayaki-q11264277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264277",
+    "themealdb": null
+  }
+}

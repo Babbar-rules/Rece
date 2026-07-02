@@ -1,0 +1,20 @@
+{
+  "id": "Q11273957",
+  "name": "dondon-yaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dondon-yaki-q11273957/dondon-yaki-q11273957-1.jpg",
+    "images/dondon-yaki-q11273957/dondon-yaki-q11273957-2.jpg",
+    "images/dondon-yaki-q11273957/dondon-yaki-q11273957-3.jpg",
+    "images/dondon-yaki-q11273957/dondon-yaki-q11273957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11273957",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11261071",
+  "name": "shrimp ball",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-ball-q11261071/shrimp-ball-q11261071-1.jpg",
+    "images/shrimp-ball-q11261071/shrimp-ball-q11261071-2.png",
+    "images/shrimp-ball-q11261071/shrimp-ball-q11261071-3.jpg",
+    "images/shrimp-ball-q11261071/shrimp-ball-q11261071-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261071",
+    "themealdb": null
+  }
+}

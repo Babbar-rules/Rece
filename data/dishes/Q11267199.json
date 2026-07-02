@@ -1,0 +1,18 @@
+{
+  "id": "Q11267199",
+  "name": "godōfu",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/godofu-q11267199/godofu-q11267199-1.jpg",
+    "images/godofu-q11267199/godofu-q11267199-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11267199",
+    "themealdb": null
+  }
+}

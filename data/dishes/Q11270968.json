@@ -1,0 +1,17 @@
+{
+  "id": "Q11270968",
+  "name": "takomeshi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/takomeshi-q11270968/takomeshi-q11270968-1.jpg",
+    "images/takomeshi-q11270968/takomeshi-q11270968-2.jpg",
+    "images/takomeshi-q11270968/takomeshi-q11270968-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11270968",
+    "themealdb": null
+  }
+}

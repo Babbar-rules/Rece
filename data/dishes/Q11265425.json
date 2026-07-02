@@ -1,0 +1,18 @@
+{
+  "id": "Q11265425",
+  "name": "Kujira Mochi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kujira-mochi-q11265425/kujira-mochi-q11265425-1.jpg",
+    "images/kujira-mochi-q11265425/kujira-mochi-q11265425-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11265425",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11270472",
+  "name": "Sobameshi",
+  "description": "Fried noodles and rice",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sobameshi-q11270472/sobameshi-q11270472-1.jpg",
+    "images/sobameshi-q11270472/sobameshi-q11270472-2.jpg",
+    "images/sobameshi-q11270472/sobameshi-q11270472-3.jpg",
+    "images/sobameshi-q11270472/sobameshi-q11270472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11270472",
+    "themealdb": null
+  }
+}

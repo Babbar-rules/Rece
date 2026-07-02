@@ -1,0 +1,20 @@
+{
+  "id": "Q11265742",
+  "name": "iri-tamago",
+  "description": "Japanese scrambled eggs",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iri-tamago-q11265742/iri-tamago-q11265742-1.jpg",
+    "images/iri-tamago-q11265742/iri-tamago-q11265742-2.jpg",
+    "images/iri-tamago-q11265742/iri-tamago-q11265742-3.jpg",
+    "images/iri-tamago-q11265742/iri-tamago-q11265742-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11265742",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11271290",
+  "name": "Tabekko Dobutsu",
+  "description": "Japanese animal-shaped biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tabekko-dobutsu-q11271290/tabekko-dobutsu-q11271290-1.jpg",
+    "images/tabekko-dobutsu-q11271290/tabekko-dobutsu-q11271290-2.jpg",
+    "images/tabekko-dobutsu-q11271290/tabekko-dobutsu-q11271290-3.jpg",
+    "images/tabekko-dobutsu-q11271290/tabekko-dobutsu-q11271290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11271290",
+    "themealdb": null
+  }
+}

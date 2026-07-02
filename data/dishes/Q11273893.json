@@ -1,0 +1,18 @@
+{
+  "id": "Q11273893",
+  "name": "Doro sauce",
+  "description": "Japanese sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doro-sauce-q11273893/doro-sauce-q11273893-1.jpg",
+    "images/doro-sauce-q11273893/doro-sauce-q11273893-2.jpg",
+    "images/doro-sauce-q11273893/doro-sauce-q11273893-3.jpg",
+    "images/doro-sauce-q11273893/doro-sauce-q11273893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11273893",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q112760594",
+  "name": "payasam",
+  "description": "sweet dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/payasam-q112760594/payasam-q112760594-1.jpg",
+    "images/payasam-q112760594/payasam-q112760594-2.jpg",
+    "images/payasam-q112760594/payasam-q112760594-3.jpg",
+    "images/payasam-q112760594/payasam-q112760594-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112760594",
+    "themealdb": null
+  }
+}

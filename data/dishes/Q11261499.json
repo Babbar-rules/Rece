@@ -1,0 +1,20 @@
+{
+  "id": "Q11261499",
+  "name": "okowa",
+  "description": "Japanese steamed rice dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/okowa-q11261499/okowa-q11261499-1.jpg",
+    "images/okowa-q11261499/okowa-q11261499-2.jpg",
+    "images/okowa-q11261499/okowa-q11261499-3.jpg",
+    "images/okowa-q11261499/okowa-q11261499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261499",
+    "themealdb": null
+  }
+}

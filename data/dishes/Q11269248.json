@@ -1,0 +1,18 @@
+{
+  "id": "Q11269248",
+  "name": "Shiruko sando",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shiruko-sando-q11269248/shiruko-sando-q11269248-1.jpg",
+    "images/shiruko-sando-q11269248/shiruko-sando-q11269248-2.jpg",
+    "images/shiruko-sando-q11269248/shiruko-sando-q11269248-3.jpg",
+    "images/shiruko-sando-q11269248/shiruko-sando-q11269248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11269248",
+    "themealdb": null
+  }
+}

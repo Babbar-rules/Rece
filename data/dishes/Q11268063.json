@@ -1,0 +1,19 @@
+{
+  "id": "Q11268063",
+  "name": "Satsumaimo Caramel",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/satsumaimo-caramel-q11268063/satsumaimo-caramel-q11268063-1.jpg",
+    "images/satsumaimo-caramel-q11268063/satsumaimo-caramel-q11268063-2.jpg",
+    "images/satsumaimo-caramel-q11268063/satsumaimo-caramel-q11268063-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11268063",
+    "themealdb": null
+  }
+}

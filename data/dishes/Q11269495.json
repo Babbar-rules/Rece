@@ -1,0 +1,17 @@
+{
+  "id": "Q11269495",
+  "name": "Jiro-ame",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jiro-ame-q11269495/jiro-ame-q11269495-1.jpg",
+    "images/jiro-ame-q11269495/jiro-ame-q11269495-2.jpg",
+    "images/jiro-ame-q11269495/jiro-ame-q11269495-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11269495",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11261883",
+  "name": "Oden cans",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oden-cans-q11261883/oden-cans-q11261883-1.jpg",
+    "images/oden-cans-q11261883/oden-cans-q11261883-2.jpg",
+    "images/oden-cans-q11261883/oden-cans-q11261883-3.jpg",
+    "images/oden-cans-q11261883/oden-cans-q11261883-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261883",
+    "themealdb": null
+  }
+}

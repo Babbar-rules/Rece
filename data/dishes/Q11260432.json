@@ -1,0 +1,18 @@
+{
+  "id": "Q11260432",
+  "name": "uzumi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/uzumi-q11260432/uzumi-q11260432-1.jpg",
+    "images/uzumi-q11260432/uzumi-q11260432-2.jpg",
+    "images/uzumi-q11260432/uzumi-q11260432-3.jpg",
+    "images/uzumi-q11260432/uzumi-q11260432-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260432",
+    "themealdb": null
+  }
+}

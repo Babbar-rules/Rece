@@ -1,0 +1,16 @@
+{
+  "id": "Q11275028",
+  "name": "neko manma",
+  "description": "Japanese soup rice named \"cat's rice\" because of its appearance",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/neko-manma-q11275028/neko-manma-q11275028-1.jpg",
+    "images/neko-manma-q11275028/neko-manma-q11275028-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11275028",
+    "themealdb": null
+  }
+}

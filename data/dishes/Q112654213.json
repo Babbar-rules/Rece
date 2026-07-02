@@ -1,0 +1,18 @@
+{
+  "id": "Q112654213",
+  "name": "Crispy Chicken (Burger King)",
+  "description": "chickenburger sold by Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crispy-chicken-burger-king-q112654213/crispy-chicken-burger-king-q112654213-1.jpg",
+    "images/crispy-chicken-burger-king-q112654213/crispy-chicken-burger-king-q112654213-2.jpg",
+    "images/crispy-chicken-burger-king-q112654213/crispy-chicken-burger-king-q112654213-3.jpg",
+    "images/crispy-chicken-burger-king-q112654213/crispy-chicken-burger-king-q112654213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112654213",
+    "themealdb": null
+  }
+}

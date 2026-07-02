@@ -1,0 +1,18 @@
+{
+  "id": "Q11264120",
+  "name": "kabura-zushi",
+  "description": "style of sushi made with turnip",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kabura-zushi-q11264120/kabura-zushi-q11264120-1.jpg",
+    "images/kabura-zushi-q11264120/kabura-zushi-q11264120-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264120",
+    "themealdb": null
+  }
+}

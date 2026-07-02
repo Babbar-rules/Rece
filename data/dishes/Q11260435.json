@@ -1,0 +1,20 @@
+{
+  "id": "Q11260435",
+  "name": "uzumaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uzumaki-q11260435/uzumaki-q11260435-1.jpg",
+    "images/uzumaki-q11260435/uzumaki-q11260435-2.jpg",
+    "images/uzumaki-q11260435/uzumaki-q11260435-3.jpg",
+    "images/uzumaki-q11260435/uzumaki-q11260435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11260435",
+    "themealdb": null
+  }
+}

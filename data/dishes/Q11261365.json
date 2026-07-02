@@ -1,0 +1,18 @@
+{
+  "id": "Q11261365",
+  "name": "okaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okaki-q11261365/okaki-q11261365-1.jpg",
+    "images/okaki-q11261365/okaki-q11261365-2.jpg",
+    "images/okaki-q11261365/okaki-q11261365-3.jpg",
+    "images/okaki-q11261365/okaki-q11261365-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11261365",
+    "themealdb": null
+  }
+}

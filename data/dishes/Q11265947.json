@@ -1,0 +1,18 @@
+{
+  "id": "Q11265947",
+  "name": "kenoshiru",
+  "description": "soup specialty of Aomori, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kenoshiru-q11265947/kenoshiru-q11265947-1.jpg",
+    "images/kenoshiru-q11265947/kenoshiru-q11265947-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11265947",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11273150",
+  "name": "Tokoroten",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tokoroten-q11273150/tokoroten-q11273150-1.jpg",
+    "images/tokoroten-q11273150/tokoroten-q11273150-2.jpg",
+    "images/tokoroten-q11273150/tokoroten-q11273150-3.jpg",
+    "images/tokoroten-q11273150/tokoroten-q11273150-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11273150",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11263643",
+  "name": "kake soba",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kake-soba-q11263643/kake-soba-q11263643-1.jpg",
+    "images/kake-soba-q11263643/kake-soba-q11263643-2.jpg",
+    "images/kake-soba-q11263643/kake-soba-q11263643-3.jpg",
+    "images/kake-soba-q11263643/kake-soba-q11263643-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11263643",
+    "themealdb": null
+  }
+}

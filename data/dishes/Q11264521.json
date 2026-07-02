@@ -1,0 +1,18 @@
+{
+  "id": "Q11264521",
+  "name": "kankoromochi",
+  "description": "confection from Nagasaki Prefecture",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kankoromochi-q11264521/kankoromochi-q11264521-1.jpg",
+    "images/kankoromochi-q11264521/kankoromochi-q11264521-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11264521",
+    "themealdb": null
+  }
+}
