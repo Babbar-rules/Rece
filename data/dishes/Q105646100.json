@@ -1,0 +1,18 @@
+{
+  "id": "Q105646100",
+  "name": "Rotweinbrot",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rotweinbrot-q105646100/rotweinbrot-q105646100-1.jpg",
+    "images/rotweinbrot-q105646100/rotweinbrot-q105646100-2.jpg",
+    "images/rotweinbrot-q105646100/rotweinbrot-q105646100-3.jpg",
+    "images/rotweinbrot-q105646100/rotweinbrot-q105646100-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105646100",
+    "themealdb": null
+  }
+}

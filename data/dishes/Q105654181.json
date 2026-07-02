@@ -1,0 +1,18 @@
+{
+  "id": "Q105654181",
+  "name": "Hyderabadi chicken biryani",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hyderabadi-chicken-biryani-q105654181/hyderabadi-chicken-biryani-q105654181-1.jpg",
+    "images/hyderabadi-chicken-biryani-q105654181/hyderabadi-chicken-biryani-q105654181-2.jpg",
+    "images/hyderabadi-chicken-biryani-q105654181/hyderabadi-chicken-biryani-q105654181-3.jpg",
+    "images/hyderabadi-chicken-biryani-q105654181/hyderabadi-chicken-biryani-q105654181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105654181",
+    "themealdb": null
+  }
+}

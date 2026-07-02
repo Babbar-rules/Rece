@@ -1,0 +1,18 @@
+{
+  "id": "Q104668032",
+  "name": "cured pork",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cured-pork-q104668032/cured-pork-q104668032-1.jpg",
+    "images/cured-pork-q104668032/cured-pork-q104668032-2.jpg",
+    "images/cured-pork-q104668032/cured-pork-q104668032-3.jpg",
+    "images/cured-pork-q104668032/cured-pork-q104668032-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104668032",
+    "themealdb": null
+  }
+}

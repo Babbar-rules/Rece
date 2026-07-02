@@ -1,0 +1,18 @@
+{
+  "id": "Q10545500",
+  "name": "Kina",
+  "description": "brand of candies by Fazer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kina-q10545500/kina-q10545500-1.jpg",
+    "images/kina-q10545500/kina-q10545500-2.jpg",
+    "images/kina-q10545500/kina-q10545500-3.jpg",
+    "images/kina-q10545500/kina-q10545500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10545500",
+    "themealdb": null
+  }
+}

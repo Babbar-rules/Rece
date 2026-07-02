@@ -1,0 +1,20 @@
+{
+  "id": "Q104852303",
+  "name": "Spicy tuna roll",
+  "description": "sushi roll",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spicy-tuna-roll-q104852303/spicy-tuna-roll-q104852303-1.jpg",
+    "images/spicy-tuna-roll-q104852303/spicy-tuna-roll-q104852303-2.jpg",
+    "images/spicy-tuna-roll-q104852303/spicy-tuna-roll-q104852303-3.jpg",
+    "images/spicy-tuna-roll-q104852303/spicy-tuna-roll-q104852303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104852303",
+    "themealdb": null
+  }
+}

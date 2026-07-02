@@ -1,0 +1,18 @@
+{
+  "id": "Q105643832",
+  "name": "Chiabattini",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chiabattini-q105643832/chiabattini-q105643832-1.jpg",
+    "images/chiabattini-q105643832/chiabattini-q105643832-2.jpg",
+    "images/chiabattini-q105643832/chiabattini-q105643832-3.jpg",
+    "images/chiabattini-q105643832/chiabattini-q105643832-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105643832",
+    "themealdb": null
+  }
+}

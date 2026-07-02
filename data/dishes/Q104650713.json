@@ -1,0 +1,18 @@
+{
+  "id": "Q104650713",
+  "name": "kardemummabulle",
+  "description": "sweet roll prepared with cardamom",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kardemummabulle-q104650713/kardemummabulle-q104650713-1.jpg",
+    "images/kardemummabulle-q104650713/kardemummabulle-q104650713-2.jpg",
+    "images/kardemummabulle-q104650713/kardemummabulle-q104650713-3.jpg",
+    "images/kardemummabulle-q104650713/kardemummabulle-q104650713-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104650713",
+    "themealdb": null
+  }
+}

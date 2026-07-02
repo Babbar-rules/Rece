@@ -1,0 +1,20 @@
+{
+  "id": "Q1051265",
+  "name": "instant noodles",
+  "description": "noodles sold in a precooked and dried block with flavoring",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/instant-noodles-q1051265/instant-noodles-q1051265-1.jpg",
+    "images/instant-noodles-q1051265/instant-noodles-q1051265-2.jpg",
+    "images/instant-noodles-q1051265/instant-noodles-q1051265-3.jpg",
+    "images/instant-noodles-q1051265/instant-noodles-q1051265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1051265",
+    "themealdb": null
+  }
+}

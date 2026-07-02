@@ -1,0 +1,22 @@
+{
+  "id": "Q105535632",
+  "name": "Rendang jariang",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rendang-jariang-q105535632/rendang-jariang-q105535632-1.jpg",
+    "images/rendang-jariang-q105535632/rendang-jariang-q105535632-2.jpg",
+    "images/rendang-jariang-q105535632/rendang-jariang-q105535632-3.jpg",
+    "images/rendang-jariang-q105535632/rendang-jariang-q105535632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105535632",
+    "themealdb": null
+  }
+}

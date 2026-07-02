@@ -1,0 +1,22 @@
+{
+  "id": "Q10523680",
+  "name": "Se-lóo-bah",
+  "description": "yilan, Taiwan specialty thick soup with shredded pork and vegetables",
+  "nationality": [
+    "Yilan County"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/se-loo-bah-q10523680/se-loo-bah-q10523680-1.jpg",
+    "images/se-loo-bah-q10523680/se-loo-bah-q10523680-2.jpg",
+    "images/se-loo-bah-q10523680/se-loo-bah-q10523680-3.jpg",
+    "images/se-loo-bah-q10523680/se-loo-bah-q10523680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10523680",
+    "themealdb": null
+  }
+}

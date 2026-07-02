@@ -1,0 +1,20 @@
+{
+  "id": "Q10566528",
+  "name": "Kahk",
+  "description": "small circular biscuit that originated in Egypt",
+  "nationality": [
+    "Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kahk-q10566528/kahk-q10566528-1.jpg",
+    "images/kahk-q10566528/kahk-q10566528-2.jpg",
+    "images/kahk-q10566528/kahk-q10566528-3.jpg",
+    "images/kahk-q10566528/kahk-q10566528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10566528",
+    "themealdb": null
+  }
+}

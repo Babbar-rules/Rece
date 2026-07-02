@@ -1,0 +1,21 @@
+{
+  "id": "Q105542530",
+  "name": "kerupuk puli",
+  "description": "rice cracker from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kerupuk-puli-q105542530/kerupuk-puli-q105542530-1.jpg",
+    "images/kerupuk-puli-q105542530/kerupuk-puli-q105542530-2.jpg",
+    "images/kerupuk-puli-q105542530/kerupuk-puli-q105542530-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105542530",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10540862",
+  "name": "strawberry cake",
+  "description": "cake typically made with strawberries and cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-cake-q10540862/strawberry-cake-q10540862-1.jpg",
+    "images/strawberry-cake-q10540862/strawberry-cake-q10540862-2.jpg",
+    "images/strawberry-cake-q10540862/strawberry-cake-q10540862-3.jpg",
+    "images/strawberry-cake-q10540862/strawberry-cake-q10540862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10540862",
+    "themealdb": null
+  }
+}

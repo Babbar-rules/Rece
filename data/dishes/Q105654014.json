@@ -1,0 +1,18 @@
+{
+  "id": "Q105654014",
+  "name": "besan laddu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/besan-laddu-q105654014/besan-laddu-q105654014-1.jpg",
+    "images/besan-laddu-q105654014/besan-laddu-q105654014-2.jpg",
+    "images/besan-laddu-q105654014/besan-laddu-q105654014-3.jpg",
+    "images/besan-laddu-q105654014/besan-laddu-q105654014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105654014",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q105528183",
+  "name": "selada bangka",
+  "description": "a typical Bangka dish made from tofu with a splash of peanut sauce",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/selada-bangka-q105528183/selada-bangka-q105528183-1.jpg",
+    "images/selada-bangka-q105528183/selada-bangka-q105528183-2.jpg",
+    "images/selada-bangka-q105528183/selada-bangka-q105528183-3.jpg",
+    "images/selada-bangka-q105528183/selada-bangka-q105528183-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105528183",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1055940",
+  "name": "mozzarella stick",
+  "description": "U.S. dish of elongated pieces of deep-fried battered or breaded mozzarella",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/mozzarella-stick-q1055940/mozzarella-stick-q1055940-1.jpg",
+    "images/mozzarella-stick-q1055940/mozzarella-stick-q1055940-2.jpg",
+    "images/mozzarella-stick-q1055940/mozzarella-stick-q1055940-3.jpg",
+    "images/mozzarella-stick-q1055940/mozzarella-stick-q1055940-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1055940",
+    "themealdb": null
+  }
+}

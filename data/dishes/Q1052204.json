@@ -1,0 +1,22 @@
+{
+  "id": "Q1052204",
+  "name": "shengjian mantou",
+  "description": "A type of small, pan-fried baozi (steamed buns) which is a specialty of Shanghai",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/shengjian-mantou-q1052204/shengjian-mantou-q1052204-1.jpg",
+    "images/shengjian-mantou-q1052204/shengjian-mantou-q1052204-2.jpg",
+    "images/shengjian-mantou-q1052204/shengjian-mantou-q1052204-3.jpg",
+    "images/shengjian-mantou-q1052204/shengjian-mantou-q1052204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1052204",
+    "themealdb": null
+  }
+}

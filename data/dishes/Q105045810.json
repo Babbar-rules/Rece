@@ -1,0 +1,18 @@
+{
+  "id": "Q105045810",
+  "name": "soy burger",
+  "description": "burger-like soy patty",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-burger-q105045810/soy-burger-q105045810-1.jpg",
+    "images/soy-burger-q105045810/soy-burger-q105045810-2.jpg",
+    "images/soy-burger-q105045810/soy-burger-q105045810-3.jpg",
+    "images/soy-burger-q105045810/soy-burger-q105045810-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105045810",
+    "themealdb": null
+  }
+}

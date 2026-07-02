@@ -1,0 +1,22 @@
+{
+  "id": "Q105006109",
+  "name": "Zhavoronki",
+  "description": "ceremonial holiday cookies in the form of birds",
+  "nationality": [
+    "Russia",
+    "Belarus",
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zhavoronki-q105006109/zhavoronki-q105006109-1.jpg",
+    "images/zhavoronki-q105006109/zhavoronki-q105006109-2.jpg",
+    "images/zhavoronki-q105006109/zhavoronki-q105006109-3.jpg",
+    "images/zhavoronki-q105006109/zhavoronki-q105006109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105006109",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10498613",
+  "name": "French roll",
+  "description": "type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/french-roll-q10498613/french-roll-q10498613-1.jpg",
+    "images/french-roll-q10498613/french-roll-q10498613-2.jpg",
+    "images/french-roll-q10498613/french-roll-q10498613-3.jpg",
+    "images/french-roll-q10498613/french-roll-q10498613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10498613",
+    "themealdb": null
+  }
+}

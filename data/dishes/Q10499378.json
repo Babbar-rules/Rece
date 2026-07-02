@@ -1,0 +1,21 @@
+{
+  "id": "Q10499378",
+  "name": "taro purée",
+  "description": "Chinese dessert",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taro-puree-q10499378/taro-puree-q10499378-1.jpg",
+    "images/taro-puree-q10499378/taro-puree-q10499378-2.jpg",
+    "images/taro-puree-q10499378/taro-puree-q10499378-3.jpg",
+    "images/taro-puree-q10499378/taro-puree-q10499378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10499378",
+    "themealdb": null
+  }
+}

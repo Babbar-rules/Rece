@@ -1,0 +1,18 @@
+{
+  "id": "Q104829714",
+  "name": "putugal",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/putugal-q104829714/putugal-q104829714-1.jpg",
+    "images/putugal-q104829714/putugal-q104829714-2.jpg",
+    "images/putugal-q104829714/putugal-q104829714-3.jpg",
+    "images/putugal-q104829714/putugal-q104829714-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104829714",
+    "themealdb": null
+  }
+}

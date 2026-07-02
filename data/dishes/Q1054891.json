@@ -1,0 +1,20 @@
+{
+  "id": "Q1054891",
+  "name": "Laobing",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laobing-q1054891/laobing-q1054891-1.jpg",
+    "images/laobing-q1054891/laobing-q1054891-2.jpg",
+    "images/laobing-q1054891/laobing-q1054891-3.jpg",
+    "images/laobing-q1054891/laobing-q1054891-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1054891",
+    "themealdb": null
+  }
+}

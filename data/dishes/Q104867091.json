@@ -1,0 +1,18 @@
+{
+  "id": "Q104867091",
+  "name": "Rally",
+  "description": "candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rally-q104867091/rally-q104867091-1.jpg",
+    "images/rally-q104867091/rally-q104867091-2.jpg",
+    "images/rally-q104867091/rally-q104867091-3.jpg",
+    "images/rally-q104867091/rally-q104867091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104867091",
+    "themealdb": null
+  }
+}

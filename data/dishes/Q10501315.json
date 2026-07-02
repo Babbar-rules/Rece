@@ -1,0 +1,22 @@
+{
+  "id": "Q10501315",
+  "name": "Suzhou-style noodles",
+  "description": "noodle soup originated from Suzhou",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/suzhou-style-noodles-q10501315/suzhou-style-noodles-q10501315-1.jpg",
+    "images/suzhou-style-noodles-q10501315/suzhou-style-noodles-q10501315-2.jpg",
+    "images/suzhou-style-noodles-q10501315/suzhou-style-noodles-q10501315-3.jpg",
+    "images/suzhou-style-noodles-q10501315/suzhou-style-noodles-q10501315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10501315",
+    "themealdb": null
+  }
+}

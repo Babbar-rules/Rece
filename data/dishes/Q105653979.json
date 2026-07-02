@@ -1,0 +1,18 @@
+{
+  "id": "Q105653979",
+  "name": "Boondi laddu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boondi-laddu-q105653979/boondi-laddu-q105653979-1.jpg",
+    "images/boondi-laddu-q105653979/boondi-laddu-q105653979-2.jpg",
+    "images/boondi-laddu-q105653979/boondi-laddu-q105653979-3.jpg",
+    "images/boondi-laddu-q105653979/boondi-laddu-q105653979-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105653979",
+    "themealdb": null
+  }
+}

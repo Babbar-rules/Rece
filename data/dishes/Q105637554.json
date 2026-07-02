@@ -1,0 +1,18 @@
+{
+  "id": "Q105637554",
+  "name": "Aztec",
+  "description": "chocolate bar by Cadbury's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aztec-q105637554/aztec-q105637554-1.jpg",
+    "images/aztec-q105637554/aztec-q105637554-2.jpg",
+    "images/aztec-q105637554/aztec-q105637554-3.jpg",
+    "images/aztec-q105637554/aztec-q105637554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105637554",
+    "themealdb": null
+  }
+}

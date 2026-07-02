@@ -1,0 +1,20 @@
+{
+  "id": "Q105485736",
+  "name": "bubur sada",
+  "description": "Gorontalo typical porridge prepared from mashed corn",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bubur-sada-q105485736/bubur-sada-q105485736-1.jpg",
+    "images/bubur-sada-q105485736/bubur-sada-q105485736-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105485736",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q104691076",
+  "name": "Indigirka salad",
+  "description": "Yakut fish salad",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/indigirka-salad-q104691076/indigirka-salad-q104691076-1.jpg",
+    "images/indigirka-salad-q104691076/indigirka-salad-q104691076-2.png",
+    "images/indigirka-salad-q104691076/indigirka-salad-q104691076-3.jpg",
+    "images/indigirka-salad-q104691076/indigirka-salad-q104691076-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104691076",
+    "themealdb": null
+  }
+}

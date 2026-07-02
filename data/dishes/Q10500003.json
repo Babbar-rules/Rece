@@ -1,0 +1,18 @@
+{
+  "id": "Q10500003",
+  "name": "Cuttlefish geng",
+  "description": "Taiwanese signature thick soup dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cuttlefish-geng-q10500003/cuttlefish-geng-q10500003-1.jpg",
+    "images/cuttlefish-geng-q10500003/cuttlefish-geng-q10500003-2.jpg",
+    "images/cuttlefish-geng-q10500003/cuttlefish-geng-q10500003-3.jpg",
+    "images/cuttlefish-geng-q10500003/cuttlefish-geng-q10500003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10500003",
+    "themealdb": null
+  }
+}

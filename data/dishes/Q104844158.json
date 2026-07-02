@@ -1,0 +1,20 @@
+{
+  "id": "Q104844158",
+  "name": "sushi burrito",
+  "description": "type of Japanese-American fusion cuisine",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sushi-burrito-q104844158/sushi-burrito-q104844158-1.jpg",
+    "images/sushi-burrito-q104844158/sushi-burrito-q104844158-2.jpg",
+    "images/sushi-burrito-q104844158/sushi-burrito-q104844158-3.jpg",
+    "images/sushi-burrito-q104844158/sushi-burrito-q104844158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104844158",
+    "themealdb": null
+  }
+}

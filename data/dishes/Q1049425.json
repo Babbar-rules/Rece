@@ -1,0 +1,22 @@
+{
+  "id": "Q1049425",
+  "name": "kısır",
+  "description": "meze and teatime dish from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Kurdish cuisine"
+  ],
+  "images": [
+    "images/ksr-q1049425/ksr-q1049425-1.jpg",
+    "images/ksr-q1049425/ksr-q1049425-2.jpg",
+    "images/ksr-q1049425/ksr-q1049425-3.jpg",
+    "images/ksr-q1049425/ksr-q1049425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1049425",
+    "themealdb": null
+  }
+}

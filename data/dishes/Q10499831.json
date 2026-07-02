@@ -1,0 +1,22 @@
+{
+  "id": "Q10499831",
+  "name": "Fugazza",
+  "description": "Argentine pizza variety",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/fugazza-q10499831/fugazza-q10499831-1.jpg",
+    "images/fugazza-q10499831/fugazza-q10499831-2.jpg",
+    "images/fugazza-q10499831/fugazza-q10499831-3.jpg",
+    "images/fugazza-q10499831/fugazza-q10499831-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10499831",
+    "themealdb": null
+  }
+}

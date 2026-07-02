@@ -1,0 +1,20 @@
+{
+  "id": "Q1049501",
+  "name": "Extra",
+  "description": "brand of chewing gum",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/extra-q1049501/extra-q1049501-1.jpg",
+    "images/extra-q1049501/extra-q1049501-2.jpg",
+    "images/extra-q1049501/extra-q1049501-3.jpg",
+    "images/extra-q1049501/extra-q1049501-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1049501",
+    "themealdb": null
+  }
+}

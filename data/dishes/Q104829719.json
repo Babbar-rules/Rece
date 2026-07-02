@@ -1,0 +1,18 @@
+{
+  "id": "Q104829719",
+  "name": "Sugee cake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugee-cake-q104829719/sugee-cake-q104829719-1.jpg",
+    "images/sugee-cake-q104829719/sugee-cake-q104829719-2.jpg",
+    "images/sugee-cake-q104829719/sugee-cake-q104829719-3.jpg",
+    "images/sugee-cake-q104829719/sugee-cake-q104829719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104829719",
+    "themealdb": null
+  }
+}

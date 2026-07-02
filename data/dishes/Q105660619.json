@@ -1,0 +1,18 @@
+{
+  "id": "Q105660619",
+  "name": "Oat pulp cookie",
+  "description": "type of cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oat-pulp-cookie-q105660619/oat-pulp-cookie-q105660619-1.jpg",
+    "images/oat-pulp-cookie-q105660619/oat-pulp-cookie-q105660619-2.jpg",
+    "images/oat-pulp-cookie-q105660619/oat-pulp-cookie-q105660619-3.jpg",
+    "images/oat-pulp-cookie-q105660619/oat-pulp-cookie-q105660619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105660619",
+    "themealdb": null
+  }
+}

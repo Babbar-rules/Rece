@@ -1,0 +1,18 @@
+{
+  "id": "Q10477006",
+  "name": "queen's jam",
+  "description": "jam made of raspberry and bilberry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/queens-jam-q10477006/queens-jam-q10477006-1.jpg",
+    "images/queens-jam-q10477006/queens-jam-q10477006-2.jpg",
+    "images/queens-jam-q10477006/queens-jam-q10477006-3.jpg",
+    "images/queens-jam-q10477006/queens-jam-q10477006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10477006",
+    "themealdb": null
+  }
+}

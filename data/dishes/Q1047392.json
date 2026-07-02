@@ -1,0 +1,20 @@
+{
+  "id": "Q1047392",
+  "name": "hot dog bun",
+  "description": "type of bread roll",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-dog-bun-q1047392/hot-dog-bun-q1047392-1.jpg",
+    "images/hot-dog-bun-q1047392/hot-dog-bun-q1047392-2.jpg",
+    "images/hot-dog-bun-q1047392/hot-dog-bun-q1047392-3.jpg",
+    "images/hot-dog-bun-q1047392/hot-dog-bun-q1047392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1047392",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q105318869",
+  "name": "hot dish",
+  "description": "food dish that is typically served hot or warm",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-dish-q105318869/hot-dish-q105318869-1.jpg",
+    "images/hot-dish-q105318869/hot-dish-q105318869-2.jpg",
+    "images/hot-dish-q105318869/hot-dish-q105318869-3.jpg",
+    "images/hot-dish-q105318869/hot-dish-q105318869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105318869",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1047978",
+  "name": "chakhokhbili",
+  "description": "Georgian dish",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/chakhokhbili-q1047978/chakhokhbili-q1047978-1.jpg",
+    "images/chakhokhbili-q1047978/chakhokhbili-q1047978-2.jpg",
+    "images/chakhokhbili-q1047978/chakhokhbili-q1047978-3.png",
+    "images/chakhokhbili-q1047978/chakhokhbili-q1047978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1047978",
+    "themealdb": null
+  }
+}

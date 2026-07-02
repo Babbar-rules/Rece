@@ -1,0 +1,22 @@
+{
+  "id": "Q105612974",
+  "name": "pempek lenjer",
+  "description": "variant of pempek",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pempek-lenjer-q105612974/pempek-lenjer-q105612974-1.jpg",
+    "images/pempek-lenjer-q105612974/pempek-lenjer-q105612974-2.jpg",
+    "images/pempek-lenjer-q105612974/pempek-lenjer-q105612974-3.jpg",
+    "images/pempek-lenjer-q105612974/pempek-lenjer-q105612974-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105612974",
+    "themealdb": null
+  }
+}

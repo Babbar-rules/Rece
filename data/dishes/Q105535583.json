@@ -1,0 +1,21 @@
+{
+  "id": "Q105535583",
+  "name": "rendang maco",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rendang-maco-q105535583/rendang-maco-q105535583-1.jpg",
+    "images/rendang-maco-q105535583/rendang-maco-q105535583-2.jpg",
+    "images/rendang-maco-q105535583/rendang-maco-q105535583-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105535583",
+    "themealdb": null
+  }
+}

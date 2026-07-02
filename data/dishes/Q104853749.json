@@ -1,0 +1,18 @@
+{
+  "id": "Q104853749",
+  "name": "Wigg",
+  "description": "type of cake in English cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wigg-q104853749/wigg-q104853749-1.jpg",
+    "images/wigg-q104853749/wigg-q104853749-2.jpg",
+    "images/wigg-q104853749/wigg-q104853749-3.jpg",
+    "images/wigg-q104853749/wigg-q104853749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104853749",
+    "themealdb": null
+  }
+}

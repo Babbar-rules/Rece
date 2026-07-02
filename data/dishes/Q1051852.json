@@ -1,0 +1,20 @@
+{
+  "id": "Q1051852",
+  "name": "Sōki",
+  "description": "Japanese pork dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Okinawan cuisine"
+  ],
+  "images": [
+    "images/soki-q1051852/soki-q1051852-1.jpg",
+    "images/soki-q1051852/soki-q1051852-2.jpg",
+    "images/soki-q1051852/soki-q1051852-3.jpg",
+    "images/soki-q1051852/soki-q1051852-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1051852",
+    "themealdb": null
+  }
+}

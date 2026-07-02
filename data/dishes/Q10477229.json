@@ -1,0 +1,18 @@
+{
+  "id": "Q10477229",
+  "name": "dream",
+  "description": "Swedish cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dream-q10477229/dream-q10477229-1.jpg",
+    "images/dream-q10477229/dream-q10477229-2.jpg",
+    "images/dream-q10477229/dream-q10477229-3.png",
+    "images/dream-q10477229/dream-q10477229-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10477229",
+    "themealdb": null
+  }
+}

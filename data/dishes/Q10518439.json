@@ -1,0 +1,22 @@
+{
+  "id": "Q10518439",
+  "name": "Hasselback potatoes",
+  "description": "Swedish potato dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/hasselback-potatoes-q10518439/hasselback-potatoes-q10518439-1.jpg",
+    "images/hasselback-potatoes-q10518439/hasselback-potatoes-q10518439-2.jpg",
+    "images/hasselback-potatoes-q10518439/hasselback-potatoes-q10518439-3.jpg",
+    "images/hasselback-potatoes-q10518439/hasselback-potatoes-q10518439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10518439",
+    "themealdb": null
+  }
+}

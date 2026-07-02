@@ -1,0 +1,20 @@
+{
+  "id": "Q105501273",
+  "name": "sengkuang",
+  "description": "typical Palembang food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sengkuang-q105501273/sengkuang-q105501273-1.png",
+    "images/sengkuang-q105501273/sengkuang-q105501273-2.jpg",
+    "images/sengkuang-q105501273/sengkuang-q105501273-3.jpg",
+    "images/sengkuang-q105501273/sengkuang-q105501273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105501273",
+    "themealdb": null
+  }
+}

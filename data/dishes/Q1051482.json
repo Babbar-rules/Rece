@@ -1,0 +1,20 @@
+{
+  "id": "Q1051482",
+  "name": "dorayaki",
+  "description": "baked red bean cake in Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dorayaki-q1051482/dorayaki-q1051482-1.jpg",
+    "images/dorayaki-q1051482/dorayaki-q1051482-2.jpg",
+    "images/dorayaki-q1051482/dorayaki-q1051482-3.jpg",
+    "images/dorayaki-q1051482/dorayaki-q1051482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1051482",
+    "themealdb": null
+  }
+}

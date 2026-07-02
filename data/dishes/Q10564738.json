@@ -1,0 +1,20 @@
+{
+  "id": "Q10564738",
+  "name": "Mending roubing",
+  "description": "beef pie of Beijing",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mending-roubing-q10564738/mending-roubing-q10564738-1.jpg",
+    "images/mending-roubing-q10564738/mending-roubing-q10564738-2.jpg",
+    "images/mending-roubing-q10564738/mending-roubing-q10564738-3.jpg",
+    "images/mending-roubing-q10564738/mending-roubing-q10564738-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10564738",
+    "themealdb": null
+  }
+}

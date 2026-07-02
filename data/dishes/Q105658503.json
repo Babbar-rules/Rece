@@ -1,0 +1,18 @@
+{
+  "id": "Q105658503",
+  "name": "Postor kaliya",
+  "description": "Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/postor-kaliya-q105658503/postor-kaliya-q105658503-1.jpg",
+    "images/postor-kaliya-q105658503/postor-kaliya-q105658503-2.jpg",
+    "images/postor-kaliya-q105658503/postor-kaliya-q105658503-3.jpg",
+    "images/postor-kaliya-q105658503/postor-kaliya-q105658503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105658503",
+    "themealdb": null
+  }
+}

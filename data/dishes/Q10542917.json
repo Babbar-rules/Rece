@@ -1,0 +1,20 @@
+{
+  "id": "Q10542917",
+  "name": "kalops",
+  "description": "Swedish beef stew",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalops-q10542917/kalops-q10542917-1.jpg",
+    "images/kalops-q10542917/kalops-q10542917-2.jpg",
+    "images/kalops-q10542917/kalops-q10542917-3.jpg",
+    "images/kalops-q10542917/kalops-q10542917-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10542917",
+    "themealdb": null
+  }
+}

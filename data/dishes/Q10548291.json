@@ -1,0 +1,22 @@
+{
+  "id": "Q10548291",
+  "name": "sausage stroganoff",
+  "description": "Swedish version of beef Stroganoff",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/sausage-stroganoff-q10548291/sausage-stroganoff-q10548291-1.jpg",
+    "images/sausage-stroganoff-q10548291/sausage-stroganoff-q10548291-2.jpg",
+    "images/sausage-stroganoff-q10548291/sausage-stroganoff-q10548291-3.jpg",
+    "images/sausage-stroganoff-q10548291/sausage-stroganoff-q10548291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10548291",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1055395",
+  "name": "trofie",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trofie-q1055395/trofie-q1055395-1.jpg",
+    "images/trofie-q1055395/trofie-q1055395-2.jpg",
+    "images/trofie-q1055395/trofie-q1055395-3.jpg",
+    "images/trofie-q1055395/trofie-q1055395-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1055395",
+    "themealdb": null
+  }
+}

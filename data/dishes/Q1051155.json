@@ -1,0 +1,22 @@
+{
+  "id": "Q1051155",
+  "name": "frittata",
+  "description": "dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/frittata-q1051155/frittata-q1051155-1.jpg",
+    "images/frittata-q1051155/frittata-q1051155-2.jpg",
+    "images/frittata-q1051155/frittata-q1051155-3.jpg",
+    "images/frittata-q1051155/frittata-q1051155-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1051155",
+    "themealdb": null
+  }
+}

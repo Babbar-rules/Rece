@@ -1,0 +1,20 @@
+{
+  "id": "Q105429471",
+  "name": "chogyetang",
+  "description": "",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "North Korean cuisine"
+  ],
+  "images": [
+    "images/chogyetang-q105429471/chogyetang-q105429471-1.jpg",
+    "images/chogyetang-q105429471/chogyetang-q105429471-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105429471",
+    "themealdb": null
+  }
+}

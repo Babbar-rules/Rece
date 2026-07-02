@@ -1,0 +1,20 @@
+{
+  "id": "Q105499976",
+  "name": "bulung putih",
+  "description": "Bali's famous \"bulung\" or seaweed salad, served with spicy fish stock, shredded coconut, and chopped chili.",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bulung-putih-q105499976/bulung-putih-q105499976-1.jpg",
+    "images/bulung-putih-q105499976/bulung-putih-q105499976-2.jpg",
+    "images/bulung-putih-q105499976/bulung-putih-q105499976-3.jpg",
+    "images/bulung-putih-q105499976/bulung-putih-q105499976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105499976",
+    "themealdb": null
+  }
+}

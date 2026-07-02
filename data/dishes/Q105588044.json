@@ -1,0 +1,21 @@
+{
+  "id": "Q105588044",
+  "name": "sausage roll",
+  "description": "pastry snack popular in current and former Commonwealth nations",
+  "nationality": [],
+  "region_cuisine": [
+    "Irish cuisine",
+    "British cuisine"
+  ],
+  "images": [
+    "images/sausage-roll-q105588044/sausage-roll-q105588044-1.jpg",
+    "images/sausage-roll-q105588044/sausage-roll-q105588044-2.jpg",
+    "images/sausage-roll-q105588044/sausage-roll-q105588044-3.jpg",
+    "images/sausage-roll-q105588044/sausage-roll-q105588044-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105588044",
+    "themealdb": null
+  }
+}

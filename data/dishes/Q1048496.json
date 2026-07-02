@@ -1,0 +1,16 @@
+{
+  "id": "Q1048496",
+  "name": "botvinia",
+  "description": "chilled beet soup of Russian origin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/botvinia-q1048496/botvinia-q1048496-1.jpg",
+    "images/botvinia-q1048496/botvinia-q1048496-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1048496",
+    "themealdb": null
+  }
+}

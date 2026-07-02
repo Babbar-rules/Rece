@@ -1,0 +1,20 @@
+{
+  "id": "Q1051861",
+  "name": "corzetti",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corzetti-q1051861/corzetti-q1051861-1.jpg",
+    "images/corzetti-q1051861/corzetti-q1051861-2.jpg",
+    "images/corzetti-q1051861/corzetti-q1051861-3.jpg",
+    "images/corzetti-q1051861/corzetti-q1051861-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1051861",
+    "themealdb": null
+  }
+}

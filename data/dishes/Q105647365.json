@@ -1,0 +1,19 @@
+{
+  "id": "Q105647365",
+  "name": "Muyuchi",
+  "description": "Peruvian dessert",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muyuchi-q105647365/muyuchi-q105647365-1.jpg",
+    "images/muyuchi-q105647365/muyuchi-q105647365-2.jpg",
+    "images/muyuchi-q105647365/muyuchi-q105647365-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105647365",
+    "themealdb": null
+  }
+}

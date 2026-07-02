@@ -1,0 +1,20 @@
+{
+  "id": "Q105015387",
+  "name": "pastina",
+  "description": "Italian small pasta type for soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastina-q105015387/pastina-q105015387-1.jpg",
+    "images/pastina-q105015387/pastina-q105015387-2.jpg",
+    "images/pastina-q105015387/pastina-q105015387-3.jpg",
+    "images/pastina-q105015387/pastina-q105015387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105015387",
+    "themealdb": null
+  }
+}

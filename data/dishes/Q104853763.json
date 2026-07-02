@@ -1,0 +1,18 @@
+{
+  "id": "Q104853763",
+  "name": "Watermelon salad",
+  "description": "summer salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/watermelon-salad-q104853763/watermelon-salad-q104853763-1.jpg",
+    "images/watermelon-salad-q104853763/watermelon-salad-q104853763-2.jpg",
+    "images/watermelon-salad-q104853763/watermelon-salad-q104853763-3.jpg",
+    "images/watermelon-salad-q104853763/watermelon-salad-q104853763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104853763",
+    "themealdb": null
+  }
+}

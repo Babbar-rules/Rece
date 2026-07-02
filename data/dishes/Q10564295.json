@@ -1,0 +1,18 @@
+{
+  "id": "Q10564295",
+  "name": "Tongshao cake",
+  "description": "Chinese snack",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tongshao-cake-q10564295/tongshao-cake-q10564295-1.jpg",
+    "images/tongshao-cake-q10564295/tongshao-cake-q10564295-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10564295",
+    "themealdb": null
+  }
+}

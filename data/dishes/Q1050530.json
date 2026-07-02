@@ -1,0 +1,18 @@
+{
+  "id": "Q1050530",
+  "name": "Tic Tac",
+  "description": "brand of small, hard candy mints",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tic-tac-q1050530/tic-tac-q1050530-1.jpg",
+    "images/tic-tac-q1050530/tic-tac-q1050530-2.jpg",
+    "images/tic-tac-q1050530/tic-tac-q1050530-3.jpg",
+    "images/tic-tac-q1050530/tic-tac-q1050530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1050530",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10505302",
+  "name": "Popsicle stick",
+  "description": "small piece of elongated flat wood used in frozen deserts to make it easy to carry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/popsicle-stick-q10505302/popsicle-stick-q10505302-1.jpg",
+    "images/popsicle-stick-q10505302/popsicle-stick-q10505302-2.jpg",
+    "images/popsicle-stick-q10505302/popsicle-stick-q10505302-3.jpg",
+    "images/popsicle-stick-q10505302/popsicle-stick-q10505302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10505302",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10545284",
+  "name": "Kick",
+  "description": "candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kick-q10545284/kick-q10545284-1.jpg",
+    "images/kick-q10545284/kick-q10545284-2.jpg",
+    "images/kick-q10545284/kick-q10545284-3.jpg",
+    "images/kick-q10545284/kick-q10545284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10545284",
+    "themealdb": null
+  }
+}

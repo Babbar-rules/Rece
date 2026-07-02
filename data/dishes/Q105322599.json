@@ -1,0 +1,18 @@
+{
+  "id": "Q105322599",
+  "name": "energy gum",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/energy-gum-q105322599/energy-gum-q105322599-1.jpg",
+    "images/energy-gum-q105322599/energy-gum-q105322599-2.jpg",
+    "images/energy-gum-q105322599/energy-gum-q105322599-3.jpg",
+    "images/energy-gum-q105322599/energy-gum-q105322599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105322599",
+    "themealdb": null
+  }
+}

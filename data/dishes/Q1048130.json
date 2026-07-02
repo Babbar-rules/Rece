@@ -1,0 +1,24 @@
+{
+  "id": "Q1048130",
+  "name": "oromo",
+  "description": "Central Asian steamed pie",
+  "nationality": [
+    "Kyrgyzstan"
+  ],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Cuisine of Uzbekistan",
+    "Kazakh cuisine"
+  ],
+  "images": [
+    "images/oromo-q1048130/oromo-q1048130-1.jpg",
+    "images/oromo-q1048130/oromo-q1048130-2.jpg",
+    "images/oromo-q1048130/oromo-q1048130-3.jpg",
+    "images/oromo-q1048130/oromo-q1048130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1048130",
+    "themealdb": null
+  }
+}

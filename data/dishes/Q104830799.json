@@ -1,0 +1,20 @@
+{
+  "id": "Q104830799",
+  "name": "Pittsburgh salad",
+  "description": "salad containing french fries",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pittsburgh-salad-q104830799/pittsburgh-salad-q104830799-1.jpg",
+    "images/pittsburgh-salad-q104830799/pittsburgh-salad-q104830799-2.jpg",
+    "images/pittsburgh-salad-q104830799/pittsburgh-salad-q104830799-3.jpg",
+    "images/pittsburgh-salad-q104830799/pittsburgh-salad-q104830799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104830799",
+    "themealdb": null
+  }
+}

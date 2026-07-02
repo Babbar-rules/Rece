@@ -1,0 +1,20 @@
+{
+  "id": "Q10510197",
+  "name": "egg–anchovy salad",
+  "description": "Swedish dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egganchovy-salad-q10510197/egganchovy-salad-q10510197-1.jpg",
+    "images/egganchovy-salad-q10510197/egganchovy-salad-q10510197-2.jpg",
+    "images/egganchovy-salad-q10510197/egganchovy-salad-q10510197-3.jpg",
+    "images/egganchovy-salad-q10510197/egganchovy-salad-q10510197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10510197",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "Q1052236",
+  "name": "pasta salad",
+  "description": "salad containing pasta",
+  "nationality": [
+    "Italian"
+  ],
+  "region_cuisine": [
+    "Seafood"
+  ],
+  "images": [
+    "images/pasta-salad-q1052236/pasta-salad-q1052236-1.jpg",
+    "images/pasta-salad-q1052236/pasta-salad-q1052236-2.jpg",
+    "images/pasta-salad-q1052236/pasta-salad-q1052236-3.jpg",
+    "images/pasta-salad-q1052236/pasta-salad-q1052236-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52777",
+    "category": "Seafood",
+    "area": "Italian",
+    "instructions": "Bring a large saucepan of salted water to the boil\r\nAdd the pasta, stir once and cook for about 10 minutes or as directed on the packet.\r\nMeanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil.\r\nPut the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix.\r\nWhen the pasta is ready, drain into a colander and run cold water over it to cool it quickly.\r\nToss the pasta into the salad bowl with the tomatoes and basil.\r\nAdd the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavours to mingle.\r\nSprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving.",
+    "ingredients": [
+      {
+        "ingredient": "mozzarella balls",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "baby plum tomatoes",
+        "measure": "250 g"
+      },
+      {
+        "ingredient": "fresh basil",
+        "measure": "1  bunch"
+      },
+      {
+        "ingredient": "farfalle",
+        "measure": "350 g"
+      },
+      {
+        "ingredient": "extra virgin olive oil",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Green Olives",
+        "measure": "40 g"
+      },
+      {
+        "ingredient": "tuna",
+        "measure": "200 g"
+      },
+      {
+        "ingredient": "salt",
+        "measure": "to taste"
+      },
+      {
+        "ingredient": "pepper",
+        "measure": "to taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=e52IL8zYmaE",
+    "thumb": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1052236",
+    "themealdb": "52777"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10520838",
+  "name": "West Lake Fish in Vinegar Gravy",
+  "description": "Chinese seafood dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/west-lake-fish-in-vinegar-gravy-q10520838/west-lake-fish-in-vinegar-gravy-q10520838-1.jpg",
+    "images/west-lake-fish-in-vinegar-gravy-q10520838/west-lake-fish-in-vinegar-gravy-q10520838-2.jpg",
+    "images/west-lake-fish-in-vinegar-gravy-q10520838/west-lake-fish-in-vinegar-gravy-q10520838-3.jpg",
+    "images/west-lake-fish-in-vinegar-gravy-q10520838/west-lake-fish-in-vinegar-gravy-q10520838-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10520838",
+    "themealdb": null
+  }
+}

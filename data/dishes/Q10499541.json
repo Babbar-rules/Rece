@@ -1,0 +1,18 @@
+{
+  "id": "Q10499541",
+  "name": "Fruxo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruxo-q10499541/fruxo-q10499541-1.jpg",
+    "images/fruxo-q10499541/fruxo-q10499541-2.jpg",
+    "images/fruxo-q10499541/fruxo-q10499541-3.jpg",
+    "images/fruxo-q10499541/fruxo-q10499541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10499541",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q105288154",
+  "name": "Purple Bread",
+  "description": "Filipino Bread Rolls",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/purple-bread-q105288154/purple-bread-q105288154-1.jpg",
+    "images/purple-bread-q105288154/purple-bread-q105288154-2.jpg",
+    "images/purple-bread-q105288154/purple-bread-q105288154-3.jpg",
+    "images/purple-bread-q105288154/purple-bread-q105288154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105288154",
+    "themealdb": null
+  }
+}

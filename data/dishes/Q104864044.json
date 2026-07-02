@@ -1,0 +1,21 @@
+{
+  "id": "Q104864044",
+  "name": "Desperation pie",
+  "description": "thrifty pie from American cuisine",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/desperation-pie-q104864044/desperation-pie-q104864044-1.jpg",
+    "images/desperation-pie-q104864044/desperation-pie-q104864044-2.jpg",
+    "images/desperation-pie-q104864044/desperation-pie-q104864044-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104864044",
+    "themealdb": null
+  }
+}

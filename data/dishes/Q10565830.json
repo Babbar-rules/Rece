@@ -1,0 +1,21 @@
+{
+  "id": "Q10565830",
+  "name": "ke-kńg",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Fujian cuisine",
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/ke-kng-q10565830/ke-kng-q10565830-1.jpg",
+    "images/ke-kng-q10565830/ke-kng-q10565830-2.jpg",
+    "images/ke-kng-q10565830/ke-kng-q10565830-3.jpg",
+    "images/ke-kng-q10565830/ke-kng-q10565830-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10565830",
+    "themealdb": null
+  }
+}

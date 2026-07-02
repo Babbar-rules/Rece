@@ -1,0 +1,18 @@
+{
+  "id": "Q10553438",
+  "name": "licorice pipe",
+  "description": "licorice candy shaped like a tobacco pipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/licorice-pipe-q10553438/licorice-pipe-q10553438-1.jpg",
+    "images/licorice-pipe-q10553438/licorice-pipe-q10553438-2.jpg",
+    "images/licorice-pipe-q10553438/licorice-pipe-q10553438-3.jpg",
+    "images/licorice-pipe-q10553438/licorice-pipe-q10553438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10553438",
+    "themealdb": null
+  }
+}

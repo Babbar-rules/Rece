@@ -1,0 +1,18 @@
+{
+  "id": "Q105481008",
+  "name": "katrisolo",
+  "description": "a traditional cake with the main ingredient in the form of glutinous rice and using brown sugar",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katrisolo-q105481008/katrisolo-q105481008-1.jpg",
+    "images/katrisolo-q105481008/katrisolo-q105481008-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105481008",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1049852",
+  "name": "sponge cake",
+  "description": "type of cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sponge-cake-q1049852/sponge-cake-q1049852-1.jpg",
+    "images/sponge-cake-q1049852/sponge-cake-q1049852-2.jpg",
+    "images/sponge-cake-q1049852/sponge-cake-q1049852-3.jpg",
+    "images/sponge-cake-q1049852/sponge-cake-q1049852-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1049852",
+    "themealdb": null
+  }
+}

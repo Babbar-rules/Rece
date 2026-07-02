@@ -1,0 +1,20 @@
+{
+  "id": "Q1054430",
+  "name": "Gianchetti",
+  "description": "fish",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine niçoise"
+  ],
+  "images": [
+    "images/gianchetti-q1054430/gianchetti-q1054430-1.jpg",
+    "images/gianchetti-q1054430/gianchetti-q1054430-2.jpg",
+    "images/gianchetti-q1054430/gianchetti-q1054430-3.jpg",
+    "images/gianchetti-q1054430/gianchetti-q1054430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1054430",
+    "themealdb": null
+  }
+}

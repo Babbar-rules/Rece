@@ -1,0 +1,20 @@
+{
+  "id": "Q105508520",
+  "name": "bubur bongkol",
+  "description": "traditional porridge from Bengkulu",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubur-bongkol-q105508520/bubur-bongkol-q105508520-1.jpg",
+    "images/bubur-bongkol-q105508520/bubur-bongkol-q105508520-2.jpg",
+    "images/bubur-bongkol-q105508520/bubur-bongkol-q105508520-3.jpg",
+    "images/bubur-bongkol-q105508520/bubur-bongkol-q105508520-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105508520",
+    "themealdb": null
+  }
+}

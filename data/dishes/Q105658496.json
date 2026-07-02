@@ -1,0 +1,16 @@
+{
+  "id": "Q105658496",
+  "name": "Enchorer kopta",
+  "description": "Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/enchorer-kopta-q105658496/enchorer-kopta-q105658496-1.jpg",
+    "images/enchorer-kopta-q105658496/enchorer-kopta-q105658496-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105658496",
+    "themealdb": null
+  }
+}

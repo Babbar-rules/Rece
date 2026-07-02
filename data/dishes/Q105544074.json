@@ -1,0 +1,20 @@
+{
+  "id": "Q105544074",
+  "name": "kubang boyo",
+  "description": "Indonesian cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kubang-boyo-q105544074/kubang-boyo-q105544074-1.jpg",
+    "images/kubang-boyo-q105544074/kubang-boyo-q105544074-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105544074",
+    "themealdb": null
+  }
+}

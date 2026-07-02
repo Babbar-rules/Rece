@@ -1,0 +1,22 @@
+{
+  "id": "Q1052815",
+  "name": "Spumoni",
+  "description": "ice cream",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/spumoni-q1052815/spumoni-q1052815-1.jpg",
+    "images/spumoni-q1052815/spumoni-q1052815-2.jpg",
+    "images/spumoni-q1052815/spumoni-q1052815-3.jpg",
+    "images/spumoni-q1052815/spumoni-q1052815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1052815",
+    "themealdb": null
+  }
+}
