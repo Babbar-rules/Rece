@@ -1,0 +1,18 @@
+{
+  "id": "Q12020426",
+  "name": "mushroom sauce",
+  "description": "white or brown sauce with mushrooms",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mushroom-sauce-q12020426/mushroom-sauce-q12020426-1.jpg",
+    "images/mushroom-sauce-q12020426/mushroom-sauce-q12020426-2.jpg",
+    "images/mushroom-sauce-q12020426/mushroom-sauce-q12020426-3.jpg",
+    "images/mushroom-sauce-q12020426/mushroom-sauce-q12020426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12020426",
+    "themealdb": null
+  }
+}

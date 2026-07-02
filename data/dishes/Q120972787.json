@@ -1,0 +1,20 @@
+{
+  "id": "Q120972787",
+  "name": "Donut hole",
+  "description": "type of donut",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/donut-hole-q120972787/donut-hole-q120972787-1.jpg",
+    "images/donut-hole-q120972787/donut-hole-q120972787-2.jpg",
+    "images/donut-hole-q120972787/donut-hole-q120972787-3.jpg",
+    "images/donut-hole-q120972787/donut-hole-q120972787-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120972787",
+    "themealdb": null
+  }
+}

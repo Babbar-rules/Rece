@@ -1,0 +1,18 @@
+{
+  "id": "Q11962286",
+  "name": "raspberry jam",
+  "description": "jam made from raspberries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raspberry-jam-q11962286/raspberry-jam-q11962286-1.jpg",
+    "images/raspberry-jam-q11962286/raspberry-jam-q11962286-2.jpg",
+    "images/raspberry-jam-q11962286/raspberry-jam-q11962286-3.jpg",
+    "images/raspberry-jam-q11962286/raspberry-jam-q11962286-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11962286",
+    "themealdb": null
+  }
+}

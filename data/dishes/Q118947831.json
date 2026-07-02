@@ -1,0 +1,17 @@
+{
+  "id": "Q118947831",
+  "name": "Gülüt cake",
+  "description": "Turkish cake from Sivas",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118947831",
+    "themealdb": null
+  }
+}

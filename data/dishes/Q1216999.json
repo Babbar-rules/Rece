@@ -1,0 +1,21 @@
+{
+  "id": "Q1216999",
+  "name": "Porrusalda",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of Navarre",
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/porrusalda-q1216999/porrusalda-q1216999-1.jpg",
+    "images/porrusalda-q1216999/porrusalda-q1216999-2.jpg",
+    "images/porrusalda-q1216999/porrusalda-q1216999-3.jpg",
+    "images/porrusalda-q1216999/porrusalda-q1216999-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1216999",
+    "themealdb": null
+  }
+}

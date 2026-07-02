@@ -1,0 +1,18 @@
+{
+  "id": "Q119527495",
+  "name": "yum yum",
+  "description": "glazed hand-twisted rope-shaped doughnut",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yum-yum-q119527495/yum-yum-q119527495-1.png",
+    "images/yum-yum-q119527495/yum-yum-q119527495-2.png",
+    "images/yum-yum-q119527495/yum-yum-q119527495-3.jpg",
+    "images/yum-yum-q119527495/yum-yum-q119527495-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119527495",
+    "themealdb": null
+  }
+}

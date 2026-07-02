@@ -1,0 +1,23 @@
+{
+  "id": "Q119441937",
+  "name": "Dalca",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/dalca-q119441937/dalca-q119441937-1.jpg",
+    "images/dalca-q119441937/dalca-q119441937-2.jpg",
+    "images/dalca-q119441937/dalca-q119441937-3.png",
+    "images/dalca-q119441937/dalca-q119441937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119441937",
+    "themealdb": null
+  }
+}

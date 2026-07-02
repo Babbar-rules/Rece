@@ -1,0 +1,18 @@
+{
+  "id": "Q119898571",
+  "name": "chocolate drops",
+  "description": "small pieces or droplets of solid chocolate used in baking and confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-drops-q119898571/chocolate-drops-q119898571-1.jpg",
+    "images/chocolate-drops-q119898571/chocolate-drops-q119898571-2.jpg",
+    "images/chocolate-drops-q119898571/chocolate-drops-q119898571-3.jpg",
+    "images/chocolate-drops-q119898571/chocolate-drops-q119898571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119898571",
+    "themealdb": null
+  }
+}

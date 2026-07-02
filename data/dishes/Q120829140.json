@@ -1,0 +1,18 @@
+{
+  "id": "Q120829140",
+  "name": "Storceag la cuptor",
+  "description": "Fish soup typically served in the Danube Delta",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/storceag-la-cuptor-q120829140/storceag-la-cuptor-q120829140-1.jpg",
+    "images/storceag-la-cuptor-q120829140/storceag-la-cuptor-q120829140-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120829140",
+    "themealdb": null
+  }
+}

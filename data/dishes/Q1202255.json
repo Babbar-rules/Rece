@@ -1,0 +1,20 @@
+{
+  "id": "Q1202255",
+  "name": "Loco moco",
+  "description": "Hawaiian dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/loco-moco-q1202255/loco-moco-q1202255-1.jpg",
+    "images/loco-moco-q1202255/loco-moco-q1202255-2.jpg",
+    "images/loco-moco-q1202255/loco-moco-q1202255-3.jpg",
+    "images/loco-moco-q1202255/loco-moco-q1202255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1202255",
+    "themealdb": null
+  }
+}

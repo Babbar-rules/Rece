@@ -1,0 +1,18 @@
+{
+  "id": "Q12045473",
+  "name": "Pischinger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pischinger-q12045473/pischinger-q12045473-1.jpg",
+    "images/pischinger-q12045473/pischinger-q12045473-2.jpg",
+    "images/pischinger-q12045473/pischinger-q12045473-3.jpg",
+    "images/pischinger-q12045473/pischinger-q12045473-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12045473",
+    "themealdb": null
+  }
+}

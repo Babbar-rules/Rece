@@ -1,0 +1,22 @@
+{
+  "id": "Q1202221",
+  "name": "lox",
+  "description": "dish consisting of a fillet of brined salmon",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "American Jewish cuisine"
+  ],
+  "images": [
+    "images/lox-q1202221/lox-q1202221-1.jpg",
+    "images/lox-q1202221/lox-q1202221-2.jpg",
+    "images/lox-q1202221/lox-q1202221-3.jpg",
+    "images/lox-q1202221/lox-q1202221-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1202221",
+    "themealdb": null
+  }
+}

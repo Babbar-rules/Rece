@@ -1,0 +1,20 @@
+{
+  "id": "Q119724198",
+  "name": "napoleonbakelse",
+  "description": "",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/napoleonbakelse-q119724198/napoleonbakelse-q119724198-1.jpg",
+    "images/napoleonbakelse-q119724198/napoleonbakelse-q119724198-2.jpg",
+    "images/napoleonbakelse-q119724198/napoleonbakelse-q119724198-3.jpg",
+    "images/napoleonbakelse-q119724198/napoleonbakelse-q119724198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119724198",
+    "themealdb": null
+  }
+}

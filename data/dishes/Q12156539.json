@@ -1,0 +1,18 @@
+{
+  "id": "Q12156539",
+  "name": "hamin",
+  "description": "stew in Jewish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hamin-q12156539/hamin-q12156539-1.jpg",
+    "images/hamin-q12156539/hamin-q12156539-2.jpg",
+    "images/hamin-q12156539/hamin-q12156539-3.jpg",
+    "images/hamin-q12156539/hamin-q12156539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12156539",
+    "themealdb": null
+  }
+}

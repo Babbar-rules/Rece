@@ -1,0 +1,20 @@
+{
+  "id": "Q1193251",
+  "name": "baked potato",
+  "description": "potato dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baked-potato-q1193251/baked-potato-q1193251-1.jpg",
+    "images/baked-potato-q1193251/baked-potato-q1193251-2.jpg",
+    "images/baked-potato-q1193251/baked-potato-q1193251-3.png",
+    "images/baked-potato-q1193251/baked-potato-q1193251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1193251",
+    "themealdb": null
+  }
+}

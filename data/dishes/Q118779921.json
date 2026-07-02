@@ -1,0 +1,18 @@
+{
+  "id": "Q118779921",
+  "name": "Watermelon Bar",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/watermelon-bar-q118779921/watermelon-bar-q118779921-1.jpg",
+    "images/watermelon-bar-q118779921/watermelon-bar-q118779921-2.jpg",
+    "images/watermelon-bar-q118779921/watermelon-bar-q118779921-3.png",
+    "images/watermelon-bar-q118779921/watermelon-bar-q118779921-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118779921",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1197873",
+  "name": "Janssons frestelse",
+  "description": "potato dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/janssons-frestelse-q1197873/janssons-frestelse-q1197873-1.jpg",
+    "images/janssons-frestelse-q1197873/janssons-frestelse-q1197873-2.jpg",
+    "images/janssons-frestelse-q1197873/janssons-frestelse-q1197873-3.jpg",
+    "images/janssons-frestelse-q1197873/janssons-frestelse-q1197873-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1197873",
+    "themealdb": null
+  }
+}

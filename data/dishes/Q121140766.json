@@ -1,0 +1,18 @@
+{
+  "id": "Q121140766",
+  "name": "blonde chocolate",
+  "description": "form of chocolate made from caramelized cocoa butter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blonde-chocolate-q121140766/blonde-chocolate-q121140766-1.jpg",
+    "images/blonde-chocolate-q121140766/blonde-chocolate-q121140766-2.jpg",
+    "images/blonde-chocolate-q121140766/blonde-chocolate-q121140766-3.jpg",
+    "images/blonde-chocolate-q121140766/blonde-chocolate-q121140766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121140766",
+    "themealdb": null
+  }
+}

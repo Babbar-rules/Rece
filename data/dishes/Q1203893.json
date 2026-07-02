@@ -1,0 +1,20 @@
+{
+  "id": "Q1203893",
+  "name": "kabayaki",
+  "description": "Japanese eel dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kabayaki-q1203893/kabayaki-q1203893-1.jpg",
+    "images/kabayaki-q1203893/kabayaki-q1203893-2.jpg",
+    "images/kabayaki-q1203893/kabayaki-q1203893-3.jpg",
+    "images/kabayaki-q1203893/kabayaki-q1203893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1203893",
+    "themealdb": null
+  }
+}

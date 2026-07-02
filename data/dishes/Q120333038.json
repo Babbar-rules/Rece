@@ -1,0 +1,18 @@
+{
+  "id": "Q120333038",
+  "name": "McFiesta",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcfiesta-q120333038/mcfiesta-q120333038-1.jpg",
+    "images/mcfiesta-q120333038/mcfiesta-q120333038-2.jpg",
+    "images/mcfiesta-q120333038/mcfiesta-q120333038-3.jpg",
+    "images/mcfiesta-q120333038/mcfiesta-q120333038-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120333038",
+    "themealdb": null
+  }
+}

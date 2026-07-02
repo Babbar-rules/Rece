@@ -1,0 +1,18 @@
+{
+  "id": "Q120391804",
+  "name": "fried chicken skin",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-chicken-skin-q120391804/fried-chicken-skin-q120391804-1.jpg",
+    "images/fried-chicken-skin-q120391804/fried-chicken-skin-q120391804-2.jpg",
+    "images/fried-chicken-skin-q120391804/fried-chicken-skin-q120391804-3.jpg",
+    "images/fried-chicken-skin-q120391804/fried-chicken-skin-q120391804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120391804",
+    "themealdb": null
+  }
+}

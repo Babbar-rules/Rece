@@ -1,0 +1,18 @@
+{
+  "id": "Q12033904",
+  "name": "Lomnice Biscuits",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lomnice-biscuits-q12033904/lomnice-biscuits-q12033904-1.jpg",
+    "images/lomnice-biscuits-q12033904/lomnice-biscuits-q12033904-2.jpg",
+    "images/lomnice-biscuits-q12033904/lomnice-biscuits-q12033904-3.jpg",
+    "images/lomnice-biscuits-q12033904/lomnice-biscuits-q12033904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12033904",
+    "themealdb": null
+  }
+}

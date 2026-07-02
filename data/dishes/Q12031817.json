@@ -1,0 +1,20 @@
+{
+  "id": "Q12031817",
+  "name": "kuba",
+  "description": "traditional Czech Christmas meal",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuba-q12031817/kuba-q12031817-1.jpg",
+    "images/kuba-q12031817/kuba-q12031817-2.jpg",
+    "images/kuba-q12031817/kuba-q12031817-3.jpg",
+    "images/kuba-q12031817/kuba-q12031817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12031817",
+    "themealdb": null
+  }
+}

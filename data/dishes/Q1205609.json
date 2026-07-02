@@ -1,0 +1,22 @@
+{
+  "id": "Q1205609",
+  "name": "Hayashi rice",
+  "description": "Japanese rice dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/hayashi-rice-q1205609/hayashi-rice-q1205609-1.jpg",
+    "images/hayashi-rice-q1205609/hayashi-rice-q1205609-2.jpg",
+    "images/hayashi-rice-q1205609/hayashi-rice-q1205609-3.jpg",
+    "images/hayashi-rice-q1205609/hayashi-rice-q1205609-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1205609",
+    "themealdb": null
+  }
+}

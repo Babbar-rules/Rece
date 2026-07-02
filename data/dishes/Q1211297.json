@@ -1,0 +1,25 @@
+{
+  "id": "Q1211297",
+  "name": "Salzgurke",
+  "description": "small cucumber pickled in brine",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "German cuisine",
+    "cuisine of the United States",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/salzgurke-q1211297/salzgurke-q1211297-1.jpg",
+    "images/salzgurke-q1211297/salzgurke-q1211297-2.jpg",
+    "images/salzgurke-q1211297/salzgurke-q1211297-3.jpg",
+    "images/salzgurke-q1211297/salzgurke-q1211297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1211297",
+    "themealdb": null
+  }
+}

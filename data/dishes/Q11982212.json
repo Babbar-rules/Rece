@@ -1,0 +1,18 @@
+{
+  "id": "Q11982212",
+  "name": "Krone-is",
+  "description": "Krone ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krone-is-q11982212/krone-is-q11982212-1.jpg",
+    "images/krone-is-q11982212/krone-is-q11982212-2.jpg",
+    "images/krone-is-q11982212/krone-is-q11982212-3.jpg",
+    "images/krone-is-q11982212/krone-is-q11982212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11982212",
+    "themealdb": null
+  }
+}

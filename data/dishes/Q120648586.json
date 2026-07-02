@@ -1,0 +1,20 @@
+{
+  "id": "Q120648586",
+  "name": "krupky",
+  "description": "ritual dish in Mostove village in Andrushivka hromada in Zhytomyr Oblast",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/krupky-q120648586/krupky-q120648586-1.png",
+    "images/krupky-q120648586/krupky-q120648586-2.jpg",
+    "images/krupky-q120648586/krupky-q120648586-3.png",
+    "images/krupky-q120648586/krupky-q120648586-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120648586",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q119540715",
+  "name": "Lam Cake",
+  "description": "Specialty cuisine of South Kalimantan, Indonesia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lam-cake-q119540715/lam-cake-q119540715-1.jpg",
+    "images/lam-cake-q119540715/lam-cake-q119540715-2.jpg",
+    "images/lam-cake-q119540715/lam-cake-q119540715-3.jpg",
+    "images/lam-cake-q119540715/lam-cake-q119540715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119540715",
+    "themealdb": null
+  }
+}

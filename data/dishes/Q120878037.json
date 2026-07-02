@@ -1,0 +1,20 @@
+{
+  "id": "Q120878037",
+  "name": "kanpyo maki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kanpyo-maki-q120878037/kanpyo-maki-q120878037-1.jpg",
+    "images/kanpyo-maki-q120878037/kanpyo-maki-q120878037-2.jpg",
+    "images/kanpyo-maki-q120878037/kanpyo-maki-q120878037-3.jpg",
+    "images/kanpyo-maki-q120878037/kanpyo-maki-q120878037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120878037",
+    "themealdb": null
+  }
+}

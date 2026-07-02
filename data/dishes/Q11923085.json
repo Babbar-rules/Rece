@@ -1,0 +1,20 @@
+{
+  "id": "Q11923085",
+  "name": "freginat",
+  "description": "Meat dish from France and Spain",
+  "nationality": [
+    "Spain",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/freginat-q11923085/freginat-q11923085-1.jpg",
+    "images/freginat-q11923085/freginat-q11923085-2.jpg",
+    "images/freginat-q11923085/freginat-q11923085-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11923085",
+    "themealdb": null
+  }
+}

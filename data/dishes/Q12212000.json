@@ -1,0 +1,20 @@
+{
+  "id": "Q12212000",
+  "name": "Daheen",
+  "description": "Iraqi dessert",
+  "nationality": [
+    "Iraq"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/daheen-q12212000/daheen-q12212000-1.jpg",
+    "images/daheen-q12212000/daheen-q12212000-2.jpg",
+    "images/daheen-q12212000/daheen-q12212000-3.jpg",
+    "images/daheen-q12212000/daheen-q12212000-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12212000",
+    "themealdb": null
+  }
+}

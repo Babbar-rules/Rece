@@ -1,0 +1,17 @@
+{
+  "id": "Q12191243",
+  "name": "gursan",
+  "description": "Saudi Arabian dish",
+  "nationality": [
+    "Saudi Arabia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gursan-q12191243/gursan-q12191243-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12191243",
+    "themealdb": null
+  }
+}

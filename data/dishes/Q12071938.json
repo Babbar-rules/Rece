@@ -1,0 +1,18 @@
+{
+  "id": "Q12071938",
+  "name": "vanilla ice cream",
+  "description": "ice cream flavored with vanilla",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vanilla-ice-cream-q12071938/vanilla-ice-cream-q12071938-1.jpg",
+    "images/vanilla-ice-cream-q12071938/vanilla-ice-cream-q12071938-2.jpg",
+    "images/vanilla-ice-cream-q12071938/vanilla-ice-cream-q12071938-3.jpg",
+    "images/vanilla-ice-cream-q12071938/vanilla-ice-cream-q12071938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12071938",
+    "themealdb": null
+  }
+}

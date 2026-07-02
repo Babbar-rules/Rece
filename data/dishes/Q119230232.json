@@ -1,0 +1,20 @@
+{
+  "id": "Q119230232",
+  "name": "unha de caranguejo",
+  "description": "Brazilian fried snack stuffed with crab meat typical of Pará",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/unha-de-caranguejo-q119230232/unha-de-caranguejo-q119230232-1.jpg",
+    "images/unha-de-caranguejo-q119230232/unha-de-caranguejo-q119230232-2.jpg",
+    "images/unha-de-caranguejo-q119230232/unha-de-caranguejo-q119230232-3.jpg",
+    "images/unha-de-caranguejo-q119230232/unha-de-caranguejo-q119230232-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119230232",
+    "themealdb": null
+  }
+}

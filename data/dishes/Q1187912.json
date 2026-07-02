@@ -1,0 +1,20 @@
+{
+  "id": "Q1187912",
+  "name": "yatsuhashi",
+  "description": "Japanese confection from Kyoto",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yatsuhashi-q1187912/yatsuhashi-q1187912-1.jpg",
+    "images/yatsuhashi-q1187912/yatsuhashi-q1187912-2.jpg",
+    "images/yatsuhashi-q1187912/yatsuhashi-q1187912-3.jpg",
+    "images/yatsuhashi-q1187912/yatsuhashi-q1187912-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1187912",
+    "themealdb": null
+  }
+}

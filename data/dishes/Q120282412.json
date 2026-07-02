@@ -1,0 +1,20 @@
+{
+  "id": "Q120282412",
+  "name": "Maharaja Mac",
+  "description": "Indian version of Big Mac sold by McDonald's",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maharaja-mac-q120282412/maharaja-mac-q120282412-1.jpg",
+    "images/maharaja-mac-q120282412/maharaja-mac-q120282412-2.jpg",
+    "images/maharaja-mac-q120282412/maharaja-mac-q120282412-3.jpg",
+    "images/maharaja-mac-q120282412/maharaja-mac-q120282412-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120282412",
+    "themealdb": null
+  }
+}

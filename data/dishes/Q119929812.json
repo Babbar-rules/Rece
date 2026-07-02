@@ -1,0 +1,20 @@
+{
+  "id": "Q119929812",
+  "name": "Salpicón de frutas",
+  "description": "Colombian fruit cocktail",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salpicon-de-frutas-q119929812/salpicon-de-frutas-q119929812-1.jpg",
+    "images/salpicon-de-frutas-q119929812/salpicon-de-frutas-q119929812-2.jpg",
+    "images/salpicon-de-frutas-q119929812/salpicon-de-frutas-q119929812-3.jpg",
+    "images/salpicon-de-frutas-q119929812/salpicon-de-frutas-q119929812-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119929812",
+    "themealdb": null
+  }
+}

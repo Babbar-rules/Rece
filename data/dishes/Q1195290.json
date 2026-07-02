@@ -1,0 +1,20 @@
+{
+  "id": "Q1195290",
+  "name": "korokke",
+  "description": "Japanese potato dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/korokke-q1195290/korokke-q1195290-1.jpg",
+    "images/korokke-q1195290/korokke-q1195290-2.jpg",
+    "images/korokke-q1195290/korokke-q1195290-3.jpg",
+    "images/korokke-q1195290/korokke-q1195290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1195290",
+    "themealdb": null
+  }
+}

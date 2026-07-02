@@ -1,0 +1,17 @@
+{
+  "id": "Q12037401",
+  "name": "Miletínská modlitbička",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miletinska-modlitbicka-q12037401/miletinska-modlitbicka-q12037401-1.jpg",
+    "images/miletinska-modlitbicka-q12037401/miletinska-modlitbicka-q12037401-2.jpg",
+    "images/miletinska-modlitbicka-q12037401/miletinska-modlitbicka-q12037401-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12037401",
+    "themealdb": null
+  }
+}

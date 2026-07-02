@@ -1,0 +1,22 @@
+{
+  "id": "Q1196289",
+  "name": "doenjang",
+  "description": "Korean fermented soybean paste",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/doenjang-q1196289/doenjang-q1196289-1.jpg",
+    "images/doenjang-q1196289/doenjang-q1196289-2.jpg",
+    "images/doenjang-q1196289/doenjang-q1196289-3.jpg",
+    "images/doenjang-q1196289/doenjang-q1196289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1196289",
+    "themealdb": null
+  }
+}

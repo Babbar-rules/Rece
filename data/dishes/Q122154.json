@@ -1,0 +1,18 @@
+{
+  "id": "Q122154",
+  "name": "puffed rice cake",
+  "description": "food made of puffed rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/puffed-rice-cake-q122154/puffed-rice-cake-q122154-1.jpg",
+    "images/puffed-rice-cake-q122154/puffed-rice-cake-q122154-2.jpg",
+    "images/puffed-rice-cake-q122154/puffed-rice-cake-q122154-3.jpg",
+    "images/puffed-rice-cake-q122154/puffed-rice-cake-q122154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122154",
+    "themealdb": null
+  }
+}

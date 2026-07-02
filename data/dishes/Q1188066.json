@@ -1,0 +1,22 @@
+{
+  "id": "Q1188066",
+  "name": "Mohinga",
+  "description": "Burmese dish consisting of rice noodle and fish soup",
+  "nationality": [
+    "Myanmar"
+  ],
+  "region_cuisine": [
+    "Burmese cuisine"
+  ],
+  "images": [
+    "images/mohinga-q1188066/mohinga-q1188066-1.jpg",
+    "images/mohinga-q1188066/mohinga-q1188066-2.jpg",
+    "images/mohinga-q1188066/mohinga-q1188066-3.jpg",
+    "images/mohinga-q1188066/mohinga-q1188066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1188066",
+    "themealdb": null
+  }
+}

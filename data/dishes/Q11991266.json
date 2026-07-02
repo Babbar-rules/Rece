@@ -1,0 +1,20 @@
+{
+  "id": "Q11991266",
+  "name": "New York-style cheesecake",
+  "description": "rich, dense, smooth, and creamy cheesecake, containing heavy cream or sour cream",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/new-york-style-cheesecake-q11991266/new-york-style-cheesecake-q11991266-1.jpg",
+    "images/new-york-style-cheesecake-q11991266/new-york-style-cheesecake-q11991266-2.jpg",
+    "images/new-york-style-cheesecake-q11991266/new-york-style-cheesecake-q11991266-3.jpg",
+    "images/new-york-style-cheesecake-q11991266/new-york-style-cheesecake-q11991266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11991266",
+    "themealdb": null
+  }
+}

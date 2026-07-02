@@ -1,0 +1,20 @@
+{
+  "id": "Q12038988",
+  "name": "muvi",
+  "description": "food of nivkh people",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muvi-q12038988/muvi-q12038988-1.jpg",
+    "images/muvi-q12038988/muvi-q12038988-2.png",
+    "images/muvi-q12038988/muvi-q12038988-3.png",
+    "images/muvi-q12038988/muvi-q12038988-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12038988",
+    "themealdb": null
+  }
+}

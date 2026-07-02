@@ -1,0 +1,20 @@
+{
+  "id": "Q120495866",
+  "name": "ebi furai",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ebi-furai-q120495866/ebi-furai-q120495866-1.jpg",
+    "images/ebi-furai-q120495866/ebi-furai-q120495866-2.jpg",
+    "images/ebi-furai-q120495866/ebi-furai-q120495866-3.jpg",
+    "images/ebi-furai-q120495866/ebi-furai-q120495866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120495866",
+    "themealdb": null
+  }
+}

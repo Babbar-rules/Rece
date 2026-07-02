@@ -1,0 +1,17 @@
+{
+  "id": "Q12007500",
+  "name": "Trollkrem",
+  "description": "Norwegian dessert",
+  "nationality": [],
+  "region_cuisine": [
+    "Norwegian cuisine"
+  ],
+  "images": [
+    "images/trollkrem-q12007500/trollkrem-q12007500-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12007500",
+    "themealdb": null
+  }
+}

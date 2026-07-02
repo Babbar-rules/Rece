@@ -1,0 +1,18 @@
+{
+  "id": "Q11942732",
+  "name": "first course",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/first-course-q11942732/first-course-q11942732-1.jpg",
+    "images/first-course-q11942732/first-course-q11942732-2.jpg",
+    "images/first-course-q11942732/first-course-q11942732-3.jpg",
+    "images/first-course-q11942732/first-course-q11942732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11942732",
+    "themealdb": null
+  }
+}

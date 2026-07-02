@@ -1,0 +1,18 @@
+{
+  "id": "Q118746882",
+  "name": "ricotta cake",
+  "description": "cheesecake made with ricotta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ricotta-cake-q118746882/ricotta-cake-q118746882-1.jpg",
+    "images/ricotta-cake-q118746882/ricotta-cake-q118746882-2.jpg",
+    "images/ricotta-cake-q118746882/ricotta-cake-q118746882-3.jpg",
+    "images/ricotta-cake-q118746882/ricotta-cake-q118746882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118746882",
+    "themealdb": null
+  }
+}

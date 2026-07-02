@@ -1,0 +1,18 @@
+{
+  "id": "Q1216141",
+  "name": "Negro",
+  "description": "hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/negro-q1216141/negro-q1216141-1.jpg",
+    "images/negro-q1216141/negro-q1216141-2.jpg",
+    "images/negro-q1216141/negro-q1216141-3.png",
+    "images/negro-q1216141/negro-q1216141-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1216141",
+    "themealdb": null
+  }
+}

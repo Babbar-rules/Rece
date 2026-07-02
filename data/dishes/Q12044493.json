@@ -1,0 +1,18 @@
+{
+  "id": "Q12044493",
+  "name": "Parisian salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/parisian-salad-q12044493/parisian-salad-q12044493-1.jpg",
+    "images/parisian-salad-q12044493/parisian-salad-q12044493-2.jpg",
+    "images/parisian-salad-q12044493/parisian-salad-q12044493-3.jpg",
+    "images/parisian-salad-q12044493/parisian-salad-q12044493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12044493",
+    "themealdb": null
+  }
+}

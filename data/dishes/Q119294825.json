@@ -1,0 +1,20 @@
+{
+  "id": "Q119294825",
+  "name": "pineapple fried rice",
+  "description": "Thai cooked rice stir-fried with pineapples and other ingredients",
+  "nationality": [],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/pineapple-fried-rice-q119294825/pineapple-fried-rice-q119294825-1.jpg",
+    "images/pineapple-fried-rice-q119294825/pineapple-fried-rice-q119294825-2.jpg",
+    "images/pineapple-fried-rice-q119294825/pineapple-fried-rice-q119294825-3.jpg",
+    "images/pineapple-fried-rice-q119294825/pineapple-fried-rice-q119294825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119294825",
+    "themealdb": null
+  }
+}

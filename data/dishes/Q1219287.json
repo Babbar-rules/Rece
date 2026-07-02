@@ -1,0 +1,23 @@
+{
+  "id": "Q1219287",
+  "name": "bara brith",
+  "description": "fruited bread of Welsh origin",
+  "nationality": [
+    "Wales"
+  ],
+  "region_cuisine": [
+    "Welsh cuisine",
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/bara-brith-q1219287/bara-brith-q1219287-1.jpg",
+    "images/bara-brith-q1219287/bara-brith-q1219287-2.jpg",
+    "images/bara-brith-q1219287/bara-brith-q1219287-3.png",
+    "images/bara-brith-q1219287/bara-brith-q1219287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1219287",
+    "themealdb": null
+  }
+}

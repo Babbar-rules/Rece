@@ -1,0 +1,25 @@
+{
+  "id": "Q118956765",
+  "name": "kibbeh bil siniyeh",
+  "description": "dish of Levantine cuisine",
+  "nationality": [
+    "Syria",
+    "Lebanon",
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Syrian cuisine",
+    "Middle Eastern cuisine",
+    "Lebanese cuisine",
+    "Levantine cuisine",
+    "Arab cuisine"
+  ],
+  "images": [
+    "images/kibbeh-bil-siniyeh-q118956765/kibbeh-bil-siniyeh-q118956765-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118956765",
+    "themealdb": null
+  }
+}

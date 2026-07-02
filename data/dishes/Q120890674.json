@@ -1,0 +1,18 @@
+{
+  "id": "Q120890674",
+  "name": "Bokkake",
+  "description": "food in Fukuoka prefecture",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bokkake-q120890674/bokkake-q120890674-1.jpg",
+    "images/bokkake-q120890674/bokkake-q120890674-2.jpg",
+    "images/bokkake-q120890674/bokkake-q120890674-3.jpg",
+    "images/bokkake-q120890674/bokkake-q120890674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120890674",
+    "themealdb": null
+  }
+}

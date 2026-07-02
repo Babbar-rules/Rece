@@ -1,0 +1,22 @@
+{
+  "id": "Q1190475",
+  "name": "tteokbokki",
+  "description": "South Korean dish made from rice and flour cakes",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/tteokbokki-q1190475/tteokbokki-q1190475-1.jpg",
+    "images/tteokbokki-q1190475/tteokbokki-q1190475-2.jpg",
+    "images/tteokbokki-q1190475/tteokbokki-q1190475-3.jpg",
+    "images/tteokbokki-q1190475/tteokbokki-q1190475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1190475",
+    "themealdb": null
+  }
+}

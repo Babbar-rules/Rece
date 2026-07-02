@@ -1,0 +1,18 @@
+{
+  "id": "Q121089786",
+  "name": "juk",
+  "description": "Korean rice porridge",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/juk-q121089786/juk-q121089786-1.jpg",
+    "images/juk-q121089786/juk-q121089786-2.jpg",
+    "images/juk-q121089786/juk-q121089786-3.jpg",
+    "images/juk-q121089786/juk-q121089786-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121089786",
+    "themealdb": null
+  }
+}

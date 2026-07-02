@@ -1,0 +1,22 @@
+{
+  "id": "Q1189241",
+  "name": "Mont Blanc",
+  "description": "French dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/mont-blanc-q1189241/mont-blanc-q1189241-1.jpg",
+    "images/mont-blanc-q1189241/mont-blanc-q1189241-2.jpg",
+    "images/mont-blanc-q1189241/mont-blanc-q1189241-3.jpg",
+    "images/mont-blanc-q1189241/mont-blanc-q1189241-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1189241",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q119722087",
+  "name": "Harlequin",
+  "description": "Czech chocolate cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/harlequin-q119722087/harlequin-q119722087-1.jpg",
+    "images/harlequin-q119722087/harlequin-q119722087-2.jpg",
+    "images/harlequin-q119722087/harlequin-q119722087-3.jpg",
+    "images/harlequin-q119722087/harlequin-q119722087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119722087",
+    "themealdb": null
+  }
+}

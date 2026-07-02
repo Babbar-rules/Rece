@@ -1,0 +1,20 @@
+{
+  "id": "Q1211684",
+  "name": "kolach",
+  "description": "small, usually sweet, type of pastry",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kolach-q1211684/kolach-q1211684-1.jpg",
+    "images/kolach-q1211684/kolach-q1211684-2.jpg",
+    "images/kolach-q1211684/kolach-q1211684-3.jpg",
+    "images/kolach-q1211684/kolach-q1211684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1211684",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q119894990",
+  "name": "ginger cake",
+  "description": "a cake variety spiced with ginger, originating in the British cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-cake-q119894990/ginger-cake-q119894990-1.jpg",
+    "images/ginger-cake-q119894990/ginger-cake-q119894990-2.jpg",
+    "images/ginger-cake-q119894990/ginger-cake-q119894990-3.jpg",
+    "images/ginger-cake-q119894990/ginger-cake-q119894990-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119894990",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q119139178",
+  "name": "Ji dan gao",
+  "description": "Taiwanese sponge cakes served as desserts",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ji-dan-gao-q119139178/ji-dan-gao-q119139178-1.jpg",
+    "images/ji-dan-gao-q119139178/ji-dan-gao-q119139178-2.jpg",
+    "images/ji-dan-gao-q119139178/ji-dan-gao-q119139178-3.jpg",
+    "images/ji-dan-gao-q119139178/ji-dan-gao-q119139178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119139178",
+    "themealdb": null
+  }
+}

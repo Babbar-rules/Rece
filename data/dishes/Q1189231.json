@@ -1,0 +1,18 @@
+{
+  "id": "Q1189231",
+  "name": "breaded cutlet",
+  "description": "dish made from coating a cutlet of meat with breading or batter and either frying or baking it",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/breaded-cutlet-q1189231/breaded-cutlet-q1189231-1.jpg",
+    "images/breaded-cutlet-q1189231/breaded-cutlet-q1189231-2.jpg",
+    "images/breaded-cutlet-q1189231/breaded-cutlet-q1189231-3.jpg",
+    "images/breaded-cutlet-q1189231/breaded-cutlet-q1189231-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1189231",
+    "themealdb": null
+  }
+}

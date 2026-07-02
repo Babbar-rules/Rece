@@ -1,0 +1,18 @@
+{
+  "id": "Q11961672",
+  "name": "blueberry jam",
+  "description": "jam made from (North American) blueberries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blueberry-jam-q11961672/blueberry-jam-q11961672-1.jpg",
+    "images/blueberry-jam-q11961672/blueberry-jam-q11961672-2.jpg",
+    "images/blueberry-jam-q11961672/blueberry-jam-q11961672-3.jpg",
+    "images/blueberry-jam-q11961672/blueberry-jam-q11961672-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11961672",
+    "themealdb": null
+  }
+}

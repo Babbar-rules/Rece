@@ -1,0 +1,18 @@
+{
+  "id": "Q120783890",
+  "name": "bell castella",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bell-castella-q120783890/bell-castella-q120783890-1.jpg",
+    "images/bell-castella-q120783890/bell-castella-q120783890-2.jpg",
+    "images/bell-castella-q120783890/bell-castella-q120783890-3.jpg",
+    "images/bell-castella-q120783890/bell-castella-q120783890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120783890",
+    "themealdb": null
+  }
+}

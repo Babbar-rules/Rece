@@ -1,0 +1,20 @@
+{
+  "id": "Q1188911",
+  "name": "crab stick",
+  "description": "form of kamaboko, a processed seafood made of finely pulverized white fish flesh (surimi)",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-stick-q1188911/crab-stick-q1188911-1.jpg",
+    "images/crab-stick-q1188911/crab-stick-q1188911-2.jpg",
+    "images/crab-stick-q1188911/crab-stick-q1188911-3.jpg",
+    "images/crab-stick-q1188911/crab-stick-q1188911-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1188911",
+    "themealdb": null
+  }
+}

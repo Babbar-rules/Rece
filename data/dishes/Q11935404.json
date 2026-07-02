@@ -1,0 +1,18 @@
+{
+  "id": "Q11935404",
+  "name": "Vosí hnízdo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vosi-hnizdo-q11935404/vosi-hnizdo-q11935404-1.jpg",
+    "images/vosi-hnizdo-q11935404/vosi-hnizdo-q11935404-2.jpg",
+    "images/vosi-hnizdo-q11935404/vosi-hnizdo-q11935404-3.jpg",
+    "images/vosi-hnizdo-q11935404/vosi-hnizdo-q11935404-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11935404",
+    "themealdb": null
+  }
+}

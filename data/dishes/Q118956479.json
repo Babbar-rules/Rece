@@ -1,0 +1,15 @@
+{
+  "id": "Q118956479",
+  "name": "Sivas Köfte",
+  "description": "Meat dish from Sivas, Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118956479",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q120333167",
+  "name": "McMelt Cheddar",
+  "description": "Sanduich do restaurante fast food McDonalds",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcmelt-cheddar-q120333167/mcmelt-cheddar-q120333167-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120333167",
+    "themealdb": null
+  }
+}

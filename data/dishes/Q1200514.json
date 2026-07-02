@@ -1,0 +1,22 @@
+{
+  "id": "Q1200514",
+  "name": "moules-frites",
+  "description": "dish of mussels and fries",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/moules-frites-q1200514/moules-frites-q1200514-1.jpg",
+    "images/moules-frites-q1200514/moules-frites-q1200514-2.jpg",
+    "images/moules-frites-q1200514/moules-frites-q1200514-3.jpg",
+    "images/moules-frites-q1200514/moules-frites-q1200514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1200514",
+    "themealdb": null
+  }
+}

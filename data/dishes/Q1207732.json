@@ -1,0 +1,22 @@
+{
+  "id": "Q1207732",
+  "name": "cha siu bao",
+  "description": "Cantonese barbecue-pork-filled bun",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/cha-siu-bao-q1207732/cha-siu-bao-q1207732-1.jpg",
+    "images/cha-siu-bao-q1207732/cha-siu-bao-q1207732-2.jpg",
+    "images/cha-siu-bao-q1207732/cha-siu-bao-q1207732-3.jpg",
+    "images/cha-siu-bao-q1207732/cha-siu-bao-q1207732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1207732",
+    "themealdb": null
+  }
+}

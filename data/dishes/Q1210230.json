@@ -1,0 +1,20 @@
+{
+  "id": "Q1210230",
+  "name": "Welsh rarebit",
+  "description": "traditional Welsh dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/welsh-rarebit-q1210230/welsh-rarebit-q1210230-1.jpg",
+    "images/welsh-rarebit-q1210230/welsh-rarebit-q1210230-2.jpg",
+    "images/welsh-rarebit-q1210230/welsh-rarebit-q1210230-3.jpg",
+    "images/welsh-rarebit-q1210230/welsh-rarebit-q1210230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1210230",
+    "themealdb": null
+  }
+}

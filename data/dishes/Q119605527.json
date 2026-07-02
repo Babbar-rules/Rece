@@ -1,0 +1,20 @@
+{
+  "id": "Q119605527",
+  "name": "New York roll",
+  "description": "Pastry made from croissant dough",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the Mid-Atlantic United States"
+  ],
+  "images": [
+    "images/new-york-roll-q119605527/new-york-roll-q119605527-1.jpg",
+    "images/new-york-roll-q119605527/new-york-roll-q119605527-2.png",
+    "images/new-york-roll-q119605527/new-york-roll-q119605527-3.jpg",
+    "images/new-york-roll-q119605527/new-york-roll-q119605527-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119605527",
+    "themealdb": null
+  }
+}

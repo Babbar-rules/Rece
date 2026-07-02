@@ -1,0 +1,20 @@
+{
+  "id": "Q120486465",
+  "name": "Polvorosa",
+  "description": "Cookie from Colombia and Venezuela",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/polvorosa-q120486465/polvorosa-q120486465-1.jpg",
+    "images/polvorosa-q120486465/polvorosa-q120486465-2.jpg",
+    "images/polvorosa-q120486465/polvorosa-q120486465-3.jpg",
+    "images/polvorosa-q120486465/polvorosa-q120486465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120486465",
+    "themealdb": null
+  }
+}

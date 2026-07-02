@@ -1,0 +1,18 @@
+{
+  "id": "Q1195276",
+  "name": "birthday cake",
+  "description": "dessert served to celebrate a birthday",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/birthday-cake-q1195276/birthday-cake-q1195276-1.jpg",
+    "images/birthday-cake-q1195276/birthday-cake-q1195276-2.jpg",
+    "images/birthday-cake-q1195276/birthday-cake-q1195276-3.jpg",
+    "images/birthday-cake-q1195276/birthday-cake-q1195276-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1195276",
+    "themealdb": null
+  }
+}

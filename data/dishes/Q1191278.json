@@ -1,0 +1,22 @@
+{
+  "id": "Q1191278",
+  "name": "Blanquette de veau",
+  "description": "French veal ragout",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/blanquette-de-veau-q1191278/blanquette-de-veau-q1191278-1.jpg",
+    "images/blanquette-de-veau-q1191278/blanquette-de-veau-q1191278-2.jpg",
+    "images/blanquette-de-veau-q1191278/blanquette-de-veau-q1191278-3.jpg",
+    "images/blanquette-de-veau-q1191278/blanquette-de-veau-q1191278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1191278",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q121804925",
+  "name": "Suzhou-style mooncake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suzhou-style-mooncake-q121804925/suzhou-style-mooncake-q121804925-1.jpg",
+    "images/suzhou-style-mooncake-q121804925/suzhou-style-mooncake-q121804925-2.jpg",
+    "images/suzhou-style-mooncake-q121804925/suzhou-style-mooncake-q121804925-3.jpg",
+    "images/suzhou-style-mooncake-q121804925/suzhou-style-mooncake-q121804925-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121804925",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q118947848",
+  "name": "Helatiye",
+  "description": "Turkish dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/helatiye-q118947848/helatiye-q118947848-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118947848",
+    "themealdb": null
+  }
+}

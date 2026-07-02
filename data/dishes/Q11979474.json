@@ -1,0 +1,18 @@
+{
+  "id": "Q11979474",
+  "name": "Christmas candy",
+  "description": "candy for Christmas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-candy-q11979474/christmas-candy-q11979474-1.jpg",
+    "images/christmas-candy-q11979474/christmas-candy-q11979474-2.jpg",
+    "images/christmas-candy-q11979474/christmas-candy-q11979474-3.jpg",
+    "images/christmas-candy-q11979474/christmas-candy-q11979474-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11979474",
+    "themealdb": null
+  }
+}

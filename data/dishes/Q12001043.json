@@ -1,0 +1,18 @@
+{
+  "id": "Q12001043",
+  "name": "skjenning",
+  "description": "Norwegian flatbread",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/skjenning-q12001043/skjenning-q12001043-1.jpg",
+    "images/skjenning-q12001043/skjenning-q12001043-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12001043",
+    "themealdb": null
+  }
+}

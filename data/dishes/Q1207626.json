@@ -1,0 +1,22 @@
+{
+  "id": "Q1207626",
+  "name": "jelly bean",
+  "description": "small bean-shaped type of confectionery",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/jelly-bean-q1207626/jelly-bean-q1207626-1.jpg",
+    "images/jelly-bean-q1207626/jelly-bean-q1207626-2.jpg",
+    "images/jelly-bean-q1207626/jelly-bean-q1207626-3.jpg",
+    "images/jelly-bean-q1207626/jelly-bean-q1207626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1207626",
+    "themealdb": null
+  }
+}

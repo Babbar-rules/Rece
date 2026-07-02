@@ -1,0 +1,18 @@
+{
+  "id": "Q12192991",
+  "name": "meskouta Mouskoutchou",
+  "description": "cake from algiers",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meskouta-mouskoutchou-q12192991/meskouta-mouskoutchou-q12192991-1.jpg",
+    "images/meskouta-mouskoutchou-q12192991/meskouta-mouskoutchou-q12192991-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12192991",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q12050379",
+  "name": "Russian ice cream",
+  "description": "type of ice cream sandwich",
+  "nationality": [
+    "Soviet Union"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/russian-ice-cream-q12050379/russian-ice-cream-q12050379-1.jpg",
+    "images/russian-ice-cream-q12050379/russian-ice-cream-q12050379-2.jpg",
+    "images/russian-ice-cream-q12050379/russian-ice-cream-q12050379-3.jpg",
+    "images/russian-ice-cream-q12050379/russian-ice-cream-q12050379-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12050379",
+    "themealdb": null
+  }
+}

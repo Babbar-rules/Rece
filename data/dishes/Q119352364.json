@@ -1,0 +1,20 @@
+{
+  "id": "Q119352364",
+  "name": "Conti roll",
+  "description": "popular sandwich in Perth, Western Australia",
+  "nationality": [],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/conti-roll-q119352364/conti-roll-q119352364-1.jpg",
+    "images/conti-roll-q119352364/conti-roll-q119352364-2.jpg",
+    "images/conti-roll-q119352364/conti-roll-q119352364-3.jpg",
+    "images/conti-roll-q119352364/conti-roll-q119352364-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119352364",
+    "themealdb": null
+  }
+}

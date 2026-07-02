@@ -1,0 +1,18 @@
+{
+  "id": "Q120919679",
+  "name": "duru-ten",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/duru-ten-q120919679/duru-ten-q120919679-1.jpg",
+    "images/duru-ten-q120919679/duru-ten-q120919679-2.jpg",
+    "images/duru-ten-q120919679/duru-ten-q120919679-3.jpg",
+    "images/duru-ten-q120919679/duru-ten-q120919679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120919679",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1204628",
+  "name": "Milo",
+  "description": "Australian brand of chocolate-based products",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milo-q1204628/milo-q1204628-1.jpg",
+    "images/milo-q1204628/milo-q1204628-2.jpg",
+    "images/milo-q1204628/milo-q1204628-3.jpg",
+    "images/milo-q1204628/milo-q1204628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1204628",
+    "themealdb": null
+  }
+}

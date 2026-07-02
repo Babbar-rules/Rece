@@ -1,0 +1,20 @@
+{
+  "id": "Q119198843",
+  "name": "Chicken and broccoli",
+  "description": "American Chinese dish",
+  "nationality": [],
+  "region_cuisine": [
+    "American Chinese cuisine"
+  ],
+  "images": [
+    "images/chicken-and-broccoli-q119198843/chicken-and-broccoli-q119198843-1.jpg",
+    "images/chicken-and-broccoli-q119198843/chicken-and-broccoli-q119198843-2.jpg",
+    "images/chicken-and-broccoli-q119198843/chicken-and-broccoli-q119198843-3.jpg",
+    "images/chicken-and-broccoli-q119198843/chicken-and-broccoli-q119198843-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119198843",
+    "themealdb": null
+  }
+}

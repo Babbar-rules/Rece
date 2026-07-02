@@ -1,0 +1,20 @@
+{
+  "id": "Q121157049",
+  "name": "Spoja lorda",
+  "description": "type of square filled egg pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Romagna cuisine"
+  ],
+  "images": [
+    "images/spoja-lorda-q121157049/spoja-lorda-q121157049-1.jpg",
+    "images/spoja-lorda-q121157049/spoja-lorda-q121157049-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121157049",
+    "themealdb": null
+  }
+}

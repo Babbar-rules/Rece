@@ -1,0 +1,18 @@
+{
+  "id": "Q119580769",
+  "name": "smothered pork chops",
+  "description": "American recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smothered-pork-chops-q119580769/smothered-pork-chops-q119580769-1.jpg",
+    "images/smothered-pork-chops-q119580769/smothered-pork-chops-q119580769-2.jpg",
+    "images/smothered-pork-chops-q119580769/smothered-pork-chops-q119580769-3.jpg",
+    "images/smothered-pork-chops-q119580769/smothered-pork-chops-q119580769-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119580769",
+    "themealdb": null
+  }
+}

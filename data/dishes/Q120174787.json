@@ -1,0 +1,15 @@
+{
+  "id": "Q120174787",
+  "name": "ant egg soup",
+  "description": "type of soup made with ant eggs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ant-egg-soup-q120174787/ant-egg-soup-q120174787-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120174787",
+    "themealdb": null
+  }
+}

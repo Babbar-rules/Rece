@@ -1,0 +1,22 @@
+{
+  "id": "Q120096",
+  "name": "Tempeh",
+  "description": "Indonesian soy product originated from Java island, used as protein source",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tempeh-q120096/tempeh-q120096-1.jpg",
+    "images/tempeh-q120096/tempeh-q120096-2.jpg",
+    "images/tempeh-q120096/tempeh-q120096-3.jpg",
+    "images/tempeh-q120096/tempeh-q120096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120096",
+    "themealdb": null
+  }
+}

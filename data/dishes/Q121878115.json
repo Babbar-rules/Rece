@@ -1,0 +1,20 @@
+{
+  "id": "Q121878115",
+  "name": "Thattu dosa",
+  "description": "",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thattu-dosa-q121878115/thattu-dosa-q121878115-1.jpg",
+    "images/thattu-dosa-q121878115/thattu-dosa-q121878115-2.jpg",
+    "images/thattu-dosa-q121878115/thattu-dosa-q121878115-3.jpg",
+    "images/thattu-dosa-q121878115/thattu-dosa-q121878115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121878115",
+    "themealdb": null
+  }
+}

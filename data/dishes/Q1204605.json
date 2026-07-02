@@ -1,0 +1,22 @@
+{
+  "id": "Q1204605",
+  "name": "char siu",
+  "description": "popular style of Cantonese barbecued pork",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/char-siu-q1204605/char-siu-q1204605-1.jpg",
+    "images/char-siu-q1204605/char-siu-q1204605-2.jpg",
+    "images/char-siu-q1204605/char-siu-q1204605-3.jpg",
+    "images/char-siu-q1204605/char-siu-q1204605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1204605",
+    "themealdb": null
+  }
+}

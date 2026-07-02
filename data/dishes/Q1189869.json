@@ -1,0 +1,20 @@
+{
+  "id": "Q1189869",
+  "name": "cake pop",
+  "description": "cake on a stick similar to a lollipop",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cake-pop-q1189869/cake-pop-q1189869-1.jpg",
+    "images/cake-pop-q1189869/cake-pop-q1189869-2.jpg",
+    "images/cake-pop-q1189869/cake-pop-q1189869-3.jpg",
+    "images/cake-pop-q1189869/cake-pop-q1189869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1189869",
+    "themealdb": null
+  }
+}

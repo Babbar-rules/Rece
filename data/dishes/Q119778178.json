@@ -1,0 +1,22 @@
+{
+  "id": "Q119778178",
+  "name": "lechon",
+  "description": "Filipino pork dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [
+    "Filipino cuisine"
+  ],
+  "images": [
+    "images/lechon-q119778178/lechon-q119778178-1.jpg",
+    "images/lechon-q119778178/lechon-q119778178-2.jpg",
+    "images/lechon-q119778178/lechon-q119778178-3.jpg",
+    "images/lechon-q119778178/lechon-q119778178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119778178",
+    "themealdb": null
+  }
+}

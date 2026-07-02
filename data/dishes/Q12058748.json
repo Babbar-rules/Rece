@@ -1,0 +1,18 @@
+{
+  "id": "Q12058748",
+  "name": "Termix",
+  "description": "cheese dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/termix-q12058748/termix-q12058748-1.jpg",
+    "images/termix-q12058748/termix-q12058748-2.jpg",
+    "images/termix-q12058748/termix-q12058748-3.jpg",
+    "images/termix-q12058748/termix-q12058748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12058748",
+    "themealdb": null
+  }
+}

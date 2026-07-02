@@ -1,0 +1,20 @@
+{
+  "id": "Q120920042",
+  "name": "itokirimochi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/itokirimochi-q120920042/itokirimochi-q120920042-1.jpg",
+    "images/itokirimochi-q120920042/itokirimochi-q120920042-2.jpg",
+    "images/itokirimochi-q120920042/itokirimochi-q120920042-3.jpg",
+    "images/itokirimochi-q120920042/itokirimochi-q120920042-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120920042",
+    "themealdb": null
+  }
+}

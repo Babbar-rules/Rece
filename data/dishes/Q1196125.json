@@ -1,0 +1,22 @@
+{
+  "id": "Q1196125",
+  "name": "almond biscuit",
+  "description": "almond seed biscuit",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/almond-biscuit-q1196125/almond-biscuit-q1196125-1.jpg",
+    "images/almond-biscuit-q1196125/almond-biscuit-q1196125-2.jpg",
+    "images/almond-biscuit-q1196125/almond-biscuit-q1196125-3.jpg",
+    "images/almond-biscuit-q1196125/almond-biscuit-q1196125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1196125",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q120777817",
+  "name": "Bolo preto",
+  "description": "Caribbean cake",
+  "nationality": [
+    "Caribbean"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolo-preto-q120777817/bolo-preto-q120777817-1.jpg",
+    "images/bolo-preto-q120777817/bolo-preto-q120777817-2.jpg",
+    "images/bolo-preto-q120777817/bolo-preto-q120777817-3.jpg",
+    "images/bolo-preto-q120777817/bolo-preto-q120777817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120777817",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1190838",
+  "name": "pain au chocolat",
+  "description": "viennoiserie sweet roll",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pain-au-chocolat-q1190838/pain-au-chocolat-q1190838-1.jpg",
+    "images/pain-au-chocolat-q1190838/pain-au-chocolat-q1190838-2.jpg",
+    "images/pain-au-chocolat-q1190838/pain-au-chocolat-q1190838-3.jpg",
+    "images/pain-au-chocolat-q1190838/pain-au-chocolat-q1190838-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1190838",
+    "themealdb": null
+  }
+}

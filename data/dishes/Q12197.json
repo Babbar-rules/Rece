@@ -1,0 +1,22 @@
+{
+  "id": "Q12197",
+  "name": "Kig ha farz",
+  "description": "cooked dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/kig-ha-farz-q12197/kig-ha-farz-q12197-1.jpg",
+    "images/kig-ha-farz-q12197/kig-ha-farz-q12197-2.jpg",
+    "images/kig-ha-farz-q12197/kig-ha-farz-q12197-3.jpg",
+    "images/kig-ha-farz-q12197/kig-ha-farz-q12197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12197",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q121409949",
+  "name": "otōshi",
+  "description": "tiny appetizer with cover charge in izakayas",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/otoshi-q121409949/otoshi-q121409949-1.jpg",
+    "images/otoshi-q121409949/otoshi-q121409949-2.jpg",
+    "images/otoshi-q121409949/otoshi-q121409949-3.jpg",
+    "images/otoshi-q121409949/otoshi-q121409949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121409949",
+    "themealdb": null
+  }
+}

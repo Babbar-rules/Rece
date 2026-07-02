@@ -1,0 +1,20 @@
+{
+  "id": "Q12056671",
+  "name": "tortiglioni",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortiglioni-q12056671/tortiglioni-q12056671-1.jpg",
+    "images/tortiglioni-q12056671/tortiglioni-q12056671-2.jpg",
+    "images/tortiglioni-q12056671/tortiglioni-q12056671-3.jpg",
+    "images/tortiglioni-q12056671/tortiglioni-q12056671-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12056671",
+    "themealdb": null
+  }
+}

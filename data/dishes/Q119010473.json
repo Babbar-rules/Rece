@@ -1,0 +1,19 @@
+{
+  "id": "Q119010473",
+  "name": "Taco placero",
+  "description": "kind of taco",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taco-placero-q119010473/taco-placero-q119010473-1.jpg",
+    "images/taco-placero-q119010473/taco-placero-q119010473-2.jpg",
+    "images/taco-placero-q119010473/taco-placero-q119010473-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q119010473",
+    "themealdb": null
+  }
+}

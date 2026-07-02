@@ -1,0 +1,18 @@
+{
+  "id": "Q12063757",
+  "name": "Nestlé Crunch",
+  "description": "Chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nestle-crunch-q12063757/nestle-crunch-q12063757-1.jpg",
+    "images/nestle-crunch-q12063757/nestle-crunch-q12063757-2.jpg",
+    "images/nestle-crunch-q12063757/nestle-crunch-q12063757-3.jpg",
+    "images/nestle-crunch-q12063757/nestle-crunch-q12063757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12063757",
+    "themealdb": null
+  }
+}

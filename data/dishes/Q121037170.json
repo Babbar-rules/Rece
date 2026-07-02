@@ -1,0 +1,20 @@
+{
+  "id": "Q121037170",
+  "name": "Japanese milk bread",
+  "description": "Style of bread",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/japanese-milk-bread-q121037170/japanese-milk-bread-q121037170-1.jpg",
+    "images/japanese-milk-bread-q121037170/japanese-milk-bread-q121037170-2.jpg",
+    "images/japanese-milk-bread-q121037170/japanese-milk-bread-q121037170-3.jpg",
+    "images/japanese-milk-bread-q121037170/japanese-milk-bread-q121037170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q121037170",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q12137633",
+  "name": "palianytsia",
+  "description": "Ukrainian round bread",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/palianytsia-q12137633/palianytsia-q12137633-1.jpg",
+    "images/palianytsia-q12137633/palianytsia-q12137633-2.jpg",
+    "images/palianytsia-q12137633/palianytsia-q12137633-3.jpg",
+    "images/palianytsia-q12137633/palianytsia-q12137633-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12137633",
+    "themealdb": null
+  }
+}

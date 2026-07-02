@@ -1,0 +1,20 @@
+{
+  "id": "Q12197801",
+  "name": "Barazek",
+  "description": "arabic sesame cookies",
+  "nationality": [
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barazek-q12197801/barazek-q12197801-1.jpg",
+    "images/barazek-q12197801/barazek-q12197801-2.jpg",
+    "images/barazek-q12197801/barazek-q12197801-3.jpg",
+    "images/barazek-q12197801/barazek-q12197801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12197801",
+    "themealdb": null
+  }
+}

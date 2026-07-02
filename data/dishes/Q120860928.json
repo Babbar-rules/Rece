@@ -1,0 +1,17 @@
+{
+  "id": "Q120860928",
+  "name": "mamakari",
+  "description": "pickled sardine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mamakari-q120860928/mamakari-q120860928-1.jpg",
+    "images/mamakari-q120860928/mamakari-q120860928-2.jpg",
+    "images/mamakari-q120860928/mamakari-q120860928-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120860928",
+    "themealdb": null
+  }
+}

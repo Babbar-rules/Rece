@@ -1,0 +1,19 @@
+{
+  "id": "Q11907497",
+  "name": "Bacallà a la llauna",
+  "description": "",
+  "nationality": [
+    "Catalan countries"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalla-a-la-llauna-q11907497/bacalla-a-la-llauna-q11907497-1.jpg",
+    "images/bacalla-a-la-llauna-q11907497/bacalla-a-la-llauna-q11907497-2.jpg",
+    "images/bacalla-a-la-llauna-q11907497/bacalla-a-la-llauna-q11907497-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11907497",
+    "themealdb": null
+  }
+}

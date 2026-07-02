@@ -1,0 +1,20 @@
+{
+  "id": "Q1219001",
+  "name": "Tourin",
+  "description": "French soup",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tourin-q1219001/tourin-q1219001-1.jpg",
+    "images/tourin-q1219001/tourin-q1219001-2.jpg",
+    "images/tourin-q1219001/tourin-q1219001-3.jpg",
+    "images/tourin-q1219001/tourin-q1219001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1219001",
+    "themealdb": null
+  }
+}

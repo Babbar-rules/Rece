@@ -1,0 +1,18 @@
+{
+  "id": "Q1208221",
+  "name": "rolled oats",
+  "description": "lightly processed whole-grain food made from oat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rolled-oats-q1208221/rolled-oats-q1208221-1.jpg",
+    "images/rolled-oats-q1208221/rolled-oats-q1208221-2.jpg",
+    "images/rolled-oats-q1208221/rolled-oats-q1208221-3.jpg",
+    "images/rolled-oats-q1208221/rolled-oats-q1208221-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1208221",
+    "themealdb": null
+  }
+}

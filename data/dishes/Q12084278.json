@@ -1,0 +1,20 @@
+{
+  "id": "Q12084278",
+  "name": "borscht with uszka",
+  "description": "",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/borscht-with-uszka-q12084278/borscht-with-uszka-q12084278-1.jpg",
+    "images/borscht-with-uszka-q12084278/borscht-with-uszka-q12084278-2.jpg",
+    "images/borscht-with-uszka-q12084278/borscht-with-uszka-q12084278-3.jpg",
+    "images/borscht-with-uszka-q12084278/borscht-with-uszka-q12084278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12084278",
+    "themealdb": null
+  }
+}

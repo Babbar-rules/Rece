@@ -1,0 +1,18 @@
+{
+  "id": "Q120394663",
+  "name": "yangtang",
+  "description": "Chinese mutton/lamb soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yangtang-q120394663/yangtang-q120394663-1.jpg",
+    "images/yangtang-q120394663/yangtang-q120394663-2.jpg",
+    "images/yangtang-q120394663/yangtang-q120394663-3.jpg",
+    "images/yangtang-q120394663/yangtang-q120394663-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q120394663",
+    "themealdb": null
+  }
+}
