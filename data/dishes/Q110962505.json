@@ -1,0 +1,18 @@
+{
+  "id": "Q110962505",
+  "name": "Kebebet",
+  "description": "variant of the kibbeh dish made of meat and bulgur with aromatic stuffing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kebebet-q110962505/kebebet-q110962505-1.jpg",
+    "images/kebebet-q110962505/kebebet-q110962505-2.jpg",
+    "images/kebebet-q110962505/kebebet-q110962505-3.jpg",
+    "images/kebebet-q110962505/kebebet-q110962505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110962505",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q111981908",
+  "name": "jiamo",
+  "description": "two pieces of momos (a subclass of flat mantou) with fillings in it",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jiamo-q111981908/jiamo-q111981908-1.jpg",
+    "images/jiamo-q111981908/jiamo-q111981908-2.jpg",
+    "images/jiamo-q111981908/jiamo-q111981908-3.jpg",
+    "images/jiamo-q111981908/jiamo-q111981908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111981908",
+    "themealdb": null
+  }
+}

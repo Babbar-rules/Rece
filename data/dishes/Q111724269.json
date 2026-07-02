@@ -1,0 +1,60 @@
+{
+  "id": "Q111724269",
+  "name": "bean stew",
+  "description": "",
+  "nationality": [
+    "Croatian"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/bean-stew-q111724269/bean-stew-q111724269-1.jpg",
+    "images/bean-stew-q111724269/bean-stew-q111724269-2.jpg",
+    "images/bean-stew-q111724269/bean-stew-q111724269-3.jpg",
+    "images/bean-stew-q111724269/bean-stew-q111724269-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53058",
+    "category": "Beef",
+    "area": "Croatian",
+    "instructions": "Heat the oil in a pan. Add the chopped vegetables and sauté until tender. Take a pot, empty the beans together with the vegetables into it, put the sausages inside and cook for further 20 minutes on a low heat. Or, put it in an oven and bake it at a temperature of 180ºC/350ºF for 30 minutes. This dish is even better reheated the next day.",
+    "ingredients": [
+      {
+        "ingredient": "Cannellini Beans",
+        "measure": "2 cans"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Challots",
+        "measure": "5"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Chorizo",
+        "measure": "1/2 kg chopped"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=mrjnQal3S1A",
+    "thumb": "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111724269",
+    "themealdb": "53058"
+  }
+}

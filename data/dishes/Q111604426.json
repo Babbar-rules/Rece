@@ -1,0 +1,17 @@
+{
+  "id": "Q111604426",
+  "name": "Tarempa noodles",
+  "description": "Indonesian noodle dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Riau Islands"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111604426",
+    "themealdb": null
+  }
+}

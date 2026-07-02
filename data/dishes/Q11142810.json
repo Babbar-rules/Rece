@@ -1,0 +1,22 @@
+{
+  "id": "Q11142810",
+  "name": "Cilok",
+  "description": "Sundanese boiled or fried tapioca flour balls",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/cilok-q11142810/cilok-q11142810-1.jpg",
+    "images/cilok-q11142810/cilok-q11142810-2.jpg",
+    "images/cilok-q11142810/cilok-q11142810-3.jpg",
+    "images/cilok-q11142810/cilok-q11142810-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11142810",
+    "themealdb": null
+  }
+}

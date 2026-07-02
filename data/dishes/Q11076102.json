@@ -1,0 +1,22 @@
+{
+  "id": "Q11076102",
+  "name": "braised pork slices",
+  "description": "dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/braised-pork-slices-q11076102/braised-pork-slices-q11076102-1.jpg",
+    "images/braised-pork-slices-q11076102/braised-pork-slices-q11076102-2.jpg",
+    "images/braised-pork-slices-q11076102/braised-pork-slices-q11076102-3.jpg",
+    "images/braised-pork-slices-q11076102/braised-pork-slices-q11076102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11076102",
+    "themealdb": null
+  }
+}

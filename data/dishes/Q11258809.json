@@ -1,0 +1,20 @@
+{
+  "id": "Q11258809",
+  "name": "ankoro mochi",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ankoro-mochi-q11258809/ankoro-mochi-q11258809-1.jpg",
+    "images/ankoro-mochi-q11258809/ankoro-mochi-q11258809-2.jpg",
+    "images/ankoro-mochi-q11258809/ankoro-mochi-q11258809-3.jpg",
+    "images/ankoro-mochi-q11258809/ankoro-mochi-q11258809-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258809",
+    "themealdb": null
+  }
+}

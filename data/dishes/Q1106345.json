@@ -1,0 +1,21 @@
+{
+  "id": "Q1106345",
+  "name": "porchetta",
+  "description": "savoury, fatty, and moist boneless pork roast of Italian and French culinary tradition",
+  "nationality": [
+    "Italy",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/porchetta-q1106345/porchetta-q1106345-1.jpg",
+    "images/porchetta-q1106345/porchetta-q1106345-2.jpg",
+    "images/porchetta-q1106345/porchetta-q1106345-3.jpg",
+    "images/porchetta-q1106345/porchetta-q1106345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1106345",
+    "themealdb": null
+  }
+}

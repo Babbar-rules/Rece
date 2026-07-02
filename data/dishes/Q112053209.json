@@ -1,0 +1,20 @@
+{
+  "id": "Q112053209",
+  "name": "Kame Manjū",
+  "description": "manjū made by the Kameya Corporation",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kame-manju-q112053209/kame-manju-q112053209-1.jpg",
+    "images/kame-manju-q112053209/kame-manju-q112053209-2.jpg",
+    "images/kame-manju-q112053209/kame-manju-q112053209-3.jpg",
+    "images/kame-manju-q112053209/kame-manju-q112053209-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112053209",
+    "themealdb": null
+  }
+}

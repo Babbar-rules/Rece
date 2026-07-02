@@ -1,0 +1,20 @@
+{
+  "id": "Q11140708",
+  "name": "shacha noodle",
+  "description": "Chinese noodle dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shacha-noodle-q11140708/shacha-noodle-q11140708-1.jpg",
+    "images/shacha-noodle-q11140708/shacha-noodle-q11140708-2.jpg",
+    "images/shacha-noodle-q11140708/shacha-noodle-q11140708-3.jpg",
+    "images/shacha-noodle-q11140708/shacha-noodle-q11140708-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11140708",
+    "themealdb": null
+  }
+}

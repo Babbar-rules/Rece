@@ -1,0 +1,20 @@
+{
+  "id": "Q11175394",
+  "name": "Maltose with biscuits",
+  "description": "saltine crackers with maltose syrup",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maltose-with-biscuits-q11175394/maltose-with-biscuits-q11175394-1.jpg",
+    "images/maltose-with-biscuits-q11175394/maltose-with-biscuits-q11175394-2.jpg",
+    "images/maltose-with-biscuits-q11175394/maltose-with-biscuits-q11175394-3.jpg",
+    "images/maltose-with-biscuits-q11175394/maltose-with-biscuits-q11175394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11175394",
+    "themealdb": null
+  }
+}

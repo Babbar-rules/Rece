@@ -1,0 +1,22 @@
+{
+  "id": "Q11141042",
+  "name": "Cimol",
+  "description": "Typical Sundanese snacks",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/cimol-q11141042/cimol-q11141042-1.jpg",
+    "images/cimol-q11141042/cimol-q11141042-2.jpg",
+    "images/cimol-q11141042/cimol-q11141042-3.jpg",
+    "images/cimol-q11141042/cimol-q11141042-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11141042",
+    "themealdb": null
+  }
+}

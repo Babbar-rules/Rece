@@ -1,0 +1,18 @@
+{
+  "id": "Q11075630",
+  "name": "Yanpi",
+  "description": "type of Chinese wonton skin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yanpi-q11075630/yanpi-q11075630-1.jpg",
+    "images/yanpi-q11075630/yanpi-q11075630-2.jpg",
+    "images/yanpi-q11075630/yanpi-q11075630-3.jpg",
+    "images/yanpi-q11075630/yanpi-q11075630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11075630",
+    "themealdb": null
+  }
+}

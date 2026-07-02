@@ -1,0 +1,20 @@
+{
+  "id": "Q11174939",
+  "name": "Salt-baked chicken",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salt-baked-chicken-q11174939/salt-baked-chicken-q11174939-1.jpg",
+    "images/salt-baked-chicken-q11174939/salt-baked-chicken-q11174939-2.jpg",
+    "images/salt-baked-chicken-q11174939/salt-baked-chicken-q11174939-3.jpg",
+    "images/salt-baked-chicken-q11174939/salt-baked-chicken-q11174939-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11174939",
+    "themealdb": null
+  }
+}

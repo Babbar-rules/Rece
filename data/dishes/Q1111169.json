@@ -1,0 +1,22 @@
+{
+  "id": "Q1111169",
+  "name": "tapulone",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Piedmont"
+  ],
+  "images": [
+    "images/tapulone-q1111169/tapulone-q1111169-1.jpg",
+    "images/tapulone-q1111169/tapulone-q1111169-2.jpg",
+    "images/tapulone-q1111169/tapulone-q1111169-3.jpg",
+    "images/tapulone-q1111169/tapulone-q1111169-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1111169",
+    "themealdb": null
+  }
+}

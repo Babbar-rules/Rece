@@ -1,0 +1,18 @@
+{
+  "id": "Q111915626",
+  "name": "Impossible Whopper",
+  "description": "veggie burger sold by Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/impossible-whopper-q111915626/impossible-whopper-q111915626-1.jpg",
+    "images/impossible-whopper-q111915626/impossible-whopper-q111915626-2.jpg",
+    "images/impossible-whopper-q111915626/impossible-whopper-q111915626-3.jpg",
+    "images/impossible-whopper-q111915626/impossible-whopper-q111915626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111915626",
+    "themealdb": null
+  }
+}

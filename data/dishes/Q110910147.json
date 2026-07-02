@@ -1,0 +1,18 @@
+{
+  "id": "Q110910147",
+  "name": "morogo wa dinawa",
+  "description": "dish of cowpea leaves and beans",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/morogo-wa-dinawa-q110910147/morogo-wa-dinawa-q110910147-1.jpg",
+    "images/morogo-wa-dinawa-q110910147/morogo-wa-dinawa-q110910147-2.jpg",
+    "images/morogo-wa-dinawa-q110910147/morogo-wa-dinawa-q110910147-3.jpg",
+    "images/morogo-wa-dinawa-q110910147/morogo-wa-dinawa-q110910147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110910147",
+    "themealdb": null
+  }
+}

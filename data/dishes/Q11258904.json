@@ -1,0 +1,18 @@
+{
+  "id": "Q11258904",
+  "name": "andama",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/andama-q11258904/andama-q11258904-1.jpg",
+    "images/andama-q11258904/andama-q11258904-2.jpg",
+    "images/andama-q11258904/andama-q11258904-3.jpg",
+    "images/andama-q11258904/andama-q11258904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258904",
+    "themealdb": null
+  }
+}

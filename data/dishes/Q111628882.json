@@ -1,0 +1,19 @@
+{
+  "id": "Q111628882",
+  "name": "Torta de pellizco",
+  "description": "Typical cake from Ubrique and Alcalá de los Gazules, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-de-pellizco-q111628882/torta-de-pellizco-q111628882-1.jpg",
+    "images/torta-de-pellizco-q111628882/torta-de-pellizco-q111628882-2.jpg",
+    "images/torta-de-pellizco-q111628882/torta-de-pellizco-q111628882-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111628882",
+    "themealdb": null
+  }
+}

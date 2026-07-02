@@ -1,0 +1,20 @@
+{
+  "id": "Q11130296",
+  "name": "Shuizhuyu",
+  "description": "spicy fish dish from China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shuizhuyu-q11130296/shuizhuyu-q11130296-1.jpg",
+    "images/shuizhuyu-q11130296/shuizhuyu-q11130296-2.jpg",
+    "images/shuizhuyu-q11130296/shuizhuyu-q11130296-3.jpg",
+    "images/shuizhuyu-q11130296/shuizhuyu-q11130296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11130296",
+    "themealdb": null
+  }
+}

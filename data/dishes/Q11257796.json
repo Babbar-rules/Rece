@@ -1,0 +1,18 @@
+{
+  "id": "Q11257796",
+  "name": "anagomeshi",
+  "description": "Japanese rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/anagomeshi-q11257796/anagomeshi-q11257796-1.jpg",
+    "images/anagomeshi-q11257796/anagomeshi-q11257796-2.jpg",
+    "images/anagomeshi-q11257796/anagomeshi-q11257796-3.jpg",
+    "images/anagomeshi-q11257796/anagomeshi-q11257796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11257796",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11087090",
+  "name": "Asahikawa ramen",
+  "description": "Japanese ramen dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/asahikawa-ramen-q11087090/asahikawa-ramen-q11087090-1.jpg",
+    "images/asahikawa-ramen-q11087090/asahikawa-ramen-q11087090-2.jpg",
+    "images/asahikawa-ramen-q11087090/asahikawa-ramen-q11087090-3.jpeg",
+    "images/asahikawa-ramen-q11087090/asahikawa-ramen-q11087090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11087090",
+    "themealdb": null
+  }
+}

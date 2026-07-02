@@ -1,0 +1,20 @@
+{
+  "id": "Q1108866",
+  "name": "cornbread",
+  "description": "American bread made from cornmeal",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cornbread-q1108866/cornbread-q1108866-1.jpg",
+    "images/cornbread-q1108866/cornbread-q1108866-2.jpg",
+    "images/cornbread-q1108866/cornbread-q1108866-3.jpg",
+    "images/cornbread-q1108866/cornbread-q1108866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1108866",
+    "themealdb": null
+  }
+}

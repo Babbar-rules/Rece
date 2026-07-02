@@ -1,0 +1,18 @@
+{
+  "id": "Q11257088",
+  "name": "ageimo",
+  "description": "Hokkaido dish of fried potatoes",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ageimo-q11257088/ageimo-q11257088-1.jpg",
+    "images/ageimo-q11257088/ageimo-q11257088-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11257088",
+    "themealdb": null
+  }
+}

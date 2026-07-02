@@ -1,0 +1,21 @@
+{
+  "id": "Q111898703",
+  "name": "cold borscht",
+  "description": "traditional Ukrainian or Russian chilled soup made from beets",
+  "nationality": [],
+  "region_cuisine": [
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/cold-borscht-q111898703/cold-borscht-q111898703-1.jpg",
+    "images/cold-borscht-q111898703/cold-borscht-q111898703-2.jpg",
+    "images/cold-borscht-q111898703/cold-borscht-q111898703-3.jpg",
+    "images/cold-borscht-q111898703/cold-borscht-q111898703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111898703",
+    "themealdb": null
+  }
+}

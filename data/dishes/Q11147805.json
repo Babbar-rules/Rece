@@ -1,0 +1,20 @@
+{
+  "id": "Q11147805",
+  "name": "nagashi sōmen",
+  "description": "Japanese noodle dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nagashi-somen-q11147805/nagashi-somen-q11147805-1.jpg",
+    "images/nagashi-somen-q11147805/nagashi-somen-q11147805-2.jpg",
+    "images/nagashi-somen-q11147805/nagashi-somen-q11147805-3.jpg",
+    "images/nagashi-somen-q11147805/nagashi-somen-q11147805-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11147805",
+    "themealdb": null
+  }
+}

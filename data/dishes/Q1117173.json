@@ -1,0 +1,22 @@
+{
+  "id": "Q1117173",
+  "name": "sarde in saor",
+  "description": "Venetian appetizer",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Veneto"
+  ],
+  "images": [
+    "images/sarde-in-saor-q1117173/sarde-in-saor-q1117173-1.jpg",
+    "images/sarde-in-saor-q1117173/sarde-in-saor-q1117173-2.jpg",
+    "images/sarde-in-saor-q1117173/sarde-in-saor-q1117173-3.jpg",
+    "images/sarde-in-saor-q1117173/sarde-in-saor-q1117173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1117173",
+    "themealdb": null
+  }
+}

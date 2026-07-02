@@ -1,0 +1,20 @@
+{
+  "id": "Q1124753",
+  "name": "Cicerata",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cicerata-q1124753/cicerata-q1124753-1.jpg",
+    "images/cicerata-q1124753/cicerata-q1124753-2.jpg",
+    "images/cicerata-q1124753/cicerata-q1124753-3.jpg",
+    "images/cicerata-q1124753/cicerata-q1124753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1124753",
+    "themealdb": null
+  }
+}

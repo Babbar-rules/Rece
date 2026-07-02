@@ -1,0 +1,20 @@
+{
+  "id": "Q110885312",
+  "name": "kunpen",
+  "description": "",
+  "nationality": [
+    "Ryukyu Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kunpen-q110885312/kunpen-q110885312-1.jpg",
+    "images/kunpen-q110885312/kunpen-q110885312-2.jpg",
+    "images/kunpen-q110885312/kunpen-q110885312-3.jpg",
+    "images/kunpen-q110885312/kunpen-q110885312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110885312",
+    "themealdb": null
+  }
+}

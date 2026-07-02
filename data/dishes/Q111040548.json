@@ -1,0 +1,20 @@
+{
+  "id": "Q111040548",
+  "name": "curry in the United Kingdom",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/curry-in-the-united-kingdom-q111040548/curry-in-the-united-kingdom-q111040548-1.jpg",
+    "images/curry-in-the-united-kingdom-q111040548/curry-in-the-united-kingdom-q111040548-2.jpg",
+    "images/curry-in-the-united-kingdom-q111040548/curry-in-the-united-kingdom-q111040548-3.jpg",
+    "images/curry-in-the-united-kingdom-q111040548/curry-in-the-united-kingdom-q111040548-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111040548",
+    "themealdb": null
+  }
+}

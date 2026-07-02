@@ -1,0 +1,16 @@
+{
+  "id": "Q11236775",
+  "name": "Laputa bread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/laputa-bread-q11236775/laputa-bread-q11236775-1.jpg",
+    "images/laputa-bread-q11236775/laputa-bread-q11236775-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11236775",
+    "themealdb": null
+  }
+}

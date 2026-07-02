@@ -1,0 +1,20 @@
+{
+  "id": "Q11258602",
+  "name": "arajiru",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arajiru-q11258602/arajiru-q11258602-1.jpg",
+    "images/arajiru-q11258602/arajiru-q11258602-2.jpg",
+    "images/arajiru-q11258602/arajiru-q11258602-3.jpg",
+    "images/arajiru-q11258602/arajiru-q11258602-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258602",
+    "themealdb": null
+  }
+}

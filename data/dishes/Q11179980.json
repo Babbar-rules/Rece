@@ -1,0 +1,22 @@
+{
+  "id": "Q11179980",
+  "name": "tiánn-pinn-sô",
+  "description": "Taiwanese soup",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/tiann-pinn-so-q11179980/tiann-pinn-so-q11179980-1.jpg",
+    "images/tiann-pinn-so-q11179980/tiann-pinn-so-q11179980-2.jpg",
+    "images/tiann-pinn-so-q11179980/tiann-pinn-so-q11179980-3.jpg",
+    "images/tiann-pinn-so-q11179980/tiann-pinn-so-q11179980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11179980",
+    "themealdb": null
+  }
+}

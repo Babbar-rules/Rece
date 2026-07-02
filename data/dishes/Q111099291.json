@@ -1,0 +1,18 @@
+{
+  "id": "Q111099291",
+  "name": "Haribo Happy Cola",
+  "description": "cola bottle gummies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/haribo-happy-cola-q111099291/haribo-happy-cola-q111099291-1.jpg",
+    "images/haribo-happy-cola-q111099291/haribo-happy-cola-q111099291-2.jpg",
+    "images/haribo-happy-cola-q111099291/haribo-happy-cola-q111099291-3.jpg",
+    "images/haribo-happy-cola-q111099291/haribo-happy-cola-q111099291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111099291",
+    "themealdb": null
+  }
+}

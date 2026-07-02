@@ -1,0 +1,22 @@
+{
+  "id": "Q11172515",
+  "name": "yuxiang qiezi",
+  "description": "eggplant dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Sichuan cuisine"
+  ],
+  "images": [
+    "images/yuxiang-qiezi-q11172515/yuxiang-qiezi-q11172515-1.jpg",
+    "images/yuxiang-qiezi-q11172515/yuxiang-qiezi-q11172515-2.jpg",
+    "images/yuxiang-qiezi-q11172515/yuxiang-qiezi-q11172515-3.jpg",
+    "images/yuxiang-qiezi-q11172515/yuxiang-qiezi-q11172515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11172515",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q112185001",
+  "name": "Tortilla paraguaya",
+  "description": "Paraguayan tortilla",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tortilla-paraguaya-q112185001/tortilla-paraguaya-q112185001-1.png",
+    "images/tortilla-paraguaya-q112185001/tortilla-paraguaya-q112185001-2.jpg",
+    "images/tortilla-paraguaya-q112185001/tortilla-paraguaya-q112185001-3.png",
+    "images/tortilla-paraguaya-q112185001/tortilla-paraguaya-q112185001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112185001",
+    "themealdb": null
+  }
+}

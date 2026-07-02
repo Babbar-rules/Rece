@@ -1,0 +1,19 @@
+{
+  "id": "Q11103307",
+  "name": "Dongshan duck head",
+  "description": "",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dongshan-duck-head-q11103307/dongshan-duck-head-q11103307-1.jpg",
+    "images/dongshan-duck-head-q11103307/dongshan-duck-head-q11103307-2.jpg",
+    "images/dongshan-duck-head-q11103307/dongshan-duck-head-q11103307-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11103307",
+    "themealdb": null
+  }
+}

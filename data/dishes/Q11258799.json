@@ -1,0 +1,20 @@
+{
+  "id": "Q11258799",
+  "name": "Ankake spaghetti",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ankake-spaghetti-q11258799/ankake-spaghetti-q11258799-1.jpg",
+    "images/ankake-spaghetti-q11258799/ankake-spaghetti-q11258799-2.jpg",
+    "images/ankake-spaghetti-q11258799/ankake-spaghetti-q11258799-3.jpg",
+    "images/ankake-spaghetti-q11258799/ankake-spaghetti-q11258799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258799",
+    "themealdb": null
+  }
+}

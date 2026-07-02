@@ -1,0 +1,18 @@
+{
+  "id": "Q111804862",
+  "name": "Ödemiş köfte",
+  "description": "",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/odemis-kofte-q111804862/odemis-kofte-q111804862-1.jpg",
+    "images/odemis-kofte-q111804862/odemis-kofte-q111804862-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111804862",
+    "themealdb": null
+  }
+}

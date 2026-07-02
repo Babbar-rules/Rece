@@ -1,0 +1,18 @@
+{
+  "id": "Q11242256",
+  "name": "miso ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-ramen-q11242256/miso-ramen-q11242256-1.jpg",
+    "images/miso-ramen-q11242256/miso-ramen-q11242256-2.jpg",
+    "images/miso-ramen-q11242256/miso-ramen-q11242256-3.jpg",
+    "images/miso-ramen-q11242256/miso-ramen-q11242256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11242256",
+    "themealdb": null
+  }
+}

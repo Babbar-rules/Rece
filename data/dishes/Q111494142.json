@@ -1,0 +1,19 @@
+{
+  "id": "Q111494142",
+  "name": "negitoro maki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/negitoro-maki-q111494142/negitoro-maki-q111494142-1.jpg",
+    "images/negitoro-maki-q111494142/negitoro-maki-q111494142-2.jpg",
+    "images/negitoro-maki-q111494142/negitoro-maki-q111494142-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111494142",
+    "themealdb": null
+  }
+}

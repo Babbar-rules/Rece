@@ -1,0 +1,20 @@
+{
+  "id": "Q1119435",
+  "name": "Carcerato",
+  "description": "dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carcerato-q1119435/carcerato-q1119435-1.jpg",
+    "images/carcerato-q1119435/carcerato-q1119435-2.jpg",
+    "images/carcerato-q1119435/carcerato-q1119435-3.jpg",
+    "images/carcerato-q1119435/carcerato-q1119435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1119435",
+    "themealdb": null
+  }
+}

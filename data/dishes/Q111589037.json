@@ -1,0 +1,18 @@
+{
+  "id": "Q111589037",
+  "name": "nimame",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nimame-q111589037/nimame-q111589037-1.jpg",
+    "images/nimame-q111589037/nimame-q111589037-2.jpg",
+    "images/nimame-q111589037/nimame-q111589037-3.jpg",
+    "images/nimame-q111589037/nimame-q111589037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111589037",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q111589124",
+  "name": "chicken fillet roll",
+  "description": "hot chicken fillet in a roll",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-fillet-roll-q111589124/chicken-fillet-roll-q111589124-1.jpg",
+    "images/chicken-fillet-roll-q111589124/chicken-fillet-roll-q111589124-2.jpg",
+    "images/chicken-fillet-roll-q111589124/chicken-fillet-roll-q111589124-3.gif",
+    "images/chicken-fillet-roll-q111589124/chicken-fillet-roll-q111589124-4.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111589124",
+    "themealdb": null
+  }
+}

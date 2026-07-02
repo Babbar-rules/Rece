@@ -1,0 +1,20 @@
+{
+  "id": "Q11144465",
+  "name": "Cireng",
+  "description": "Indonesian fritters",
+  "nationality": [],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/cireng-q11144465/cireng-q11144465-1.jpg",
+    "images/cireng-q11144465/cireng-q11144465-2.jpg",
+    "images/cireng-q11144465/cireng-q11144465-3.jpg",
+    "images/cireng-q11144465/cireng-q11144465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11144465",
+    "themealdb": null
+  }
+}

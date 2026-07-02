@@ -1,0 +1,20 @@
+{
+  "id": "Q11172495",
+  "name": "Fish tofu",
+  "description": "fish product",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-tofu-q11172495/fish-tofu-q11172495-1.jpg",
+    "images/fish-tofu-q11172495/fish-tofu-q11172495-2.jpg",
+    "images/fish-tofu-q11172495/fish-tofu-q11172495-3.jpg",
+    "images/fish-tofu-q11172495/fish-tofu-q11172495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11172495",
+    "themealdb": null
+  }
+}

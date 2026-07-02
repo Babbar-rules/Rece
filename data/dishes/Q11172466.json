@@ -1,0 +1,18 @@
+{
+  "id": "Q11172466",
+  "name": "Nissin Chikin Ramen",
+  "description": "Japanese instant noodle brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nissin-chikin-ramen-q11172466/nissin-chikin-ramen-q11172466-1.jpg",
+    "images/nissin-chikin-ramen-q11172466/nissin-chikin-ramen-q11172466-2.jpg",
+    "images/nissin-chikin-ramen-q11172466/nissin-chikin-ramen-q11172466-3.jpg",
+    "images/nissin-chikin-ramen-q11172466/nissin-chikin-ramen-q11172466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11172466",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11153171",
+  "name": "Shenkeng tofu",
+  "description": "",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shenkeng-tofu-q11153171/shenkeng-tofu-q11153171-1.jpg",
+    "images/shenkeng-tofu-q11153171/shenkeng-tofu-q11153171-2.jpg",
+    "images/shenkeng-tofu-q11153171/shenkeng-tofu-q11153171-3.jpg",
+    "images/shenkeng-tofu-q11153171/shenkeng-tofu-q11153171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11153171",
+    "themealdb": null
+  }
+}

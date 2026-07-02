@@ -1,0 +1,22 @@
+{
+  "id": "Q11174862",
+  "name": "Taiwan fried chicken",
+  "description": "dish in Taiwanese cuisine",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/taiwan-fried-chicken-q11174862/taiwan-fried-chicken-q11174862-1.jpg",
+    "images/taiwan-fried-chicken-q11174862/taiwan-fried-chicken-q11174862-2.jpg",
+    "images/taiwan-fried-chicken-q11174862/taiwan-fried-chicken-q11174862-3.jpg",
+    "images/taiwan-fried-chicken-q11174862/taiwan-fried-chicken-q11174862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11174862",
+    "themealdb": null
+  }
+}

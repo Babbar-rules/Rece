@@ -1,0 +1,18 @@
+{
+  "id": "Q111318005",
+  "name": "white gummy bear",
+  "description": "type of gummy bear",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-gummy-bear-q111318005/white-gummy-bear-q111318005-1.jpg",
+    "images/white-gummy-bear-q111318005/white-gummy-bear-q111318005-2.jpg",
+    "images/white-gummy-bear-q111318005/white-gummy-bear-q111318005-3.jpg",
+    "images/white-gummy-bear-q111318005/white-gummy-bear-q111318005-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111318005",
+    "themealdb": null
+  }
+}

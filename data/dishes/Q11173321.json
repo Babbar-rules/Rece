@@ -1,0 +1,20 @@
+{
+  "id": "Q11173321",
+  "name": "Chinese flower cake",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chinese-flower-cake-q11173321/chinese-flower-cake-q11173321-1.jpg",
+    "images/chinese-flower-cake-q11173321/chinese-flower-cake-q11173321-2.jpg",
+    "images/chinese-flower-cake-q11173321/chinese-flower-cake-q11173321-3.jpg",
+    "images/chinese-flower-cake-q11173321/chinese-flower-cake-q11173321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11173321",
+    "themealdb": null
+  }
+}

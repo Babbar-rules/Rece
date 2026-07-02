@@ -1,0 +1,19 @@
+{
+  "id": "Q111919719",
+  "name": "Schenkele",
+  "description": "Small finger shaped sweet fritter",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/schenkele-q111919719/schenkele-q111919719-1.jpg",
+    "images/schenkele-q111919719/schenkele-q111919719-2.jpg",
+    "images/schenkele-q111919719/schenkele-q111919719-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111919719",
+    "themealdb": null
+  }
+}

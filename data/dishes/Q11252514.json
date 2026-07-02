@@ -1,0 +1,18 @@
+{
+  "id": "Q11252514",
+  "name": "shoyu ramen",
+  "description": "Japanese noodle dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shoyu-ramen-q11252514/shoyu-ramen-q11252514-1.jpg",
+    "images/shoyu-ramen-q11252514/shoyu-ramen-q11252514-2.jpg",
+    "images/shoyu-ramen-q11252514/shoyu-ramen-q11252514-3.jpg",
+    "images/shoyu-ramen-q11252514/shoyu-ramen-q11252514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11252514",
+    "themealdb": null
+  }
+}

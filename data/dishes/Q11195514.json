@@ -1,0 +1,18 @@
+{
+  "id": "Q11195514",
+  "name": "DARS",
+  "description": "Japanese chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dars-q11195514/dars-q11195514-1.jpg",
+    "images/dars-q11195514/dars-q11195514-2.jpg",
+    "images/dars-q11195514/dars-q11195514-3.jpg",
+    "images/dars-q11195514/dars-q11195514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11195514",
+    "themealdb": null
+  }
+}

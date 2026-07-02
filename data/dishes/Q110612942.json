@@ -1,0 +1,18 @@
+{
+  "id": "Q110612942",
+  "name": "panotsang mani",
+  "description": "Filipino confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/panotsang-mani-q110612942/panotsang-mani-q110612942-1.jpg",
+    "images/panotsang-mani-q110612942/panotsang-mani-q110612942-2.jpg",
+    "images/panotsang-mani-q110612942/panotsang-mani-q110612942-3.jpg",
+    "images/panotsang-mani-q110612942/panotsang-mani-q110612942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110612942",
+    "themealdb": null
+  }
+}

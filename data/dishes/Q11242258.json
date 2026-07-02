@@ -1,0 +1,22 @@
+{
+  "id": "Q11242258",
+  "name": "soto mie",
+  "description": "Indonesian noodle soup dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-mie-q11242258/soto-mie-q11242258-1.jpg",
+    "images/soto-mie-q11242258/soto-mie-q11242258-2.png",
+    "images/soto-mie-q11242258/soto-mie-q11242258-3.jpg",
+    "images/soto-mie-q11242258/soto-mie-q11242258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11242258",
+    "themealdb": null
+  }
+}

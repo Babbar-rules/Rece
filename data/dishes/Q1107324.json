@@ -1,0 +1,20 @@
+{
+  "id": "Q1107324",
+  "name": "Bolo de mel",
+  "description": "traditional cake from the Madeira Islands",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolo-de-mel-q1107324/bolo-de-mel-q1107324-1.jpg",
+    "images/bolo-de-mel-q1107324/bolo-de-mel-q1107324-2.jpg",
+    "images/bolo-de-mel-q1107324/bolo-de-mel-q1107324-3.jpg",
+    "images/bolo-de-mel-q1107324/bolo-de-mel-q1107324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1107324",
+    "themealdb": null
+  }
+}

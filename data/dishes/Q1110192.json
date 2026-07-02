@@ -1,0 +1,20 @@
+{
+  "id": "Q1110192",
+  "name": "chinsuko",
+  "description": "Japanese biscuit",
+  "nationality": [
+    "Ryukyu Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chinsuko-q1110192/chinsuko-q1110192-1.jpg",
+    "images/chinsuko-q1110192/chinsuko-q1110192-2.jpg",
+    "images/chinsuko-q1110192/chinsuko-q1110192-3.jpg",
+    "images/chinsuko-q1110192/chinsuko-q1110192-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1110192",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q11161",
+  "name": "Lyonnaise potatoes",
+  "description": "French dish of sliced pan-fried potatoes and thinly sliced onions sautéed in butter with parsley",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/lyonnaise-potatoes-q11161/lyonnaise-potatoes-q11161-1.jpg",
+    "images/lyonnaise-potatoes-q11161/lyonnaise-potatoes-q11161-2.jpg",
+    "images/lyonnaise-potatoes-q11161/lyonnaise-potatoes-q11161-3.jpg",
+    "images/lyonnaise-potatoes-q11161/lyonnaise-potatoes-q11161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11161",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q110855197",
+  "name": "Laber Larve",
+  "description": "piece of candy manufactured by Haribo",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/laber-larve-q110855197/laber-larve-q110855197-1.jpg",
+    "images/laber-larve-q110855197/laber-larve-q110855197-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110855197",
+    "themealdb": null
+  }
+}

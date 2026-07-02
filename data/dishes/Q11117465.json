@@ -1,0 +1,22 @@
+{
+  "id": "Q11117465",
+  "name": "salt and pepper squid",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/salt-and-pepper-squid-q11117465/salt-and-pepper-squid-q11117465-1.jpg",
+    "images/salt-and-pepper-squid-q11117465/salt-and-pepper-squid-q11117465-2.jpg",
+    "images/salt-and-pepper-squid-q11117465/salt-and-pepper-squid-q11117465-3.jpg",
+    "images/salt-and-pepper-squid-q11117465/salt-and-pepper-squid-q11117465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11117465",
+    "themealdb": null
+  }
+}

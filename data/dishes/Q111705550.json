@@ -1,0 +1,20 @@
+{
+  "id": "Q111705550",
+  "name": "Taco pizza",
+  "description": "pizza with taco ingredients",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taco-pizza-q111705550/taco-pizza-q111705550-1.jpg",
+    "images/taco-pizza-q111705550/taco-pizza-q111705550-2.jpg",
+    "images/taco-pizza-q111705550/taco-pizza-q111705550-3.jpg",
+    "images/taco-pizza-q111705550/taco-pizza-q111705550-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111705550",
+    "themealdb": null
+  }
+}

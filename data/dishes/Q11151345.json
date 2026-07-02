@@ -1,0 +1,20 @@
+{
+  "id": "Q11151345",
+  "name": "navy curry",
+  "description": "form of Japanese curry",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/navy-curry-q11151345/navy-curry-q11151345-1.jpg",
+    "images/navy-curry-q11151345/navy-curry-q11151345-2.jpg",
+    "images/navy-curry-q11151345/navy-curry-q11151345-3.jpg",
+    "images/navy-curry-q11151345/navy-curry-q11151345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11151345",
+    "themealdb": null
+  }
+}

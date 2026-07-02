@@ -1,0 +1,16 @@
+{
+  "id": "Q11085987",
+  "name": "Wuxi Fried Spare Ribs",
+  "description": "Chinese pork rib dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wuxi-fried-spare-ribs-q11085987/wuxi-fried-spare-ribs-q11085987-1.jpg",
+    "images/wuxi-fried-spare-ribs-q11085987/wuxi-fried-spare-ribs-q11085987-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11085987",
+    "themealdb": null
+  }
+}

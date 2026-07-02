@@ -1,0 +1,21 @@
+{
+  "id": "Q111755418",
+  "name": "sushi bake",
+  "description": "Baked deconstructed sushi roll",
+  "nationality": [],
+  "region_cuisine": [
+    "Filipino cuisine",
+    "California cuisine"
+  ],
+  "images": [
+    "images/sushi-bake-q111755418/sushi-bake-q111755418-1.jpg",
+    "images/sushi-bake-q111755418/sushi-bake-q111755418-2.jpg",
+    "images/sushi-bake-q111755418/sushi-bake-q111755418-3.jpeg",
+    "images/sushi-bake-q111755418/sushi-bake-q111755418-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111755418",
+    "themealdb": null
+  }
+}

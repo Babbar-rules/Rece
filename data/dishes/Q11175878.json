@@ -1,0 +1,20 @@
+{
+  "id": "Q11175878",
+  "name": "madoufu",
+  "description": "mung bean dish of China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/madoufu-q11175878/madoufu-q11175878-1.jpg",
+    "images/madoufu-q11175878/madoufu-q11175878-2.jpg",
+    "images/madoufu-q11175878/madoufu-q11175878-3.jpg",
+    "images/madoufu-q11175878/madoufu-q11175878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11175878",
+    "themealdb": null
+  }
+}

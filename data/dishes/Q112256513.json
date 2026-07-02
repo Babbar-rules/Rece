@@ -1,0 +1,20 @@
+{
+  "id": "Q112256513",
+  "name": "Albuquerque turkey",
+  "description": "grilled sandwich topped with turkey, cheese, and New Mexico chile sauce (usually green)",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/albuquerque-turkey-q112256513/albuquerque-turkey-q112256513-1.jpg",
+    "images/albuquerque-turkey-q112256513/albuquerque-turkey-q112256513-2.jpg",
+    "images/albuquerque-turkey-q112256513/albuquerque-turkey-q112256513-3.jpg",
+    "images/albuquerque-turkey-q112256513/albuquerque-turkey-q112256513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112256513",
+    "themealdb": null
+  }
+}

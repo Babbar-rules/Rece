@@ -1,0 +1,18 @@
+{
+  "id": "Q112156900",
+  "name": "vegan burger",
+  "description": "burger without any animal products",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegan-burger-q112156900/vegan-burger-q112156900-1.jpg",
+    "images/vegan-burger-q112156900/vegan-burger-q112156900-2.jpg",
+    "images/vegan-burger-q112156900/vegan-burger-q112156900-3.jpg",
+    "images/vegan-burger-q112156900/vegan-burger-q112156900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112156900",
+    "themealdb": null
+  }
+}

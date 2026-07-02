@@ -1,0 +1,22 @@
+{
+  "id": "Q11113287",
+  "name": "Arem-Arem",
+  "description": "Indonesia traditional food from Central Java",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/arem-arem-q11113287/arem-arem-q11113287-1.jpg",
+    "images/arem-arem-q11113287/arem-arem-q11113287-2.jpg",
+    "images/arem-arem-q11113287/arem-arem-q11113287-3.jpg",
+    "images/arem-arem-q11113287/arem-arem-q11113287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11113287",
+    "themealdb": null
+  }
+}

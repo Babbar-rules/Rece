@@ -1,0 +1,18 @@
+{
+  "id": "Q111834905",
+  "name": "liver cake",
+  "description": "Russian delicacy made of chicken liver",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/liver-cake-q111834905/liver-cake-q111834905-1.jpg",
+    "images/liver-cake-q111834905/liver-cake-q111834905-2.jpg",
+    "images/liver-cake-q111834905/liver-cake-q111834905-3.jpg",
+    "images/liver-cake-q111834905/liver-cake-q111834905-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111834905",
+    "themealdb": null
+  }
+}

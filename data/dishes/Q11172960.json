@@ -1,0 +1,22 @@
+{
+  "id": "Q11172960",
+  "name": "yuxiangrousi",
+  "description": "dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Sichuan cuisine"
+  ],
+  "images": [
+    "images/yuxiangrousi-q11172960/yuxiangrousi-q11172960-1.jpg",
+    "images/yuxiangrousi-q11172960/yuxiangrousi-q11172960-2.jpg",
+    "images/yuxiangrousi-q11172960/yuxiangrousi-q11172960-3.jpg",
+    "images/yuxiangrousi-q11172960/yuxiangrousi-q11172960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11172960",
+    "themealdb": null
+  }
+}

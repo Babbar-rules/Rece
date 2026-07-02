@@ -1,0 +1,18 @@
+{
+  "id": "Q11235217",
+  "name": "Tokyo ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tokyo-ramen-q11235217/tokyo-ramen-q11235217-1.jpg",
+    "images/tokyo-ramen-q11235217/tokyo-ramen-q11235217-2.jpg",
+    "images/tokyo-ramen-q11235217/tokyo-ramen-q11235217-3.jpg",
+    "images/tokyo-ramen-q11235217/tokyo-ramen-q11235217-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11235217",
+    "themealdb": null
+  }
+}

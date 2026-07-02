@@ -1,0 +1,18 @@
+{
+  "id": "Q110864743",
+  "name": "Haribo candy",
+  "description": "candy from German international candy brand Haribo",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/haribo-candy-q110864743/haribo-candy-q110864743-1.jpg",
+    "images/haribo-candy-q110864743/haribo-candy-q110864743-2.jpg",
+    "images/haribo-candy-q110864743/haribo-candy-q110864743-3.jpg",
+    "images/haribo-candy-q110864743/haribo-candy-q110864743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110864743",
+    "themealdb": null
+  }
+}

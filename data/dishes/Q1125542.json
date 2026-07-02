@@ -1,0 +1,20 @@
+{
+  "id": "Q1125542",
+  "name": "Allerheiligenstriezel",
+  "description": "Geflochtenes Hefegebäck",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/allerheiligenstriezel-q1125542/allerheiligenstriezel-q1125542-1.jpg",
+    "images/allerheiligenstriezel-q1125542/allerheiligenstriezel-q1125542-2.jpg",
+    "images/allerheiligenstriezel-q1125542/allerheiligenstriezel-q1125542-3.jpg",
+    "images/allerheiligenstriezel-q1125542/allerheiligenstriezel-q1125542-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1125542",
+    "themealdb": null
+  }
+}

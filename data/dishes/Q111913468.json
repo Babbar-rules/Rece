@@ -1,0 +1,20 @@
+{
+  "id": "Q111913468",
+  "name": "apple crumble",
+  "description": "British apple dessert with streusel topping",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-crumble-q111913468/apple-crumble-q111913468-1.jpg",
+    "images/apple-crumble-q111913468/apple-crumble-q111913468-2.jpg",
+    "images/apple-crumble-q111913468/apple-crumble-q111913468-3.jpg",
+    "images/apple-crumble-q111913468/apple-crumble-q111913468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111913468",
+    "themealdb": null
+  }
+}

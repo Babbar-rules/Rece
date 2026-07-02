@@ -1,0 +1,22 @@
+{
+  "id": "Q111182015",
+  "name": "Pan de cañada",
+  "description": "Spanish bread",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Aragonese cuisine"
+  ],
+  "images": [
+    "images/pan-de-canada-q111182015/pan-de-canada-q111182015-1.jpeg",
+    "images/pan-de-canada-q111182015/pan-de-canada-q111182015-2.jpg",
+    "images/pan-de-canada-q111182015/pan-de-canada-q111182015-3.jpg",
+    "images/pan-de-canada-q111182015/pan-de-canada-q111182015-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111182015",
+    "themealdb": null
+  }
+}

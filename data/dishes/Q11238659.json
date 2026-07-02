@@ -1,0 +1,20 @@
+{
+  "id": "Q11238659",
+  "name": "linguettine",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/linguettine-q11238659/linguettine-q11238659-1.jpg",
+    "images/linguettine-q11238659/linguettine-q11238659-2.jpg",
+    "images/linguettine-q11238659/linguettine-q11238659-3.jpg",
+    "images/linguettine-q11238659/linguettine-q11238659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11238659",
+    "themealdb": null
+  }
+}

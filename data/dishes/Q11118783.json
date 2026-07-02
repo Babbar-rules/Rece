@@ -1,0 +1,18 @@
+{
+  "id": "Q11118783",
+  "name": "Soho",
+  "description": "Norwegian chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soho-q11118783/soho-q11118783-1.png",
+    "images/soho-q11118783/soho-q11118783-2.jpg",
+    "images/soho-q11118783/soho-q11118783-3.jpg",
+    "images/soho-q11118783/soho-q11118783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11118783",
+    "themealdb": null
+  }
+}

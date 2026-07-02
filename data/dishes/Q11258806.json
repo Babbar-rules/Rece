@@ -1,0 +1,20 @@
+{
+  "id": "Q11258806",
+  "name": "Anko nabe",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anko-nabe-q11258806/anko-nabe-q11258806-1.jpg",
+    "images/anko-nabe-q11258806/anko-nabe-q11258806-2.jpg",
+    "images/anko-nabe-q11258806/anko-nabe-q11258806-3.jpg",
+    "images/anko-nabe-q11258806/anko-nabe-q11258806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258806",
+    "themealdb": null
+  }
+}

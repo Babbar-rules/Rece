@@ -1,0 +1,18 @@
+{
+  "id": "Q111133655",
+  "name": "raw licorice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raw-licorice-q111133655/raw-licorice-q111133655-1.jpg",
+    "images/raw-licorice-q111133655/raw-licorice-q111133655-2.jpg",
+    "images/raw-licorice-q111133655/raw-licorice-q111133655-3.jpg",
+    "images/raw-licorice-q111133655/raw-licorice-q111133655-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111133655",
+    "themealdb": null
+  }
+}

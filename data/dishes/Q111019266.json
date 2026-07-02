@@ -1,0 +1,22 @@
+{
+  "id": "Q111019266",
+  "name": "Cheela",
+  "description": "type of Indian pancake",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/cheela-q111019266/cheela-q111019266-1.jpg",
+    "images/cheela-q111019266/cheela-q111019266-2.jpg",
+    "images/cheela-q111019266/cheela-q111019266-3.jpg",
+    "images/cheela-q111019266/cheela-q111019266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111019266",
+    "themealdb": null
+  }
+}

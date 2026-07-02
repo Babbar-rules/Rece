@@ -1,0 +1,18 @@
+{
+  "id": "Q11258259",
+  "name": "aburi-mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aburi-mochi-q11258259/aburi-mochi-q11258259-1.jpg",
+    "images/aburi-mochi-q11258259/aburi-mochi-q11258259-2.jpg",
+    "images/aburi-mochi-q11258259/aburi-mochi-q11258259-3.jpg",
+    "images/aburi-mochi-q11258259/aburi-mochi-q11258259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258259",
+    "themealdb": null
+  }
+}

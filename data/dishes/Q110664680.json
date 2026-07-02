@@ -1,0 +1,16 @@
+{
+  "id": "Q110664680",
+  "name": "Whole wheat spaghetti",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/whole-wheat-spaghetti-q110664680/whole-wheat-spaghetti-q110664680-1.jpg",
+    "images/whole-wheat-spaghetti-q110664680/whole-wheat-spaghetti-q110664680-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110664680",
+    "themealdb": null
+  }
+}

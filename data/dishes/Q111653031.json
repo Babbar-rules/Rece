@@ -1,0 +1,18 @@
+{
+  "id": "Q111653031",
+  "name": "Te tuae",
+  "description": "Dried Pandanus Paste from Kiribati",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/te-tuae-q111653031/te-tuae-q111653031-1.jpeg",
+    "images/te-tuae-q111653031/te-tuae-q111653031-2.jpg",
+    "images/te-tuae-q111653031/te-tuae-q111653031-3.jpg",
+    "images/te-tuae-q111653031/te-tuae-q111653031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111653031",
+    "themealdb": null
+  }
+}

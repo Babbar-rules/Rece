@@ -1,0 +1,18 @@
+{
+  "id": "Q112052646",
+  "name": "Favorite dish",
+  "description": "one's favorite dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/favorite-dish-q112052646/favorite-dish-q112052646-1.jpg",
+    "images/favorite-dish-q112052646/favorite-dish-q112052646-2.jpg",
+    "images/favorite-dish-q112052646/favorite-dish-q112052646-3.jpg",
+    "images/favorite-dish-q112052646/favorite-dish-q112052646-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112052646",
+    "themealdb": null
+  }
+}

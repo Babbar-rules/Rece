@@ -1,0 +1,84 @@
+{
+  "id": "Q111443336",
+  "name": "Fyrstekake",
+  "description": "pound cake",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/fyrstekake-q111443336/fyrstekake-q111443336-1.jpg",
+    "images/fyrstekake-q111443336/fyrstekake-q111443336-2.jpg",
+    "images/fyrstekake-q111443336/fyrstekake-q111443336-3.jpg",
+    "images/fyrstekake-q111443336/fyrstekake-q111443336-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53131",
+    "category": "Dessert",
+    "area": "Norway",
+    "instructions": "Crust\r\n▢\r\nMix together sugar, vanilla and butter until light and fluffy. Mix in the egg yolks. Add in the flour and baking powder and knead with hands until the dough is smooth.\r\n▢\r\nPack the dough in plastic wrap and chill in refrigerator for at least 30 minutes.\r\n\r\nAlmond filling\r\n▢\r\nRun the almonds and sugar together in a food processor until the almonds are finely ground (you can decide for yourself how coarse or fine you want them).\r\n▢\r\nStir in the butter, egg, cognac and/or almond extract (if using).\r\nAssembly\r\n▢\r\nLine the bottom of your cake form with baking paper and grease the sides of the form.\r\n▢\r\nPreheat oven to 350°F (175°C).\r\n▢\r\nCut 2/3 of the crust dough into slices and press down into the cake form. Cover the bottom of the cake form with the dough and bring the dough 2-3 cm (1 inch) up the sides of the form, pressing until even.\r\n▢\r\nScoop the almond filling on top of the crust, spreading it evenly across the cake form.\r\n▢\r\nRoll out of the rest of the dough and slice into long strips. Lay the strips of dough across the cake in a grid. Don't worry of the strips break – simply press them back together on the cake.\r\n▢\r\nGently brush the dough with egg wash.\r\n▢\r\nBake for about 45 minutes. The top of the cake should be golden brown while the almond filling will remain soft.",
+    "ingredients": [
+      {
+        "ingredient": "Granulated Sugar",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "2/3 Cup"
+      },
+      {
+        "ingredient": "Egg Yolks",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Almonds",
+        "measure": "1 1/2 cups"
+      },
+      {
+        "ingredient": "Brown Sugar",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "Melted Butter",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "2 medium"
+      },
+      {
+        "ingredient": "Brandy",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Almond Extract",
+        "measure": "5 drops"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=MBh7sQcdzwo",
+    "thumb": "https://www.themealdb.com/images/media/meals/9zqrod1763075574.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111443336",
+    "themealdb": "53131"
+  }
+}

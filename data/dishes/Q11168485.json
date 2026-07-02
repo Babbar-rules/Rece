@@ -1,0 +1,21 @@
+{
+  "id": "Q11168485",
+  "name": "regañao",
+  "description": "topped flatbread typical of the Teruel area in Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Aragonese cuisine"
+  ],
+  "images": [
+    "images/reganao-q11168485/reganao-q11168485-1.jpg",
+    "images/reganao-q11168485/reganao-q11168485-2.jpg",
+    "images/reganao-q11168485/reganao-q11168485-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11168485",
+    "themealdb": null
+  }
+}

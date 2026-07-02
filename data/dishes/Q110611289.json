@@ -1,0 +1,18 @@
+{
+  "id": "Q110611289",
+  "name": "egg milk",
+  "description": "homogeneous mixture of eggs and milk for further processing into egg custard",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-milk-q110611289/egg-milk-q110611289-1.jpg",
+    "images/egg-milk-q110611289/egg-milk-q110611289-2.jpg",
+    "images/egg-milk-q110611289/egg-milk-q110611289-3.jpg",
+    "images/egg-milk-q110611289/egg-milk-q110611289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110611289",
+    "themealdb": null
+  }
+}

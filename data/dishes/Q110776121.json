@@ -1,0 +1,22 @@
+{
+  "id": "Q110776121",
+  "name": "Bolo de bolacha",
+  "description": "Portuguese biscuit cake",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/bolo-de-bolacha-q110776121/bolo-de-bolacha-q110776121-1.jpg",
+    "images/bolo-de-bolacha-q110776121/bolo-de-bolacha-q110776121-2.jpg",
+    "images/bolo-de-bolacha-q110776121/bolo-de-bolacha-q110776121-3.jpg",
+    "images/bolo-de-bolacha-q110776121/bolo-de-bolacha-q110776121-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110776121",
+    "themealdb": null
+  }
+}

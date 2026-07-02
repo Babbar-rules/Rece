@@ -1,0 +1,23 @@
+{
+  "id": "Q11078597",
+  "name": "sarmale",
+  "description": "Romanian and Moldovan culinary specialty",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [
+    "Moldovan cuisine",
+    "Romanian cuisine"
+  ],
+  "images": [
+    "images/sarmale-q11078597/sarmale-q11078597-1.jpg",
+    "images/sarmale-q11078597/sarmale-q11078597-2.jpg",
+    "images/sarmale-q11078597/sarmale-q11078597-3.jpg",
+    "images/sarmale-q11078597/sarmale-q11078597-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11078597",
+    "themealdb": null
+  }
+}

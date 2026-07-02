@@ -1,0 +1,18 @@
+{
+  "id": "Q111097996",
+  "name": "Kurume Yakitori",
+  "description": "local cuisine in Kurume, Fukuoka, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kurume-yakitori-q111097996/kurume-yakitori-q111097996-1.jpg",
+    "images/kurume-yakitori-q111097996/kurume-yakitori-q111097996-2.jpg",
+    "images/kurume-yakitori-q111097996/kurume-yakitori-q111097996-3.jpg",
+    "images/kurume-yakitori-q111097996/kurume-yakitori-q111097996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111097996",
+    "themealdb": null
+  }
+}

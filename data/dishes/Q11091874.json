@@ -1,0 +1,20 @@
+{
+  "id": "Q11091874",
+  "name": "moonlight cake",
+  "description": "type of traditional Hakka mooncake; white and disc-like",
+  "nationality": [],
+  "region_cuisine": [
+    "Hakka cuisine"
+  ],
+  "images": [
+    "images/moonlight-cake-q11091874/moonlight-cake-q11091874-1.jpg",
+    "images/moonlight-cake-q11091874/moonlight-cake-q11091874-2.jpg",
+    "images/moonlight-cake-q11091874/moonlight-cake-q11091874-3.jpg",
+    "images/moonlight-cake-q11091874/moonlight-cake-q11091874-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11091874",
+    "themealdb": null
+  }
+}

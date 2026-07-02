@@ -1,0 +1,18 @@
+{
+  "id": "Q11247969",
+  "name": "PaPiCO",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papico-q11247969/papico-q11247969-1.jpg",
+    "images/papico-q11247969/papico-q11247969-2.jpg",
+    "images/papico-q11247969/papico-q11247969-3.jpg",
+    "images/papico-q11247969/papico-q11247969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11247969",
+    "themealdb": null
+  }
+}

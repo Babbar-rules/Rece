@@ -1,0 +1,18 @@
+{
+  "id": "Q11257745",
+  "name": "atsumeshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/atsumeshi-q11257745/atsumeshi-q11257745-1.jpg",
+    "images/atsumeshi-q11257745/atsumeshi-q11257745-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11257745",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1114674",
+  "name": "tomato purée",
+  "description": "tomato based food",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomato-puree-q1114674/tomato-puree-q1114674-1.jpg",
+    "images/tomato-puree-q1114674/tomato-puree-q1114674-2.jpg",
+    "images/tomato-puree-q1114674/tomato-puree-q1114674-3.jpg",
+    "images/tomato-puree-q1114674/tomato-puree-q1114674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1114674",
+    "themealdb": null
+  }
+}

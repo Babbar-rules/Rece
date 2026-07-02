@@ -1,0 +1,20 @@
+{
+  "id": "Q11258896",
+  "name": "An-doughnut",
+  "description": "Japanese doughnut filled with red bean paste",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/an-doughnut-q11258896/an-doughnut-q11258896-1.jpg",
+    "images/an-doughnut-q11258896/an-doughnut-q11258896-2.jpg",
+    "images/an-doughnut-q11258896/an-doughnut-q11258896-3.jpg",
+    "images/an-doughnut-q11258896/an-doughnut-q11258896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258896",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q111398890",
+  "name": "totoposte",
+  "description": "",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/totoposte-q111398890/totoposte-q111398890-1.jpg",
+    "images/totoposte-q111398890/totoposte-q111398890-2.jpg",
+    "images/totoposte-q111398890/totoposte-q111398890-3.jpg",
+    "images/totoposte-q111398890/totoposte-q111398890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111398890",
+    "themealdb": null
+  }
+}

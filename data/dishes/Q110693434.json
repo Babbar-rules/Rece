@@ -1,0 +1,74 @@
+{
+  "id": "Q110693434",
+  "name": "ṣa",
+  "description": "sacramental flatbread in Mandaeism",
+  "nationality": [],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/sa-q110693434/sa-q110693434-1.jpg",
+    "images/sa-q110693434/sa-q110693434-2.jpg",
+    "images/sa-q110693434/sa-q110693434-3.jpg",
+    "images/sa-q110693434/sa-q110693434-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53443",
+    "category": "Beef",
+    "area": null,
+    "instructions": "To make the marinade for the satee put in the container of an electric blender:\r\n\r\n1 large onion, coarsely chopped 2 cloves of garlic\r\nJuice of 2 lemons\r\n2Tbs. of sugar 1 cup of soy sauce\r\n1 tsp. salt 1 tsp. ground coriander for beef (or chicken) or 1 tsp. ground ginger for pork\r\n1 cup of oil\r\nBlend thoroughly and pour over:\r\n5 lbs. of beef or pork tenderloin, cubed\r\nDO NOT marinate overnight, but only for a few hours.\r\n\r\nPlace the meat on: 36 skewers\r\n\r\nBlend well:\r\n\r\n1 cup of oil\r\n2 Tbs. Soy sauce\r\nPour into a large shallow dish.\r\n\r\nTo keep meat from becoming dry, roll each skewer in seasoned oil before frying.\r\n\r\nSatee is also excellent when barbecued.",
+    "ingredients": [
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Lemons",
+        "measure": "Juice of 2"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Ground Coriander",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Beef",
+        "measure": "4-5 pound"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "2 tablespoons"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/dqxtlh1780153831.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q110693434",
+    "themealdb": "53443"
+  }
+}

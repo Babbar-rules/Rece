@@ -1,0 +1,18 @@
+{
+  "id": "Q1121085",
+  "name": "Glarner Pastete",
+  "description": "Swiss puff pastry cake with almond and prune filling",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/glarner-pastete-q1121085/glarner-pastete-q1121085-1.jpg",
+    "images/glarner-pastete-q1121085/glarner-pastete-q1121085-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1121085",
+    "themealdb": null
+  }
+}

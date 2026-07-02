@@ -1,0 +1,20 @@
+{
+  "id": "Q11258884",
+  "name": "Anmaki",
+  "description": "Japanese sweets from the Mikawa region of Aichi Prefecture",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anmaki-q11258884/anmaki-q11258884-1.jpg",
+    "images/anmaki-q11258884/anmaki-q11258884-2.jpg",
+    "images/anmaki-q11258884/anmaki-q11258884-3.jpg",
+    "images/anmaki-q11258884/anmaki-q11258884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11258884",
+    "themealdb": null
+  }
+}

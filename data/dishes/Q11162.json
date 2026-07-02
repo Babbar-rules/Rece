@@ -1,0 +1,20 @@
+{
+  "id": "Q11162",
+  "name": "ciccioli",
+  "description": "traditional Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciccioli-q11162/ciccioli-q11162-1.jpg",
+    "images/ciccioli-q11162/ciccioli-q11162-2.jpg",
+    "images/ciccioli-q11162/ciccioli-q11162-3.jpg",
+    "images/ciccioli-q11162/ciccioli-q11162-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11162",
+    "themealdb": null
+  }
+}

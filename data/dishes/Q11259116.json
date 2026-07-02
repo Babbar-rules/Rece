@@ -1,0 +1,18 @@
+{
+  "id": "Q11259116",
+  "name": "igirisu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/igirisu-q11259116/igirisu-q11259116-1.jpg",
+    "images/igirisu-q11259116/igirisu-q11259116-2.jpg",
+    "images/igirisu-q11259116/igirisu-q11259116-3.jpg",
+    "images/igirisu-q11259116/igirisu-q11259116-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11259116",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q111046463",
+  "name": "Obwarzanek krakowski",
+  "description": "braided ring-shaped bread product",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/obwarzanek-krakowski-q111046463/obwarzanek-krakowski-q111046463-1.jpg",
+    "images/obwarzanek-krakowski-q111046463/obwarzanek-krakowski-q111046463-2.jpg",
+    "images/obwarzanek-krakowski-q111046463/obwarzanek-krakowski-q111046463-3.jpg",
+    "images/obwarzanek-krakowski-q111046463/obwarzanek-krakowski-q111046463-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q111046463",
+    "themealdb": null
+  }
+}

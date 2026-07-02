@@ -1,0 +1,20 @@
+{
+  "id": "Q11259528",
+  "name": "ichigo daifuku",
+  "description": "strawberry mochi dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ichigo-daifuku-q11259528/ichigo-daifuku-q11259528-1.jpg",
+    "images/ichigo-daifuku-q11259528/ichigo-daifuku-q11259528-2.jpg",
+    "images/ichigo-daifuku-q11259528/ichigo-daifuku-q11259528-3.jpg",
+    "images/ichigo-daifuku-q11259528/ichigo-daifuku-q11259528-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11259528",
+    "themealdb": null
+  }
+}

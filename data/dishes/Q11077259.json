@@ -1,0 +1,20 @@
+{
+  "id": "Q11077259",
+  "name": "daigaku imo",
+  "description": "Japanese fried and candied sweet potatoes",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/daigaku-imo-q11077259/daigaku-imo-q11077259-1.jpg",
+    "images/daigaku-imo-q11077259/daigaku-imo-q11077259-2.jpg",
+    "images/daigaku-imo-q11077259/daigaku-imo-q11077259-3.jpg",
+    "images/daigaku-imo-q11077259/daigaku-imo-q11077259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11077259",
+    "themealdb": null
+  }
+}

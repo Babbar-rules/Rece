@@ -1,0 +1,20 @@
+{
+  "id": "Q112247828",
+  "name": "saffron bun",
+  "description": "spiced yeast-leavened sweet bun with saffron and currants from Southern England",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saffron-bun-q112247828/saffron-bun-q112247828-1.jpg",
+    "images/saffron-bun-q112247828/saffron-bun-q112247828-2.jpg",
+    "images/saffron-bun-q112247828/saffron-bun-q112247828-3.jpg",
+    "images/saffron-bun-q112247828/saffron-bun-q112247828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q112247828",
+    "themealdb": null
+  }
+}
