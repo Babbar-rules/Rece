@@ -1,0 +1,20 @@
+{
+  "id": "Q13644362",
+  "name": "Ramadan pide",
+  "description": "Turkish traditional bread",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ramadan-pide-q13644362/ramadan-pide-q13644362-1.jpg",
+    "images/ramadan-pide-q13644362/ramadan-pide-q13644362-2.jpg",
+    "images/ramadan-pide-q13644362/ramadan-pide-q13644362-3.jpg",
+    "images/ramadan-pide-q13644362/ramadan-pide-q13644362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13644362",
+    "themealdb": null
+  }
+}

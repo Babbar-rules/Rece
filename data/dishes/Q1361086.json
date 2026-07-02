@@ -1,0 +1,18 @@
+{
+  "id": "Q1361086",
+  "name": "chocolate bar",
+  "description": "confection of sweetened chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-bar-q1361086/chocolate-bar-q1361086-1.jpg",
+    "images/chocolate-bar-q1361086/chocolate-bar-q1361086-2.jpg",
+    "images/chocolate-bar-q1361086/chocolate-bar-q1361086-3.jpg",
+    "images/chocolate-bar-q1361086/chocolate-bar-q1361086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1361086",
+    "themealdb": null
+  }
+}

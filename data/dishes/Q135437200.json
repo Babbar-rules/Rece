@@ -1,0 +1,20 @@
+{
+  "id": "Q135437200",
+  "name": "Richeese Nabati",
+  "description": "Variant of Nabati Wafer",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/richeese-nabati-q135437200/richeese-nabati-q135437200-1.png",
+    "images/richeese-nabati-q135437200/richeese-nabati-q135437200-2.jpg",
+    "images/richeese-nabati-q135437200/richeese-nabati-q135437200-3.png",
+    "images/richeese-nabati-q135437200/richeese-nabati-q135437200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135437200",
+    "themealdb": null
+  }
+}

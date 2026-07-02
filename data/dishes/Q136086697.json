@@ -1,0 +1,16 @@
+{
+  "id": "Q136086697",
+  "name": "notella",
+  "description": "chocolate hazelnut spread that mimics Nutella",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/notella-q136086697/notella-q136086697-1.jpg",
+    "images/notella-q136086697/notella-q136086697-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136086697",
+    "themealdb": null
+  }
+}

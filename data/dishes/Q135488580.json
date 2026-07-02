@@ -1,0 +1,19 @@
+{
+  "id": "Q135488580",
+  "name": "Richoco Nabati",
+  "description": "Variant of Nabati Wafer",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/richoco-nabati-q135488580/richoco-nabati-q135488580-1.png",
+    "images/richoco-nabati-q135488580/richoco-nabati-q135488580-2.png",
+    "images/richoco-nabati-q135488580/richoco-nabati-q135488580-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135488580",
+    "themealdb": null
+  }
+}

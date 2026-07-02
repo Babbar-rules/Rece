@@ -1,0 +1,22 @@
+{
+  "id": "Q1366456",
+  "name": "panini",
+  "description": "Italian-style sandwich",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/panini-q1366456/panini-q1366456-1.jpg",
+    "images/panini-q1366456/panini-q1366456-2.png",
+    "images/panini-q1366456/panini-q1366456-3.jpg",
+    "images/panini-q1366456/panini-q1366456-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1366456",
+    "themealdb": null
+  }
+}

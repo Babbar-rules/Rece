@@ -1,0 +1,17 @@
+{
+  "id": "Q135650550",
+  "name": "dough-sealed soup",
+  "description": "Mongolian dish",
+  "nationality": [
+    "Mongolia"
+  ],
+  "region_cuisine": [
+    "Mongolian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135650550",
+    "themealdb": null
+  }
+}

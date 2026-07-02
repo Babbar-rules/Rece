@@ -1,0 +1,20 @@
+{
+  "id": "Q135989793",
+  "name": "kebab sandwich",
+  "description": "sandwich that is, generally sold in kebab shops",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kebab-sandwich-q135989793/kebab-sandwich-q135989793-1.jpg",
+    "images/kebab-sandwich-q135989793/kebab-sandwich-q135989793-2.jpg",
+    "images/kebab-sandwich-q135989793/kebab-sandwich-q135989793-3.jpg",
+    "images/kebab-sandwich-q135989793/kebab-sandwich-q135989793-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135989793",
+    "themealdb": null
+  }
+}

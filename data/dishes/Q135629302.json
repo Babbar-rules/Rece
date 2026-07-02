@@ -1,0 +1,18 @@
+{
+  "id": "Q135629302",
+  "name": "pasta all'amatriciana",
+  "description": "pasta dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-allamatriciana-q135629302/pasta-allamatriciana-q135629302-1.jpg",
+    "images/pasta-allamatriciana-q135629302/pasta-allamatriciana-q135629302-2.jpg",
+    "images/pasta-allamatriciana-q135629302/pasta-allamatriciana-q135629302-3.jpg",
+    "images/pasta-allamatriciana-q135629302/pasta-allamatriciana-q135629302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135629302",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q136802858",
+  "name": "khanfaroosh",
+  "description": "fried dessert flavoured with saffron and cardamom",
+  "nationality": [],
+  "region_cuisine": [
+    "Emirati cuisine",
+    "Arab cuisine",
+    "Iranian cuisine"
+  ],
+  "images": [
+    "images/khanfaroosh-q136802858/khanfaroosh-q136802858-1.jpg",
+    "images/khanfaroosh-q136802858/khanfaroosh-q136802858-2.jpg",
+    "images/khanfaroosh-q136802858/khanfaroosh-q136802858-3.jpg",
+    "images/khanfaroosh-q136802858/khanfaroosh-q136802858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136802858",
+    "themealdb": null
+  }
+}

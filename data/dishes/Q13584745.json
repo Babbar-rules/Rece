@@ -1,0 +1,17 @@
+{
+  "id": "Q13584745",
+  "name": "Veal Oscar",
+  "description": "culinary creation",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veal-oscar-q13584745/veal-oscar-q13584745-1.jpg",
+    "images/veal-oscar-q13584745/veal-oscar-q13584745-2.jpg",
+    "images/veal-oscar-q13584745/veal-oscar-q13584745-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13584745",
+    "themealdb": null
+  }
+}

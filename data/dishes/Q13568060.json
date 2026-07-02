@@ -1,0 +1,64 @@
+{
+  "id": "Q13568060",
+  "name": "roti",
+  "description": "This is a food article about a wrap style sandwich",
+  "nationality": [
+    "Trinidad and Tobago"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/roti-q13568060/roti-q13568060-1.jpg",
+    "images/roti-q13568060/roti-q13568060-2.jpg",
+    "images/roti-q13568060/roti-q13568060-3.jpg",
+    "images/roti-q13568060/roti-q13568060-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53052",
+    "category": "Beef",
+    "area": "Malaysian",
+    "instructions": "Mix all the ingredients in a bowl.\r\nHeat a pan or griddle with a little vegetable oil.\r\nPour the mixture onto the pan and place a piece of open-faced baguette on top.\r\nPress on the bread with a spatula and grill for 2 minutes.\r\nTurn the bread over to make it a little crispy.\r\nRemove from pan and cut the bread into small portions.\r\nAdd mayonnaise and/or Sambal before cutting the sandwich (optional).",
+    "ingredients": [
+      {
+        "ingredient": "Minced Beef",
+        "measure": "1/4 lb"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Chilli",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Baguette",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "measure": "Top"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=cl4YH8wblRs",
+    "thumb": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13568060",
+    "themealdb": "53052"
+  }
+}

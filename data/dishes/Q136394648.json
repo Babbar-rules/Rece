@@ -1,0 +1,18 @@
+{
+  "id": "Q136394648",
+  "name": "Soy skewers",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-skewers-q136394648/soy-skewers-q136394648-1.jpg",
+    "images/soy-skewers-q136394648/soy-skewers-q136394648-2.jpg",
+    "images/soy-skewers-q136394648/soy-skewers-q136394648-3.jpg",
+    "images/soy-skewers-q136394648/soy-skewers-q136394648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136394648",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q135407771",
+  "name": "curry soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/curry-soup-q135407771/curry-soup-q135407771-1.jpg",
+    "images/curry-soup-q135407771/curry-soup-q135407771-2.jpg",
+    "images/curry-soup-q135407771/curry-soup-q135407771-3.jpg",
+    "images/curry-soup-q135407771/curry-soup-q135407771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135407771",
+    "themealdb": null
+  }
+}

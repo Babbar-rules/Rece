@@ -1,0 +1,19 @@
+{
+  "id": "Q13581171",
+  "name": "paletta Biellese",
+  "description": "Italian pork shoulder ham",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paletta-biellese-q13581171/paletta-biellese-q13581171-1.jpg",
+    "images/paletta-biellese-q13581171/paletta-biellese-q13581171-2.jpg",
+    "images/paletta-biellese-q13581171/paletta-biellese-q13581171-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13581171",
+    "themealdb": null
+  }
+}

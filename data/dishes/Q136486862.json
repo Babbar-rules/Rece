@@ -1,0 +1,20 @@
+{
+  "id": "Q136486862",
+  "name": "Iṣapa",
+  "description": "Egusi soup cooked with fresh white zobo flower",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/isapa-q136486862/isapa-q136486862-1.jpg",
+    "images/isapa-q136486862/isapa-q136486862-2.jpg",
+    "images/isapa-q136486862/isapa-q136486862-3.jpg",
+    "images/isapa-q136486862/isapa-q136486862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136486862",
+    "themealdb": null
+  }
+}

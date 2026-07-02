@@ -1,0 +1,20 @@
+{
+  "id": "Q136486724",
+  "name": "Lafun",
+  "description": "a traditional Nigerian \"swallow\" food, a starchy side dish made from fermented cassava flour, also known as white amala",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lafun-q136486724/lafun-q136486724-1.jpg",
+    "images/lafun-q136486724/lafun-q136486724-2.jpg",
+    "images/lafun-q136486724/lafun-q136486724-3.jpg",
+    "images/lafun-q136486724/lafun-q136486724-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136486724",
+    "themealdb": null
+  }
+}

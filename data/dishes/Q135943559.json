@@ -1,0 +1,18 @@
+{
+  "id": "Q135943559",
+  "name": "stewed white cabbage",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stewed-white-cabbage-q135943559/stewed-white-cabbage-q135943559-1.jpg",
+    "images/stewed-white-cabbage-q135943559/stewed-white-cabbage-q135943559-2.jpg",
+    "images/stewed-white-cabbage-q135943559/stewed-white-cabbage-q135943559-3.jpg",
+    "images/stewed-white-cabbage-q135943559/stewed-white-cabbage-q135943559-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135943559",
+    "themealdb": null
+  }
+}

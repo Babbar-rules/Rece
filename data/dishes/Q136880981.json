@@ -1,0 +1,17 @@
+{
+  "id": "Q136880981",
+  "name": "fiskekaker",
+  "description": "Norwegian fish dish",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fiskekaker-q136880981/fiskekaker-q136880981-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136880981",
+    "themealdb": null
+  }
+}

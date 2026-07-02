@@ -1,0 +1,22 @@
+{
+  "id": "Q1359006",
+  "name": "garlic bread",
+  "description": "bread topped with garlic and olive oil or butter",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian-American cuisine"
+  ],
+  "images": [
+    "images/garlic-bread-q1359006/garlic-bread-q1359006-1.jpg",
+    "images/garlic-bread-q1359006/garlic-bread-q1359006-2.jpg",
+    "images/garlic-bread-q1359006/garlic-bread-q1359006-3.jpg",
+    "images/garlic-bread-q1359006/garlic-bread-q1359006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1359006",
+    "themealdb": null
+  }
+}

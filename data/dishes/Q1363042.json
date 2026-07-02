@@ -1,0 +1,20 @@
+{
+  "id": "Q1363042",
+  "name": "Gianduiotto",
+  "description": "Northern Italian chocolate confectionary",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gianduiotto-q1363042/gianduiotto-q1363042-1.jpg",
+    "images/gianduiotto-q1363042/gianduiotto-q1363042-2.jpg",
+    "images/gianduiotto-q1363042/gianduiotto-q1363042-3.jpg",
+    "images/gianduiotto-q1363042/gianduiotto-q1363042-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1363042",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q135992934",
+  "name": "pasta with mozzarella, tomato and basil",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-with-mozzarella-tomato-and-basil-q135992934/pasta-with-mozzarella-tomato-and-basil-q135992934-1.jpg",
+    "images/pasta-with-mozzarella-tomato-and-basil-q135992934/pasta-with-mozzarella-tomato-and-basil-q135992934-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135992934",
+    "themealdb": null
+  }
+}

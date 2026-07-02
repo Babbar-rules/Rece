@@ -1,0 +1,23 @@
+{
+  "id": "Q13603269",
+  "name": "risalamande",
+  "description": "rice pudding to which cream is added",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [
+    "Danish cuisine",
+    "Norwegian cuisine"
+  ],
+  "images": [
+    "images/risalamande-q13603269/risalamande-q13603269-1.jpg",
+    "images/risalamande-q13603269/risalamande-q13603269-2.jpg",
+    "images/risalamande-q13603269/risalamande-q13603269-3.jpg",
+    "images/risalamande-q13603269/risalamande-q13603269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13603269",
+    "themealdb": null
+  }
+}

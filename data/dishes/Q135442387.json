@@ -1,0 +1,18 @@
+{
+  "id": "Q135442387",
+  "name": "zapekanka",
+  "description": "casserole, baked pudding",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zapekanka-q135442387/zapekanka-q135442387-1.jpg",
+    "images/zapekanka-q135442387/zapekanka-q135442387-2.jpg",
+    "images/zapekanka-q135442387/zapekanka-q135442387-3.jpg",
+    "images/zapekanka-q135442387/zapekanka-q135442387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135442387",
+    "themealdb": null
+  }
+}

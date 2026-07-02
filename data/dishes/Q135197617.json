@@ -1,0 +1,20 @@
+{
+  "id": "Q135197617",
+  "name": "Milky Pie",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/milky-pie-q135197617/milky-pie-q135197617-1.jpg",
+    "images/milky-pie-q135197617/milky-pie-q135197617-2.jpg",
+    "images/milky-pie-q135197617/milky-pie-q135197617-3.jpg",
+    "images/milky-pie-q135197617/milky-pie-q135197617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135197617",
+    "themealdb": null
+  }
+}

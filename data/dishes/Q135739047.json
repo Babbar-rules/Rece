@@ -1,0 +1,20 @@
+{
+  "id": "Q135739047",
+  "name": "yellow tofu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Javanese cuisine"
+  ],
+  "images": [
+    "images/yellow-tofu-q135739047/yellow-tofu-q135739047-1.jpg",
+    "images/yellow-tofu-q135739047/yellow-tofu-q135739047-2.jpg",
+    "images/yellow-tofu-q135739047/yellow-tofu-q135739047-3.jpg",
+    "images/yellow-tofu-q135739047/yellow-tofu-q135739047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135739047",
+    "themealdb": null
+  }
+}

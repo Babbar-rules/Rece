@@ -1,0 +1,20 @@
+{
+  "id": "Q1352897",
+  "name": "unadon",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/unadon-q1352897/unadon-q1352897-1.jpg",
+    "images/unadon-q1352897/unadon-q1352897-2.jpg",
+    "images/unadon-q1352897/unadon-q1352897-3.jpg",
+    "images/unadon-q1352897/unadon-q1352897-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1352897",
+    "themealdb": null
+  }
+}

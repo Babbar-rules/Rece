@@ -1,0 +1,20 @@
+{
+  "id": "Q136486705",
+  "name": "Ọjọjọ",
+  "description": "a delicious Nigerian snack made from grated water yam",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ojojo-q136486705/ojojo-q136486705-1.jpg",
+    "images/ojojo-q136486705/ojojo-q136486705-2.jpg",
+    "images/ojojo-q136486705/ojojo-q136486705-3.jpg",
+    "images/ojojo-q136486705/ojojo-q136486705-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136486705",
+    "themealdb": null
+  }
+}

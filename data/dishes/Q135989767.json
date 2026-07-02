@@ -1,0 +1,60 @@
+{
+  "id": "Q135989767",
+  "name": "chicken kebab",
+  "description": "type of kebab made from chicken",
+  "nationality": [
+    "Thai"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/chicken-kebab-q135989767/chicken-kebab-q135989767-1.jpg",
+    "images/chicken-kebab-q135989767/chicken-kebab-q135989767-2.jpg",
+    "images/chicken-kebab-q135989767/chicken-kebab-q135989767-3.jpg",
+    "images/chicken-kebab-q135989767/chicken-kebab-q135989767-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53204",
+    "category": "Chicken",
+    "area": "Thai",
+    "instructions": "step 1\r\nFire up the barbecue or heat a griddle pan to high. Tip chicken, curry paste and coconut milk into a bowl, then mix well until the chicken is evenly coated. Thread vegetables and chicken onto skewers. Cook the skewers on the barbecue or griddle for 5-8 mins, turning every so often, until the chicken is cooked through and charred. Serve with herby rice, salad and a lime half to squeeze over.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Breasts",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Thai Red Curry Paste",
+        "measure": "2 tblsp"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "2 tblsp"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Courgettes",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Red Onions",
+        "measure": "1 cut thin wedges"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "To serve"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=XJscdFRT8_8",
+    "thumb": "https://www.themealdb.com/images/media/meals/prjve31763486864.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135989767",
+    "themealdb": "53204"
+  }
+}

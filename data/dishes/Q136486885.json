@@ -1,0 +1,20 @@
+{
+  "id": "Q136486885",
+  "name": "Burukutu",
+  "description": "an alcoholic beverage, brewed from the grains of Guinea corn (Sorghum bicolor) and millet (Pennisetum glaucum)",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/burukutu-q136486885/burukutu-q136486885-1.jpg",
+    "images/burukutu-q136486885/burukutu-q136486885-2.jpg",
+    "images/burukutu-q136486885/burukutu-q136486885-3.png",
+    "images/burukutu-q136486885/burukutu-q136486885-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136486885",
+    "themealdb": null
+  }
+}

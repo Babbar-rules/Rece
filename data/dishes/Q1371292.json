@@ -1,0 +1,18 @@
+{
+  "id": "Q1371292",
+  "name": "nimm2",
+  "description": "trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nimm2-q1371292/nimm2-q1371292-1.jpg",
+    "images/nimm2-q1371292/nimm2-q1371292-2.jpg",
+    "images/nimm2-q1371292/nimm2-q1371292-3.jpg",
+    "images/nimm2-q1371292/nimm2-q1371292-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1371292",
+    "themealdb": null
+  }
+}

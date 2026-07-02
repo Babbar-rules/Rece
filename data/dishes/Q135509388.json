@@ -1,0 +1,18 @@
+{
+  "id": "Q135509388",
+  "name": "Makayabu",
+  "description": "Makayabu is a traditional Congolese and Angolans food prepared with salted fish, vegetables, and traditional spices.",
+  "nationality": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "region_cuisine": [
+    "African cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135509388",
+    "themealdb": null
+  }
+}

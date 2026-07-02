@@ -1,0 +1,18 @@
+{
+  "id": "Q135447217",
+  "name": "Cake doughnut",
+  "description": "doughnut type using cake batter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cake-doughnut-q135447217/cake-doughnut-q135447217-1.jpg",
+    "images/cake-doughnut-q135447217/cake-doughnut-q135447217-2.jpg",
+    "images/cake-doughnut-q135447217/cake-doughnut-q135447217-3.jpg",
+    "images/cake-doughnut-q135447217/cake-doughnut-q135447217-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135447217",
+    "themealdb": null
+  }
+}

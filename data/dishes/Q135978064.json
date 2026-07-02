@@ -1,0 +1,20 @@
+{
+  "id": "Q135978064",
+  "name": "ampow",
+  "description": "Filipino sweet puffed rice cake",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ampow-q135978064/ampow-q135978064-1.jpg",
+    "images/ampow-q135978064/ampow-q135978064-2.jpg",
+    "images/ampow-q135978064/ampow-q135978064-3.jpg",
+    "images/ampow-q135978064/ampow-q135978064-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135978064",
+    "themealdb": null
+  }
+}

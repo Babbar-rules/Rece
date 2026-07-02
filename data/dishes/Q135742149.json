@@ -1,0 +1,18 @@
+{
+  "id": "Q135742149",
+  "name": "pork curry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-curry-q135742149/pork-curry-q135742149-1.jpg",
+    "images/pork-curry-q135742149/pork-curry-q135742149-2.jpg",
+    "images/pork-curry-q135742149/pork-curry-q135742149-3.jpg",
+    "images/pork-curry-q135742149/pork-curry-q135742149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135742149",
+    "themealdb": null
+  }
+}

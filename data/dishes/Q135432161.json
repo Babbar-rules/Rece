@@ -1,0 +1,18 @@
+{
+  "id": "Q135432161",
+  "name": "bogobe",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bogobe-q135432161/bogobe-q135432161-1.jpg",
+    "images/bogobe-q135432161/bogobe-q135432161-2.jpg",
+    "images/bogobe-q135432161/bogobe-q135432161-3.jpg",
+    "images/bogobe-q135432161/bogobe-q135432161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135432161",
+    "themealdb": null
+  }
+}

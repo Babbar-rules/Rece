@@ -1,0 +1,20 @@
+{
+  "id": "Q136791457",
+  "name": "Charms Blow Pops",
+  "description": "confectionery product of Charms Candy Company (owned by Tootsie Roll Industries)",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/charms-blow-pops-q136791457/charms-blow-pops-q136791457-1.jpg",
+    "images/charms-blow-pops-q136791457/charms-blow-pops-q136791457-2.jpg",
+    "images/charms-blow-pops-q136791457/charms-blow-pops-q136791457-3.jpg",
+    "images/charms-blow-pops-q136791457/charms-blow-pops-q136791457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136791457",
+    "themealdb": null
+  }
+}

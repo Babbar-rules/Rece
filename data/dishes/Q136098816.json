@@ -1,0 +1,16 @@
+{
+  "id": "Q136098816",
+  "name": "baocui",
+  "description": "thin and crispy fried cracker",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baocui-q136098816/baocui-q136098816-1.jpg",
+    "images/baocui-q136098816/baocui-q136098816-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136098816",
+    "themealdb": null
+  }
+}

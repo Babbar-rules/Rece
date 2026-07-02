@@ -1,0 +1,20 @@
+{
+  "id": "Q1363043",
+  "name": "poached egg",
+  "description": "egg that has been cooked by poaching",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/poached-egg-q1363043/poached-egg-q1363043-1.jpg",
+    "images/poached-egg-q1363043/poached-egg-q1363043-2.jpg",
+    "images/poached-egg-q1363043/poached-egg-q1363043-3.jpg",
+    "images/poached-egg-q1363043/poached-egg-q1363043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1363043",
+    "themealdb": null
+  }
+}

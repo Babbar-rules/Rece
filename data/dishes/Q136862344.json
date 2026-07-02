@@ -1,0 +1,18 @@
+{
+  "id": "Q136862344",
+  "name": "Princess fast food",
+  "description": "restaurant in Gombe, Nigeria",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/princess-fast-food-q136862344/princess-fast-food-q136862344-1.jpg",
+    "images/princess-fast-food-q136862344/princess-fast-food-q136862344-2.jpg",
+    "images/princess-fast-food-q136862344/princess-fast-food-q136862344-3.jpg",
+    "images/princess-fast-food-q136862344/princess-fast-food-q136862344-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136862344",
+    "themealdb": null
+  }
+}

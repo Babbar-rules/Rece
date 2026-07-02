@@ -1,0 +1,21 @@
+{
+  "id": "Q136732109",
+  "name": "Christmas chips",
+  "description": "",
+  "nationality": [
+    "Northern Ireland",
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-chips-q136732109/christmas-chips-q136732109-1.jpg",
+    "images/christmas-chips-q136732109/christmas-chips-q136732109-2.jpg",
+    "images/christmas-chips-q136732109/christmas-chips-q136732109-3.jpg",
+    "images/christmas-chips-q136732109/christmas-chips-q136732109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136732109",
+    "themealdb": null
+  }
+}

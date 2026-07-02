@@ -1,0 +1,18 @@
+{
+  "id": "Q135642191",
+  "name": "coffee-flavored cake",
+  "description": "cake with coffee flavor",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coffee-flavored-cake-q135642191/coffee-flavored-cake-q135642191-1.jpg",
+    "images/coffee-flavored-cake-q135642191/coffee-flavored-cake-q135642191-2.jpg",
+    "images/coffee-flavored-cake-q135642191/coffee-flavored-cake-q135642191-3.jpg",
+    "images/coffee-flavored-cake-q135642191/coffee-flavored-cake-q135642191-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135642191",
+    "themealdb": null
+  }
+}

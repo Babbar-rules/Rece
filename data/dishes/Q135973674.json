@@ -1,0 +1,17 @@
+{
+  "id": "Q135973674",
+  "name": "Kaeng thepho",
+  "description": "Thai curry dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaeng-thepho-q135973674/kaeng-thepho-q135973674-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135973674",
+    "themealdb": null
+  }
+}

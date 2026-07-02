@@ -1,0 +1,22 @@
+{
+  "id": "Q136087059",
+  "name": "aquafaba meringue",
+  "description": "meringue made from whipped aquafaba and sugar",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "vegan cuisine"
+  ],
+  "images": [
+    "images/aquafaba-meringue-q136087059/aquafaba-meringue-q136087059-1.jpg",
+    "images/aquafaba-meringue-q136087059/aquafaba-meringue-q136087059-2.jpg",
+    "images/aquafaba-meringue-q136087059/aquafaba-meringue-q136087059-3.jpg",
+    "images/aquafaba-meringue-q136087059/aquafaba-meringue-q136087059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136087059",
+    "themealdb": null
+  }
+}

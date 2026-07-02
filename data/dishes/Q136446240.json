@@ -1,0 +1,18 @@
+{
+  "id": "Q136446240",
+  "name": "Tramontana",
+  "description": "Argentine dessert and ice cream flavor",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tramontana-q136446240/tramontana-q136446240-1.jpg",
+    "images/tramontana-q136446240/tramontana-q136446240-2.jpg",
+    "images/tramontana-q136446240/tramontana-q136446240-3.jpg",
+    "images/tramontana-q136446240/tramontana-q136446240-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136446240",
+    "themealdb": null
+  }
+}

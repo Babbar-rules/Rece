@@ -1,0 +1,20 @@
+{
+  "id": "Q135272957",
+  "name": "Semovita",
+  "description": "a popular Nigerian brand of semolina flour, a type of wheat flour",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/semovita-q135272957/semovita-q135272957-1.jpg",
+    "images/semovita-q135272957/semovita-q135272957-2.jpg",
+    "images/semovita-q135272957/semovita-q135272957-3.jpg",
+    "images/semovita-q135272957/semovita-q135272957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135272957",
+    "themealdb": null
+  }
+}

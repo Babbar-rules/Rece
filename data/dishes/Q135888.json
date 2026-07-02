@@ -1,0 +1,18 @@
+{
+  "id": "Q135888",
+  "name": "Chicken McNuggets",
+  "description": "chicken dish of McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-mcnuggets-q135888/chicken-mcnuggets-q135888-1.jpg",
+    "images/chicken-mcnuggets-q135888/chicken-mcnuggets-q135888-2.jpg",
+    "images/chicken-mcnuggets-q135888/chicken-mcnuggets-q135888-3.jpg",
+    "images/chicken-mcnuggets-q135888/chicken-mcnuggets-q135888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135888",
+    "themealdb": null
+  }
+}

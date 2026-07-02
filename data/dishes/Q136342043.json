@@ -1,0 +1,18 @@
+{
+  "id": "Q136342043",
+  "name": "fast food item",
+  "description": "quickly prepared and conveniently packaged food product typically sold by fast food restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fast-food-item-q136342043/fast-food-item-q136342043-1.jpg",
+    "images/fast-food-item-q136342043/fast-food-item-q136342043-2.jpg",
+    "images/fast-food-item-q136342043/fast-food-item-q136342043-3.jpg",
+    "images/fast-food-item-q136342043/fast-food-item-q136342043-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136342043",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q135734993",
+  "name": "Khobz el-dâr",
+  "description": "type of leavened bread made in the Maghreb",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/khobz-el-dar-q135734993/khobz-el-dar-q135734993-1.jpg",
+    "images/khobz-el-dar-q135734993/khobz-el-dar-q135734993-2.jpg",
+    "images/khobz-el-dar-q135734993/khobz-el-dar-q135734993-3.jpg",
+    "images/khobz-el-dar-q135734993/khobz-el-dar-q135734993-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135734993",
+    "themealdb": null
+  }
+}

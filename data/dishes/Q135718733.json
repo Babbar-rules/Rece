@@ -1,0 +1,18 @@
+{
+  "id": "Q135718733",
+  "name": "cake bite",
+  "description": "small bite-sized cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cake-bite-q135718733/cake-bite-q135718733-1.jpg",
+    "images/cake-bite-q135718733/cake-bite-q135718733-2.jpg",
+    "images/cake-bite-q135718733/cake-bite-q135718733-3.jpg",
+    "images/cake-bite-q135718733/cake-bite-q135718733-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135718733",
+    "themealdb": null
+  }
+}

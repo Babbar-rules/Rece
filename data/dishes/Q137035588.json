@@ -1,0 +1,20 @@
+{
+  "id": "Q137035588",
+  "name": "steak sandwich",
+  "description": "Australian dish",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-sandwich-q137035588/steak-sandwich-q137035588-1.jpg",
+    "images/steak-sandwich-q137035588/steak-sandwich-q137035588-2.jpg",
+    "images/steak-sandwich-q137035588/steak-sandwich-q137035588-3.jpg",
+    "images/steak-sandwich-q137035588/steak-sandwich-q137035588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137035588",
+    "themealdb": null
+  }
+}

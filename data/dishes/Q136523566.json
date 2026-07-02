@@ -1,0 +1,18 @@
+{
+  "id": "Q136523566",
+  "name": "Smidyn cabbage",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smidyn-cabbage-q136523566/smidyn-cabbage-q136523566-1.jpg",
+    "images/smidyn-cabbage-q136523566/smidyn-cabbage-q136523566-2.jpg",
+    "images/smidyn-cabbage-q136523566/smidyn-cabbage-q136523566-3.jpg",
+    "images/smidyn-cabbage-q136523566/smidyn-cabbage-q136523566-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136523566",
+    "themealdb": null
+  }
+}

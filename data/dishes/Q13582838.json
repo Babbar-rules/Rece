@@ -1,0 +1,16 @@
+{
+  "id": "Q13582838",
+  "name": "Rihaakuru",
+  "description": "fish-based sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rihaakuru-q13582838/rihaakuru-q13582838-1.jpeg",
+    "images/rihaakuru-q13582838/rihaakuru-q13582838-2.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13582838",
+    "themealdb": null
+  }
+}

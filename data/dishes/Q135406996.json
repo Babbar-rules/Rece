@@ -1,0 +1,18 @@
+{
+  "id": "Q135406996",
+  "name": "red cabbage salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/red-cabbage-salad-q135406996/red-cabbage-salad-q135406996-1.jpg",
+    "images/red-cabbage-salad-q135406996/red-cabbage-salad-q135406996-2.jpg",
+    "images/red-cabbage-salad-q135406996/red-cabbage-salad-q135406996-3.jpg",
+    "images/red-cabbage-salad-q135406996/red-cabbage-salad-q135406996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135406996",
+    "themealdb": null
+  }
+}

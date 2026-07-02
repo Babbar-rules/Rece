@@ -1,0 +1,18 @@
+{
+  "id": "Q136089368",
+  "name": "Pulled Chicken Burger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pulled-chicken-burger-q136089368/pulled-chicken-burger-q136089368-1.jpg",
+    "images/pulled-chicken-burger-q136089368/pulled-chicken-burger-q136089368-2.jpg",
+    "images/pulled-chicken-burger-q136089368/pulled-chicken-burger-q136089368-3.jpg",
+    "images/pulled-chicken-burger-q136089368/pulled-chicken-burger-q136089368-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136089368",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1363716",
+  "name": "piccalilli",
+  "description": "relish of chopped pickled vegetables and spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/piccalilli-q1363716/piccalilli-q1363716-1.jpg",
+    "images/piccalilli-q1363716/piccalilli-q1363716-2.jpg",
+    "images/piccalilli-q1363716/piccalilli-q1363716-3.jpg",
+    "images/piccalilli-q1363716/piccalilli-q1363716-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1363716",
+    "themealdb": null
+  }
+}

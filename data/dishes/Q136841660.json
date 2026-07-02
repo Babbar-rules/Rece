@@ -1,0 +1,18 @@
+{
+  "id": "Q136841660",
+  "name": "Ice Hub Food and Drinks",
+  "description": "restaurant in Kastina, Nigeria",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-hub-food-and-drinks-q136841660/ice-hub-food-and-drinks-q136841660-1.jpg",
+    "images/ice-hub-food-and-drinks-q136841660/ice-hub-food-and-drinks-q136841660-2.jpg",
+    "images/ice-hub-food-and-drinks-q136841660/ice-hub-food-and-drinks-q136841660-3.jpg",
+    "images/ice-hub-food-and-drinks-q136841660/ice-hub-food-and-drinks-q136841660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136841660",
+    "themealdb": null
+  }
+}

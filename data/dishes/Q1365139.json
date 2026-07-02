@@ -1,0 +1,22 @@
+{
+  "id": "Q1365139",
+  "name": "Ptitim",
+  "description": "toasted pasta in tiny balls",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [
+    "Israeli cuisine"
+  ],
+  "images": [
+    "images/ptitim-q1365139/ptitim-q1365139-1.jpg",
+    "images/ptitim-q1365139/ptitim-q1365139-2.jpg",
+    "images/ptitim-q1365139/ptitim-q1365139-3.jpg",
+    "images/ptitim-q1365139/ptitim-q1365139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1365139",
+    "themealdb": null
+  }
+}

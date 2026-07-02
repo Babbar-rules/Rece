@@ -1,0 +1,20 @@
+{
+  "id": "Q136537392",
+  "name": "zarzuela",
+  "description": "a spiced seafood and fish stew served with sauces on a bed of rice",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zarzuela-q136537392/zarzuela-q136537392-1.png",
+    "images/zarzuela-q136537392/zarzuela-q136537392-2.jpg",
+    "images/zarzuela-q136537392/zarzuela-q136537392-3.jpg",
+    "images/zarzuela-q136537392/zarzuela-q136537392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136537392",
+    "themealdb": null
+  }
+}

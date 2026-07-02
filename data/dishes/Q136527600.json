@@ -1,0 +1,18 @@
+{
+  "id": "Q136527600",
+  "name": "Strawberry salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-salad-q136527600/strawberry-salad-q136527600-1.jpg",
+    "images/strawberry-salad-q136527600/strawberry-salad-q136527600-2.jpg",
+    "images/strawberry-salad-q136527600/strawberry-salad-q136527600-3.jpg",
+    "images/strawberry-salad-q136527600/strawberry-salad-q136527600-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136527600",
+    "themealdb": null
+  }
+}

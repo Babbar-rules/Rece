@@ -1,0 +1,20 @@
+{
+  "id": "Q136878697",
+  "name": "fishcake",
+  "description": "popular food item in Britain, often served in gourmet establishments as well as traditional chip shops",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fishcake-q136878697/fishcake-q136878697-1.jpg",
+    "images/fishcake-q136878697/fishcake-q136878697-2.jpg",
+    "images/fishcake-q136878697/fishcake-q136878697-3.jpg",
+    "images/fishcake-q136878697/fishcake-q136878697-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136878697",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q13636168",
+  "name": "Philosopher's Stew",
+  "description": "old dutch oven dish with meat, potatoes, apples and onions",
+  "nationality": [],
+  "region_cuisine": [
+    "Dutch cuisine"
+  ],
+  "images": [
+    "images/philosophers-stew-q13636168/philosophers-stew-q13636168-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13636168",
+    "themealdb": null
+  }
+}

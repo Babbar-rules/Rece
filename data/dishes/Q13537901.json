@@ -1,0 +1,18 @@
+{
+  "id": "Q13537901",
+  "name": "Opekanec",
+  "description": "small baked balls of yeast dough",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/opekanec-q13537901/opekanec-q13537901-1.jpg",
+    "images/opekanec-q13537901/opekanec-q13537901-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13537901",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q13566136",
+  "name": "Shekarpareh",
+  "description": "Iranian candy",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shekarpareh-q13566136/shekarpareh-q13566136-1.jpg",
+    "images/shekarpareh-q13566136/shekarpareh-q13566136-2.jpg",
+    "images/shekarpareh-q13566136/shekarpareh-q13566136-3.jpg",
+    "images/shekarpareh-q13566136/shekarpareh-q13566136-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13566136",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q136922",
+  "name": "aşure",
+  "description": "Armenian dessert",
+  "nationality": [
+    "ancient Near East"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/asure-q136922/asure-q136922-1.jpg",
+    "images/asure-q136922/asure-q136922-2.jpg",
+    "images/asure-q136922/asure-q136922-3.jpg",
+    "images/asure-q136922/asure-q136922-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136922",
+    "themealdb": null
+  }
+}

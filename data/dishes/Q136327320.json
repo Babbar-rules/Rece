@@ -1,0 +1,20 @@
+{
+  "id": "Q136327320",
+  "name": "Num akor",
+  "description": "Cambodian dessert",
+  "nationality": [
+    "Cambodia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/num-akor-q136327320/num-akor-q136327320-1.jpg",
+    "images/num-akor-q136327320/num-akor-q136327320-2.jpg",
+    "images/num-akor-q136327320/num-akor-q136327320-3.jpg",
+    "images/num-akor-q136327320/num-akor-q136327320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136327320",
+    "themealdb": null
+  }
+}

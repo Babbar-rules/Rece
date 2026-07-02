@@ -1,0 +1,18 @@
+{
+  "id": "Q136087103",
+  "name": "mashed chickpea",
+  "description": "chickpea dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mashed-chickpea-q136087103/mashed-chickpea-q136087103-1.jpg",
+    "images/mashed-chickpea-q136087103/mashed-chickpea-q136087103-2.jpg",
+    "images/mashed-chickpea-q136087103/mashed-chickpea-q136087103-3.jpg",
+    "images/mashed-chickpea-q136087103/mashed-chickpea-q136087103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136087103",
+    "themealdb": null
+  }
+}

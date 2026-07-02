@@ -1,0 +1,19 @@
+{
+  "id": "Q136373880",
+  "name": "Khurchan",
+  "description": "Sweet food of North India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khurchan-q136373880/khurchan-q136373880-1.jpg",
+    "images/khurchan-q136373880/khurchan-q136373880-2.jpg",
+    "images/khurchan-q136373880/khurchan-q136373880-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136373880",
+    "themealdb": null
+  }
+}

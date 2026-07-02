@@ -1,0 +1,18 @@
+{
+  "id": "Q136718362",
+  "name": "Labor Inducer",
+  "description": "hamburger served in Minnesota, US",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/labor-inducer-q136718362/labor-inducer-q136718362-1.jpg",
+    "images/labor-inducer-q136718362/labor-inducer-q136718362-2.jpg",
+    "images/labor-inducer-q136718362/labor-inducer-q136718362-3.jpg",
+    "images/labor-inducer-q136718362/labor-inducer-q136718362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136718362",
+    "themealdb": null
+  }
+}

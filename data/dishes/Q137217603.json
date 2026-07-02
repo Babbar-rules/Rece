@@ -1,0 +1,22 @@
+{
+  "id": "Q137217603",
+  "name": "Ashoka Halwa",
+  "description": "Confectionery from Tamil Nadu, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Tamil cuisine"
+  ],
+  "images": [
+    "images/ashoka-halwa-q137217603/ashoka-halwa-q137217603-1.jpg",
+    "images/ashoka-halwa-q137217603/ashoka-halwa-q137217603-2.jpg",
+    "images/ashoka-halwa-q137217603/ashoka-halwa-q137217603-3.jpg",
+    "images/ashoka-halwa-q137217603/ashoka-halwa-q137217603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137217603",
+    "themealdb": null
+  }
+}

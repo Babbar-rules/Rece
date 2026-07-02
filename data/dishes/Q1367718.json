@@ -1,0 +1,22 @@
+{
+  "id": "Q1367718",
+  "name": "gu lou juk",
+  "description": "pork dish of China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/gu-lou-juk-q1367718/gu-lou-juk-q1367718-1.jpg",
+    "images/gu-lou-juk-q1367718/gu-lou-juk-q1367718-2.jpg",
+    "images/gu-lou-juk-q1367718/gu-lou-juk-q1367718-3.jpg",
+    "images/gu-lou-juk-q1367718/gu-lou-juk-q1367718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1367718",
+    "themealdb": null
+  }
+}

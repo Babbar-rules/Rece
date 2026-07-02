@@ -1,0 +1,20 @@
+{
+  "id": "Q1361771",
+  "name": "Piccata",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/piccata-q1361771/piccata-q1361771-1.jpg",
+    "images/piccata-q1361771/piccata-q1361771-2.jpg",
+    "images/piccata-q1361771/piccata-q1361771-3.jpg",
+    "images/piccata-q1361771/piccata-q1361771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1361771",
+    "themealdb": null
+  }
+}

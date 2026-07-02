@@ -1,0 +1,19 @@
+{
+  "id": "Q135486726",
+  "name": "Calulu and Funge",
+  "description": "Calulu and Funge are traditional dishes from Angola",
+  "nationality": [
+    "Angola",
+    "Sao Tomeans"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calulu-and-funge-q135486726/calulu-and-funge-q135486726-1.jpg",
+    "images/calulu-and-funge-q135486726/calulu-and-funge-q135486726-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135486726",
+    "themealdb": null
+  }
+}

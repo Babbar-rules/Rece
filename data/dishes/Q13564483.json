@@ -1,0 +1,20 @@
+{
+  "id": "Q13564483",
+  "name": "Koottukari",
+  "description": "yellow curry",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koottukari-q13564483/koottukari-q13564483-1.jpg",
+    "images/koottukari-q13564483/koottukari-q13564483-2.jpg",
+    "images/koottukari-q13564483/koottukari-q13564483-3.jpg",
+    "images/koottukari-q13564483/koottukari-q13564483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13564483",
+    "themealdb": null
+  }
+}

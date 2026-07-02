@@ -1,0 +1,20 @@
+{
+  "id": "Q135412815",
+  "name": "Yassa Guinar",
+  "description": "traditional dish from West Africa",
+  "nationality": [
+    "Senegal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yassa-guinar-q135412815/yassa-guinar-q135412815-1.jpg",
+    "images/yassa-guinar-q135412815/yassa-guinar-q135412815-2.jpg",
+    "images/yassa-guinar-q135412815/yassa-guinar-q135412815-3.jpg",
+    "images/yassa-guinar-q135412815/yassa-guinar-q135412815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135412815",
+    "themealdb": null
+  }
+}

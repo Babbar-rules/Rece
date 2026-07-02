@@ -1,0 +1,20 @@
+{
+  "id": "Q1372354",
+  "name": "botamochi",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/botamochi-q1372354/botamochi-q1372354-1.jpg",
+    "images/botamochi-q1372354/botamochi-q1372354-2.jpg",
+    "images/botamochi-q1372354/botamochi-q1372354-3.jpg",
+    "images/botamochi-q1372354/botamochi-q1372354-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1372354",
+    "themealdb": null
+  }
+}

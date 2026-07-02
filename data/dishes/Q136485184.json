@@ -1,0 +1,20 @@
+{
+  "id": "Q136485184",
+  "name": "Iyan",
+  "description": "pounded-yam",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iyan-q136485184/iyan-q136485184-1.jpg",
+    "images/iyan-q136485184/iyan-q136485184-2.jpg",
+    "images/iyan-q136485184/iyan-q136485184-3.jpg",
+    "images/iyan-q136485184/iyan-q136485184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136485184",
+    "themealdb": null
+  }
+}

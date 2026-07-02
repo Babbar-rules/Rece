@@ -1,0 +1,20 @@
+{
+  "id": "Q136486733",
+  "name": "Bẹju",
+  "description": "Cassava bread",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beju-q136486733/beju-q136486733-1.jpg",
+    "images/beju-q136486733/beju-q136486733-2.jpg",
+    "images/beju-q136486733/beju-q136486733-3.jpg",
+    "images/beju-q136486733/beju-q136486733-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136486733",
+    "themealdb": null
+  }
+}

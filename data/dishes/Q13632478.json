@@ -1,0 +1,18 @@
+{
+  "id": "Q13632478",
+  "name": "Zhimazao",
+  "description": "Sesame ball",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zhimazao-q13632478/zhimazao-q13632478-1.jpg",
+    "images/zhimazao-q13632478/zhimazao-q13632478-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13632478",
+    "themealdb": null
+  }
+}

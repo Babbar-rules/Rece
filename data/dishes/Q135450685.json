@@ -1,0 +1,18 @@
+{
+  "id": "Q135450685",
+  "name": "holiday dish",
+  "description": "dish that is typically eaten on a holiday",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/holiday-dish-q135450685/holiday-dish-q135450685-1.jpg",
+    "images/holiday-dish-q135450685/holiday-dish-q135450685-2.jpg",
+    "images/holiday-dish-q135450685/holiday-dish-q135450685-3.jpg",
+    "images/holiday-dish-q135450685/holiday-dish-q135450685-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135450685",
+    "themealdb": null
+  }
+}

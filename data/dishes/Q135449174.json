@@ -1,0 +1,20 @@
+{
+  "id": "Q135449174",
+  "name": "Potato biscuits",
+  "description": "A Cookie made of potatoes",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-biscuits-q135449174/potato-biscuits-q135449174-1.png",
+    "images/potato-biscuits-q135449174/potato-biscuits-q135449174-2.jpg",
+    "images/potato-biscuits-q135449174/potato-biscuits-q135449174-3.png",
+    "images/potato-biscuits-q135449174/potato-biscuits-q135449174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135449174",
+    "themealdb": null
+  }
+}

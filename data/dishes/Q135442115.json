@@ -1,0 +1,18 @@
+{
+  "id": "Q135442115",
+  "name": "potato curry",
+  "description": "curry with potatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-curry-q135442115/potato-curry-q135442115-1.jpg",
+    "images/potato-curry-q135442115/potato-curry-q135442115-2.jpg",
+    "images/potato-curry-q135442115/potato-curry-q135442115-3.jpg",
+    "images/potato-curry-q135442115/potato-curry-q135442115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135442115",
+    "themealdb": null
+  }
+}

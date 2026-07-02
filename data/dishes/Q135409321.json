@@ -1,0 +1,18 @@
+{
+  "id": "Q135409321",
+  "name": "stewed beef",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stewed-beef-q135409321/stewed-beef-q135409321-1.jpg",
+    "images/stewed-beef-q135409321/stewed-beef-q135409321-2.jpg",
+    "images/stewed-beef-q135409321/stewed-beef-q135409321-3.jpg",
+    "images/stewed-beef-q135409321/stewed-beef-q135409321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135409321",
+    "themealdb": null
+  }
+}

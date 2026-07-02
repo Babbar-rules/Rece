@@ -1,0 +1,20 @@
+{
+  "id": "Q135703315",
+  "name": "pesto pasta",
+  "description": "pasta with pesto",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pesto-pasta-q135703315/pesto-pasta-q135703315-1.jpg",
+    "images/pesto-pasta-q135703315/pesto-pasta-q135703315-2.jpg",
+    "images/pesto-pasta-q135703315/pesto-pasta-q135703315-3.jpg",
+    "images/pesto-pasta-q135703315/pesto-pasta-q135703315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q135703315",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q136035763",
+  "name": "Marshall Cake",
+  "description": "a Turkish cake",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marshall-cake-q136035763/marshall-cake-q136035763-1.jpg",
+    "images/marshall-cake-q136035763/marshall-cake-q136035763-2.jpg",
+    "images/marshall-cake-q136035763/marshall-cake-q136035763-3.jpg",
+    "images/marshall-cake-q136035763/marshall-cake-q136035763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q136035763",
+    "themealdb": null
+  }
+}
