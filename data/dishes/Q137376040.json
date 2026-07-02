@@ -1,0 +1,18 @@
+{
+  "id": "Q137376040",
+  "name": "Num kom",
+  "description": "Cambodian steamed rice cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/num-kom-q137376040/num-kom-q137376040-1.jpg",
+    "images/num-kom-q137376040/num-kom-q137376040-2.jpg",
+    "images/num-kom-q137376040/num-kom-q137376040-3.jpg",
+    "images/num-kom-q137376040/num-kom-q137376040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137376040",
+    "themealdb": null
+  }
+}

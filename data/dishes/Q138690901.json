@@ -1,0 +1,15 @@
+{
+  "id": "Q138690901",
+  "name": "broccoli and bacon pizza",
+  "description": "Brazilian pizza with broccoli, bacon and mozzarella",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690901",
+    "themealdb": null
+  }
+}

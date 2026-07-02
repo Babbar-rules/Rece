@@ -1,0 +1,18 @@
+{
+  "id": "Q138542217",
+  "name": "boiled beetroot",
+  "description": "boiled and sliced beetroot served cold as a salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boiled-beetroot-q138542217/boiled-beetroot-q138542217-1.jpg",
+    "images/boiled-beetroot-q138542217/boiled-beetroot-q138542217-2.jpg",
+    "images/boiled-beetroot-q138542217/boiled-beetroot-q138542217-3.jpg",
+    "images/boiled-beetroot-q138542217/boiled-beetroot-q138542217-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542217",
+    "themealdb": null
+  }
+}

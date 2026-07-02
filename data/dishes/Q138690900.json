@@ -1,0 +1,15 @@
+{
+  "id": "Q138690900",
+  "name": "baiana pizza",
+  "description": "Brazilian pizza with ground calabresa sausage, eggs and chili",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690900",
+    "themealdb": null
+  }
+}

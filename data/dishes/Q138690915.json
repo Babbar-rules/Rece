@@ -1,0 +1,20 @@
+{
+  "id": "Q138690915",
+  "name": "chocolate and strawberry pizza",
+  "description": "sweet Brazilian pizza with chocolate cream and sliced strawberries",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-and-strawberry-pizza-q138690915/chocolate-and-strawberry-pizza-q138690915-1.jpg",
+    "images/chocolate-and-strawberry-pizza-q138690915/chocolate-and-strawberry-pizza-q138690915-2.jpg",
+    "images/chocolate-and-strawberry-pizza-q138690915/chocolate-and-strawberry-pizza-q138690915-3.jpg",
+    "images/chocolate-and-strawberry-pizza-q138690915/chocolate-and-strawberry-pizza-q138690915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690915",
+    "themealdb": null
+  }
+}

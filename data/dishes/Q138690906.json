@@ -1,0 +1,15 @@
+{
+  "id": "Q138690906",
+  "name": "canadian loin pizza",
+  "description": "Brazilian pizza topped with smoked pork loin",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690906",
+    "themealdb": null
+  }
+}

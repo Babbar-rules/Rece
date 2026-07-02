@@ -1,0 +1,18 @@
+{
+  "id": "Q138663435",
+  "name": "Pernambuco arrumadinho",
+  "description": "version of arrumadinho typical of Pernambuco with green beans, sun-dried meat and farofa",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pernambuco-arrumadinho-q138663435/pernambuco-arrumadinho-q138663435-1.jpg",
+    "images/pernambuco-arrumadinho-q138663435/pernambuco-arrumadinho-q138663435-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138663435",
+    "themealdb": null
+  }
+}

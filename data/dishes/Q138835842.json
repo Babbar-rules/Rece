@@ -1,0 +1,17 @@
+{
+  "id": "Q138835842",
+  "name": "Kiriyaki",
+  "description": "Japanese marinade",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kiriyaki-q138835842/kiriyaki-q138835842-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138835842",
+    "themealdb": null
+  }
+}

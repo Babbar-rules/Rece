@@ -1,0 +1,17 @@
+{
+  "id": "Q138542203",
+  "name": "toasted sponge cake",
+  "description": "sliced sponge cake toasted in the oven, served as a biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/toasted-sponge-cake-q138542203/toasted-sponge-cake-q138542203-1.jpg",
+    "images/toasted-sponge-cake-q138542203/toasted-sponge-cake-q138542203-2.jpg",
+    "images/toasted-sponge-cake-q138542203/toasted-sponge-cake-q138542203-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542203",
+    "themealdb": null
+  }
+}

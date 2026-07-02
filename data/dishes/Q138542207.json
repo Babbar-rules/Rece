@@ -1,0 +1,18 @@
+{
+  "id": "Q138542207",
+  "name": "bean broth cup",
+  "description": "seasoned black bean broth served in small cups",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bean-broth-cup-q138542207/bean-broth-cup-q138542207-1.jpg",
+    "images/bean-broth-cup-q138542207/bean-broth-cup-q138542207-2.jpg",
+    "images/bean-broth-cup-q138542207/bean-broth-cup-q138542207-3.jpg",
+    "images/bean-broth-cup-q138542207/bean-broth-cup-q138542207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542207",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q13840832",
+  "name": "hard-boiled egg",
+  "description": "boiled egg with solidified white and yolk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hard-boiled-egg-q13840832/hard-boiled-egg-q13840832-1.jpg",
+    "images/hard-boiled-egg-q13840832/hard-boiled-egg-q13840832-2.jpg",
+    "images/hard-boiled-egg-q13840832/hard-boiled-egg-q13840832-3.jpg",
+    "images/hard-boiled-egg-q13840832/hard-boiled-egg-q13840832-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13840832",
+    "themealdb": null
+  }
+}

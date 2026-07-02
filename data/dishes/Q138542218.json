@@ -1,0 +1,18 @@
+{
+  "id": "Q138542218",
+  "name": "sautéed carrots",
+  "description": "carrots in cubes or slices sautéed with garlic and onion",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-carrots-q138542218/sauteed-carrots-q138542218-1.jpg",
+    "images/sauteed-carrots-q138542218/sauteed-carrots-q138542218-2.jpg",
+    "images/sauteed-carrots-q138542218/sauteed-carrots-q138542218-3.jpg",
+    "images/sauteed-carrots-q138542218/sauteed-carrots-q138542218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542218",
+    "themealdb": null
+  }
+}

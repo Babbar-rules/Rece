@@ -1,0 +1,18 @@
+{
+  "id": "Q138542225",
+  "name": "creamy polenta",
+  "description": "soft version of polenta served as a purée with sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creamy-polenta-q138542225/creamy-polenta-q138542225-1.jpg",
+    "images/creamy-polenta-q138542225/creamy-polenta-q138542225-2.jpg",
+    "images/creamy-polenta-q138542225/creamy-polenta-q138542225-3.jpg",
+    "images/creamy-polenta-q138542225/creamy-polenta-q138542225-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542225",
+    "themealdb": null
+  }
+}

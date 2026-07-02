@@ -1,0 +1,18 @@
+{
+  "id": "Q137593679",
+  "name": "chickpea wrap",
+  "description": "wrap made with chickpeas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chickpea-wrap-q137593679/chickpea-wrap-q137593679-1.jpg",
+    "images/chickpea-wrap-q137593679/chickpea-wrap-q137593679-2.jpg",
+    "images/chickpea-wrap-q137593679/chickpea-wrap-q137593679-3.jpg",
+    "images/chickpea-wrap-q137593679/chickpea-wrap-q137593679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137593679",
+    "themealdb": null
+  }
+}

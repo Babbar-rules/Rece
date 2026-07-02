@@ -1,0 +1,23 @@
+{
+  "id": "Q137792091",
+  "name": "Pempek Kapal Selam",
+  "description": "a variation of Pempek with egg inside",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Palembang cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pempek-kapal-selam-q137792091/pempek-kapal-selam-q137792091-1.jpg",
+    "images/pempek-kapal-selam-q137792091/pempek-kapal-selam-q137792091-2.jpg",
+    "images/pempek-kapal-selam-q137792091/pempek-kapal-selam-q137792091-3.jpg",
+    "images/pempek-kapal-selam-q137792091/pempek-kapal-selam-q137792091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137792091",
+    "themealdb": null
+  }
+}

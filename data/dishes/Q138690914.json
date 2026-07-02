@@ -1,0 +1,15 @@
+{
+  "id": "Q138690914",
+  "name": "brigadeiro pizza",
+  "description": "sweet Brazilian pizza topped with brigadeiro cream and chocolate sprinkles",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690914",
+    "themealdb": null
+  }
+}

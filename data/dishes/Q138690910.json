@@ -1,0 +1,20 @@
+{
+  "id": "Q138690910",
+  "name": "portuguese pizza",
+  "description": "Brazilian pizza with ham, eggs, onions and peas from São Paulo",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/portuguese-pizza-q138690910/portuguese-pizza-q138690910-1.jpg",
+    "images/portuguese-pizza-q138690910/portuguese-pizza-q138690910-2.jpg",
+    "images/portuguese-pizza-q138690910/portuguese-pizza-q138690910-3.jpg",
+    "images/portuguese-pizza-q138690910/portuguese-pizza-q138690910-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690910",
+    "themealdb": null
+  }
+}

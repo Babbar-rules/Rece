@@ -1,0 +1,18 @@
+{
+  "id": "Q138542172",
+  "name": "pé de moça",
+  "description": "creamy peanut and condensed milk candy cut into tablets",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pe-de-moca-q138542172/pe-de-moca-q138542172-1.jpg",
+    "images/pe-de-moca-q138542172/pe-de-moca-q138542172-2.jpg",
+    "images/pe-de-moca-q138542172/pe-de-moca-q138542172-3.jpg",
+    "images/pe-de-moca-q138542172/pe-de-moca-q138542172-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542172",
+    "themealdb": null
+  }
+}

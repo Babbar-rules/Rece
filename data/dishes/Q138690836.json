@@ -1,0 +1,22 @@
+{
+  "id": "Q138690836",
+  "name": "Explorador",
+  "description": "variant of the empanadilla originating from Cartagena, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "cuisine of Cartagena, Spain"
+  ],
+  "images": [
+    "images/explorador-q138690836/explorador-q138690836-1.jpg",
+    "images/explorador-q138690836/explorador-q138690836-2.jpg",
+    "images/explorador-q138690836/explorador-q138690836-3.jpg",
+    "images/explorador-q138690836/explorador-q138690836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690836",
+    "themealdb": null
+  }
+}

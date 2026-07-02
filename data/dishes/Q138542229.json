@@ -1,0 +1,18 @@
+{
+  "id": "Q138542229",
+  "name": "sautéed green beans",
+  "description": "chopped and sautéed green beans with garlic and onion",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-green-beans-q138542229/sauteed-green-beans-q138542229-1.jpg",
+    "images/sauteed-green-beans-q138542229/sauteed-green-beans-q138542229-2.jpg",
+    "images/sauteed-green-beans-q138542229/sauteed-green-beans-q138542229-3.jpg",
+    "images/sauteed-green-beans-q138542229/sauteed-green-beans-q138542229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542229",
+    "themealdb": null
+  }
+}

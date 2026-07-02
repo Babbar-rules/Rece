@@ -1,0 +1,18 @@
+{
+  "id": "Q138542222",
+  "name": "vegetable mayonnaise",
+  "description": "cold salad of boiled potatoes and vegetables mixed with mayonnaise",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegetable-mayonnaise-q138542222/vegetable-mayonnaise-q138542222-1.jpg",
+    "images/vegetable-mayonnaise-q138542222/vegetable-mayonnaise-q138542222-2.jpg",
+    "images/vegetable-mayonnaise-q138542222/vegetable-mayonnaise-q138542222-3.jpg",
+    "images/vegetable-mayonnaise-q138542222/vegetable-mayonnaise-q138542222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542222",
+    "themealdb": null
+  }
+}

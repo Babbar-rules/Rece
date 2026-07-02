@@ -1,0 +1,18 @@
+{
+  "id": "Q138690905",
+  "name": "chicken and catupiry pizza",
+  "description": "Brazilian pizza with shredded chicken and creamy catupiry cheese",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-and-catupiry-pizza-q138690905/chicken-and-catupiry-pizza-q138690905-1.jpg",
+    "images/chicken-and-catupiry-pizza-q138690905/chicken-and-catupiry-pizza-q138690905-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690905",
+    "themealdb": null
+  }
+}

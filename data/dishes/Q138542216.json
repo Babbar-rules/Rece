@@ -1,0 +1,18 @@
+{
+  "id": "Q138542216",
+  "name": "sautéed eggplant",
+  "description": "eggplant in cubes or strips sautéed with tomato and bell pepper",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-eggplant-q138542216/sauteed-eggplant-q138542216-1.jpg",
+    "images/sauteed-eggplant-q138542216/sauteed-eggplant-q138542216-2.jpg",
+    "images/sauteed-eggplant-q138542216/sauteed-eggplant-q138542216-3.jpg",
+    "images/sauteed-eggplant-q138542216/sauteed-eggplant-q138542216-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542216",
+    "themealdb": null
+  }
+}

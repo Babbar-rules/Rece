@@ -1,0 +1,18 @@
+{
+  "id": "Q138714",
+  "name": "fritto misto",
+  "description": "Italian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fritto-misto-q138714/fritto-misto-q138714-1.jpg",
+    "images/fritto-misto-q138714/fritto-misto-q138714-2.jpg",
+    "images/fritto-misto-q138714/fritto-misto-q138714-3.jpg",
+    "images/fritto-misto-q138714/fritto-misto-q138714-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138714",
+    "themealdb": null
+  }
+}

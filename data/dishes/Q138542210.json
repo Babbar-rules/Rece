@@ -1,0 +1,18 @@
+{
+  "id": "Q138542210",
+  "name": "stuffed potato bread",
+  "description": "soft potato dough bread usually filled with catupiry cheese",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-potato-bread-q138542210/stuffed-potato-bread-q138542210-1.jpg",
+    "images/stuffed-potato-bread-q138542210/stuffed-potato-bread-q138542210-2.jpg",
+    "images/stuffed-potato-bread-q138542210/stuffed-potato-bread-q138542210-3.jpg",
+    "images/stuffed-potato-bread-q138542210/stuffed-potato-bread-q138542210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542210",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q138528332",
+  "name": "fried ramyeon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-ramyeon-q138528332/fried-ramyeon-q138528332-1.jpg",
+    "images/fried-ramyeon-q138528332/fried-ramyeon-q138528332-2.jpg",
+    "images/fried-ramyeon-q138528332/fried-ramyeon-q138528332-3.jpg",
+    "images/fried-ramyeon-q138528332/fried-ramyeon-q138528332-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138528332",
+    "themealdb": null
+  }
+}

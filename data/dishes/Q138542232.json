@@ -1,0 +1,18 @@
+{
+  "id": "Q138542232",
+  "name": "Tuscan sausage",
+  "description": "fresh and cured pork sausage served at barbecues",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tuscan-sausage-q138542232/tuscan-sausage-q138542232-1.jpg",
+    "images/tuscan-sausage-q138542232/tuscan-sausage-q138542232-2.jpg",
+    "images/tuscan-sausage-q138542232/tuscan-sausage-q138542232-3.jpg",
+    "images/tuscan-sausage-q138542232/tuscan-sausage-q138542232-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542232",
+    "themealdb": null
+  }
+}

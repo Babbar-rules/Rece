@@ -1,0 +1,18 @@
+{
+  "id": "Q137969108",
+  "name": "Japanese Egg Omelet",
+  "description": "Menu in Sushiro",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/japanese-egg-omelet-q137969108/japanese-egg-omelet-q137969108-1.jpg",
+    "images/japanese-egg-omelet-q137969108/japanese-egg-omelet-q137969108-2.jpg",
+    "images/japanese-egg-omelet-q137969108/japanese-egg-omelet-q137969108-3.jpg",
+    "images/japanese-egg-omelet-q137969108/japanese-egg-omelet-q137969108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137969108",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q138542234",
+  "name": "rice with squid",
+  "description": "rice cooked with squid rings, usually in a tomato sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-with-squid-q138542234/rice-with-squid-q138542234-1.jpg",
+    "images/rice-with-squid-q138542234/rice-with-squid-q138542234-2.jpg",
+    "images/rice-with-squid-q138542234/rice-with-squid-q138542234-3.jpg",
+    "images/rice-with-squid-q138542234/rice-with-squid-q138542234-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542234",
+    "themealdb": null
+  }
+}

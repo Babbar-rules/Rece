@@ -1,0 +1,20 @@
+{
+  "id": "Q138690943",
+  "name": "stuffed duck",
+  "description": "roasted duck stuffed with giblets typical of Santa Catarina",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-duck-q138690943/stuffed-duck-q138690943-1.jpg",
+    "images/stuffed-duck-q138690943/stuffed-duck-q138690943-2.jpg",
+    "images/stuffed-duck-q138690943/stuffed-duck-q138690943-3.jpg",
+    "images/stuffed-duck-q138690943/stuffed-duck-q138690943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690943",
+    "themealdb": null
+  }
+}

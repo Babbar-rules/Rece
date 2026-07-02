@@ -1,0 +1,18 @@
+{
+  "id": "Q138542230",
+  "name": "sirloin steak",
+  "description": "an Argentine cut of steak from the rear of the sirloin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sirloin-steak-q138542230/sirloin-steak-q138542230-1.jpg",
+    "images/sirloin-steak-q138542230/sirloin-steak-q138542230-2.jpg",
+    "images/sirloin-steak-q138542230/sirloin-steak-q138542230-3.jpg",
+    "images/sirloin-steak-q138542230/sirloin-steak-q138542230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542230",
+    "themealdb": null
+  }
+}

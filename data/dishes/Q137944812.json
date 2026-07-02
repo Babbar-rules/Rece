@@ -1,0 +1,17 @@
+{
+  "id": "Q137944812",
+  "name": "Lanxi Beef Noodle",
+  "description": "noodle dish from Hangzhou, China",
+  "nationality": [
+    "Lanxi"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lanxi-beef-noodle-q137944812/lanxi-beef-noodle-q137944812-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137944812",
+    "themealdb": null
+  }
+}

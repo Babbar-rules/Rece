@@ -1,0 +1,18 @@
+{
+  "id": "Q138213",
+  "name": "freedom fries",
+  "description": "politically motivated renaming of French fries in the United States",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/freedom-fries-q138213/freedom-fries-q138213-1.jpg",
+    "images/freedom-fries-q138213/freedom-fries-q138213-2.jpg",
+    "images/freedom-fries-q138213/freedom-fries-q138213-3.jpg",
+    "images/freedom-fries-q138213/freedom-fries-q138213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138213",
+    "themealdb": null
+  }
+}

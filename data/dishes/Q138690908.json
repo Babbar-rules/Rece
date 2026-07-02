@@ -1,0 +1,15 @@
+{
+  "id": "Q138690908",
+  "name": "corn and catupiry pizza",
+  "description": "Brazilian pizza with corn and creamy catupiry cheese",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690908",
+    "themealdb": null
+  }
+}

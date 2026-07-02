@@ -1,0 +1,18 @@
+{
+  "id": "Q1380492",
+  "name": "Gefillde",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gefillde-q1380492/gefillde-q1380492-1.jpg",
+    "images/gefillde-q1380492/gefillde-q1380492-2.jpg",
+    "images/gefillde-q1380492/gefillde-q1380492-3.jpg",
+    "images/gefillde-q1380492/gefillde-q1380492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1380492",
+    "themealdb": null
+  }
+}

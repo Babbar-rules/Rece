@@ -1,0 +1,20 @@
+{
+  "id": "Q138690933",
+  "name": "panelada",
+  "description": "traditional Northeastern Brazilian stew made with cow's stomach and intestines",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panelada-q138690933/panelada-q138690933-1.jpg",
+    "images/panelada-q138690933/panelada-q138690933-2.jpg",
+    "images/panelada-q138690933/panelada-q138690933-3.jpg",
+    "images/panelada-q138690933/panelada-q138690933-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690933",
+    "themealdb": null
+  }
+}

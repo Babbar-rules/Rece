@@ -1,0 +1,20 @@
+{
+  "id": "Q1377879",
+  "name": "edamame",
+  "description": "preparation of soybeans eaten in East Asian cuisines",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/edamame-q1377879/edamame-q1377879-1.jpg",
+    "images/edamame-q1377879/edamame-q1377879-2.jpg",
+    "images/edamame-q1377879/edamame-q1377879-3.jpg",
+    "images/edamame-q1377879/edamame-q1377879-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1377879",
+    "themealdb": null
+  }
+}

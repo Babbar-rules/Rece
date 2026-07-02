@@ -1,0 +1,18 @@
+{
+  "id": "Q137946445",
+  "name": "Triple Salmon",
+  "description": "Menu in Akindo Sushiro",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/triple-salmon-q137946445/triple-salmon-q137946445-1.jpg",
+    "images/triple-salmon-q137946445/triple-salmon-q137946445-2.jpg",
+    "images/triple-salmon-q137946445/triple-salmon-q137946445-3.jpg",
+    "images/triple-salmon-q137946445/triple-salmon-q137946445-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137946445",
+    "themealdb": null
+  }
+}

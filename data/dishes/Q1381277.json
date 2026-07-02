@@ -1,0 +1,20 @@
+{
+  "id": "Q1381277",
+  "name": "chocolate mousse",
+  "description": "dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-mousse-q1381277/chocolate-mousse-q1381277-1.jpg",
+    "images/chocolate-mousse-q1381277/chocolate-mousse-q1381277-2.jpg",
+    "images/chocolate-mousse-q1381277/chocolate-mousse-q1381277-3.jpg",
+    "images/chocolate-mousse-q1381277/chocolate-mousse-q1381277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1381277",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q138690917",
+  "name": "romeo and juliet pizza",
+  "description": "sweet Brazilian pizza with cheese and guava paste",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690917",
+    "themealdb": null
+  }
+}

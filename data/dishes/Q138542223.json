@@ -1,0 +1,18 @@
+{
+  "id": "Q138542223",
+  "name": "hot sauce",
+  "description": "condiment made from chili peppers preserved in oil or vinegar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-sauce-q138542223/hot-sauce-q138542223-1.jpg",
+    "images/hot-sauce-q138542223/hot-sauce-q138542223-2.jpg",
+    "images/hot-sauce-q138542223/hot-sauce-q138542223-3.jpg",
+    "images/hot-sauce-q138542223/hot-sauce-q138542223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542223",
+    "themealdb": null
+  }
+}

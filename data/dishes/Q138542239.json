@@ -1,0 +1,18 @@
+{
+  "id": "Q138542239",
+  "name": "fish with shrimp sauce",
+  "description": "grilled white fish fillet topped with a creamy shrimp sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-with-shrimp-sauce-q138542239/fish-with-shrimp-sauce-q138542239-1.jpg",
+    "images/fish-with-shrimp-sauce-q138542239/fish-with-shrimp-sauce-q138542239-2.jpg",
+    "images/fish-with-shrimp-sauce-q138542239/fish-with-shrimp-sauce-q138542239-3.jpg",
+    "images/fish-with-shrimp-sauce-q138542239/fish-with-shrimp-sauce-q138542239-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542239",
+    "themealdb": null
+  }
+}

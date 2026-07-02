@@ -1,0 +1,18 @@
+{
+  "id": "Q138542220",
+  "name": "breaded cauliflower",
+  "description": "breaded and fried cauliflower florets",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/breaded-cauliflower-q138542220/breaded-cauliflower-q138542220-1.jpg",
+    "images/breaded-cauliflower-q138542220/breaded-cauliflower-q138542220-2.jpg",
+    "images/breaded-cauliflower-q138542220/breaded-cauliflower-q138542220-3.jpg",
+    "images/breaded-cauliflower-q138542220/breaded-cauliflower-q138542220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542220",
+    "themealdb": null
+  }
+}

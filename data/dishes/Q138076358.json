@@ -1,0 +1,18 @@
+{
+  "id": "Q138076358",
+  "name": "yaki-onigiri",
+  "description": "onigiri prepared by grilling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yaki-onigiri-q138076358/yaki-onigiri-q138076358-1.jpg",
+    "images/yaki-onigiri-q138076358/yaki-onigiri-q138076358-2.jpg",
+    "images/yaki-onigiri-q138076358/yaki-onigiri-q138076358-3.jpg",
+    "images/yaki-onigiri-q138076358/yaki-onigiri-q138076358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138076358",
+    "themealdb": null
+  }
+}

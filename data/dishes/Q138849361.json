@@ -1,0 +1,18 @@
+{
+  "id": "Q138849361",
+  "name": "Poka-kara",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poka-kara-q138849361/poka-kara-q138849361-1.jpg",
+    "images/poka-kara-q138849361/poka-kara-q138849361-2.jpg",
+    "images/poka-kara-q138849361/poka-kara-q138849361-3.jpg",
+    "images/poka-kara-q138849361/poka-kara-q138849361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138849361",
+    "themealdb": null
+  }
+}

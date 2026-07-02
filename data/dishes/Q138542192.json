@@ -1,0 +1,18 @@
+{
+  "id": "Q138542192",
+  "name": "cassava and coconut cake",
+  "description": "dense cake of grated cassava and coconut of quilombola origin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cassava-and-coconut-cake-q138542192/cassava-and-coconut-cake-q138542192-1.jpg",
+    "images/cassava-and-coconut-cake-q138542192/cassava-and-coconut-cake-q138542192-2.jpg",
+    "images/cassava-and-coconut-cake-q138542192/cassava-and-coconut-cake-q138542192-3.jpg",
+    "images/cassava-and-coconut-cake-q138542192/cassava-and-coconut-cake-q138542192-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542192",
+    "themealdb": null
+  }
+}

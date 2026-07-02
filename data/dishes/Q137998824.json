@@ -1,0 +1,20 @@
+{
+  "id": "Q137998824",
+  "name": "Laup",
+  "description": "Norwegian bakery product",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laup-q137998824/laup-q137998824-1.jpg",
+    "images/laup-q137998824/laup-q137998824-2.jpg",
+    "images/laup-q137998824/laup-q137998824-3.png",
+    "images/laup-q137998824/laup-q137998824-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137998824",
+    "themealdb": null
+  }
+}

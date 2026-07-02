@@ -1,0 +1,18 @@
+{
+  "id": "Q137778889",
+  "name": "bread loaf",
+  "description": "western style style of bread prepared in oblong shape",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-loaf-q137778889/bread-loaf-q137778889-1.jpg",
+    "images/bread-loaf-q137778889/bread-loaf-q137778889-2.jpg",
+    "images/bread-loaf-q137778889/bread-loaf-q137778889-3.jpg",
+    "images/bread-loaf-q137778889/bread-loaf-q137778889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137778889",
+    "themealdb": null
+  }
+}

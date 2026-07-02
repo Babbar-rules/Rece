@@ -1,0 +1,18 @@
+{
+  "id": "Q138541977",
+  "name": "Santa Clara pastry",
+  "description": "thin pastry sweet filled with an egg and almond cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/santa-clara-pastry-q138541977/santa-clara-pastry-q138541977-1.jpg",
+    "images/santa-clara-pastry-q138541977/santa-clara-pastry-q138541977-2.jpg",
+    "images/santa-clara-pastry-q138541977/santa-clara-pastry-q138541977-3.jpg",
+    "images/santa-clara-pastry-q138541977/santa-clara-pastry-q138541977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138541977",
+    "themealdb": null
+  }
+}

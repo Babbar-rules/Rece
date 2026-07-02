@@ -1,0 +1,22 @@
+{
+  "id": "Q1373466",
+  "name": "chiffon cake",
+  "description": "type of cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/chiffon-cake-q1373466/chiffon-cake-q1373466-1.jpg",
+    "images/chiffon-cake-q1373466/chiffon-cake-q1373466-2.jpg",
+    "images/chiffon-cake-q1373466/chiffon-cake-q1373466-3.jpg",
+    "images/chiffon-cake-q1373466/chiffon-cake-q1373466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1373466",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q137946312",
+  "name": "Salmon Roe",
+  "description": "Menu in Akindo Sushiro",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salmon-roe-q137946312/salmon-roe-q137946312-1.jpg",
+    "images/salmon-roe-q137946312/salmon-roe-q137946312-2.jpeg",
+    "images/salmon-roe-q137946312/salmon-roe-q137946312-3.jpg",
+    "images/salmon-roe-q137946312/salmon-roe-q137946312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137946312",
+    "themealdb": null
+  }
+}

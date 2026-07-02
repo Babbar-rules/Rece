@@ -1,0 +1,20 @@
+{
+  "id": "Q138690903",
+  "name": "dried meat pizza",
+  "description": "Brazilian pizza with shredded dried meat and onions",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dried-meat-pizza-q138690903/dried-meat-pizza-q138690903-1.jpg",
+    "images/dried-meat-pizza-q138690903/dried-meat-pizza-q138690903-2.jpg",
+    "images/dried-meat-pizza-q138690903/dried-meat-pizza-q138690903-3.jpg",
+    "images/dried-meat-pizza-q138690903/dried-meat-pizza-q138690903-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690903",
+    "themealdb": null
+  }
+}

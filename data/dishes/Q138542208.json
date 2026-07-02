@@ -1,0 +1,18 @@
+{
+  "id": "Q138542208",
+  "name": "Brazilian churros",
+  "description": "cylindrical fried dough filled with dulce de leche",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/brazilian-churros-q138542208/brazilian-churros-q138542208-1.jpg",
+    "images/brazilian-churros-q138542208/brazilian-churros-q138542208-2.jpg",
+    "images/brazilian-churros-q138542208/brazilian-churros-q138542208-3.jpg",
+    "images/brazilian-churros-q138542208/brazilian-churros-q138542208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542208",
+    "themealdb": null
+  }
+}

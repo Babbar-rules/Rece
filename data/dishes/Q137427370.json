@@ -1,0 +1,18 @@
+{
+  "id": "Q137427370",
+  "name": "Varieties of biryani",
+  "description": "rice-based dishes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/varieties-of-biryani-q137427370/varieties-of-biryani-q137427370-1.jpg",
+    "images/varieties-of-biryani-q137427370/varieties-of-biryani-q137427370-2.jpg",
+    "images/varieties-of-biryani-q137427370/varieties-of-biryani-q137427370-3.jpg",
+    "images/varieties-of-biryani-q137427370/varieties-of-biryani-q137427370-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137427370",
+    "themealdb": null
+  }
+}

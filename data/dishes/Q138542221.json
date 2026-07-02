@@ -1,0 +1,18 @@
+{
+  "id": "Q138542221",
+  "name": "seasoned black-eyed peas",
+  "description": "cooked black-eyed peas seasoned with herbs and onion",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seasoned-black-eyed-peas-q138542221/seasoned-black-eyed-peas-q138542221-1.jpg",
+    "images/seasoned-black-eyed-peas-q138542221/seasoned-black-eyed-peas-q138542221-2.jpg",
+    "images/seasoned-black-eyed-peas-q138542221/seasoned-black-eyed-peas-q138542221-3.jpg",
+    "images/seasoned-black-eyed-peas-q138542221/seasoned-black-eyed-peas-q138542221-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542221",
+    "themealdb": null
+  }
+}

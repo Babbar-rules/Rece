@@ -1,0 +1,18 @@
+{
+  "id": "Q137267399",
+  "name": "School cake",
+  "description": "British traybake dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/school-cake-q137267399/school-cake-q137267399-1.jpg",
+    "images/school-cake-q137267399/school-cake-q137267399-2.jpg",
+    "images/school-cake-q137267399/school-cake-q137267399-3.jpg",
+    "images/school-cake-q137267399/school-cake-q137267399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137267399",
+    "themealdb": null
+  }
+}

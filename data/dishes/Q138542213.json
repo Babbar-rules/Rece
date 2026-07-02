@@ -1,0 +1,18 @@
+{
+  "id": "Q138542213",
+  "name": "grilled pineapple",
+  "description": "pineapple slices sprinkled with cinnamon and grilled on a barbecue",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-pineapple-q138542213/grilled-pineapple-q138542213-1.jpeg",
+    "images/grilled-pineapple-q138542213/grilled-pineapple-q138542213-2.jpg",
+    "images/grilled-pineapple-q138542213/grilled-pineapple-q138542213-3.jpg",
+    "images/grilled-pineapple-q138542213/grilled-pineapple-q138542213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542213",
+    "themealdb": null
+  }
+}

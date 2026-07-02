@@ -1,0 +1,18 @@
+{
+  "id": "Q138849335",
+  "name": "zucchini muffin",
+  "description": "type of baked product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zucchini-muffin-q138849335/zucchini-muffin-q138849335-1.jpg",
+    "images/zucchini-muffin-q138849335/zucchini-muffin-q138849335-2.jpg",
+    "images/zucchini-muffin-q138849335/zucchini-muffin-q138849335-3.jpg",
+    "images/zucchini-muffin-q138849335/zucchini-muffin-q138849335-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138849335",
+    "themealdb": null
+  }
+}

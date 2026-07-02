@@ -1,0 +1,18 @@
+{
+  "id": "Q138690902",
+  "name": "calabresa sausage pizza",
+  "description": "Brazilian pizza topped with calabresa sausage and onions",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calabresa-sausage-pizza-q138690902/calabresa-sausage-pizza-q138690902-1.jpg",
+    "images/calabresa-sausage-pizza-q138690902/calabresa-sausage-pizza-q138690902-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690902",
+    "themealdb": null
+  }
+}

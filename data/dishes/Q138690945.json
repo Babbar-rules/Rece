@@ -1,0 +1,19 @@
+{
+  "id": "Q138690945",
+  "name": "pirarucu de casaca",
+  "description": "Amazonian dish of dried pirarucu layered with plantains and cassava flour",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pirarucu-de-casaca-q138690945/pirarucu-de-casaca-q138690945-1.jpg",
+    "images/pirarucu-de-casaca-q138690945/pirarucu-de-casaca-q138690945-2.jpg",
+    "images/pirarucu-de-casaca-q138690945/pirarucu-de-casaca-q138690945-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690945",
+    "themealdb": null
+  }
+}

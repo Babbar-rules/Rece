@@ -1,0 +1,15 @@
+{
+  "id": "Q138690911",
+  "name": "strogonoff pizza",
+  "description": "Brazilian pizza topped with beef or chicken stroganoff and potato sticks",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690911",
+    "themealdb": null
+  }
+}

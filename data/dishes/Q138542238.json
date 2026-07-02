@@ -1,0 +1,18 @@
+{
+  "id": "Q138542238",
+  "name": "steamed oysters",
+  "description": "fresh oysters cooked only by steaming, served with lemon",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-oysters-q138542238/steamed-oysters-q138542238-1.jpg",
+    "images/steamed-oysters-q138542238/steamed-oysters-q138542238-2.jpg",
+    "images/steamed-oysters-q138542238/steamed-oysters-q138542238-3.jpg",
+    "images/steamed-oysters-q138542238/steamed-oysters-q138542238-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542238",
+    "themealdb": null
+  }
+}

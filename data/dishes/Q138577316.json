@@ -1,0 +1,20 @@
+{
+  "id": "Q138577316",
+  "name": "chicken with okra",
+  "description": "Brazilian dish of stewed chicken with okra typical of Minas Gerais",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-with-okra-q138577316/chicken-with-okra-q138577316-1.jpg",
+    "images/chicken-with-okra-q138577316/chicken-with-okra-q138577316-2.jpg",
+    "images/chicken-with-okra-q138577316/chicken-with-okra-q138577316-3.jpg",
+    "images/chicken-with-okra-q138577316/chicken-with-okra-q138577316-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138577316",
+    "themealdb": null
+  }
+}

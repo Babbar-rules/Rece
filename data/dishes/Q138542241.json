@@ -1,0 +1,18 @@
+{
+  "id": "Q138542241",
+  "name": "canjicão",
+  "description": "creamy white corn sweet with ground peanuts and coconut milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/canjicao-q138542241/canjicao-q138542241-1.jpg",
+    "images/canjicao-q138542241/canjicao-q138542241-2.jpg",
+    "images/canjicao-q138542241/canjicao-q138542241-3.jpg",
+    "images/canjicao-q138542241/canjicao-q138542241-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542241",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q137734212",
+  "name": "cabbage pie",
+  "description": "type of pie filled with cabbage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabbage-pie-q137734212/cabbage-pie-q137734212-1.jpg",
+    "images/cabbage-pie-q137734212/cabbage-pie-q137734212-2.jpg",
+    "images/cabbage-pie-q137734212/cabbage-pie-q137734212-3.jpg",
+    "images/cabbage-pie-q137734212/cabbage-pie-q137734212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137734212",
+    "themealdb": null
+  }
+}

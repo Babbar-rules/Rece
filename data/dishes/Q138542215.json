@@ -1,0 +1,18 @@
+{
+  "id": "Q138542215",
+  "name": "potato vinaigrette",
+  "description": "boiled potatoes in cubes and seasoned with a vinaigrette dressing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-vinaigrette-q138542215/potato-vinaigrette-q138542215-1.jpg",
+    "images/potato-vinaigrette-q138542215/potato-vinaigrette-q138542215-2.jpg",
+    "images/potato-vinaigrette-q138542215/potato-vinaigrette-q138542215-3.jpg",
+    "images/potato-vinaigrette-q138542215/potato-vinaigrette-q138542215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542215",
+    "themealdb": null
+  }
+}

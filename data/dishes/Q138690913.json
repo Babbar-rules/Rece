@@ -1,0 +1,17 @@
+{
+  "id": "Q138690913",
+  "name": "banana and cinnamon pizza",
+  "description": "sweet Brazilian pizza with banana, cinnamon and condensed milk",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-and-cinnamon-pizza-q138690913/banana-and-cinnamon-pizza-q138690913-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690913",
+    "themealdb": null
+  }
+}

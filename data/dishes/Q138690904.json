@@ -1,0 +1,15 @@
+{
+  "id": "Q138690904",
+  "name": "shrimp and catupiry pizza",
+  "description": "Brazilian pizza with shrimp and creamy catupiry cheese",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690904",
+    "themealdb": null
+  }
+}

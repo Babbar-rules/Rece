@@ -1,0 +1,23 @@
+{
+  "id": "Q138553",
+  "name": "carbonade flamande",
+  "description": "traditional sweet-sour beef and onion stew made with beer",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "Flemish cuisine",
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/carbonade-flamande-q138553/carbonade-flamande-q138553-1.jpg",
+    "images/carbonade-flamande-q138553/carbonade-flamande-q138553-2.jpg",
+    "images/carbonade-flamande-q138553/carbonade-flamande-q138553-3.jpg",
+    "images/carbonade-flamande-q138553/carbonade-flamande-q138553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138553",
+    "themealdb": null
+  }
+}

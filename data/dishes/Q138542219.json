@@ -1,0 +1,18 @@
+{
+  "id": "Q138542219",
+  "name": "sautéed chayote",
+  "description": "chayote in cubes sautéed with garlic, onion, and herbs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-chayote-q138542219/sauteed-chayote-q138542219-1.jpg",
+    "images/sauteed-chayote-q138542219/sauteed-chayote-q138542219-2.jpg",
+    "images/sauteed-chayote-q138542219/sauteed-chayote-q138542219-3.jpg",
+    "images/sauteed-chayote-q138542219/sauteed-chayote-q138542219-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542219",
+    "themealdb": null
+  }
+}

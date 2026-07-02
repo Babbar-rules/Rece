@@ -1,0 +1,18 @@
+{
+  "id": "Q138542087",
+  "name": "strawberry meringue",
+  "description": "layered dessert of meringue, cream, and fresh strawberries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-meringue-q138542087/strawberry-meringue-q138542087-1.jpg",
+    "images/strawberry-meringue-q138542087/strawberry-meringue-q138542087-2.jpg",
+    "images/strawberry-meringue-q138542087/strawberry-meringue-q138542087-3.jpg",
+    "images/strawberry-meringue-q138542087/strawberry-meringue-q138542087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542087",
+    "themealdb": null
+  }
+}

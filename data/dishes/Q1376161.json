@@ -1,0 +1,18 @@
+{
+  "id": "Q1376161",
+  "name": "Topfenstrudel",
+  "description": "Austrian pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/topfenstrudel-q1376161/topfenstrudel-q1376161-1.jpg",
+    "images/topfenstrudel-q1376161/topfenstrudel-q1376161-2.jpg",
+    "images/topfenstrudel-q1376161/topfenstrudel-q1376161-3.jpg",
+    "images/topfenstrudel-q1376161/topfenstrudel-q1376161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1376161",
+    "themealdb": null
+  }
+}

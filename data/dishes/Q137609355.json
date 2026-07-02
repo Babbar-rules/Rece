@@ -1,0 +1,22 @@
+{
+  "id": "Q137609355",
+  "name": "Pineapple shrimp balls",
+  "description": "Taiwanese dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/pineapple-shrimp-balls-q137609355/pineapple-shrimp-balls-q137609355-1.jpg",
+    "images/pineapple-shrimp-balls-q137609355/pineapple-shrimp-balls-q137609355-2.jpg",
+    "images/pineapple-shrimp-balls-q137609355/pineapple-shrimp-balls-q137609355-3.jpg",
+    "images/pineapple-shrimp-balls-q137609355/pineapple-shrimp-balls-q137609355-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137609355",
+    "themealdb": null
+  }
+}

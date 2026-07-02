@@ -1,0 +1,18 @@
+{
+  "id": "Q138542237",
+  "name": "seafood vinaigrette",
+  "description": "cooked and chilled seafood served in a vinaigrette sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seafood-vinaigrette-q138542237/seafood-vinaigrette-q138542237-1.jpg",
+    "images/seafood-vinaigrette-q138542237/seafood-vinaigrette-q138542237-2.jpg",
+    "images/seafood-vinaigrette-q138542237/seafood-vinaigrette-q138542237-3.jpg",
+    "images/seafood-vinaigrette-q138542237/seafood-vinaigrette-q138542237-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542237",
+    "themealdb": null
+  }
+}

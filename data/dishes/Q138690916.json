@@ -1,0 +1,17 @@
+{
+  "id": "Q138690916",
+  "name": "prestigio pizza",
+  "description": "sweet Brazilian pizza with chocolate and coconut inspired by the candy",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prestigio-pizza-q138690916/prestigio-pizza-q138690916-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690916",
+    "themealdb": null
+  }
+}

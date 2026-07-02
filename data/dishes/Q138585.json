@@ -1,0 +1,20 @@
+{
+  "id": "Q138585",
+  "name": "Oreo",
+  "description": "sandwich cookie made by Mondelez",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oreo-q138585/oreo-q138585-1.jpg",
+    "images/oreo-q138585/oreo-q138585-2.jpg",
+    "images/oreo-q138585/oreo-q138585-3.jpg",
+    "images/oreo-q138585/oreo-q138585-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138585",
+    "themealdb": null
+  }
+}

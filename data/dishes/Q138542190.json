@@ -1,0 +1,17 @@
+{
+  "id": "Q138542190",
+  "name": "cheese and plum sweet",
+  "description": "traditional sweet combining cheese and plum in syrup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-and-plum-sweet-q138542190/cheese-and-plum-sweet-q138542190-1.jpg",
+    "images/cheese-and-plum-sweet-q138542190/cheese-and-plum-sweet-q138542190-2.jpg",
+    "images/cheese-and-plum-sweet-q138542190/cheese-and-plum-sweet-q138542190-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542190",
+    "themealdb": null
+  }
+}

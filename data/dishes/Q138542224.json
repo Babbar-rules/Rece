@@ -1,0 +1,18 @@
+{
+  "id": "Q138542224",
+  "name": "grilled bell pepper",
+  "description": "whole bell pepper grilled over charcoal until the skin wrinkles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-bell-pepper-q138542224/grilled-bell-pepper-q138542224-1.png",
+    "images/grilled-bell-pepper-q138542224/grilled-bell-pepper-q138542224-2.jpg",
+    "images/grilled-bell-pepper-q138542224/grilled-bell-pepper-q138542224-3.jpg",
+    "images/grilled-bell-pepper-q138542224/grilled-bell-pepper-q138542224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542224",
+    "themealdb": null
+  }
+}

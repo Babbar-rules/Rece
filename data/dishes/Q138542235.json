@@ -1,0 +1,64 @@
+{
+  "id": "Q138542235",
+  "name": "seafood rice",
+  "description": "rice cooked with a mixture of seafood such as shrimp and squid",
+  "nationality": [
+    "Spanish"
+  ],
+  "region_cuisine": [
+    "Seafood"
+  ],
+  "images": [
+    "images/seafood-rice-q138542235/seafood-rice-q138542235-1.jpg",
+    "images/seafood-rice-q138542235/seafood-rice-q138542235-2.jpg",
+    "images/seafood-rice-q138542235/seafood-rice-q138542235-3.jpg",
+    "images/seafood-rice-q138542235/seafood-rice-q138542235-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53167",
+    "category": "Seafood",
+    "area": "Spanish",
+    "instructions": "step 1\r\nHeat the oil in a deep frying pan, then soften the leek for 5 mins without browning. Add the chorizo and fry until it releases its oils. Stir in the turmeric and rice until coated by the oils, then pour in the stock. Bring to the boil, then simmer for 15 mins, stirring occasionally.\r\n\r\nstep 2\r\nTip in the peas and cook for 5 mins, then stir in the seafood to heat through for a final 1-2 mins cooking or until rice is cooked. Check for seasoning and serve immediately with lemon wedges.",
+    "ingredients": [
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Leek",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Chorizo",
+        "measure": "110g"
+      },
+      {
+        "ingredient": "Turmeric",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Rice",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Fish Stock",
+        "measure": "1 L"
+      },
+      {
+        "ingredient": "Peas",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Frozen Seafood mix",
+        "measure": "400g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=Dr8Nsod20yg",
+    "thumb": "https://www.themealdb.com/images/media/meals/5r5rvx1763287943.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542235",
+    "themealdb": "53167"
+  }
+}

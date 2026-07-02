@@ -1,0 +1,17 @@
+{
+  "id": "Q138844724",
+  "name": "montasù",
+  "description": "type of bread, typical of Province of Padua, Veneto, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/montasu-q138844724/montasu-q138844724-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138844724",
+    "themealdb": null
+  }
+}

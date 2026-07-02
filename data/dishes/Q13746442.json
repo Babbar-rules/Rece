@@ -1,0 +1,18 @@
+{
+  "id": "Q13746442",
+  "name": "kwarktaart",
+  "description": "cheesecake with a large layer of (often sweet) cottage cheese",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kwarktaart-q13746442/kwarktaart-q13746442-1.jpg",
+    "images/kwarktaart-q13746442/kwarktaart-q13746442-2.jpg",
+    "images/kwarktaart-q13746442/kwarktaart-q13746442-3.jpg",
+    "images/kwarktaart-q13746442/kwarktaart-q13746442-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13746442",
+    "themealdb": null
+  }
+}

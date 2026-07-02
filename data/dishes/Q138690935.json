@@ -1,0 +1,18 @@
+{
+  "id": "Q138690935",
+  "name": "vegan bobó",
+  "description": "plant-based version of the Brazilian bobó dish replacing shrimp with vegetables",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vegan-bobo-q138690935/vegan-bobo-q138690935-1.jpg",
+    "images/vegan-bobo-q138690935/vegan-bobo-q138690935-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690935",
+    "themealdb": null
+  }
+}

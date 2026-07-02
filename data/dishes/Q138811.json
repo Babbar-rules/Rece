@@ -1,0 +1,18 @@
+{
+  "id": "Q138811",
+  "name": "licorice candy",
+  "description": "flavored with the extract of the roots of the licorice plant",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/licorice-candy-q138811/licorice-candy-q138811-1.jpg",
+    "images/licorice-candy-q138811/licorice-candy-q138811-2.jpg",
+    "images/licorice-candy-q138811/licorice-candy-q138811-3.jpg",
+    "images/licorice-candy-q138811/licorice-candy-q138811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138811",
+    "themealdb": null
+  }
+}

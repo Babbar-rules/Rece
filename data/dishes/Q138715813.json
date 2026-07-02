@@ -1,0 +1,20 @@
+{
+  "id": "Q138715813",
+  "name": "Lendot",
+  "description": "traditional soup from Riau, Indonesia",
+  "nationality": [],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lendot-q138715813/lendot-q138715813-1.jpg",
+    "images/lendot-q138715813/lendot-q138715813-2.jpg",
+    "images/lendot-q138715813/lendot-q138715813-3.jpg",
+    "images/lendot-q138715813/lendot-q138715813-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138715813",
+    "themealdb": null
+  }
+}

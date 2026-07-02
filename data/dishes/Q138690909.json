@@ -1,0 +1,15 @@
+{
+  "id": "Q138690909",
+  "name": "palm heart pizza",
+  "description": "Brazilian pizza topped with heart of palm and mozzarella",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690909",
+    "themealdb": null
+  }
+}

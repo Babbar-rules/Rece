@@ -1,0 +1,18 @@
+{
+  "id": "Q138542226",
+  "name": "pumpkin purée",
+  "description": "cooked and mashed pumpkin served with dried meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pumpkin-puree-q138542226/pumpkin-puree-q138542226-1.jpg",
+    "images/pumpkin-puree-q138542226/pumpkin-puree-q138542226-2.jpg",
+    "images/pumpkin-puree-q138542226/pumpkin-puree-q138542226-3.jpg",
+    "images/pumpkin-puree-q138542226/pumpkin-puree-q138542226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138542226",
+    "themealdb": null
+  }
+}

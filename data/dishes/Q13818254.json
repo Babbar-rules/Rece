@@ -1,0 +1,20 @@
+{
+  "id": "Q13818254",
+  "name": "Mastel",
+  "description": "",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mastel-q13818254/mastel-q13818254-1.jpg",
+    "images/mastel-q13818254/mastel-q13818254-2.png",
+    "images/mastel-q13818254/mastel-q13818254-3.jpg",
+    "images/mastel-q13818254/mastel-q13818254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q13818254",
+    "themealdb": null
+  }
+}

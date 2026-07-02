@@ -1,0 +1,18 @@
+{
+  "id": "Q138690899",
+  "name": "tuna and onion pizza",
+  "description": "Brazilian pizza topped with tuna and onion from São Paulo",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tuna-and-onion-pizza-q138690899/tuna-and-onion-pizza-q138690899-1.jpg",
+    "images/tuna-and-onion-pizza-q138690899/tuna-and-onion-pizza-q138690899-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138690899",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q137800680",
+  "name": "bolo-rainha",
+  "description": "Portuguese king cake without candied fruit",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolo-rainha-q137800680/bolo-rainha-q137800680-1.jpg",
+    "images/bolo-rainha-q137800680/bolo-rainha-q137800680-2.jpg",
+    "images/bolo-rainha-q137800680/bolo-rainha-q137800680-3.jpg",
+    "images/bolo-rainha-q137800680/bolo-rainha-q137800680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q137800680",
+    "themealdb": null
+  }
+}

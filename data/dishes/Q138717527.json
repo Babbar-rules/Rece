@@ -1,0 +1,20 @@
+{
+  "id": "Q138717527",
+  "name": "Joutsenon rieska",
+  "description": "Finnish sourdough bread",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/joutsenon-rieska-q138717527/joutsenon-rieska-q138717527-1.jpg",
+    "images/joutsenon-rieska-q138717527/joutsenon-rieska-q138717527-2.jpg",
+    "images/joutsenon-rieska-q138717527/joutsenon-rieska-q138717527-3.jpg",
+    "images/joutsenon-rieska-q138717527/joutsenon-rieska-q138717527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q138717527",
+    "themealdb": null
+  }
+}
