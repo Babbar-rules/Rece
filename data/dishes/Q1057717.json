@@ -1,0 +1,20 @@
+{
+  "id": "Q1057717",
+  "name": "gooey butter cake",
+  "description": "food",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gooey-butter-cake-q1057717/gooey-butter-cake-q1057717-1.jpg",
+    "images/gooey-butter-cake-q1057717/gooey-butter-cake-q1057717-2.jpg",
+    "images/gooey-butter-cake-q1057717/gooey-butter-cake-q1057717-3.jpg",
+    "images/gooey-butter-cake-q1057717/gooey-butter-cake-q1057717-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1057717",
+    "themealdb": null
+  }
+}

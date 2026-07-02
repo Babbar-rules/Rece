@@ -1,0 +1,20 @@
+{
+  "id": "Q1067542",
+  "name": "toriten",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toriten-q1067542/toriten-q1067542-1.jpg",
+    "images/toriten-q1067542/toriten-q1067542-2.jpg",
+    "images/toriten-q1067542/toriten-q1067542-3.jpg",
+    "images/toriten-q1067542/toriten-q1067542-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1067542",
+    "themealdb": null
+  }
+}

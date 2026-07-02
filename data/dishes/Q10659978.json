@@ -1,0 +1,20 @@
+{
+  "id": "Q10659978",
+  "name": "saffron pancake",
+  "description": "pudding dessert from the island of Gotland, Sweden",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saffron-pancake-q10659978/saffron-pancake-q10659978-1.jpg",
+    "images/saffron-pancake-q10659978/saffron-pancake-q10659978-2.jpg",
+    "images/saffron-pancake-q10659978/saffron-pancake-q10659978-3.jpg",
+    "images/saffron-pancake-q10659978/saffron-pancake-q10659978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10659978",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q106543804",
+  "name": "doce de caju",
+  "description": "dessert from Brazil",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doce-de-caju-q106543804/doce-de-caju-q106543804-1.jpg",
+    "images/doce-de-caju-q106543804/doce-de-caju-q106543804-2.jpg",
+    "images/doce-de-caju-q106543804/doce-de-caju-q106543804-3.jpg",
+    "images/doce-de-caju-q106543804/doce-de-caju-q106543804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106543804",
+    "themealdb": null
+  }
+}

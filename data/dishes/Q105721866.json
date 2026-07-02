@@ -1,0 +1,18 @@
+{
+  "id": "Q105721866",
+  "name": "Pumpkin tart",
+  "description": "tarte with punkin pulp",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pumpkin-tart-q105721866/pumpkin-tart-q105721866-1.jpg",
+    "images/pumpkin-tart-q105721866/pumpkin-tart-q105721866-2.jpg",
+    "images/pumpkin-tart-q105721866/pumpkin-tart-q105721866-3.jpg",
+    "images/pumpkin-tart-q105721866/pumpkin-tart-q105721866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105721866",
+    "themealdb": null
+  }
+}

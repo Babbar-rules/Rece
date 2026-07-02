@@ -1,0 +1,22 @@
+{
+  "id": "Q1058306",
+  "name": "pörkölt",
+  "description": "Hungarian stew type",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/porkolt-q1058306/porkolt-q1058306-1.jpg",
+    "images/porkolt-q1058306/porkolt-q1058306-2.jpg",
+    "images/porkolt-q1058306/porkolt-q1058306-3.jpg",
+    "images/porkolt-q1058306/porkolt-q1058306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1058306",
+    "themealdb": null
+  }
+}

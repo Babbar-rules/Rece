@@ -1,0 +1,18 @@
+{
+  "id": "Q106827037",
+  "name": "Thayacha",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/thayacha-q106827037/thayacha-q106827037-1.jpg",
+    "images/thayacha-q106827037/thayacha-q106827037-2.jpg",
+    "images/thayacha-q106827037/thayacha-q106827037-3.jpg",
+    "images/thayacha-q106827037/thayacha-q106827037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106827037",
+    "themealdb": null
+  }
+}

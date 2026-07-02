@@ -1,0 +1,19 @@
+{
+  "id": "Q105727877",
+  "name": "Alleppey fish curry",
+  "description": "Indian fish curry",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alleppey-fish-curry-q105727877/alleppey-fish-curry-q105727877-1.jpg",
+    "images/alleppey-fish-curry-q105727877/alleppey-fish-curry-q105727877-2.jpg",
+    "images/alleppey-fish-curry-q105727877/alleppey-fish-curry-q105727877-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105727877",
+    "themealdb": null
+  }
+}

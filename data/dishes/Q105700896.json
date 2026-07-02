@@ -1,0 +1,18 @@
+{
+  "id": "Q105700896",
+  "name": "Blaukrautschnecke",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blaukrautschnecke-q105700896/blaukrautschnecke-q105700896-1.jpg",
+    "images/blaukrautschnecke-q105700896/blaukrautschnecke-q105700896-2.jpg",
+    "images/blaukrautschnecke-q105700896/blaukrautschnecke-q105700896-3.jpg",
+    "images/blaukrautschnecke-q105700896/blaukrautschnecke-q105700896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105700896",
+    "themealdb": null
+  }
+}

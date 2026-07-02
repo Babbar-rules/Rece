@@ -1,0 +1,100 @@
+{
+  "id": "Q1065241",
+  "name": "fried chicken",
+  "description": "dish consisting of chicken pieces which have been coated in a seasoned batter and pan-fried, deep fried, or pressure fried",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/fried-chicken-q1065241/fried-chicken-q1065241-1.jpg",
+    "images/fried-chicken-q1065241/fried-chicken-q1065241-2.jpg",
+    "images/fried-chicken-q1065241/fried-chicken-q1065241-3.jpg",
+    "images/fried-chicken-q1065241/fried-chicken-q1065241-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52813",
+    "category": "Chicken",
+    "area": "United States",
+    "instructions": "Preheat fryer to 350°F. Thoroughly mix together all the spice mix ingredients.\r\nCombine spice mix with flour, brown sugar and salt.\r\nDip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces.\r\nLet chicken pieces rest for 5 minutes so crust has a chance to dry a bit.\r\nFry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F.\r\nLet chicken drain on a few paper towels when it comes out of the fryer. Serve hot.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken",
+        "measure": "1 whole"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "2 quarts neutral frying"
+      },
+      {
+        "ingredient": "Egg White",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "1 1/2 cups"
+      },
+      {
+        "ingredient": "Brown Sugar",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "paprika",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "onion salt",
+        "measure": "2 teaspoons"
+      },
+      {
+        "ingredient": "chili powder",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "black pepper",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "celery salt",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "sage",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "garlic powder",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "allspice",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "oregano",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "basil",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "marjoram",
+        "measure": "1/2 teaspoon"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=PTUxCvCz8Bc",
+    "thumb": "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1065241",
+    "themealdb": "52813"
+  }
+}

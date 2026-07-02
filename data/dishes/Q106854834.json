@@ -1,0 +1,18 @@
+{
+  "id": "Q106854834",
+  "name": "spinach cake",
+  "description": "dessert dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spinach-cake-q106854834/spinach-cake-q106854834-1.jpg",
+    "images/spinach-cake-q106854834/spinach-cake-q106854834-2.jpg",
+    "images/spinach-cake-q106854834/spinach-cake-q106854834-3.jpg",
+    "images/spinach-cake-q106854834/spinach-cake-q106854834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106854834",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q105724270",
+  "name": "Perpeq pite",
+  "description": "traditional Albanian pie dish, baked with cheese, milk and eggs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/perpeq-pite-q105724270/perpeq-pite-q105724270-1.jpg",
+    "images/perpeq-pite-q105724270/perpeq-pite-q105724270-2.jpg",
+    "images/perpeq-pite-q105724270/perpeq-pite-q105724270-3.jpg",
+    "images/perpeq-pite-q105724270/perpeq-pite-q105724270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105724270",
+    "themealdb": null
+  }
+}

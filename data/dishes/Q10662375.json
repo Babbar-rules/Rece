@@ -1,0 +1,18 @@
+{
+  "id": "Q10662375",
+  "name": "scampi",
+  "description": "edible lobster of the order Decapoda",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/scampi-q10662375/scampi-q10662375-1.jpg",
+    "images/scampi-q10662375/scampi-q10662375-2.jpg",
+    "images/scampi-q10662375/scampi-q10662375-3.jpg",
+    "images/scampi-q10662375/scampi-q10662375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10662375",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1067842",
+  "name": "daifuku",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/daifuku-q1067842/daifuku-q1067842-1.jpg",
+    "images/daifuku-q1067842/daifuku-q1067842-2.jpg",
+    "images/daifuku-q1067842/daifuku-q1067842-3.jpg",
+    "images/daifuku-q1067842/daifuku-q1067842-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1067842",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1068892",
+  "name": "cheesesteak",
+  "description": "steak and cheese sandwich from Philadelphia",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/cheesesteak-q1068892/cheesesteak-q1068892-1.jpg",
+    "images/cheesesteak-q1068892/cheesesteak-q1068892-2.jpg",
+    "images/cheesesteak-q1068892/cheesesteak-q1068892-3.jpg",
+    "images/cheesesteak-q1068892/cheesesteak-q1068892-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1068892",
+    "themealdb": null
+  }
+}

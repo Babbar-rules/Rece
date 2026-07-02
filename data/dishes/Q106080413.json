@@ -1,0 +1,16 @@
+{
+  "id": "Q106080413",
+  "name": "Rosbora",
+  "description": "Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rosbora-q106080413/rosbora-q106080413-1.jpg",
+    "images/rosbora-q106080413/rosbora-q106080413-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106080413",
+    "themealdb": null
+  }
+}

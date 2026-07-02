@@ -1,0 +1,22 @@
+{
+  "id": "Q1063096",
+  "name": "wagashi",
+  "description": "traditional Japanese confectionery",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/wagashi-q1063096/wagashi-q1063096-1.jpg",
+    "images/wagashi-q1063096/wagashi-q1063096-2.jpeg",
+    "images/wagashi-q1063096/wagashi-q1063096-3.jpg",
+    "images/wagashi-q1063096/wagashi-q1063096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1063096",
+    "themealdb": null
+  }
+}

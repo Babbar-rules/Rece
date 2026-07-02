@@ -1,0 +1,18 @@
+{
+  "id": "Q10665037",
+  "name": "big rats",
+  "description": "Swedish rat shaped gummy candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-rats-q10665037/big-rats-q10665037-1.jpg",
+    "images/big-rats-q10665037/big-rats-q10665037-2.jpg",
+    "images/big-rats-q10665037/big-rats-q10665037-3.jpg",
+    "images/big-rats-q10665037/big-rats-q10665037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10665037",
+    "themealdb": null
+  }
+}

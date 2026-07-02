@@ -1,0 +1,18 @@
+{
+  "id": "Q1060331",
+  "name": "pastille",
+  "description": "type of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pastille-q1060331/pastille-q1060331-1.jpg",
+    "images/pastille-q1060331/pastille-q1060331-2.jpg",
+    "images/pastille-q1060331/pastille-q1060331-3.jpg",
+    "images/pastille-q1060331/pastille-q1060331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1060331",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1066251",
+  "name": "ice cream cake",
+  "description": "cake filled with ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-cake-q1066251/ice-cream-cake-q1066251-1.jpg",
+    "images/ice-cream-cake-q1066251/ice-cream-cake-q1066251-2.jpg",
+    "images/ice-cream-cake-q1066251/ice-cream-cake-q1066251-3.jpg",
+    "images/ice-cream-cake-q1066251/ice-cream-cake-q1066251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1066251",
+    "themealdb": null
+  }
+}

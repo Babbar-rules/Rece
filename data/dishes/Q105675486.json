@@ -1,0 +1,20 @@
+{
+  "id": "Q105675486",
+  "name": "Tiroler Schinkenkruste",
+  "description": "",
+  "nationality": [
+    "Tyrol"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiroler-schinkenkruste-q105675486/tiroler-schinkenkruste-q105675486-1.jpg",
+    "images/tiroler-schinkenkruste-q105675486/tiroler-schinkenkruste-q105675486-2.jpg",
+    "images/tiroler-schinkenkruste-q105675486/tiroler-schinkenkruste-q105675486-3.jpg",
+    "images/tiroler-schinkenkruste-q105675486/tiroler-schinkenkruste-q105675486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105675486",
+    "themealdb": null
+  }
+}

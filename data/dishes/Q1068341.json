@@ -1,0 +1,20 @@
+{
+  "id": "Q1068341",
+  "name": "chaud-froid",
+  "description": "French meat dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chaud-froid-q1068341/chaud-froid-q1068341-1.jpg",
+    "images/chaud-froid-q1068341/chaud-froid-q1068341-2.jpg",
+    "images/chaud-froid-q1068341/chaud-froid-q1068341-3.jpg",
+    "images/chaud-froid-q1068341/chaud-froid-q1068341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1068341",
+    "themealdb": null
+  }
+}

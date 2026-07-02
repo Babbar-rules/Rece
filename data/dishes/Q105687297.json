@@ -1,0 +1,20 @@
+{
+  "id": "Q105687297",
+  "name": "Ungarisches Teebrot",
+  "description": "",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ungarisches-teebrot-q105687297/ungarisches-teebrot-q105687297-1.jpg",
+    "images/ungarisches-teebrot-q105687297/ungarisches-teebrot-q105687297-2.jpg",
+    "images/ungarisches-teebrot-q105687297/ungarisches-teebrot-q105687297-3.jpg",
+    "images/ungarisches-teebrot-q105687297/ungarisches-teebrot-q105687297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105687297",
+    "themealdb": null
+  }
+}

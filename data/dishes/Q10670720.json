@@ -1,0 +1,18 @@
+{
+  "id": "Q10670720",
+  "name": "foam candy",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/foam-candy-q10670720/foam-candy-q10670720-1.jpg",
+    "images/foam-candy-q10670720/foam-candy-q10670720-2.jpg",
+    "images/foam-candy-q10670720/foam-candy-q10670720-3.jpg",
+    "images/foam-candy-q10670720/foam-candy-q10670720-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10670720",
+    "themealdb": null
+  }
+}

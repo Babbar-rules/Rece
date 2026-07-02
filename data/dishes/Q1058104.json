@@ -1,0 +1,20 @@
+{
+  "id": "Q1058104",
+  "name": "Cassoeula",
+  "description": "Lombard pork dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/cassoeula-q1058104/cassoeula-q1058104-1.jpg",
+    "images/cassoeula-q1058104/cassoeula-q1058104-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1058104",
+    "themealdb": null
+  }
+}

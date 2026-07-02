@@ -1,0 +1,20 @@
+{
+  "id": "Q106670608",
+  "name": "bánh mì thịt nguội",
+  "description": "",
+  "nationality": [
+    "South Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-mi-thit-nguoi-q106670608/banh-mi-thit-nguoi-q106670608-1.jpg",
+    "images/banh-mi-thit-nguoi-q106670608/banh-mi-thit-nguoi-q106670608-2.jpg",
+    "images/banh-mi-thit-nguoi-q106670608/banh-mi-thit-nguoi-q106670608-3.jpg",
+    "images/banh-mi-thit-nguoi-q106670608/banh-mi-thit-nguoi-q106670608-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106670608",
+    "themealdb": null
+  }
+}

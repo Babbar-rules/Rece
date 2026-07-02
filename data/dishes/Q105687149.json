@@ -1,0 +1,18 @@
+{
+  "id": "Q105687149",
+  "name": "Senfzwirbel",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/senfzwirbel-q105687149/senfzwirbel-q105687149-1.jpg",
+    "images/senfzwirbel-q105687149/senfzwirbel-q105687149-2.jpg",
+    "images/senfzwirbel-q105687149/senfzwirbel-q105687149-3.jpg",
+    "images/senfzwirbel-q105687149/senfzwirbel-q105687149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105687149",
+    "themealdb": null
+  }
+}

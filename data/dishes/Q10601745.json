@@ -1,0 +1,18 @@
+{
+  "id": "Q10601745",
+  "name": "noisette",
+  "description": "meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/noisette-q10601745/noisette-q10601745-1.jpg",
+    "images/noisette-q10601745/noisette-q10601745-2.jpg",
+    "images/noisette-q10601745/noisette-q10601745-3.jpg",
+    "images/noisette-q10601745/noisette-q10601745-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10601745",
+    "themealdb": null
+  }
+}

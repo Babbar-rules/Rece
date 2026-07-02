@@ -1,0 +1,18 @@
+{
+  "id": "Q105890425",
+  "name": "crust",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crust-q105890425/crust-q105890425-1.jpg",
+    "images/crust-q105890425/crust-q105890425-2.jpg",
+    "images/crust-q105890425/crust-q105890425-3.jpg",
+    "images/crust-q105890425/crust-q105890425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105890425",
+    "themealdb": null
+  }
+}

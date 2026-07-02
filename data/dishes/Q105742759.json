@@ -1,0 +1,20 @@
+{
+  "id": "Q105742759",
+  "name": "Moravský vrabec",
+  "description": "",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moravsky-vrabec-q105742759/moravsky-vrabec-q105742759-1.jpg",
+    "images/moravsky-vrabec-q105742759/moravsky-vrabec-q105742759-2.jpg",
+    "images/moravsky-vrabec-q105742759/moravsky-vrabec-q105742759-3.jpg",
+    "images/moravsky-vrabec-q105742759/moravsky-vrabec-q105742759-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105742759",
+    "themealdb": null
+  }
+}

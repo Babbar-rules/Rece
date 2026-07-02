@@ -1,0 +1,20 @@
+{
+  "id": "Q1057256",
+  "name": "ossobuco",
+  "description": "Lombard dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ossobuco-q1057256/ossobuco-q1057256-1.jpg",
+    "images/ossobuco-q1057256/ossobuco-q1057256-2.jpg",
+    "images/ossobuco-q1057256/ossobuco-q1057256-3.jpg",
+    "images/ossobuco-q1057256/ossobuco-q1057256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1057256",
+    "themealdb": null
+  }
+}

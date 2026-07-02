@@ -1,0 +1,15 @@
+{
+  "id": "Q10683206",
+  "name": "Succarie bread",
+  "description": "Rusk squares made of rye sourdough",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/succarie-bread-q10683206/succarie-bread-q10683206-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10683206",
+    "themealdb": null
+  }
+}

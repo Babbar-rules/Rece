@@ -1,0 +1,18 @@
+{
+  "id": "Q1065990",
+  "name": "lingonberry jam",
+  "description": "traditional fruit preserve in Scandinavian cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lingonberry-jam-q1065990/lingonberry-jam-q1065990-1.jpeg",
+    "images/lingonberry-jam-q1065990/lingonberry-jam-q1065990-2.jpg",
+    "images/lingonberry-jam-q1065990/lingonberry-jam-q1065990-3.jpeg",
+    "images/lingonberry-jam-q1065990/lingonberry-jam-q1065990-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1065990",
+    "themealdb": null
+  }
+}

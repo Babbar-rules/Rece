@@ -1,0 +1,20 @@
+{
+  "id": "Q106352242",
+  "name": "zeytinli açma",
+  "description": "Turkish bread with black olive paste filing",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zeytinli-acma-q106352242/zeytinli-acma-q106352242-1.jpg",
+    "images/zeytinli-acma-q106352242/zeytinli-acma-q106352242-2.jpg",
+    "images/zeytinli-acma-q106352242/zeytinli-acma-q106352242-3.jpg",
+    "images/zeytinli-acma-q106352242/zeytinli-acma-q106352242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106352242",
+    "themealdb": null
+  }
+}

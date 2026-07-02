@@ -1,0 +1,18 @@
+{
+  "id": "Q105742190",
+  "name": "Mutton rogan josh",
+  "description": "Indian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mutton-rogan-josh-q105742190/mutton-rogan-josh-q105742190-1.jpg",
+    "images/mutton-rogan-josh-q105742190/mutton-rogan-josh-q105742190-2.jpg",
+    "images/mutton-rogan-josh-q105742190/mutton-rogan-josh-q105742190-3.jpg",
+    "images/mutton-rogan-josh-q105742190/mutton-rogan-josh-q105742190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105742190",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10578681",
+  "name": "Max",
+  "description": "ice-cream brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/max-q10578681/max-q10578681-1.jpg",
+    "images/max-q10578681/max-q10578681-2.jpg",
+    "images/max-q10578681/max-q10578681-3.jpg",
+    "images/max-q10578681/max-q10578681-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10578681",
+    "themealdb": null
+  }
+}

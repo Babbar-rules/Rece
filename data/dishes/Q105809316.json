@@ -1,0 +1,20 @@
+{
+  "id": "Q105809316",
+  "name": "Salată de icre",
+  "description": "Romanian dish",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salata-de-icre-q105809316/salata-de-icre-q105809316-1.jpg",
+    "images/salata-de-icre-q105809316/salata-de-icre-q105809316-2.jpg",
+    "images/salata-de-icre-q105809316/salata-de-icre-q105809316-3.jpg",
+    "images/salata-de-icre-q105809316/salata-de-icre-q105809316-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105809316",
+    "themealdb": null
+  }
+}

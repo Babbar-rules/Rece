@@ -1,0 +1,20 @@
+{
+  "id": "Q105742167",
+  "name": "laccha paratha",
+  "description": "Indian flat bread",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laccha-paratha-q105742167/laccha-paratha-q105742167-1.jpg",
+    "images/laccha-paratha-q105742167/laccha-paratha-q105742167-2.jpg",
+    "images/laccha-paratha-q105742167/laccha-paratha-q105742167-3.jpg",
+    "images/laccha-paratha-q105742167/laccha-paratha-q105742167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105742167",
+    "themealdb": null
+  }
+}

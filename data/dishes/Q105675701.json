@@ -1,0 +1,18 @@
+{
+  "id": "Q105675701",
+  "name": "Mohn-Käse-Stange",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mohn-kase-stange-q105675701/mohn-kase-stange-q105675701-1.jpg",
+    "images/mohn-kase-stange-q105675701/mohn-kase-stange-q105675701-2.jpg",
+    "images/mohn-kase-stange-q105675701/mohn-kase-stange-q105675701-3.jpg",
+    "images/mohn-kase-stange-q105675701/mohn-kase-stange-q105675701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105675701",
+    "themealdb": null
+  }
+}

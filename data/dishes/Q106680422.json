@@ -1,0 +1,20 @@
+{
+  "id": "Q106680422",
+  "name": "currant bun",
+  "description": "European sweet bun; Dutch snack",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/currant-bun-q106680422/currant-bun-q106680422-1.jpg",
+    "images/currant-bun-q106680422/currant-bun-q106680422-2.jpg",
+    "images/currant-bun-q106680422/currant-bun-q106680422-3.jpg",
+    "images/currant-bun-q106680422/currant-bun-q106680422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106680422",
+    "themealdb": null
+  }
+}

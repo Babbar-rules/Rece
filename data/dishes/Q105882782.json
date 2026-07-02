@@ -1,0 +1,18 @@
+{
+  "id": "Q105882782",
+  "name": "Musur dal",
+  "description": "Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/musur-dal-q105882782/musur-dal-q105882782-1.jpg",
+    "images/musur-dal-q105882782/musur-dal-q105882782-2.jpg",
+    "images/musur-dal-q105882782/musur-dal-q105882782-3.jpg",
+    "images/musur-dal-q105882782/musur-dal-q105882782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105882782",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1060834",
+  "name": "Saltimbocca",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/saltimbocca-q1060834/saltimbocca-q1060834-1.jpg",
+    "images/saltimbocca-q1060834/saltimbocca-q1060834-2.jpg",
+    "images/saltimbocca-q1060834/saltimbocca-q1060834-3.jpg",
+    "images/saltimbocca-q1060834/saltimbocca-q1060834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1060834",
+    "themealdb": null
+  }
+}

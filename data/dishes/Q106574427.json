@@ -1,0 +1,18 @@
+{
+  "id": "Q106574427",
+  "name": "Salad (Sugakiya)",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salad-sugakiya-q106574427/salad-sugakiya-q106574427-1.jpg",
+    "images/salad-sugakiya-q106574427/salad-sugakiya-q106574427-2.jpg",
+    "images/salad-sugakiya-q106574427/salad-sugakiya-q106574427-3.jpg",
+    "images/salad-sugakiya-q106574427/salad-sugakiya-q106574427-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106574427",
+    "themealdb": null
+  }
+}

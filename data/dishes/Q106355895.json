@@ -1,0 +1,21 @@
+{
+  "id": "Q106355895",
+  "name": "franciasaláta",
+  "description": "dish",
+  "nationality": [
+    "Hungary",
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/franciasalata-q106355895/franciasalata-q106355895-1.jpg",
+    "images/franciasalata-q106355895/franciasalata-q106355895-2.jpg",
+    "images/franciasalata-q106355895/franciasalata-q106355895-3.jpg",
+    "images/franciasalata-q106355895/franciasalata-q106355895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106355895",
+    "themealdb": null
+  }
+}

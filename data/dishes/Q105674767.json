@@ -1,0 +1,18 @@
+{
+  "id": "Q105674767",
+  "name": "Thalassery chicken biriyani",
+  "description": "Thalassery biriyani",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/thalassery-chicken-biriyani-q105674767/thalassery-chicken-biriyani-q105674767-1.jpg",
+    "images/thalassery-chicken-biriyani-q105674767/thalassery-chicken-biriyani-q105674767-2.jpg",
+    "images/thalassery-chicken-biriyani-q105674767/thalassery-chicken-biriyani-q105674767-3.jpg",
+    "images/thalassery-chicken-biriyani-q105674767/thalassery-chicken-biriyani-q105674767-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105674767",
+    "themealdb": null
+  }
+}

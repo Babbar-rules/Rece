@@ -1,0 +1,18 @@
+{
+  "id": "Q105722416",
+  "name": "muesli roll",
+  "description": "type of roll",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/muesli-roll-q105722416/muesli-roll-q105722416-1.jpg",
+    "images/muesli-roll-q105722416/muesli-roll-q105722416-2.jpg",
+    "images/muesli-roll-q105722416/muesli-roll-q105722416-3.jpg",
+    "images/muesli-roll-q105722416/muesli-roll-q105722416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105722416",
+    "themealdb": null
+  }
+}

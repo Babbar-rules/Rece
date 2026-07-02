@@ -1,0 +1,18 @@
+{
+  "id": "Q105815873",
+  "name": "chewing gum brand",
+  "description": "brand used to market and sell chewing gum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chewing-gum-brand-q105815873/chewing-gum-brand-q105815873-1.png",
+    "images/chewing-gum-brand-q105815873/chewing-gum-brand-q105815873-2.jpg",
+    "images/chewing-gum-brand-q105815873/chewing-gum-brand-q105815873-3.jpg",
+    "images/chewing-gum-brand-q105815873/chewing-gum-brand-q105815873-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105815873",
+    "themealdb": null
+  }
+}

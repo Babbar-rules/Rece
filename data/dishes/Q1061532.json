@@ -1,0 +1,20 @@
+{
+  "id": "Q1061532",
+  "name": "chanpurū",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chanpuru-q1061532/chanpuru-q1061532-1.jpg",
+    "images/chanpuru-q1061532/chanpuru-q1061532-2.jpg",
+    "images/chanpuru-q1061532/chanpuru-q1061532-3.jpg",
+    "images/chanpuru-q1061532/chanpuru-q1061532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1061532",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q106748665",
+  "name": "Pon de Ring",
+  "description": "Type of doughnut",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pon-de-ring-q106748665/pon-de-ring-q106748665-1.jpg",
+    "images/pon-de-ring-q106748665/pon-de-ring-q106748665-2.jpg",
+    "images/pon-de-ring-q106748665/pon-de-ring-q106748665-3.jpg",
+    "images/pon-de-ring-q106748665/pon-de-ring-q106748665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106748665",
+    "themealdb": null
+  }
+}

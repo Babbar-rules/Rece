@@ -1,0 +1,80 @@
+{
+  "id": "Q1057649",
+  "name": "tandoori chicken",
+  "description": "Indian subcontinent chicken dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/tandoori-chicken-q1057649/tandoori-chicken-q1057649-1.jpg",
+    "images/tandoori-chicken-q1057649/tandoori-chicken-q1057649-2.jpg",
+    "images/tandoori-chicken-q1057649/tandoori-chicken-q1057649-3.jpg",
+    "images/tandoori-chicken-q1057649/tandoori-chicken-q1057649-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52806",
+    "category": "Chicken",
+    "area": "India",
+    "instructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.\r\nMix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.\r\nHeat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through.",
+    "ingredients": [
+      {
+        "ingredient": "lemons",
+        "measure": "2 Juice"
+      },
+      {
+        "ingredient": "paprika",
+        "measure": "4 tsp"
+      },
+      {
+        "ingredient": "red onions",
+        "measure": "2 finely chopped"
+      },
+      {
+        "ingredient": "chicken thighs",
+        "measure": "16 skinnless"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "measure": "For brushing"
+      },
+      {
+        "ingredient": "Greek yogurt",
+        "measure": "300ml"
+      },
+      {
+        "ingredient": "ginger",
+        "measure": "large piece"
+      },
+      {
+        "ingredient": "garlic clove",
+        "measure": "4"
+      },
+      {
+        "ingredient": "garam masala",
+        "measure": "¾ tsp"
+      },
+      {
+        "ingredient": "ground cumin",
+        "measure": "¾ tsp"
+      },
+      {
+        "ingredient": "chilli powder",
+        "measure": "½ tsp"
+      },
+      {
+        "ingredient": "turmeric",
+        "measure": "¼ tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=-CKvt1KNU74",
+    "thumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1057649",
+    "themealdb": "52806"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1069097",
+  "name": "chelow kabab",
+  "description": "Iranian dish of steamed rice and kabab",
+  "nationality": [
+    "Qajar Iran"
+  ],
+  "region_cuisine": [
+    "Iranian cuisine"
+  ],
+  "images": [
+    "images/chelow-kabab-q1069097/chelow-kabab-q1069097-1.jpg",
+    "images/chelow-kabab-q1069097/chelow-kabab-q1069097-2.jpg",
+    "images/chelow-kabab-q1069097/chelow-kabab-q1069097-3.jpg",
+    "images/chelow-kabab-q1069097/chelow-kabab-q1069097-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1069097",
+    "themealdb": null
+  }
+}

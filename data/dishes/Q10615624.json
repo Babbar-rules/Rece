@@ -1,0 +1,17 @@
+{
+  "id": "Q10615624",
+  "name": "paltbröd",
+  "description": "Swedish blood flatbread",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paltbrod-q10615624/paltbrod-q10615624-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10615624",
+    "themealdb": null
+  }
+}

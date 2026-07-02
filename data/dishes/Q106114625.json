@@ -1,0 +1,20 @@
+{
+  "id": "Q106114625",
+  "name": "Japadog",
+  "description": "variety of hotdog topped with Japanese ingredients",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/japadog-q106114625/japadog-q106114625-1.jpg",
+    "images/japadog-q106114625/japadog-q106114625-2.jpg",
+    "images/japadog-q106114625/japadog-q106114625-3.jpg",
+    "images/japadog-q106114625/japadog-q106114625-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106114625",
+    "themealdb": null
+  }
+}

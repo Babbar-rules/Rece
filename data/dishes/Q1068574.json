@@ -1,0 +1,20 @@
+{
+  "id": "Q1068574",
+  "name": "chawanmushi",
+  "description": "Japanese egg custard dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chawanmushi-q1068574/chawanmushi-q1068574-1.jpg",
+    "images/chawanmushi-q1068574/chawanmushi-q1068574-2.jpg",
+    "images/chawanmushi-q1068574/chawanmushi-q1068574-3.jpg",
+    "images/chawanmushi-q1068574/chawanmushi-q1068574-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1068574",
+    "themealdb": null
+  }
+}

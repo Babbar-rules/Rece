@@ -1,0 +1,18 @@
+{
+  "id": "Q10586818",
+  "name": "soft gingerbread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soft-gingerbread-q10586818/soft-gingerbread-q10586818-1.jpg",
+    "images/soft-gingerbread-q10586818/soft-gingerbread-q10586818-2.jpg",
+    "images/soft-gingerbread-q10586818/soft-gingerbread-q10586818-3.jpg",
+    "images/soft-gingerbread-q10586818/soft-gingerbread-q10586818-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10586818",
+    "themealdb": null
+  }
+}

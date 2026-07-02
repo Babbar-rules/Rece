@@ -1,0 +1,64 @@
+{
+  "id": "Q1062531",
+  "name": "boiled egg",
+  "description": "egg dish",
+  "nationality": [
+    "Chinese"
+  ],
+  "region_cuisine": [
+    "Miscellaneous"
+  ],
+  "images": [
+    "images/boiled-egg-q1062531/boiled-egg-q1062531-1.jpg",
+    "images/boiled-egg-q1062531/boiled-egg-q1062531-2.jpg",
+    "images/boiled-egg-q1062531/boiled-egg-q1062531-3.jpg",
+    "images/boiled-egg-q1062531/boiled-egg-q1062531-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53383",
+    "category": "Miscellaneous",
+    "area": "Chinese",
+    "instructions": "Boil: Bring water to a boil, gently add eggs, and cook for exactly 6½ to 7 minutes.\r\nIce Bath: Immediately transfer the eggs to a bowl of ice water for 3–5 minutes to stop cooking.\r\nMarinate (Optional but recommended): Peel the eggs and marinate in a mix of 2 tbsp soy sauce, 2 tbsp mirin, 1 tsp sugar, and 4 tbsp water for at least 4 hours (or overnight).\r\nServe: Slice in half, letting the yolk flow into the broth",
+    "ingredients": [
+      {
+        "ingredient": "Noodles",
+        "measure": "1 Packet"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Chilli Sauce",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "1 tbls"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "1/2 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=AbJNVnkndS4",
+    "thumb": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1062531",
+    "themealdb": "53383"
+  }
+}

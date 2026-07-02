@@ -1,0 +1,20 @@
+{
+  "id": "Q106326673",
+  "name": "cascatelli",
+  "description": "short pasta with a flat strip and ruffles that stick out at a 90-degree angle",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cascatelli-q106326673/cascatelli-q106326673-1.jpg",
+    "images/cascatelli-q106326673/cascatelli-q106326673-2.jpg",
+    "images/cascatelli-q106326673/cascatelli-q106326673-3.jpg",
+    "images/cascatelli-q106326673/cascatelli-q106326673-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106326673",
+    "themealdb": null
+  }
+}

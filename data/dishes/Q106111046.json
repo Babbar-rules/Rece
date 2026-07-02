@@ -1,0 +1,20 @@
+{
+  "id": "Q106111046",
+  "name": "Bursa cantık pide",
+  "description": "Turkish içli pide variety",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bursa-cantk-pide-q106111046/bursa-cantk-pide-q106111046-1.jpg",
+    "images/bursa-cantk-pide-q106111046/bursa-cantk-pide-q106111046-2.jpg",
+    "images/bursa-cantk-pide-q106111046/bursa-cantk-pide-q106111046-3.jpg",
+    "images/bursa-cantk-pide-q106111046/bursa-cantk-pide-q106111046-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106111046",
+    "themealdb": null
+  }
+}

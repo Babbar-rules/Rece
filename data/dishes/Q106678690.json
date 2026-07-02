@@ -1,0 +1,17 @@
+{
+  "id": "Q106678690",
+  "name": "Paofan",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paofan-q106678690/paofan-q106678690-1.jpg",
+    "images/paofan-q106678690/paofan-q106678690-2.jpg",
+    "images/paofan-q106678690/paofan-q106678690-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106678690",
+    "themealdb": null
+  }
+}

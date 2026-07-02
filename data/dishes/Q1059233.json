@@ -1,0 +1,20 @@
+{
+  "id": "Q1059233",
+  "name": "Kinder Chocolate",
+  "description": "Brand of chocolate bars",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-chocolate-q1059233/kinder-chocolate-q1059233-1.jpg",
+    "images/kinder-chocolate-q1059233/kinder-chocolate-q1059233-2.jpg",
+    "images/kinder-chocolate-q1059233/kinder-chocolate-q1059233-3.jpg",
+    "images/kinder-chocolate-q1059233/kinder-chocolate-q1059233-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1059233",
+    "themealdb": null
+  }
+}

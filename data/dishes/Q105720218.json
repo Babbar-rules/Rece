@@ -1,0 +1,18 @@
+{
+  "id": "Q105720218",
+  "name": "chocolate cheese tart",
+  "description": "type of cheese tart",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-cheese-tart-q105720218/chocolate-cheese-tart-q105720218-1.jpg",
+    "images/chocolate-cheese-tart-q105720218/chocolate-cheese-tart-q105720218-2.jpg",
+    "images/chocolate-cheese-tart-q105720218/chocolate-cheese-tart-q105720218-3.jpg",
+    "images/chocolate-cheese-tart-q105720218/chocolate-cheese-tart-q105720218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105720218",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q106640666",
+  "name": "macaron de Cormery",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/macaron-de-cormery-q106640666/macaron-de-cormery-q106640666-1.jpg",
+    "images/macaron-de-cormery-q106640666/macaron-de-cormery-q106640666-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106640666",
+    "themealdb": null
+  }
+}

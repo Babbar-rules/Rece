@@ -1,0 +1,17 @@
+{
+  "id": "Q106537056",
+  "name": "Kavala Almond Cookies",
+  "description": "Turkish culinary dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kavala-almond-cookies-q106537056/kavala-almond-cookies-q106537056-1.jpg",
+    "images/kavala-almond-cookies-q106537056/kavala-almond-cookies-q106537056-2.jpg",
+    "images/kavala-almond-cookies-q106537056/kavala-almond-cookies-q106537056-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106537056",
+    "themealdb": null
+  }
+}

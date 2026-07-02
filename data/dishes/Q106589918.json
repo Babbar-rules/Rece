@@ -1,0 +1,21 @@
+{
+  "id": "Q106589918",
+  "name": "jambon",
+  "description": "pastry snack filled with ham and cheese",
+  "nationality": [
+    "Ireland",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-q106589918/jambon-q106589918-1.jpg",
+    "images/jambon-q106589918/jambon-q106589918-2.jpg",
+    "images/jambon-q106589918/jambon-q106589918-3.jpg",
+    "images/jambon-q106589918/jambon-q106589918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106589918",
+    "themealdb": null
+  }
+}

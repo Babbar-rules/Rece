@@ -1,0 +1,22 @@
+{
+  "id": "Q1061842",
+  "name": "donburi",
+  "description": "Japanese meals based on a rice bowl",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/donburi-q1061842/donburi-q1061842-1.jpg",
+    "images/donburi-q1061842/donburi-q1061842-2.jpg",
+    "images/donburi-q1061842/donburi-q1061842-3.jpg",
+    "images/donburi-q1061842/donburi-q1061842-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1061842",
+    "themealdb": null
+  }
+}

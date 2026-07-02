@@ -1,0 +1,18 @@
+{
+  "id": "Q106840433",
+  "name": "katsuretsu",
+  "description": "Japanese Yōshoku cutlet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/katsuretsu-q106840433/katsuretsu-q106840433-1.jpg",
+    "images/katsuretsu-q106840433/katsuretsu-q106840433-2.jpg",
+    "images/katsuretsu-q106840433/katsuretsu-q106840433-3.jpg",
+    "images/katsuretsu-q106840433/katsuretsu-q106840433-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106840433",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10658425",
+  "name": "shrimp salad",
+  "description": "kind of seafood salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-salad-q10658425/shrimp-salad-q10658425-1.jpg",
+    "images/shrimp-salad-q10658425/shrimp-salad-q10658425-2.jpg",
+    "images/shrimp-salad-q10658425/shrimp-salad-q10658425-3.jpg",
+    "images/shrimp-salad-q10658425/shrimp-salad-q10658425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10658425",
+    "themealdb": null
+  }
+}

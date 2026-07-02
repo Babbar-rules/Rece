@@ -1,0 +1,18 @@
+{
+  "id": "Q105751252",
+  "name": "Big Mac Bao",
+  "description": "Chinese steamed bun with McDonald's Big Mac inspired meat and ingredients as filling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-mac-bao-q105751252/big-mac-bao-q105751252-1.jpg",
+    "images/big-mac-bao-q105751252/big-mac-bao-q105751252-2.jpg",
+    "images/big-mac-bao-q105751252/big-mac-bao-q105751252-3.jpg",
+    "images/big-mac-bao-q105751252/big-mac-bao-q105751252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105751252",
+    "themealdb": null
+  }
+}

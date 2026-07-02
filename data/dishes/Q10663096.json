@@ -1,0 +1,18 @@
+{
+  "id": "Q10663096",
+  "name": "Checkerboard Cookies",
+  "description": "Swedish checkerboard cookies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/checkerboard-cookies-q10663096/checkerboard-cookies-q10663096-1.jpg",
+    "images/checkerboard-cookies-q10663096/checkerboard-cookies-q10663096-2.jpg",
+    "images/checkerboard-cookies-q10663096/checkerboard-cookies-q10663096-3.jpg",
+    "images/checkerboard-cookies-q10663096/checkerboard-cookies-q10663096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10663096",
+    "themealdb": null
+  }
+}

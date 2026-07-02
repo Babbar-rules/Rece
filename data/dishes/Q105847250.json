@@ -1,0 +1,18 @@
+{
+  "id": "Q105847250",
+  "name": "fruit pizza",
+  "description": "circular tart featuring multiple fruit toppings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-pizza-q105847250/fruit-pizza-q105847250-1.jpg",
+    "images/fruit-pizza-q105847250/fruit-pizza-q105847250-2.jpg",
+    "images/fruit-pizza-q105847250/fruit-pizza-q105847250-3.jpg",
+    "images/fruit-pizza-q105847250/fruit-pizza-q105847250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105847250",
+    "themealdb": null
+  }
+}

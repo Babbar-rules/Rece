@@ -1,0 +1,20 @@
+{
+  "id": "Q106307339",
+  "name": "Springfield-style cashew chicken",
+  "description": "",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/springfield-style-cashew-chicken-q106307339/springfield-style-cashew-chicken-q106307339-1.jpg",
+    "images/springfield-style-cashew-chicken-q106307339/springfield-style-cashew-chicken-q106307339-2.jpg",
+    "images/springfield-style-cashew-chicken-q106307339/springfield-style-cashew-chicken-q106307339-3.jpg",
+    "images/springfield-style-cashew-chicken-q106307339/springfield-style-cashew-chicken-q106307339-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106307339",
+    "themealdb": null
+  }
+}

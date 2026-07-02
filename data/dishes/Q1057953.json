@@ -1,0 +1,20 @@
+{
+  "id": "Q1057953",
+  "name": "ceviche",
+  "description": "traditional dish in Peru prepared with raw fish marinated",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ceviche-q1057953/ceviche-q1057953-1.jpg",
+    "images/ceviche-q1057953/ceviche-q1057953-2.jpg",
+    "images/ceviche-q1057953/ceviche-q1057953-3.png",
+    "images/ceviche-q1057953/ceviche-q1057953-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1057953",
+    "themealdb": null
+  }
+}

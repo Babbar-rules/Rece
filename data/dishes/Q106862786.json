@@ -1,0 +1,18 @@
+{
+  "id": "Q106862786",
+  "name": "lobster tail pastry",
+  "description": "Italian filled pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobster-tail-pastry-q106862786/lobster-tail-pastry-q106862786-1.jpg",
+    "images/lobster-tail-pastry-q106862786/lobster-tail-pastry-q106862786-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106862786",
+    "themealdb": null
+  }
+}

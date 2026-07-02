@@ -1,0 +1,18 @@
+{
+  "id": "Q105686326",
+  "name": "Pinwheel cookie",
+  "description": "type of ice box cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pinwheel-cookie-q105686326/pinwheel-cookie-q105686326-1.jpg",
+    "images/pinwheel-cookie-q105686326/pinwheel-cookie-q105686326-2.jpg",
+    "images/pinwheel-cookie-q105686326/pinwheel-cookie-q105686326-3.jpg",
+    "images/pinwheel-cookie-q105686326/pinwheel-cookie-q105686326-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105686326",
+    "themealdb": null
+  }
+}

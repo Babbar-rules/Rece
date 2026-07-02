@@ -1,0 +1,22 @@
+{
+  "id": "Q106194785",
+  "name": "chashushuli",
+  "description": "dish of Georgian cuisine",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/chashushuli-q106194785/chashushuli-q106194785-1.jpg",
+    "images/chashushuli-q106194785/chashushuli-q106194785-2.jpg",
+    "images/chashushuli-q106194785/chashushuli-q106194785-3.jpg",
+    "images/chashushuli-q106194785/chashushuli-q106194785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106194785",
+    "themealdb": null
+  }
+}

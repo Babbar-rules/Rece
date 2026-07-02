@@ -1,0 +1,22 @@
+{
+  "id": "Q106252",
+  "name": "marzipan",
+  "description": "confection consisting primarily of sugar or honey and almond meal (ground almonds)",
+  "nationality": [
+    "Spain",
+    "France",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marzipan-q106252/marzipan-q106252-1.jpg",
+    "images/marzipan-q106252/marzipan-q106252-2.jpg",
+    "images/marzipan-q106252/marzipan-q106252-3.jpg",
+    "images/marzipan-q106252/marzipan-q106252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106252",
+    "themealdb": null
+  }
+}

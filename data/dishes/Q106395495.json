@@ -1,0 +1,22 @@
+{
+  "id": "Q106395495",
+  "name": "Aji fry",
+  "description": "Japanese dish of deep-fried horse mackerel",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/aji-fry-q106395495/aji-fry-q106395495-1.jpg",
+    "images/aji-fry-q106395495/aji-fry-q106395495-2.jpg",
+    "images/aji-fry-q106395495/aji-fry-q106395495-3.jpg",
+    "images/aji-fry-q106395495/aji-fry-q106395495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106395495",
+    "themealdb": null
+  }
+}

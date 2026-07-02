@@ -1,0 +1,80 @@
+{
+  "id": "Q105720189",
+  "name": "cheese tart",
+  "description": "type of tart",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Starter"
+  ],
+  "images": [
+    "images/cheese-tart-q105720189/cheese-tart-q105720189-1.jpg",
+    "images/cheese-tart-q105720189/cheese-tart-q105720189-2.jpg",
+    "images/cheese-tart-q105720189/cheese-tart-q105720189-3.jpg",
+    "images/cheese-tart-q105720189/cheese-tart-q105720189-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52779",
+    "category": "Starter",
+    "area": "United States",
+    "instructions": "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge. Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg. Take the crust out of the fridge and prick the bottom with a fork. Pour in the filling and bake at 175 degrees C for about 25 minutes. Cover the tart with some aluminium foil after half the time. In the mean time, slice about 350g mini tomatoes. In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well. Pour over the tomato slices and mix well. With a spoon, place the tomato slices on the tart, avoiding too much liquid on it. Decorate with basil leaves and enjoy",
+    "ingredients": [
+      {
+        "ingredient": "Flour",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "125g"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Cheese",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "100ml milk"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Parmesan Cheese",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Plum tomatoes",
+        "measure": "350g"
+      },
+      {
+        "ingredient": "White Vinegar",
+        "measure": "3tbsp"
+      },
+      {
+        "ingredient": "Honey",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Basil",
+        "measure": "Topping"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=UhQPwO4uymo",
+    "thumb": "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105720189",
+    "themealdb": "52779"
+  }
+}

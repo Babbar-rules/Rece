@@ -1,0 +1,18 @@
+{
+  "id": "Q105686321",
+  "name": "Refrigerator cookie",
+  "description": "type of cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/refrigerator-cookie-q105686321/refrigerator-cookie-q105686321-1.jpg",
+    "images/refrigerator-cookie-q105686321/refrigerator-cookie-q105686321-2.jpg",
+    "images/refrigerator-cookie-q105686321/refrigerator-cookie-q105686321-3.png",
+    "images/refrigerator-cookie-q105686321/refrigerator-cookie-q105686321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q105686321",
+    "themealdb": null
+  }
+}

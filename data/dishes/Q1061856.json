@@ -1,0 +1,20 @@
+{
+  "id": "Q1061856",
+  "name": "shabu-shabu",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shabu-shabu-q1061856/shabu-shabu-q1061856-1.jpg",
+    "images/shabu-shabu-q1061856/shabu-shabu-q1061856-2.jpg",
+    "images/shabu-shabu-q1061856/shabu-shabu-q1061856-3.jpg",
+    "images/shabu-shabu-q1061856/shabu-shabu-q1061856-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1061856",
+    "themealdb": null
+  }
+}

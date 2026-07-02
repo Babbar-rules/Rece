@@ -1,0 +1,18 @@
+{
+  "id": "Q10647926",
+  "name": "Easter food",
+  "description": "food associated with Christian holiday",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/easter-food-q10647926/easter-food-q10647926-1.jpg",
+    "images/easter-food-q10647926/easter-food-q10647926-2.jpg",
+    "images/easter-food-q10647926/easter-food-q10647926-3.jpg",
+    "images/easter-food-q10647926/easter-food-q10647926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10647926",
+    "themealdb": null
+  }
+}

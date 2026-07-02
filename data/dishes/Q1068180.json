@@ -1,0 +1,20 @@
+{
+  "id": "Q1068180",
+  "name": "Chateaubriand steak",
+  "description": "meat dish cooked with a thick cut from the tenderloin filet",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chateaubriand-steak-q1068180/chateaubriand-steak-q1068180-1.jpg",
+    "images/chateaubriand-steak-q1068180/chateaubriand-steak-q1068180-2.jpg",
+    "images/chateaubriand-steak-q1068180/chateaubriand-steak-q1068180-3.jpg",
+    "images/chateaubriand-steak-q1068180/chateaubriand-steak-q1068180-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1068180",
+    "themealdb": null
+  }
+}
