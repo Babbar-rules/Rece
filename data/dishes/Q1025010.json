@@ -1,0 +1,20 @@
+{
+  "id": "Q1025010",
+  "name": "Cachapa",
+  "description": "food",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cachapa-q1025010/cachapa-q1025010-1.jpg",
+    "images/cachapa-q1025010/cachapa-q1025010-2.jpg",
+    "images/cachapa-q1025010/cachapa-q1025010-3.jpg",
+    "images/cachapa-q1025010/cachapa-q1025010-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1025010",
+    "themealdb": null
+  }
+}

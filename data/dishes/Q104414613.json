@@ -1,0 +1,23 @@
+{
+  "id": "Q104414613",
+  "name": "doujiang",
+  "description": "fresh soy milk in Chinese cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/doujiang-q104414613/doujiang-q104414613-1.jpg",
+    "images/doujiang-q104414613/doujiang-q104414613-2.jpg",
+    "images/doujiang-q104414613/doujiang-q104414613-3.jpg",
+    "images/doujiang-q104414613/doujiang-q104414613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104414613",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q100290176",
+  "name": "fruit dish",
+  "description": "cuisine prepared using fruit as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-dish-q100290176/fruit-dish-q100290176-1.jpg",
+    "images/fruit-dish-q100290176/fruit-dish-q100290176-2.jpg",
+    "images/fruit-dish-q100290176/fruit-dish-q100290176-3.jpg",
+    "images/fruit-dish-q100290176/fruit-dish-q100290176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100290176",
+    "themealdb": null
+  }
+}

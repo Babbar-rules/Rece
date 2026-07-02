@@ -1,0 +1,18 @@
+{
+  "id": "Q101611276",
+  "name": "white pizza",
+  "description": "pizza style consisting of dough, olive oil, garlic, cheese, salt and vegetables but without tomato sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-pizza-q101611276/white-pizza-q101611276-1.jpg",
+    "images/white-pizza-q101611276/white-pizza-q101611276-2.jpg",
+    "images/white-pizza-q101611276/white-pizza-q101611276-3.jpg",
+    "images/white-pizza-q101611276/white-pizza-q101611276-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101611276",
+    "themealdb": null
+  }
+}

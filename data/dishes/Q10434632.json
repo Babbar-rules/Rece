@@ -1,0 +1,20 @@
+{
+  "id": "Q10434632",
+  "name": "Brago",
+  "description": "Pastries by Göteborgs Kex",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brago-q10434632/brago-q10434632-1.jpg",
+    "images/brago-q10434632/brago-q10434632-2.png",
+    "images/brago-q10434632/brago-q10434632-3.jpg",
+    "images/brago-q10434632/brago-q10434632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10434632",
+    "themealdb": null
+  }
+}

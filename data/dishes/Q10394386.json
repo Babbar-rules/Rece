@@ -1,0 +1,20 @@
+{
+  "id": "Q10394386",
+  "name": "Xipa",
+  "description": "Biscuit based on cheese and sprinkles in Brazil",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xipa-q10394386/xipa-q10394386-1.jpg",
+    "images/xipa-q10394386/xipa-q10394386-2.jpg",
+    "images/xipa-q10394386/xipa-q10394386-3.jpg",
+    "images/xipa-q10394386/xipa-q10394386-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10394386",
+    "themealdb": null
+  }
+}

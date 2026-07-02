@@ -1,0 +1,20 @@
+{
+  "id": "Q1045248",
+  "name": "tendon",
+  "description": "Japanese dish consisting of tempura on a bowl of rice",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tendon-q1045248/tendon-q1045248-1.jpg",
+    "images/tendon-q1045248/tendon-q1045248-2.gif",
+    "images/tendon-q1045248/tendon-q1045248-3.png",
+    "images/tendon-q1045248/tendon-q1045248-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1045248",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q101084341",
+  "name": "Game field pizza",
+  "description": "Argentine type of pizza",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/game-field-pizza-q101084341/game-field-pizza-q101084341-1.jpg",
+    "images/game-field-pizza-q101084341/game-field-pizza-q101084341-2.jpg",
+    "images/game-field-pizza-q101084341/game-field-pizza-q101084341-3.jpg",
+    "images/game-field-pizza-q101084341/game-field-pizza-q101084341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101084341",
+    "themealdb": null
+  }
+}

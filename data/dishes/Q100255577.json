@@ -1,0 +1,18 @@
+{
+  "id": "Q100255577",
+  "name": "labra tarkari",
+  "description": "Bengali vegetarian dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/labra-tarkari-q100255577/labra-tarkari-q100255577-1.jpg",
+    "images/labra-tarkari-q100255577/labra-tarkari-q100255577-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100255577",
+    "themealdb": null
+  }
+}

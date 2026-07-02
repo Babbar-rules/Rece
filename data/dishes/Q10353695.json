@@ -1,0 +1,15 @@
+{
+  "id": "Q10353695",
+  "name": "Barrancos ham",
+  "description": "cured ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/barrancos-ham-q10353695/barrancos-ham-q10353695-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10353695",
+    "themealdb": null
+  }
+}

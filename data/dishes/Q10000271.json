@@ -1,0 +1,18 @@
+{
+  "id": "Q10000271",
+  "name": "Ice cream cup",
+  "description": "a small container to hold single servings of ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-cup-q10000271/ice-cream-cup-q10000271-1.jpg",
+    "images/ice-cream-cup-q10000271/ice-cream-cup-q10000271-2.jpg",
+    "images/ice-cream-cup-q10000271/ice-cream-cup-q10000271-3.jpg",
+    "images/ice-cream-cup-q10000271/ice-cream-cup-q10000271-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10000271",
+    "themealdb": null
+  }
+}

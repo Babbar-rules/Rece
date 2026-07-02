@@ -1,0 +1,16 @@
+{
+  "id": "Q1035359",
+  "name": "Caramac",
+  "description": "Confection by Nestlé",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caramac-q1035359/caramac-q1035359-1.jpg",
+    "images/caramac-q1035359/caramac-q1035359-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1035359",
+    "themealdb": null
+  }
+}

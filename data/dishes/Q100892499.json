@@ -1,0 +1,16 @@
+{
+  "id": "Q100892499",
+  "name": "gelamai perentak",
+  "description": "Indonesian food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gelamai-perentak-q100892499/gelamai-perentak-q100892499-1.jpg",
+    "images/gelamai-perentak-q100892499/gelamai-perentak-q100892499-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100892499",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10344103",
+  "name": "Piracicaba pamonha",
+  "description": "traditional corn dish from the city of Piracicaba",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/piracicaba-pamonha-q10344103/piracicaba-pamonha-q10344103-1.jpg",
+    "images/piracicaba-pamonha-q10344103/piracicaba-pamonha-q10344103-2.jpg",
+    "images/piracicaba-pamonha-q10344103/piracicaba-pamonha-q10344103-3.jpg",
+    "images/piracicaba-pamonha-q10344103/piracicaba-pamonha-q10344103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10344103",
+    "themealdb": null
+  }
+}

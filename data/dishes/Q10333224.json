@@ -1,0 +1,20 @@
+{
+  "id": "Q10333224",
+  "name": "canjica",
+  "description": "Brazilian sweet porridge",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/canjica-q10333224/canjica-q10333224-1.jpg",
+    "images/canjica-q10333224/canjica-q10333224-2.jpg",
+    "images/canjica-q10333224/canjica-q10333224-3.jpg",
+    "images/canjica-q10333224/canjica-q10333224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10333224",
+    "themealdb": null
+  }
+}

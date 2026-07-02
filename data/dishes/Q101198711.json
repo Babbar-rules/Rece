@@ -1,0 +1,20 @@
+{
+  "id": "Q101198711",
+  "name": "Erdäpfelknödel",
+  "description": "",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/erdapfelknodel-q101198711/erdapfelknodel-q101198711-1.jpg",
+    "images/erdapfelknodel-q101198711/erdapfelknodel-q101198711-2.jpg",
+    "images/erdapfelknodel-q101198711/erdapfelknodel-q101198711-3.jpg",
+    "images/erdapfelknodel-q101198711/erdapfelknodel-q101198711-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101198711",
+    "themealdb": null
+  }
+}

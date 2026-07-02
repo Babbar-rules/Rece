@@ -1,0 +1,20 @@
+{
+  "id": "Q10280224",
+  "name": "Fartura",
+  "description": "Portuguese doughnut",
+  "nationality": [],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/fartura-q10280224/fartura-q10280224-1.jpg",
+    "images/fartura-q10280224/fartura-q10280224-2.jpg",
+    "images/fartura-q10280224/fartura-q10280224-3.jpg",
+    "images/fartura-q10280224/fartura-q10280224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10280224",
+    "themealdb": null
+  }
+}

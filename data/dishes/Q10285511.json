@@ -1,0 +1,20 @@
+{
+  "id": "Q10285511",
+  "name": "peri peri chicken",
+  "description": "Mozambican chicken dish",
+  "nationality": [
+    "Mozambique"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peri-peri-chicken-q10285511/peri-peri-chicken-q10285511-1.jpg",
+    "images/peri-peri-chicken-q10285511/peri-peri-chicken-q10285511-2.jpg",
+    "images/peri-peri-chicken-q10285511/peri-peri-chicken-q10285511-3.jpg",
+    "images/peri-peri-chicken-q10285511/peri-peri-chicken-q10285511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10285511",
+    "themealdb": null
+  }
+}

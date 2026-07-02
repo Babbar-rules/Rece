@@ -1,0 +1,20 @@
+{
+  "id": "Q10345683",
+  "name": "Squirrel fish",
+  "description": "well-known dish in Jiangsu cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/squirrel-fish-q10345683/squirrel-fish-q10345683-1.jpg",
+    "images/squirrel-fish-q10345683/squirrel-fish-q10345683-2.jpg",
+    "images/squirrel-fish-q10345683/squirrel-fish-q10345683-3.jpg",
+    "images/squirrel-fish-q10345683/squirrel-fish-q10345683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10345683",
+    "themealdb": null
+  }
+}

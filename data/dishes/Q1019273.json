@@ -1,0 +1,18 @@
+{
+  "id": "Q1019273",
+  "name": "Bätscher",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/batscher-q1019273/batscher-q1019273-1.jpg",
+    "images/batscher-q1019273/batscher-q1019273-2.jpg",
+    "images/batscher-q1019273/batscher-q1019273-3.jpg",
+    "images/batscher-q1019273/batscher-q1019273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1019273",
+    "themealdb": null
+  }
+}

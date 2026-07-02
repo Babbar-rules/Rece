@@ -1,0 +1,20 @@
+{
+  "id": "Q10345990",
+  "name": "pastel de feijão",
+  "description": "Portuguese bean tart",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastel-de-feijao-q10345990/pastel-de-feijao-q10345990-1.jpg",
+    "images/pastel-de-feijao-q10345990/pastel-de-feijao-q10345990-2.jpg",
+    "images/pastel-de-feijao-q10345990/pastel-de-feijao-q10345990-3.jpg",
+    "images/pastel-de-feijao-q10345990/pastel-de-feijao-q10345990-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10345990",
+    "themealdb": null
+  }
+}

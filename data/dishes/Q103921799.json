@@ -1,0 +1,18 @@
+{
+  "id": "Q103921799",
+  "name": "steamed rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-rice-q103921799/steamed-rice-q103921799-1.jpg",
+    "images/steamed-rice-q103921799/steamed-rice-q103921799-2.jpg",
+    "images/steamed-rice-q103921799/steamed-rice-q103921799-3.gif",
+    "images/steamed-rice-q103921799/steamed-rice-q103921799-4.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q103921799",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q102819468",
+  "name": "jjanji",
+  "description": "",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jjanji-q102819468/jjanji-q102819468-1.jpg",
+    "images/jjanji-q102819468/jjanji-q102819468-2.jpg",
+    "images/jjanji-q102819468/jjanji-q102819468-3.jpg",
+    "images/jjanji-q102819468/jjanji-q102819468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102819468",
+    "themealdb": null
+  }
+}

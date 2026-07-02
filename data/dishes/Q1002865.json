@@ -1,0 +1,19 @@
+{
+  "id": "Q1002865",
+  "name": "shimotsukare",
+  "description": "Japanese vegetable dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shimotsukare-q1002865/shimotsukare-q1002865-1.jpg",
+    "images/shimotsukare-q1002865/shimotsukare-q1002865-2.jpg",
+    "images/shimotsukare-q1002865/shimotsukare-q1002865-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1002865",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q104381638",
+  "name": "Indian pizza",
+  "description": "",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/indian-pizza-q104381638/indian-pizza-q104381638-1.jpg",
+    "images/indian-pizza-q104381638/indian-pizza-q104381638-2.jpg",
+    "images/indian-pizza-q104381638/indian-pizza-q104381638-3.jpg",
+    "images/indian-pizza-q104381638/indian-pizza-q104381638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104381638",
+    "themealdb": null
+  }
+}

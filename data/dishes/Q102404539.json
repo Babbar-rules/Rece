@@ -1,0 +1,20 @@
+{
+  "id": "Q102404539",
+  "name": "poppy seed bun",
+  "description": "large hot dog buns for Chicago-style hot dogs, with a poppy seed topping",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poppy-seed-bun-q102404539/poppy-seed-bun-q102404539-1.jpg",
+    "images/poppy-seed-bun-q102404539/poppy-seed-bun-q102404539-2.jpg",
+    "images/poppy-seed-bun-q102404539/poppy-seed-bun-q102404539-3.jpg",
+    "images/poppy-seed-bun-q102404539/poppy-seed-bun-q102404539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102404539",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q102172629",
+  "name": "Tempe orek",
+  "description": "traditional stir-fried tempeh from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Javanese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tempe-orek-q102172629/tempe-orek-q102172629-1.jpg",
+    "images/tempe-orek-q102172629/tempe-orek-q102172629-2.png",
+    "images/tempe-orek-q102172629/tempe-orek-q102172629-3.jpg",
+    "images/tempe-orek-q102172629/tempe-orek-q102172629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102172629",
+    "themealdb": null
+  }
+}

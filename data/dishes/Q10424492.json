@@ -1,0 +1,19 @@
+{
+  "id": "Q10424492",
+  "name": "Baddare",
+  "description": "Swedish pastry",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baddare-q10424492/baddare-q10424492-1.jpg",
+    "images/baddare-q10424492/baddare-q10424492-2.jpg",
+    "images/baddare-q10424492/baddare-q10424492-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10424492",
+    "themealdb": null
+  }
+}

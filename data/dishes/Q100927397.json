@@ -1,0 +1,18 @@
+{
+  "id": "Q100927397",
+  "name": "Sujahta Super Premium Ice Cream",
+  "description": "type of Japanese ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sujahta-super-premium-ice-cream-q100927397/sujahta-super-premium-ice-cream-q100927397-1.jpg",
+    "images/sujahta-super-premium-ice-cream-q100927397/sujahta-super-premium-ice-cream-q100927397-2.jpg",
+    "images/sujahta-super-premium-ice-cream-q100927397/sujahta-super-premium-ice-cream-q100927397-3.jpg",
+    "images/sujahta-super-premium-ice-cream-q100927397/sujahta-super-premium-ice-cream-q100927397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100927397",
+    "themealdb": null
+  }
+}

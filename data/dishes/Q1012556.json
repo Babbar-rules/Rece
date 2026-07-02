@@ -1,0 +1,20 @@
+{
+  "id": "Q1012556",
+  "name": "sweet potato soup",
+  "description": "Chinese sweet dessert soup",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-potato-soup-q1012556/sweet-potato-soup-q1012556-1.jpg",
+    "images/sweet-potato-soup-q1012556/sweet-potato-soup-q1012556-2.jpg",
+    "images/sweet-potato-soup-q1012556/sweet-potato-soup-q1012556-3.jpg",
+    "images/sweet-potato-soup-q1012556/sweet-potato-soup-q1012556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1012556",
+    "themealdb": null
+  }
+}

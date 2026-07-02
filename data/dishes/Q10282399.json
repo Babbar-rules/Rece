@@ -1,0 +1,20 @@
+{
+  "id": "Q10282399",
+  "name": "Filé à Osvaldo Aranha",
+  "description": "traditional Brazilian dish consisting of a beefsteak that's topped with large amounts of fried garlic and served with white rice, crunchy potato chips, and farofa on the side",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/file-a-osvaldo-aranha-q10282399/file-a-osvaldo-aranha-q10282399-1.jpg",
+    "images/file-a-osvaldo-aranha-q10282399/file-a-osvaldo-aranha-q10282399-2.jpg",
+    "images/file-a-osvaldo-aranha-q10282399/file-a-osvaldo-aranha-q10282399-3.jpg",
+    "images/file-a-osvaldo-aranha-q10282399/file-a-osvaldo-aranha-q10282399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10282399",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10262550",
+  "name": "cuxá",
+  "description": "dish of the Maranhão cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cuxa-q10262550/cuxa-q10262550-1.jpg",
+    "images/cuxa-q10262550/cuxa-q10262550-2.jpg",
+    "images/cuxa-q10262550/cuxa-q10262550-3.jpg",
+    "images/cuxa-q10262550/cuxa-q10262550-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10262550",
+    "themealdb": null
+  }
+}

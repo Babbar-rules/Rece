@@ -1,0 +1,20 @@
+{
+  "id": "Q1037853",
+  "name": "galbi-tang",
+  "description": "Korean soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galbi-tang-q1037853/galbi-tang-q1037853-1.jpg",
+    "images/galbi-tang-q1037853/galbi-tang-q1037853-2.jpg",
+    "images/galbi-tang-q1037853/galbi-tang-q1037853-3.jpg",
+    "images/galbi-tang-q1037853/galbi-tang-q1037853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1037853",
+    "themealdb": null
+  }
+}

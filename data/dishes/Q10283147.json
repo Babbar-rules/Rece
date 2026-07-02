@@ -1,0 +1,20 @@
+{
+  "id": "Q10283147",
+  "name": "Fogaça da Feira",
+  "description": "Portuguese sweet bread",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fogaca-da-feira-q10283147/fogaca-da-feira-q10283147-1.jpg",
+    "images/fogaca-da-feira-q10283147/fogaca-da-feira-q10283147-2.jpg",
+    "images/fogaca-da-feira-q10283147/fogaca-da-feira-q10283147-3.jpg",
+    "images/fogaca-da-feira-q10283147/fogaca-da-feira-q10283147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10283147",
+    "themealdb": null
+  }
+}

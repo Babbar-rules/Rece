@@ -1,0 +1,18 @@
+{
+  "id": "Q100285595",
+  "name": "mushroom dish",
+  "description": "food prepared from mushrooms",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mushroom-dish-q100285595/mushroom-dish-q100285595-1.jpg",
+    "images/mushroom-dish-q100285595/mushroom-dish-q100285595-2.jpg",
+    "images/mushroom-dish-q100285595/mushroom-dish-q100285595-3.jpg",
+    "images/mushroom-dish-q100285595/mushroom-dish-q100285595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100285595",
+    "themealdb": null
+  }
+}

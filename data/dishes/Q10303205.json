@@ -1,0 +1,18 @@
+{
+  "id": "Q10303205",
+  "name": "sin den ban",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sin-den-ban-q10303205/sin-den-ban-q10303205-1.jpg",
+    "images/sin-den-ban-q10303205/sin-den-ban-q10303205-2.jpg",
+    "images/sin-den-ban-q10303205/sin-den-ban-q10303205-3.jpg",
+    "images/sin-den-ban-q10303205/sin-den-ban-q10303205-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10303205",
+    "themealdb": null
+  }
+}

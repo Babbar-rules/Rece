@@ -1,0 +1,20 @@
+{
+  "id": "Q102173115",
+  "name": "tahu isi",
+  "description": "Indonesian dish, tofu filled with vegetables and/or meat",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tahu-isi-q102173115/tahu-isi-q102173115-1.jpg",
+    "images/tahu-isi-q102173115/tahu-isi-q102173115-2.jpg",
+    "images/tahu-isi-q102173115/tahu-isi-q102173115-3.jpg",
+    "images/tahu-isi-q102173115/tahu-isi-q102173115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102173115",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10374398",
+  "name": "stuffat tal-qarnit",
+  "description": "Maltese octopus stew",
+  "nationality": [
+    "Malta"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffat-tal-qarnit-q10374398/stuffat-tal-qarnit-q10374398-1.jpg",
+    "images/stuffat-tal-qarnit-q10374398/stuffat-tal-qarnit-q10374398-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10374398",
+    "themealdb": null
+  }
+}

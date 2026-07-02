@@ -1,0 +1,22 @@
+{
+  "id": "Q101122441",
+  "name": "St. Martin's goose",
+  "description": "roasted goose - traditional meal in Europe on St. Martin's day, November 11.",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/st-martins-goose-q101122441/st-martins-goose-q101122441-1.jpg",
+    "images/st-martins-goose-q101122441/st-martins-goose-q101122441-2.jpg",
+    "images/st-martins-goose-q101122441/st-martins-goose-q101122441-3.jpg",
+    "images/st-martins-goose-q101122441/st-martins-goose-q101122441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101122441",
+    "themealdb": null
+  }
+}

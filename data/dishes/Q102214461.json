@@ -1,0 +1,20 @@
+{
+  "id": "Q102214461",
+  "name": "Pepeto",
+  "description": "Mexican soup",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pepeto-q102214461/pepeto-q102214461-1.jpg",
+    "images/pepeto-q102214461/pepeto-q102214461-2.png",
+    "images/pepeto-q102214461/pepeto-q102214461-3.jpg",
+    "images/pepeto-q102214461/pepeto-q102214461-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102214461",
+    "themealdb": null
+  }
+}

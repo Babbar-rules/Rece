@@ -1,0 +1,20 @@
+{
+  "id": "Q10405688",
+  "name": "Pianerchuan",
+  "description": "noodle dish from Hangzhou, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/pianerchuan-q10405688/pianerchuan-q10405688-1.jpg",
+    "images/pianerchuan-q10405688/pianerchuan-q10405688-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10405688",
+    "themealdb": null
+  }
+}

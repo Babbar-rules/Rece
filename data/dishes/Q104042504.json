@@ -1,0 +1,20 @@
+{
+  "id": "Q104042504",
+  "name": "Gracoro",
+  "description": "Burger",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gracoro-q104042504/gracoro-q104042504-1.jpg",
+    "images/gracoro-q104042504/gracoro-q104042504-2.jpg",
+    "images/gracoro-q104042504/gracoro-q104042504-3.jpg",
+    "images/gracoro-q104042504/gracoro-q104042504-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104042504",
+    "themealdb": null
+  }
+}

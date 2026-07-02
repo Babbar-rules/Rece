@@ -1,0 +1,18 @@
+{
+  "id": "Q103839692",
+  "name": "Bingfen",
+  "description": "Chinese dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bingfen-q103839692/bingfen-q103839692-1.jpg",
+    "images/bingfen-q103839692/bingfen-q103839692-2.jpg",
+    "images/bingfen-q103839692/bingfen-q103839692-3.jpg",
+    "images/bingfen-q103839692/bingfen-q103839692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q103839692",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q104177921",
+  "name": "Tacos de lengua",
+  "description": "dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tacos-de-lengua-q104177921/tacos-de-lengua-q104177921-1.jpg",
+    "images/tacos-de-lengua-q104177921/tacos-de-lengua-q104177921-2.jpg",
+    "images/tacos-de-lengua-q104177921/tacos-de-lengua-q104177921-3.jpg",
+    "images/tacos-de-lengua-q104177921/tacos-de-lengua-q104177921-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104177921",
+    "themealdb": null
+  }
+}

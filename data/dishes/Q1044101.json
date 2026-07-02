@@ -1,0 +1,17 @@
+{
+  "id": "Q1044101",
+  "name": "Carnixulla",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carnixulla-q1044101/carnixulla-q1044101-1.jpg",
+    "images/carnixulla-q1044101/carnixulla-q1044101-2.jpg",
+    "images/carnixulla-q1044101/carnixulla-q1044101-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1044101",
+    "themealdb": null
+  }
+}

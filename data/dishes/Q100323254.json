@@ -1,0 +1,18 @@
+{
+  "id": "Q100323254",
+  "name": "fried tofu",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-tofu-q100323254/fried-tofu-q100323254-1.jpg",
+    "images/fried-tofu-q100323254/fried-tofu-q100323254-2.jpg",
+    "images/fried-tofu-q100323254/fried-tofu-q100323254-3.jpg",
+    "images/fried-tofu-q100323254/fried-tofu-q100323254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100323254",
+    "themealdb": null
+  }
+}

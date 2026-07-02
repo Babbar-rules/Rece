@@ -1,0 +1,18 @@
+{
+  "id": "Q100320371",
+  "name": "offal dish",
+  "description": "food preparation based on offal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/offal-dish-q100320371/offal-dish-q100320371-1.jpg",
+    "images/offal-dish-q100320371/offal-dish-q100320371-2.jpg",
+    "images/offal-dish-q100320371/offal-dish-q100320371-3.jpg",
+    "images/offal-dish-q100320371/offal-dish-q100320371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100320371",
+    "themealdb": null
+  }
+}

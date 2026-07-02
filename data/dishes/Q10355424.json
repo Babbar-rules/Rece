@@ -1,0 +1,20 @@
+{
+  "id": "Q10355424",
+  "name": "pudim abade de priscos",
+  "description": "Portuguese caramel pudding",
+  "nationality": [],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/pudim-abade-de-priscos-q10355424/pudim-abade-de-priscos-q10355424-1.png",
+    "images/pudim-abade-de-priscos-q10355424/pudim-abade-de-priscos-q10355424-2.jpg",
+    "images/pudim-abade-de-priscos-q10355424/pudim-abade-de-priscos-q10355424-3.png",
+    "images/pudim-abade-de-priscos-q10355424/pudim-abade-de-priscos-q10355424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10355424",
+    "themealdb": null
+  }
+}

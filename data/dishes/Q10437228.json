@@ -1,0 +1,20 @@
+{
+  "id": "Q10437228",
+  "name": "Budapestbakelse",
+  "description": "pastry",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/budapestbakelse-q10437228/budapestbakelse-q10437228-1.jpg",
+    "images/budapestbakelse-q10437228/budapestbakelse-q10437228-2.jpg",
+    "images/budapestbakelse-q10437228/budapestbakelse-q10437228-3.jpg",
+    "images/budapestbakelse-q10437228/budapestbakelse-q10437228-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10437228",
+    "themealdb": null
+  }
+}

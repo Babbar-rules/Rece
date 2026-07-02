@@ -1,0 +1,20 @@
+{
+  "id": "Q1014883",
+  "name": "Burger Brezel",
+  "description": "",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-brezel-q1014883/burger-brezel-q1014883-1.jpg",
+    "images/burger-brezel-q1014883/burger-brezel-q1014883-2.jpg",
+    "images/burger-brezel-q1014883/burger-brezel-q1014883-3.jpg",
+    "images/burger-brezel-q1014883/burger-brezel-q1014883-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1014883",
+    "themealdb": null
+  }
+}

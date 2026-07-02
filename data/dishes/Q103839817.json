@@ -1,0 +1,18 @@
+{
+  "id": "Q103839817",
+  "name": "Nisshin Spa ou",
+  "description": "instant spaghetti",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nisshin-spa-ou-q103839817/nisshin-spa-ou-q103839817-1.jpg",
+    "images/nisshin-spa-ou-q103839817/nisshin-spa-ou-q103839817-2.jpg",
+    "images/nisshin-spa-ou-q103839817/nisshin-spa-ou-q103839817-3.jpg",
+    "images/nisshin-spa-ou-q103839817/nisshin-spa-ou-q103839817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q103839817",
+    "themealdb": null
+  }
+}

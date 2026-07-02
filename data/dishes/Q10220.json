@@ -1,0 +1,20 @@
+{
+  "id": "Q10220",
+  "name": "Coussin de Lyon",
+  "description": "sweet specialty of Lyon, France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coussin-de-lyon-q10220/coussin-de-lyon-q10220-1.jpg",
+    "images/coussin-de-lyon-q10220/coussin-de-lyon-q10220-2.jpg",
+    "images/coussin-de-lyon-q10220/coussin-de-lyon-q10220-3.jpg",
+    "images/coussin-de-lyon-q10220/coussin-de-lyon-q10220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10220",
+    "themealdb": null
+  }
+}

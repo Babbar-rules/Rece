@@ -1,0 +1,18 @@
+{
+  "id": "Q100144799",
+  "name": "Kamalabhog",
+  "description": "sweet of Bengal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kamalabhog-q100144799/kamalabhog-q100144799-1.jpg",
+    "images/kamalabhog-q100144799/kamalabhog-q100144799-2.jpg",
+    "images/kamalabhog-q100144799/kamalabhog-q100144799-3.jpg",
+    "images/kamalabhog-q100144799/kamalabhog-q100144799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100144799",
+    "themealdb": null
+  }
+}

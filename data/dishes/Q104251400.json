@@ -1,0 +1,18 @@
+{
+  "id": "Q104251400",
+  "name": "bean vermicelli",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bean-vermicelli-q104251400/bean-vermicelli-q104251400-1.jpg",
+    "images/bean-vermicelli-q104251400/bean-vermicelli-q104251400-2.jpg",
+    "images/bean-vermicelli-q104251400/bean-vermicelli-q104251400-3.jpg",
+    "images/bean-vermicelli-q104251400/bean-vermicelli-q104251400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104251400",
+    "themealdb": null
+  }
+}

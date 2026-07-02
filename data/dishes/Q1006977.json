@@ -1,0 +1,20 @@
+{
+  "id": "Q1006977",
+  "name": "zhangcha duck",
+  "description": "Sichuan dish, prepared by hot-smoking a marinated duck over tea leaves",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zhangcha-duck-q1006977/zhangcha-duck-q1006977-1.jpg",
+    "images/zhangcha-duck-q1006977/zhangcha-duck-q1006977-2.jpg",
+    "images/zhangcha-duck-q1006977/zhangcha-duck-q1006977-3.jpg",
+    "images/zhangcha-duck-q1006977/zhangcha-duck-q1006977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1006977",
+    "themealdb": null
+  }
+}

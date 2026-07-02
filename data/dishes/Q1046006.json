@@ -1,0 +1,22 @@
+{
+  "id": "Q1046006",
+  "name": "curry bread",
+  "description": "Japanese dish, consisting of Japanese curry, wrapped in a piece of dough, coated in bread crumbs, and deep fried",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/curry-bread-q1046006/curry-bread-q1046006-1.jpg",
+    "images/curry-bread-q1046006/curry-bread-q1046006-2.jpg",
+    "images/curry-bread-q1046006/curry-bread-q1046006-3.jpg",
+    "images/curry-bread-q1046006/curry-bread-q1046006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1046006",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q1018138",
+  "name": "Butterschnitzel",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/butterschnitzel-q1018138/butterschnitzel-q1018138-1.jpg",
+    "images/butterschnitzel-q1018138/butterschnitzel-q1018138-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1018138",
+    "themealdb": null
+  }
+}

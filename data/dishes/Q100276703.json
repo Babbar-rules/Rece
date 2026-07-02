@@ -1,0 +1,18 @@
+{
+  "id": "Q100276703",
+  "name": "potato casserole",
+  "description": "casserole made with potatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-casserole-q100276703/potato-casserole-q100276703-1.jpg",
+    "images/potato-casserole-q100276703/potato-casserole-q100276703-2.jpg",
+    "images/potato-casserole-q100276703/potato-casserole-q100276703-3.jpg",
+    "images/potato-casserole-q100276703/potato-casserole-q100276703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100276703",
+    "themealdb": null
+  }
+}

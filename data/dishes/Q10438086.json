@@ -1,0 +1,16 @@
+{
+  "id": "Q10438086",
+  "name": "Butterkaka",
+  "description": "Pastry composed of rolled buns",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/butterkaka-q10438086/butterkaka-q10438086-1.jpg",
+    "images/butterkaka-q10438086/butterkaka-q10438086-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10438086",
+    "themealdb": null
+  }
+}

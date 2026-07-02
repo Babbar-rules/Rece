@@ -1,0 +1,20 @@
+{
+  "id": "Q1037909",
+  "name": "gukbap",
+  "description": "Korean rice soup category",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gukbap-q1037909/gukbap-q1037909-1.jpg",
+    "images/gukbap-q1037909/gukbap-q1037909-2.jpg",
+    "images/gukbap-q1037909/gukbap-q1037909-3.jpg",
+    "images/gukbap-q1037909/gukbap-q1037909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1037909",
+    "themealdb": null
+  }
+}

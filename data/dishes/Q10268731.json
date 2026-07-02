@@ -1,0 +1,18 @@
+{
+  "id": "Q10268731",
+  "name": "Draniki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/draniki-q10268731/draniki-q10268731-1.jpg",
+    "images/draniki-q10268731/draniki-q10268731-2.jpg",
+    "images/draniki-q10268731/draniki-q10268731-3.jpg",
+    "images/draniki-q10268731/draniki-q10268731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10268731",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10435544",
+  "name": "Bridge",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bridge-q10435544/bridge-q10435544-1.jpg",
+    "images/bridge-q10435544/bridge-q10435544-2.jpg",
+    "images/bridge-q10435544/bridge-q10435544-3.jpg",
+    "images/bridge-q10435544/bridge-q10435544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10435544",
+    "themealdb": null
+  }
+}

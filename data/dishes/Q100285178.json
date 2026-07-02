@@ -1,0 +1,20 @@
+{
+  "id": "Q100285178",
+  "name": "Bitter leaf soup",
+  "description": "soup peculiar to the Igbo tribe of Eastern Nigeria",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bitter-leaf-soup-q100285178/bitter-leaf-soup-q100285178-1.jpg",
+    "images/bitter-leaf-soup-q100285178/bitter-leaf-soup-q100285178-2.jpg",
+    "images/bitter-leaf-soup-q100285178/bitter-leaf-soup-q100285178-3.jpg",
+    "images/bitter-leaf-soup-q100285178/bitter-leaf-soup-q100285178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100285178",
+    "themealdb": null
+  }
+}

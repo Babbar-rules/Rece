@@ -1,0 +1,78 @@
+{
+  "id": "Q102428795",
+  "name": "rice ball",
+  "description": "generic food item shaped into a ball made primarily of rice",
+  "nationality": [],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/rice-ball-q102428795/rice-ball-q102428795-1.jpeg",
+    "images/rice-ball-q102428795/rice-ball-q102428795-2.jpg",
+    "images/rice-ball-q102428795/rice-ball-q102428795-3.jpg",
+    "images/rice-ball-q102428795/rice-ball-q102428795-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53422",
+    "category": "Side",
+    "area": null,
+    "instructions": "Place coconut cream in a small pot over low heat. Cut 3 pandan leaves into large strips and add to the pot with brown sugar, salt, and ginger. Bring to a boil, then cook 2 more minutes. Turn off the heat, remove the pandan leaves, and let cool.\r\nChop the remaining 4 pandan leaves, blend with ¼ cup water until very green, then strain well. In a bowl, place 200 g sticky rice flour, add a little pandan liquid, and knead until smooth.\r\nPeel and chop beetroot, blend with ¼ cup water until red, then strain well. In a bowl, place 200 g sticky rice flour, add a little beetroot liquid, and knead until smooth.\r\nBring 3 litres of water to a boil in a medium–large pot. Divide each dough into small pieces, roll into balls about ⅓ the size of a ping pong ball, then drop into boiling water. When they float, remove and place them into fresh, icy water to keep them separate.\r\nDrain well, then place the mixed colored balls into the cooled coconut sugar syrup and stir. Serve in small bowls (add longan and shredded coconut as desired).\r\nAdd the coloring liquids gradually—each flour absorbs differently. You want a dough that’s smooth and pliable, not sticky.",
+    "ingredients": [
+      {
+        "ingredient": "Sticky Rice Flour",
+        "measure": "700g"
+      },
+      {
+        "ingredient": "Pandan Leaves",
+        "measure": "7"
+      },
+      {
+        "ingredient": "Beetroot",
+        "measure": "1/4"
+      },
+      {
+        "ingredient": "Pumpkin",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Taro",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Longan",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Coconut",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2L"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 L"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "5 Slices"
+      },
+      {
+        "ingredient": "Coconut Cream",
+        "measure": "3 Cups"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=RDlkKhMho90",
+    "thumb": "https://www.themealdb.com/images/media/meals/5572yt1779739329.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102428795",
+    "themealdb": "53422"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10364123",
+  "name": "rojões",
+  "description": "Portuguese pork stew",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rojoes-q10364123/rojoes-q10364123-1.jpg",
+    "images/rojoes-q10364123/rojoes-q10364123-2.jpg",
+    "images/rojoes-q10364123/rojoes-q10364123-3.jpg",
+    "images/rojoes-q10364123/rojoes-q10364123-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10364123",
+    "themealdb": null
+  }
+}

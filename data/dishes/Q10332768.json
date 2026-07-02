@@ -1,0 +1,56 @@
+{
+  "id": "Q10332768",
+  "name": "Passion fruit mousse",
+  "description": "Creamy passion fruit dessert",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/passion-fruit-mousse-q10332768/passion-fruit-mousse-q10332768-1.jpg",
+    "images/passion-fruit-mousse-q10332768/passion-fruit-mousse-q10332768-2.jpg",
+    "images/passion-fruit-mousse-q10332768/passion-fruit-mousse-q10332768-3.jpg",
+    "images/passion-fruit-mousse-q10332768/passion-fruit-mousse-q10332768-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53333",
+    "category": "Dessert",
+    "area": "Venezuela",
+    "instructions": "Add gelatin and ¼ cup room-temperature water to small bowl; let sit until gelatin softens, about 5 minutes. In medium saucepan over medium-high heat, stir together passion fruit pulp, sugar and gelatin mixture. Cook, stirring occasionally, until mixture is thoroughly combined and smooth (mixture should not come to a boil). Remove from heat; cool completely. Stir in condensed milk.\r\nMeanwhile, in clean mixing bowl, using electric mixer, beat egg whites until stiff (peaks of egg whites will not droop, and egg whites will not move when bowl is tilted).\r\nStir 1/3 egg whites into cooled passion fruit mixture until combined. Using spatula, gently fold in remaining egg whites until combined. Divide mousse evenly among clear glass serving cups; cover. Refrigerate mousse until well chilled, at least 2 hrs.\r\nServe chilled. Garnish with mint, if desired.",
+    "ingredients": [
+      {
+        "ingredient": "Unflavoured Gelatin",
+        "measure": "1 ½ tbsp"
+      },
+      {
+        "ingredient": "Passion Fruit Pulp",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Condensed Milk",
+        "measure": "1 Can"
+      },
+      {
+        "ingredient": "Egg White",
+        "measure": "6"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "1 Sprig"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=x5SRhOq3vfs",
+    "thumb": "https://www.themealdb.com/images/media/meals/gkcdpl1764441325.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10332768",
+    "themealdb": "53333"
+  }
+}

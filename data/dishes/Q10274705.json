@@ -1,0 +1,18 @@
+{
+  "id": "Q10274705",
+  "name": "Escondidinho",
+  "description": "Brazilian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/escondidinho-q10274705/escondidinho-q10274705-1.jpg",
+    "images/escondidinho-q10274705/escondidinho-q10274705-2.jpg",
+    "images/escondidinho-q10274705/escondidinho-q10274705-3.jpg",
+    "images/escondidinho-q10274705/escondidinho-q10274705-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10274705",
+    "themealdb": null
+  }
+}

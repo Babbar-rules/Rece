@@ -1,0 +1,23 @@
+{
+  "id": "Q100529246",
+  "name": "punten",
+  "description": "traditional food from East Java, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Javanese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/punten-q100529246/punten-q100529246-1.jpg",
+    "images/punten-q100529246/punten-q100529246-2.jpg",
+    "images/punten-q100529246/punten-q100529246-3.png",
+    "images/punten-q100529246/punten-q100529246-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100529246",
+    "themealdb": null
+  }
+}

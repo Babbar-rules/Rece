@@ -1,0 +1,20 @@
+{
+  "id": "Q1002439",
+  "name": "Mandarin roll",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mandarin-roll-q1002439/mandarin-roll-q1002439-1.jpg",
+    "images/mandarin-roll-q1002439/mandarin-roll-q1002439-2.jpg",
+    "images/mandarin-roll-q1002439/mandarin-roll-q1002439-3.jpg",
+    "images/mandarin-roll-q1002439/mandarin-roll-q1002439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1002439",
+    "themealdb": null
+  }
+}

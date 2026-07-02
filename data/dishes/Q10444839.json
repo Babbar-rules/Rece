@@ -1,0 +1,18 @@
+{
+  "id": "Q10444839",
+  "name": "Center",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/center-q10444839/center-q10444839-1.jpg",
+    "images/center-q10444839/center-q10444839-2.jpg",
+    "images/center-q10444839/center-q10444839-3.jpg",
+    "images/center-q10444839/center-q10444839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10444839",
+    "themealdb": null
+  }
+}

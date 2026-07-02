@@ -1,0 +1,20 @@
+{
+  "id": "Q1018081",
+  "name": "Butterfinger",
+  "description": "candy bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/butterfinger-q1018081/butterfinger-q1018081-1.jpg",
+    "images/butterfinger-q1018081/butterfinger-q1018081-2.jpg",
+    "images/butterfinger-q1018081/butterfinger-q1018081-3.jpg",
+    "images/butterfinger-q1018081/butterfinger-q1018081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1018081",
+    "themealdb": null
+  }
+}

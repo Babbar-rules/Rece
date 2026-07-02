@@ -1,0 +1,18 @@
+{
+  "id": "Q101092304",
+  "name": "Grammelknödel",
+  "description": "dish from the Austrian cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grammelknodel-q101092304/grammelknodel-q101092304-1.jpg",
+    "images/grammelknodel-q101092304/grammelknodel-q101092304-2.jpg",
+    "images/grammelknodel-q101092304/grammelknodel-q101092304-3.jpg",
+    "images/grammelknodel-q101092304/grammelknodel-q101092304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101092304",
+    "themealdb": null
+  }
+}

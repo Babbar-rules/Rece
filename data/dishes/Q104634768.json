@@ -1,0 +1,18 @@
+{
+  "id": "Q104634768",
+  "name": "patso",
+  "description": "Turkish dog and fries sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/patso-q104634768/patso-q104634768-1.jpg",
+    "images/patso-q104634768/patso-q104634768-2.jpg",
+    "images/patso-q104634768/patso-q104634768-3.jpg",
+    "images/patso-q104634768/patso-q104634768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104634768",
+    "themealdb": null
+  }
+}

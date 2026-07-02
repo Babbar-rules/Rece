@@ -1,0 +1,20 @@
+{
+  "id": "Q10368446",
+  "name": "grilled sardines",
+  "description": "",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-sardines-q10368446/grilled-sardines-q10368446-1.jpg",
+    "images/grilled-sardines-q10368446/grilled-sardines-q10368446-2.jpg",
+    "images/grilled-sardines-q10368446/grilled-sardines-q10368446-3.jpg",
+    "images/grilled-sardines-q10368446/grilled-sardines-q10368446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10368446",
+    "themealdb": null
+  }
+}

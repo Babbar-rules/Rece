@@ -1,0 +1,20 @@
+{
+  "id": "Q10261324",
+  "name": "cozido de grão",
+  "description": "Portuguese chickpea stew",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cozido-de-grao-q10261324/cozido-de-grao-q10261324-1.jpg",
+    "images/cozido-de-grao-q10261324/cozido-de-grao-q10261324-2.jpg",
+    "images/cozido-de-grao-q10261324/cozido-de-grao-q10261324-3.jpg",
+    "images/cozido-de-grao-q10261324/cozido-de-grao-q10261324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10261324",
+    "themealdb": null
+  }
+}

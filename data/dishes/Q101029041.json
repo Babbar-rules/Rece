@@ -1,0 +1,18 @@
+{
+  "id": "Q101029041",
+  "name": "yoyo",
+  "description": "type of biscuit popular in Australia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yoyo-q101029041/yoyo-q101029041-1.jpg",
+    "images/yoyo-q101029041/yoyo-q101029041-2.jpg",
+    "images/yoyo-q101029041/yoyo-q101029041-3.jpg",
+    "images/yoyo-q101029041/yoyo-q101029041-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101029041",
+    "themealdb": null
+  }
+}

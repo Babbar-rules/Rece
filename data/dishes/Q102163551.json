@@ -1,0 +1,20 @@
+{
+  "id": "Q102163551",
+  "name": "cat tongues",
+  "description": "tongue-shaped chocolate bar",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cat-tongues-q102163551/cat-tongues-q102163551-1.jpg",
+    "images/cat-tongues-q102163551/cat-tongues-q102163551-2.jpg",
+    "images/cat-tongues-q102163551/cat-tongues-q102163551-3.jpg",
+    "images/cat-tongues-q102163551/cat-tongues-q102163551-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102163551",
+    "themealdb": null
+  }
+}

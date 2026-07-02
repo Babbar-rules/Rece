@@ -1,0 +1,16 @@
+{
+  "id": "Q10373415",
+  "name": "Sopa de lacassá",
+  "description": "Macanese soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sopa-de-lacassa-q10373415/sopa-de-lacassa-q10373415-1.jpg",
+    "images/sopa-de-lacassa-q10373415/sopa-de-lacassa-q10373415-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10373415",
+    "themealdb": null
+  }
+}

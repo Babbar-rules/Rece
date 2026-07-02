@@ -1,0 +1,20 @@
+{
+  "id": "Q104383034",
+  "name": "potato ropsu",
+  "description": "pancake of mashed potatoes",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-ropsu-q104383034/potato-ropsu-q104383034-1.jpg",
+    "images/potato-ropsu-q104383034/potato-ropsu-q104383034-2.jpg",
+    "images/potato-ropsu-q104383034/potato-ropsu-q104383034-3.png",
+    "images/potato-ropsu-q104383034/potato-ropsu-q104383034-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104383034",
+    "themealdb": null
+  }
+}

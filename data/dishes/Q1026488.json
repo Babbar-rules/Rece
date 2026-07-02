@@ -1,0 +1,23 @@
+{
+  "id": "Q1026488",
+  "name": "Caldo galego",
+  "description": "food",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Galician cuisine",
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/caldo-galego-q1026488/caldo-galego-q1026488-1.jpg",
+    "images/caldo-galego-q1026488/caldo-galego-q1026488-2.jpg",
+    "images/caldo-galego-q1026488/caldo-galego-q1026488-3.jpg",
+    "images/caldo-galego-q1026488/caldo-galego-q1026488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1026488",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q104250633",
+  "name": "Hamhung naengmyeon",
+  "description": "Cold noodle of Hamheung city",
+  "nationality": [
+    "North Korea"
+  ],
+  "region_cuisine": [
+    "North Korean cuisine"
+  ],
+  "images": [
+    "images/hamhung-naengmyeon-q104250633/hamhung-naengmyeon-q104250633-1.jpg",
+    "images/hamhung-naengmyeon-q104250633/hamhung-naengmyeon-q104250633-2.jpg",
+    "images/hamhung-naengmyeon-q104250633/hamhung-naengmyeon-q104250633-3.jpg",
+    "images/hamhung-naengmyeon-q104250633/hamhung-naengmyeon-q104250633-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104250633",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10373413",
+  "name": "sopa de cação",
+  "description": "Portuguese shark soup",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sopa-de-cacao-q10373413/sopa-de-cacao-q10373413-1.jpg",
+    "images/sopa-de-cacao-q10373413/sopa-de-cacao-q10373413-2.jpg",
+    "images/sopa-de-cacao-q10373413/sopa-de-cacao-q10373413-3.jpg",
+    "images/sopa-de-cacao-q10373413/sopa-de-cacao-q10373413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10373413",
+    "themealdb": null
+  }
+}

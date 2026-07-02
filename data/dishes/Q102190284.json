@@ -1,0 +1,15 @@
+{
+  "id": "Q102190284",
+  "name": "gâteau invisible",
+  "description": "French apple dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-invisible-q102190284/gateau-invisible-q102190284-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102190284",
+    "themealdb": null
+  }
+}

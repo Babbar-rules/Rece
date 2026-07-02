@@ -1,0 +1,20 @@
+{
+  "id": "Q104630996",
+  "name": "Peking-American fried chicken",
+  "description": "fried chicken variant",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peking-american-fried-chicken-q104630996/peking-american-fried-chicken-q104630996-1.jpg",
+    "images/peking-american-fried-chicken-q104630996/peking-american-fried-chicken-q104630996-2.jpg",
+    "images/peking-american-fried-chicken-q104630996/peking-american-fried-chicken-q104630996-3.jpg",
+    "images/peking-american-fried-chicken-q104630996/peking-american-fried-chicken-q104630996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104630996",
+    "themealdb": null
+  }
+}

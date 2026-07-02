@@ -1,0 +1,19 @@
+{
+  "id": "Q104252380",
+  "name": "Huo guo dun fen",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huo-guo-dun-fen-q104252380/huo-guo-dun-fen-q104252380-1.jpg",
+    "images/huo-guo-dun-fen-q104252380/huo-guo-dun-fen-q104252380-2.jpg",
+    "images/huo-guo-dun-fen-q104252380/huo-guo-dun-fen-q104252380-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104252380",
+    "themealdb": null
+  }
+}

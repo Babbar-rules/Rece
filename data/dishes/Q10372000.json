@@ -1,0 +1,20 @@
+{
+  "id": "Q10372000",
+  "name": "Sericaia",
+  "description": "Portuguese milk custard",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/sericaia-q10372000/sericaia-q10372000-1.jpg",
+    "images/sericaia-q10372000/sericaia-q10372000-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10372000",
+    "themealdb": null
+  }
+}

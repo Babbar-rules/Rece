@@ -1,0 +1,18 @@
+{
+  "id": "Q10268547",
+  "name": "conventual sweets",
+  "description": "Portuguese sweets",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/conventual-sweets-q10268547/conventual-sweets-q10268547-1.jpg",
+    "images/conventual-sweets-q10268547/conventual-sweets-q10268547-2.jpg",
+    "images/conventual-sweets-q10268547/conventual-sweets-q10268547-3.jpg",
+    "images/conventual-sweets-q10268547/conventual-sweets-q10268547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10268547",
+    "themealdb": null
+  }
+}

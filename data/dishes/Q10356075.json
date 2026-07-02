@@ -1,0 +1,20 @@
+{
+  "id": "Q10356075",
+  "name": "queijada",
+  "description": "Portuguese sweet",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/queijada-q10356075/queijada-q10356075-1.jpg",
+    "images/queijada-q10356075/queijada-q10356075-2.jpg",
+    "images/queijada-q10356075/queijada-q10356075-3.jpg",
+    "images/queijada-q10356075/queijada-q10356075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10356075",
+    "themealdb": null
+  }
+}

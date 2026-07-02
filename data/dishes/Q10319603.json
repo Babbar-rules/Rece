@@ -1,0 +1,18 @@
+{
+  "id": "Q10319603",
+  "name": "Lollo",
+  "description": "chocolate by Nestle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lollo-q10319603/lollo-q10319603-1.jpg",
+    "images/lollo-q10319603/lollo-q10319603-2.jpg",
+    "images/lollo-q10319603/lollo-q10319603-3.jpg",
+    "images/lollo-q10319603/lollo-q10319603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10319603",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Q10379618",
+  "name": "kasha",
+  "description": "type of porridge",
+  "nationality": [],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Belarusian cuisine",
+    "Slovenian cuisine",
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/kasha-q10379618/kasha-q10379618-1.jpg",
+    "images/kasha-q10379618/kasha-q10379618-2.jpg",
+    "images/kasha-q10379618/kasha-q10379618-3.jpg",
+    "images/kasha-q10379618/kasha-q10379618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10379618",
+    "themealdb": null
+  }
+}

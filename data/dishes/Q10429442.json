@@ -1,0 +1,20 @@
+{
+  "id": "Q10429442",
+  "name": "Beef Rydberg",
+  "description": "Swedish beef dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-rydberg-q10429442/beef-rydberg-q10429442-1.jpg",
+    "images/beef-rydberg-q10429442/beef-rydberg-q10429442-2.jpg",
+    "images/beef-rydberg-q10429442/beef-rydberg-q10429442-3.jpg",
+    "images/beef-rydberg-q10429442/beef-rydberg-q10429442-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10429442",
+    "themealdb": null
+  }
+}

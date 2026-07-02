@@ -1,0 +1,18 @@
+{
+  "id": "Q100287557",
+  "name": "mushroom burger",
+  "description": "hamburger prepared with a portobello mushroom cap",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mushroom-burger-q100287557/mushroom-burger-q100287557-1.jpg",
+    "images/mushroom-burger-q100287557/mushroom-burger-q100287557-2.jpg",
+    "images/mushroom-burger-q100287557/mushroom-burger-q100287557-3.jpg",
+    "images/mushroom-burger-q100287557/mushroom-burger-q100287557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100287557",
+    "themealdb": null
+  }
+}

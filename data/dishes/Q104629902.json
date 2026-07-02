@@ -1,0 +1,18 @@
+{
+  "id": "Q104629902",
+  "name": "Karabu Baluik",
+  "description": "Indonesian cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/karabu-baluik-q104629902/karabu-baluik-q104629902-1.jpg",
+    "images/karabu-baluik-q104629902/karabu-baluik-q104629902-2.jpg",
+    "images/karabu-baluik-q104629902/karabu-baluik-q104629902-3.jpg",
+    "images/karabu-baluik-q104629902/karabu-baluik-q104629902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104629902",
+    "themealdb": null
+  }
+}

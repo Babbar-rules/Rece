@@ -1,0 +1,18 @@
+{
+  "id": "Q104125992",
+  "name": "carottes râpées",
+  "description": "French carrot salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carottes-rapees-q104125992/carottes-rapees-q104125992-1.jpg",
+    "images/carottes-rapees-q104125992/carottes-rapees-q104125992-2.jpg",
+    "images/carottes-rapees-q104125992/carottes-rapees-q104125992-3.jpg",
+    "images/carottes-rapees-q104125992/carottes-rapees-q104125992-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104125992",
+    "themealdb": null
+  }
+}

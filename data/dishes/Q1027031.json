@@ -1,0 +1,22 @@
+{
+  "id": "Q1027031",
+  "name": "Calisson",
+  "description": "Traditional Candy from Aix-en-Provence",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/calisson-q1027031/calisson-q1027031-1.jpg",
+    "images/calisson-q1027031/calisson-q1027031-2.jpg",
+    "images/calisson-q1027031/calisson-q1027031-3.jpg",
+    "images/calisson-q1027031/calisson-q1027031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1027031",
+    "themealdb": null
+  }
+}

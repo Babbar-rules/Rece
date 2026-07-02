@@ -1,0 +1,17 @@
+{
+  "id": "Q10395380",
+  "name": "Zuppa pavese",
+  "description": "Italian national dish, a kind of cheese soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10395380",
+    "themealdb": null
+  }
+}

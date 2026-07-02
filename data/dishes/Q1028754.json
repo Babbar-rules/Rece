@@ -1,0 +1,20 @@
+{
+  "id": "Q1028754",
+  "name": "wine gum",
+  "description": "gelatin-based chewy candy",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wine-gum-q1028754/wine-gum-q1028754-1.jpg",
+    "images/wine-gum-q1028754/wine-gum-q1028754-2.jpg",
+    "images/wine-gum-q1028754/wine-gum-q1028754-3.jpg",
+    "images/wine-gum-q1028754/wine-gum-q1028754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1028754",
+    "themealdb": null
+  }
+}

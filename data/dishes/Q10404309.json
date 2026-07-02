@@ -1,0 +1,18 @@
+{
+  "id": "Q10404309",
+  "name": "Albert",
+  "description": "Swedish biscuit brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/albert-q10404309/albert-q10404309-1.jpg",
+    "images/albert-q10404309/albert-q10404309-2.jpg",
+    "images/albert-q10404309/albert-q10404309-3.jpg",
+    "images/albert-q10404309/albert-q10404309-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10404309",
+    "themealdb": null
+  }
+}

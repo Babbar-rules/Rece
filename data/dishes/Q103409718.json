@@ -1,0 +1,18 @@
+{
+  "id": "Q103409718",
+  "name": "niku udon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/niku-udon-q103409718/niku-udon-q103409718-1.jpg",
+    "images/niku-udon-q103409718/niku-udon-q103409718-2.jpg",
+    "images/niku-udon-q103409718/niku-udon-q103409718-3.jpg",
+    "images/niku-udon-q103409718/niku-udon-q103409718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q103409718",
+    "themealdb": null
+  }
+}

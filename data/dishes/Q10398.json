@@ -1,0 +1,22 @@
+{
+  "id": "Q10398",
+  "name": "pot-au-feu",
+  "description": "French beef stew",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/pot-au-feu-q10398/pot-au-feu-q10398-1.jpg",
+    "images/pot-au-feu-q10398/pot-au-feu-q10398-2.jpg",
+    "images/pot-au-feu-q10398/pot-au-feu-q10398-3.jpg",
+    "images/pot-au-feu-q10398/pot-au-feu-q10398-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10398",
+    "themealdb": null
+  }
+}

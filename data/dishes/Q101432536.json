@@ -1,0 +1,18 @@
+{
+  "id": "Q101432536",
+  "name": "Lemonilo",
+  "description": "Indonesian company",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lemonilo-q101432536/lemonilo-q101432536-1.jpg",
+    "images/lemonilo-q101432536/lemonilo-q101432536-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q101432536",
+    "themealdb": null
+  }
+}

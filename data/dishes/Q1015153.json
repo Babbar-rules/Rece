@@ -1,0 +1,20 @@
+{
+  "id": "Q1015153",
+  "name": "Burgoo",
+  "description": "American stew",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/burgoo-q1015153/burgoo-q1015153-1.jpg",
+    "images/burgoo-q1015153/burgoo-q1015153-2.png",
+    "images/burgoo-q1015153/burgoo-q1015153-3.jpg",
+    "images/burgoo-q1015153/burgoo-q1015153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1015153",
+    "themealdb": null
+  }
+}

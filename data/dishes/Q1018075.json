@@ -1,0 +1,20 @@
+{
+  "id": "Q1018075",
+  "name": "Butterbrot",
+  "description": "buttered bread",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/butterbrot-q1018075/butterbrot-q1018075-1.jpg",
+    "images/butterbrot-q1018075/butterbrot-q1018075-2.png",
+    "images/butterbrot-q1018075/butterbrot-q1018075-3.jpg",
+    "images/butterbrot-q1018075/butterbrot-q1018075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1018075",
+    "themealdb": null
+  }
+}

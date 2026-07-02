@@ -1,0 +1,22 @@
+{
+  "id": "Q102182275",
+  "name": "Pyongyang raengmyon",
+  "description": "North Korean dish",
+  "nationality": [
+    "North Korea"
+  ],
+  "region_cuisine": [
+    "North Korean cuisine"
+  ],
+  "images": [
+    "images/pyongyang-raengmyon-q102182275/pyongyang-raengmyon-q102182275-1.jpg",
+    "images/pyongyang-raengmyon-q102182275/pyongyang-raengmyon-q102182275-2.jpg",
+    "images/pyongyang-raengmyon-q102182275/pyongyang-raengmyon-q102182275-3.jpg",
+    "images/pyongyang-raengmyon-q102182275/pyongyang-raengmyon-q102182275-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q102182275",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10440715",
+  "name": "Calulu",
+  "description": "dish from Lusophone Africa with fish, chicken, palm oil and vegetables.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/calulu-q10440715/calulu-q10440715-1.jpg",
+    "images/calulu-q10440715/calulu-q10440715-2.jpg",
+    "images/calulu-q10440715/calulu-q10440715-3.jpg",
+    "images/calulu-q10440715/calulu-q10440715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10440715",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1034806",
+  "name": "Caponata",
+  "description": "sicilian eggplant dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caponata-q1034806/caponata-q1034806-1.jpg",
+    "images/caponata-q1034806/caponata-q1034806-2.jpg",
+    "images/caponata-q1034806/caponata-q1034806-3.jpg",
+    "images/caponata-q1034806/caponata-q1034806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1034806",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q104504307",
+  "name": "Arròs del Senyoret",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arros-del-senyoret-q104504307/arros-del-senyoret-q104504307-1.jpg",
+    "images/arros-del-senyoret-q104504307/arros-del-senyoret-q104504307-2.jpg",
+    "images/arros-del-senyoret-q104504307/arros-del-senyoret-q104504307-3.jpg",
+    "images/arros-del-senyoret-q104504307/arros-del-senyoret-q104504307-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104504307",
+    "themealdb": null
+  }
+}

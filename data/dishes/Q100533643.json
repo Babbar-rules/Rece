@@ -1,0 +1,19 @@
+{
+  "id": "Q100533643",
+  "name": "Mi nyemek",
+  "description": "Nyemek noodle from Java",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mi-nyemek-q100533643/mi-nyemek-q100533643-1.jpg",
+    "images/mi-nyemek-q100533643/mi-nyemek-q100533643-2.jpg",
+    "images/mi-nyemek-q100533643/mi-nyemek-q100533643-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q100533643",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q104629864",
+  "name": "Gulai tauco",
+  "description": "Indonesia cuisine",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gulai-tauco-q104629864/gulai-tauco-q104629864-1.jpg",
+    "images/gulai-tauco-q104629864/gulai-tauco-q104629864-2.jpg",
+    "images/gulai-tauco-q104629864/gulai-tauco-q104629864-3.jpg",
+    "images/gulai-tauco-q104629864/gulai-tauco-q104629864-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q104629864",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10328276",
+  "name": "meia-desfeita",
+  "description": "Portuguese cod dish",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meia-desfeita-q10328276/meia-desfeita-q10328276-1.jpg",
+    "images/meia-desfeita-q10328276/meia-desfeita-q10328276-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10328276",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10313790",
+  "name": "kappamaki",
+  "description": "makizushi made with cucumbers",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kappamaki-q10313790/kappamaki-q10313790-1.jpg",
+    "images/kappamaki-q10313790/kappamaki-q10313790-2.jpg",
+    "images/kappamaki-q10313790/kappamaki-q10313790-3.jpg",
+    "images/kappamaki-q10313790/kappamaki-q10313790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10313790",
+    "themealdb": null
+  }
+}

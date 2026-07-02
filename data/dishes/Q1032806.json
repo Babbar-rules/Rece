@@ -1,0 +1,22 @@
+{
+  "id": "Q1032806",
+  "name": "canapé",
+  "description": "snack",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/canape-q1032806/canape-q1032806-1.jpg",
+    "images/canape-q1032806/canape-q1032806-2.jpg",
+    "images/canape-q1032806/canape-q1032806-3.jpg",
+    "images/canape-q1032806/canape-q1032806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1032806",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1020809",
+  "name": "Bündner Nusstorte",
+  "description": "Swiss cake with a filling of caramellized chopped walnuts",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bundner-nusstorte-q1020809/bundner-nusstorte-q1020809-1.jpg",
+    "images/bundner-nusstorte-q1020809/bundner-nusstorte-q1020809-2.jpg",
+    "images/bundner-nusstorte-q1020809/bundner-nusstorte-q1020809-3.jpg",
+    "images/bundner-nusstorte-q1020809/bundner-nusstorte-q1020809-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1020809",
+    "themealdb": null
+  }
+}

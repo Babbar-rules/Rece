@@ -1,0 +1,22 @@
+{
+  "id": "Q10271001",
+  "name": "Efó",
+  "description": "Dish of the Bahia cuisine",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "cuisine of Bahia"
+  ],
+  "images": [
+    "images/efo-q10271001/efo-q10271001-1.jpg",
+    "images/efo-q10271001/efo-q10271001-2.jpg",
+    "images/efo-q10271001/efo-q10271001-3.jpg",
+    "images/efo-q10271001/efo-q10271001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10271001",
+    "themealdb": null
+  }
+}

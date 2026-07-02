@@ -1,0 +1,22 @@
+{
+  "id": "Q1035290",
+  "name": "Carac",
+  "description": "Swiss chocolate tartlet",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/carac-q1035290/carac-q1035290-1.jpg",
+    "images/carac-q1035290/carac-q1035290-2.jpg",
+    "images/carac-q1035290/carac-q1035290-3.jpg",
+    "images/carac-q1035290/carac-q1035290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1035290",
+    "themealdb": null
+  }
+}

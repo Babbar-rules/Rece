@@ -1,0 +1,18 @@
+{
+  "id": "Q10267772",
+  "name": "doce de espécie",
+  "description": "Brazilian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doce-de-especie-q10267772/doce-de-especie-q10267772-1.jpg",
+    "images/doce-de-especie-q10267772/doce-de-especie-q10267772-2.jpg",
+    "images/doce-de-especie-q10267772/doce-de-especie-q10267772-3.jpg",
+    "images/doce-de-especie-q10267772/doce-de-especie-q10267772-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10267772",
+    "themealdb": null
+  }
+}
