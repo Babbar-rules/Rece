@@ -1,0 +1,20 @@
+{
+  "id": "Q122808989",
+  "name": "Stuffed arepa",
+  "description": "Typical food from Colombia",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-arepa-q122808989/stuffed-arepa-q122808989-1.jpg",
+    "images/stuffed-arepa-q122808989/stuffed-arepa-q122808989-2.jpg",
+    "images/stuffed-arepa-q122808989/stuffed-arepa-q122808989-3.jpg",
+    "images/stuffed-arepa-q122808989/stuffed-arepa-q122808989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122808989",
+    "themealdb": null
+  }
+}

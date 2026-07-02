@@ -1,0 +1,18 @@
+{
+  "id": "Q122722927",
+  "name": "Airly Foods",
+  "description": "brand of snack cracker",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airly-foods-q122722927/airly-foods-q122722927-1.jpg",
+    "images/airly-foods-q122722927/airly-foods-q122722927-2.jpg",
+    "images/airly-foods-q122722927/airly-foods-q122722927-3.jpg",
+    "images/airly-foods-q122722927/airly-foods-q122722927-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122722927",
+    "themealdb": null
+  }
+}

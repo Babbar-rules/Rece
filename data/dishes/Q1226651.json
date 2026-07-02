@@ -1,0 +1,28 @@
+{
+  "id": "Q1226651",
+  "name": "wafer cookie",
+  "description": "thin type of biscuit",
+  "nationality": [
+    "Spain",
+    "Poland",
+    "Italy",
+    "Lithuania",
+    "Mexico",
+    "Germany",
+    "Czech Republic",
+    "Slovakia",
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wafer-cookie-q1226651/wafer-cookie-q1226651-1.jpg",
+    "images/wafer-cookie-q1226651/wafer-cookie-q1226651-2.jpg",
+    "images/wafer-cookie-q1226651/wafer-cookie-q1226651-3.jpg",
+    "images/wafer-cookie-q1226651/wafer-cookie-q1226651-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1226651",
+    "themealdb": null
+  }
+}

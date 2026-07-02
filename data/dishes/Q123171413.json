@@ -1,0 +1,20 @@
+{
+  "id": "Q123171413",
+  "name": "Luwombo",
+  "description": "Ugandan stew that is prepared in wrapped in banana leaves",
+  "nationality": [
+    "Uganda"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/luwombo-q123171413/luwombo-q123171413-1.jpg",
+    "images/luwombo-q123171413/luwombo-q123171413-2.jpg",
+    "images/luwombo-q123171413/luwombo-q123171413-3.jpg",
+    "images/luwombo-q123171413/luwombo-q123171413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123171413",
+    "themealdb": null
+  }
+}

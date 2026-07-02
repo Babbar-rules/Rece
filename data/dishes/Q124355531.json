@@ -1,0 +1,20 @@
+{
+  "id": "Q124355531",
+  "name": "churrasco",
+  "description": "Chilean sandwich",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/churrasco-q124355531/churrasco-q124355531-1.jpg",
+    "images/churrasco-q124355531/churrasco-q124355531-2.jpg",
+    "images/churrasco-q124355531/churrasco-q124355531-3.jpg",
+    "images/churrasco-q124355531/churrasco-q124355531-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124355531",
+    "themealdb": null
+  }
+}

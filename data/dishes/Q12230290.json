@@ -1,0 +1,22 @@
+{
+  "id": "Q12230290",
+  "name": "Hummus Fatteh",
+  "description": "A famous Levantine dish made of boiled chickpeas with garlic, topped with toasted or fried bread, and salted yogurt.",
+  "nationality": [
+    "Lebanon",
+    "Syria",
+    "Palestine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hummus-fatteh-q12230290/hummus-fatteh-q12230290-1.jpg",
+    "images/hummus-fatteh-q12230290/hummus-fatteh-q12230290-2.jpg",
+    "images/hummus-fatteh-q12230290/hummus-fatteh-q12230290-3.jpg",
+    "images/hummus-fatteh-q12230290/hummus-fatteh-q12230290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12230290",
+    "themealdb": null
+  }
+}

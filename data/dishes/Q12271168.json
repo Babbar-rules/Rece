@@ -1,0 +1,18 @@
+{
+  "id": "Q12271168",
+  "name": "chomlek",
+  "description": "Macedonian stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chomlek-q12271168/chomlek-q12271168-1.jpg",
+    "images/chomlek-q12271168/chomlek-q12271168-2.jpg",
+    "images/chomlek-q12271168/chomlek-q12271168-3.jpg",
+    "images/chomlek-q12271168/chomlek-q12271168-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12271168",
+    "themealdb": null
+  }
+}

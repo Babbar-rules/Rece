@@ -1,0 +1,20 @@
+{
+  "id": "Q12397045",
+  "name": "Bread of Cea",
+  "description": "Spanish traditional bread",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-of-cea-q12397045/bread-of-cea-q12397045-1.jpg",
+    "images/bread-of-cea-q12397045/bread-of-cea-q12397045-2.jpg",
+    "images/bread-of-cea-q12397045/bread-of-cea-q12397045-3.jpg",
+    "images/bread-of-cea-q12397045/bread-of-cea-q12397045-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12397045",
+    "themealdb": null
+  }
+}

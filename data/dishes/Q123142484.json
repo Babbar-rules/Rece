@@ -1,0 +1,20 @@
+{
+  "id": "Q123142484",
+  "name": "Goody good gum drops",
+  "description": "ice cream flavour in New Zealand",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goody-good-gum-drops-q123142484/goody-good-gum-drops-q123142484-1.png",
+    "images/goody-good-gum-drops-q123142484/goody-good-gum-drops-q123142484-2.jpg",
+    "images/goody-good-gum-drops-q123142484/goody-good-gum-drops-q123142484-3.jpg",
+    "images/goody-good-gum-drops-q123142484/goody-good-gum-drops-q123142484-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123142484",
+    "themealdb": null
+  }
+}

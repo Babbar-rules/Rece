@@ -1,0 +1,18 @@
+{
+  "id": "Q122957244",
+  "name": "egg fried rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-fried-rice-q122957244/egg-fried-rice-q122957244-1.jpg",
+    "images/egg-fried-rice-q122957244/egg-fried-rice-q122957244-2.jpg",
+    "images/egg-fried-rice-q122957244/egg-fried-rice-q122957244-3.jpg",
+    "images/egg-fried-rice-q122957244/egg-fried-rice-q122957244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122957244",
+    "themealdb": null
+  }
+}

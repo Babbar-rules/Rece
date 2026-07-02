@@ -1,0 +1,22 @@
+{
+  "id": "Q124283282",
+  "name": "Al-Maltout",
+  "description": "Palestinian flatbread seasoned with olive oil",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Palestinian cuisine"
+  ],
+  "images": [
+    "images/al-maltout-q124283282/al-maltout-q124283282-1.jpg",
+    "images/al-maltout-q124283282/al-maltout-q124283282-2.jpg",
+    "images/al-maltout-q124283282/al-maltout-q124283282-3.jpg",
+    "images/al-maltout-q124283282/al-maltout-q124283282-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124283282",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q123818587",
+  "name": "fermented cassava bread",
+  "description": "a sort of cassava bread made out of fermented cassava beer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fermented-cassava-bread-q123818587/fermented-cassava-bread-q123818587-1.jpg",
+    "images/fermented-cassava-bread-q123818587/fermented-cassava-bread-q123818587-2.jpg",
+    "images/fermented-cassava-bread-q123818587/fermented-cassava-bread-q123818587-3.jpg",
+    "images/fermented-cassava-bread-q123818587/fermented-cassava-bread-q123818587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123818587",
+    "themealdb": null
+  }
+}

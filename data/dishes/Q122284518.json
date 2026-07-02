@@ -1,0 +1,20 @@
+{
+  "id": "Q122284518",
+  "name": "young donuts",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/young-donuts-q122284518/young-donuts-q122284518-1.jpg",
+    "images/young-donuts-q122284518/young-donuts-q122284518-2.jpg",
+    "images/young-donuts-q122284518/young-donuts-q122284518-3.jpg",
+    "images/young-donuts-q122284518/young-donuts-q122284518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122284518",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q123400088",
+  "name": "Pizza carrée",
+  "description": "type of pizza of Algeria",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [
+    "Pied-noir cuisine"
+  ],
+  "images": [
+    "images/pizza-carree-q123400088/pizza-carree-q123400088-1.png",
+    "images/pizza-carree-q123400088/pizza-carree-q123400088-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123400088",
+    "themealdb": null
+  }
+}

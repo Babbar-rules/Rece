@@ -1,0 +1,18 @@
+{
+  "id": "Q123600514",
+  "name": "Ottupathal",
+  "description": "Kerala snack made with rice powder",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ottupathal-q123600514/ottupathal-q123600514-1.jpg",
+    "images/ottupathal-q123600514/ottupathal-q123600514-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123600514",
+    "themealdb": null
+  }
+}

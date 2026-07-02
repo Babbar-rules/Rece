@@ -1,0 +1,18 @@
+{
+  "id": "Q122809709",
+  "name": "Mané pelado",
+  "description": "Brazilian shredded yuca cake",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mane-pelado-q122809709/mane-pelado-q122809709-1.jpg",
+    "images/mane-pelado-q122809709/mane-pelado-q122809709-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122809709",
+    "themealdb": null
+  }
+}

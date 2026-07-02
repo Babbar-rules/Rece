@@ -1,0 +1,18 @@
+{
+  "id": "Q122808444",
+  "name": "Chicken Mayo Rice",
+  "description": "Korean food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-mayo-rice-q122808444/chicken-mayo-rice-q122808444-1.jpg",
+    "images/chicken-mayo-rice-q122808444/chicken-mayo-rice-q122808444-2.jpg",
+    "images/chicken-mayo-rice-q122808444/chicken-mayo-rice-q122808444-3.jpg",
+    "images/chicken-mayo-rice-q122808444/chicken-mayo-rice-q122808444-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122808444",
+    "themealdb": null
+  }
+}

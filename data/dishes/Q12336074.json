@@ -1,0 +1,18 @@
+{
+  "id": "Q12336074",
+  "name": "Slim food",
+  "description": "ready-made hot meals that can be bought in cafes or similar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/slim-food-q12336074/slim-food-q12336074-1.jpg",
+    "images/slim-food-q12336074/slim-food-q12336074-2.jpg",
+    "images/slim-food-q12336074/slim-food-q12336074-3.jpg",
+    "images/slim-food-q12336074/slim-food-q12336074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12336074",
+    "themealdb": null
+  }
+}

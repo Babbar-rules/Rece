@@ -1,0 +1,18 @@
+{
+  "id": "Q12264276",
+  "name": "palatschinke",
+  "description": "type of pancake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/palatschinke-q12264276/palatschinke-q12264276-1.jpg",
+    "images/palatschinke-q12264276/palatschinke-q12264276-2.jpg",
+    "images/palatschinke-q12264276/palatschinke-q12264276-3.jpg",
+    "images/palatschinke-q12264276/palatschinke-q12264276-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12264276",
+    "themealdb": null
+  }
+}

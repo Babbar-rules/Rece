@@ -1,0 +1,16 @@
+{
+  "id": "Q123116138",
+  "name": "coke chicken wing",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coke-chicken-wing-q123116138/coke-chicken-wing-q123116138-1.jpg",
+    "images/coke-chicken-wing-q123116138/coke-chicken-wing-q123116138-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123116138",
+    "themealdb": null
+  }
+}

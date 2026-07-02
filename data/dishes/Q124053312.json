@@ -1,0 +1,20 @@
+{
+  "id": "Q124053312",
+  "name": "Bazirou",
+  "description": "pork dish of Shandong, China",
+  "nationality": [],
+  "region_cuisine": [
+    "Shandong cuisine"
+  ],
+  "images": [
+    "images/bazirou-q124053312/bazirou-q124053312-1.jpg",
+    "images/bazirou-q124053312/bazirou-q124053312-2.jpg",
+    "images/bazirou-q124053312/bazirou-q124053312-3.jpg",
+    "images/bazirou-q124053312/bazirou-q124053312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124053312",
+    "themealdb": null
+  }
+}

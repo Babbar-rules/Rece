@@ -1,0 +1,19 @@
+{
+  "id": "Q124261314",
+  "name": "stuffed brisket",
+  "description": "meat dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Russian cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/stuffed-brisket-q124261314/stuffed-brisket-q124261314-1.jpg",
+    "images/stuffed-brisket-q124261314/stuffed-brisket-q124261314-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124261314",
+    "themealdb": null
+  }
+}

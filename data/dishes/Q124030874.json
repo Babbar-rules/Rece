@@ -1,0 +1,17 @@
+{
+  "id": "Q124030874",
+  "name": "Zuccoto",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124030874",
+    "themealdb": null
+  }
+}

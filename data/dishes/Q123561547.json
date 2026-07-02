@@ -1,0 +1,20 @@
+{
+  "id": "Q123561547",
+  "name": "syrnitsa",
+  "description": "Belarusian salty cheese made from pressed curds & butter",
+  "nationality": [
+    "Belarus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/syrnitsa-q123561547/syrnitsa-q123561547-1.jpg",
+    "images/syrnitsa-q123561547/syrnitsa-q123561547-2.jpg",
+    "images/syrnitsa-q123561547/syrnitsa-q123561547-3.jpg",
+    "images/syrnitsa-q123561547/syrnitsa-q123561547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123561547",
+    "themealdb": null
+  }
+}

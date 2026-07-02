@@ -1,0 +1,18 @@
+{
+  "id": "Q122423459",
+  "name": "Costco hot dog",
+  "description": "food product sold at Costco",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/costco-hot-dog-q122423459/costco-hot-dog-q122423459-1.jpg",
+    "images/costco-hot-dog-q122423459/costco-hot-dog-q122423459-2.jpg",
+    "images/costco-hot-dog-q122423459/costco-hot-dog-q122423459-3.jpg",
+    "images/costco-hot-dog-q122423459/costco-hot-dog-q122423459-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122423459",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q123925175",
+  "name": "bramborový knedlík",
+  "description": "potato dumplings in Czech cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bramborovy-knedlik-q123925175/bramborovy-knedlik-q123925175-1.jpg",
+    "images/bramborovy-knedlik-q123925175/bramborovy-knedlik-q123925175-2.jpg",
+    "images/bramborovy-knedlik-q123925175/bramborovy-knedlik-q123925175-3.jpg",
+    "images/bramborovy-knedlik-q123925175/bramborovy-knedlik-q123925175-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123925175",
+    "themealdb": null
+  }
+}

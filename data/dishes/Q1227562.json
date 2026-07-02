@@ -1,0 +1,20 @@
+{
+  "id": "Q1227562",
+  "name": "Bacalao al pil-pil",
+  "description": "traditional Basque dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalao-al-pil-pil-q1227562/bacalao-al-pil-pil-q1227562-1.jpg",
+    "images/bacalao-al-pil-pil-q1227562/bacalao-al-pil-pil-q1227562-2.jpg",
+    "images/bacalao-al-pil-pil-q1227562/bacalao-al-pil-pil-q1227562-3.jpg",
+    "images/bacalao-al-pil-pil-q1227562/bacalao-al-pil-pil-q1227562-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1227562",
+    "themealdb": null
+  }
+}

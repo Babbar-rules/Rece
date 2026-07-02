@@ -1,0 +1,20 @@
+{
+  "id": "Q1236601",
+  "name": "spaghetti alle vongole",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-alle-vongole-q1236601/spaghetti-alle-vongole-q1236601-1.jpg",
+    "images/spaghetti-alle-vongole-q1236601/spaghetti-alle-vongole-q1236601-2.jpg",
+    "images/spaghetti-alle-vongole-q1236601/spaghetti-alle-vongole-q1236601-3.jpg",
+    "images/spaghetti-alle-vongole-q1236601/spaghetti-alle-vongole-q1236601-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1236601",
+    "themealdb": null
+  }
+}

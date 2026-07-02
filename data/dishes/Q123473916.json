@@ -1,0 +1,20 @@
+{
+  "id": "Q123473916",
+  "name": "Bingka Kentang",
+  "description": "The traditional food of South Kalimantan.",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bingka-kentang-q123473916/bingka-kentang-q123473916-1.jpg",
+    "images/bingka-kentang-q123473916/bingka-kentang-q123473916-2.jpg",
+    "images/bingka-kentang-q123473916/bingka-kentang-q123473916-3.jpg",
+    "images/bingka-kentang-q123473916/bingka-kentang-q123473916-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123473916",
+    "themealdb": null
+  }
+}

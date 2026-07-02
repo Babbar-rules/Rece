@@ -1,0 +1,19 @@
+{
+  "id": "Q12218486",
+  "name": "sharba Libiya",
+  "description": "Libyan soup",
+  "nationality": [
+    "Libya"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sharba-libiya-q12218486/sharba-libiya-q12218486-1.jpg",
+    "images/sharba-libiya-q12218486/sharba-libiya-q12218486-2.jpg",
+    "images/sharba-libiya-q12218486/sharba-libiya-q12218486-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12218486",
+    "themealdb": null
+  }
+}

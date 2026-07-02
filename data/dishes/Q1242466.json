@@ -1,0 +1,20 @@
+{
+  "id": "Q1242466",
+  "name": "ganache",
+  "description": "chocolate and cream sauce",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ganache-q1242466/ganache-q1242466-1.jpg",
+    "images/ganache-q1242466/ganache-q1242466-2.jpg",
+    "images/ganache-q1242466/ganache-q1242466-3.jpg",
+    "images/ganache-q1242466/ganache-q1242466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1242466",
+    "themealdb": null
+  }
+}

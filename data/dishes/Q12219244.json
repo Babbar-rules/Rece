@@ -1,0 +1,18 @@
+{
+  "id": "Q12219244",
+  "name": "spinach soup",
+  "description": "type of soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spinach-soup-q12219244/spinach-soup-q12219244-1.jpg",
+    "images/spinach-soup-q12219244/spinach-soup-q12219244-2.jpg",
+    "images/spinach-soup-q12219244/spinach-soup-q12219244-3.jpg",
+    "images/spinach-soup-q12219244/spinach-soup-q12219244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12219244",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q122237637",
+  "name": "Dhakai Biryani",
+  "description": "a variety of biryani from Dhaka",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dhakai-biryani-q122237637/dhakai-biryani-q122237637-1.jpg",
+    "images/dhakai-biryani-q122237637/dhakai-biryani-q122237637-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122237637",
+    "themealdb": null
+  }
+}

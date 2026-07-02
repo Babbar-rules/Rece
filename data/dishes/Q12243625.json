@@ -1,0 +1,20 @@
+{
+  "id": "Q12243625",
+  "name": "Matlou",
+  "description": "type of leavened bread made in Maghreb",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/matlou-q12243625/matlou-q12243625-1.jpg",
+    "images/matlou-q12243625/matlou-q12243625-2.jpg",
+    "images/matlou-q12243625/matlou-q12243625-3.jpg",
+    "images/matlou-q12243625/matlou-q12243625-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12243625",
+    "themealdb": null
+  }
+}

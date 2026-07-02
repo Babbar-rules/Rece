@@ -1,0 +1,22 @@
+{
+  "id": "Q124257285",
+  "name": "Tefteli",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/tefteli-q124257285/tefteli-q124257285-1.jpg",
+    "images/tefteli-q124257285/tefteli-q124257285-2.jpg",
+    "images/tefteli-q124257285/tefteli-q124257285-3.jpg",
+    "images/tefteli-q124257285/tefteli-q124257285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124257285",
+    "themealdb": null
+  }
+}

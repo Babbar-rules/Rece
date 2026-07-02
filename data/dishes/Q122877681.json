@@ -1,0 +1,18 @@
+{
+  "id": "Q122877681",
+  "name": "ho mok",
+  "description": "Thai dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ho-mok-q122877681/ho-mok-q122877681-1.jpg",
+    "images/ho-mok-q122877681/ho-mok-q122877681-2.jpg",
+    "images/ho-mok-q122877681/ho-mok-q122877681-3.jpg",
+    "images/ho-mok-q122877681/ho-mok-q122877681-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122877681",
+    "themealdb": null
+  }
+}

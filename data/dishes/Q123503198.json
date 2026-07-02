@@ -1,0 +1,20 @@
+{
+  "id": "Q123503198",
+  "name": "Bubur ayak",
+  "description": "variations of typical Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubur-ayak-q123503198/bubur-ayak-q123503198-1.jpg",
+    "images/bubur-ayak-q123503198/bubur-ayak-q123503198-2.jpg",
+    "images/bubur-ayak-q123503198/bubur-ayak-q123503198-3.jpg",
+    "images/bubur-ayak-q123503198/bubur-ayak-q123503198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123503198",
+    "themealdb": null
+  }
+}

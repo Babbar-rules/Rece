@@ -1,0 +1,18 @@
+{
+  "id": "Q12336567",
+  "name": "Spandauer",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spandauer-q12336567/spandauer-q12336567-1.jpg",
+    "images/spandauer-q12336567/spandauer-q12336567-2.png",
+    "images/spandauer-q12336567/spandauer-q12336567-3.jpg",
+    "images/spandauer-q12336567/spandauer-q12336567-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12336567",
+    "themealdb": null
+  }
+}

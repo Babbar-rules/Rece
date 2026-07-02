@@ -1,0 +1,24 @@
+{
+  "id": "Q123310300",
+  "name": "kibbeh safarjaliyeh",
+  "description": "dish of Syrian cuisine",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Syrian cuisine",
+    "Levantine cuisine",
+    "Arab cuisine"
+  ],
+  "images": [
+    "images/kibbeh-safarjaliyeh-q123310300/kibbeh-safarjaliyeh-q123310300-1.jpg",
+    "images/kibbeh-safarjaliyeh-q123310300/kibbeh-safarjaliyeh-q123310300-2.jpg",
+    "images/kibbeh-safarjaliyeh-q123310300/kibbeh-safarjaliyeh-q123310300-3.jpg",
+    "images/kibbeh-safarjaliyeh-q123310300/kibbeh-safarjaliyeh-q123310300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123310300",
+    "themealdb": null
+  }
+}

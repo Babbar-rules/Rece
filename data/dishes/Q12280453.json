@@ -1,0 +1,18 @@
+{
+  "id": "Q12280453",
+  "name": "cabbage salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabbage-salad-q12280453/cabbage-salad-q12280453-1.jpg",
+    "images/cabbage-salad-q12280453/cabbage-salad-q12280453-2.jpg",
+    "images/cabbage-salad-q12280453/cabbage-salad-q12280453-3.jpg",
+    "images/cabbage-salad-q12280453/cabbage-salad-q12280453-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12280453",
+    "themealdb": null
+  }
+}

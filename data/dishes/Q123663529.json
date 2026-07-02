@@ -1,0 +1,18 @@
+{
+  "id": "Q123663529",
+  "name": "wild carrot",
+  "description": "taproot vegetable of plant known as a \"wild carrot\" For domesticated carrots use Q81",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wild-carrot-q123663529/wild-carrot-q123663529-1.jpg",
+    "images/wild-carrot-q123663529/wild-carrot-q123663529-2.jpg",
+    "images/wild-carrot-q123663529/wild-carrot-q123663529-3.jpg",
+    "images/wild-carrot-q123663529/wild-carrot-q123663529-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123663529",
+    "themealdb": null
+  }
+}

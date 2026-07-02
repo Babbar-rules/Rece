@@ -1,0 +1,18 @@
+{
+  "id": "Q12344306",
+  "name": "apple compote",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-compote-q12344306/apple-compote-q12344306-1.jpg",
+    "images/apple-compote-q12344306/apple-compote-q12344306-2.jpg",
+    "images/apple-compote-q12344306/apple-compote-q12344306-3.jpg",
+    "images/apple-compote-q12344306/apple-compote-q12344306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12344306",
+    "themealdb": null
+  }
+}

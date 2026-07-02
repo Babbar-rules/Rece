@@ -1,0 +1,22 @@
+{
+  "id": "Q122960896",
+  "name": "Samun with suxhuk",
+  "description": "Samun, a kind of pita bread baked with slices of suxhuk sausage on top. Specialty from Gjakova",
+  "nationality": [
+    "Kosovo"
+  ],
+  "region_cuisine": [
+    "Albanian cuisine"
+  ],
+  "images": [
+    "images/samun-with-suxhuk-q122960896/samun-with-suxhuk-q122960896-1.jpg",
+    "images/samun-with-suxhuk-q122960896/samun-with-suxhuk-q122960896-2.jpg",
+    "images/samun-with-suxhuk-q122960896/samun-with-suxhuk-q122960896-3.jpg",
+    "images/samun-with-suxhuk-q122960896/samun-with-suxhuk-q122960896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122960896",
+    "themealdb": null
+  }
+}

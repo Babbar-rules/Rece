@@ -1,0 +1,18 @@
+{
+  "id": "Q1227144",
+  "name": "Intxaursaltsa",
+  "description": "Basque dessert",
+  "nationality": [],
+  "region_cuisine": [
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/intxaursaltsa-q1227144/intxaursaltsa-q1227144-1.jpg",
+    "images/intxaursaltsa-q1227144/intxaursaltsa-q1227144-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1227144",
+    "themealdb": null
+  }
+}

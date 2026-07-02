@@ -1,0 +1,18 @@
+{
+  "id": "Q123221343",
+  "name": "Kōʻelepālau",
+  "description": "hawaiian sweet potato pudding",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koelepalau-q123221343/koelepalau-q123221343-1.jpg",
+    "images/koelepalau-q123221343/koelepalau-q123221343-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123221343",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q124351584",
+  "name": "Conejos con crema pastelera",
+  "description": "Chilean sweet",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/conejos-con-crema-pastelera-q124351584/conejos-con-crema-pastelera-q124351584-1.jpg",
+    "images/conejos-con-crema-pastelera-q124351584/conejos-con-crema-pastelera-q124351584-2.jpg",
+    "images/conejos-con-crema-pastelera-q124351584/conejos-con-crema-pastelera-q124351584-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124351584",
+    "themealdb": null
+  }
+}

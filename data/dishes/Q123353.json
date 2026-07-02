@@ -1,0 +1,20 @@
+{
+  "id": "Q123353",
+  "name": "kammerjunker",
+  "description": "biscuit",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kammerjunker-q123353/kammerjunker-q123353-1.jpg",
+    "images/kammerjunker-q123353/kammerjunker-q123353-2.jpg",
+    "images/kammerjunker-q123353/kammerjunker-q123353-3.jpg",
+    "images/kammerjunker-q123353/kammerjunker-q123353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123353",
+    "themealdb": null
+  }
+}

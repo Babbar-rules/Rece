@@ -1,0 +1,18 @@
+{
+  "id": "Q123507458",
+  "name": "bread salad",
+  "description": "salad made from bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-salad-q123507458/bread-salad-q123507458-1.jpg",
+    "images/bread-salad-q123507458/bread-salad-q123507458-2.jpg",
+    "images/bread-salad-q123507458/bread-salad-q123507458-3.jpg",
+    "images/bread-salad-q123507458/bread-salad-q123507458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123507458",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1230067",
+  "name": "Bayonne ham",
+  "description": "French cured ham with protected designation of origin",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/bayonne-ham-q1230067/bayonne-ham-q1230067-1.jpg",
+    "images/bayonne-ham-q1230067/bayonne-ham-q1230067-2.jpg",
+    "images/bayonne-ham-q1230067/bayonne-ham-q1230067-3.jpg",
+    "images/bayonne-ham-q1230067/bayonne-ham-q1230067-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1230067",
+    "themealdb": null
+  }
+}

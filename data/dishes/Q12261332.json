@@ -1,0 +1,20 @@
+{
+  "id": "Q12261332",
+  "name": "Carolina",
+  "description": "typical pastry of Vitoria, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carolina-q12261332/carolina-q12261332-1.jpg",
+    "images/carolina-q12261332/carolina-q12261332-2.png",
+    "images/carolina-q12261332/carolina-q12261332-3.jpg",
+    "images/carolina-q12261332/carolina-q12261332-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12261332",
+    "themealdb": null
+  }
+}

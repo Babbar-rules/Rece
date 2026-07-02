@@ -1,0 +1,16 @@
+{
+  "id": "Q12304464",
+  "name": "Brunsviger",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/brunsviger-q12304464/brunsviger-q12304464-1.jpg",
+    "images/brunsviger-q12304464/brunsviger-q12304464-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12304464",
+    "themealdb": null
+  }
+}

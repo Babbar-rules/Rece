@@ -1,0 +1,20 @@
+{
+  "id": "Q1222099",
+  "name": "coca de San Juan",
+  "description": "Spanish cake",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coca-de-san-juan-q1222099/coca-de-san-juan-q1222099-1.jpg",
+    "images/coca-de-san-juan-q1222099/coca-de-san-juan-q1222099-2.png",
+    "images/coca-de-san-juan-q1222099/coca-de-san-juan-q1222099-3.jpg",
+    "images/coca-de-san-juan-q1222099/coca-de-san-juan-q1222099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1222099",
+    "themealdb": null
+  }
+}

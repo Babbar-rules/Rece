@@ -1,0 +1,22 @@
+{
+  "id": "Q124031417",
+  "name": "Kashmiri pulao",
+  "description": "rice dish from Kashmir",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Kashmiri cuisine"
+  ],
+  "images": [
+    "images/kashmiri-pulao-q124031417/kashmiri-pulao-q124031417-1.jpg",
+    "images/kashmiri-pulao-q124031417/kashmiri-pulao-q124031417-2.jpg",
+    "images/kashmiri-pulao-q124031417/kashmiri-pulao-q124031417-3.jpg",
+    "images/kashmiri-pulao-q124031417/kashmiri-pulao-q124031417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124031417",
+    "themealdb": null
+  }
+}

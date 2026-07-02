@@ -1,0 +1,18 @@
+{
+  "id": "Q123474241",
+  "name": "Asahikawa Soy Sauce Chow Mein",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/asahikawa-soy-sauce-chow-mein-q123474241/asahikawa-soy-sauce-chow-mein-q123474241-1.jpg",
+    "images/asahikawa-soy-sauce-chow-mein-q123474241/asahikawa-soy-sauce-chow-mein-q123474241-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123474241",
+    "themealdb": null
+  }
+}

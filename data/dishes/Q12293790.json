@@ -1,0 +1,20 @@
+{
+  "id": "Q12293790",
+  "name": "Simid",
+  "description": "Bread product from Bulgaria",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/simid-q12293790/simid-q12293790-1.jpg",
+    "images/simid-q12293790/simid-q12293790-2.jpg",
+    "images/simid-q12293790/simid-q12293790-3.jpg",
+    "images/simid-q12293790/simid-q12293790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12293790",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q12408484",
+  "name": "Kif Kef",
+  "description": "Israeli chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kif-kef-q12408484/kif-kef-q12408484-1.jpg",
+    "images/kif-kef-q12408484/kif-kef-q12408484-2.jpg",
+    "images/kif-kef-q12408484/kif-kef-q12408484-3.png",
+    "images/kif-kef-q12408484/kif-kef-q12408484-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12408484",
+    "themealdb": null
+  }
+}

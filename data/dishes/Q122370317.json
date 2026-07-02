@@ -1,0 +1,18 @@
+{
+  "id": "Q122370317",
+  "name": "tanuki cake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tanuki-cake-q122370317/tanuki-cake-q122370317-1.jpg",
+    "images/tanuki-cake-q122370317/tanuki-cake-q122370317-2.jpg",
+    "images/tanuki-cake-q122370317/tanuki-cake-q122370317-3.jpg",
+    "images/tanuki-cake-q122370317/tanuki-cake-q122370317-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122370317",
+    "themealdb": null
+  }
+}

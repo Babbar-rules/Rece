@@ -1,0 +1,20 @@
+{
+  "id": "Q124336363",
+  "name": "anko and butter sandwich",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anko-and-butter-sandwich-q124336363/anko-and-butter-sandwich-q124336363-1.jpg",
+    "images/anko-and-butter-sandwich-q124336363/anko-and-butter-sandwich-q124336363-2.jpg",
+    "images/anko-and-butter-sandwich-q124336363/anko-and-butter-sandwich-q124336363-3.jpg",
+    "images/anko-and-butter-sandwich-q124336363/anko-and-butter-sandwich-q124336363-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124336363",
+    "themealdb": null
+  }
+}

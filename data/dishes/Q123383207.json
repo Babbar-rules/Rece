@@ -1,0 +1,18 @@
+{
+  "id": "Q123383207",
+  "name": "ruisleipä",
+  "description": "Finnish rye bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ruisleipa-q123383207/ruisleipa-q123383207-1.jpg",
+    "images/ruisleipa-q123383207/ruisleipa-q123383207-2.jpg",
+    "images/ruisleipa-q123383207/ruisleipa-q123383207-3.jpg",
+    "images/ruisleipa-q123383207/ruisleipa-q123383207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123383207",
+    "themealdb": null
+  }
+}

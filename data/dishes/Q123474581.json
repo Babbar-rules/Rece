@@ -1,0 +1,22 @@
+{
+  "id": "Q123474581",
+  "name": "Encharcada",
+  "description": "Portuguese egg dessert",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/encharcada-q123474581/encharcada-q123474581-1.jpg",
+    "images/encharcada-q123474581/encharcada-q123474581-2.jpg",
+    "images/encharcada-q123474581/encharcada-q123474581-3.jpg",
+    "images/encharcada-q123474581/encharcada-q123474581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123474581",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q12244460",
+  "name": "mafroukeh",
+  "description": "Lebanese dessert",
+  "nationality": [
+    "Lebanon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mafroukeh-q12244460/mafroukeh-q12244460-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12244460",
+    "themealdb": null
+  }
+}

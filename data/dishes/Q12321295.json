@@ -1,0 +1,68 @@
+{
+  "id": "Q12321295",
+  "name": "karbonade",
+  "description": "Nordic dish",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/karbonade-q12321295/karbonade-q12321295-1.jpg",
+    "images/karbonade-q12321295/karbonade-q12321295-2.jpg",
+    "images/karbonade-q12321295/karbonade-q12321295-3.jpg",
+    "images/karbonade-q12321295/karbonade-q12321295-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53125",
+    "category": "Beef",
+    "area": "Norway",
+    "instructions": "Grate half an onion and set aside. Slice the rest of the onions and fry in butter on low/medium heat until caramelized.\r\n▢\r\nIn a bowl, mix together ground beef, grated onion, salt, pepper, nutmeg, potato/corn starch, and water.\r\n▢\r\nForm into a sausage and cut 6 patties. Using a knife make a light grid pattern in each patty.\r\n▢\r\nBrown both sides of the karbonader in butter on high heat, then turn down to low heat and fry for another 2 – 3 minutes.\r\n▢\r\nServe the karbonader and onions with potatoes, stewed peas, and brown sauce for dinner, or on a slice of bread for lunch or a snack.",
+    "ingredients": [
+      {
+        "ingredient": "Onion",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Ground Beef",
+        "measure": "1 lb"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Nutmeg",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "measure": "1/2 tbs"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "50 ml"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "2 tblsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=HDWgGMJqvgw",
+    "thumb": "https://www.themealdb.com/images/media/meals/0bpjb11763075817.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12321295",
+    "themealdb": "53125"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q124313304",
+  "name": "boerewors roll",
+  "description": "boerewors in a hot dog bun",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boerewors-roll-q124313304/boerewors-roll-q124313304-1.jpg",
+    "images/boerewors-roll-q124313304/boerewors-roll-q124313304-2.jpg",
+    "images/boerewors-roll-q124313304/boerewors-roll-q124313304-3.jpg",
+    "images/boerewors-roll-q124313304/boerewors-roll-q124313304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124313304",
+    "themealdb": null
+  }
+}

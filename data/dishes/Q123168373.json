@@ -1,0 +1,24 @@
+{
+  "id": "Q123168373",
+  "name": "Hmong sausage",
+  "description": "herbed pork sausage from Hmong diaspora communities",
+  "nationality": [
+    "Laos",
+    "Thailand",
+    "China"
+  ],
+  "region_cuisine": [
+    "Hmong cuisine"
+  ],
+  "images": [
+    "images/hmong-sausage-q123168373/hmong-sausage-q123168373-1.jpg",
+    "images/hmong-sausage-q123168373/hmong-sausage-q123168373-2.jpg",
+    "images/hmong-sausage-q123168373/hmong-sausage-q123168373-3.jpg",
+    "images/hmong-sausage-q123168373/hmong-sausage-q123168373-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123168373",
+    "themealdb": null
+  }
+}

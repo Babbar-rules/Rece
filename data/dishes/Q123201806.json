@@ -1,0 +1,18 @@
+{
+  "id": "Q123201806",
+  "name": "french bread",
+  "description": "Type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/french-bread-q123201806/french-bread-q123201806-1.jpg",
+    "images/french-bread-q123201806/french-bread-q123201806-2.jpg",
+    "images/french-bread-q123201806/french-bread-q123201806-3.jpg",
+    "images/french-bread-q123201806/french-bread-q123201806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123201806",
+    "themealdb": null
+  }
+}

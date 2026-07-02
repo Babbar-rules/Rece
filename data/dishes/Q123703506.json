@@ -1,0 +1,18 @@
+{
+  "id": "Q123703506",
+  "name": "Gemberbolus",
+  "description": "pastry",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gemberbolus-q123703506/gemberbolus-q123703506-1.jpg",
+    "images/gemberbolus-q123703506/gemberbolus-q123703506-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123703506",
+    "themealdb": null
+  }
+}

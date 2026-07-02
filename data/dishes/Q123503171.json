@@ -1,0 +1,20 @@
+{
+  "id": "Q123503171",
+  "name": "Bubur gunting",
+  "description": "variations of typical Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubur-gunting-q123503171/bubur-gunting-q123503171-1.jpg",
+    "images/bubur-gunting-q123503171/bubur-gunting-q123503171-2.jpg",
+    "images/bubur-gunting-q123503171/bubur-gunting-q123503171-3.jpg",
+    "images/bubur-gunting-q123503171/bubur-gunting-q123503171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123503171",
+    "themealdb": null
+  }
+}

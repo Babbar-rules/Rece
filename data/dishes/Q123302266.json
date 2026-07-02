@@ -1,0 +1,15 @@
+{
+  "id": "Q123302266",
+  "name": "Lagua de choclo",
+  "description": "Bolivian dish",
+  "nationality": [
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123302266",
+    "themealdb": null
+  }
+}

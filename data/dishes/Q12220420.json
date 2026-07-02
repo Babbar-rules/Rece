@@ -1,0 +1,20 @@
+{
+  "id": "Q12220420",
+  "name": "sayadieh",
+  "description": "Middle Eastern fish and rice dish",
+  "nationality": [
+    "Middle East"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sayadieh-q12220420/sayadieh-q12220420-1.jpg",
+    "images/sayadieh-q12220420/sayadieh-q12220420-2.jpg",
+    "images/sayadieh-q12220420/sayadieh-q12220420-3.jpg",
+    "images/sayadieh-q12220420/sayadieh-q12220420-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12220420",
+    "themealdb": null
+  }
+}

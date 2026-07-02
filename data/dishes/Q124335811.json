@@ -1,0 +1,18 @@
+{
+  "id": "Q124335811",
+  "name": "koshian",
+  "description": "smooth red bean paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/koshian-q124335811/koshian-q124335811-1.jpg",
+    "images/koshian-q124335811/koshian-q124335811-2.jpg",
+    "images/koshian-q124335811/koshian-q124335811-3.jpg",
+    "images/koshian-q124335811/koshian-q124335811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124335811",
+    "themealdb": null
+  }
+}

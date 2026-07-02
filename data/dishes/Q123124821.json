@@ -1,0 +1,18 @@
+{
+  "id": "Q123124821",
+  "name": "Bannu Pulao",
+  "description": "Rice based dish from Bannu, Khyber Pakhtunkhwa, Pakistan",
+  "nationality": [],
+  "region_cuisine": [
+    "Pakistani cuisine"
+  ],
+  "images": [
+    "images/bannu-pulao-q123124821/bannu-pulao-q123124821-1.jpg",
+    "images/bannu-pulao-q123124821/bannu-pulao-q123124821-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123124821",
+    "themealdb": null
+  }
+}

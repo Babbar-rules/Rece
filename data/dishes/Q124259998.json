@@ -1,0 +1,20 @@
+{
+  "id": "Q124259998",
+  "name": "Dalpuri",
+  "description": "deep fried flatbread filled with lentils",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dalpuri-q124259998/dalpuri-q124259998-1.jpg",
+    "images/dalpuri-q124259998/dalpuri-q124259998-2.jpg",
+    "images/dalpuri-q124259998/dalpuri-q124259998-3.jpg",
+    "images/dalpuri-q124259998/dalpuri-q124259998-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124259998",
+    "themealdb": null
+  }
+}

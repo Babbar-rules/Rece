@@ -1,0 +1,24 @@
+{
+  "id": "Q12233354",
+  "name": "galayet bandora",
+  "description": "Levantine dish of tomatoes",
+  "nationality": [
+    "Jordan",
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Jordanian cuisine",
+    "Palestinian cuisine",
+    "Levantine cuisine"
+  ],
+  "images": [
+    "images/galayet-bandora-q12233354/galayet-bandora-q12233354-1.jpg",
+    "images/galayet-bandora-q12233354/galayet-bandora-q12233354-2.jpg",
+    "images/galayet-bandora-q12233354/galayet-bandora-q12233354-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12233354",
+    "themealdb": null
+  }
+}

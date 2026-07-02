@@ -1,0 +1,19 @@
+{
+  "id": "Q12273417",
+  "name": "Bob chorba",
+  "description": "Bulgarian bean soup",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bob-chorba-q12273417/bob-chorba-q12273417-1.jpeg",
+    "images/bob-chorba-q12273417/bob-chorba-q12273417-2.jpeg",
+    "images/bob-chorba-q12273417/bob-chorba-q12273417-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12273417",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q12311997",
+  "name": "Formad",
+  "description": "Danish meal",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/formad-q12311997/formad-q12311997-1.jpg",
+    "images/formad-q12311997/formad-q12311997-2.jpg",
+    "images/formad-q12311997/formad-q12311997-3.jpg",
+    "images/formad-q12311997/formad-q12311997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12311997",
+    "themealdb": null
+  }
+}

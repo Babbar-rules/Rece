@@ -1,0 +1,20 @@
+{
+  "id": "Q124351417",
+  "name": "estofado de San Juan",
+  "description": "Chilean stew",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/estofado-de-san-juan-q124351417/estofado-de-san-juan-q124351417-1.jpg",
+    "images/estofado-de-san-juan-q124351417/estofado-de-san-juan-q124351417-2.jpg",
+    "images/estofado-de-san-juan-q124351417/estofado-de-san-juan-q124351417-3.jpg",
+    "images/estofado-de-san-juan-q124351417/estofado-de-san-juan-q124351417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124351417",
+    "themealdb": null
+  }
+}

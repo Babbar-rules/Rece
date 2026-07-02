@@ -1,0 +1,20 @@
+{
+  "id": "Q123515778",
+  "name": "barriga de freira",
+  "description": "Portuguese egg dessert",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barriga-de-freira-q123515778/barriga-de-freira-q123515778-1.jpg",
+    "images/barriga-de-freira-q123515778/barriga-de-freira-q123515778-2.jpg",
+    "images/barriga-de-freira-q123515778/barriga-de-freira-q123515778-3.jpg",
+    "images/barriga-de-freira-q123515778/barriga-de-freira-q123515778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123515778",
+    "themealdb": null
+  }
+}

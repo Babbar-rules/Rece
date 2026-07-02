@@ -1,0 +1,21 @@
+{
+  "id": "Q122960549",
+  "name": "lechon",
+  "description": "suckling pig in Spanish- and Portuguese-speaking regions",
+  "nationality": [
+    "Spain",
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lechon-q122960549/lechon-q122960549-1.jpg",
+    "images/lechon-q122960549/lechon-q122960549-2.jpg",
+    "images/lechon-q122960549/lechon-q122960549-3.jpg",
+    "images/lechon-q122960549/lechon-q122960549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122960549",
+    "themealdb": null
+  }
+}

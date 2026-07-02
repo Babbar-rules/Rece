@@ -1,0 +1,18 @@
+{
+  "id": "Q1243043",
+  "name": "sandwich cookie",
+  "description": "cookies kept by two thin cookies or biscuits with filling in between",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sandwich-cookie-q1243043/sandwich-cookie-q1243043-1.jpg",
+    "images/sandwich-cookie-q1243043/sandwich-cookie-q1243043-2.jpg",
+    "images/sandwich-cookie-q1243043/sandwich-cookie-q1243043-3.jpg",
+    "images/sandwich-cookie-q1243043/sandwich-cookie-q1243043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1243043",
+    "themealdb": null
+  }
+}

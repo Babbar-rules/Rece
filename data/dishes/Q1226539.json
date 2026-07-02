@@ -1,0 +1,18 @@
+{
+  "id": "Q1226539",
+  "name": "Dinkelbread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dinkelbread-q1226539/dinkelbread-q1226539-1.jpg",
+    "images/dinkelbread-q1226539/dinkelbread-q1226539-2.jpg",
+    "images/dinkelbread-q1226539/dinkelbread-q1226539-3.jpg",
+    "images/dinkelbread-q1226539/dinkelbread-q1226539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1226539",
+    "themealdb": null
+  }
+}

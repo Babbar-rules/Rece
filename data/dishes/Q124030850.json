@@ -1,0 +1,17 @@
+{
+  "id": "Q124030850",
+  "name": "Pani Popo",
+  "description": "Samoan coconut bread",
+  "nationality": [
+    "Samoa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pani-popo-q124030850/pani-popo-q124030850-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124030850",
+    "themealdb": null
+  }
+}

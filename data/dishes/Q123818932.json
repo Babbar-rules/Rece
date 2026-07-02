@@ -1,0 +1,18 @@
+{
+  "id": "Q123818932",
+  "name": "cassava starch bread",
+  "description": "a sort of cassava bread made out of cassava starch",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cassava-starch-bread-q123818932/cassava-starch-bread-q123818932-1.jpg",
+    "images/cassava-starch-bread-q123818932/cassava-starch-bread-q123818932-2.jpg",
+    "images/cassava-starch-bread-q123818932/cassava-starch-bread-q123818932-3.jpg",
+    "images/cassava-starch-bread-q123818932/cassava-starch-bread-q123818932-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123818932",
+    "themealdb": null
+  }
+}

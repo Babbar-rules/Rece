@@ -1,0 +1,20 @@
+{
+  "id": "Q123298878",
+  "name": "Ají de lentejas",
+  "description": "Bolivian dish",
+  "nationality": [
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aji-de-lentejas-q123298878/aji-de-lentejas-q123298878-1.jpg",
+    "images/aji-de-lentejas-q123298878/aji-de-lentejas-q123298878-2.jpg",
+    "images/aji-de-lentejas-q123298878/aji-de-lentejas-q123298878-3.jpg",
+    "images/aji-de-lentejas-q123298878/aji-de-lentejas-q123298878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123298878",
+    "themealdb": null
+  }
+}

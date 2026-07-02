@@ -1,0 +1,20 @@
+{
+  "id": "Q123510977",
+  "name": "Randang porridge",
+  "description": "variations of typical Banjarese food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/randang-porridge-q123510977/randang-porridge-q123510977-1.jpg",
+    "images/randang-porridge-q123510977/randang-porridge-q123510977-2.jpg",
+    "images/randang-porridge-q123510977/randang-porridge-q123510977-3.jpg",
+    "images/randang-porridge-q123510977/randang-porridge-q123510977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123510977",
+    "themealdb": null
+  }
+}

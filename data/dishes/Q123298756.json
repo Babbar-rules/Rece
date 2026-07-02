@@ -1,0 +1,15 @@
+{
+  "id": "Q123298756",
+  "name": "Delicje Szampańskie",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/delicje-szampanskie-q123298756/delicje-szampanskie-q123298756-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123298756",
+    "themealdb": null
+  }
+}

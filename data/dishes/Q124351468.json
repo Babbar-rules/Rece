@@ -1,0 +1,20 @@
+{
+  "id": "Q124351468",
+  "name": "Ensalada de digüeñes",
+  "description": "Chilean salad",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ensalada-de-diguenes-q124351468/ensalada-de-diguenes-q124351468-1.jpg",
+    "images/ensalada-de-diguenes-q124351468/ensalada-de-diguenes-q124351468-2.jpg",
+    "images/ensalada-de-diguenes-q124351468/ensalada-de-diguenes-q124351468-3.jpg",
+    "images/ensalada-de-diguenes-q124351468/ensalada-de-diguenes-q124351468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q124351468",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q123090891",
+  "name": "chicken sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-sandwich-q123090891/chicken-sandwich-q123090891-1.jpg",
+    "images/chicken-sandwich-q123090891/chicken-sandwich-q123090891-2.jpg",
+    "images/chicken-sandwich-q123090891/chicken-sandwich-q123090891-3.jpg",
+    "images/chicken-sandwich-q123090891/chicken-sandwich-q123090891-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123090891",
+    "themealdb": null
+  }
+}

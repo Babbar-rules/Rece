@@ -1,0 +1,20 @@
+{
+  "id": "Q122417689",
+  "name": "Vapora",
+  "description": "Chilean soup",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vapora-q122417689/vapora-q122417689-1.jpg",
+    "images/vapora-q122417689/vapora-q122417689-2.jpg",
+    "images/vapora-q122417689/vapora-q122417689-3.jpg",
+    "images/vapora-q122417689/vapora-q122417689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122417689",
+    "themealdb": null
+  }
+}

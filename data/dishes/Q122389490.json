@@ -1,0 +1,20 @@
+{
+  "id": "Q122389490",
+  "name": "Turrón de vino",
+  "description": "dessert of Chilean gastronomy",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turron-de-vino-q122389490/turron-de-vino-q122389490-1.jpg",
+    "images/turron-de-vino-q122389490/turron-de-vino-q122389490-2.jpg",
+    "images/turron-de-vino-q122389490/turron-de-vino-q122389490-3.jpg",
+    "images/turron-de-vino-q122389490/turron-de-vino-q122389490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122389490",
+    "themealdb": null
+  }
+}

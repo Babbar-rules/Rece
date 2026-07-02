@@ -1,0 +1,20 @@
+{
+  "id": "Q122228524",
+  "name": "Babenda",
+  "description": "Burkinabe culinary specialty",
+  "nationality": [
+    "Burkina Faso"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/babenda-q122228524/babenda-q122228524-1.jpg",
+    "images/babenda-q122228524/babenda-q122228524-2.jpg",
+    "images/babenda-q122228524/babenda-q122228524-3.jpg",
+    "images/babenda-q122228524/babenda-q122228524-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122228524",
+    "themealdb": null
+  }
+}

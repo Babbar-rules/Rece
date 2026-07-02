@@ -1,0 +1,18 @@
+{
+  "id": "Q123277538",
+  "name": "boiled / roasted corn",
+  "description": "corn on the cob prepared on the grill or boiled in salted water",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boiled-roasted-corn-q123277538/boiled-roasted-corn-q123277538-1.jpg",
+    "images/boiled-roasted-corn-q123277538/boiled-roasted-corn-q123277538-2.jpg",
+    "images/boiled-roasted-corn-q123277538/boiled-roasted-corn-q123277538-3.jpg",
+    "images/boiled-roasted-corn-q123277538/boiled-roasted-corn-q123277538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123277538",
+    "themealdb": null
+  }
+}

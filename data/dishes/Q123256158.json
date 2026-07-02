@@ -1,0 +1,20 @@
+{
+  "id": "Q123256158",
+  "name": "Areias",
+  "description": "Portuguese sandie cake-like pastries",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/areias-q123256158/areias-q123256158-1.jpg",
+    "images/areias-q123256158/areias-q123256158-2.jpg",
+    "images/areias-q123256158/areias-q123256158-3.jpg",
+    "images/areias-q123256158/areias-q123256158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123256158",
+    "themealdb": null
+  }
+}

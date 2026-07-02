@@ -1,0 +1,18 @@
+{
+  "id": "Q12341730",
+  "name": "Yum yum",
+  "description": "convenience food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yum-yum-q12341730/yum-yum-q12341730-1.jpg",
+    "images/yum-yum-q12341730/yum-yum-q12341730-2.png",
+    "images/yum-yum-q12341730/yum-yum-q12341730-3.jpg",
+    "images/yum-yum-q12341730/yum-yum-q12341730-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12341730",
+    "themealdb": null
+  }
+}

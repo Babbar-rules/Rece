@@ -1,0 +1,20 @@
+{
+  "id": "Q12219245",
+  "name": "chorba frik",
+  "description": "traditional soup prepared in Algeria and Tunisia",
+  "nationality": [
+    "North Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chorba-frik-q12219245/chorba-frik-q12219245-1.jpg",
+    "images/chorba-frik-q12219245/chorba-frik-q12219245-2.jpg",
+    "images/chorba-frik-q12219245/chorba-frik-q12219245-3.jpg",
+    "images/chorba-frik-q12219245/chorba-frik-q12219245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12219245",
+    "themealdb": null
+  }
+}

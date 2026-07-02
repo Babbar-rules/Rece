@@ -1,0 +1,20 @@
+{
+  "id": "Q12314775",
+  "name": "Friesentorte",
+  "description": "",
+  "nationality": [
+    "Nordfriesland district"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/friesentorte-q12314775/friesentorte-q12314775-1.jpg",
+    "images/friesentorte-q12314775/friesentorte-q12314775-2.jpg",
+    "images/friesentorte-q12314775/friesentorte-q12314775-3.jpg",
+    "images/friesentorte-q12314775/friesentorte-q12314775-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12314775",
+    "themealdb": null
+  }
+}

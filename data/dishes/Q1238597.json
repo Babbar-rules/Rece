@@ -1,0 +1,21 @@
+{
+  "id": "Q1238597",
+  "name": "domoda",
+  "description": "Gambian peanut stew",
+  "nationality": [
+    "Senegal",
+    "The Gambia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/domoda-q1238597/domoda-q1238597-1.jpg",
+    "images/domoda-q1238597/domoda-q1238597-2.jpg",
+    "images/domoda-q1238597/domoda-q1238597-3.jpg",
+    "images/domoda-q1238597/domoda-q1238597-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1238597",
+    "themealdb": null
+  }
+}

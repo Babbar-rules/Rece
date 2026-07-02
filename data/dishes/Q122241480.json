@@ -1,0 +1,20 @@
+{
+  "id": "Q122241480",
+  "name": "gonza",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gonza-q122241480/gonza-q122241480-1.jpg",
+    "images/gonza-q122241480/gonza-q122241480-2.jpg",
+    "images/gonza-q122241480/gonza-q122241480-3.jpg",
+    "images/gonza-q122241480/gonza-q122241480-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122241480",
+    "themealdb": null
+  }
+}

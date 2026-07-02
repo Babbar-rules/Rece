@@ -1,0 +1,20 @@
+{
+  "id": "Q12366986",
+  "name": "kiluvõileib",
+  "description": "Estonian open-faced sprat sandwich",
+  "nationality": [
+    "Estonia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kiluvoileib-q12366986/kiluvoileib-q12366986-1.jpg",
+    "images/kiluvoileib-q12366986/kiluvoileib-q12366986-2.jpg",
+    "images/kiluvoileib-q12366986/kiluvoileib-q12366986-3.jpg",
+    "images/kiluvoileib-q12366986/kiluvoileib-q12366986-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12366986",
+    "themealdb": null
+  }
+}

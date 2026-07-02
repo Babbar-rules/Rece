@@ -1,0 +1,22 @@
+{
+  "id": "Q1232663",
+  "name": "Perepechi",
+  "description": "",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Udmurt cuisine"
+  ],
+  "images": [
+    "images/perepechi-q1232663/perepechi-q1232663-1.jpg",
+    "images/perepechi-q1232663/perepechi-q1232663-2.jpg",
+    "images/perepechi-q1232663/perepechi-q1232663-3.jpg",
+    "images/perepechi-q1232663/perepechi-q1232663-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1232663",
+    "themealdb": null
+  }
+}

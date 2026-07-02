@@ -1,0 +1,18 @@
+{
+  "id": "Q12417834",
+  "name": "Chicken karahi",
+  "description": "hallmark of Indian and Pakistani cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-karahi-q12417834/chicken-karahi-q12417834-1.jpg",
+    "images/chicken-karahi-q12417834/chicken-karahi-q12417834-2.jpg",
+    "images/chicken-karahi-q12417834/chicken-karahi-q12417834-3.jpg",
+    "images/chicken-karahi-q12417834/chicken-karahi-q12417834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12417834",
+    "themealdb": null
+  }
+}

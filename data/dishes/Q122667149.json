@@ -1,0 +1,20 @@
+{
+  "id": "Q122667149",
+  "name": "siu mei rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/siu-mei-rice-q122667149/siu-mei-rice-q122667149-1.jpg",
+    "images/siu-mei-rice-q122667149/siu-mei-rice-q122667149-2.jpg",
+    "images/siu-mei-rice-q122667149/siu-mei-rice-q122667149-3.jpg",
+    "images/siu-mei-rice-q122667149/siu-mei-rice-q122667149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q122667149",
+    "themealdb": null
+  }
+}

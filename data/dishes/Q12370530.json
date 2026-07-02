@@ -1,0 +1,19 @@
+{
+  "id": "Q12370530",
+  "name": "mulgipuder",
+  "description": "traditional dish that is consumed daily in the Mulgimaa region of Estonia",
+  "nationality": [
+    "Estonia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mulgipuder-q12370530/mulgipuder-q12370530-1.jpg",
+    "images/mulgipuder-q12370530/mulgipuder-q12370530-2.jpg",
+    "images/mulgipuder-q12370530/mulgipuder-q12370530-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12370530",
+    "themealdb": null
+  }
+}

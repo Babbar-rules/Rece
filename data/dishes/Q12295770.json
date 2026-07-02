@@ -1,0 +1,18 @@
+{
+  "id": "Q12295770",
+  "name": "meatball soup",
+  "description": "Type of soup made using meatballs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meatball-soup-q12295770/meatball-soup-q12295770-1.jpg",
+    "images/meatball-soup-q12295770/meatball-soup-q12295770-2.jpg",
+    "images/meatball-soup-q12295770/meatball-soup-q12295770-3.jpg",
+    "images/meatball-soup-q12295770/meatball-soup-q12295770-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12295770",
+    "themealdb": null
+  }
+}

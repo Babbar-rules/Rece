@@ -1,0 +1,21 @@
+{
+  "id": "Q12236278",
+  "name": "Knafeh Nabulsiyeh",
+  "description": "",
+  "nationality": [
+    "Palestine",
+    "Nablus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/knafeh-nabulsiyeh-q12236278/knafeh-nabulsiyeh-q12236278-1.jpg",
+    "images/knafeh-nabulsiyeh-q12236278/knafeh-nabulsiyeh-q12236278-2.png",
+    "images/knafeh-nabulsiyeh-q12236278/knafeh-nabulsiyeh-q12236278-3.jpg",
+    "images/knafeh-nabulsiyeh-q12236278/knafeh-nabulsiyeh-q12236278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12236278",
+    "themealdb": null
+  }
+}

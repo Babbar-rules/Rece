@@ -1,0 +1,20 @@
+{
+  "id": "Q123197340",
+  "name": "pão francês",
+  "description": "Brazilian bread roll",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pao-frances-q123197340/pao-frances-q123197340-1.jpg",
+    "images/pao-frances-q123197340/pao-frances-q123197340-2.jpg",
+    "images/pao-frances-q123197340/pao-frances-q123197340-3.jpg",
+    "images/pao-frances-q123197340/pao-frances-q123197340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q123197340",
+    "themealdb": null
+  }
+}
