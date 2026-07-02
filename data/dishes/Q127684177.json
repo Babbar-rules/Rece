@@ -1,0 +1,18 @@
+{
+  "id": "Q127684177",
+  "name": "Shrimp Boat Special",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-boat-special-q127684177/shrimp-boat-special-q127684177-1.jpg",
+    "images/shrimp-boat-special-q127684177/shrimp-boat-special-q127684177-2.jpg",
+    "images/shrimp-boat-special-q127684177/shrimp-boat-special-q127684177-3.jpg",
+    "images/shrimp-boat-special-q127684177/shrimp-boat-special-q127684177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684177",
+    "themealdb": null
+  }
+}

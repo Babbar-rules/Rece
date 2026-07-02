@@ -1,0 +1,18 @@
+{
+  "id": "Q127684234",
+  "name": "Black and Burgundy",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-and-burgundy-q127684234/black-and-burgundy-q127684234-1.jpg",
+    "images/black-and-burgundy-q127684234/black-and-burgundy-q127684234-2.jpg",
+    "images/black-and-burgundy-q127684234/black-and-burgundy-q127684234-3.jpg",
+    "images/black-and-burgundy-q127684234/black-and-burgundy-q127684234-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684234",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684163",
+  "name": "Flying Buffalo",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/flying-buffalo-q127684163/flying-buffalo-q127684163-1.jpg",
+    "images/flying-buffalo-q127684163/flying-buffalo-q127684163-2.png",
+    "images/flying-buffalo-q127684163/flying-buffalo-q127684163-3.jpg",
+    "images/flying-buffalo-q127684163/flying-buffalo-q127684163-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684163",
+    "themealdb": null
+  }
+}

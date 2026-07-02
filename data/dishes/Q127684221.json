@@ -1,0 +1,18 @@
+{
+  "id": "Q127684221",
+  "name": "Red Harvester",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/red-harvester-q127684221/red-harvester-q127684221-1.jpg",
+    "images/red-harvester-q127684221/red-harvester-q127684221-2.jpg",
+    "images/red-harvester-q127684221/red-harvester-q127684221-3.jpg",
+    "images/red-harvester-q127684221/red-harvester-q127684221-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684221",
+    "themealdb": null
+  }
+}

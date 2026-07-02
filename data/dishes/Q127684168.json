@@ -1,0 +1,18 @@
+{
+  "id": "Q127684168",
+  "name": "Hot Potato",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-potato-q127684168/hot-potato-q127684168-1.jpg",
+    "images/hot-potato-q127684168/hot-potato-q127684168-2.jpeg",
+    "images/hot-potato-q127684168/hot-potato-q127684168-3.jpg",
+    "images/hot-potato-q127684168/hot-potato-q127684168-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684168",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684271",
+  "name": "Surf & Turf",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/surf-turf-q127684271/surf-turf-q127684271-1.jpg",
+    "images/surf-turf-q127684271/surf-turf-q127684271-2.jpg",
+    "images/surf-turf-q127684271/surf-turf-q127684271-3.jpg",
+    "images/surf-turf-q127684271/surf-turf-q127684271-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684271",
+    "themealdb": null
+  }
+}

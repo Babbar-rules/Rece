@@ -1,0 +1,18 @@
+{
+  "id": "Q127684164",
+  "name": "Garlic Parmesan",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garlic-parmesan-q127684164/garlic-parmesan-q127684164-1.jpg",
+    "images/garlic-parmesan-q127684164/garlic-parmesan-q127684164-2.jpg",
+    "images/garlic-parmesan-q127684164/garlic-parmesan-q127684164-3.jpg",
+    "images/garlic-parmesan-q127684164/garlic-parmesan-q127684164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684164",
+    "themealdb": null
+  }
+}

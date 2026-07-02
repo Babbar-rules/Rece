@@ -1,0 +1,18 @@
+{
+  "id": "Q127684211",
+  "name": "Dynamite Sticks",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dynamite-sticks-q127684211/dynamite-sticks-q127684211-1.jpg",
+    "images/dynamite-sticks-q127684211/dynamite-sticks-q127684211-2.jpg",
+    "images/dynamite-sticks-q127684211/dynamite-sticks-q127684211-3.jpg",
+    "images/dynamite-sticks-q127684211/dynamite-sticks-q127684211-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684211",
+    "themealdb": null
+  }
+}

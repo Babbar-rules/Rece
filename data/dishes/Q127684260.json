@@ -1,0 +1,18 @@
+{
+  "id": "Q127684260",
+  "name": "Potato Puffs",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-puffs-q127684260/potato-puffs-q127684260-1.jpg",
+    "images/potato-puffs-q127684260/potato-puffs-q127684260-2.jpg",
+    "images/potato-puffs-q127684260/potato-puffs-q127684260-3.jpg",
+    "images/potato-puffs-q127684260/potato-puffs-q127684260-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684260",
+    "themealdb": null
+  }
+}

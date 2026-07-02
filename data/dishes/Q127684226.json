@@ -1,0 +1,18 @@
+{
+  "id": "Q127684226",
+  "name": "Sprinkler",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sprinkler-q127684226/sprinkler-q127684226-1.jpg",
+    "images/sprinkler-q127684226/sprinkler-q127684226-2.jpg",
+    "images/sprinkler-q127684226/sprinkler-q127684226-3.jpg",
+    "images/sprinkler-q127684226/sprinkler-q127684226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684226",
+    "themealdb": null
+  }
+}

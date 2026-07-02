@@ -1,0 +1,18 @@
+{
+  "id": "Q127684327",
+  "name": "Cheesy Chops",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheesy-chops-q127684327/cheesy-chops-q127684327-1.jpg",
+    "images/cheesy-chops-q127684327/cheesy-chops-q127684327-2.jpg",
+    "images/cheesy-chops-q127684327/cheesy-chops-q127684327-3.jpg",
+    "images/cheesy-chops-q127684327/cheesy-chops-q127684327-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684327",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684335",
+  "name": "Fish Fry",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-fry-q127684335/fish-fry-q127684335-1.jpg",
+    "images/fish-fry-q127684335/fish-fry-q127684335-2.jpg",
+    "images/fish-fry-q127684335/fish-fry-q127684335-3.jpg",
+    "images/fish-fry-q127684335/fish-fry-q127684335-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684335",
+    "themealdb": null
+  }
+}

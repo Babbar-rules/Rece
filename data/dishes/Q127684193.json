@@ -1,0 +1,18 @@
+{
+  "id": "Q127684193",
+  "name": "Blue Bonanza",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blue-bonanza-q127684193/blue-bonanza-q127684193-1.jpg",
+    "images/blue-bonanza-q127684193/blue-bonanza-q127684193-2.jpg",
+    "images/blue-bonanza-q127684193/blue-bonanza-q127684193-3.jpg",
+    "images/blue-bonanza-q127684193/blue-bonanza-q127684193-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684193",
+    "themealdb": null
+  }
+}

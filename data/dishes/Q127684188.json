@@ -1,0 +1,16 @@
+{
+  "id": "Q127684188",
+  "name": "Tofu Tandoori",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-tandoori-q127684188/tofu-tandoori-q127684188-1.jpg",
+    "images/tofu-tandoori-q127684188/tofu-tandoori-q127684188-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684188",
+    "themealdb": null
+  }
+}

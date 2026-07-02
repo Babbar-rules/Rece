@@ -1,0 +1,18 @@
+{
+  "id": "Q127684210",
+  "name": "Drizzle Dones",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/drizzle-dones-q127684210/drizzle-dones-q127684210-1.jpg",
+    "images/drizzle-dones-q127684210/drizzle-dones-q127684210-2.jpg",
+    "images/drizzle-dones-q127684210/drizzle-dones-q127684210-3.jpg",
+    "images/drizzle-dones-q127684210/drizzle-dones-q127684210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684210",
+    "themealdb": null
+  }
+}

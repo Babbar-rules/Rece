@@ -1,0 +1,18 @@
+{
+  "id": "Q127684203",
+  "name": "Cupid's Catch",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cupids-catch-q127684203/cupids-catch-q127684203-1.jpg",
+    "images/cupids-catch-q127684203/cupids-catch-q127684203-2.jpg",
+    "images/cupids-catch-q127684203/cupids-catch-q127684203-3.jpg",
+    "images/cupids-catch-q127684203/cupids-catch-q127684203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684203",
+    "themealdb": null
+  }
+}

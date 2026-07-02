@@ -1,0 +1,18 @@
+{
+  "id": "Q127684333",
+  "name": "Farmers Market",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/farmers-market-q127684333/farmers-market-q127684333-1.jpg",
+    "images/farmers-market-q127684333/farmers-market-q127684333-2.jpg",
+    "images/farmers-market-q127684333/farmers-market-q127684333-3.jpg",
+    "images/farmers-market-q127684333/farmers-market-q127684333-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684333",
+    "themealdb": null
+  }
+}

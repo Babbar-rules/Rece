@@ -1,0 +1,17 @@
+{
+  "id": "Q127684272",
+  "name": "Tre Amici",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tre-amici-q127684272/tre-amici-q127684272-1.jpg",
+    "images/tre-amici-q127684272/tre-amici-q127684272-2.jpg",
+    "images/tre-amici-q127684272/tre-amici-q127684272-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684272",
+    "themealdb": null
+  }
+}

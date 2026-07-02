@@ -1,0 +1,18 @@
+{
+  "id": "Q127684170",
+  "name": "Jubilee Chicken",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jubilee-chicken-q127684170/jubilee-chicken-q127684170-1.jpg",
+    "images/jubilee-chicken-q127684170/jubilee-chicken-q127684170-2.jpg",
+    "images/jubilee-chicken-q127684170/jubilee-chicken-q127684170-3.jpg",
+    "images/jubilee-chicken-q127684170/jubilee-chicken-q127684170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684170",
+    "themealdb": null
+  }
+}

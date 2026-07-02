@@ -1,0 +1,18 @@
+{
+  "id": "Q127684224",
+  "name": "So Very Strawberry",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/so-very-strawberry-q127684224/so-very-strawberry-q127684224-1.jpg",
+    "images/so-very-strawberry-q127684224/so-very-strawberry-q127684224-2.jpg",
+    "images/so-very-strawberry-q127684224/so-very-strawberry-q127684224-3.jpg",
+    "images/so-very-strawberry-q127684224/so-very-strawberry-q127684224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684224",
+    "themealdb": null
+  }
+}

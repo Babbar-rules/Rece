@@ -1,0 +1,18 @@
+{
+  "id": "Q127684225",
+  "name": "Sprinkle Squasher",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sprinkle-squasher-q127684225/sprinkle-squasher-q127684225-1.jpg",
+    "images/sprinkle-squasher-q127684225/sprinkle-squasher-q127684225-2.jpg",
+    "images/sprinkle-squasher-q127684225/sprinkle-squasher-q127684225-3.jpg",
+    "images/sprinkle-squasher-q127684225/sprinkle-squasher-q127684225-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684225",
+    "themealdb": null
+  }
+}

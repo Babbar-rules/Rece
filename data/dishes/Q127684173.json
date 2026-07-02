@@ -1,0 +1,18 @@
+{
+  "id": "Q127684173",
+  "name": "Pepper Platter",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pepper-platter-q127684173/pepper-platter-q127684173-1.jpg",
+    "images/pepper-platter-q127684173/pepper-platter-q127684173-2.jpg",
+    "images/pepper-platter-q127684173/pepper-platter-q127684173-3.jpg",
+    "images/pepper-platter-q127684173/pepper-platter-q127684173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684173",
+    "themealdb": null
+  }
+}

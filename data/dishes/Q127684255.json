@@ -1,0 +1,18 @@
+{
+  "id": "Q127684255",
+  "name": "Papa Polenta",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papa-polenta-q127684255/papa-polenta-q127684255-1.jpg",
+    "images/papa-polenta-q127684255/papa-polenta-q127684255-2.jpg",
+    "images/papa-polenta-q127684255/papa-polenta-q127684255-3.jpg",
+    "images/papa-polenta-q127684255/papa-polenta-q127684255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684255",
+    "themealdb": null
+  }
+}

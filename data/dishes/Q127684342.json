@@ -1,0 +1,15 @@
+{
+  "id": "Q127684342",
+  "name": "Kickin' Chicken",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kickin-chicken-q127684342/kickin-chicken-q127684342-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684342",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q127684236",
+  "name": "Chicken Capellini",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-capellini-q127684236/chicken-capellini-q127684236-1.jpg",
+    "images/chicken-capellini-q127684236/chicken-capellini-q127684236-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684236",
+    "themealdb": null
+  }
+}

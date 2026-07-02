@@ -1,0 +1,18 @@
+{
+  "id": "Q127684248",
+  "name": "Gondola Garden",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gondola-garden-q127684248/gondola-garden-q127684248-1.jpg",
+    "images/gondola-garden-q127684248/gondola-garden-q127684248-2.jpg",
+    "images/gondola-garden-q127684248/gondola-garden-q127684248-3.jpg",
+    "images/gondola-garden-q127684248/gondola-garden-q127684248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684248",
+    "themealdb": null
+  }
+}

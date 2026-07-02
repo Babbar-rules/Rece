@@ -1,0 +1,18 @@
+{
+  "id": "Q127684189",
+  "name": "Veggie Platter",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veggie-platter-q127684189/veggie-platter-q127684189-1.jpg",
+    "images/veggie-platter-q127684189/veggie-platter-q127684189-2.jpg",
+    "images/veggie-platter-q127684189/veggie-platter-q127684189-3.jpg",
+    "images/veggie-platter-q127684189/veggie-platter-q127684189-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684189",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q127684167",
+  "name": "Holy Guacamole",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/holy-guacamole-q127684167/holy-guacamole-q127684167-1.jpg",
+    "images/holy-guacamole-q127684167/holy-guacamole-q127684167-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684167",
+    "themealdb": null
+  }
+}

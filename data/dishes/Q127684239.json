@@ -1,0 +1,16 @@
+{
+  "id": "Q127684239",
+  "name": "Creamy Portobello",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creamy-portobello-q127684239/creamy-portobello-q127684239-1.jpg",
+    "images/creamy-portobello-q127684239/creamy-portobello-q127684239-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684239",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684252",
+  "name": "Mediterranean Marinara",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mediterranean-marinara-q127684252/mediterranean-marinara-q127684252-1.jpg",
+    "images/mediterranean-marinara-q127684252/mediterranean-marinara-q127684252-2.png",
+    "images/mediterranean-marinara-q127684252/mediterranean-marinara-q127684252-3.png",
+    "images/mediterranean-marinara-q127684252/mediterranean-marinara-q127684252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684252",
+    "themealdb": null
+  }
+}

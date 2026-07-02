@@ -1,0 +1,18 @@
+{
+  "id": "Q127684180",
+  "name": "Spicy Skewers",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spicy-skewers-q127684180/spicy-skewers-q127684180-1.jpg",
+    "images/spicy-skewers-q127684180/spicy-skewers-q127684180-2.jpg",
+    "images/spicy-skewers-q127684180/spicy-skewers-q127684180-3.jpg",
+    "images/spicy-skewers-q127684180/spicy-skewers-q127684180-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684180",
+    "themealdb": null
+  }
+}

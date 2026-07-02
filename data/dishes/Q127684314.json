@@ -1,0 +1,18 @@
+{
+  "id": "Q127684314",
+  "name": "Bacon Bomb",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-bomb-q127684314/bacon-bomb-q127684314-1.jpg",
+    "images/bacon-bomb-q127684314/bacon-bomb-q127684314-2.jpg",
+    "images/bacon-bomb-q127684314/bacon-bomb-q127684314-3.jpg",
+    "images/bacon-bomb-q127684314/bacon-bomb-q127684314-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684314",
+    "themealdb": null
+  }
+}

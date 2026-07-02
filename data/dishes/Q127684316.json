@@ -1,0 +1,18 @@
+{
+  "id": "Q127684316",
+  "name": "Battered Barbecue",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/battered-barbecue-q127684316/battered-barbecue-q127684316-1.jpg",
+    "images/battered-barbecue-q127684316/battered-barbecue-q127684316-2.jpg",
+    "images/battered-barbecue-q127684316/battered-barbecue-q127684316-3.jpg",
+    "images/battered-barbecue-q127684316/battered-barbecue-q127684316-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684316",
+    "themealdb": null
+  }
+}

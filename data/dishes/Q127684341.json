@@ -1,0 +1,18 @@
+{
+  "id": "Q127684341",
+  "name": "Katsu Sando",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/katsu-sando-q127684341/katsu-sando-q127684341-1.jpg",
+    "images/katsu-sando-q127684341/katsu-sando-q127684341-2.jpg",
+    "images/katsu-sando-q127684341/katsu-sando-q127684341-3.jpg",
+    "images/katsu-sando-q127684341/katsu-sando-q127684341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684341",
+    "themealdb": null
+  }
+}

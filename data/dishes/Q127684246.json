@@ -1,0 +1,18 @@
+{
+  "id": "Q127684246",
+  "name": "Frutti di Mare",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frutti-di-mare-q127684246/frutti-di-mare-q127684246-1.jpg",
+    "images/frutti-di-mare-q127684246/frutti-di-mare-q127684246-2.jpg",
+    "images/frutti-di-mare-q127684246/frutti-di-mare-q127684246-3.jpg",
+    "images/frutti-di-mare-q127684246/frutti-di-mare-q127684246-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684246",
+    "themealdb": null
+  }
+}

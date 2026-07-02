@@ -1,0 +1,18 @@
+{
+  "id": "Q127684334",
+  "name": "Fischbrötchen",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fischbrotchen-q127684334/fischbrotchen-q127684334-1.jpg",
+    "images/fischbrotchen-q127684334/fischbrotchen-q127684334-2.jpg",
+    "images/fischbrotchen-q127684334/fischbrotchen-q127684334-3.jpg",
+    "images/fischbrotchen-q127684334/fischbrotchen-q127684334-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684334",
+    "themealdb": null
+  }
+}

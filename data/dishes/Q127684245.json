@@ -1,0 +1,18 @@
+{
+  "id": "Q127684245",
+  "name": "Fra Diavolo",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fra-diavolo-q127684245/fra-diavolo-q127684245-1.jpg",
+    "images/fra-diavolo-q127684245/fra-diavolo-q127684245-2.jpg",
+    "images/fra-diavolo-q127684245/fra-diavolo-q127684245-3.jpg",
+    "images/fra-diavolo-q127684245/fra-diavolo-q127684245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684245",
+    "themealdb": null
+  }
+}

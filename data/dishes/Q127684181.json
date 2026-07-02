@@ -1,0 +1,16 @@
+{
+  "id": "Q127684181",
+  "name": "Sunny Sampler",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sunny-sampler-q127684181/sunny-sampler-q127684181-1.jpg",
+    "images/sunny-sampler-q127684181/sunny-sampler-q127684181-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684181",
+    "themealdb": null
+  }
+}

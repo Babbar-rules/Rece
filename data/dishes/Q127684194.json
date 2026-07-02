@@ -1,0 +1,18 @@
+{
+  "id": "Q127684194",
+  "name": "Blueberry Bash",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blueberry-bash-q127684194/blueberry-bash-q127684194-1.jpg",
+    "images/blueberry-bash-q127684194/blueberry-bash-q127684194-2.jpg",
+    "images/blueberry-bash-q127684194/blueberry-bash-q127684194-3.jpg",
+    "images/blueberry-bash-q127684194/blueberry-bash-q127684194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684194",
+    "themealdb": null
+  }
+}

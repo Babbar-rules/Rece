@@ -1,0 +1,18 @@
+{
+  "id": "Q127684325",
+  "name": "Cemita Poblana",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cemita-poblana-q127684325/cemita-poblana-q127684325-1.jpg",
+    "images/cemita-poblana-q127684325/cemita-poblana-q127684325-2.jpg",
+    "images/cemita-poblana-q127684325/cemita-poblana-q127684325-3.jpg",
+    "images/cemita-poblana-q127684325/cemita-poblana-q127684325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684325",
+    "themealdb": null
+  }
+}

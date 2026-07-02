@@ -1,0 +1,18 @@
+{
+  "id": "Q127684198",
+  "name": "Chocolate Éclair",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-eclair-q127684198/chocolate-eclair-q127684198-1.png",
+    "images/chocolate-eclair-q127684198/chocolate-eclair-q127684198-2.jpg",
+    "images/chocolate-eclair-q127684198/chocolate-eclair-q127684198-3.jpg",
+    "images/chocolate-eclair-q127684198/chocolate-eclair-q127684198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684198",
+    "themealdb": null
+  }
+}

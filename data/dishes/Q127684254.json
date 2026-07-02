@@ -1,0 +1,18 @@
+{
+  "id": "Q127684254",
+  "name": "Mushroom Farfalle",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mushroom-farfalle-q127684254/mushroom-farfalle-q127684254-1.jpg",
+    "images/mushroom-farfalle-q127684254/mushroom-farfalle-q127684254-2.jpg",
+    "images/mushroom-farfalle-q127684254/mushroom-farfalle-q127684254-3.jpg",
+    "images/mushroom-farfalle-q127684254/mushroom-farfalle-q127684254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684254",
+    "themealdb": null
+  }
+}

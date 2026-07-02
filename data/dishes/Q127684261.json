@@ -1,0 +1,18 @@
+{
+  "id": "Q127684261",
+  "name": "Prawn King",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prawn-king-q127684261/prawn-king-q127684261-1.jpg",
+    "images/prawn-king-q127684261/prawn-king-q127684261-2.jpg",
+    "images/prawn-king-q127684261/prawn-king-q127684261-3.jpg",
+    "images/prawn-king-q127684261/prawn-king-q127684261-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684261",
+    "themealdb": null
+  }
+}

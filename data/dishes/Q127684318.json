@@ -1,0 +1,18 @@
+{
+  "id": "Q127684318",
+  "name": "Big Bavarian",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-bavarian-q127684318/big-bavarian-q127684318-1.jpg",
+    "images/big-bavarian-q127684318/big-bavarian-q127684318-2.jpg",
+    "images/big-bavarian-q127684318/big-bavarian-q127684318-3.jpg",
+    "images/big-bavarian-q127684318/big-bavarian-q127684318-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684318",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q127684268",
+  "name": "Spaghetti Starter",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-starter-q127684268/spaghetti-starter-q127684268-1.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684268",
+    "themealdb": null
+  }
+}

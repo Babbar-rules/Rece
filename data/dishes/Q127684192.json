@@ -1,0 +1,18 @@
+{
+  "id": "Q127684192",
+  "name": "Berry Berliners",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/berry-berliners-q127684192/berry-berliners-q127684192-1.jpg",
+    "images/berry-berliners-q127684192/berry-berliners-q127684192-2.jpg",
+    "images/berry-berliners-q127684192/berry-berliners-q127684192-3.jpg",
+    "images/berry-berliners-q127684192/berry-berliners-q127684192-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684192",
+    "themealdb": null
+  }
+}

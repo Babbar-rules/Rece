@@ -1,0 +1,18 @@
+{
+  "id": "Q127684324",
+  "name": "Catch of the Day",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/catch-of-the-day-q127684324/catch-of-the-day-q127684324-1.jpg",
+    "images/catch-of-the-day-q127684324/catch-of-the-day-q127684324-2.jpg",
+    "images/catch-of-the-day-q127684324/catch-of-the-day-q127684324-3.jpg",
+    "images/catch-of-the-day-q127684324/catch-of-the-day-q127684324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684324",
+    "themealdb": null
+  }
+}

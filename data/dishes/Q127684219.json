@@ -1,0 +1,18 @@
+{
+  "id": "Q127684219",
+  "name": "Neapolitan Trio",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/neapolitan-trio-q127684219/neapolitan-trio-q127684219-1.jpg",
+    "images/neapolitan-trio-q127684219/neapolitan-trio-q127684219-2.jpg",
+    "images/neapolitan-trio-q127684219/neapolitan-trio-q127684219-3.jpg",
+    "images/neapolitan-trio-q127684219/neapolitan-trio-q127684219-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684219",
+    "themealdb": null
+  }
+}

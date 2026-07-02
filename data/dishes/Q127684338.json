@@ -1,0 +1,18 @@
+{
+  "id": "Q127684338",
+  "name": "Honey Mushroom",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/honey-mushroom-q127684338/honey-mushroom-q127684338-1.jpg",
+    "images/honey-mushroom-q127684338/honey-mushroom-q127684338-2.jpg",
+    "images/honey-mushroom-q127684338/honey-mushroom-q127684338-3.jpg",
+    "images/honey-mushroom-q127684338/honey-mushroom-q127684338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684338",
+    "themealdb": null
+  }
+}

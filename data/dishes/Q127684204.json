@@ -1,0 +1,18 @@
+{
+  "id": "Q127684204",
+  "name": "Death By Chocolate",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/death-by-chocolate-q127684204/death-by-chocolate-q127684204-1.jpg",
+    "images/death-by-chocolate-q127684204/death-by-chocolate-q127684204-2.jpg",
+    "images/death-by-chocolate-q127684204/death-by-chocolate-q127684204-3.jpg",
+    "images/death-by-chocolate-q127684204/death-by-chocolate-q127684204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684204",
+    "themealdb": null
+  }
+}

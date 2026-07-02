@@ -1,0 +1,18 @@
+{
+  "id": "Q127684235",
+  "name": "Cheesy Mac",
+  "description": "Papa's Pastaria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheesy-mac-q127684235/cheesy-mac-q127684235-1.jpg",
+    "images/cheesy-mac-q127684235/cheesy-mac-q127684235-2.jpg",
+    "images/cheesy-mac-q127684235/cheesy-mac-q127684235-3.jpg",
+    "images/cheesy-mac-q127684235/cheesy-mac-q127684235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684235",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684176",
+  "name": "Scarlet Pepper",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/scarlet-pepper-q127684176/scarlet-pepper-q127684176-1.jpg",
+    "images/scarlet-pepper-q127684176/scarlet-pepper-q127684176-2.jpg",
+    "images/scarlet-pepper-q127684176/scarlet-pepper-q127684176-3.jpg",
+    "images/scarlet-pepper-q127684176/scarlet-pepper-q127684176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684176",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684206",
+  "name": "Donuts 101",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/donuts-101-q127684206/donuts-101-q127684206-1.jpg",
+    "images/donuts-101-q127684206/donuts-101-q127684206-2.jpg",
+    "images/donuts-101-q127684206/donuts-101-q127684206-3.jpg",
+    "images/donuts-101-q127684206/donuts-101-q127684206-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684206",
+    "themealdb": null
+  }
+}

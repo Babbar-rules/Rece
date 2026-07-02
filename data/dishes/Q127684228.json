@@ -1,0 +1,18 @@
+{
+  "id": "Q127684228",
+  "name": "Triple Treat",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/triple-treat-q127684228/triple-treat-q127684228-1.gif",
+    "images/triple-treat-q127684228/triple-treat-q127684228-2.jpg",
+    "images/triple-treat-q127684228/triple-treat-q127684228-3.jpg",
+    "images/triple-treat-q127684228/triple-treat-q127684228-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684228",
+    "themealdb": null
+  }
+}

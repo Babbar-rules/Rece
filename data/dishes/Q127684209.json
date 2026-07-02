@@ -1,0 +1,18 @@
+{
+  "id": "Q127684209",
+  "name": "Dream Machine",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dream-machine-q127684209/dream-machine-q127684209-1.jpg",
+    "images/dream-machine-q127684209/dream-machine-q127684209-2.jpg",
+    "images/dream-machine-q127684209/dream-machine-q127684209-3.jpg",
+    "images/dream-machine-q127684209/dream-machine-q127684209-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684209",
+    "themealdb": null
+  }
+}

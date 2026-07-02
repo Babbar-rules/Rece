@@ -1,0 +1,18 @@
+{
+  "id": "Q127684190",
+  "name": "World Wide Wings",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/world-wide-wings-q127684190/world-wide-wings-q127684190-1.jpg",
+    "images/world-wide-wings-q127684190/world-wide-wings-q127684190-2.jpg",
+    "images/world-wide-wings-q127684190/world-wide-wings-q127684190-3.jpg",
+    "images/world-wide-wings-q127684190/world-wide-wings-q127684190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684190",
+    "themealdb": null
+  }
+}

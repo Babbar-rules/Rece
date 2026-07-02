@@ -1,0 +1,18 @@
+{
+  "id": "Q127684213",
+  "name": "Fryer Feast",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fryer-feast-q127684213/fryer-feast-q127684213-1.jpg",
+    "images/fryer-feast-q127684213/fryer-feast-q127684213-2.jpg",
+    "images/fryer-feast-q127684213/fryer-feast-q127684213-3.jpg",
+    "images/fryer-feast-q127684213/fryer-feast-q127684213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684213",
+    "themealdb": null
+  }
+}

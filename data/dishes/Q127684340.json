@@ -1,0 +1,18 @@
+{
+  "id": "Q127684340",
+  "name": "Jägerschnitzel",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jagerschnitzel-q127684340/jagerschnitzel-q127684340-1.jpg",
+    "images/jagerschnitzel-q127684340/jagerschnitzel-q127684340-2.jpg",
+    "images/jagerschnitzel-q127684340/jagerschnitzel-q127684340-3.jpg",
+    "images/jagerschnitzel-q127684340/jagerschnitzel-q127684340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684340",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684220",
+  "name": "Powder Point",
+  "description": "Papa's Donuteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/powder-point-q127684220/powder-point-q127684220-1.jpg",
+    "images/powder-point-q127684220/powder-point-q127684220-2.jpg",
+    "images/powder-point-q127684220/powder-point-q127684220-3.jpg",
+    "images/powder-point-q127684220/powder-point-q127684220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684220",
+    "themealdb": null
+  }
+}

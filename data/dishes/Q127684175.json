@@ -1,0 +1,18 @@
+{
+  "id": "Q127684175",
+  "name": "Royal Roundabout",
+  "description": "Papa's Wingeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/royal-roundabout-q127684175/royal-roundabout-q127684175-1.jpg",
+    "images/royal-roundabout-q127684175/royal-roundabout-q127684175-2.jpg",
+    "images/royal-roundabout-q127684175/royal-roundabout-q127684175-3.jpg",
+    "images/royal-roundabout-q127684175/royal-roundabout-q127684175-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684175",
+    "themealdb": null
+  }
+}
