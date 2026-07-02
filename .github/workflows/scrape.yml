@@ -1,0 +1,104 @@
+name: Scrape world dishes
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Safety-net daily kick in case a chain ever stops.
+    - cron: "0 3 * * *"
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write        # commit data back
+  actions: write         # allow this run to re-trigger itself
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330            # under the 6h hard cap
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Process in small chunks, committing after each so a kill loses almost
+      # nothing. Stop the loop ~5h in to leave headroom under the 6h cap.
+      - name: Scrape (chunked, incremental commits)
+        run: |
+          DEADLINE=$(( $(date +%s) + 5*3600 ))
+          while [ "$(date +%s)" -lt "$DEADLINE" ]; do
+            python -m scraper.main --max 150 --time-budget 900
+
+            git add data/
+            if ! git diff --staged --quiet; then
+              git commit -m "data: chunk $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+              # Retry push in case another run committed meanwhile.
+              git pull --rebase --autostash || true
+              git push || true
+            fi
+
+            if [ "$(cat data/.complete 2>/dev/null)" = "yes" ]; then
+              echo "All dishes processed. Done."
+              exit 0
+            fi
+          done
+          echo "Time budget hit; will re-trigger to continue."
+
+      # Refresh dataset stats, commit them, and show them in the run summary.
+      - name: Update stats
+        if: ${{ always() }}
+        run: |
+          python -m scraper.stats >> "$GITHUB_STEP_SUMMARY"
+          git add data/stats.json
+          if ! git diff --staged --quiet; then
+            git commit -m "data: stats $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase --autostash || true
+            git push || true
+          fi
+
+      # Not finished within this run -> start a fresh run to continue the chain.
+      - name: Re-trigger to continue
+        if: ${{ hashFiles('data/.complete') != '' }}
+        run: |
+          if [ "$(cat data/.complete)" != "yes" ]; then
+            gh workflow run "${{ github.workflow }}" --ref "${{ github.ref_name }}"
+            echo "Re-triggered next run."
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  # Open (or reuse) a tracking issue if the scrape job fails.
+  alert-on-failure:
+    needs: scrape
+    if: ${{ failure() }}
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Open or update failure issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Scrape run failed"
+          BODY="Automated scrape failed. Run: $RUN_URL ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" \
+            --json number --jq '.[0].number' || echo "")
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY" --label scraper || \
+            gh issue create --title "$TITLE" --body "$BODY"
+          fi
