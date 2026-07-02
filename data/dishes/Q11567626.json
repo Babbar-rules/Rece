@@ -1,0 +1,18 @@
+{
+  "id": "Q11567626",
+  "name": "yakidofu",
+  "description": "Japanese food item",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yakidofu-q11567626/yakidofu-q11567626-1.jpg",
+    "images/yakidofu-q11567626/yakidofu-q11567626-2.jpg",
+    "images/yakidofu-q11567626/yakidofu-q11567626-3.jpg",
+    "images/yakidofu-q11567626/yakidofu-q11567626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567626",
+    "themealdb": null
+  }
+}

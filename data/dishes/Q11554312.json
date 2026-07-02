@@ -1,0 +1,18 @@
+{
+  "id": "Q11554312",
+  "name": "cracklings",
+  "description": "snack foods of various countries made of grilled scraps of fat and animal skin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cracklings-q11554312/cracklings-q11554312-1.jpg",
+    "images/cracklings-q11554312/cracklings-q11554312-2.jpg",
+    "images/cracklings-q11554312/cracklings-q11554312-3.jpg",
+    "images/cracklings-q11554312/cracklings-q11554312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11554312",
+    "themealdb": null
+  }
+}

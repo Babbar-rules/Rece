@@ -1,0 +1,22 @@
+{
+  "id": "Q115663659",
+  "name": "French hotdog",
+  "description": "regional variation of hot dog",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [
+    "Danish cuisine"
+  ],
+  "images": [
+    "images/french-hotdog-q115663659/french-hotdog-q115663659-1.jpg",
+    "images/french-hotdog-q115663659/french-hotdog-q115663659-2.jpg",
+    "images/french-hotdog-q115663659/french-hotdog-q115663659-3.jpg",
+    "images/french-hotdog-q115663659/french-hotdog-q115663659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115663659",
+    "themealdb": null
+  }
+}

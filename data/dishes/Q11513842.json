@@ -1,0 +1,15 @@
+{
+  "id": "Q11513842",
+  "name": "harusame noodles",
+  "description": "Japanese instant soup with cellophane noodles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/harusame-noodles-q11513842/harusame-noodles-q11513842-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11513842",
+    "themealdb": null
+  }
+}

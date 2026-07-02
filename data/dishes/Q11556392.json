@@ -1,0 +1,18 @@
+{
+  "id": "Q11556392",
+  "name": "Tsugaru ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tsugaru-ramen-q11556392/tsugaru-ramen-q11556392-1.jpg",
+    "images/tsugaru-ramen-q11556392/tsugaru-ramen-q11556392-2.jpg",
+    "images/tsugaru-ramen-q11556392/tsugaru-ramen-q11556392-3.jpg",
+    "images/tsugaru-ramen-q11556392/tsugaru-ramen-q11556392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11556392",
+    "themealdb": null
+  }
+}

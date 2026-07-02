@@ -1,0 +1,20 @@
+{
+  "id": "Q11517918",
+  "name": "konohadon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/konohadon-q11517918/konohadon-q11517918-1.jpg",
+    "images/konohadon-q11517918/konohadon-q11517918-2.jpg",
+    "images/konohadon-q11517918/konohadon-q11517918-3.jpg",
+    "images/konohadon-q11517918/konohadon-q11517918-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11517918",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11509654",
+  "name": "GooTa",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goota-q11509654/goota-q11509654-1.jpg",
+    "images/goota-q11509654/goota-q11509654-2.jpg",
+    "images/goota-q11509654/goota-q11509654-3.jpg",
+    "images/goota-q11509654/goota-q11509654-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11509654",
+    "themealdb": null
+  }
+}

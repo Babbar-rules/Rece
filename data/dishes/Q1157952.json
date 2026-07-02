@@ -1,0 +1,18 @@
+{
+  "id": "Q1157952",
+  "name": "Lívance",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/livance-q1157952/livance-q1157952-1.jpg",
+    "images/livance-q1157952/livance-q1157952-2.jpg",
+    "images/livance-q1157952/livance-q1157952-3.jpg",
+    "images/livance-q1157952/livance-q1157952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1157952",
+    "themealdb": null
+  }
+}

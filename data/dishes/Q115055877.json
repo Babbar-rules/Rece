@@ -1,0 +1,18 @@
+{
+  "id": "Q115055877",
+  "name": "Jhal",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jhal-q115055877/jhal-q115055877-1.jpg",
+    "images/jhal-q115055877/jhal-q115055877-2.jpg",
+    "images/jhal-q115055877/jhal-q115055877-3.jpg",
+    "images/jhal-q115055877/jhal-q115055877-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115055877",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q115125851",
+  "name": "kugini",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kugini-q115125851/kugini-q115125851-1.jpg",
+    "images/kugini-q115125851/kugini-q115125851-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115125851",
+    "themealdb": null
+  }
+}

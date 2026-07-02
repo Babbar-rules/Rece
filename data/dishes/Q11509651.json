@@ -1,0 +1,20 @@
+{
+  "id": "Q11509651",
+  "name": "Nissin Raō",
+  "description": "Japanese instant noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nissin-rao-q11509651/nissin-rao-q11509651-1.jpg",
+    "images/nissin-rao-q11509651/nissin-rao-q11509651-2.jpg",
+    "images/nissin-rao-q11509651/nissin-rao-q11509651-3.jpg",
+    "images/nissin-rao-q11509651/nissin-rao-q11509651-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11509651",
+    "themealdb": null
+  }
+}

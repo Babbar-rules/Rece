@@ -1,0 +1,20 @@
+{
+  "id": "Q115515499",
+  "name": "Gâteau au vin",
+  "description": "Swiss tart filled with a mixture of sugar and reduced white wine",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-au-vin-q115515499/gateau-au-vin-q115515499-1.jpg",
+    "images/gateau-au-vin-q115515499/gateau-au-vin-q115515499-2.jpg",
+    "images/gateau-au-vin-q115515499/gateau-au-vin-q115515499-3.jpg",
+    "images/gateau-au-vin-q115515499/gateau-au-vin-q115515499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115515499",
+    "themealdb": null
+  }
+}

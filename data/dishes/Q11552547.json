@@ -1,0 +1,18 @@
+{
+  "id": "Q11552547",
+  "name": "Okizuke",
+  "description": "seafood marinated in soy sauce",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/okizuke-q11552547/okizuke-q11552547-1.jpg",
+    "images/okizuke-q11552547/okizuke-q11552547-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11552547",
+    "themealdb": null
+  }
+}

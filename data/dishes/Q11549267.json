@@ -1,0 +1,17 @@
+{
+  "id": "Q11549267",
+  "name": "suigun nabe",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Suigun cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11549267",
+    "themealdb": null
+  }
+}

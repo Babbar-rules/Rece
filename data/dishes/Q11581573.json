@@ -1,0 +1,18 @@
+{
+  "id": "Q11581573",
+  "name": "medamayakidon",
+  "description": "Japanese rice dish of sunny-side up",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/medamayakidon-q11581573/medamayakidon-q11581573-1.jpg",
+    "images/medamayakidon-q11581573/medamayakidon-q11581573-2.jpg",
+    "images/medamayakidon-q11581573/medamayakidon-q11581573-3.jpg",
+    "images/medamayakidon-q11581573/medamayakidon-q11581573-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11581573",
+    "themealdb": null
+  }
+}

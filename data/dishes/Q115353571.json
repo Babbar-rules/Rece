@@ -1,0 +1,18 @@
+{
+  "id": "Q115353571",
+  "name": "egg-coated bread",
+  "description": "salty version of French toast",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-coated-bread-q115353571/egg-coated-bread-q115353571-1.jpg",
+    "images/egg-coated-bread-q115353571/egg-coated-bread-q115353571-2.jpg",
+    "images/egg-coated-bread-q115353571/egg-coated-bread-q115353571-3.jpg",
+    "images/egg-coated-bread-q115353571/egg-coated-bread-q115353571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115353571",
+    "themealdb": null
+  }
+}

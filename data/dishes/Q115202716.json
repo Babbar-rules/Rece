@@ -1,0 +1,20 @@
+{
+  "id": "Q115202716",
+  "name": "Roasted Bhutta",
+  "description": "roasted corn on the cob",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roasted-bhutta-q115202716/roasted-bhutta-q115202716-1.jpg",
+    "images/roasted-bhutta-q115202716/roasted-bhutta-q115202716-2.jpg",
+    "images/roasted-bhutta-q115202716/roasted-bhutta-q115202716-3.jpg",
+    "images/roasted-bhutta-q115202716/roasted-bhutta-q115202716-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115202716",
+    "themealdb": null
+  }
+}

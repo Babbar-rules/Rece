@@ -1,0 +1,25 @@
+{
+  "id": "Q115714993",
+  "name": "herring salad",
+  "description": "",
+  "nationality": [
+    "Poland",
+    "Netherlands",
+    "Germany",
+    "Scandinavia"
+  ],
+  "region_cuisine": [
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/herring-salad-q115714993/herring-salad-q115714993-1.jpg",
+    "images/herring-salad-q115714993/herring-salad-q115714993-2.jpg",
+    "images/herring-salad-q115714993/herring-salad-q115714993-3.jpg",
+    "images/herring-salad-q115714993/herring-salad-q115714993-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115714993",
+    "themealdb": null
+  }
+}

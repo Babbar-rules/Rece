@@ -1,0 +1,20 @@
+{
+  "id": "Q11567618",
+  "name": "yaki karē",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yaki-kare-q11567618/yaki-kare-q11567618-1.jpg",
+    "images/yaki-kare-q11567618/yaki-kare-q11567618-2.jpg",
+    "images/yaki-kare-q11567618/yaki-kare-q11567618-3.jpg",
+    "images/yaki-kare-q11567618/yaki-kare-q11567618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567618",
+    "themealdb": null
+  }
+}

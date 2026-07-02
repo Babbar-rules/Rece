@@ -1,0 +1,18 @@
+{
+  "id": "Q11574320",
+  "name": "Amashoku",
+  "description": "Japanese flat cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amashoku-q11574320/amashoku-q11574320-1.jpg",
+    "images/amashoku-q11574320/amashoku-q11574320-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11574320",
+    "themealdb": null
+  }
+}

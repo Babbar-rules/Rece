@@ -1,0 +1,20 @@
+{
+  "id": "Q11572492",
+  "name": "tamagodon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamagodon-q11572492/tamagodon-q11572492-1.jpg",
+    "images/tamagodon-q11572492/tamagodon-q11572492-2.jpg",
+    "images/tamagodon-q11572492/tamagodon-q11572492-3.jpg",
+    "images/tamagodon-q11572492/tamagodon-q11572492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11572492",
+    "themealdb": null
+  }
+}

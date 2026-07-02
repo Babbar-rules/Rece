@@ -1,0 +1,20 @@
+{
+  "id": "Q11516035",
+  "name": "Tsukisamu anpan",
+  "description": "Japanese half-dry confectionery",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tsukisamu-anpan-q11516035/tsukisamu-anpan-q11516035-1.jpg",
+    "images/tsukisamu-anpan-q11516035/tsukisamu-anpan-q11516035-2.jpg",
+    "images/tsukisamu-anpan-q11516035/tsukisamu-anpan-q11516035-3.jpg",
+    "images/tsukisamu-anpan-q11516035/tsukisamu-anpan-q11516035-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11516035",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11570320",
+  "name": "kaki no dotenabe",
+  "description": "Japanese oyster pot",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaki-no-dotenabe-q11570320/kaki-no-dotenabe-q11570320-1.jpg",
+    "images/kaki-no-dotenabe-q11570320/kaki-no-dotenabe-q11570320-2.jpg",
+    "images/kaki-no-dotenabe-q11570320/kaki-no-dotenabe-q11570320-3.jpg",
+    "images/kaki-no-dotenabe-q11570320/kaki-no-dotenabe-q11570320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11570320",
+    "themealdb": null
+  }
+}

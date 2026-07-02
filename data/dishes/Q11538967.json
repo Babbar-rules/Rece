@@ -1,0 +1,18 @@
+{
+  "id": "Q11538967",
+  "name": "bou ramen",
+  "description": "straight shaped dried ramen",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bou-ramen-q11538967/bou-ramen-q11538967-1.jpg",
+    "images/bou-ramen-q11538967/bou-ramen-q11538967-2.jpg",
+    "images/bou-ramen-q11538967/bou-ramen-q11538967-3.jpg",
+    "images/bou-ramen-q11538967/bou-ramen-q11538967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11538967",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11538971",
+  "name": "bon bon chicken",
+  "description": "Sichuan chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bon-bon-chicken-q11538971/bon-bon-chicken-q11538971-1.jpg",
+    "images/bon-bon-chicken-q11538971/bon-bon-chicken-q11538971-2.jpg",
+    "images/bon-bon-chicken-q11538971/bon-bon-chicken-q11538971-3.jpg",
+    "images/bon-bon-chicken-q11538971/bon-bon-chicken-q11538971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11538971",
+    "themealdb": null
+  }
+}

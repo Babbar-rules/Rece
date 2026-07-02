@@ -1,0 +1,20 @@
+{
+  "id": "Q115142470",
+  "name": "Berlingot",
+  "description": "candy from France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/berlingot-q115142470/berlingot-q115142470-1.jpg",
+    "images/berlingot-q115142470/berlingot-q115142470-2.jpg",
+    "images/berlingot-q115142470/berlingot-q115142470-3.jpg",
+    "images/berlingot-q115142470/berlingot-q115142470-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115142470",
+    "themealdb": null
+  }
+}

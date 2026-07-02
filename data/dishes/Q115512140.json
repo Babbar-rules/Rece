@@ -1,0 +1,18 @@
+{
+  "id": "Q115512140",
+  "name": "stuffed sweet peppers",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-sweet-peppers-q115512140/stuffed-sweet-peppers-q115512140-1.jpg",
+    "images/stuffed-sweet-peppers-q115512140/stuffed-sweet-peppers-q115512140-2.jpg",
+    "images/stuffed-sweet-peppers-q115512140/stuffed-sweet-peppers-q115512140-3.jpg",
+    "images/stuffed-sweet-peppers-q115512140/stuffed-sweet-peppers-q115512140-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115512140",
+    "themealdb": null
+  }
+}

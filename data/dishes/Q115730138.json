@@ -1,0 +1,16 @@
+{
+  "id": "Q115730138",
+  "name": "shredded rotisserie chicken",
+  "description": "type of shredded chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shredded-rotisserie-chicken-q115730138/shredded-rotisserie-chicken-q115730138-1.jpg",
+    "images/shredded-rotisserie-chicken-q115730138/shredded-rotisserie-chicken-q115730138-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115730138",
+    "themealdb": null
+  }
+}

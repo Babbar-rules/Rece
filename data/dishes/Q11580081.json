@@ -1,0 +1,18 @@
+{
+  "id": "Q11580081",
+  "name": "shiratama",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shiratama-q11580081/shiratama-q11580081-1.jpg",
+    "images/shiratama-q11580081/shiratama-q11580081-2.jpg",
+    "images/shiratama-q11580081/shiratama-q11580081-3.jpg",
+    "images/shiratama-q11580081/shiratama-q11580081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11580081",
+    "themealdb": null
+  }
+}

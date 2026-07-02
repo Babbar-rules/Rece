@@ -1,0 +1,20 @@
+{
+  "id": "Q115732147",
+  "name": "yangnyeom-gejang",
+  "description": "",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yangnyeom-gejang-q115732147/yangnyeom-gejang-q115732147-1.jpg",
+    "images/yangnyeom-gejang-q115732147/yangnyeom-gejang-q115732147-2.jpg",
+    "images/yangnyeom-gejang-q115732147/yangnyeom-gejang-q115732147-3.jpg",
+    "images/yangnyeom-gejang-q115732147/yangnyeom-gejang-q115732147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115732147",
+    "themealdb": null
+  }
+}

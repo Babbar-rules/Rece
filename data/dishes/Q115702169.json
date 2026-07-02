@@ -1,0 +1,18 @@
+{
+  "id": "Q115702169",
+  "name": "cucumber soup",
+  "description": "soup made of cucumbers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cucumber-soup-q115702169/cucumber-soup-q115702169-1.jpg",
+    "images/cucumber-soup-q115702169/cucumber-soup-q115702169-2.jpg",
+    "images/cucumber-soup-q115702169/cucumber-soup-q115702169-3.jpg",
+    "images/cucumber-soup-q115702169/cucumber-soup-q115702169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115702169",
+    "themealdb": null
+  }
+}

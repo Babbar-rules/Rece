@@ -1,0 +1,18 @@
+{
+  "id": "Q11521612",
+  "name": "hōba-zushi",
+  "description": "sushi made with magnolia leaf",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hoba-zushi-q11521612/hoba-zushi-q11521612-1.jpg",
+    "images/hoba-zushi-q11521612/hoba-zushi-q11521612-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11521612",
+    "themealdb": null
+  }
+}

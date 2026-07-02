@@ -1,0 +1,16 @@
+{
+  "id": "Q11570067",
+  "name": "milk senbei",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-senbei-q11570067/milk-senbei-q11570067-1.jpg",
+    "images/milk-senbei-q11570067/milk-senbei-q11570067-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11570067",
+    "themealdb": null
+  }
+}

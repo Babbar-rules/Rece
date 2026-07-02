@@ -1,0 +1,20 @@
+{
+  "id": "Q11521610",
+  "name": "hōba miso",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hoba-miso-q11521610/hoba-miso-q11521610-1.jpg",
+    "images/hoba-miso-q11521610/hoba-miso-q11521610-2.jpg",
+    "images/hoba-miso-q11521610/hoba-miso-q11521610-3.jpg",
+    "images/hoba-miso-q11521610/hoba-miso-q11521610-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11521610",
+    "themealdb": null
+  }
+}

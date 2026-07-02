@@ -1,0 +1,20 @@
+{
+  "id": "Q11567619",
+  "name": "yakimanjū",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yakimanju-q11567619/yakimanju-q11567619-1.jpg",
+    "images/yakimanju-q11567619/yakimanju-q11567619-2.jpg",
+    "images/yakimanju-q11567619/yakimanju-q11567619-3.jpg",
+    "images/yakimanju-q11567619/yakimanju-q11567619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567619",
+    "themealdb": null
+  }
+}

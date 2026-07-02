@@ -1,0 +1,18 @@
+{
+  "id": "Q11542761",
+  "name": "Yokote yakisoba",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yokote-yakisoba-q11542761/yokote-yakisoba-q11542761-1.jpg",
+    "images/yokote-yakisoba-q11542761/yokote-yakisoba-q11542761-2.jpg",
+    "images/yokote-yakisoba-q11542761/yokote-yakisoba-q11542761-3.jpg",
+    "images/yokote-yakisoba-q11542761/yokote-yakisoba-q11542761-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11542761",
+    "themealdb": null
+  }
+}

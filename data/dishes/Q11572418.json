@@ -1,0 +1,18 @@
+{
+  "id": "Q11572418",
+  "name": "Tamana ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tamana-ramen-q11572418/tamana-ramen-q11572418-1.jpg",
+    "images/tamana-ramen-q11572418/tamana-ramen-q11572418-2.jpg",
+    "images/tamana-ramen-q11572418/tamana-ramen-q11572418-3.jpg",
+    "images/tamana-ramen-q11572418/tamana-ramen-q11572418-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11572418",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11574319",
+  "name": "kanroni",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kanroni-q11574319/kanroni-q11574319-1.jpg",
+    "images/kanroni-q11574319/kanroni-q11574319-2.jpg",
+    "images/kanroni-q11574319/kanroni-q11574319-3.jpg",
+    "images/kanroni-q11574319/kanroni-q11574319-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11574319",
+    "themealdb": null
+  }
+}

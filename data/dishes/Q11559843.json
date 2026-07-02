@@ -1,0 +1,18 @@
+{
+  "id": "Q11559843",
+  "name": "awayuki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/awayuki-q11559843/awayuki-q11559843-1.jpg",
+    "images/awayuki-q11559843/awayuki-q11559843-2.jpg",
+    "images/awayuki-q11559843/awayuki-q11559843-3.jpg",
+    "images/awayuki-q11559843/awayuki-q11559843-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11559843",
+    "themealdb": null
+  }
+}

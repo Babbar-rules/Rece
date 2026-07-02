@@ -1,0 +1,18 @@
+{
+  "id": "Q115166223",
+  "name": "Kartoffelklösse",
+  "description": "potato dumpling dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kartoffelklosse-q115166223/kartoffelklosse-q115166223-1.jpg",
+    "images/kartoffelklosse-q115166223/kartoffelklosse-q115166223-2.jpg",
+    "images/kartoffelklosse-q115166223/kartoffelklosse-q115166223-3.jpg",
+    "images/kartoffelklosse-q115166223/kartoffelklosse-q115166223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115166223",
+    "themealdb": null
+  }
+}

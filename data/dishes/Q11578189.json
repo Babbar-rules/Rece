@@ -1,0 +1,21 @@
+{
+  "id": "Q11578189",
+  "name": "Oga Shottsuru Yakisoba",
+  "description": "regional yakisoba dish from Oga, Akita Prefecture, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/oga-shottsuru-yakisoba-q11578189/oga-shottsuru-yakisoba-q11578189-1.jpg",
+    "images/oga-shottsuru-yakisoba-q11578189/oga-shottsuru-yakisoba-q11578189-2.jpg",
+    "images/oga-shottsuru-yakisoba-q11578189/oga-shottsuru-yakisoba-q11578189-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11578189",
+    "themealdb": null
+  }
+}

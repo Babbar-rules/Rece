@@ -1,0 +1,17 @@
+{
+  "id": "Q11559112",
+  "name": "ebikatsu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ebikatsu-q11559112/ebikatsu-q11559112-1.jpg",
+    "images/ebikatsu-q11559112/ebikatsu-q11559112-2.jpg",
+    "images/ebikatsu-q11559112/ebikatsu-q11559112-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11559112",
+    "themealdb": null
+  }
+}

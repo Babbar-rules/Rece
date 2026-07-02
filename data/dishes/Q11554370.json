@@ -1,0 +1,20 @@
+{
+  "id": "Q11554370",
+  "name": "you lin ji",
+  "description": "fried chicken dish in Japanese-Chinese and Korean-Chinese cuisines",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/you-lin-ji-q11554370/you-lin-ji-q11554370-1.jpg",
+    "images/you-lin-ji-q11554370/you-lin-ji-q11554370-2.jpg",
+    "images/you-lin-ji-q11554370/you-lin-ji-q11554370-3.jpg",
+    "images/you-lin-ji-q11554370/you-lin-ji-q11554370-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11554370",
+    "themealdb": null
+  }
+}

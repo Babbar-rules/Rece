@@ -1,0 +1,22 @@
+{
+  "id": "Q115804031",
+  "name": "Latiya",
+  "description": "chamorro cake",
+  "nationality": [
+    "Guam"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/latiya-q115804031/latiya-q115804031-1.jpg",
+    "images/latiya-q115804031/latiya-q115804031-2.jpg",
+    "images/latiya-q115804031/latiya-q115804031-3.jpg",
+    "images/latiya-q115804031/latiya-q115804031-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115804031",
+    "themealdb": null
+  }
+}

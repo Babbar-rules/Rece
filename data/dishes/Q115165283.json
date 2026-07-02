@@ -1,0 +1,18 @@
+{
+  "id": "Q115165283",
+  "name": "pot roasting",
+  "description": "type of food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pot-roasting-q115165283/pot-roasting-q115165283-1.jpg",
+    "images/pot-roasting-q115165283/pot-roasting-q115165283-2.jpg",
+    "images/pot-roasting-q115165283/pot-roasting-q115165283-3.png",
+    "images/pot-roasting-q115165283/pot-roasting-q115165283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115165283",
+    "themealdb": null
+  }
+}

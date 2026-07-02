@@ -1,0 +1,20 @@
+{
+  "id": "Q11538378",
+  "name": "Umegaemochi",
+  "description": "Rice cake confection from Fukuoka, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/umegaemochi-q11538378/umegaemochi-q11538378-1.jpg",
+    "images/umegaemochi-q11538378/umegaemochi-q11538378-2.jpg",
+    "images/umegaemochi-q11538378/umegaemochi-q11538378-3.jpg",
+    "images/umegaemochi-q11538378/umegaemochi-q11538378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11538378",
+    "themealdb": null
+  }
+}

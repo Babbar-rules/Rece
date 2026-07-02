@@ -1,0 +1,20 @@
+{
+  "id": "Q11512296",
+  "name": "Meiji milk chocolate",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meiji-milk-chocolate-q11512296/meiji-milk-chocolate-q11512296-1.jpg",
+    "images/meiji-milk-chocolate-q11512296/meiji-milk-chocolate-q11512296-2.jpg",
+    "images/meiji-milk-chocolate-q11512296/meiji-milk-chocolate-q11512296-3.jpg",
+    "images/meiji-milk-chocolate-q11512296/meiji-milk-chocolate-q11512296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11512296",
+    "themealdb": null
+  }
+}

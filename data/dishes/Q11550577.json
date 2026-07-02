@@ -1,0 +1,18 @@
+{
+  "id": "Q11550577",
+  "name": "Enoshima-don",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/enoshima-don-q11550577/enoshima-don-q11550577-1.jpg",
+    "images/enoshima-don-q11550577/enoshima-don-q11550577-2.jpg",
+    "images/enoshima-don-q11550577/enoshima-don-q11550577-3.jpg",
+    "images/enoshima-don-q11550577/enoshima-don-q11550577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11550577",
+    "themealdb": null
+  }
+}

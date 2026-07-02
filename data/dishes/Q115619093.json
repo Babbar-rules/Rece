@@ -1,0 +1,18 @@
+{
+  "id": "Q115619093",
+  "name": "ice cream novelty",
+  "description": "type of dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-novelty-q115619093/ice-cream-novelty-q115619093-1.jpg",
+    "images/ice-cream-novelty-q115619093/ice-cream-novelty-q115619093-2.jpg",
+    "images/ice-cream-novelty-q115619093/ice-cream-novelty-q115619093-3.jpg",
+    "images/ice-cream-novelty-q115619093/ice-cream-novelty-q115619093-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115619093",
+    "themealdb": null
+  }
+}

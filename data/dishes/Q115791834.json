@@ -1,0 +1,22 @@
+{
+  "id": "Q115791834",
+  "name": "Cassia leaves curry",
+  "description": "",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/cassia-leaves-curry-q115791834/cassia-leaves-curry-q115791834-1.jpg",
+    "images/cassia-leaves-curry-q115791834/cassia-leaves-curry-q115791834-2.jpg",
+    "images/cassia-leaves-curry-q115791834/cassia-leaves-curry-q115791834-3.jpg",
+    "images/cassia-leaves-curry-q115791834/cassia-leaves-curry-q115791834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115791834",
+    "themealdb": null
+  }
+}

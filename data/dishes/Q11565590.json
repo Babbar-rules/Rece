@@ -1,0 +1,18 @@
+{
+  "id": "Q11565590",
+  "name": "tsukemono steak",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tsukemono-steak-q11565590/tsukemono-steak-q11565590-1.jpg",
+    "images/tsukemono-steak-q11565590/tsukemono-steak-q11565590-2.jpg",
+    "images/tsukemono-steak-q11565590/tsukemono-steak-q11565590-3.jpg",
+    "images/tsukemono-steak-q11565590/tsukemono-steak-q11565590-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11565590",
+    "themealdb": null
+  }
+}

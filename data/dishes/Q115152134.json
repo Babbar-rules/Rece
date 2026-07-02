@@ -1,0 +1,18 @@
+{
+  "id": "Q115152134",
+  "name": "Havreflarn",
+  "description": "Norwegian oatmeal cookies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/havreflarn-q115152134/havreflarn-q115152134-1.jpg",
+    "images/havreflarn-q115152134/havreflarn-q115152134-2.jpg",
+    "images/havreflarn-q115152134/havreflarn-q115152134-3.jpg",
+    "images/havreflarn-q115152134/havreflarn-q115152134-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115152134",
+    "themealdb": null
+  }
+}

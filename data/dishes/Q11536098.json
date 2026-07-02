@@ -1,0 +1,18 @@
+{
+  "id": "Q11536098",
+  "name": "kuri manjū",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kuri-manju-q11536098/kuri-manju-q11536098-1.jpg",
+    "images/kuri-manju-q11536098/kuri-manju-q11536098-2.jpg",
+    "images/kuri-manju-q11536098/kuri-manju-q11536098-3.jpg",
+    "images/kuri-manju-q11536098/kuri-manju-q11536098-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11536098",
+    "themealdb": null
+  }
+}

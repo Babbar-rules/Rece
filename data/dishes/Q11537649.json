@@ -1,0 +1,18 @@
+{
+  "id": "Q11537649",
+  "name": "kippan",
+  "description": "Okinawan confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kippan-q11537649/kippan-q11537649-1.jpg",
+    "images/kippan-q11537649/kippan-q11537649-2.jpg",
+    "images/kippan-q11537649/kippan-q11537649-3.jpg",
+    "images/kippan-q11537649/kippan-q11537649-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11537649",
+    "themealdb": null
+  }
+}

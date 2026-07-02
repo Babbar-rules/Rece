@@ -1,0 +1,20 @@
+{
+  "id": "Q11572403",
+  "name": "tamausagi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamausagi-q11572403/tamausagi-q11572403-1.jpg",
+    "images/tamausagi-q11572403/tamausagi-q11572403-2.jpg",
+    "images/tamausagi-q11572403/tamausagi-q11572403-3.png",
+    "images/tamausagi-q11572403/tamausagi-q11572403-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11572403",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q115783621",
+  "name": "Christmas beverage",
+  "description": "drink that is consumed during Christmas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-beverage-q115783621/christmas-beverage-q115783621-1.jpg",
+    "images/christmas-beverage-q115783621/christmas-beverage-q115783621-2.jpg",
+    "images/christmas-beverage-q115783621/christmas-beverage-q115783621-3.jpg",
+    "images/christmas-beverage-q115783621/christmas-beverage-q115783621-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115783621",
+    "themealdb": null
+  }
+}

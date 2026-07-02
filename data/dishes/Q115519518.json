@@ -1,0 +1,20 @@
+{
+  "id": "Q115519518",
+  "name": "kebab pizza",
+  "description": "pizza with kebab ingredients",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kebab-pizza-q115519518/kebab-pizza-q115519518-1.jpg",
+    "images/kebab-pizza-q115519518/kebab-pizza-q115519518-2.jpg",
+    "images/kebab-pizza-q115519518/kebab-pizza-q115519518-3.jpg",
+    "images/kebab-pizza-q115519518/kebab-pizza-q115519518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115519518",
+    "themealdb": null
+  }
+}

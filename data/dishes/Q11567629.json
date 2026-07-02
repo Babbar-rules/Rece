@@ -1,0 +1,18 @@
+{
+  "id": "Q11567629",
+  "name": "grilled fish",
+  "description": "whole seasoned fish roasted directly on the grill",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-fish-q11567629/grilled-fish-q11567629-1.jpg",
+    "images/grilled-fish-q11567629/grilled-fish-q11567629-2.jpg",
+    "images/grilled-fish-q11567629/grilled-fish-q11567629-3.jpg",
+    "images/grilled-fish-q11567629/grilled-fish-q11567629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567629",
+    "themealdb": null
+  }
+}

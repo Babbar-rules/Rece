@@ -1,0 +1,17 @@
+{
+  "id": "Q11549231",
+  "name": "Mizugai",
+  "description": "abalone sashimi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mizugai-q11549231/mizugai-q11549231-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11549231",
+    "themealdb": null
+  }
+}

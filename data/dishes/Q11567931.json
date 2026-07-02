@@ -1,0 +1,20 @@
+{
+  "id": "Q11567931",
+  "name": "Kumamoto ramen",
+  "description": "Japanese noodle soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kumamoto-ramen-q11567931/kumamoto-ramen-q11567931-1.jpg",
+    "images/kumamoto-ramen-q11567931/kumamoto-ramen-q11567931-2.jpg",
+    "images/kumamoto-ramen-q11567931/kumamoto-ramen-q11567931-3.jpg",
+    "images/kumamoto-ramen-q11567931/kumamoto-ramen-q11567931-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567931",
+    "themealdb": null
+  }
+}

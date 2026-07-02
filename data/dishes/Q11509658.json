@@ -1,0 +1,20 @@
+{
+  "id": "Q11509658",
+  "name": "Nissin Yakisoba UFO",
+  "description": "Japanese instant fried noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nissin-yakisoba-ufo-q11509658/nissin-yakisoba-ufo-q11509658-1.jpg",
+    "images/nissin-yakisoba-ufo-q11509658/nissin-yakisoba-ufo-q11509658-2.jpg",
+    "images/nissin-yakisoba-ufo-q11509658/nissin-yakisoba-ufo-q11509658-3.jpg",
+    "images/nissin-yakisoba-ufo-q11509658/nissin-yakisoba-ufo-q11509658-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11509658",
+    "themealdb": null
+  }
+}

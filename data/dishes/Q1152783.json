@@ -1,0 +1,18 @@
+{
+  "id": "Q1152783",
+  "name": "klenät",
+  "description": "nordic fried pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/klenat-q1152783/klenat-q1152783-1.jpg",
+    "images/klenat-q1152783/klenat-q1152783-2.jpg",
+    "images/klenat-q1152783/klenat-q1152783-3.jpg",
+    "images/klenat-q1152783/klenat-q1152783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1152783",
+    "themealdb": null
+  }
+}

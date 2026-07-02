@@ -1,0 +1,25 @@
+{
+  "id": "Q115678396",
+  "name": "buckwheat porridge",
+  "description": "type of porridge",
+  "nationality": [],
+  "region_cuisine": [
+    "Slovenian cuisine",
+    "Lithuanian cuisine",
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/buckwheat-porridge-q115678396/buckwheat-porridge-q115678396-1.jpg",
+    "images/buckwheat-porridge-q115678396/buckwheat-porridge-q115678396-2.jpg",
+    "images/buckwheat-porridge-q115678396/buckwheat-porridge-q115678396-3.jpg",
+    "images/buckwheat-porridge-q115678396/buckwheat-porridge-q115678396-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115678396",
+    "themealdb": null
+  }
+}

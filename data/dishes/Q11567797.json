@@ -1,0 +1,18 @@
+{
+  "id": "Q11567797",
+  "name": "nishime",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nishime-q11567797/nishime-q11567797-1.jpg",
+    "images/nishime-q11567797/nishime-q11567797-2.jpg",
+    "images/nishime-q11567797/nishime-q11567797-3.jpg",
+    "images/nishime-q11567797/nishime-q11567797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567797",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q11529950",
+  "name": "Matsuyama-zushi",
+  "description": "style of sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/matsuyama-zushi-q11529950/matsuyama-zushi-q11529950-1.jpg",
+    "images/matsuyama-zushi-q11529950/matsuyama-zushi-q11529950-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11529950",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1151092",
+  "name": "Jingisukan",
+  "description": "lamb dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/jingisukan-q1151092/jingisukan-q1151092-1.jpg",
+    "images/jingisukan-q1151092/jingisukan-q1151092-2.jpg",
+    "images/jingisukan-q1151092/jingisukan-q1151092-3.jpg",
+    "images/jingisukan-q1151092/jingisukan-q1151092-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1151092",
+    "themealdb": null
+  }
+}

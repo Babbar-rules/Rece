@@ -1,0 +1,18 @@
+{
+  "id": "Q115618379",
+  "name": "candy covered fruit",
+  "description": "type of product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/candy-covered-fruit-q115618379/candy-covered-fruit-q115618379-1.jpg",
+    "images/candy-covered-fruit-q115618379/candy-covered-fruit-q115618379-2.jpg",
+    "images/candy-covered-fruit-q115618379/candy-covered-fruit-q115618379-3.jpg",
+    "images/candy-covered-fruit-q115618379/candy-covered-fruit-q115618379-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115618379",
+    "themealdb": null
+  }
+}

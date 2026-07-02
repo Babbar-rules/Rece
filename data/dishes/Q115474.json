@@ -1,0 +1,20 @@
+{
+  "id": "Q115474",
+  "name": "tangyuan",
+  "description": "Chinese dessert",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tangyuan-q115474/tangyuan-q115474-1.jpg",
+    "images/tangyuan-q115474/tangyuan-q115474-2.jpg",
+    "images/tangyuan-q115474/tangyuan-q115474-3.jpg",
+    "images/tangyuan-q115474/tangyuan-q115474-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115474",
+    "themealdb": null
+  }
+}

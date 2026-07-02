@@ -1,0 +1,18 @@
+{
+  "id": "Q115304508",
+  "name": "Archipelago bread",
+  "description": "Finnish rye and malt bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/archipelago-bread-q115304508/archipelago-bread-q115304508-1.jpg",
+    "images/archipelago-bread-q115304508/archipelago-bread-q115304508-2.jpg",
+    "images/archipelago-bread-q115304508/archipelago-bread-q115304508-3.jpg",
+    "images/archipelago-bread-q115304508/archipelago-bread-q115304508-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115304508",
+    "themealdb": null
+  }
+}

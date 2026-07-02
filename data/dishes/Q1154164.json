@@ -1,0 +1,22 @@
+{
+  "id": "Q1154164",
+  "name": "dak-galbi",
+  "description": "Korean spicy stir-fried chicken dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/dak-galbi-q1154164/dak-galbi-q1154164-1.jpg",
+    "images/dak-galbi-q1154164/dak-galbi-q1154164-2.jpg",
+    "images/dak-galbi-q1154164/dak-galbi-q1154164-3.jpg",
+    "images/dak-galbi-q1154164/dak-galbi-q1154164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1154164",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11509898",
+  "name": "Hita yakisoba",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hita-yakisoba-q11509898/hita-yakisoba-q11509898-1.jpg",
+    "images/hita-yakisoba-q11509898/hita-yakisoba-q11509898-2.jpg",
+    "images/hita-yakisoba-q11509898/hita-yakisoba-q11509898-3.jpg",
+    "images/hita-yakisoba-q11509898/hita-yakisoba-q11509898-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11509898",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q115049415",
+  "name": "Jhol",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jhol-q115049415/jhol-q115049415-1.jpg",
+    "images/jhol-q115049415/jhol-q115049415-2.jpg",
+    "images/jhol-q115049415/jhol-q115049415-3.jpg",
+    "images/jhol-q115049415/jhol-q115049415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115049415",
+    "themealdb": null
+  }
+}

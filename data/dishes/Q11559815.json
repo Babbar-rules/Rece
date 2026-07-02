@@ -1,0 +1,20 @@
+{
+  "id": "Q11559815",
+  "name": "Awajishima Burger",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/awajishima-burger-q11559815/awajishima-burger-q11559815-1.jpg",
+    "images/awajishima-burger-q11559815/awajishima-burger-q11559815-2.jpg",
+    "images/awajishima-burger-q11559815/awajishima-burger-q11559815-3.jpg",
+    "images/awajishima-burger-q11559815/awajishima-burger-q11559815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11559815",
+    "themealdb": null
+  }
+}

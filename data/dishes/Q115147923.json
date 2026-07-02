@@ -1,0 +1,18 @@
+{
+  "id": "Q115147923",
+  "name": "smoked herring",
+  "description": "herring conserved by smoking",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-herring-q115147923/smoked-herring-q115147923-1.jpg",
+    "images/smoked-herring-q115147923/smoked-herring-q115147923-2.jpg",
+    "images/smoked-herring-q115147923/smoked-herring-q115147923-3.jpg",
+    "images/smoked-herring-q115147923/smoked-herring-q115147923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115147923",
+    "themealdb": null
+  }
+}

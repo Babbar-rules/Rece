@@ -1,0 +1,15 @@
+{
+  "id": "Q115802819",
+  "name": "Estufao",
+  "description": "chamorro meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/estufao-q115802819/estufao-q115802819-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115802819",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11570019",
+  "name": "gyūkatsu",
+  "description": "fried beef cutlet",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyukatsu-q11570019/gyukatsu-q11570019-1.jpg",
+    "images/gyukatsu-q11570019/gyukatsu-q11570019-2.jpg",
+    "images/gyukatsu-q11570019/gyukatsu-q11570019-3.jpg",
+    "images/gyukatsu-q11570019/gyukatsu-q11570019-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11570019",
+    "themealdb": null
+  }
+}

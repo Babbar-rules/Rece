@@ -1,0 +1,18 @@
+{
+  "id": "Q115816722",
+  "name": "Cereal Milk",
+  "description": "Milk flavored with breakfast cereal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cereal-milk-q115816722/cereal-milk-q115816722-1.jpg",
+    "images/cereal-milk-q115816722/cereal-milk-q115816722-2.png",
+    "images/cereal-milk-q115816722/cereal-milk-q115816722-3.jpg",
+    "images/cereal-milk-q115816722/cereal-milk-q115816722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115816722",
+    "themealdb": null
+  }
+}

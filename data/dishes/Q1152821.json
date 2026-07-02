@@ -1,0 +1,22 @@
+{
+  "id": "Q1152821",
+  "name": "profiterole",
+  "description": "choux pastry ball filled with whipped cream, pastry cream, or ice cream",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/profiterole-q1152821/profiterole-q1152821-1.jpg",
+    "images/profiterole-q1152821/profiterole-q1152821-2.jpg",
+    "images/profiterole-q1152821/profiterole-q1152821-3.jpg",
+    "images/profiterole-q1152821/profiterole-q1152821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1152821",
+    "themealdb": null
+  }
+}

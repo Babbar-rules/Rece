@@ -1,0 +1,18 @@
+{
+  "id": "Q11579948",
+  "name": "Shirakawa ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shirakawa-ramen-q11579948/shirakawa-ramen-q11579948-1.jpg",
+    "images/shirakawa-ramen-q11579948/shirakawa-ramen-q11579948-2.jpg",
+    "images/shirakawa-ramen-q11579948/shirakawa-ramen-q11579948-3.jpg",
+    "images/shirakawa-ramen-q11579948/shirakawa-ramen-q11579948-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11579948",
+    "themealdb": null
+  }
+}

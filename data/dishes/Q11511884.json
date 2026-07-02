@@ -1,0 +1,20 @@
+{
+  "id": "Q11511884",
+  "name": "kobumaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kobumaki-q11511884/kobumaki-q11511884-1.jpg",
+    "images/kobumaki-q11511884/kobumaki-q11511884-2.jpg",
+    "images/kobumaki-q11511884/kobumaki-q11511884-3.jpg",
+    "images/kobumaki-q11511884/kobumaki-q11511884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11511884",
+    "themealdb": null
+  }
+}

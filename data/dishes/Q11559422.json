@@ -1,0 +1,20 @@
+{
+  "id": "Q11559422",
+  "name": "seafood dish",
+  "description": "type of dish comprised of seafood",
+  "nationality": [],
+  "region_cuisine": [
+    "seafood"
+  ],
+  "images": [
+    "images/seafood-dish-q11559422/seafood-dish-q11559422-1.jpg",
+    "images/seafood-dish-q11559422/seafood-dish-q11559422-2.jpg",
+    "images/seafood-dish-q11559422/seafood-dish-q11559422-3.jpg",
+    "images/seafood-dish-q11559422/seafood-dish-q11559422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11559422",
+    "themealdb": null
+  }
+}

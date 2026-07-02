@@ -1,0 +1,17 @@
+{
+  "id": "Q11535612",
+  "name": "tochi mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tochi-mochi-q11535612/tochi-mochi-q11535612-1.jpg",
+    "images/tochi-mochi-q11535612/tochi-mochi-q11535612-2.jpg",
+    "images/tochi-mochi-q11535612/tochi-mochi-q11535612-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11535612",
+    "themealdb": null
+  }
+}

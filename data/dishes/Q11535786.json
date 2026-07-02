@@ -1,0 +1,20 @@
+{
+  "id": "Q11535786",
+  "name": "kuri kinton",
+  "description": "traditional Japanese confectionery",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuri-kinton-q11535786/kuri-kinton-q11535786-1.jpg",
+    "images/kuri-kinton-q11535786/kuri-kinton-q11535786-2.jpg",
+    "images/kuri-kinton-q11535786/kuri-kinton-q11535786-3.jpg",
+    "images/kuri-kinton-q11535786/kuri-kinton-q11535786-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11535786",
+    "themealdb": null
+  }
+}

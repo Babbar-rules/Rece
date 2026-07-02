@@ -1,0 +1,20 @@
+{
+  "id": "Q115549260",
+  "name": "galchi-jorim",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galchi-jorim-q115549260/galchi-jorim-q115549260-1.jpg",
+    "images/galchi-jorim-q115549260/galchi-jorim-q115549260-2.jpg",
+    "images/galchi-jorim-q115549260/galchi-jorim-q115549260-3.jpg",
+    "images/galchi-jorim-q115549260/galchi-jorim-q115549260-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115549260",
+    "themealdb": null
+  }
+}

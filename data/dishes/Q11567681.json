@@ -1,0 +1,18 @@
+{
+  "id": "Q11567681",
+  "name": "yakibuta tamago meshi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yakibuta-tamago-meshi-q11567681/yakibuta-tamago-meshi-q11567681-1.jpg",
+    "images/yakibuta-tamago-meshi-q11567681/yakibuta-tamago-meshi-q11567681-2.jpg",
+    "images/yakibuta-tamago-meshi-q11567681/yakibuta-tamago-meshi-q11567681-3.jpg",
+    "images/yakibuta-tamago-meshi-q11567681/yakibuta-tamago-meshi-q11567681-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567681",
+    "themealdb": null
+  }
+}

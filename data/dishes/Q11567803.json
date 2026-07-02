@@ -1,0 +1,20 @@
+{
+  "id": "Q11567803",
+  "name": "nizakana",
+  "description": "Japanese poached fish dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nizakana-q11567803/nizakana-q11567803-1.jpg",
+    "images/nizakana-q11567803/nizakana-q11567803-2.jpg",
+    "images/nizakana-q11567803/nizakana-q11567803-3.jpg",
+    "images/nizakana-q11567803/nizakana-q11567803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11567803",
+    "themealdb": null
+  }
+}
