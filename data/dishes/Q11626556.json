@@ -1,0 +1,18 @@
+{
+  "id": "Q11626556",
+  "name": "fukuromen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fukuromen-q11626556/fukuromen-q11626556-1.jpg",
+    "images/fukuromen-q11626556/fukuromen-q11626556-2.jpg",
+    "images/fukuromen-q11626556/fukuromen-q11626556-3.jpg",
+    "images/fukuromen-q11626556/fukuromen-q11626556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11626556",
+    "themealdb": null
+  }
+}

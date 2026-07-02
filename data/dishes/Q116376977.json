@@ -1,0 +1,20 @@
+{
+  "id": "Q116376977",
+  "name": "Kuru dolma",
+  "description": "dried eggplant dish of Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuru-dolma-q116376977/kuru-dolma-q116376977-1.jpg",
+    "images/kuru-dolma-q116376977/kuru-dolma-q116376977-2.jpg",
+    "images/kuru-dolma-q116376977/kuru-dolma-q116376977-3.jpg",
+    "images/kuru-dolma-q116376977/kuru-dolma-q116376977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116376977",
+    "themealdb": null
+  }
+}

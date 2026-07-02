@@ -1,0 +1,19 @@
+{
+  "id": "Q11605373",
+  "name": "Natto-jiru",
+  "description": "natto miso soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/natto-jiru-q11605373/natto-jiru-q11605373-1.jpg",
+    "images/natto-jiru-q11605373/natto-jiru-q11605373-2.jpg",
+    "images/natto-jiru-q11605373/natto-jiru-q11605373-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11605373",
+    "themealdb": null
+  }
+}

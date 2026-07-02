@@ -1,0 +1,18 @@
+{
+  "id": "Q11610025",
+  "name": "habutae mochi",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/habutae-mochi-q11610025/habutae-mochi-q11610025-1.jpg",
+    "images/habutae-mochi-q11610025/habutae-mochi-q11610025-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11610025",
+    "themealdb": null
+  }
+}

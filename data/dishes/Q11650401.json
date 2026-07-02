@@ -1,0 +1,18 @@
+{
+  "id": "Q11650401",
+  "name": "tablet candy",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tablet-candy-q11650401/tablet-candy-q11650401-1.jpg",
+    "images/tablet-candy-q11650401/tablet-candy-q11650401-2.jpg",
+    "images/tablet-candy-q11650401/tablet-candy-q11650401-3.jpg",
+    "images/tablet-candy-q11650401/tablet-candy-q11650401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11650401",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11633170",
+  "name": "tofu hanbāgu",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-hanbagu-q11633170/tofu-hanbagu-q11633170-1.jpg",
+    "images/tofu-hanbagu-q11633170/tofu-hanbagu-q11633170-2.jpg",
+    "images/tofu-hanbagu-q11633170/tofu-hanbagu-q11633170-3.jpg",
+    "images/tofu-hanbagu-q11633170/tofu-hanbagu-q11633170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11633170",
+    "themealdb": null
+  }
+}

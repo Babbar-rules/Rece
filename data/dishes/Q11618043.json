@@ -1,0 +1,17 @@
+{
+  "id": "Q11618043",
+  "name": "chameshi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chameshi-q11618043/chameshi-q11618043-1.jpg",
+    "images/chameshi-q11618043/chameshi-q11618043-2.jpg",
+    "images/chameshi-q11618043/chameshi-q11618043-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11618043",
+    "themealdb": null
+  }
+}

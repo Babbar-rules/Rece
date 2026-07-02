@@ -1,0 +1,20 @@
+{
+  "id": "Q11633174",
+  "name": "Dougan",
+  "description": "firm variety of tofu",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dougan-q11633174/dougan-q11633174-1.jpg",
+    "images/dougan-q11633174/dougan-q11633174-2.png",
+    "images/dougan-q11633174/dougan-q11633174-3.jpg",
+    "images/dougan-q11633174/dougan-q11633174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11633174",
+    "themealdb": null
+  }
+}

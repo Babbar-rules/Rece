@@ -1,0 +1,18 @@
+{
+  "id": "Q116270157",
+  "name": "imitation custard",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/imitation-custard-q116270157/imitation-custard-q116270157-1.jpg",
+    "images/imitation-custard-q116270157/imitation-custard-q116270157-2.png",
+    "images/imitation-custard-q116270157/imitation-custard-q116270157-3.jpg",
+    "images/imitation-custard-q116270157/imitation-custard-q116270157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116270157",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q11602513",
+  "name": "sasa dango",
+  "description": "Japanese dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sasa-dango-q11602513/sasa-dango-q11602513-1.jpg",
+    "images/sasa-dango-q11602513/sasa-dango-q11602513-2.jpg",
+    "images/sasa-dango-q11602513/sasa-dango-q11602513-3.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11602513",
+    "themealdb": null
+  }
+}

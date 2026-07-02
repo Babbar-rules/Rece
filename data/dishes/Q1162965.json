@@ -1,0 +1,20 @@
+{
+  "id": "Q1162965",
+  "name": "bolognese sauce",
+  "description": "sauce",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolognese-sauce-q1162965/bolognese-sauce-q1162965-1.jpg",
+    "images/bolognese-sauce-q1162965/bolognese-sauce-q1162965-2.jpg",
+    "images/bolognese-sauce-q1162965/bolognese-sauce-q1162965-3.jpg",
+    "images/bolognese-sauce-q1162965/bolognese-sauce-q1162965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1162965",
+    "themealdb": null
+  }
+}

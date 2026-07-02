@@ -1,0 +1,18 @@
+{
+  "id": "Q116601648",
+  "name": "Kofila",
+  "description": "chocolate bar with coffee taste made by Orion in Czech Republic since 1923",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kofila-q116601648/kofila-q116601648-1.jpg",
+    "images/kofila-q116601648/kofila-q116601648-2.jpg",
+    "images/kofila-q116601648/kofila-q116601648-3.jpg",
+    "images/kofila-q116601648/kofila-q116601648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116601648",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11620703",
+  "name": "rakugan",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rakugan-q11620703/rakugan-q11620703-1.jpg",
+    "images/rakugan-q11620703/rakugan-q11620703-2.jpg",
+    "images/rakugan-q11620703/rakugan-q11620703-3.jpg",
+    "images/rakugan-q11620703/rakugan-q11620703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11620703",
+    "themealdb": null
+  }
+}

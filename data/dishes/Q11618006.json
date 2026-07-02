@@ -1,0 +1,18 @@
+{
+  "id": "Q11618006",
+  "name": "chagayu",
+  "description": "green tea congee",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chagayu-q11618006/chagayu-q11618006-1.jpg",
+    "images/chagayu-q11618006/chagayu-q11618006-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11618006",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11647361",
+  "name": "Kanazawa curry",
+  "description": "variety of Japanese curry from Kanazawa, Ishikawa Prefecture, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kanazawa-curry-q11647361/kanazawa-curry-q11647361-1.jpg",
+    "images/kanazawa-curry-q11647361/kanazawa-curry-q11647361-2.jpg",
+    "images/kanazawa-curry-q11647361/kanazawa-curry-q11647361-3.jpg",
+    "images/kanazawa-curry-q11647361/kanazawa-curry-q11647361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11647361",
+    "themealdb": null
+  }
+}

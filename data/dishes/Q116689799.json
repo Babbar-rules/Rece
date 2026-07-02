@@ -1,0 +1,20 @@
+{
+  "id": "Q116689799",
+  "name": "Bebe",
+  "description": "Finnish pastry",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bebe-q116689799/bebe-q116689799-1.jpg",
+    "images/bebe-q116689799/bebe-q116689799-2.jpg",
+    "images/bebe-q116689799/bebe-q116689799-3.jpg",
+    "images/bebe-q116689799/bebe-q116689799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116689799",
+    "themealdb": null
+  }
+}

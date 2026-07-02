@@ -1,0 +1,22 @@
+{
+  "id": "Q115819779",
+  "name": "Boerenkool stamppot",
+  "description": "Dutch kale dish",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dutch cuisine"
+  ],
+  "images": [
+    "images/boerenkool-stamppot-q115819779/boerenkool-stamppot-q115819779-1.jpg",
+    "images/boerenkool-stamppot-q115819779/boerenkool-stamppot-q115819779-2.jpg",
+    "images/boerenkool-stamppot-q115819779/boerenkool-stamppot-q115819779-3.jpg",
+    "images/boerenkool-stamppot-q115819779/boerenkool-stamppot-q115819779-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115819779",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11633171",
+  "name": "tofu sushi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-sushi-q11633171/tofu-sushi-q11633171-1.jpg",
+    "images/tofu-sushi-q11633171/tofu-sushi-q11633171-2.jpg",
+    "images/tofu-sushi-q11633171/tofu-sushi-q11633171-3.jpg",
+    "images/tofu-sushi-q11633171/tofu-sushi-q11633171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11633171",
+    "themealdb": null
+  }
+}

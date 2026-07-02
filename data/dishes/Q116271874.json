@@ -1,0 +1,20 @@
+{
+  "id": "Q116271874",
+  "name": "Yavoriv pie",
+  "description": "pie with potatoes and buckwheat",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yavoriv-pie-q116271874/yavoriv-pie-q116271874-1.jpg",
+    "images/yavoriv-pie-q116271874/yavoriv-pie-q116271874-2.jpg",
+    "images/yavoriv-pie-q116271874/yavoriv-pie-q116271874-3.jpg",
+    "images/yavoriv-pie-q116271874/yavoriv-pie-q116271874-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116271874",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q1160522",
+  "name": "gumbo",
+  "description": "Louisianan stew",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Cajun cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/gumbo-q1160522/gumbo-q1160522-1.jpg",
+    "images/gumbo-q1160522/gumbo-q1160522-2.jpg",
+    "images/gumbo-q1160522/gumbo-q1160522-3.jpg",
+    "images/gumbo-q1160522/gumbo-q1160522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1160522",
+    "themealdb": null
+  }
+}

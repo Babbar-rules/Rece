@@ -1,0 +1,18 @@
+{
+  "id": "Q116432148",
+  "name": "Spaghetti à la Capri",
+  "description": "Norwegian canned pasta dish",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-a-la-capri-q116432148/spaghetti-a-la-capri-q116432148-1.jpg",
+    "images/spaghetti-a-la-capri-q116432148/spaghetti-a-la-capri-q116432148-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116432148",
+    "themealdb": null
+  }
+}

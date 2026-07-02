@@ -1,0 +1,18 @@
+{
+  "id": "Q11637813",
+  "name": "karashirenkon",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/karashirenkon-q11637813/karashirenkon-q11637813-1.jpg",
+    "images/karashirenkon-q11637813/karashirenkon-q11637813-2.jpg",
+    "images/karashirenkon-q11637813/karashirenkon-q11637813-3.jpg",
+    "images/karashirenkon-q11637813/karashirenkon-q11637813-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11637813",
+    "themealdb": null
+  }
+}

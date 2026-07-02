@@ -1,0 +1,16 @@
+{
+  "id": "Q116170384",
+  "name": "Doppelbürli",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doppelburli-q116170384/doppelburli-q116170384-1.jpg",
+    "images/doppelburli-q116170384/doppelburli-q116170384-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116170384",
+    "themealdb": null
+  }
+}

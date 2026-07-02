@@ -1,0 +1,20 @@
+{
+  "id": "Q11611812",
+  "name": "sesame tofu",
+  "description": "tofu-like food made from sesame seeds and kudzu starch",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sesame-tofu-q11611812/sesame-tofu-q11611812-1.jpg",
+    "images/sesame-tofu-q11611812/sesame-tofu-q11611812-2.jpg",
+    "images/sesame-tofu-q11611812/sesame-tofu-q11611812-3.jpg",
+    "images/sesame-tofu-q11611812/sesame-tofu-q11611812-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11611812",
+    "themealdb": null
+  }
+}

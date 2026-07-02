@@ -1,0 +1,18 @@
+{
+  "id": "Q11650870",
+  "name": "Kamakura-don",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kamakura-don-q11650870/kamakura-don-q11650870-1.jpg",
+    "images/kamakura-don-q11650870/kamakura-don-q11650870-2.jpg",
+    "images/kamakura-don-q11650870/kamakura-don-q11650870-3.jpg",
+    "images/kamakura-don-q11650870/kamakura-don-q11650870-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11650870",
+    "themealdb": null
+  }
+}

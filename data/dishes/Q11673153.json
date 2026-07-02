@@ -1,0 +1,20 @@
+{
+  "id": "Q11673153",
+  "name": "Koya-dofu",
+  "description": "type of tofu",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koya-dofu-q11673153/koya-dofu-q11673153-1.jpg",
+    "images/koya-dofu-q11673153/koya-dofu-q11673153-2.jpg",
+    "images/koya-dofu-q11673153/koya-dofu-q11673153-3.jpg",
+    "images/koya-dofu-q11673153/koya-dofu-q11673153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11673153",
+    "themealdb": null
+  }
+}

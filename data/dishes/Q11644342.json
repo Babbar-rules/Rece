@@ -1,0 +1,20 @@
+{
+  "id": "Q11644342",
+  "name": "Sakata ramen",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sakata-ramen-q11644342/sakata-ramen-q11644342-1.jpg",
+    "images/sakata-ramen-q11644342/sakata-ramen-q11644342-2.jpg",
+    "images/sakata-ramen-q11644342/sakata-ramen-q11644342-3.jpg",
+    "images/sakata-ramen-q11644342/sakata-ramen-q11644342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11644342",
+    "themealdb": null
+  }
+}

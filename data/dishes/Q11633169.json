@@ -1,0 +1,18 @@
+{
+  "id": "Q11633169",
+  "name": "tofu ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-ramen-q11633169/tofu-ramen-q11633169-1.jpg",
+    "images/tofu-ramen-q11633169/tofu-ramen-q11633169-2.jpg",
+    "images/tofu-ramen-q11633169/tofu-ramen-q11633169-3.jpg",
+    "images/tofu-ramen-q11633169/tofu-ramen-q11633169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11633169",
+    "themealdb": null
+  }
+}

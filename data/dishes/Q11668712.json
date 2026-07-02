@@ -1,0 +1,17 @@
+{
+  "id": "Q11668712",
+  "name": "Takaida ramen",
+  "description": "ramen in Osaka, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/takaida-ramen-q11668712/takaida-ramen-q11668712-1.jpg",
+    "images/takaida-ramen-q11668712/takaida-ramen-q11668712-2.jpg",
+    "images/takaida-ramen-q11668712/takaida-ramen-q11668712-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11668712",
+    "themealdb": null
+  }
+}

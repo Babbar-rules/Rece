@@ -1,0 +1,22 @@
+{
+  "id": "Q11644451",
+  "name": "suancaiyu",
+  "description": "dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Sichuan cuisine"
+  ],
+  "images": [
+    "images/suancaiyu-q11644451/suancaiyu-q11644451-1.jpg",
+    "images/suancaiyu-q11644451/suancaiyu-q11644451-2.jpg",
+    "images/suancaiyu-q11644451/suancaiyu-q11644451-3.jpg",
+    "images/suancaiyu-q11644451/suancaiyu-q11644451-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11644451",
+    "themealdb": null
+  }
+}

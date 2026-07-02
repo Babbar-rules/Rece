@@ -1,0 +1,18 @@
+{
+  "id": "Q11597028",
+  "name": "kokusen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kokusen-q11597028/kokusen-q11597028-1.jpg",
+    "images/kokusen-q11597028/kokusen-q11597028-2.jpg",
+    "images/kokusen-q11597028/kokusen-q11597028-3.jpg",
+    "images/kokusen-q11597028/kokusen-q11597028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11597028",
+    "themealdb": null
+  }
+}

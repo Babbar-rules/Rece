@@ -1,0 +1,17 @@
+{
+  "id": "Q116681205",
+  "name": "Priazhenia",
+  "description": "Ukrainian type of omelette, scrambled eggs with flour and milk.",
+  "nationality": [],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/priazhenia-q116681205/priazhenia-q116681205-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116681205",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q11664516",
+  "name": "Suko-zushi",
+  "description": "style of sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suko-zushi-q11664516/suko-zushi-q11664516-1.jpg",
+    "images/suko-zushi-q11664516/suko-zushi-q11664516-2.jpg",
+    "images/suko-zushi-q11664516/suko-zushi-q11664516-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11664516",
+    "themealdb": null
+  }
+}

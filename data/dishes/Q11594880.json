@@ -1,0 +1,20 @@
+{
+  "id": "Q11594880",
+  "name": "sanma-zushi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sanma-zushi-q11594880/sanma-zushi-q11594880-1.jpg",
+    "images/sanma-zushi-q11594880/sanma-zushi-q11594880-2.jpg",
+    "images/sanma-zushi-q11594880/sanma-zushi-q11594880-3.jpg",
+    "images/sanma-zushi-q11594880/sanma-zushi-q11594880-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11594880",
+    "themealdb": null
+  }
+}

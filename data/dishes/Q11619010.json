@@ -1,0 +1,18 @@
+{
+  "id": "Q11619010",
+  "name": "Ogikubo ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ogikubo-ramen-q11619010/ogikubo-ramen-q11619010-1.jpg",
+    "images/ogikubo-ramen-q11619010/ogikubo-ramen-q11619010-2.jpg",
+    "images/ogikubo-ramen-q11619010/ogikubo-ramen-q11619010-3.jpg",
+    "images/ogikubo-ramen-q11619010/ogikubo-ramen-q11619010-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11619010",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11619984",
+  "name": "Nameshi",
+  "description": "rice with seasoned greens",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nameshi-q11619984/nameshi-q11619984-1.jpg",
+    "images/nameshi-q11619984/nameshi-q11619984-2.jpg",
+    "images/nameshi-q11619984/nameshi-q11619984-3.jpg",
+    "images/nameshi-q11619984/nameshi-q11619984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11619984",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11602532",
+  "name": "Nagano–Niigata sasazushi",
+  "description": "kind of sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/naganoniigata-sasazushi-q11602532/naganoniigata-sasazushi-q11602532-1.jpg",
+    "images/naganoniigata-sasazushi-q11602532/naganoniigata-sasazushi-q11602532-2.jpg",
+    "images/naganoniigata-sasazushi-q11602532/naganoniigata-sasazushi-q11602532-3.jpg",
+    "images/naganoniigata-sasazushi-q11602532/naganoniigata-sasazushi-q11602532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11602532",
+    "themealdb": null
+  }
+}

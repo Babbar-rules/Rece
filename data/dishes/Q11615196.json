@@ -1,0 +1,18 @@
+{
+  "id": "Q11615196",
+  "name": "Hanazono Manjyu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hanazono-manjyu-q11615196/hanazono-manjyu-q11615196-1.jpg",
+    "images/hanazono-manjyu-q11615196/hanazono-manjyu-q11615196-2.jpg",
+    "images/hanazono-manjyu-q11615196/hanazono-manjyu-q11615196-3.jpg",
+    "images/hanazono-manjyu-q11615196/hanazono-manjyu-q11615196-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11615196",
+    "themealdb": null
+  }
+}

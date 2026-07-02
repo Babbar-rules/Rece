@@ -1,0 +1,20 @@
+{
+  "id": "Q11666106",
+  "name": "Obiten",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/obiten-q11666106/obiten-q11666106-1.jpg",
+    "images/obiten-q11666106/obiten-q11666106-2.jpg",
+    "images/obiten-q11666106/obiten-q11666106-3.jpg",
+    "images/obiten-q11666106/obiten-q11666106-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11666106",
+    "themealdb": null
+  }
+}

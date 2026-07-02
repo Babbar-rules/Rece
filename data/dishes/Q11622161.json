@@ -1,0 +1,20 @@
+{
+  "id": "Q11622161",
+  "name": "usuyaki tamago",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/usuyaki-tamago-q11622161/usuyaki-tamago-q11622161-1.jpg",
+    "images/usuyaki-tamago-q11622161/usuyaki-tamago-q11622161-2.jpg",
+    "images/usuyaki-tamago-q11622161/usuyaki-tamago-q11622161-3.jpg",
+    "images/usuyaki-tamago-q11622161/usuyaki-tamago-q11622161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11622161",
+    "themealdb": null
+  }
+}

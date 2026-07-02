@@ -1,0 +1,18 @@
+{
+  "id": "Q11618421",
+  "name": "Kojo no Tsuki",
+  "description": "confectionery manufactured in Taketa, Oita, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kojo-no-tsuki-q11618421/kojo-no-tsuki-q11618421-1.jpg",
+    "images/kojo-no-tsuki-q11618421/kojo-no-tsuki-q11618421-2.png",
+    "images/kojo-no-tsuki-q11618421/kojo-no-tsuki-q11618421-3.jpg",
+    "images/kojo-no-tsuki-q11618421/kojo-no-tsuki-q11618421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11618421",
+    "themealdb": null
+  }
+}

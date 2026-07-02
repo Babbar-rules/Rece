@@ -1,0 +1,52 @@
+{
+  "id": "Q116449375",
+  "name": "teriyaki",
+  "description": "Japanese dish of meat or fish that is grilled or broiled after being soaked in a seasoned soy sauce marinade",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/teriyaki-q116449375/teriyaki-q116449375-1.jpg",
+    "images/teriyaki-q116449375/teriyaki-q116449375-2.jpg",
+    "images/teriyaki-q116449375/teriyaki-q116449375-3.jpg",
+    "images/teriyaki-q116449375/teriyaki-q116449375-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52773",
+    "category": "Seafood",
+    "area": "Japanese",
+    "instructions": "Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together.\r\n\r\nHeat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it’s completely cooked inside and the glaze thickens.\r\n\r\nGarnish with sesame and serve immediately.",
+    "ingredients": [
+      {
+        "ingredient": "Salmon",
+        "measure": "1 lb"
+      },
+      {
+        "ingredient": "Olive oil",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Sake",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Sesame Seed",
+        "measure": "4 tablespoons"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=4MpYuaJsvRw",
+    "thumb": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116449375",
+    "themealdb": "52773"
+  }
+}

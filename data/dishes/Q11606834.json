@@ -1,0 +1,18 @@
+{
+  "id": "Q11606834",
+  "name": "Itoin Senbei",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/itoin-senbei-q11606834/itoin-senbei-q11606834-1.jpg",
+    "images/itoin-senbei-q11606834/itoin-senbei-q11606834-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11606834",
+    "themealdb": null
+  }
+}

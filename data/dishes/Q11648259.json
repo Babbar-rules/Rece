@@ -1,0 +1,17 @@
+{
+  "id": "Q11648259",
+  "name": "Kushiro ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kushiro-ramen-q11648259/kushiro-ramen-q11648259-1.jpg",
+    "images/kushiro-ramen-q11648259/kushiro-ramen-q11648259-2.jpg",
+    "images/kushiro-ramen-q11648259/kushiro-ramen-q11648259-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11648259",
+    "themealdb": null
+  }
+}

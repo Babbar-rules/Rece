@@ -1,0 +1,18 @@
+{
+  "id": "Q11625632",
+  "name": "tako senbei",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tako-senbei-q11625632/tako-senbei-q11625632-1.jpg",
+    "images/tako-senbei-q11625632/tako-senbei-q11625632-2.jpg",
+    "images/tako-senbei-q11625632/tako-senbei-q11625632-3.jpg",
+    "images/tako-senbei-q11625632/tako-senbei-q11625632-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11625632",
+    "themealdb": null
+  }
+}

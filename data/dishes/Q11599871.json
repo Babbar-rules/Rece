@@ -1,0 +1,16 @@
+{
+  "id": "Q11599871",
+  "name": "Kasaoka ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kasaoka-ramen-q11599871/kasaoka-ramen-q11599871-1.jpg",
+    "images/kasaoka-ramen-q11599871/kasaoka-ramen-q11599871-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11599871",
+    "themealdb": null
+  }
+}

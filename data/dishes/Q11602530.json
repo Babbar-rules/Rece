@@ -1,0 +1,20 @@
+{
+  "id": "Q11602530",
+  "name": "sasa-zushi",
+  "description": "kind of sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sasa-zushi-q11602530/sasa-zushi-q11602530-1.jpg",
+    "images/sasa-zushi-q11602530/sasa-zushi-q11602530-2.jpg",
+    "images/sasa-zushi-q11602530/sasa-zushi-q11602530-3.jpg",
+    "images/sasa-zushi-q11602530/sasa-zushi-q11602530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11602530",
+    "themealdb": null
+  }
+}

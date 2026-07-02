@@ -1,0 +1,19 @@
+{
+  "id": "Q11586883",
+  "name": "Ishikari-nabe",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ishikari-nabe-q11586883/ishikari-nabe-q11586883-1.jpg",
+    "images/ishikari-nabe-q11586883/ishikari-nabe-q11586883-2.jpg",
+    "images/ishikari-nabe-q11586883/ishikari-nabe-q11586883-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11586883",
+    "themealdb": null
+  }
+}

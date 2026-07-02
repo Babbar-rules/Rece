@@ -1,0 +1,20 @@
+{
+  "id": "Q11616701",
+  "name": "wakakusa",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wakakusa-q11616701/wakakusa-q11616701-1.jpg",
+    "images/wakakusa-q11616701/wakakusa-q11616701-2.jpg",
+    "images/wakakusa-q11616701/wakakusa-q11616701-3.jpg",
+    "images/wakakusa-q11616701/wakakusa-q11616701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11616701",
+    "themealdb": null
+  }
+}

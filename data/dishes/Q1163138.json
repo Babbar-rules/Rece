@@ -1,0 +1,18 @@
+{
+  "id": "Q1163138",
+  "name": "candied fruit",
+  "description": "type of preserved fruit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/candied-fruit-q1163138/candied-fruit-q1163138-1.jpg",
+    "images/candied-fruit-q1163138/candied-fruit-q1163138-2.jpg",
+    "images/candied-fruit-q1163138/candied-fruit-q1163138-3.png",
+    "images/candied-fruit-q1163138/candied-fruit-q1163138-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1163138",
+    "themealdb": null
+  }
+}

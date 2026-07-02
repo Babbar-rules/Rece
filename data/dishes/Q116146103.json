@@ -1,0 +1,18 @@
+{
+  "id": "Q116146103",
+  "name": "battercake",
+  "description": "baked goods made by pouring batter onto a hot griddle or iron",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/battercake-q116146103/battercake-q116146103-1.jpg",
+    "images/battercake-q116146103/battercake-q116146103-2.jpg",
+    "images/battercake-q116146103/battercake-q116146103-3.jpg",
+    "images/battercake-q116146103/battercake-q116146103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116146103",
+    "themealdb": null
+  }
+}

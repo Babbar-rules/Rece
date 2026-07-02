@@ -1,0 +1,18 @@
+{
+  "id": "Q11644490",
+  "name": "shōyu dango",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shoyu-dango-q11644490/shoyu-dango-q11644490-1.jpg",
+    "images/shoyu-dango-q11644490/shoyu-dango-q11644490-2.jpg",
+    "images/shoyu-dango-q11644490/shoyu-dango-q11644490-3.jpg",
+    "images/shoyu-dango-q11644490/shoyu-dango-q11644490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11644490",
+    "themealdb": null
+  }
+}

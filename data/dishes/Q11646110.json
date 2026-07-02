@@ -1,0 +1,18 @@
+{
+  "id": "Q11646110",
+  "name": "yasai itame",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yasai-itame-q11646110/yasai-itame-q11646110-1.jpg",
+    "images/yasai-itame-q11646110/yasai-itame-q11646110-2.jpg",
+    "images/yasai-itame-q11646110/yasai-itame-q11646110-3.jpg",
+    "images/yasai-itame-q11646110/yasai-itame-q11646110-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11646110",
+    "themealdb": null
+  }
+}

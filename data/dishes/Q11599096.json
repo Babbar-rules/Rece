@@ -1,0 +1,17 @@
+{
+  "id": "Q11599096",
+  "name": "Takeoka ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/takeoka-ramen-q11599096/takeoka-ramen-q11599096-1.jpg",
+    "images/takeoka-ramen-q11599096/takeoka-ramen-q11599096-2.jpg",
+    "images/takeoka-ramen-q11599096/takeoka-ramen-q11599096-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11599096",
+    "themealdb": null
+  }
+}

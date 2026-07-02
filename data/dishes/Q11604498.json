@@ -1,0 +1,20 @@
+{
+  "id": "Q11604498",
+  "name": "kasujiru",
+  "description": "sake lee soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kasujiru-q11604498/kasujiru-q11604498-1.jpg",
+    "images/kasujiru-q11604498/kasujiru-q11604498-2.jpg",
+    "images/kasujiru-q11604498/kasujiru-q11604498-3.jpg",
+    "images/kasujiru-q11604498/kasujiru-q11604498-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11604498",
+    "themealdb": null
+  }
+}

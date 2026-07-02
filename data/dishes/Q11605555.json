@@ -1,0 +1,18 @@
+{
+  "id": "Q11605555",
+  "name": "su ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/su-ramen-q11605555/su-ramen-q11605555-1.jpg",
+    "images/su-ramen-q11605555/su-ramen-q11605555-2.jpg",
+    "images/su-ramen-q11605555/su-ramen-q11605555-3.jpg",
+    "images/su-ramen-q11605555/su-ramen-q11605555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11605555",
+    "themealdb": null
+  }
+}

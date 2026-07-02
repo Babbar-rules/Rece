@@ -1,0 +1,20 @@
+{
+  "id": "Q11622168",
+  "name": "Usukawa Manju",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/usukawa-manju-q11622168/usukawa-manju-q11622168-1.jpg",
+    "images/usukawa-manju-q11622168/usukawa-manju-q11622168-2.jpg",
+    "images/usukawa-manju-q11622168/usukawa-manju-q11622168-3.jpg",
+    "images/usukawa-manju-q11622168/usukawa-manju-q11622168-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11622168",
+    "themealdb": null
+  }
+}

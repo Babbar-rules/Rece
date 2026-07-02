@@ -1,0 +1,20 @@
+{
+  "id": "Q1164799",
+  "name": "mattentaart",
+  "description": "Belgian pastry typical for the region of Geraardsbergen and Lierde",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mattentaart-q1164799/mattentaart-q1164799-1.jpg",
+    "images/mattentaart-q1164799/mattentaart-q1164799-2.jpg",
+    "images/mattentaart-q1164799/mattentaart-q1164799-3.jpg",
+    "images/mattentaart-q1164799/mattentaart-q1164799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1164799",
+    "themealdb": null
+  }
+}

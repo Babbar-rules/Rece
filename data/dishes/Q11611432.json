@@ -1,0 +1,20 @@
+{
+  "id": "Q11611432",
+  "name": "niku sui",
+  "description": "Ōsaka's cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/niku-sui-q11611432/niku-sui-q11611432-1.jpg",
+    "images/niku-sui-q11611432/niku-sui-q11611432-2.jpg",
+    "images/niku-sui-q11611432/niku-sui-q11611432-3.jpg",
+    "images/niku-sui-q11611432/niku-sui-q11611432-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11611432",
+    "themealdb": null
+  }
+}

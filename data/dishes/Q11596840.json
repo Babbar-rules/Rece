@@ -1,0 +1,18 @@
+{
+  "id": "Q11596840",
+  "name": "Igamochi",
+  "description": "wagashi in Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/igamochi-q11596840/igamochi-q11596840-1.jpg",
+    "images/igamochi-q11596840/igamochi-q11596840-2.jpg",
+    "images/igamochi-q11596840/igamochi-q11596840-3.jpg",
+    "images/igamochi-q11596840/igamochi-q11596840-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11596840",
+    "themealdb": null
+  }
+}

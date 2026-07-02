@@ -1,0 +1,20 @@
+{
+  "id": "Q116376913",
+  "name": "Wet hamburger",
+  "description": "Turkish street food",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wet-hamburger-q116376913/wet-hamburger-q116376913-1.jpg",
+    "images/wet-hamburger-q116376913/wet-hamburger-q116376913-2.jpg",
+    "images/wet-hamburger-q116376913/wet-hamburger-q116376913-3.jpg",
+    "images/wet-hamburger-q116376913/wet-hamburger-q116376913-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116376913",
+    "themealdb": null
+  }
+}

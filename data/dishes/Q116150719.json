@@ -1,0 +1,20 @@
+{
+  "id": "Q116150719",
+  "name": "Praline",
+  "description": "confections made from nuts",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/praline-q116150719/praline-q116150719-1.jpg",
+    "images/praline-q116150719/praline-q116150719-2.jpg",
+    "images/praline-q116150719/praline-q116150719-3.jpg",
+    "images/praline-q116150719/praline-q116150719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116150719",
+    "themealdb": null
+  }
+}

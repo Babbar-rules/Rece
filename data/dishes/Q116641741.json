@@ -1,0 +1,20 @@
+{
+  "id": "Q116641741",
+  "name": "Biscoff",
+  "description": "Belgian brand of speculoos",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biscoff-q116641741/biscoff-q116641741-1.jpg",
+    "images/biscoff-q116641741/biscoff-q116641741-2.jpg",
+    "images/biscoff-q116641741/biscoff-q116641741-3.jpg",
+    "images/biscoff-q116641741/biscoff-q116641741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116641741",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11643455",
+  "name": "miyako manjū",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miyako-manju-q11643455/miyako-manju-q11643455-1.jpg",
+    "images/miyako-manju-q11643455/miyako-manju-q11643455-2.jpg",
+    "images/miyako-manju-q11643455/miyako-manju-q11643455-3.jpg",
+    "images/miyako-manju-q11643455/miyako-manju-q11643455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11643455",
+    "themealdb": null
+  }
+}

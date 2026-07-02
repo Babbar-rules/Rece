@@ -1,0 +1,18 @@
+{
+  "id": "Q11634325",
+  "name": "tonkotsu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tonkotsu-q11634325/tonkotsu-q11634325-1.jpg",
+    "images/tonkotsu-q11634325/tonkotsu-q11634325-2.jpg",
+    "images/tonkotsu-q11634325/tonkotsu-q11634325-3.jpg",
+    "images/tonkotsu-q11634325/tonkotsu-q11634325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11634325",
+    "themealdb": null
+  }
+}

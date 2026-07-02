@@ -1,0 +1,20 @@
+{
+  "id": "Q11633778",
+  "name": "Toyohashi curry noodles",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toyohashi-curry-noodles-q11633778/toyohashi-curry-noodles-q11633778-1.jpg",
+    "images/toyohashi-curry-noodles-q11633778/toyohashi-curry-noodles-q11633778-2.jpg",
+    "images/toyohashi-curry-noodles-q11633778/toyohashi-curry-noodles-q11633778-3.jpg",
+    "images/toyohashi-curry-noodles-q11633778/toyohashi-curry-noodles-q11633778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11633778",
+    "themealdb": null
+  }
+}

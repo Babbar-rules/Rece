@@ -1,0 +1,20 @@
+{
+  "id": "Q11608010",
+  "name": "nerikiri",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nerikiri-q11608010/nerikiri-q11608010-1.jpg",
+    "images/nerikiri-q11608010/nerikiri-q11608010-2.jpg",
+    "images/nerikiri-q11608010/nerikiri-q11608010-3.jpg",
+    "images/nerikiri-q11608010/nerikiri-q11608010-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11608010",
+    "themealdb": null
+  }
+}

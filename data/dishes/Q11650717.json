@@ -1,0 +1,18 @@
+{
+  "id": "Q11650717",
+  "name": "nabeyaki ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nabeyaki-ramen-q11650717/nabeyaki-ramen-q11650717-1.jpg",
+    "images/nabeyaki-ramen-q11650717/nabeyaki-ramen-q11650717-2.jpg",
+    "images/nabeyaki-ramen-q11650717/nabeyaki-ramen-q11650717-3.jpg",
+    "images/nabeyaki-ramen-q11650717/nabeyaki-ramen-q11650717-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11650717",
+    "themealdb": null
+  }
+}

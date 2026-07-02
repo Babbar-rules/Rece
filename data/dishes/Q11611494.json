@@ -1,0 +1,18 @@
+{
+  "id": "Q11611494",
+  "name": "kimosui",
+  "description": "eel tripe soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kimosui-q11611494/kimosui-q11611494-1.jpg",
+    "images/kimosui-q11611494/kimosui-q11611494-2.jpg",
+    "images/kimosui-q11611494/kimosui-q11611494-3.png",
+    "images/kimosui-q11611494/kimosui-q11611494-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11611494",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q116327",
+  "name": "akashiyaki",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akashiyaki-q116327/akashiyaki-q116327-1.jpg",
+    "images/akashiyaki-q116327/akashiyaki-q116327-2.jpg",
+    "images/akashiyaki-q116327/akashiyaki-q116327-3.jpg",
+    "images/akashiyaki-q116327/akashiyaki-q116327-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116327",
+    "themealdb": null
+  }
+}

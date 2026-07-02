@@ -1,0 +1,18 @@
+{
+  "id": "Q11616139",
+  "name": "wakaayu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wakaayu-q11616139/wakaayu-q11616139-1.jpg",
+    "images/wakaayu-q11616139/wakaayu-q11616139-2.jpg",
+    "images/wakaayu-q11616139/wakaayu-q11616139-3.jpg",
+    "images/wakaayu-q11616139/wakaayu-q11616139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11616139",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q11634490",
+  "name": "Kayakimiso",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kayakimiso-q11634490/kayakimiso-q11634490-1.jpg",
+    "images/kayakimiso-q11634490/kayakimiso-q11634490-2.jpg",
+    "images/kayakimiso-q11634490/kayakimiso-q11634490-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11634490",
+    "themealdb": null
+  }
+}

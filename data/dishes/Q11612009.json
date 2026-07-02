@@ -1,0 +1,18 @@
+{
+  "id": "Q11612009",
+  "name": "Noto Don",
+  "description": "local specialty donburi served in Okunoto Area, Ishikawa Prefecture, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/noto-don-q11612009/noto-don-q11612009-1.jpg",
+    "images/noto-don-q11612009/noto-don-q11612009-2.jpg",
+    "images/noto-don-q11612009/noto-don-q11612009-3.jpg",
+    "images/noto-don-q11612009/noto-don-q11612009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11612009",
+    "themealdb": null
+  }
+}

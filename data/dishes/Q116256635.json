@@ -1,0 +1,18 @@
+{
+  "id": "Q116256635",
+  "name": "vongole pasta",
+  "description": "pasta dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vongole-pasta-q116256635/vongole-pasta-q116256635-1.jpg",
+    "images/vongole-pasta-q116256635/vongole-pasta-q116256635-2.jpg",
+    "images/vongole-pasta-q116256635/vongole-pasta-q116256635-3.jpg",
+    "images/vongole-pasta-q116256635/vongole-pasta-q116256635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116256635",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11611813",
+  "name": "goma-saba",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goma-saba-q11611813/goma-saba-q11611813-1.jpg",
+    "images/goma-saba-q11611813/goma-saba-q11611813-2.jpg",
+    "images/goma-saba-q11611813/goma-saba-q11611813-3.jpg",
+    "images/goma-saba-q11611813/goma-saba-q11611813-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11611813",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11635249",
+  "name": "Akadashi",
+  "description": "Red miso soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akadashi-q11635249/akadashi-q11635249-1.jpg",
+    "images/akadashi-q11635249/akadashi-q11635249-2.jpg",
+    "images/akadashi-q11635249/akadashi-q11635249-3.jpg",
+    "images/akadashi-q11635249/akadashi-q11635249-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11635249",
+    "themealdb": null
+  }
+}

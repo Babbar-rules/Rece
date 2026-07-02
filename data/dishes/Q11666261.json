@@ -1,0 +1,18 @@
+{
+  "id": "Q11666261",
+  "name": "i-zushi",
+  "description": "style of sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/i-zushi-q11666261/i-zushi-q11666261-1.jpg",
+    "images/i-zushi-q11666261/i-zushi-q11666261-2.jpg",
+    "images/i-zushi-q11666261/i-zushi-q11666261-3.jpg",
+    "images/i-zushi-q11666261/i-zushi-q11666261-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11666261",
+    "themealdb": null
+  }
+}

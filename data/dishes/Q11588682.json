@@ -1,0 +1,16 @@
+{
+  "id": "Q11588682",
+  "name": "Jindai curry",
+  "description": "curry dish from Semboku, Akita Prefecture, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jindai-curry-q11588682/jindai-curry-q11588682-1.jpg",
+    "images/jindai-curry-q11588682/jindai-curry-q11588682-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11588682",
+    "themealdb": null
+  }
+}

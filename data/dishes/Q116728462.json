@@ -1,0 +1,22 @@
+{
+  "id": "Q116728462",
+  "name": "Zaazaa",
+  "description": "Moroccan smoothie",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [
+    "Moroccan cuisine"
+  ],
+  "images": [
+    "images/zaazaa-q116728462/zaazaa-q116728462-1.jpg",
+    "images/zaazaa-q116728462/zaazaa-q116728462-2.jpg",
+    "images/zaazaa-q116728462/zaazaa-q116728462-3.png",
+    "images/zaazaa-q116728462/zaazaa-q116728462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116728462",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q116543927",
+  "name": "Espeto de rojão",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/espeto-de-rojao-q116543927/espeto-de-rojao-q116543927-1.jpg",
+    "images/espeto-de-rojao-q116543927/espeto-de-rojao-q116543927-2.jpg",
+    "images/espeto-de-rojao-q116543927/espeto-de-rojao-q116543927-3.jpg",
+    "images/espeto-de-rojao-q116543927/espeto-de-rojao-q116543927-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116543927",
+    "themealdb": null
+  }
+}

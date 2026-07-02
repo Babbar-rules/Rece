@@ -1,0 +1,20 @@
+{
+  "id": "Q11669310",
+  "name": "Takayama ramen",
+  "description": "style of Japanese ramen",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/takayama-ramen-q11669310/takayama-ramen-q11669310-1.jpg",
+    "images/takayama-ramen-q11669310/takayama-ramen-q11669310-2.jpg",
+    "images/takayama-ramen-q11669310/takayama-ramen-q11669310-3.jpg",
+    "images/takayama-ramen-q11669310/takayama-ramen-q11669310-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11669310",
+    "themealdb": null
+  }
+}
