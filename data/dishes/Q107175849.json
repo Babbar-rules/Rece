@@ -1,0 +1,18 @@
+{
+  "id": "Q107175849",
+  "name": "Altoona-style pizza",
+  "description": "pizza style from Altoona, Pennsylvania, US, consisting of a Sicilian-style dough topped wtih tomato sauce, green bell pepper, salami and American cheese that is cut into squares",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/altoona-style-pizza-q107175849/altoona-style-pizza-q107175849-1.jpg",
+    "images/altoona-style-pizza-q107175849/altoona-style-pizza-q107175849-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107175849",
+    "themealdb": null
+  }
+}

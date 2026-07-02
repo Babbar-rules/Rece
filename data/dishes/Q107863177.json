@@ -1,0 +1,18 @@
+{
+  "id": "Q107863177",
+  "name": "yam balls",
+  "description": "Nigerian dish with mashed boiled yam, eggs, peppers and spices moulded into ball shape and fried",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yam-balls-q107863177/yam-balls-q107863177-1.jpg",
+    "images/yam-balls-q107863177/yam-balls-q107863177-2.jpg",
+    "images/yam-balls-q107863177/yam-balls-q107863177-3.jpg",
+    "images/yam-balls-q107863177/yam-balls-q107863177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107863177",
+    "themealdb": null
+  }
+}

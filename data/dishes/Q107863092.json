@@ -1,0 +1,18 @@
+{
+  "id": "Q107863092",
+  "name": "Garnished liver sauce",
+  "description": "rich Nigeria dish which consists of chopped liver, chopped onion, pepper and other spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garnished-liver-sauce-q107863092/garnished-liver-sauce-q107863092-1.jpg",
+    "images/garnished-liver-sauce-q107863092/garnished-liver-sauce-q107863092-2.jpg",
+    "images/garnished-liver-sauce-q107863092/garnished-liver-sauce-q107863092-3.jpg",
+    "images/garnished-liver-sauce-q107863092/garnished-liver-sauce-q107863092-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107863092",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q10753530",
+  "name": "Lechazo",
+  "description": "Spanish lamb dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lechazo-q10753530/lechazo-q10753530-1.jpg",
+    "images/lechazo-q10753530/lechazo-q10753530-2.jpg",
+    "images/lechazo-q10753530/lechazo-q10753530-3.jpg",
+    "images/lechazo-q10753530/lechazo-q10753530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10753530",
+    "themealdb": null
+  }
+}

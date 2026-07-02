@@ -1,0 +1,20 @@
+{
+  "id": "Q107489664",
+  "name": "Amiwô",
+  "description": "Beninese porridge",
+  "nationality": [
+    "Benin"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amiwo-q107489664/amiwo-q107489664-1.jpg",
+    "images/amiwo-q107489664/amiwo-q107489664-2.jpg",
+    "images/amiwo-q107489664/amiwo-q107489664-3.jpg",
+    "images/amiwo-q107489664/amiwo-q107489664-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107489664",
+    "themealdb": null
+  }
+}

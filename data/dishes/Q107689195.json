@@ -1,0 +1,18 @@
+{
+  "id": "Q107689195",
+  "name": "cooked glutinous rice",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cooked-glutinous-rice-q107689195/cooked-glutinous-rice-q107689195-1.gif",
+    "images/cooked-glutinous-rice-q107689195/cooked-glutinous-rice-q107689195-2.gif",
+    "images/cooked-glutinous-rice-q107689195/cooked-glutinous-rice-q107689195-3.jpg",
+    "images/cooked-glutinous-rice-q107689195/cooked-glutinous-rice-q107689195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107689195",
+    "themealdb": null
+  }
+}

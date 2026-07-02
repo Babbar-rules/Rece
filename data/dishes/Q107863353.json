@@ -1,0 +1,18 @@
+{
+  "id": "Q107863353",
+  "name": "Buns snack",
+  "description": "Nigerian Buns is one of the popular snacks in Nigeria. It’s a bit crusty on the outside but fluffy inside. A bun is a small, sometimes sweet, bread-based item or roll. Though they come in many shapes and sizes, they are most commonly hand-sized.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buns-snack-q107863353/buns-snack-q107863353-1.jpg",
+    "images/buns-snack-q107863353/buns-snack-q107863353-2.jpg",
+    "images/buns-snack-q107863353/buns-snack-q107863353-3.jpg",
+    "images/buns-snack-q107863353/buns-snack-q107863353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107863353",
+    "themealdb": null
+  }
+}

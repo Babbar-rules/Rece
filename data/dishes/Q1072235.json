@@ -1,0 +1,20 @@
+{
+  "id": "Q1072235",
+  "name": "Vasilopita",
+  "description": "New Year's Day bread or cake in Greece and many other areas in eastern Europe and the Balkans which contains a hidden coin or trinket which gives good luck to the receiver",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vasilopita-q1072235/vasilopita-q1072235-1.jpg",
+    "images/vasilopita-q1072235/vasilopita-q1072235-2.jpg",
+    "images/vasilopita-q1072235/vasilopita-q1072235-3.jpg",
+    "images/vasilopita-q1072235/vasilopita-q1072235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1072235",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q107092059",
+  "name": "choesels",
+  "description": "dish from Brussels, Belgium",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107092059",
+    "themealdb": null
+  }
+}

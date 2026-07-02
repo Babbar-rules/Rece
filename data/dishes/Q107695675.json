@@ -1,0 +1,19 @@
+{
+  "id": "Q107695675",
+  "name": "Shʿifūra",
+  "description": "Syrian vegetarian dish",
+  "nationality": [
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shifura-q107695675/shifura-q107695675-1.jpg",
+    "images/shifura-q107695675/shifura-q107695675-2.jpg",
+    "images/shifura-q107695675/shifura-q107695675-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107695675",
+    "themealdb": null
+  }
+}

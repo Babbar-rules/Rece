@@ -1,0 +1,20 @@
+{
+  "id": "Q1073174",
+  "name": "jeotgal",
+  "description": "Korean salted seafood category",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeotgal-q1073174/jeotgal-q1073174-1.jpg",
+    "images/jeotgal-q1073174/jeotgal-q1073174-2.jpg",
+    "images/jeotgal-q1073174/jeotgal-q1073174-3.jpg",
+    "images/jeotgal-q1073174/jeotgal-q1073174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1073174",
+    "themealdb": null
+  }
+}

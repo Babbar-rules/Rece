@@ -1,0 +1,20 @@
+{
+  "id": "Q1078202",
+  "name": "Welsh cake",
+  "description": "Welsh traditional sweet bread made of flour, butter or lard, currants, eggs, milk and spices",
+  "nationality": [
+    "Wales"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/welsh-cake-q1078202/welsh-cake-q1078202-1.jpg",
+    "images/welsh-cake-q1078202/welsh-cake-q1078202-2.jpg",
+    "images/welsh-cake-q1078202/welsh-cake-q1078202-3.jpg",
+    "images/welsh-cake-q1078202/welsh-cake-q1078202-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1078202",
+    "themealdb": null
+  }
+}

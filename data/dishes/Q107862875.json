@@ -1,0 +1,18 @@
+{
+  "id": "Q107862875",
+  "name": "Cowtail peppersoup",
+  "description": "Nigerian cowtail peppersoup is a mouthwatering peppersoup made with Cowtail, spices,peppers and other ingredients.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cowtail-peppersoup-q107862875/cowtail-peppersoup-q107862875-1.jpg",
+    "images/cowtail-peppersoup-q107862875/cowtail-peppersoup-q107862875-2.jpg",
+    "images/cowtail-peppersoup-q107862875/cowtail-peppersoup-q107862875-3.jpg",
+    "images/cowtail-peppersoup-q107862875/cowtail-peppersoup-q107862875-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107862875",
+    "themealdb": null
+  }
+}

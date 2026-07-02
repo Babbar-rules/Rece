@@ -1,0 +1,20 @@
+{
+  "id": "Q1075430",
+  "name": "gomguk",
+  "description": "Korean soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gomguk-q1075430/gomguk-q1075430-1.jpg",
+    "images/gomguk-q1075430/gomguk-q1075430-2.jpg",
+    "images/gomguk-q1075430/gomguk-q1075430-3.jpg",
+    "images/gomguk-q1075430/gomguk-q1075430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1075430",
+    "themealdb": null
+  }
+}

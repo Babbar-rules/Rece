@@ -1,0 +1,18 @@
+{
+  "id": "Q10749145",
+  "name": "smulpaj",
+  "description": "Swedish dessert",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smulpaj-q10749145/smulpaj-q10749145-1.jpg",
+    "images/smulpaj-q10749145/smulpaj-q10749145-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10749145",
+    "themealdb": null
+  }
+}

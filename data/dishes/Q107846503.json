@@ -1,0 +1,18 @@
+{
+  "id": "Q107846503",
+  "name": "Okoho soup",
+  "description": "Okoho is the main traditional food peculiar to the Idoma people of Benue State Nigeria.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okoho-soup-q107846503/okoho-soup-q107846503-1.jpg",
+    "images/okoho-soup-q107846503/okoho-soup-q107846503-2.jpg",
+    "images/okoho-soup-q107846503/okoho-soup-q107846503-3.jpg",
+    "images/okoho-soup-q107846503/okoho-soup-q107846503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107846503",
+    "themealdb": null
+  }
+}

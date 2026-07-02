@@ -1,0 +1,18 @@
+{
+  "id": "Q1075514",
+  "name": "McMuffin",
+  "description": "breakfast sandwiches sold by McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcmuffin-q1075514/mcmuffin-q1075514-1.jpg",
+    "images/mcmuffin-q1075514/mcmuffin-q1075514-2.jpg",
+    "images/mcmuffin-q1075514/mcmuffin-q1075514-3.jpg",
+    "images/mcmuffin-q1075514/mcmuffin-q1075514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1075514",
+    "themealdb": null
+  }
+}

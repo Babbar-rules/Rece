@@ -1,0 +1,18 @@
+{
+  "id": "Q106919072",
+  "name": "Colliders",
+  "description": "candy food brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/colliders-q106919072/colliders-q106919072-1.jpg",
+    "images/colliders-q106919072/colliders-q106919072-2.jpg",
+    "images/colliders-q106919072/colliders-q106919072-3.png",
+    "images/colliders-q106919072/colliders-q106919072-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106919072",
+    "themealdb": null
+  }
+}

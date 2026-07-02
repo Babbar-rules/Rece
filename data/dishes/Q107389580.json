@@ -1,0 +1,17 @@
+{
+  "id": "Q107389580",
+  "name": "polenta concia",
+  "description": "Italian polenta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/polenta-concia-q107389580/polenta-concia-q107389580-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107389580",
+    "themealdb": null
+  }
+}

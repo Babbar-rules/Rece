@@ -1,0 +1,25 @@
+{
+  "id": "Q107306926",
+  "name": "Indigenous Chocolate",
+  "description": "name translation describing a type of chocolate sourced by Amerindian natives at the origin of Theobroma cacao entered in commerce and maritime law by 1644",
+  "nationality": [
+    "Brazil",
+    "Peru",
+    "Guyana",
+    "Venezuela",
+    "Ecuador",
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/indigenous-chocolate-q107306926/indigenous-chocolate-q107306926-1.jpg",
+    "images/indigenous-chocolate-q107306926/indigenous-chocolate-q107306926-2.jpg",
+    "images/indigenous-chocolate-q107306926/indigenous-chocolate-q107306926-3.png",
+    "images/indigenous-chocolate-q107306926/indigenous-chocolate-q107306926-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107306926",
+    "themealdb": null
+  }
+}

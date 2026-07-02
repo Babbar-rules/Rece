@@ -1,0 +1,22 @@
+{
+  "id": "Q1072203",
+  "name": "Buffalo wings",
+  "description": "American food dish of spicy chicken wings",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/buffalo-wings-q1072203/buffalo-wings-q1072203-1.jpg",
+    "images/buffalo-wings-q1072203/buffalo-wings-q1072203-2.jpg",
+    "images/buffalo-wings-q1072203/buffalo-wings-q1072203-3.jpg",
+    "images/buffalo-wings-q1072203/buffalo-wings-q1072203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1072203",
+    "themealdb": null
+  }
+}

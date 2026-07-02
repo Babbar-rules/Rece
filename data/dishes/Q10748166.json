@@ -1,0 +1,20 @@
+{
+  "id": "Q10748166",
+  "name": "cháo lòng",
+  "description": "Vietnamese porridge",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chao-long-q10748166/chao-long-q10748166-1.jpg",
+    "images/chao-long-q10748166/chao-long-q10748166-2.jpg",
+    "images/chao-long-q10748166/chao-long-q10748166-3.jpg",
+    "images/chao-long-q10748166/chao-long-q10748166-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10748166",
+    "themealdb": null
+  }
+}

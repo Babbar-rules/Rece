@@ -1,0 +1,17 @@
+{
+  "id": "Q107413926",
+  "name": "Bolacha Piedade",
+  "description": "traditional setúbal biscuit",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolacha-piedade-q107413926/bolacha-piedade-q107413926-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107413926",
+    "themealdb": null
+  }
+}

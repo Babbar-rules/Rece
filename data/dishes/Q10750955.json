@@ -1,0 +1,20 @@
+{
+  "id": "Q10750955",
+  "name": "babi panggang",
+  "description": "Indonesian grilled pork dishes",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/babi-panggang-q10750955/babi-panggang-q10750955-1.jpg",
+    "images/babi-panggang-q10750955/babi-panggang-q10750955-2.jpg",
+    "images/babi-panggang-q10750955/babi-panggang-q10750955-3.jpg",
+    "images/babi-panggang-q10750955/babi-panggang-q10750955-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10750955",
+    "themealdb": null
+  }
+}

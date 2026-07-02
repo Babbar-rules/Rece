@@ -1,0 +1,20 @@
+{
+  "id": "Q107330963",
+  "name": "Brizza",
+  "description": "",
+  "nationality": [
+    "Aschaffenburg"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brizza-q107330963/brizza-q107330963-1.jpg",
+    "images/brizza-q107330963/brizza-q107330963-2.jpg",
+    "images/brizza-q107330963/brizza-q107330963-3.jpg",
+    "images/brizza-q107330963/brizza-q107330963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107330963",
+    "themealdb": null
+  }
+}

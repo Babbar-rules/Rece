@@ -1,0 +1,20 @@
+{
+  "id": "Q1069561",
+  "name": "yukgaejang",
+  "description": "food",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yukgaejang-q1069561/yukgaejang-q1069561-1.jpg",
+    "images/yukgaejang-q1069561/yukgaejang-q1069561-2.jpg",
+    "images/yukgaejang-q1069561/yukgaejang-q1069561-3.jpg",
+    "images/yukgaejang-q1069561/yukgaejang-q1069561-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1069561",
+    "themealdb": null
+  }
+}

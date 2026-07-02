@@ -1,0 +1,18 @@
+{
+  "id": "Q10706168",
+  "name": "Tulo",
+  "description": "Swedish confectionery product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tulo-q10706168/tulo-q10706168-1.jpg",
+    "images/tulo-q10706168/tulo-q10706168-2.jpg",
+    "images/tulo-q10706168/tulo-q10706168-3.jpg",
+    "images/tulo-q10706168/tulo-q10706168-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10706168",
+    "themealdb": null
+  }
+}

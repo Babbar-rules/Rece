@@ -1,0 +1,20 @@
+{
+  "id": "Q107739566",
+  "name": "yam ring",
+  "description": "Singaporean dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yam-ring-q107739566/yam-ring-q107739566-1.jpg",
+    "images/yam-ring-q107739566/yam-ring-q107739566-2.jpg",
+    "images/yam-ring-q107739566/yam-ring-q107739566-3.jpg",
+    "images/yam-ring-q107739566/yam-ring-q107739566-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107739566",
+    "themealdb": null
+  }
+}

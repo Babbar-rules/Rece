@@ -1,0 +1,20 @@
+{
+  "id": "Q10742234",
+  "name": "bánh đa cua",
+  "description": "Vietnamese noodle soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-a-cua-q10742234/banh-a-cua-q10742234-1.jpg",
+    "images/banh-a-cua-q10742234/banh-a-cua-q10742234-2.jpg",
+    "images/banh-a-cua-q10742234/banh-a-cua-q10742234-3.jpg",
+    "images/banh-a-cua-q10742234/banh-a-cua-q10742234-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10742234",
+    "themealdb": null
+  }
+}

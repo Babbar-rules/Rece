@@ -1,0 +1,18 @@
+{
+  "id": "Q1073888",
+  "name": "dried shredded squid",
+  "description": "seafood product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dried-shredded-squid-q1073888/dried-shredded-squid-q1073888-1.jpg",
+    "images/dried-shredded-squid-q1073888/dried-shredded-squid-q1073888-2.jpg",
+    "images/dried-shredded-squid-q1073888/dried-shredded-squid-q1073888-3.jpg",
+    "images/dried-shredded-squid-q1073888/dried-shredded-squid-q1073888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1073888",
+    "themealdb": null
+  }
+}

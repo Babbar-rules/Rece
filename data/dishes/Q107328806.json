@@ -1,0 +1,18 @@
+{
+  "id": "Q107328806",
+  "name": "fried whitefish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-whitefish-q107328806/fried-whitefish-q107328806-1.jpg",
+    "images/fried-whitefish-q107328806/fried-whitefish-q107328806-2.jpg",
+    "images/fried-whitefish-q107328806/fried-whitefish-q107328806-3.jpg",
+    "images/fried-whitefish-q107328806/fried-whitefish-q107328806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107328806",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10748896",
+  "name": "Khorkhog",
+  "description": "Mongolian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/khorkhog-q10748896/khorkhog-q10748896-1.jpg",
+    "images/khorkhog-q10748896/khorkhog-q10748896-2.jpg",
+    "images/khorkhog-q10748896/khorkhog-q10748896-3.jpg",
+    "images/khorkhog-q10748896/khorkhog-q10748896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10748896",
+    "themealdb": null
+  }
+}

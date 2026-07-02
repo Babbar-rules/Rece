@@ -1,0 +1,20 @@
+{
+  "id": "Q1069591",
+  "name": "jeonbok-juk",
+  "description": "Korean abalone rice porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeonbok-juk-q1069591/jeonbok-juk-q1069591-1.jpg",
+    "images/jeonbok-juk-q1069591/jeonbok-juk-q1069591-2.jpg",
+    "images/jeonbok-juk-q1069591/jeonbok-juk-q1069591-3.jpg",
+    "images/jeonbok-juk-q1069591/jeonbok-juk-q1069591-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1069591",
+    "themealdb": null
+  }
+}

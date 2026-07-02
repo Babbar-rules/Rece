@@ -1,0 +1,18 @@
+{
+  "id": "Q107001355",
+  "name": "gummy worm",
+  "description": "fruit gum candy shaped in the form of a worm",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gummy-worm-q107001355/gummy-worm-q107001355-1.jpg",
+    "images/gummy-worm-q107001355/gummy-worm-q107001355-2.jpg",
+    "images/gummy-worm-q107001355/gummy-worm-q107001355-3.jpg",
+    "images/gummy-worm-q107001355/gummy-worm-q107001355-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107001355",
+    "themealdb": null
+  }
+}

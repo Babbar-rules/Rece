@@ -1,0 +1,20 @@
+{
+  "id": "Q10749957",
+  "name": "sole meunière",
+  "description": "French fish dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sole-meuniere-q10749957/sole-meuniere-q10749957-1.jpg",
+    "images/sole-meuniere-q10749957/sole-meuniere-q10749957-2.jpg",
+    "images/sole-meuniere-q10749957/sole-meuniere-q10749957-3.jpg",
+    "images/sole-meuniere-q10749957/sole-meuniere-q10749957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10749957",
+    "themealdb": null
+  }
+}

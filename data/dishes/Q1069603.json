@@ -1,0 +1,22 @@
+{
+  "id": "Q1069603",
+  "name": "rassolnik",
+  "description": "soup made from pickled cucumbers and other ingredients",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/rassolnik-q1069603/rassolnik-q1069603-1.jpg",
+    "images/rassolnik-q1069603/rassolnik-q1069603-2.jpg",
+    "images/rassolnik-q1069603/rassolnik-q1069603-3.jpg",
+    "images/rassolnik-q1069603/rassolnik-q1069603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1069603",
+    "themealdb": null
+  }
+}

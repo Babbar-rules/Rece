@@ -1,0 +1,22 @@
+{
+  "id": "Q10725554",
+  "name": "äggost",
+  "description": "type of cheese based on milk and eggs that is eaten on festive occasions in Sweden",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/aggost-q10725554/aggost-q10725554-1.jpg",
+    "images/aggost-q10725554/aggost-q10725554-2.jpg",
+    "images/aggost-q10725554/aggost-q10725554-3.jpg",
+    "images/aggost-q10725554/aggost-q10725554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10725554",
+    "themealdb": null
+  }
+}

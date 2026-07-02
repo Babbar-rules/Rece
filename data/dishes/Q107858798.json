@@ -1,0 +1,18 @@
+{
+  "id": "Q107858798",
+  "name": "stick meat",
+  "description": "easy-to-prepare Nigerian snack, also known as beef skewers or beef kebabs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stick-meat-q107858798/stick-meat-q107858798-1.jpg",
+    "images/stick-meat-q107858798/stick-meat-q107858798-2.jpg",
+    "images/stick-meat-q107858798/stick-meat-q107858798-3.jpg",
+    "images/stick-meat-q107858798/stick-meat-q107858798-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107858798",
+    "themealdb": null
+  }
+}

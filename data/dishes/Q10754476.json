@@ -1,0 +1,20 @@
+{
+  "id": "Q10754476",
+  "name": "Kuchen",
+  "description": "umbrella term for multiple kinds of pastry",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuchen-q10754476/kuchen-q10754476-1.jpg",
+    "images/kuchen-q10754476/kuchen-q10754476-2.jpg",
+    "images/kuchen-q10754476/kuchen-q10754476-3.jpg",
+    "images/kuchen-q10754476/kuchen-q10754476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10754476",
+    "themealdb": null
+  }
+}

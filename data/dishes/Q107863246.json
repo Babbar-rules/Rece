@@ -1,0 +1,16 @@
+{
+  "id": "Q107863246",
+  "name": "Moringa smoothie",
+  "description": "Moringa smoothie is a rich antioxidant drink that fights against oxygen-free radicals, which can contribute to cholesterol build-up and inflammation.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/moringa-smoothie-q107863246/moringa-smoothie-q107863246-1.jpg",
+    "images/moringa-smoothie-q107863246/moringa-smoothie-q107863246-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107863246",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q107862812",
+  "name": "Alkaki",
+  "description": "Nigerian sanck",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alkaki-q107862812/alkaki-q107862812-1.jpg",
+    "images/alkaki-q107862812/alkaki-q107862812-2.jpg",
+    "images/alkaki-q107862812/alkaki-q107862812-3.jpg",
+    "images/alkaki-q107862812/alkaki-q107862812-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107862812",
+    "themealdb": null
+  }
+}

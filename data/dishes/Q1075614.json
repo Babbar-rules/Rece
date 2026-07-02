@@ -1,0 +1,20 @@
+{
+  "id": "Q1075614",
+  "name": "choco pie",
+  "description": "snack cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/choco-pie-q1075614/choco-pie-q1075614-1.jpg",
+    "images/choco-pie-q1075614/choco-pie-q1075614-2.jpg",
+    "images/choco-pie-q1075614/choco-pie-q1075614-3.jpg",
+    "images/choco-pie-q1075614/choco-pie-q1075614-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1075614",
+    "themealdb": null
+  }
+}

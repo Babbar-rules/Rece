@@ -1,0 +1,18 @@
+{
+  "id": "Q107739770",
+  "name": "Queso ice cream",
+  "description": "Filipino ice cream made with cheese",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/queso-ice-cream-q107739770/queso-ice-cream-q107739770-1.jpg",
+    "images/queso-ice-cream-q107739770/queso-ice-cream-q107739770-2.jpg",
+    "images/queso-ice-cream-q107739770/queso-ice-cream-q107739770-3.jpg",
+    "images/queso-ice-cream-q107739770/queso-ice-cream-q107739770-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107739770",
+    "themealdb": null
+  }
+}

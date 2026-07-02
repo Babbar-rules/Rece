@@ -1,0 +1,20 @@
+{
+  "id": "Q1073156",
+  "name": "baekkimchi",
+  "description": "kimchi made without the chili pepper powder",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baekkimchi-q1073156/baekkimchi-q1073156-1.jpg",
+    "images/baekkimchi-q1073156/baekkimchi-q1073156-2.jpg",
+    "images/baekkimchi-q1073156/baekkimchi-q1073156-3.jpg",
+    "images/baekkimchi-q1073156/baekkimchi-q1073156-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1073156",
+    "themealdb": null
+  }
+}

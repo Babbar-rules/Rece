@@ -1,0 +1,18 @@
+{
+  "id": "Q107645851",
+  "name": "dombolo",
+  "description": "traditional South African steamed bread",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dombolo-q107645851/dombolo-q107645851-1.jpg",
+    "images/dombolo-q107645851/dombolo-q107645851-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107645851",
+    "themealdb": null
+  }
+}

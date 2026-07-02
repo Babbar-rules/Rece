@@ -1,0 +1,20 @@
+{
+  "id": "Q10699143",
+  "name": "toast skagen",
+  "description": "Swedish toast dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toast-skagen-q10699143/toast-skagen-q10699143-1.jpg",
+    "images/toast-skagen-q10699143/toast-skagen-q10699143-2.jpg",
+    "images/toast-skagen-q10699143/toast-skagen-q10699143-3.jpg",
+    "images/toast-skagen-q10699143/toast-skagen-q10699143-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10699143",
+    "themealdb": null
+  }
+}

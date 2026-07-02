@@ -1,0 +1,20 @@
+{
+  "id": "Q107358749",
+  "name": "Egusi soup",
+  "description": "Nigerian soup made of grounded egusi and other ingredients.",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egusi-soup-q107358749/egusi-soup-q107358749-1.jpg",
+    "images/egusi-soup-q107358749/egusi-soup-q107358749-2.jpg",
+    "images/egusi-soup-q107358749/egusi-soup-q107358749-3.jpg",
+    "images/egusi-soup-q107358749/egusi-soup-q107358749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107358749",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q107093014",
+  "name": "Antep Baklava",
+  "description": "baklava from the City of Gaziantep, Turkey, as recognized by the EU",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/antep-baklava-q107093014/antep-baklava-q107093014-1.jpg",
+    "images/antep-baklava-q107093014/antep-baklava-q107093014-2.png",
+    "images/antep-baklava-q107093014/antep-baklava-q107093014-3.jpg",
+    "images/antep-baklava-q107093014/antep-baklava-q107093014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107093014",
+    "themealdb": null
+  }
+}

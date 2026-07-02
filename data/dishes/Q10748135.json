@@ -1,0 +1,20 @@
+{
+  "id": "Q10748135",
+  "name": "kelewele",
+  "description": "Ghanaian fried plantain dish with roasted groundnut",
+  "nationality": [
+    "Ghana"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kelewele-q10748135/kelewele-q10748135-1.jpg",
+    "images/kelewele-q10748135/kelewele-q10748135-2.jpg",
+    "images/kelewele-q10748135/kelewele-q10748135-3.jpg",
+    "images/kelewele-q10748135/kelewele-q10748135-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10748135",
+    "themealdb": null
+  }
+}

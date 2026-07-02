@@ -1,0 +1,18 @@
+{
+  "id": "Q107863049",
+  "name": "Yamarita",
+  "description": "Yamarita is plain boiled yam that is coated in egg, flour, ginger, garlic, and salt and fried. This is one of the most popular Hausa food in Nigeria.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yamarita-q107863049/yamarita-q107863049-1.jpg",
+    "images/yamarita-q107863049/yamarita-q107863049-2.jpg",
+    "images/yamarita-q107863049/yamarita-q107863049-3.jpg",
+    "images/yamarita-q107863049/yamarita-q107863049-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107863049",
+    "themealdb": null
+  }
+}

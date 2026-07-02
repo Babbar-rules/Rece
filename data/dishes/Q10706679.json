@@ -1,0 +1,18 @@
+{
+  "id": "Q10706679",
+  "name": "Tuttul",
+  "description": "dish on flatbread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tuttul-q10706679/tuttul-q10706679-1.jpg",
+    "images/tuttul-q10706679/tuttul-q10706679-2.jpg",
+    "images/tuttul-q10706679/tuttul-q10706679-3.jpg",
+    "images/tuttul-q10706679/tuttul-q10706679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10706679",
+    "themealdb": null
+  }
+}

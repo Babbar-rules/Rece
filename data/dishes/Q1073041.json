@@ -1,0 +1,20 @@
+{
+  "id": "Q1073041",
+  "name": "coconut bar",
+  "description": "white, chilled, gelatinous southern Chinese dessert",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-bar-q1073041/coconut-bar-q1073041-1.jpg",
+    "images/coconut-bar-q1073041/coconut-bar-q1073041-2.jpg",
+    "images/coconut-bar-q1073041/coconut-bar-q1073041-3.jpg",
+    "images/coconut-bar-q1073041/coconut-bar-q1073041-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1073041",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q107841628",
+  "name": "chicken stew",
+  "description": "West African stew made with chicken thighs and simmered in a sauce made with tomatoes and peppers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-stew-q107841628/chicken-stew-q107841628-1.jpeg",
+    "images/chicken-stew-q107841628/chicken-stew-q107841628-2.jpg",
+    "images/chicken-stew-q107841628/chicken-stew-q107841628-3.jpg",
+    "images/chicken-stew-q107841628/chicken-stew-q107841628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107841628",
+    "themealdb": null
+  }
+}

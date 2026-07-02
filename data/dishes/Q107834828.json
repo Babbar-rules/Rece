@@ -1,0 +1,20 @@
+{
+  "id": "Q107834828",
+  "name": "catfish pepper soup",
+  "description": "spicy fish dish in Nigeria",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/catfish-pepper-soup-q107834828/catfish-pepper-soup-q107834828-1.jpg",
+    "images/catfish-pepper-soup-q107834828/catfish-pepper-soup-q107834828-2.jpg",
+    "images/catfish-pepper-soup-q107834828/catfish-pepper-soup-q107834828-3.jpg",
+    "images/catfish-pepper-soup-q107834828/catfish-pepper-soup-q107834828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107834828",
+    "themealdb": null
+  }
+}

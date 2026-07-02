@@ -1,0 +1,20 @@
+{
+  "id": "Q107370151",
+  "name": "Rosquilleta",
+  "description": "traditional Valencian food",
+  "nationality": [
+    "Valencian Community"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosquilleta-q107370151/rosquilleta-q107370151-1.jpg",
+    "images/rosquilleta-q107370151/rosquilleta-q107370151-2.jpg",
+    "images/rosquilleta-q107370151/rosquilleta-q107370151-3.jpg",
+    "images/rosquilleta-q107370151/rosquilleta-q107370151-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107370151",
+    "themealdb": null
+  }
+}

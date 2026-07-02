@@ -1,0 +1,18 @@
+{
+  "id": "Q107695269",
+  "name": "cooked grain",
+  "description": "cooked rice and/or other grains as the staple food, or a meal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cooked-grain-q107695269/cooked-grain-q107695269-1.jpg",
+    "images/cooked-grain-q107695269/cooked-grain-q107695269-2.jpg",
+    "images/cooked-grain-q107695269/cooked-grain-q107695269-3.jpg",
+    "images/cooked-grain-q107695269/cooked-grain-q107695269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107695269",
+    "themealdb": null
+  }
+}

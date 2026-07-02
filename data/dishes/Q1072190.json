@@ -1,0 +1,22 @@
+{
+  "id": "Q1072190",
+  "name": "chicken nugget",
+  "description": "chicken product made from chicken meat that is breaded or battered, then deep-fried or baked",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/chicken-nugget-q1072190/chicken-nugget-q1072190-1.jpg",
+    "images/chicken-nugget-q1072190/chicken-nugget-q1072190-2.jpg",
+    "images/chicken-nugget-q1072190/chicken-nugget-q1072190-3.jpg",
+    "images/chicken-nugget-q1072190/chicken-nugget-q1072190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1072190",
+    "themealdb": null
+  }
+}

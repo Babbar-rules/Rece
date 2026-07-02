@@ -1,0 +1,18 @@
+{
+  "id": "Q107111834",
+  "name": "quark roll",
+  "description": "type of roll",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/quark-roll-q107111834/quark-roll-q107111834-1.jpg",
+    "images/quark-roll-q107111834/quark-roll-q107111834-2.jpg",
+    "images/quark-roll-q107111834/quark-roll-q107111834-3.jpg",
+    "images/quark-roll-q107111834/quark-roll-q107111834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107111834",
+    "themealdb": null
+  }
+}

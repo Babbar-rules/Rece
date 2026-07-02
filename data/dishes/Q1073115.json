@@ -1,0 +1,20 @@
+{
+  "id": "Q1073115",
+  "name": "Dasik",
+  "description": "Korean dessert",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dasik-q1073115/dasik-q1073115-1.jpg",
+    "images/dasik-q1073115/dasik-q1073115-2.jpg",
+    "images/dasik-q1073115/dasik-q1073115-3.jpg",
+    "images/dasik-q1073115/dasik-q1073115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1073115",
+    "themealdb": null
+  }
+}

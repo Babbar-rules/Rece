@@ -1,0 +1,20 @@
+{
+  "id": "Q1072902",
+  "name": "chiles en nogada",
+  "description": "stuffed pepper dish with walnut cream sauce",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chiles-en-nogada-q1072902/chiles-en-nogada-q1072902-1.jpg",
+    "images/chiles-en-nogada-q1072902/chiles-en-nogada-q1072902-2.jpg",
+    "images/chiles-en-nogada-q1072902/chiles-en-nogada-q1072902-3.jpg",
+    "images/chiles-en-nogada-q1072902/chiles-en-nogada-q1072902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1072902",
+    "themealdb": null
+  }
+}

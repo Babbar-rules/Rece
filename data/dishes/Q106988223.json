@@ -1,0 +1,16 @@
+{
+  "id": "Q106988223",
+  "name": "whole-wheat chocolate cake with nuts",
+  "description": "cake made using whole-wheat flour and nuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/whole-wheat-chocolate-cake-with-nuts-q106988223/whole-wheat-chocolate-cake-with-nuts-q106988223-1.jpg",
+    "images/whole-wheat-chocolate-cake-with-nuts-q106988223/whole-wheat-chocolate-cake-with-nuts-q106988223-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106988223",
+    "themealdb": null
+  }
+}

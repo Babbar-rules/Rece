@@ -1,0 +1,20 @@
+{
+  "id": "Q107357988",
+  "name": "Ofe Oha",
+  "description": "popular delicacy native to the Igbo people of eastern Nigeria and made from the African Rosewood plant",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ofe-oha-q107357988/ofe-oha-q107357988-1.jpg",
+    "images/ofe-oha-q107357988/ofe-oha-q107357988-2.png",
+    "images/ofe-oha-q107357988/ofe-oha-q107357988-3.jpg",
+    "images/ofe-oha-q107357988/ofe-oha-q107357988-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107357988",
+    "themealdb": null
+  }
+}

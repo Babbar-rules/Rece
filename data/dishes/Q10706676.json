@@ -1,0 +1,18 @@
+{
+  "id": "Q10706676",
+  "name": "Tutti Frutti",
+  "description": "brand of candies by Fazer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tutti-frutti-q10706676/tutti-frutti-q10706676-1.jpg",
+    "images/tutti-frutti-q10706676/tutti-frutti-q10706676-2.jpg",
+    "images/tutti-frutti-q10706676/tutti-frutti-q10706676-3.png",
+    "images/tutti-frutti-q10706676/tutti-frutti-q10706676-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10706676",
+    "themealdb": null
+  }
+}

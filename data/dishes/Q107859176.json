@@ -1,0 +1,18 @@
+{
+  "id": "Q107859176",
+  "name": "Gwote",
+  "description": "Gwote is a pottage made with Fonio, it’s commonly eaten by the people from Plateau State in Nigeria.. Gwote is easy to make,and you can make it with any assortment of vegetables that you like.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gwote-q107859176/gwote-q107859176-1.jpg",
+    "images/gwote-q107859176/gwote-q107859176-2.jpg",
+    "images/gwote-q107859176/gwote-q107859176-3.jpg",
+    "images/gwote-q107859176/gwote-q107859176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107859176",
+    "themealdb": null
+  }
+}

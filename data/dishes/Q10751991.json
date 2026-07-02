@@ -1,0 +1,20 @@
+{
+  "id": "Q10751991",
+  "name": "Sope",
+  "description": "Mexican street food",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sope-q10751991/sope-q10751991-1.jpg",
+    "images/sope-q10751991/sope-q10751991-2.jpg",
+    "images/sope-q10751991/sope-q10751991-3.jpg",
+    "images/sope-q10751991/sope-q10751991-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10751991",
+    "themealdb": null
+  }
+}

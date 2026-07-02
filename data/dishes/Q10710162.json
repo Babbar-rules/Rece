@@ -1,0 +1,18 @@
+{
+  "id": "Q10710162",
+  "name": "Upplandskubb",
+  "description": "Swedish traditional bread",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/upplandskubb-q10710162/upplandskubb-q10710162-1.jpg",
+    "images/upplandskubb-q10710162/upplandskubb-q10710162-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10710162",
+    "themealdb": null
+  }
+}

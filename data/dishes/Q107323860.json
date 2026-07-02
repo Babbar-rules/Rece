@@ -1,0 +1,18 @@
+{
+  "id": "Q107323860",
+  "name": "party submarine sandwich",
+  "description": "extremely long sandwich for catering purposes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/party-submarine-sandwich-q107323860/party-submarine-sandwich-q107323860-1.jpg",
+    "images/party-submarine-sandwich-q107323860/party-submarine-sandwich-q107323860-2.jpg",
+    "images/party-submarine-sandwich-q107323860/party-submarine-sandwich-q107323860-3.jpg",
+    "images/party-submarine-sandwich-q107323860/party-submarine-sandwich-q107323860-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107323860",
+    "themealdb": null
+  }
+}

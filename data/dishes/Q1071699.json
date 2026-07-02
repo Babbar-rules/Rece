@@ -1,0 +1,20 @@
+{
+  "id": "Q1071699",
+  "name": "jeongol",
+  "description": "Korean hot pot",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeongol-q1071699/jeongol-q1071699-1.jpg",
+    "images/jeongol-q1071699/jeongol-q1071699-2.jpg",
+    "images/jeongol-q1071699/jeongol-q1071699-3.jpg",
+    "images/jeongol-q1071699/jeongol-q1071699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1071699",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q107610602",
+  "name": "oeuf mayonnaise",
+  "description": "French egg dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oeuf-mayonnaise-q107610602/oeuf-mayonnaise-q107610602-1.jpg",
+    "images/oeuf-mayonnaise-q107610602/oeuf-mayonnaise-q107610602-2.jpg",
+    "images/oeuf-mayonnaise-q107610602/oeuf-mayonnaise-q107610602-3.jpg",
+    "images/oeuf-mayonnaise-q107610602/oeuf-mayonnaise-q107610602-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107610602",
+    "themealdb": null
+  }
+}

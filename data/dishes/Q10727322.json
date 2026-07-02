@@ -1,0 +1,22 @@
+{
+  "id": "Q10727322",
+  "name": "ölsupa",
+  "description": "Swedish beer soup",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/olsupa-q10727322/olsupa-q10727322-1.jpg",
+    "images/olsupa-q10727322/olsupa-q10727322-2.png",
+    "images/olsupa-q10727322/olsupa-q10727322-3.jpg",
+    "images/olsupa-q10727322/olsupa-q10727322-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10727322",
+    "themealdb": null
+  }
+}

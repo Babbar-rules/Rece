@@ -1,0 +1,18 @@
+{
+  "id": "Q107144689",
+  "name": "Kokis",
+  "description": "Sri Lankan food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kokis-q107144689/kokis-q107144689-1.jpg",
+    "images/kokis-q107144689/kokis-q107144689-2.jpg",
+    "images/kokis-q107144689/kokis-q107144689-3.jpg",
+    "images/kokis-q107144689/kokis-q107144689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107144689",
+    "themealdb": null
+  }
+}

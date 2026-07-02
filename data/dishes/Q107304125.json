@@ -1,0 +1,18 @@
+{
+  "id": "Q107304125",
+  "name": "Stuffed cucumber",
+  "description": "Ingredient and dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-cucumber-q107304125/stuffed-cucumber-q107304125-1.jpg",
+    "images/stuffed-cucumber-q107304125/stuffed-cucumber-q107304125-2.jpg",
+    "images/stuffed-cucumber-q107304125/stuffed-cucumber-q107304125-3.jpg",
+    "images/stuffed-cucumber-q107304125/stuffed-cucumber-q107304125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107304125",
+    "themealdb": null
+  }
+}

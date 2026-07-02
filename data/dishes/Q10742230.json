@@ -1,0 +1,18 @@
+{
+  "id": "Q10742230",
+  "name": "bánh tôm",
+  "description": "Vietnamese seafood dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-tom-q10742230/banh-tom-q10742230-1.jpg",
+    "images/banh-tom-q10742230/banh-tom-q10742230-2.jpg",
+    "images/banh-tom-q10742230/banh-tom-q10742230-3.jpg",
+    "images/banh-tom-q10742230/banh-tom-q10742230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10742230",
+    "themealdb": null
+  }
+}

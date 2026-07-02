@@ -1,0 +1,20 @@
+{
+  "id": "Q107203498",
+  "name": "capoun",
+  "description": "green cabbage stuffed culinary specialty of Nice, France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/capoun-q107203498/capoun-q107203498-1.jpeg",
+    "images/capoun-q107203498/capoun-q107203498-2.jpg",
+    "images/capoun-q107203498/capoun-q107203498-3.jpg",
+    "images/capoun-q107203498/capoun-q107203498-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107203498",
+    "themealdb": null
+  }
+}

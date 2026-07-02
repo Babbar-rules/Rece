@@ -1,0 +1,18 @@
+{
+  "id": "Q107852688",
+  "name": "plantain chips",
+  "description": "Nigerian snack made with either ripe or unripe plantains",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plantain-chips-q107852688/plantain-chips-q107852688-1.jpg",
+    "images/plantain-chips-q107852688/plantain-chips-q107852688-2.jpg",
+    "images/plantain-chips-q107852688/plantain-chips-q107852688-3.jpg",
+    "images/plantain-chips-q107852688/plantain-chips-q107852688-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107852688",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q107832448",
+  "name": "Ayamase",
+  "description": "Nigerian stew made with palm oil, fermented locust beans, and bell peppers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ayamase-q107832448/ayamase-q107832448-1.png",
+    "images/ayamase-q107832448/ayamase-q107832448-2.jpg",
+    "images/ayamase-q107832448/ayamase-q107832448-3.png",
+    "images/ayamase-q107832448/ayamase-q107832448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107832448",
+    "themealdb": null
+  }
+}

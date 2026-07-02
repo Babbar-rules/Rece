@@ -1,0 +1,22 @@
+{
+  "id": "Q107008224",
+  "name": "nân-e panjere",
+  "description": "Middle Eastern and Middle Eastern-influenced rosette-like fried dough food",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/nan-e-panjere-q107008224/nan-e-panjere-q107008224-1.jpg",
+    "images/nan-e-panjere-q107008224/nan-e-panjere-q107008224-2.jpg",
+    "images/nan-e-panjere-q107008224/nan-e-panjere-q107008224-3.jpg",
+    "images/nan-e-panjere-q107008224/nan-e-panjere-q107008224-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107008224",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q10742210",
+  "name": "banh khot",
+  "description": "Vietnamese savory mini pancakes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-khot-q10742210/banh-khot-q10742210-1.jpg",
+    "images/banh-khot-q10742210/banh-khot-q10742210-2.jpg",
+    "images/banh-khot-q10742210/banh-khot-q10742210-3.jpg",
+    "images/banh-khot-q10742210/banh-khot-q10742210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10742210",
+    "themealdb": null
+  }
+}

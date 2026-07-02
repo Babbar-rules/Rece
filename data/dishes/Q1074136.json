@@ -1,0 +1,20 @@
+{
+  "id": "Q1074136",
+  "name": "lemon chicken",
+  "description": "chicken dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-chicken-q1074136/lemon-chicken-q1074136-1.jpg",
+    "images/lemon-chicken-q1074136/lemon-chicken-q1074136-2.jpg",
+    "images/lemon-chicken-q1074136/lemon-chicken-q1074136-3.jpg",
+    "images/lemon-chicken-q1074136/lemon-chicken-q1074136-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1074136",
+    "themealdb": null
+  }
+}

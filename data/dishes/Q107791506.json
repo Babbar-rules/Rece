@@ -1,0 +1,20 @@
+{
+  "id": "Q107791506",
+  "name": "lobster bisque",
+  "description": "dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobster-bisque-q107791506/lobster-bisque-q107791506-1.jpg",
+    "images/lobster-bisque-q107791506/lobster-bisque-q107791506-2.jpg",
+    "images/lobster-bisque-q107791506/lobster-bisque-q107791506-3.jpg",
+    "images/lobster-bisque-q107791506/lobster-bisque-q107791506-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107791506",
+    "themealdb": null
+  }
+}

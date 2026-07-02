@@ -1,0 +1,18 @@
+{
+  "id": "Q107856648",
+  "name": "garden egg sauce",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garden-egg-sauce-q107856648/garden-egg-sauce-q107856648-1.jpg",
+    "images/garden-egg-sauce-q107856648/garden-egg-sauce-q107856648-2.jpg",
+    "images/garden-egg-sauce-q107856648/garden-egg-sauce-q107856648-3.jpg",
+    "images/garden-egg-sauce-q107856648/garden-egg-sauce-q107856648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107856648",
+    "themealdb": null
+  }
+}

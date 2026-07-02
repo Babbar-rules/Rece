@@ -1,0 +1,17 @@
+{
+  "id": "Q106980961",
+  "name": "Kheer Kamala",
+  "description": "Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kheer-kamala-q106980961/kheer-kamala-q106980961-1.jpg",
+    "images/kheer-kamala-q106980961/kheer-kamala-q106980961-2.jpg",
+    "images/kheer-kamala-q106980961/kheer-kamala-q106980961-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106980961",
+    "themealdb": null
+  }
+}

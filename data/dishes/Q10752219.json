@@ -1,0 +1,18 @@
+{
+  "id": "Q10752219",
+  "name": "suikerboon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suikerboon-q10752219/suikerboon-q10752219-1.jpg",
+    "images/suikerboon-q10752219/suikerboon-q10752219-2.jpg",
+    "images/suikerboon-q10752219/suikerboon-q10752219-3.jpg",
+    "images/suikerboon-q10752219/suikerboon-q10752219-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10752219",
+    "themealdb": null
+  }
+}

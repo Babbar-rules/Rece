@@ -1,0 +1,18 @@
+{
+  "id": "Q107840465",
+  "name": "Asun",
+  "description": "popular Yoruba peppered meats recipe; smoked goat meat cooked in a spicy hot pepper sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/asun-q107840465/asun-q107840465-1.jpg",
+    "images/asun-q107840465/asun-q107840465-2.jpg",
+    "images/asun-q107840465/asun-q107840465-3.jpg",
+    "images/asun-q107840465/asun-q107840465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107840465",
+    "themealdb": null
+  }
+}

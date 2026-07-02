@@ -1,0 +1,20 @@
+{
+  "id": "Q107718213",
+  "name": "pizzas with shrimp or prawns",
+  "description": "dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizzas-with-shrimp-or-prawns-q107718213/pizzas-with-shrimp-or-prawns-q107718213-1.jpg",
+    "images/pizzas-with-shrimp-or-prawns-q107718213/pizzas-with-shrimp-or-prawns-q107718213-2.jpg",
+    "images/pizzas-with-shrimp-or-prawns-q107718213/pizzas-with-shrimp-or-prawns-q107718213-3.jpg",
+    "images/pizzas-with-shrimp-or-prawns-q107718213/pizzas-with-shrimp-or-prawns-q107718213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107718213",
+    "themealdb": null
+  }
+}

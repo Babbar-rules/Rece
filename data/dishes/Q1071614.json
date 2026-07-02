@@ -1,0 +1,22 @@
+{
+  "id": "Q1071614",
+  "name": "cheonggukjang",
+  "description": "Korean seasoning",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/cheonggukjang-q1071614/cheonggukjang-q1071614-1.jpg",
+    "images/cheonggukjang-q1071614/cheonggukjang-q1071614-2.jpg",
+    "images/cheonggukjang-q1071614/cheonggukjang-q1071614-3.jpg",
+    "images/cheonggukjang-q1071614/cheonggukjang-q1071614-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1071614",
+    "themealdb": null
+  }
+}

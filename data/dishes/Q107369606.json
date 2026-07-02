@@ -1,0 +1,23 @@
+{
+  "id": "Q107369606",
+  "name": "Köje",
+  "description": "Uyghur/Kyrgyz/Kazakh congee",
+  "nationality": [
+    "Russia",
+    "Kazakhstan",
+    "Kyrgyzstan",
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koje-q107369606/koje-q107369606-1.jpg",
+    "images/koje-q107369606/koje-q107369606-2.jpg",
+    "images/koje-q107369606/koje-q107369606-3.jpg",
+    "images/koje-q107369606/koje-q107369606-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107369606",
+    "themealdb": null
+  }
+}

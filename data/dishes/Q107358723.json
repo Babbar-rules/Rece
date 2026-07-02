@@ -1,0 +1,20 @@
+{
+  "id": "Q107358723",
+  "name": "Okro soup",
+  "description": "African soup made with Okra vegetables cooked in a mixture of palm oil, shrimps, goat meat, fish and African spices",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/okro-soup-q107358723/okro-soup-q107358723-1.jpg",
+    "images/okro-soup-q107358723/okro-soup-q107358723-2.jpg",
+    "images/okro-soup-q107358723/okro-soup-q107358723-3.jpg",
+    "images/okro-soup-q107358723/okro-soup-q107358723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107358723",
+    "themealdb": null
+  }
+}

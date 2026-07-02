@@ -1,0 +1,20 @@
+{
+  "id": "Q107790439",
+  "name": "Ewedu soup",
+  "description": "popular Nigerian soup popularly eaten with Nigerian stew such as buka stew or gbegiri",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ewedu-soup-q107790439/ewedu-soup-q107790439-1.jpg",
+    "images/ewedu-soup-q107790439/ewedu-soup-q107790439-2.jpg",
+    "images/ewedu-soup-q107790439/ewedu-soup-q107790439-3.jpg",
+    "images/ewedu-soup-q107790439/ewedu-soup-q107790439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107790439",
+    "themealdb": null
+  }
+}

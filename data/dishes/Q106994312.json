@@ -1,0 +1,20 @@
+{
+  "id": "Q106994312",
+  "name": "Sapporo Ichiban",
+  "description": "popular instant noodle brand",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sapporo-ichiban-q106994312/sapporo-ichiban-q106994312-1.jpg",
+    "images/sapporo-ichiban-q106994312/sapporo-ichiban-q106994312-2.jpg",
+    "images/sapporo-ichiban-q106994312/sapporo-ichiban-q106994312-3.jpg",
+    "images/sapporo-ichiban-q106994312/sapporo-ichiban-q106994312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q106994312",
+    "themealdb": null
+  }
+}

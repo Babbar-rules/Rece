@@ -1,0 +1,18 @@
+{
+  "id": "Q10742203",
+  "name": "bánh gai",
+  "description": "Vietnamese cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-gai-q10742203/banh-gai-q10742203-1.jpg",
+    "images/banh-gai-q10742203/banh-gai-q10742203-2.jpg",
+    "images/banh-gai-q10742203/banh-gai-q10742203-3.jpg",
+    "images/banh-gai-q10742203/banh-gai-q10742203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10742203",
+    "themealdb": null
+  }
+}

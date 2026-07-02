@@ -1,0 +1,18 @@
+{
+  "id": "Q107693925",
+  "name": "red bean rice",
+  "description": "rice cooked with red beans",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/red-bean-rice-q107693925/red-bean-rice-q107693925-1.jpg",
+    "images/red-bean-rice-q107693925/red-bean-rice-q107693925-2.jpg",
+    "images/red-bean-rice-q107693925/red-bean-rice-q107693925-3.jpg",
+    "images/red-bean-rice-q107693925/red-bean-rice-q107693925-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107693925",
+    "themealdb": null
+  }
+}

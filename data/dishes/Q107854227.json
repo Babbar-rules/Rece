@@ -1,0 +1,20 @@
+{
+  "id": "Q107854227",
+  "name": "Yaji spice",
+  "description": "Yaji is a spice blend that has its origin from the Northern part of Nigeria. It is mainly made from dried red chilli pepper mixed with various traditional spices grounded into a fine powder to create the mind blowing taste.",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yaji-spice-q107854227/yaji-spice-q107854227-1.jpg",
+    "images/yaji-spice-q107854227/yaji-spice-q107854227-2.jpg",
+    "images/yaji-spice-q107854227/yaji-spice-q107854227-3.jpg",
+    "images/yaji-spice-q107854227/yaji-spice-q107854227-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107854227",
+    "themealdb": null
+  }
+}

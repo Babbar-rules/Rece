@@ -1,0 +1,18 @@
+{
+  "id": "Q107855294",
+  "name": "agege",
+  "description": "type of Nigerian bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/agege-q107855294/agege-q107855294-1.jpg",
+    "images/agege-q107855294/agege-q107855294-2.jpg",
+    "images/agege-q107855294/agege-q107855294-3.jpg",
+    "images/agege-q107855294/agege-q107855294-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107855294",
+    "themealdb": null
+  }
+}

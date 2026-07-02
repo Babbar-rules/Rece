@@ -1,0 +1,20 @@
+{
+  "id": "Q1072093",
+  "name": "military chocolate",
+  "description": "part of standard the United States military ration",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/military-chocolate-q1072093/military-chocolate-q1072093-1.jpg",
+    "images/military-chocolate-q1072093/military-chocolate-q1072093-2.jpg",
+    "images/military-chocolate-q1072093/military-chocolate-q1072093-3.jpg",
+    "images/military-chocolate-q1072093/military-chocolate-q1072093-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1072093",
+    "themealdb": null
+  }
+}

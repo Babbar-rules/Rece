@@ -1,0 +1,20 @@
+{
+  "id": "Q107323701",
+  "name": "Banga rice",
+  "description": "Nigerian rice dish prepared with palm fruit concentrate",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banga-rice-q107323701/banga-rice-q107323701-1.jpg",
+    "images/banga-rice-q107323701/banga-rice-q107323701-2.jpg",
+    "images/banga-rice-q107323701/banga-rice-q107323701-3.jpg",
+    "images/banga-rice-q107323701/banga-rice-q107323701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107323701",
+    "themealdb": null
+  }
+}

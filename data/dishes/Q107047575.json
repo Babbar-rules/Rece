@@ -1,0 +1,22 @@
+{
+  "id": "Q107047575",
+  "name": "gilgeori toast",
+  "description": "South Korean food",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/gilgeori-toast-q107047575/gilgeori-toast-q107047575-1.jpg",
+    "images/gilgeori-toast-q107047575/gilgeori-toast-q107047575-2.jpg",
+    "images/gilgeori-toast-q107047575/gilgeori-toast-q107047575-3.jpg",
+    "images/gilgeori-toast-q107047575/gilgeori-toast-q107047575-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107047575",
+    "themealdb": null
+  }
+}

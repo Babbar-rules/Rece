@@ -1,0 +1,15 @@
+{
+  "id": "Q107353507",
+  "name": "Papa Rafkin",
+  "description": "Finnish brand of frozen pizza",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papa-rafkin-q107353507/papa-rafkin-q107353507-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107353507",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q107851208",
+  "name": "Kokoro snacks",
+  "description": "Kokoro is a rod–like shaped crunchy Nigerian snack ,popular in some parts of Nigeria. It is made with corn meal/corn flour and usually sold by street .",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kokoro-snacks-q107851208/kokoro-snacks-q107851208-1.jpg",
+    "images/kokoro-snacks-q107851208/kokoro-snacks-q107851208-2.jpg",
+    "images/kokoro-snacks-q107851208/kokoro-snacks-q107851208-3.jpg",
+    "images/kokoro-snacks-q107851208/kokoro-snacks-q107851208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107851208",
+    "themealdb": null
+  }
+}

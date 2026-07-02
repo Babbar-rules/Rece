@@ -1,0 +1,20 @@
+{
+  "id": "Q10752894",
+  "name": "elote",
+  "description": "ear of corn, as food, in Mexico and Central America",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/elote-q10752894/elote-q10752894-1.jpg",
+    "images/elote-q10752894/elote-q10752894-2.jpg",
+    "images/elote-q10752894/elote-q10752894-3.jpg",
+    "images/elote-q10752894/elote-q10752894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q10752894",
+    "themealdb": null
+  }
+}

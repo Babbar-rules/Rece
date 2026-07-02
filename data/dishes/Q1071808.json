@@ -1,0 +1,22 @@
+{
+  "id": "Q1071808",
+  "name": "Chicago-style pizza",
+  "description": "styles of pizza developed in Chicago, including deep-dish pizza",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/chicago-style-pizza-q1071808/chicago-style-pizza-q1071808-1.jpg",
+    "images/chicago-style-pizza-q1071808/chicago-style-pizza-q1071808-2.jpg",
+    "images/chicago-style-pizza-q1071808/chicago-style-pizza-q1071808-3.jpg",
+    "images/chicago-style-pizza-q1071808/chicago-style-pizza-q1071808-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1071808",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q107835198",
+  "name": "Peppered snail",
+  "description": "meal consisting of boiled snails sautéed in onions, peppers and spices",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peppered-snail-q107835198/peppered-snail-q107835198-1.jpg",
+    "images/peppered-snail-q107835198/peppered-snail-q107835198-2.jpg",
+    "images/peppered-snail-q107835198/peppered-snail-q107835198-3.jpg",
+    "images/peppered-snail-q107835198/peppered-snail-q107835198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107835198",
+    "themealdb": null
+  }
+}

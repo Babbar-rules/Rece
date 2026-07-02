@@ -1,0 +1,20 @@
+{
+  "id": "Q107850256",
+  "name": "Fried yam(Dundun)",
+  "description": "Dundun is a deep-fried yam recipe that can be eaten with a wide range of Nigerian stews and sauce.",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-yamdundun-q107850256/fried-yamdundun-q107850256-1.jpg",
+    "images/fried-yamdundun-q107850256/fried-yamdundun-q107850256-2.jpg",
+    "images/fried-yamdundun-q107850256/fried-yamdundun-q107850256-3.jpg",
+    "images/fried-yamdundun-q107850256/fried-yamdundun-q107850256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107850256",
+    "themealdb": null
+  }
+}

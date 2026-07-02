@@ -1,0 +1,18 @@
+{
+  "id": "Q107354109",
+  "name": "Firecake",
+  "description": "Bread Type",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/firecake-q107354109/firecake-q107354109-1.jpg",
+    "images/firecake-q107354109/firecake-q107354109-2.jpg",
+    "images/firecake-q107354109/firecake-q107354109-3.jpg",
+    "images/firecake-q107354109/firecake-q107354109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107354109",
+    "themealdb": null
+  }
+}

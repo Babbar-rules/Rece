@@ -1,0 +1,22 @@
+{
+  "id": "Q107064986",
+  "name": "speculoos biscuit",
+  "description": "Belgian caramel biscuit, with a different recipe than traditional speculaas",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/speculoos-biscuit-q107064986/speculoos-biscuit-q107064986-1.jpg",
+    "images/speculoos-biscuit-q107064986/speculoos-biscuit-q107064986-2.jpg",
+    "images/speculoos-biscuit-q107064986/speculoos-biscuit-q107064986-3.jpg",
+    "images/speculoos-biscuit-q107064986/speculoos-biscuit-q107064986-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q107064986",
+    "themealdb": null
+  }
+}
