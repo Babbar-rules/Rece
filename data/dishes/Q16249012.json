@@ -1,0 +1,18 @@
+{
+  "id": "Q16249012",
+  "name": "Dilberito",
+  "description": "defunct vegan microwave burrito brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dilberito-q16249012/dilberito-q16249012-1.jpg",
+    "images/dilberito-q16249012/dilberito-q16249012-2.jpg",
+    "images/dilberito-q16249012/dilberito-q16249012-3.png",
+    "images/dilberito-q16249012/dilberito-q16249012-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16249012",
+    "themealdb": null
+  }
+}

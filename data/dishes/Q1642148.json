@@ -1,0 +1,37 @@
+{
+  "id": "Q1642148",
+  "name": "thali",
+  "description": "South and Southeast Asian-style meal made up of various dishes which are served on a platter",
+  "nationality": [],
+  "region_cuisine": [
+    "Fijian cuisine",
+    "Maldivian cuisine",
+    "Bangladeshi cuisine",
+    "Mauritian cuisine",
+    "Bruneian cuisine",
+    "Nepalese cuisine",
+    "Burmese cuisine",
+    "Sri Lankan cuisine",
+    "Caribbean cuisine",
+    "Lao cuisine",
+    "Thai cuisine",
+    "Pakistani cuisine",
+    "Cambodian cuisine",
+    "Singaporean cuisine",
+    "Indonesian cuisine",
+    "Malaysian cuisine",
+    "Afghan cuisine",
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/thali-q1642148/thali-q1642148-1.jpg",
+    "images/thali-q1642148/thali-q1642148-2.jpg",
+    "images/thali-q1642148/thali-q1642148-3.jpg",
+    "images/thali-q1642148/thali-q1642148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1642148",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1639853",
+  "name": "Moros y Cristianos",
+  "description": "Cuban dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Cuban cuisine"
+  ],
+  "images": [
+    "images/moros-y-cristianos-q1639853/moros-y-cristianos-q1639853-1.jpg",
+    "images/moros-y-cristianos-q1639853/moros-y-cristianos-q1639853-2.jpg",
+    "images/moros-y-cristianos-q1639853/moros-y-cristianos-q1639853-3.jpg",
+    "images/moros-y-cristianos-q1639853/moros-y-cristianos-q1639853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1639853",
+    "themealdb": null
+  }
+}

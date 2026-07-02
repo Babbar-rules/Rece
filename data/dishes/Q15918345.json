@@ -1,0 +1,20 @@
+{
+  "id": "Q15918345",
+  "name": "palt",
+  "description": "Swedish meat-filled potato dumpling",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/palt-q15918345/palt-q15918345-1.jpg",
+    "images/palt-q15918345/palt-q15918345-2.jpg",
+    "images/palt-q15918345/palt-q15918345-3.jpg",
+    "images/palt-q15918345/palt-q15918345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15918345",
+    "themealdb": null
+  }
+}

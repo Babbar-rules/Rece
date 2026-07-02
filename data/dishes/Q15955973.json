@@ -1,0 +1,20 @@
+{
+  "id": "Q15955973",
+  "name": "Mendiant",
+  "description": "traditional French confectionery",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mendiant-q15955973/mendiant-q15955973-1.jpg",
+    "images/mendiant-q15955973/mendiant-q15955973-2.jpg",
+    "images/mendiant-q15955973/mendiant-q15955973-3.jpg",
+    "images/mendiant-q15955973/mendiant-q15955973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15955973",
+    "themealdb": null
+  }
+}

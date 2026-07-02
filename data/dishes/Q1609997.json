@@ -1,0 +1,16 @@
+{
+  "id": "Q1609997",
+  "name": "sahnehering",
+  "description": "German fish salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sahnehering-q1609997/sahnehering-q1609997-1.jpg",
+    "images/sahnehering-q1609997/sahnehering-q1609997-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1609997",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16145431",
+  "name": "Alfajor of Chile",
+  "description": "",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alfajor-of-chile-q16145431/alfajor-of-chile-q16145431-1.jpg",
+    "images/alfajor-of-chile-q16145431/alfajor-of-chile-q16145431-2.jpg",
+    "images/alfajor-of-chile-q16145431/alfajor-of-chile-q16145431-3.jpg",
+    "images/alfajor-of-chile-q16145431/alfajor-of-chile-q16145431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16145431",
+    "themealdb": null
+  }
+}

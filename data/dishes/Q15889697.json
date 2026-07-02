@@ -1,0 +1,20 @@
+{
+  "id": "Q15889697",
+  "name": "braised sea cucumber",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/braised-sea-cucumber-q15889697/braised-sea-cucumber-q15889697-1.jpg",
+    "images/braised-sea-cucumber-q15889697/braised-sea-cucumber-q15889697-2.jpg",
+    "images/braised-sea-cucumber-q15889697/braised-sea-cucumber-q15889697-3.jpg",
+    "images/braised-sea-cucumber-q15889697/braised-sea-cucumber-q15889697-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15889697",
+    "themealdb": null
+  }
+}

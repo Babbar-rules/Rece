@@ -1,0 +1,18 @@
+{
+  "id": "Q16174915",
+  "name": "bidos",
+  "description": "traditional Sámi stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bidos-q16174915/bidos-q16174915-1.png",
+    "images/bidos-q16174915/bidos-q16174915-2.jpg",
+    "images/bidos-q16174915/bidos-q16174915-3.jpg",
+    "images/bidos-q16174915/bidos-q16174915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16174915",
+    "themealdb": null
+  }
+}

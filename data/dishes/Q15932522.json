@@ -1,0 +1,18 @@
+{
+  "id": "Q15932522",
+  "name": "suan tang shui jiao",
+  "description": "variant of jiaozi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suan-tang-shui-jiao-q15932522/suan-tang-shui-jiao-q15932522-1.jpeg",
+    "images/suan-tang-shui-jiao-q15932522/suan-tang-shui-jiao-q15932522-2.jpeg",
+    "images/suan-tang-shui-jiao-q15932522/suan-tang-shui-jiao-q15932522-3.jpg",
+    "images/suan-tang-shui-jiao-q15932522/suan-tang-shui-jiao-q15932522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15932522",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16329451",
+  "name": "gogges",
+  "description": "type of pasta from the Peloponnese, Greece",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gogges-q16329451/gogges-q16329451-1.jpg",
+    "images/gogges-q16329451/gogges-q16329451-2.jpg",
+    "images/gogges-q16329451/gogges-q16329451-3.jpg",
+    "images/gogges-q16329451/gogges-q16329451-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16329451",
+    "themealdb": null
+  }
+}

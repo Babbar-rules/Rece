@@ -1,0 +1,21 @@
+{
+  "id": "Q1641858",
+  "name": "Häckerle",
+  "description": "",
+  "nationality": [
+    "Poland",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hackerle-q1641858/hackerle-q1641858-1.jpg",
+    "images/hackerle-q1641858/hackerle-q1641858-2.jpg",
+    "images/hackerle-q1641858/hackerle-q1641858-3.jpg",
+    "images/hackerle-q1641858/hackerle-q1641858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1641858",
+    "themealdb": null
+  }
+}

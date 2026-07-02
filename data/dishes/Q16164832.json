@@ -1,0 +1,20 @@
+{
+  "id": "Q16164832",
+  "name": "Ssuktteok",
+  "description": "Korean mugwort rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ssuktteok-q16164832/ssuktteok-q16164832-1.png",
+    "images/ssuktteok-q16164832/ssuktteok-q16164832-2.jpg",
+    "images/ssuktteok-q16164832/ssuktteok-q16164832-3.jpg",
+    "images/ssuktteok-q16164832/ssuktteok-q16164832-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16164832",
+    "themealdb": null
+  }
+}

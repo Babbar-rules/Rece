@@ -1,0 +1,20 @@
+{
+  "id": "Q16354645",
+  "name": "seigmenn",
+  "description": "Norwegian candy",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seigmenn-q16354645/seigmenn-q16354645-1.jpg",
+    "images/seigmenn-q16354645/seigmenn-q16354645-2.jpg",
+    "images/seigmenn-q16354645/seigmenn-q16354645-3.jpg",
+    "images/seigmenn-q16354645/seigmenn-q16354645-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16354645",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16242174",
+  "name": "Frosty Paws",
+  "description": "Brand of ice cream for dogs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frosty-paws-q16242174/frosty-paws-q16242174-1.jpg",
+    "images/frosty-paws-q16242174/frosty-paws-q16242174-2.jpg",
+    "images/frosty-paws-q16242174/frosty-paws-q16242174-3.jpg",
+    "images/frosty-paws-q16242174/frosty-paws-q16242174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16242174",
+    "themealdb": null
+  }
+}

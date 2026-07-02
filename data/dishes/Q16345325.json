@@ -1,0 +1,18 @@
+{
+  "id": "Q16345325",
+  "name": "Gaja",
+  "description": "Bengali sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gaja-q16345325/gaja-q16345325-1.jpg",
+    "images/gaja-q16345325/gaja-q16345325-2.jpg",
+    "images/gaja-q16345325/gaja-q16345325-3.jpg",
+    "images/gaja-q16345325/gaja-q16345325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16345325",
+    "themealdb": null
+  }
+}

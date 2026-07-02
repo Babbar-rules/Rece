@@ -1,0 +1,20 @@
+{
+  "id": "Q16171684",
+  "name": "Orion Choco-Pie",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/orion-choco-pie-q16171684/orion-choco-pie-q16171684-1.jpg",
+    "images/orion-choco-pie-q16171684/orion-choco-pie-q16171684-2.jpg",
+    "images/orion-choco-pie-q16171684/orion-choco-pie-q16171684-3.jpg",
+    "images/orion-choco-pie-q16171684/orion-choco-pie-q16171684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16171684",
+    "themealdb": null
+  }
+}

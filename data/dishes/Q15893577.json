@@ -1,0 +1,18 @@
+{
+  "id": "Q15893577",
+  "name": "lamb brisket",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamb-brisket-q15893577/lamb-brisket-q15893577-1.jpg",
+    "images/lamb-brisket-q15893577/lamb-brisket-q15893577-2.jpg",
+    "images/lamb-brisket-q15893577/lamb-brisket-q15893577-3.jpg",
+    "images/lamb-brisket-q15893577/lamb-brisket-q15893577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15893577",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q16242003",
+  "name": "Hedgehog slice",
+  "description": "no-bake fridge cake dessert",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/hedgehog-slice-q16242003/hedgehog-slice-q16242003-1.jpg",
+    "images/hedgehog-slice-q16242003/hedgehog-slice-q16242003-2.jpg",
+    "images/hedgehog-slice-q16242003/hedgehog-slice-q16242003-3.jpg",
+    "images/hedgehog-slice-q16242003/hedgehog-slice-q16242003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16242003",
+    "themealdb": null
+  }
+}

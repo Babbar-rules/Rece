@@ -1,0 +1,17 @@
+{
+  "id": "Q16137545",
+  "name": "Kappa biriyani",
+  "description": "Biriyani dish of Kerala",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kappa-biriyani-q16137545/kappa-biriyani-q16137545-1.jpg",
+    "images/kappa-biriyani-q16137545/kappa-biriyani-q16137545-2.jpg",
+    "images/kappa-biriyani-q16137545/kappa-biriyani-q16137545-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16137545",
+    "themealdb": null
+  }
+}

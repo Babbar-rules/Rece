@@ -1,0 +1,20 @@
+{
+  "id": "Q16049477",
+  "name": "Shirini Nargili",
+  "description": "Chewy coconut macaroons",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shirini-nargili-q16049477/shirini-nargili-q16049477-1.jpg",
+    "images/shirini-nargili-q16049477/shirini-nargili-q16049477-2.jpg",
+    "images/shirini-nargili-q16049477/shirini-nargili-q16049477-3.jpg",
+    "images/shirini-nargili-q16049477/shirini-nargili-q16049477-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16049477",
+    "themealdb": null
+  }
+}

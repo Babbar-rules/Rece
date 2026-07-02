@@ -1,0 +1,18 @@
+{
+  "id": "Q16242644",
+  "name": "Mayordomo",
+  "description": "Mexican chocolate brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mayordomo-q16242644/mayordomo-q16242644-1.jpg",
+    "images/mayordomo-q16242644/mayordomo-q16242644-2.jpg",
+    "images/mayordomo-q16242644/mayordomo-q16242644-3.jpg",
+    "images/mayordomo-q16242644/mayordomo-q16242644-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16242644",
+    "themealdb": null
+  }
+}

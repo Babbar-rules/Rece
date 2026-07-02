@@ -1,0 +1,17 @@
+{
+  "id": "Q15877508",
+  "name": "Kokindje",
+  "description": "Liquorice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kokindje-q15877508/kokindje-q15877508-1.jpg",
+    "images/kokindje-q15877508/kokindje-q15877508-2.jpg",
+    "images/kokindje-q15877508/kokindje-q15877508-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15877508",
+    "themealdb": null
+  }
+}

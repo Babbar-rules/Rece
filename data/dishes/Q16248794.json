@@ -1,0 +1,20 @@
+{
+  "id": "Q16248794",
+  "name": "lardy cake",
+  "description": "English form of sweet spiced bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lardy-cake-q16248794/lardy-cake-q16248794-1.jpg",
+    "images/lardy-cake-q16248794/lardy-cake-q16248794-2.jpg",
+    "images/lardy-cake-q16248794/lardy-cake-q16248794-3.jpg",
+    "images/lardy-cake-q16248794/lardy-cake-q16248794-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16248794",
+    "themealdb": null
+  }
+}

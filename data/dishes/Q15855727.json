@@ -1,0 +1,20 @@
+{
+  "id": "Q15855727",
+  "name": "Zigerkrapfen",
+  "description": "Swiss deep fried dough served during carnival",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zigerkrapfen-q15855727/zigerkrapfen-q15855727-1.jpg",
+    "images/zigerkrapfen-q15855727/zigerkrapfen-q15855727-2.jpg",
+    "images/zigerkrapfen-q15855727/zigerkrapfen-q15855727-3.jpg",
+    "images/zigerkrapfen-q15855727/zigerkrapfen-q15855727-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15855727",
+    "themealdb": null
+  }
+}

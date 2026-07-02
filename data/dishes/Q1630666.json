@@ -1,0 +1,20 @@
+{
+  "id": "Q1630666",
+  "name": "mämmi",
+  "description": "Finnish Easter dessert",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mammi-q1630666/mammi-q1630666-1.png",
+    "images/mammi-q1630666/mammi-q1630666-2.jpg",
+    "images/mammi-q1630666/mammi-q1630666-3.jpg",
+    "images/mammi-q1630666/mammi-q1630666-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1630666",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16391650",
+  "name": "Carp soup",
+  "description": "traditional Czech fish soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carp-soup-q16391650/carp-soup-q16391650-1.jpg",
+    "images/carp-soup-q16391650/carp-soup-q16391650-2.jpg",
+    "images/carp-soup-q16391650/carp-soup-q16391650-3.jpg",
+    "images/carp-soup-q16391650/carp-soup-q16391650-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16391650",
+    "themealdb": null
+  }
+}

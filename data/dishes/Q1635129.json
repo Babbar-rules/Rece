@@ -1,0 +1,22 @@
+{
+  "id": "Q1635129",
+  "name": "salmorejo",
+  "description": "cold soup made with tomatoes and bread",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/salmorejo-q1635129/salmorejo-q1635129-1.jpg",
+    "images/salmorejo-q1635129/salmorejo-q1635129-2.jpg",
+    "images/salmorejo-q1635129/salmorejo-q1635129-3.png",
+    "images/salmorejo-q1635129/salmorejo-q1635129-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1635129",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16242282",
+  "name": "Hershey's Miniatures",
+  "description": "American confectionery assortment product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hersheys-miniatures-q16242282/hersheys-miniatures-q16242282-1.jpg",
+    "images/hersheys-miniatures-q16242282/hersheys-miniatures-q16242282-2.jpg",
+    "images/hersheys-miniatures-q16242282/hersheys-miniatures-q16242282-3.jpg",
+    "images/hersheys-miniatures-q16242282/hersheys-miniatures-q16242282-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16242282",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1621290",
+  "name": "Hiyamugi",
+  "description": "thin noodles, served chilled",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hiyamugi-q1621290/hiyamugi-q1621290-1.jpg",
+    "images/hiyamugi-q1621290/hiyamugi-q1621290-2.jpg",
+    "images/hiyamugi-q1621290/hiyamugi-q1621290-3.jpg",
+    "images/hiyamugi-q1621290/hiyamugi-q1621290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1621290",
+    "themealdb": null
+  }
+}

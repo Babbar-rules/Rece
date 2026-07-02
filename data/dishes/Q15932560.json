@@ -1,0 +1,20 @@
+{
+  "id": "Q15932560",
+  "name": "Figgy pudding",
+  "description": "Christmas dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/figgy-pudding-q15932560/figgy-pudding-q15932560-1.jpg",
+    "images/figgy-pudding-q15932560/figgy-pudding-q15932560-2.jpg",
+    "images/figgy-pudding-q15932560/figgy-pudding-q15932560-3.jpg",
+    "images/figgy-pudding-q15932560/figgy-pudding-q15932560-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15932560",
+    "themealdb": null
+  }
+}

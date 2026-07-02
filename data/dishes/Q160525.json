@@ -1,0 +1,21 @@
+{
+  "id": "Q160525",
+  "name": "pretzel",
+  "description": "German baked pastry shaped into a knot",
+  "nationality": [
+    "Germany",
+    "Southern Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pretzel-q160525/pretzel-q160525-1.jpg",
+    "images/pretzel-q160525/pretzel-q160525-2.jpg",
+    "images/pretzel-q160525/pretzel-q160525-3.jpg",
+    "images/pretzel-q160525/pretzel-q160525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q160525",
+    "themealdb": null
+  }
+}

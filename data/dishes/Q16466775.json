@@ -1,0 +1,18 @@
+{
+  "id": "Q16466775",
+  "name": "Muhallabia",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/muhallabia-q16466775/muhallabia-q16466775-1.jpg",
+    "images/muhallabia-q16466775/muhallabia-q16466775-2.jpg",
+    "images/muhallabia-q16466775/muhallabia-q16466775-3.jpg",
+    "images/muhallabia-q16466775/muhallabia-q16466775-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16466775",
+    "themealdb": null
+  }
+}

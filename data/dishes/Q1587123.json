@@ -1,0 +1,20 @@
+{
+  "id": "Q1587123",
+  "name": "Mutabak",
+  "description": "Saudi stuffed pancake or pan-fried bread dish",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mutabak-q1587123/mutabak-q1587123-1.jpg",
+    "images/mutabak-q1587123/mutabak-q1587123-2.jpg",
+    "images/mutabak-q1587123/mutabak-q1587123-3.jpg",
+    "images/mutabak-q1587123/mutabak-q1587123-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1587123",
+    "themealdb": null
+  }
+}

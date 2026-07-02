@@ -1,0 +1,18 @@
+{
+  "id": "Q1637445",
+  "name": "dog biscuit",
+  "description": "nutritional supplement for dogs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dog-biscuit-q1637445/dog-biscuit-q1637445-1.jpg",
+    "images/dog-biscuit-q1637445/dog-biscuit-q1637445-2.jpg",
+    "images/dog-biscuit-q1637445/dog-biscuit-q1637445-3.png",
+    "images/dog-biscuit-q1637445/dog-biscuit-q1637445-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1637445",
+    "themealdb": null
+  }
+}

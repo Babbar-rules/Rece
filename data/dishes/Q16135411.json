@@ -1,0 +1,20 @@
+{
+  "id": "Q16135411",
+  "name": "Pulissery",
+  "description": "curry of Kerala, India, made from buttermilk, usually sweetish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pulissery-q16135411/pulissery-q16135411-1.jpg",
+    "images/pulissery-q16135411/pulissery-q16135411-2.jpg",
+    "images/pulissery-q16135411/pulissery-q16135411-3.jpg",
+    "images/pulissery-q16135411/pulissery-q16135411-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16135411",
+    "themealdb": null
+  }
+}

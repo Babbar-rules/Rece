@@ -1,0 +1,18 @@
+{
+  "id": "Q1611906",
+  "name": "Lacabòn",
+  "description": "hand-crafted Italian candy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lacabon-q1611906/lacabon-q1611906-1.jpg",
+    "images/lacabon-q1611906/lacabon-q1611906-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1611906",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1638936",
+  "name": "hushpuppy",
+  "description": "savory food made from cornmeal batter",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/hushpuppy-q1638936/hushpuppy-q1638936-1.jpg",
+    "images/hushpuppy-q1638936/hushpuppy-q1638936-2.jpg",
+    "images/hushpuppy-q1638936/hushpuppy-q1638936-3.jpg",
+    "images/hushpuppy-q1638936/hushpuppy-q1638936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1638936",
+    "themealdb": null
+  }
+}

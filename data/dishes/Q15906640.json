@@ -1,0 +1,20 @@
+{
+  "id": "Q15906640",
+  "name": "Napoleon cake",
+  "description": "dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/napoleon-cake-q15906640/napoleon-cake-q15906640-1.jpg",
+    "images/napoleon-cake-q15906640/napoleon-cake-q15906640-2.jpg",
+    "images/napoleon-cake-q15906640/napoleon-cake-q15906640-3.jpg",
+    "images/napoleon-cake-q15906640/napoleon-cake-q15906640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15906640",
+    "themealdb": null
+  }
+}

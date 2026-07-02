@@ -1,0 +1,20 @@
+{
+  "id": "Q15920051",
+  "name": "jipai",
+  "description": "Taiwanese chicken dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/jipai-q15920051/jipai-q15920051-1.jpg",
+    "images/jipai-q15920051/jipai-q15920051-2.jpg",
+    "images/jipai-q15920051/jipai-q15920051-3.jpg",
+    "images/jipai-q15920051/jipai-q15920051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15920051",
+    "themealdb": null
+  }
+}

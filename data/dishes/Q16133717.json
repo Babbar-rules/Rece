@@ -1,0 +1,17 @@
+{
+  "id": "Q16133717",
+  "name": "Ada pradhaman",
+  "description": "A sweet dish of Kerala",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ada-pradhaman-q16133717/ada-pradhaman-q16133717-1.jpg",
+    "images/ada-pradhaman-q16133717/ada-pradhaman-q16133717-2.jpg",
+    "images/ada-pradhaman-q16133717/ada-pradhaman-q16133717-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16133717",
+    "themealdb": null
+  }
+}

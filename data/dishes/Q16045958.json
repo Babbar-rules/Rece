@@ -1,0 +1,18 @@
+{
+  "id": "Q16045958",
+  "name": "tar halva",
+  "description": "type of halva",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tar-halva-q16045958/tar-halva-q16045958-1.jpg",
+    "images/tar-halva-q16045958/tar-halva-q16045958-2.jpg",
+    "images/tar-halva-q16045958/tar-halva-q16045958-3.jpg",
+    "images/tar-halva-q16045958/tar-halva-q16045958-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16045958",
+    "themealdb": null
+  }
+}

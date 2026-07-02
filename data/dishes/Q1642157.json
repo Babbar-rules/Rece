@@ -1,0 +1,20 @@
+{
+  "id": "Q1642157",
+  "name": "Pinakbet",
+  "description": "indigenous Filipino dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pinakbet-q1642157/pinakbet-q1642157-1.jpg",
+    "images/pinakbet-q1642157/pinakbet-q1642157-2.jpg",
+    "images/pinakbet-q1642157/pinakbet-q1642157-3.jpg",
+    "images/pinakbet-q1642157/pinakbet-q1642157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1642157",
+    "themealdb": null
+  }
+}

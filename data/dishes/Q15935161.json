@@ -1,0 +1,20 @@
+{
+  "id": "Q15935161",
+  "name": "Mutton hot pot",
+  "description": "Taiwanese hot pot dish dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/mutton-hot-pot-q15935161/mutton-hot-pot-q15935161-1.jpg",
+    "images/mutton-hot-pot-q15935161/mutton-hot-pot-q15935161-2.jpg",
+    "images/mutton-hot-pot-q15935161/mutton-hot-pot-q15935161-3.jpg",
+    "images/mutton-hot-pot-q15935161/mutton-hot-pot-q15935161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15935161",
+    "themealdb": null
+  }
+}

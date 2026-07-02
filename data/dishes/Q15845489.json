@@ -1,0 +1,20 @@
+{
+  "id": "Q15845489",
+  "name": "Moroccan Rziza",
+  "description": "Moroccan cuisine",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moroccan-rziza-q15845489/moroccan-rziza-q15845489-1.jpg",
+    "images/moroccan-rziza-q15845489/moroccan-rziza-q15845489-2.jpg",
+    "images/moroccan-rziza-q15845489/moroccan-rziza-q15845489-3.jpg",
+    "images/moroccan-rziza-q15845489/moroccan-rziza-q15845489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15845489",
+    "themealdb": null
+  }
+}

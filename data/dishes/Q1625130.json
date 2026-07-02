@@ -1,0 +1,18 @@
+{
+  "id": "Q1625130",
+  "name": "cottage ham",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cottage-ham-q1625130/cottage-ham-q1625130-1.jpg",
+    "images/cottage-ham-q1625130/cottage-ham-q1625130-2.jpg",
+    "images/cottage-ham-q1625130/cottage-ham-q1625130-3.jpg",
+    "images/cottage-ham-q1625130/cottage-ham-q1625130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1625130",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16136789",
+  "name": "Pradhaman",
+  "description": "Sweet dish of Kerala",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pradhaman-q16136789/pradhaman-q16136789-1.jpg",
+    "images/pradhaman-q16136789/pradhaman-q16136789-2.jpg",
+    "images/pradhaman-q16136789/pradhaman-q16136789-3.jpg",
+    "images/pradhaman-q16136789/pradhaman-q16136789-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16136789",
+    "themealdb": null
+  }
+}

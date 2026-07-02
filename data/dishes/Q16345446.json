@@ -1,0 +1,20 @@
+{
+  "id": "Q16345446",
+  "name": "Chhanamukhi",
+  "description": "Bangladeshi sweet",
+  "nationality": [],
+  "region_cuisine": [
+    "Bangladeshi cuisine"
+  ],
+  "images": [
+    "images/chhanamukhi-q16345446/chhanamukhi-q16345446-1.jpg",
+    "images/chhanamukhi-q16345446/chhanamukhi-q16345446-2.jpg",
+    "images/chhanamukhi-q16345446/chhanamukhi-q16345446-3.jpg",
+    "images/chhanamukhi-q16345446/chhanamukhi-q16345446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16345446",
+    "themealdb": null
+  }
+}

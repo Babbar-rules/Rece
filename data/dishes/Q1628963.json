@@ -1,0 +1,18 @@
+{
+  "id": "Q1628963",
+  "name": "appetizer",
+  "description": "small dish served before a meal's main course",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/appetizer-q1628963/appetizer-q1628963-1.jpg",
+    "images/appetizer-q1628963/appetizer-q1628963-2.jpg",
+    "images/appetizer-q1628963/appetizer-q1628963-3.jpg",
+    "images/appetizer-q1628963/appetizer-q1628963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1628963",
+    "themealdb": null
+  }
+}

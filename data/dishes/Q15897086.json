@@ -1,0 +1,18 @@
+{
+  "id": "Q15897086",
+  "name": "doubao",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doubao-q15897086/doubao-q15897086-1.png",
+    "images/doubao-q15897086/doubao-q15897086-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15897086",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16024165",
+  "name": "sandwich américain",
+  "description": "sandwich with hamburger steak and/or French fries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sandwich-americain-q16024165/sandwich-americain-q16024165-1.jpg",
+    "images/sandwich-americain-q16024165/sandwich-americain-q16024165-2.jpg",
+    "images/sandwich-americain-q16024165/sandwich-americain-q16024165-3.jpg",
+    "images/sandwich-americain-q16024165/sandwich-americain-q16024165-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16024165",
+    "themealdb": null
+  }
+}

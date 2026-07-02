@@ -1,0 +1,18 @@
+{
+  "id": "Q16045177",
+  "name": "tarhana soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tarhana-soup-q16045177/tarhana-soup-q16045177-1.jpg",
+    "images/tarhana-soup-q16045177/tarhana-soup-q16045177-2.jpg",
+    "images/tarhana-soup-q16045177/tarhana-soup-q16045177-3.jpg",
+    "images/tarhana-soup-q16045177/tarhana-soup-q16045177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16045177",
+    "themealdb": null
+  }
+}

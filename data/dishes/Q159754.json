@@ -1,0 +1,25 @@
+{
+  "id": "Q159754",
+  "name": "Gugelhupf",
+  "description": "German cake",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Polish cuisine",
+    "Ukrainian cuisine",
+    "German cuisine",
+    "Russian cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/gugelhupf-q159754/gugelhupf-q159754-1.jpg",
+    "images/gugelhupf-q159754/gugelhupf-q159754-2.jpg",
+    "images/gugelhupf-q159754/gugelhupf-q159754-3.png",
+    "images/gugelhupf-q159754/gugelhupf-q159754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q159754",
+    "themealdb": null
+  }
+}

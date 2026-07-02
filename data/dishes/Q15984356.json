@@ -1,0 +1,18 @@
+{
+  "id": "Q15984356",
+  "name": "casdoce",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/casdoce-q15984356/casdoce-q15984356-1.jpg",
+    "images/casdoce-q15984356/casdoce-q15984356-2.jpg",
+    "images/casdoce-q15984356/casdoce-q15984356-3.jpg",
+    "images/casdoce-q15984356/casdoce-q15984356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15984356",
+    "themealdb": null
+  }
+}

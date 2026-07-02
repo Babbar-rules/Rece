@@ -1,0 +1,22 @@
+{
+  "id": "Q1647122",
+  "name": "gratin dauphinois",
+  "description": "French dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "cuisine from Dauphiné (France)"
+  ],
+  "images": [
+    "images/gratin-dauphinois-q1647122/gratin-dauphinois-q1647122-1.jpg",
+    "images/gratin-dauphinois-q1647122/gratin-dauphinois-q1647122-2.jpg",
+    "images/gratin-dauphinois-q1647122/gratin-dauphinois-q1647122-3.jpg",
+    "images/gratin-dauphinois-q1647122/gratin-dauphinois-q1647122-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1647122",
+    "themealdb": null
+  }
+}

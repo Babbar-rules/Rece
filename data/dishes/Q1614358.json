@@ -1,0 +1,18 @@
+{
+  "id": "Q1614358",
+  "name": "Khustonig",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/khustonig-q1614358/khustonig-q1614358-1.jpg",
+    "images/khustonig-q1614358/khustonig-q1614358-2.jpg",
+    "images/khustonig-q1614358/khustonig-q1614358-3.png",
+    "images/khustonig-q1614358/khustonig-q1614358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1614358",
+    "themealdb": null
+  }
+}

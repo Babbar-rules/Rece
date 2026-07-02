@@ -1,0 +1,18 @@
+{
+  "id": "Q1588515",
+  "name": "Mon Chéri",
+  "description": "trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mon-cheri-q1588515/mon-cheri-q1588515-1.jpg",
+    "images/mon-cheri-q1588515/mon-cheri-q1588515-2.png",
+    "images/mon-cheri-q1588515/mon-cheri-q1588515-3.jpg",
+    "images/mon-cheri-q1588515/mon-cheri-q1588515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1588515",
+    "themealdb": null
+  }
+}

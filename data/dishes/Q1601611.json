@@ -1,0 +1,22 @@
+{
+  "id": "Q1601611",
+  "name": "hot cross bun",
+  "description": "spiced sweet bun made with currants or raisins and marked with a cross on the top, traditionally eaten on Good Friday",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/hot-cross-bun-q1601611/hot-cross-bun-q1601611-1.jpg",
+    "images/hot-cross-bun-q1601611/hot-cross-bun-q1601611-2.jpg",
+    "images/hot-cross-bun-q1601611/hot-cross-bun-q1601611-3.jpg",
+    "images/hot-cross-bun-q1601611/hot-cross-bun-q1601611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1601611",
+    "themealdb": null
+  }
+}

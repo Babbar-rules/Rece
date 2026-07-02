@@ -1,0 +1,18 @@
+{
+  "id": "Q16204180",
+  "name": "Black Jack",
+  "description": "chewing gum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-jack-q16204180/black-jack-q16204180-1.jpg",
+    "images/black-jack-q16204180/black-jack-q16204180-2.jpg",
+    "images/black-jack-q16204180/black-jack-q16204180-3.png",
+    "images/black-jack-q16204180/black-jack-q16204180-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16204180",
+    "themealdb": null
+  }
+}

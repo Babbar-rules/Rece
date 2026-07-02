@@ -1,0 +1,20 @@
+{
+  "id": "Q16134337",
+  "name": "ullivada",
+  "description": "snack food of Kerala",
+  "nationality": [
+    "Indian subcontinent"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ullivada-q16134337/ullivada-q16134337-1.jpg",
+    "images/ullivada-q16134337/ullivada-q16134337-2.jpg",
+    "images/ullivada-q16134337/ullivada-q16134337-3.jpg",
+    "images/ullivada-q16134337/ullivada-q16134337-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16134337",
+    "themealdb": null
+  }
+}

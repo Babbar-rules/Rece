@@ -1,0 +1,18 @@
+{
+  "id": "Q1596995",
+  "name": "Star Bar",
+  "description": "trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/star-bar-q1596995/star-bar-q1596995-1.jpg",
+    "images/star-bar-q1596995/star-bar-q1596995-2.jpg",
+    "images/star-bar-q1596995/star-bar-q1596995-3.jpg",
+    "images/star-bar-q1596995/star-bar-q1596995-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1596995",
+    "themealdb": null
+  }
+}

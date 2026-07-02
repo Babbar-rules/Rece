@@ -1,0 +1,22 @@
+{
+  "id": "Q15915476",
+  "name": "khong bah png",
+  "description": "traditional Taiwanese pork dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/khong-bah-png-q15915476/khong-bah-png-q15915476-1.jpg",
+    "images/khong-bah-png-q15915476/khong-bah-png-q15915476-2.jpg",
+    "images/khong-bah-png-q15915476/khong-bah-png-q15915476-3.jpg",
+    "images/khong-bah-png-q15915476/khong-bah-png-q15915476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15915476",
+    "themealdb": null
+  }
+}

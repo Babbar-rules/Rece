@@ -1,0 +1,20 @@
+{
+  "id": "Q159290",
+  "name": "kue lapis",
+  "description": "Malay layered cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kue-lapis-q159290/kue-lapis-q159290-1.jpg",
+    "images/kue-lapis-q159290/kue-lapis-q159290-2.jpg",
+    "images/kue-lapis-q159290/kue-lapis-q159290-3.jpg",
+    "images/kue-lapis-q159290/kue-lapis-q159290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q159290",
+    "themealdb": null
+  }
+}

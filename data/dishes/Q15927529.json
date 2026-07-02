@@ -1,0 +1,17 @@
+{
+  "id": "Q15927529",
+  "name": "zanahorias aliñadas",
+  "description": "Andalusian recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zanahorias-alinadas-q15927529/zanahorias-alinadas-q15927529-1.jpg",
+    "images/zanahorias-alinadas-q15927529/zanahorias-alinadas-q15927529-2.jpg",
+    "images/zanahorias-alinadas-q15927529/zanahorias-alinadas-q15927529-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15927529",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q15931384",
+  "name": "Matang",
+  "description": "Uyghur-style confection",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/matang-q15931384/matang-q15931384-1.jpg",
+    "images/matang-q15931384/matang-q15931384-2.jpg",
+    "images/matang-q15931384/matang-q15931384-3.jpg",
+    "images/matang-q15931384/matang-q15931384-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15931384",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q15900310",
+  "name": "Rugao ham",
+  "description": "Chinese dry-cured ham",
+  "nationality": [],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15900310",
+    "themealdb": null
+  }
+}

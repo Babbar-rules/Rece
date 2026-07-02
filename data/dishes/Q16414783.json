@@ -1,0 +1,20 @@
+{
+  "id": "Q16414783",
+  "name": "Shorgoghal",
+  "description": "traditional Azerbaijani pastry",
+  "nationality": [],
+  "region_cuisine": [
+    "Azerbaijani cuisine"
+  ],
+  "images": [
+    "images/shorgoghal-q16414783/shorgoghal-q16414783-1.jpg",
+    "images/shorgoghal-q16414783/shorgoghal-q16414783-2.jpg",
+    "images/shorgoghal-q16414783/shorgoghal-q16414783-3.jpg",
+    "images/shorgoghal-q16414783/shorgoghal-q16414783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16414783",
+    "themealdb": null
+  }
+}

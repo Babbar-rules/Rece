@@ -1,0 +1,22 @@
+{
+  "id": "Q15976317",
+  "name": "Selat Solo",
+  "description": "Indonedian acculturation dish with a combination of meat and salad",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/selat-solo-q15976317/selat-solo-q15976317-1.jpg",
+    "images/selat-solo-q15976317/selat-solo-q15976317-2.jpg",
+    "images/selat-solo-q15976317/selat-solo-q15976317-3.jpg",
+    "images/selat-solo-q15976317/selat-solo-q15976317-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15976317",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1585925",
+  "name": "Pop-Tarts",
+  "description": "brand of toaster pastries",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pop-tarts-q1585925/pop-tarts-q1585925-1.jpg",
+    "images/pop-tarts-q1585925/pop-tarts-q1585925-2.jpg",
+    "images/pop-tarts-q1585925/pop-tarts-q1585925-3.jpg",
+    "images/pop-tarts-q1585925/pop-tarts-q1585925-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1585925",
+    "themealdb": null
+  }
+}

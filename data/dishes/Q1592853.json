@@ -1,0 +1,20 @@
+{
+  "id": "Q1592853",
+  "name": "koi",
+  "description": "Lao-Thai salad dish with raw beef",
+  "nationality": [
+    "Laos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koi-q1592853/koi-q1592853-1.jpg",
+    "images/koi-q1592853/koi-q1592853-2.jpg",
+    "images/koi-q1592853/koi-q1592853-3.jpg",
+    "images/koi-q1592853/koi-q1592853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1592853",
+    "themealdb": null
+  }
+}

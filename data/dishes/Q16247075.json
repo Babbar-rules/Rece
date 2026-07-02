@@ -1,0 +1,23 @@
+{
+  "id": "Q16247075",
+  "name": "zupa ogórkowa",
+  "description": "traditional Polish and Lithuanian soup made from sour, salted cucumbers and potato",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/zupa-ogorkowa-q16247075/zupa-ogorkowa-q16247075-1.jpg",
+    "images/zupa-ogorkowa-q16247075/zupa-ogorkowa-q16247075-2.jpg",
+    "images/zupa-ogorkowa-q16247075/zupa-ogorkowa-q16247075-3.jpg",
+    "images/zupa-ogorkowa-q16247075/zupa-ogorkowa-q16247075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16247075",
+    "themealdb": null
+  }
+}

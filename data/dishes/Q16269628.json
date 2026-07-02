@@ -1,0 +1,20 @@
+{
+  "id": "Q16269628",
+  "name": "Rocky Mountain oysters",
+  "description": "dish made of bovine testicles",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rocky-mountain-oysters-q16269628/rocky-mountain-oysters-q16269628-1.jpg",
+    "images/rocky-mountain-oysters-q16269628/rocky-mountain-oysters-q16269628-2.jpg",
+    "images/rocky-mountain-oysters-q16269628/rocky-mountain-oysters-q16269628-3.png",
+    "images/rocky-mountain-oysters-q16269628/rocky-mountain-oysters-q16269628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16269628",
+    "themealdb": null
+  }
+}

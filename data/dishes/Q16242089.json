@@ -1,0 +1,20 @@
+{
+  "id": "Q16242089",
+  "name": "Pig's blood cake",
+  "description": "Traditional cuisine in Taiwan",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/pigs-blood-cake-q16242089/pigs-blood-cake-q16242089-1.jpg",
+    "images/pigs-blood-cake-q16242089/pigs-blood-cake-q16242089-2.jpg",
+    "images/pigs-blood-cake-q16242089/pigs-blood-cake-q16242089-3.jpg",
+    "images/pigs-blood-cake-q16242089/pigs-blood-cake-q16242089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16242089",
+    "themealdb": null
+  }
+}

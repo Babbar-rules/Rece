@@ -1,0 +1,20 @@
+{
+  "id": "Q1647985",
+  "name": "Savarin",
+  "description": "French cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/savarin-q1647985/savarin-q1647985-1.jpg",
+    "images/savarin-q1647985/savarin-q1647985-2.jpg",
+    "images/savarin-q1647985/savarin-q1647985-3.jpg",
+    "images/savarin-q1647985/savarin-q1647985-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1647985",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q15930176",
+  "name": "bah-kenn",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/bah-kenn-q15930176/bah-kenn-q15930176-1.jpg",
+    "images/bah-kenn-q15930176/bah-kenn-q15930176-2.jpg",
+    "images/bah-kenn-q15930176/bah-kenn-q15930176-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15930176",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16330184",
+  "name": "riganada",
+  "description": "Greek dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/riganada-q16330184/riganada-q16330184-1.jpg",
+    "images/riganada-q16330184/riganada-q16330184-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16330184",
+    "themealdb": null
+  }
+}

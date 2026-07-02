@@ -1,0 +1,18 @@
+{
+  "id": "Q1584798",
+  "name": "Parsley potatoes",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/parsley-potatoes-q1584798/parsley-potatoes-q1584798-1.jpg",
+    "images/parsley-potatoes-q1584798/parsley-potatoes-q1584798-2.jpg",
+    "images/parsley-potatoes-q1584798/parsley-potatoes-q1584798-3.jpg",
+    "images/parsley-potatoes-q1584798/parsley-potatoes-q1584798-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1584798",
+    "themealdb": null
+  }
+}

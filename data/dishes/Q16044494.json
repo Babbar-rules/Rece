@@ -1,0 +1,20 @@
+{
+  "id": "Q16044494",
+  "name": "ayam pop",
+  "description": "Indonesian chicken dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayam-pop-q16044494/ayam-pop-q16044494-1.jpg",
+    "images/ayam-pop-q16044494/ayam-pop-q16044494-2.jpg",
+    "images/ayam-pop-q16044494/ayam-pop-q16044494-3.jpg",
+    "images/ayam-pop-q16044494/ayam-pop-q16044494-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16044494",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16242180",
+  "name": "Galaxy",
+  "description": "brand of chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galaxy-q16242180/galaxy-q16242180-1.jpg",
+    "images/galaxy-q16242180/galaxy-q16242180-2.jpg",
+    "images/galaxy-q16242180/galaxy-q16242180-3.jpg",
+    "images/galaxy-q16242180/galaxy-q16242180-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16242180",
+    "themealdb": null
+  }
+}

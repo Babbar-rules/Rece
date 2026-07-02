@@ -1,0 +1,20 @@
+{
+  "id": "Q16243133",
+  "name": "Texas caviar",
+  "description": "salad of black-eyed peas lightly pickled in a vinaigrette-style dressing, often eaten as a dip accompaniment to tortilla chips",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/texas-caviar-q16243133/texas-caviar-q16243133-1.jpg",
+    "images/texas-caviar-q16243133/texas-caviar-q16243133-2.png",
+    "images/texas-caviar-q16243133/texas-caviar-q16243133-3.jpg",
+    "images/texas-caviar-q16243133/texas-caviar-q16243133-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16243133",
+    "themealdb": null
+  }
+}

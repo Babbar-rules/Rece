@@ -1,0 +1,19 @@
+{
+  "id": "Q16117045",
+  "name": "Samoborska kremšnita",
+  "description": "Croatian cake",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samoborska-kremsnita-q16117045/samoborska-kremsnita-q16117045-1.jpg",
+    "images/samoborska-kremsnita-q16117045/samoborska-kremsnita-q16117045-2.jpg",
+    "images/samoborska-kremsnita-q16117045/samoborska-kremsnita-q16117045-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16117045",
+    "themealdb": null
+  }
+}

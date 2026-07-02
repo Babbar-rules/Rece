@@ -1,0 +1,22 @@
+{
+  "id": "Q15992430",
+  "name": "Serradura",
+  "description": "dessert",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/serradura-q15992430/serradura-q15992430-1.jpg",
+    "images/serradura-q15992430/serradura-q15992430-2.jpg",
+    "images/serradura-q15992430/serradura-q15992430-3.jpg",
+    "images/serradura-q15992430/serradura-q15992430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15992430",
+    "themealdb": null
+  }
+}

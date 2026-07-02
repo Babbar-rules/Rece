@@ -1,0 +1,17 @@
+{
+  "id": "Q1643361",
+  "name": "kibbeh nayeh",
+  "description": "Levantine dish made of raw meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kibbeh-nayeh-q1643361/kibbeh-nayeh-q1643361-1.jpg",
+    "images/kibbeh-nayeh-q1643361/kibbeh-nayeh-q1643361-2.jpg",
+    "images/kibbeh-nayeh-q1643361/kibbeh-nayeh-q1643361-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1643361",
+    "themealdb": null
+  }
+}

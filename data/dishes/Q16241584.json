@@ -1,0 +1,20 @@
+{
+  "id": "Q16241584",
+  "name": "Duck rice",
+  "description": "Duck dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duck-rice-q16241584/duck-rice-q16241584-1.jpg",
+    "images/duck-rice-q16241584/duck-rice-q16241584-2.png",
+    "images/duck-rice-q16241584/duck-rice-q16241584-3.png",
+    "images/duck-rice-q16241584/duck-rice-q16241584-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16241584",
+    "themealdb": null
+  }
+}

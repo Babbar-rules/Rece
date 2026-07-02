@@ -1,0 +1,18 @@
+{
+  "id": "Q16180623",
+  "name": "Dosirac",
+  "description": "South Korean brand of instant noodle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dosirac-q16180623/dosirac-q16180623-1.jpg",
+    "images/dosirac-q16180623/dosirac-q16180623-2.jpg",
+    "images/dosirac-q16180623/dosirac-q16180623-3.jpg",
+    "images/dosirac-q16180623/dosirac-q16180623-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16180623",
+    "themealdb": null
+  }
+}

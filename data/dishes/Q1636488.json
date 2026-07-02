@@ -1,0 +1,20 @@
+{
+  "id": "Q1636488",
+  "name": "Stovies",
+  "description": "potato dish",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stovies-q1636488/stovies-q1636488-1.jpg",
+    "images/stovies-q1636488/stovies-q1636488-2.jpg",
+    "images/stovies-q1636488/stovies-q1636488-3.jpg",
+    "images/stovies-q1636488/stovies-q1636488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1636488",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1588808",
+  "name": "hasty pudding",
+  "description": "pudding or porridge of grains cooked in milk or water",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hasty-pudding-q1588808/hasty-pudding-q1588808-1.jpg",
+    "images/hasty-pudding-q1588808/hasty-pudding-q1588808-2.jpg",
+    "images/hasty-pudding-q1588808/hasty-pudding-q1588808-3.jpg",
+    "images/hasty-pudding-q1588808/hasty-pudding-q1588808-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1588808",
+    "themealdb": null
+  }
+}

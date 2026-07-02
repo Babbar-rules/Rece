@@ -1,0 +1,20 @@
+{
+  "id": "Q16261564",
+  "name": "bapburger",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bapburger-q16261564/bapburger-q16261564-1.jpg",
+    "images/bapburger-q16261564/bapburger-q16261564-2.jpg",
+    "images/bapburger-q16261564/bapburger-q16261564-3.jpg",
+    "images/bapburger-q16261564/bapburger-q16261564-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16261564",
+    "themealdb": null
+  }
+}

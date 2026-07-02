@@ -1,0 +1,18 @@
+{
+  "id": "Q16046218",
+  "name": "Reshteh bereshteh",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reshteh-bereshteh-q16046218/reshteh-bereshteh-q16046218-1.jpg",
+    "images/reshteh-bereshteh-q16046218/reshteh-bereshteh-q16046218-2.jpg",
+    "images/reshteh-bereshteh-q16046218/reshteh-bereshteh-q16046218-3.jpg",
+    "images/reshteh-bereshteh-q16046218/reshteh-bereshteh-q16046218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16046218",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16332019",
+  "name": "Fanouropita",
+  "description": "traditional sweet cake from Greek/Cypriot cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fanouropita-q16332019/fanouropita-q16332019-1.jpg",
+    "images/fanouropita-q16332019/fanouropita-q16332019-2.jpg",
+    "images/fanouropita-q16332019/fanouropita-q16332019-3.jpg",
+    "images/fanouropita-q16332019/fanouropita-q16332019-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16332019",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q15990748",
+  "name": "mtsvadi",
+  "description": "Georgian kebab",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mtsvadi-q15990748/mtsvadi-q15990748-1.jpg",
+    "images/mtsvadi-q15990748/mtsvadi-q15990748-2.jpg",
+    "images/mtsvadi-q15990748/mtsvadi-q15990748-3.jpg",
+    "images/mtsvadi-q15990748/mtsvadi-q15990748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15990748",
+    "themealdb": null
+  }
+}

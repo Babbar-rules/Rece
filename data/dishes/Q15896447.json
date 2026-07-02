@@ -1,0 +1,23 @@
+{
+  "id": "Q15896447",
+  "name": "red bean paste bun",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "cuisine of Tianjin",
+    "Beijing cuisine"
+  ],
+  "images": [
+    "images/red-bean-paste-bun-q15896447/red-bean-paste-bun-q15896447-1.jpg",
+    "images/red-bean-paste-bun-q15896447/red-bean-paste-bun-q15896447-2.jpg",
+    "images/red-bean-paste-bun-q15896447/red-bean-paste-bun-q15896447-3.jpg",
+    "images/red-bean-paste-bun-q15896447/red-bean-paste-bun-q15896447-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15896447",
+    "themealdb": null
+  }
+}

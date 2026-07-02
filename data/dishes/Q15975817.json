@@ -1,0 +1,20 @@
+{
+  "id": "Q15975817",
+  "name": "Kinder Joy",
+  "description": "candy made by Italian confectionery company Ferrero",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-joy-q15975817/kinder-joy-q15975817-1.jpg",
+    "images/kinder-joy-q15975817/kinder-joy-q15975817-2.jpg",
+    "images/kinder-joy-q15975817/kinder-joy-q15975817-3.jpg",
+    "images/kinder-joy-q15975817/kinder-joy-q15975817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15975817",
+    "themealdb": null
+  }
+}

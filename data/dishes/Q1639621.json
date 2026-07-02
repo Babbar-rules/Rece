@@ -1,0 +1,22 @@
+{
+  "id": "Q1639621",
+  "name": "Kugel",
+  "description": "A traditional Ashkenazi Jewish casserole",
+  "nationality": [
+    "Central Europe"
+  ],
+  "region_cuisine": [
+    "Ashkenazi Jewish cuisine"
+  ],
+  "images": [
+    "images/kugel-q1639621/kugel-q1639621-1.jpg",
+    "images/kugel-q1639621/kugel-q1639621-2.jpg",
+    "images/kugel-q1639621/kugel-q1639621-3.jpg",
+    "images/kugel-q1639621/kugel-q1639621-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1639621",
+    "themealdb": null
+  }
+}

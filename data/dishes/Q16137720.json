@@ -1,0 +1,18 @@
+{
+  "id": "Q16137720",
+  "name": "Mezhukkupuratti",
+  "description": "Vegetable side dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mezhukkupuratti-q16137720/mezhukkupuratti-q16137720-1.jpg",
+    "images/mezhukkupuratti-q16137720/mezhukkupuratti-q16137720-2.jpg",
+    "images/mezhukkupuratti-q16137720/mezhukkupuratti-q16137720-3.jpg",
+    "images/mezhukkupuratti-q16137720/mezhukkupuratti-q16137720-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16137720",
+    "themealdb": null
+  }
+}

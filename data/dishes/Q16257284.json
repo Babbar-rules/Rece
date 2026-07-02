@@ -1,0 +1,20 @@
+{
+  "id": "Q16257284",
+  "name": "Jet-Puffed Marshmallows",
+  "description": "Brand of marshmallows products",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jet-puffed-marshmallows-q16257284/jet-puffed-marshmallows-q16257284-1.jpg",
+    "images/jet-puffed-marshmallows-q16257284/jet-puffed-marshmallows-q16257284-2.jpg",
+    "images/jet-puffed-marshmallows-q16257284/jet-puffed-marshmallows-q16257284-3.jpg",
+    "images/jet-puffed-marshmallows-q16257284/jet-puffed-marshmallows-q16257284-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16257284",
+    "themealdb": null
+  }
+}

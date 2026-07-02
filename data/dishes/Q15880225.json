@@ -1,0 +1,22 @@
+{
+  "id": "Q15880225",
+  "name": "egg yolk pastry",
+  "description": "Taiwanese mooncake filled with salted duck egg yolk and red bean paste",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/egg-yolk-pastry-q15880225/egg-yolk-pastry-q15880225-1.jpg",
+    "images/egg-yolk-pastry-q15880225/egg-yolk-pastry-q15880225-2.jpg",
+    "images/egg-yolk-pastry-q15880225/egg-yolk-pastry-q15880225-3.jpg",
+    "images/egg-yolk-pastry-q15880225/egg-yolk-pastry-q15880225-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15880225",
+    "themealdb": null
+  }
+}

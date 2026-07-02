@@ -1,0 +1,20 @@
+{
+  "id": "Q16261384",
+  "name": "dolsot-bibimbap",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dolsot-bibimbap-q16261384/dolsot-bibimbap-q16261384-1.jpg",
+    "images/dolsot-bibimbap-q16261384/dolsot-bibimbap-q16261384-2.jpg",
+    "images/dolsot-bibimbap-q16261384/dolsot-bibimbap-q16261384-3.jpg",
+    "images/dolsot-bibimbap-q16261384/dolsot-bibimbap-q16261384-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16261384",
+    "themealdb": null
+  }
+}

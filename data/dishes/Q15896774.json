@@ -1,0 +1,20 @@
+{
+  "id": "Q15896774",
+  "name": "water chestnut soup",
+  "description": "Chinese food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/water-chestnut-soup-q15896774/water-chestnut-soup-q15896774-1.jpg",
+    "images/water-chestnut-soup-q15896774/water-chestnut-soup-q15896774-2.jpg",
+    "images/water-chestnut-soup-q15896774/water-chestnut-soup-q15896774-3.jpg",
+    "images/water-chestnut-soup-q15896774/water-chestnut-soup-q15896774-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15896774",
+    "themealdb": null
+  }
+}

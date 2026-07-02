@@ -1,0 +1,22 @@
+{
+  "id": "Q1632545",
+  "name": "Karelian hot pot",
+  "description": "dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/karelian-hot-pot-q1632545/karelian-hot-pot-q1632545-1.jpg",
+    "images/karelian-hot-pot-q1632545/karelian-hot-pot-q1632545-2.jpg",
+    "images/karelian-hot-pot-q1632545/karelian-hot-pot-q1632545-3.jpg",
+    "images/karelian-hot-pot-q1632545/karelian-hot-pot-q1632545-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1632545",
+    "themealdb": null
+  }
+}

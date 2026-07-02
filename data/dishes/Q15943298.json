@@ -1,0 +1,20 @@
+{
+  "id": "Q15943298",
+  "name": "Duivekater",
+  "description": "",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duivekater-q15943298/duivekater-q15943298-1.jpg",
+    "images/duivekater-q15943298/duivekater-q15943298-2.jpg",
+    "images/duivekater-q15943298/duivekater-q15943298-3.jpg",
+    "images/duivekater-q15943298/duivekater-q15943298-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15943298",
+    "themealdb": null
+  }
+}

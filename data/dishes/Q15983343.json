@@ -1,0 +1,20 @@
+{
+  "id": "Q15983343",
+  "name": "sago soup",
+  "description": "Cantonese dessert soup",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sago-soup-q15983343/sago-soup-q15983343-1.jpg",
+    "images/sago-soup-q15983343/sago-soup-q15983343-2.jpg",
+    "images/sago-soup-q15983343/sago-soup-q15983343-3.jpg",
+    "images/sago-soup-q15983343/sago-soup-q15983343-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15983343",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Q1644022",
+  "name": "kibbeh",
+  "description": "dumplings made of bulgur with ground meat and onions",
+  "nationality": [
+    "Iraq",
+    "Lebanon",
+    "Syria"
+  ],
+  "region_cuisine": [
+    "Palestinian cuisine",
+    "Mediterranean cuisine",
+    "Middle Eastern cuisine"
+  ],
+  "images": [
+    "images/kibbeh-q1644022/kibbeh-q1644022-1.jpg",
+    "images/kibbeh-q1644022/kibbeh-q1644022-2.jpg",
+    "images/kibbeh-q1644022/kibbeh-q1644022-3.jpg",
+    "images/kibbeh-q1644022/kibbeh-q1644022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1644022",
+    "themealdb": null
+  }
+}

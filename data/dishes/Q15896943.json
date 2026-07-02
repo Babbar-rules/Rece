@@ -1,0 +1,20 @@
+{
+  "id": "Q15896943",
+  "name": "stir-fried ice cream",
+  "description": "hand made ice cream dessert made with milk poured on an iced grill, mixed with fruit or different ingredients on the ice-pan",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stir-fried-ice-cream-q15896943/stir-fried-ice-cream-q15896943-1.jpg",
+    "images/stir-fried-ice-cream-q15896943/stir-fried-ice-cream-q15896943-2.jpg",
+    "images/stir-fried-ice-cream-q15896943/stir-fried-ice-cream-q15896943-3.jpg",
+    "images/stir-fried-ice-cream-q15896943/stir-fried-ice-cream-q15896943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15896943",
+    "themealdb": null
+  }
+}
