@@ -1,0 +1,18 @@
+{
+  "id": "Q127684376",
+  "name": "Mint Chocolate Chip",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mint-chocolate-chip-q127684376/mint-chocolate-chip-q127684376-1.jpg",
+    "images/mint-chocolate-chip-q127684376/mint-chocolate-chip-q127684376-2.jpg",
+    "images/mint-chocolate-chip-q127684376/mint-chocolate-chip-q127684376-3.jpg",
+    "images/mint-chocolate-chip-q127684376/mint-chocolate-chip-q127684376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684376",
+    "themealdb": null
+  }
+}

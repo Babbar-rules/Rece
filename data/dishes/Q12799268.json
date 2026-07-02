@@ -1,0 +1,18 @@
+{
+  "id": "Q12799268",
+  "name": "Posolanka",
+  "description": "Slovenian dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Slovenian cuisine"
+  ],
+  "images": [
+    "images/posolanka-q12799268/posolanka-q12799268-1.jpg",
+    "images/posolanka-q12799268/posolanka-q12799268-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12799268",
+    "themealdb": null
+  }
+}

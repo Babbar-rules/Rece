@@ -1,0 +1,20 @@
+{
+  "id": "Q12806195",
+  "name": "vrtanek",
+  "description": "Slovenian braided bread",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vrtanek-q12806195/vrtanek-q12806195-1.jpg",
+    "images/vrtanek-q12806195/vrtanek-q12806195-2.jpg",
+    "images/vrtanek-q12806195/vrtanek-q12806195-3.jpg",
+    "images/vrtanek-q12806195/vrtanek-q12806195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12806195",
+    "themealdb": null
+  }
+}

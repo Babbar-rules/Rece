@@ -1,0 +1,78 @@
+{
+  "id": "Q1283824",
+  "name": "Nộm",
+  "description": "Vietnamese salad",
+  "nationality": [],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/nom-q1283824/nom-q1283824-1.jpg",
+    "images/nom-q1283824/nom-q1283824-2.jpg",
+    "images/nom-q1283824/nom-q1283824-3.jpg",
+    "images/nom-q1283824/nom-q1283824-4.png"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53497",
+    "category": "Chicken",
+    "area": null,
+    "instructions": "1. Heat the vegetable oil in a large pot over medium heat until it shimmers, about 2 minutes.\r\n2. Add the minced garlic and sauté until fragrant and lightly golden, about 1 minute, stirring constantly to prevent burning.\r\n3. Add the chicken pieces and cook until they turn opaque on all sides, about 5 minutes, stirring occasionally.\r\n4. Pour in the 8 cups of water and bring to a boil over high heat, which should take about 8 minutes.\r\n5. Reduce the heat to low, stir in the fish sauce, salt, and sugar, and simmer uncovered for 20 minutes to develop the flavors.\r\n6. While the broth simmers, cook the rice noodles according to package instructions until al dente, then drain and rinse under cold water to stop the cooking.\r\n7. Divide the cooked noodles evenly among four bowls.\r\n8. Ladle the hot broth and chicken over the noodles in each bowl.\r\n9. Top each bowl with bean sprouts, chopped mint leaves, and optional red chili slices.\r\n10. Serve immediately with lime wedges on the side for squeezing over the soup.",
+    "ingredients": [
+      {
+        "ingredient": "Water",
+        "measure": "8 cups"
+      },
+      {
+        "ingredient": "Chicken Thighs",
+        "measure": "1lb"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "4 Cloves Crushed"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Fish Sauce",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Rice Noodles",
+        "measure": "8 oz"
+      },
+      {
+        "ingredient": "Bean Sprouts",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Red Chilli",
+        "measure": "1"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/6g9gif1782688663.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1283824",
+    "themealdb": "53497"
+  }
+}

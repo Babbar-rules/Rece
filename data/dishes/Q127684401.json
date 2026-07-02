@@ -1,0 +1,16 @@
+{
+  "id": "Q127684401",
+  "name": "Blueberry Flapjack",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blueberry-flapjack-q127684401/blueberry-flapjack-q127684401-1.jpg",
+    "images/blueberry-flapjack-q127684401/blueberry-flapjack-q127684401-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684401",
+    "themealdb": null
+  }
+}

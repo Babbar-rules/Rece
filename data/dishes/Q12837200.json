@@ -1,0 +1,22 @@
+{
+  "id": "Q12837200",
+  "name": "badambura",
+  "description": "Azerbaijani almond pastry",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [
+    "Azerbaijani cuisine"
+  ],
+  "images": [
+    "images/badambura-q12837200/badambura-q12837200-1.jpg",
+    "images/badambura-q12837200/badambura-q12837200-2.jpg",
+    "images/badambura-q12837200/badambura-q12837200-3.jpg",
+    "images/badambura-q12837200/badambura-q12837200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12837200",
+    "themealdb": null
+  }
+}

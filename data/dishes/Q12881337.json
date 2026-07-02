@@ -1,0 +1,19 @@
+{
+  "id": "Q12881337",
+  "name": "bouyiourdi",
+  "description": "Greek dish of baked feta",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [
+    "Greek cuisine"
+  ],
+  "images": [
+    "images/bouyiourdi-q12881337/bouyiourdi-q12881337-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12881337",
+    "themealdb": null
+  }
+}

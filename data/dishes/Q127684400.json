@@ -1,0 +1,18 @@
+{
+  "id": "Q127684400",
+  "name": "Birthday Wish",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/birthday-wish-q127684400/birthday-wish-q127684400-1.jpg",
+    "images/birthday-wish-q127684400/birthday-wish-q127684400-2.jpg",
+    "images/birthday-wish-q127684400/birthday-wish-q127684400-3.png",
+    "images/birthday-wish-q127684400/birthday-wish-q127684400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684400",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684422",
+  "name": "Millionaire's Shortbread",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/millionaires-shortbread-q127684422/millionaires-shortbread-q127684422-1.jpg",
+    "images/millionaires-shortbread-q127684422/millionaires-shortbread-q127684422-2.jpg",
+    "images/millionaires-shortbread-q127684422/millionaires-shortbread-q127684422-3.jpg",
+    "images/millionaires-shortbread-q127684422/millionaires-shortbread-q127684422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684422",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1283052",
+  "name": "Galaktoboureko",
+  "description": "Ottoman pastry",
+  "nationality": [
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galaktoboureko-q1283052/galaktoboureko-q1283052-1.jpg",
+    "images/galaktoboureko-q1283052/galaktoboureko-q1283052-2.jpg",
+    "images/galaktoboureko-q1283052/galaktoboureko-q1283052-3.jpg",
+    "images/galaktoboureko-q1283052/galaktoboureko-q1283052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1283052",
+    "themealdb": null
+  }
+}

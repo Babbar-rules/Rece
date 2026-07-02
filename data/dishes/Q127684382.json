@@ -1,0 +1,18 @@
+{
+  "id": "Q127684382",
+  "name": "Purple Pom",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/purple-pom-q127684382/purple-pom-q127684382-1.jpg",
+    "images/purple-pom-q127684382/purple-pom-q127684382-2.jpg",
+    "images/purple-pom-q127684382/purple-pom-q127684382-3.jpg",
+    "images/purple-pom-q127684382/purple-pom-q127684382-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684382",
+    "themealdb": null
+  }
+}

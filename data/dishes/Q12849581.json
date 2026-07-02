@@ -1,0 +1,20 @@
+{
+  "id": "Q12849581",
+  "name": "çörek",
+  "description": "Turkish teatime bread, generally sweet",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corek-q12849581/corek-q12849581-1.jpg",
+    "images/corek-q12849581/corek-q12849581-2.jpg",
+    "images/corek-q12849581/corek-q12849581-3.jpg",
+    "images/corek-q12849581/corek-q12849581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12849581",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684357",
+  "name": "Berry Blast",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/berry-blast-q127684357/berry-blast-q127684357-1.jpg",
+    "images/berry-blast-q127684357/berry-blast-q127684357-2.jpg",
+    "images/berry-blast-q127684357/berry-blast-q127684357-3.jpg",
+    "images/berry-blast-q127684357/berry-blast-q127684357-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684357",
+    "themealdb": null
+  }
+}

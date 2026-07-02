@@ -1,0 +1,20 @@
+{
+  "id": "Q1278785",
+  "name": "kibbeling",
+  "description": "Dutch seafood snack, consisting of chunks of deep-fried cod or other fish",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kibbeling-q1278785/kibbeling-q1278785-1.jpg",
+    "images/kibbeling-q1278785/kibbeling-q1278785-2.jpg",
+    "images/kibbeling-q1278785/kibbeling-q1278785-3.jpg",
+    "images/kibbeling-q1278785/kibbeling-q1278785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1278785",
+    "themealdb": null
+  }
+}

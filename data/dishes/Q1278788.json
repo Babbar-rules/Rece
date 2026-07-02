@@ -1,0 +1,20 @@
+{
+  "id": "Q1278788",
+  "name": "panforte",
+  "description": "dessert from Siena, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panforte-q1278788/panforte-q1278788-1.jpg",
+    "images/panforte-q1278788/panforte-q1278788-2.jpg",
+    "images/panforte-q1278788/panforte-q1278788-3.jpg",
+    "images/panforte-q1278788/panforte-q1278788-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1278788",
+    "themealdb": null
+  }
+}

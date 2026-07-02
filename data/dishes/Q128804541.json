@@ -1,0 +1,18 @@
+{
+  "id": "Q128804541",
+  "name": "hot soup",
+  "description": "soup eaten while hot",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-soup-q128804541/hot-soup-q128804541-1.jpg",
+    "images/hot-soup-q128804541/hot-soup-q128804541-2.jpg",
+    "images/hot-soup-q128804541/hot-soup-q128804541-3.jpg",
+    "images/hot-soup-q128804541/hot-soup-q128804541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128804541",
+    "themealdb": null
+  }
+}

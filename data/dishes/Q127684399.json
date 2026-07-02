@@ -1,0 +1,18 @@
+{
+  "id": "Q127684399",
+  "name": "Berry Blue Lemonade",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/berry-blue-lemonade-q127684399/berry-blue-lemonade-q127684399-1.jpg",
+    "images/berry-blue-lemonade-q127684399/berry-blue-lemonade-q127684399-2.jpg",
+    "images/berry-blue-lemonade-q127684399/berry-blue-lemonade-q127684399-3.jpg",
+    "images/berry-blue-lemonade-q127684399/berry-blue-lemonade-q127684399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684399",
+    "themealdb": null
+  }
+}

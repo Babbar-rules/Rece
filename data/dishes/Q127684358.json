@@ -1,0 +1,18 @@
+{
+  "id": "Q127684358",
+  "name": "Big Top Blondie",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-top-blondie-q127684358/big-top-blondie-q127684358-1.jpg",
+    "images/big-top-blondie-q127684358/big-top-blondie-q127684358-2.jpg",
+    "images/big-top-blondie-q127684358/big-top-blondie-q127684358-3.jpg",
+    "images/big-top-blondie-q127684358/big-top-blondie-q127684358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684358",
+    "themealdb": null
+  }
+}

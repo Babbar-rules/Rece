@@ -1,0 +1,19 @@
+{
+  "id": "Q12866",
+  "name": "Sabre St. Simon",
+  "description": "sword-shaped cake",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sabre-st-simon-q12866/sabre-st-simon-q12866-1.jpg",
+    "images/sabre-st-simon-q12866/sabre-st-simon-q12866-2.jpg",
+    "images/sabre-st-simon-q12866/sabre-st-simon-q12866-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12866",
+    "themealdb": null
+  }
+}

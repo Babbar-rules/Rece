@@ -1,0 +1,18 @@
+{
+  "id": "Q127684425",
+  "name": "Órbita Oscura",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/orbita-oscura-q127684425/orbita-oscura-q127684425-1.jpg",
+    "images/orbita-oscura-q127684425/orbita-oscura-q127684425-2.png",
+    "images/orbita-oscura-q127684425/orbita-oscura-q127684425-3.jpg",
+    "images/orbita-oscura-q127684425/orbita-oscura-q127684425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684425",
+    "themealdb": null
+  }
+}

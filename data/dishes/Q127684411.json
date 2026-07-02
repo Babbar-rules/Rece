@@ -1,0 +1,18 @@
+{
+  "id": "Q127684411",
+  "name": "Dragon Scale",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dragon-scale-q127684411/dragon-scale-q127684411-1.png",
+    "images/dragon-scale-q127684411/dragon-scale-q127684411-2.jpg",
+    "images/dragon-scale-q127684411/dragon-scale-q127684411-3.png",
+    "images/dragon-scale-q127684411/dragon-scale-q127684411-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684411",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q12885736",
+  "name": "fasolakia",
+  "description": "Greek green bean dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fasolakia-q12885736/fasolakia-q12885736-1.jpg",
+    "images/fasolakia-q12885736/fasolakia-q12885736-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12885736",
+    "themealdb": null
+  }
+}

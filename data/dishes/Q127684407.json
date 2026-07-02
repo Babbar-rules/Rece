@@ -1,0 +1,18 @@
+{
+  "id": "Q127684407",
+  "name": "Coconut Cloud",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-cloud-q127684407/coconut-cloud-q127684407-1.jpg",
+    "images/coconut-cloud-q127684407/coconut-cloud-q127684407-2.jpg",
+    "images/coconut-cloud-q127684407/coconut-cloud-q127684407-3.jpg",
+    "images/coconut-cloud-q127684407/coconut-cloud-q127684407-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684407",
+    "themealdb": null
+  }
+}

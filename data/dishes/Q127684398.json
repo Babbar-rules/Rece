@@ -1,0 +1,18 @@
+{
+  "id": "Q127684398",
+  "name": "Bananas Foster",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bananas-foster-q127684398/bananas-foster-q127684398-1.jpg",
+    "images/bananas-foster-q127684398/bananas-foster-q127684398-2.jpg",
+    "images/bananas-foster-q127684398/bananas-foster-q127684398-3.jpg",
+    "images/bananas-foster-q127684398/bananas-foster-q127684398-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684398",
+    "themealdb": null
+  }
+}

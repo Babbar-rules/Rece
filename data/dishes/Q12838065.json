@@ -1,0 +1,22 @@
+{
+  "id": "Q12838065",
+  "name": "Mchadi",
+  "description": "Georgian bread",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/mchadi-q12838065/mchadi-q12838065-1.jpg",
+    "images/mchadi-q12838065/mchadi-q12838065-2.jpg",
+    "images/mchadi-q12838065/mchadi-q12838065-3.jpg",
+    "images/mchadi-q12838065/mchadi-q12838065-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12838065",
+    "themealdb": null
+  }
+}

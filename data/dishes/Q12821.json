@@ -1,0 +1,60 @@
+{
+  "id": "Q12821",
+  "name": "Milanesa",
+  "description": "breaded cutlet dish",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/milanesa-q12821/milanesa-q12821-1.jpg",
+    "images/milanesa-q12821/milanesa-q12821-2.jpg",
+    "images/milanesa-q12821/milanesa-q12821-3.jpg",
+    "images/milanesa-q12821/milanesa-q12821-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53135",
+    "category": "Beef",
+    "area": "Argentina",
+    "instructions": "Season the Cutlets: Salt and pepper the cutlets.\r\nBread the Cutlets: Dip each cutlet in egg, then coat with a mixture of breadcrumbs, parsley, and garlic.\r\nFry: Heat oil in a large pan over medium heat. Fry the cutlets until golden and cooked through, about 3-4 minutes per side.\r\nServe: Serve hot with lemon wedges or a side salad.\r\nPro Tips:\r\n\r\nFor an extra crispy crust, use panko breadcrumbs mixed with finely grated Parmesan cheese.\r\nGently pound the cutlets to an even thickness for uniform cooking.",
+    "ingredients": [
+      {
+        "ingredient": "Beef Cutlet",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "2 Beaten"
+      },
+      {
+        "ingredient": "Breadcrumbs",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "2 tbs chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves minced"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=_G3cyucbB3o",
+    "thumb": "https://www.themealdb.com/images/media/meals/wdfa171763065079.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12821",
+    "themealdb": "53135"
+  }
+}

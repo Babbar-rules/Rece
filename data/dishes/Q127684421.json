@@ -1,0 +1,16 @@
+{
+  "id": "Q127684421",
+  "name": "Melon Mélange",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/melon-melange-q127684421/melon-melange-q127684421-1.jpg",
+    "images/melon-melange-q127684421/melon-melange-q127684421-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684421",
+    "themealdb": null
+  }
+}

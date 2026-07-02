@@ -1,0 +1,18 @@
+{
+  "id": "Q127684362",
+  "name": "Candy Concrete",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/candy-concrete-q127684362/candy-concrete-q127684362-1.png",
+    "images/candy-concrete-q127684362/candy-concrete-q127684362-2.png",
+    "images/candy-concrete-q127684362/candy-concrete-q127684362-3.png",
+    "images/candy-concrete-q127684362/candy-concrete-q127684362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684362",
+    "themealdb": null
+  }
+}

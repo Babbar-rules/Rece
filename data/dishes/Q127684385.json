@@ -1,0 +1,18 @@
+{
+  "id": "Q127684385",
+  "name": "Strawberry Banana Smoothie",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-banana-smoothie-q127684385/strawberry-banana-smoothie-q127684385-1.jpg",
+    "images/strawberry-banana-smoothie-q127684385/strawberry-banana-smoothie-q127684385-2.jpg",
+    "images/strawberry-banana-smoothie-q127684385/strawberry-banana-smoothie-q127684385-3.jpg",
+    "images/strawberry-banana-smoothie-q127684385/strawberry-banana-smoothie-q127684385-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684385",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q127684377",
+  "name": "Mocha Mixer",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mocha-mixer-q127684377/mocha-mixer-q127684377-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684377",
+    "themealdb": null
+  }
+}

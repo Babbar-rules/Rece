@@ -1,0 +1,18 @@
+{
+  "id": "Q127684356",
+  "name": "Banana Butter",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-butter-q127684356/banana-butter-q127684356-1.jpg",
+    "images/banana-butter-q127684356/banana-butter-q127684356-2.jpg",
+    "images/banana-butter-q127684356/banana-butter-q127684356-3.jpg",
+    "images/banana-butter-q127684356/banana-butter-q127684356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684356",
+    "themealdb": null
+  }
+}

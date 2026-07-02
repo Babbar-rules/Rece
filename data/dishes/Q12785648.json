@@ -1,0 +1,20 @@
+{
+  "id": "Q12785648",
+  "name": "Belokranjska pogača",
+  "description": "Slovene flatbread",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/belokranjska-pogaca-q12785648/belokranjska-pogaca-q12785648-1.jpg",
+    "images/belokranjska-pogaca-q12785648/belokranjska-pogaca-q12785648-2.jpg",
+    "images/belokranjska-pogaca-q12785648/belokranjska-pogaca-q12785648-3.jpg",
+    "images/belokranjska-pogaca-q12785648/belokranjska-pogaca-q12785648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12785648",
+    "themealdb": null
+  }
+}

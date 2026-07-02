@@ -1,0 +1,20 @@
+{
+  "id": "Q12810864",
+  "name": "Stuffed mussels",
+  "description": "stuffed mussels, Turkish style",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-mussels-q12810864/stuffed-mussels-q12810864-1.jpg",
+    "images/stuffed-mussels-q12810864/stuffed-mussels-q12810864-2.jpg",
+    "images/stuffed-mussels-q12810864/stuffed-mussels-q12810864-3.jpg",
+    "images/stuffed-mussels-q12810864/stuffed-mussels-q12810864-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12810864",
+    "themealdb": null
+  }
+}

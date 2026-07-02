@@ -1,0 +1,18 @@
+{
+  "id": "Q12812820",
+  "name": "chigirtma",
+  "description": "Azeri cuisine egg dish",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chigirtma-q12812820/chigirtma-q12812820-1.jpg",
+    "images/chigirtma-q12812820/chigirtma-q12812820-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12812820",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q128635538",
+  "name": "Fan-Tastic",
+  "description": "rice burger sold by McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fan-tastic-q128635538/fan-tastic-q128635538-1.jpg",
+    "images/fan-tastic-q128635538/fan-tastic-q128635538-2.jpg",
+    "images/fan-tastic-q128635538/fan-tastic-q128635538-3.jpg",
+    "images/fan-tastic-q128635538/fan-tastic-q128635538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128635538",
+    "themealdb": null
+  }
+}

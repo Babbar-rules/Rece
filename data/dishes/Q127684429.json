@@ -1,0 +1,18 @@
+{
+  "id": "Q127684429",
+  "name": "Strawberry Shortcake",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-shortcake-q127684429/strawberry-shortcake-q127684429-1.jpg",
+    "images/strawberry-shortcake-q127684429/strawberry-shortcake-q127684429-2.jpg",
+    "images/strawberry-shortcake-q127684429/strawberry-shortcake-q127684429-3.jpg",
+    "images/strawberry-shortcake-q127684429/strawberry-shortcake-q127684429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684429",
+    "themealdb": null
+  }
+}

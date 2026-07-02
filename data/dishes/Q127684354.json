@@ -1,0 +1,18 @@
+{
+  "id": "Q127684354",
+  "name": "Trancapecho",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/trancapecho-q127684354/trancapecho-q127684354-1.jpg",
+    "images/trancapecho-q127684354/trancapecho-q127684354-2.jpg",
+    "images/trancapecho-q127684354/trancapecho-q127684354-3.jpg",
+    "images/trancapecho-q127684354/trancapecho-q127684354-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684354",
+    "themealdb": null
+  }
+}

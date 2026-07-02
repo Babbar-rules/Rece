@@ -1,0 +1,18 @@
+{
+  "id": "Q12829823",
+  "name": "Patir",
+  "description": "Type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/patir-q12829823/patir-q12829823-1.jpg",
+    "images/patir-q12829823/patir-q12829823-2.jpg",
+    "images/patir-q12829823/patir-q12829823-3.jpg",
+    "images/patir-q12829823/patir-q12829823-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12829823",
+    "themealdb": null
+  }
+}

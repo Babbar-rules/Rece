@@ -1,0 +1,18 @@
+{
+  "id": "Q12884619",
+  "name": "spetsofai",
+  "description": "Greek sausage dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spetsofai-q12884619/spetsofai-q12884619-1.jpg",
+    "images/spetsofai-q12884619/spetsofai-q12884619-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12884619",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127684371",
+  "name": "Kiwi Lemon Lime",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kiwi-lemon-lime-q127684371/kiwi-lemon-lime-q127684371-1.jpg",
+    "images/kiwi-lemon-lime-q127684371/kiwi-lemon-lime-q127684371-2.jpg",
+    "images/kiwi-lemon-lime-q127684371/kiwi-lemon-lime-q127684371-3.jpg",
+    "images/kiwi-lemon-lime-q127684371/kiwi-lemon-lime-q127684371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684371",
+    "themealdb": null
+  }
+}

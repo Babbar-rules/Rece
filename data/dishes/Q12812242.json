@@ -1,0 +1,21 @@
+{
+  "id": "Q12812242",
+  "name": "torpedo dessert",
+  "description": "buttery, flaky viennoiserie bread roll",
+  "nationality": [
+    "Turkey",
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torpedo-dessert-q12812242/torpedo-dessert-q12812242-1.jpg",
+    "images/torpedo-dessert-q12812242/torpedo-dessert-q12812242-2.jpg",
+    "images/torpedo-dessert-q12812242/torpedo-dessert-q12812242-3.jpg",
+    "images/torpedo-dessert-q12812242/torpedo-dessert-q12812242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12812242",
+    "themealdb": null
+  }
+}

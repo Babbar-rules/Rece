@@ -1,0 +1,20 @@
+{
+  "id": "Q12811344",
+  "name": "Badımcan çığırtması",
+  "description": "eggplant and egg dish",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/badmcan-cgrtmas-q12811344/badmcan-cgrtmas-q12811344-1.jpg",
+    "images/badmcan-cgrtmas-q12811344/badmcan-cgrtmas-q12811344-2.jpg",
+    "images/badmcan-cgrtmas-q12811344/badmcan-cgrtmas-q12811344-3.jpg",
+    "images/badmcan-cgrtmas-q12811344/badmcan-cgrtmas-q12811344-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12811344",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q12845878",
+  "name": "soyutma",
+  "description": "soup from the Caucasus that is Azerbaijan's national dish",
+  "nationality": [
+    "Caucasus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soyutma-q12845878/soyutma-q12845878-1.jpg",
+    "images/soyutma-q12845878/soyutma-q12845878-2.jpg",
+    "images/soyutma-q12845878/soyutma-q12845878-3.jpg",
+    "images/soyutma-q12845878/soyutma-q12845878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12845878",
+    "themealdb": null
+  }
+}

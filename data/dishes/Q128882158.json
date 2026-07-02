@@ -1,0 +1,17 @@
+{
+  "id": "Q128882158",
+  "name": "Jolly Rancher Grape",
+  "description": "flavor of Jolly Rancher hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jolly-rancher-grape-q128882158/jolly-rancher-grape-q128882158-1.jpg",
+    "images/jolly-rancher-grape-q128882158/jolly-rancher-grape-q128882158-2.jpg",
+    "images/jolly-rancher-grape-q128882158/jolly-rancher-grape-q128882158-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128882158",
+    "themealdb": null
+  }
+}

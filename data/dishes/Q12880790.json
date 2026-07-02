@@ -1,0 +1,18 @@
+{
+  "id": "Q12880790",
+  "name": "Mahalepi",
+  "description": "Cypriot dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mahalepi-q12880790/mahalepi-q12880790-1.jpg",
+    "images/mahalepi-q12880790/mahalepi-q12880790-2.jpg",
+    "images/mahalepi-q12880790/mahalepi-q12880790-3.jpg",
+    "images/mahalepi-q12880790/mahalepi-q12880790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12880790",
+    "themealdb": null
+  }
+}

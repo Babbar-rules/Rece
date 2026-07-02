@@ -1,0 +1,18 @@
+{
+  "id": "Q127684409",
+  "name": "Crumble Rumble",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crumble-rumble-q127684409/crumble-rumble-q127684409-1.jpg",
+    "images/crumble-rumble-q127684409/crumble-rumble-q127684409-2.jpg",
+    "images/crumble-rumble-q127684409/crumble-rumble-q127684409-3.jpg",
+    "images/crumble-rumble-q127684409/crumble-rumble-q127684409-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684409",
+    "themealdb": null
+  }
+}

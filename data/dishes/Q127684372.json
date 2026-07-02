@@ -1,0 +1,18 @@
+{
+  "id": "Q127684372",
+  "name": "Kiwi Strawberry",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kiwi-strawberry-q127684372/kiwi-strawberry-q127684372-1.jpg",
+    "images/kiwi-strawberry-q127684372/kiwi-strawberry-q127684372-2.jpg",
+    "images/kiwi-strawberry-q127684372/kiwi-strawberry-q127684372-3.jpg",
+    "images/kiwi-strawberry-q127684372/kiwi-strawberry-q127684372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684372",
+    "themealdb": null
+  }
+}

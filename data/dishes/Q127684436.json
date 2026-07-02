@@ -1,0 +1,18 @@
+{
+  "id": "Q127684436",
+  "name": "Wild Winterberry",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wild-winterberry-q127684436/wild-winterberry-q127684436-1.jpg",
+    "images/wild-winterberry-q127684436/wild-winterberry-q127684436-2.jpg",
+    "images/wild-winterberry-q127684436/wild-winterberry-q127684436-3.jpg",
+    "images/wild-winterberry-q127684436/wild-winterberry-q127684436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684436",
+    "themealdb": null
+  }
+}

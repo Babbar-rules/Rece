@@ -1,0 +1,15 @@
+{
+  "id": "Q127684349",
+  "name": "Rahmschnitzel",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rahmschnitzel-q127684349/rahmschnitzel-q127684349-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684349",
+    "themealdb": null
+  }
+}

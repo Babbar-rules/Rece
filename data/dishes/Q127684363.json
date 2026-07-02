@@ -1,0 +1,18 @@
+{
+  "id": "Q127684363",
+  "name": "Caramel Macchiato",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caramel-macchiato-q127684363/caramel-macchiato-q127684363-1.jpg",
+    "images/caramel-macchiato-q127684363/caramel-macchiato-q127684363-2.jpg",
+    "images/caramel-macchiato-q127684363/caramel-macchiato-q127684363-3.jpg",
+    "images/caramel-macchiato-q127684363/caramel-macchiato-q127684363-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684363",
+    "themealdb": null
+  }
+}

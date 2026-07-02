@@ -1,0 +1,18 @@
+{
+  "id": "Q127684402",
+  "name": "Bubble Tea Bar",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bubble-tea-bar-q127684402/bubble-tea-bar-q127684402-1.jpg",
+    "images/bubble-tea-bar-q127684402/bubble-tea-bar-q127684402-2.jpg",
+    "images/bubble-tea-bar-q127684402/bubble-tea-bar-q127684402-3.jpg",
+    "images/bubble-tea-bar-q127684402/bubble-tea-bar-q127684402-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684402",
+    "themealdb": null
+  }
+}

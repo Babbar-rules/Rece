@@ -1,0 +1,17 @@
+{
+  "id": "Q128882198",
+  "name": "Jolly Rancher Watermelon",
+  "description": "flavor of Jolly Rancher hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jolly-rancher-watermelon-q128882198/jolly-rancher-watermelon-q128882198-1.jpg",
+    "images/jolly-rancher-watermelon-q128882198/jolly-rancher-watermelon-q128882198-2.jpg",
+    "images/jolly-rancher-watermelon-q128882198/jolly-rancher-watermelon-q128882198-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128882198",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q12809407",
+  "name": "stuffed artichoke",
+  "description": "artichoke dishes made by filling the flower",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-artichoke-q12809407/stuffed-artichoke-q12809407-1.jpg",
+    "images/stuffed-artichoke-q12809407/stuffed-artichoke-q12809407-2.jpg",
+    "images/stuffed-artichoke-q12809407/stuffed-artichoke-q12809407-3.jpg",
+    "images/stuffed-artichoke-q12809407/stuffed-artichoke-q12809407-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12809407",
+    "themealdb": null
+  }
+}

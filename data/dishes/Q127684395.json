@@ -1,0 +1,18 @@
+{
+  "id": "Q127684395",
+  "name": "Wild Berry",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wild-berry-q127684395/wild-berry-q127684395-1.jpg",
+    "images/wild-berry-q127684395/wild-berry-q127684395-2.jpg",
+    "images/wild-berry-q127684395/wild-berry-q127684395-3.jpg",
+    "images/wild-berry-q127684395/wild-berry-q127684395-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684395",
+    "themealdb": null
+  }
+}

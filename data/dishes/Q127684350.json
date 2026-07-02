@@ -1,0 +1,17 @@
+{
+  "id": "Q127684350",
+  "name": "Seafood Sampler",
+  "description": "Papa's Cluckeria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seafood-sampler-q127684350/seafood-sampler-q127684350-1.jpg",
+    "images/seafood-sampler-q127684350/seafood-sampler-q127684350-2.jpg",
+    "images/seafood-sampler-q127684350/seafood-sampler-q127684350-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684350",
+    "themealdb": null
+  }
+}

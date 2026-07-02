@@ -1,0 +1,18 @@
+{
+  "id": "Q127684386",
+  "name": "Strawberry Brownie",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-brownie-q127684386/strawberry-brownie-q127684386-1.jpg",
+    "images/strawberry-brownie-q127684386/strawberry-brownie-q127684386-2.jpg",
+    "images/strawberry-brownie-q127684386/strawberry-brownie-q127684386-3.jpg",
+    "images/strawberry-brownie-q127684386/strawberry-brownie-q127684386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684386",
+    "themealdb": null
+  }
+}

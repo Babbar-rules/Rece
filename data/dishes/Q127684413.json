@@ -1,0 +1,18 @@
+{
+  "id": "Q127684413",
+  "name": "Hokey Pokey",
+  "description": "Papa's Paleteria special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hokey-pokey-q127684413/hokey-pokey-q127684413-1.jpg",
+    "images/hokey-pokey-q127684413/hokey-pokey-q127684413-2.jpg",
+    "images/hokey-pokey-q127684413/hokey-pokey-q127684413-3.jpg",
+    "images/hokey-pokey-q127684413/hokey-pokey-q127684413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684413",
+    "themealdb": null
+  }
+}

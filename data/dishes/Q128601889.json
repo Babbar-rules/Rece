@@ -1,0 +1,15 @@
+{
+  "id": "Q128601889",
+  "name": "SpongeBob SquarePants Popsicle",
+  "description": "ice pop resembling SpongeBob SquarePants",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128601889",
+    "themealdb": null
+  }
+}

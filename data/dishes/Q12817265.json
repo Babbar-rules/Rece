@@ -1,0 +1,24 @@
+{
+  "id": "Q12817265",
+  "name": "Shakarap",
+  "description": "salad from Central Asia",
+  "nationality": [
+    "Uzbekistan",
+    "Kyrgyzstan",
+    "Tajikistan"
+  ],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Tajik cuisine",
+    "Cuisine of Uzbekistan",
+    "Kazakh cuisine"
+  ],
+  "images": [
+    "images/shakarap-q12817265/shakarap-q12817265-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12817265",
+    "themealdb": null
+  }
+}

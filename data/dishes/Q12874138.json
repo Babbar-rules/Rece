@@ -1,0 +1,18 @@
+{
+  "id": "Q12874138",
+  "name": "astakomakaronada",
+  "description": "Greek pasta dish with lobster",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/astakomakaronada-q12874138/astakomakaronada-q12874138-1.jpg",
+    "images/astakomakaronada-q12874138/astakomakaronada-q12874138-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12874138",
+    "themealdb": null
+  }
+}

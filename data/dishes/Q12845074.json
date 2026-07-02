@@ -1,0 +1,18 @@
+{
+  "id": "Q12845074",
+  "name": "Salçalı biftek",
+  "description": "beef or veal dish from the Turkish cuise, the steak is first fried, then covered with a tomato-based sauce and cooked either in the oven or in a pan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salcal-biftek-q12845074/salcal-biftek-q12845074-1.jpg",
+    "images/salcal-biftek-q12845074/salcal-biftek-q12845074-2.jpg",
+    "images/salcal-biftek-q12845074/salcal-biftek-q12845074-3.jpg",
+    "images/salcal-biftek-q12845074/salcal-biftek-q12845074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12845074",
+    "themealdb": null
+  }
+}

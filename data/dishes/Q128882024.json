@@ -1,0 +1,17 @@
+{
+  "id": "Q128882024",
+  "name": "Jolly Rancher Cherry",
+  "description": "flavor of Jolly Rancher hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jolly-rancher-cherry-q128882024/jolly-rancher-cherry-q128882024-1.jpg",
+    "images/jolly-rancher-cherry-q128882024/jolly-rancher-cherry-q128882024-2.jpg",
+    "images/jolly-rancher-cherry-q128882024/jolly-rancher-cherry-q128882024-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q128882024",
+    "themealdb": null
+  }
+}

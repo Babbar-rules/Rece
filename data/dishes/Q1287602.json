@@ -1,0 +1,18 @@
+{
+  "id": "Q1287602",
+  "name": "Liegnitzer Bomben",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/liegnitzer-bomben-q1287602/liegnitzer-bomben-q1287602-1.jpg",
+    "images/liegnitzer-bomben-q1287602/liegnitzer-bomben-q1287602-2.jpg",
+    "images/liegnitzer-bomben-q1287602/liegnitzer-bomben-q1287602-3.jpg",
+    "images/liegnitzer-bomben-q1287602/liegnitzer-bomben-q1287602-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1287602",
+    "themealdb": null
+  }
+}

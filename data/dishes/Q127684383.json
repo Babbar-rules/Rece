@@ -1,0 +1,17 @@
+{
+  "id": "Q127684383",
+  "name": "Raspberry Moon",
+  "description": "Papa's Freezeria Deluxe special recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raspberry-moon-q127684383/raspberry-moon-q127684383-1.jpg",
+    "images/raspberry-moon-q127684383/raspberry-moon-q127684383-2.jpg",
+    "images/raspberry-moon-q127684383/raspberry-moon-q127684383-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127684383",
+    "themealdb": null
+  }
+}

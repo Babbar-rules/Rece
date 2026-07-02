@@ -1,0 +1,20 @@
+{
+  "id": "Q12784236",
+  "name": "Aleluja",
+  "description": "turnip peels soup",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aleluja-q12784236/aleluja-q12784236-1.jpg",
+    "images/aleluja-q12784236/aleluja-q12784236-2.jpg",
+    "images/aleluja-q12784236/aleluja-q12784236-3.jpg",
+    "images/aleluja-q12784236/aleluja-q12784236-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12784236",
+    "themealdb": null
+  }
+}

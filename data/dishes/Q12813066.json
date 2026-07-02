@@ -1,0 +1,17 @@
+{
+  "id": "Q12813066",
+  "name": "şevketibostan yemeği",
+  "description": "Turkish lamb dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sevketibostan-yemegi-q12813066/sevketibostan-yemegi-q12813066-1.jpg",
+    "images/sevketibostan-yemegi-q12813066/sevketibostan-yemegi-q12813066-2.jpg",
+    "images/sevketibostan-yemegi-q12813066/sevketibostan-yemegi-q12813066-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12813066",
+    "themealdb": null
+  }
+}

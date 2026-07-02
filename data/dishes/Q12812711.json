@@ -1,0 +1,20 @@
+{
+  "id": "Q12812711",
+  "name": "Zerde",
+  "description": "Iranian cuisine dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zerde-q12812711/zerde-q12812711-1.jpg",
+    "images/zerde-q12812711/zerde-q12812711-2.jpg",
+    "images/zerde-q12812711/zerde-q12812711-3.jpg",
+    "images/zerde-q12812711/zerde-q12812711-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12812711",
+    "themealdb": null
+  }
+}

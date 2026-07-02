@@ -1,0 +1,18 @@
+{
+  "id": "Q12859415",
+  "name": "Pot Noodle",
+  "description": "brand of instant noodle snack foods",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pot-noodle-q12859415/pot-noodle-q12859415-1.jpg",
+    "images/pot-noodle-q12859415/pot-noodle-q12859415-2.jpg",
+    "images/pot-noodle-q12859415/pot-noodle-q12859415-3.jpg",
+    "images/pot-noodle-q12859415/pot-noodle-q12859415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12859415",
+    "themealdb": null
+  }
+}
