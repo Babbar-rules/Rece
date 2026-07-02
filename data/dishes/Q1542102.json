@@ -1,0 +1,20 @@
+{
+  "id": "Q1542102",
+  "name": "Tepertős pogácsa",
+  "description": "",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tepertos-pogacsa-q1542102/tepertos-pogacsa-q1542102-1.jpg",
+    "images/tepertos-pogacsa-q1542102/tepertos-pogacsa-q1542102-2.jpg",
+    "images/tepertos-pogacsa-q1542102/tepertos-pogacsa-q1542102-3.jpg",
+    "images/tepertos-pogacsa-q1542102/tepertos-pogacsa-q1542102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1542102",
+    "themealdb": null
+  }
+}

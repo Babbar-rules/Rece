@@ -1,0 +1,18 @@
+{
+  "id": "Q15014447",
+  "name": "cold noodle",
+  "description": "noodles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cold-noodle-q15014447/cold-noodle-q15014447-1.jpg",
+    "images/cold-noodle-q15014447/cold-noodle-q15014447-2.jpg",
+    "images/cold-noodle-q15014447/cold-noodle-q15014447-3.jpg",
+    "images/cold-noodle-q15014447/cold-noodle-q15014447-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15014447",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1572563",
+  "name": "ham and eggs",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-and-eggs-q1572563/ham-and-eggs-q1572563-1.jpg",
+    "images/ham-and-eggs-q1572563/ham-and-eggs-q1572563-2.jpg",
+    "images/ham-and-eggs-q1572563/ham-and-eggs-q1572563-3.jpg",
+    "images/ham-and-eggs-q1572563/ham-and-eggs-q1572563-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1572563",
+    "themealdb": null
+  }
+}

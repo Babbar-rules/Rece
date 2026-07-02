@@ -1,0 +1,18 @@
+{
+  "id": "Q15548160",
+  "name": "roast duck",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roast-duck-q15548160/roast-duck-q15548160-1.jpg",
+    "images/roast-duck-q15548160/roast-duck-q15548160-2.jpg",
+    "images/roast-duck-q15548160/roast-duck-q15548160-3.jpg",
+    "images/roast-duck-q15548160/roast-duck-q15548160-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15548160",
+    "themealdb": null
+  }
+}

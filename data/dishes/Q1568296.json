@@ -1,0 +1,22 @@
+{
+  "id": "Q1568296",
+  "name": "Scotch egg",
+  "description": "British dish of a soft-boiled egg wrapped in sausage meat, coated in bread crumbs and baked or deep-fried",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/scotch-egg-q1568296/scotch-egg-q1568296-1.jpg",
+    "images/scotch-egg-q1568296/scotch-egg-q1568296-2.jpg",
+    "images/scotch-egg-q1568296/scotch-egg-q1568296-3.jpg",
+    "images/scotch-egg-q1568296/scotch-egg-q1568296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1568296",
+    "themealdb": null
+  }
+}

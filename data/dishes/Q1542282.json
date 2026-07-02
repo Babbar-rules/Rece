@@ -1,0 +1,20 @@
+{
+  "id": "Q1542282",
+  "name": "tête de veau",
+  "description": "European dish made from calf's head",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tete-de-veau-q1542282/tete-de-veau-q1542282-1.jpg",
+    "images/tete-de-veau-q1542282/tete-de-veau-q1542282-2.jpg",
+    "images/tete-de-veau-q1542282/tete-de-veau-q1542282-3.jpg",
+    "images/tete-de-veau-q1542282/tete-de-veau-q1542282-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1542282",
+    "themealdb": null
+  }
+}

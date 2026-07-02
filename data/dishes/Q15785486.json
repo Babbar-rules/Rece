@@ -1,0 +1,18 @@
+{
+  "id": "Q15785486",
+  "name": "bakpau",
+  "description": "Indonesian bun filled with meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bakpau-q15785486/bakpau-q15785486-1.jpg",
+    "images/bakpau-q15785486/bakpau-q15785486-2.jpg",
+    "images/bakpau-q15785486/bakpau-q15785486-3.jpg",
+    "images/bakpau-q15785486/bakpau-q15785486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15785486",
+    "themealdb": null
+  }
+}

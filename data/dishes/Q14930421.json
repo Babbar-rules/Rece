@@ -1,0 +1,20 @@
+{
+  "id": "Q14930421",
+  "name": "Juka",
+  "description": "blood soup",
+  "nationality": [
+    "Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/juka-q14930421/juka-q14930421-1.jpg",
+    "images/juka-q14930421/juka-q14930421-2.jpg",
+    "images/juka-q14930421/juka-q14930421-3.jpg",
+    "images/juka-q14930421/juka-q14930421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14930421",
+    "themealdb": null
+  }
+}

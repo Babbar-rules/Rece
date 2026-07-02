@@ -1,0 +1,20 @@
+{
+  "id": "Q153944",
+  "name": "Stutenkerl",
+  "description": "Gebildbrot made of sweet yeasted dough belonging to the Saint Nicholas tradition",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stutenkerl-q153944/stutenkerl-q153944-1.jpg",
+    "images/stutenkerl-q153944/stutenkerl-q153944-2.jpg",
+    "images/stutenkerl-q153944/stutenkerl-q153944-3.jpg",
+    "images/stutenkerl-q153944/stutenkerl-q153944-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153944",
+    "themealdb": null
+  }
+}

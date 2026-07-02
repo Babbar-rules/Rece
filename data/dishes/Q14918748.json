@@ -1,0 +1,22 @@
+{
+  "id": "Q14918748",
+  "name": "Lotek",
+  "description": "Sundanese salad from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lotek-q14918748/lotek-q14918748-1.jpg",
+    "images/lotek-q14918748/lotek-q14918748-2.png",
+    "images/lotek-q14918748/lotek-q14918748-3.jpg",
+    "images/lotek-q14918748/lotek-q14918748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14918748",
+    "themealdb": null
+  }
+}

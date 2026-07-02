@@ -1,0 +1,22 @@
+{
+  "id": "Q15724277",
+  "name": "Dahibara Aludam",
+  "description": "Street food of Odisha",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "cuisine of Odisha"
+  ],
+  "images": [
+    "images/dahibara-aludam-q15724277/dahibara-aludam-q15724277-1.jpg",
+    "images/dahibara-aludam-q15724277/dahibara-aludam-q15724277-2.jpg",
+    "images/dahibara-aludam-q15724277/dahibara-aludam-q15724277-3.jpg",
+    "images/dahibara-aludam-q15724277/dahibara-aludam-q15724277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15724277",
+    "themealdb": null
+  }
+}

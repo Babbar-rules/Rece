@@ -1,0 +1,25 @@
+{
+  "id": "Q1515088",
+  "name": "krupnik",
+  "description": "thick Eastern European soup made from vegetable or meat broth, containing potatoes and grain",
+  "nationality": [
+    "Poland",
+    "Belarus"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "Belarusian cuisine"
+  ],
+  "images": [
+    "images/krupnik-q1515088/krupnik-q1515088-1.jpg",
+    "images/krupnik-q1515088/krupnik-q1515088-2.jpg",
+    "images/krupnik-q1515088/krupnik-q1515088-3.jpg",
+    "images/krupnik-q1515088/krupnik-q1515088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1515088",
+    "themealdb": null
+  }
+}

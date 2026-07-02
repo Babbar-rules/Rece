@@ -1,0 +1,21 @@
+{
+  "id": "Q1518603",
+  "name": "mămăligă",
+  "description": "porridge made out of yellow maize flour, traditional in Romania and Moldova",
+  "nationality": [
+    "Moldova",
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mamaliga-q1518603/mamaliga-q1518603-1.jpg",
+    "images/mamaliga-q1518603/mamaliga-q1518603-2.jpg",
+    "images/mamaliga-q1518603/mamaliga-q1518603-3.jpg",
+    "images/mamaliga-q1518603/mamaliga-q1518603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1518603",
+    "themealdb": null
+  }
+}

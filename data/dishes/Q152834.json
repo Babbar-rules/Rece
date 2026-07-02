@@ -1,0 +1,18 @@
+{
+  "id": "Q152834",
+  "name": "fruit salad",
+  "description": "dish consisting of various kinds of fruit, sometimes served in a liquid, either in their own juices or a syrup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-salad-q152834/fruit-salad-q152834-1.jpg",
+    "images/fruit-salad-q152834/fruit-salad-q152834-2.jpg",
+    "images/fruit-salad-q152834/fruit-salad-q152834-3.jpg",
+    "images/fruit-salad-q152834/fruit-salad-q152834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152834",
+    "themealdb": null
+  }
+}

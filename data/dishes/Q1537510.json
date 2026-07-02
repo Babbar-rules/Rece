@@ -1,0 +1,20 @@
+{
+  "id": "Q1537510",
+  "name": "ruisreikäleipä",
+  "description": "traditional Finnish rye bread with a hole in the middle",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ruisreikaleipa-q1537510/ruisreikaleipa-q1537510-1.jpg",
+    "images/ruisreikaleipa-q1537510/ruisreikaleipa-q1537510-2.jpg",
+    "images/ruisreikaleipa-q1537510/ruisreikaleipa-q1537510-3.jpg",
+    "images/ruisreikaleipa-q1537510/ruisreikaleipa-q1537510-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1537510",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q15785303",
+  "name": "Bake and Shark",
+  "description": "traditional Trinidadian fast food dish",
+  "nationality": [
+    "Trinidad and Tobago"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bake-and-shark-q15785303/bake-and-shark-q15785303-1.jpg",
+    "images/bake-and-shark-q15785303/bake-and-shark-q15785303-2.jpg",
+    "images/bake-and-shark-q15785303/bake-and-shark-q15785303-3.jpg",
+    "images/bake-and-shark-q15785303/bake-and-shark-q15785303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15785303",
+    "themealdb": null
+  }
+}

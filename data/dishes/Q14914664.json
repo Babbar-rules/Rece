@@ -1,0 +1,18 @@
+{
+  "id": "Q14914664",
+  "name": "cold sweet soup",
+  "description": "cold dish mostly in summer times",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cold-sweet-soup-q14914664/cold-sweet-soup-q14914664-1.jpg",
+    "images/cold-sweet-soup-q14914664/cold-sweet-soup-q14914664-2.jpg",
+    "images/cold-sweet-soup-q14914664/cold-sweet-soup-q14914664-3.jpg",
+    "images/cold-sweet-soup-q14914664/cold-sweet-soup-q14914664-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14914664",
+    "themealdb": null
+  }
+}

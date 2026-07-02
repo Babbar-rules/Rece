@@ -1,0 +1,22 @@
+{
+  "id": "Q1519830",
+  "name": "hamantash",
+  "description": "triangular filled-pocket cookie associated with Purim",
+  "nationality": [
+    "Central Europe"
+  ],
+  "region_cuisine": [
+    "Jewish cuisine"
+  ],
+  "images": [
+    "images/hamantash-q1519830/hamantash-q1519830-1.jpg",
+    "images/hamantash-q1519830/hamantash-q1519830-2.jpg",
+    "images/hamantash-q1519830/hamantash-q1519830-3.jpg",
+    "images/hamantash-q1519830/hamantash-q1519830-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1519830",
+    "themealdb": null
+  }
+}

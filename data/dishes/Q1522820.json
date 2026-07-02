@@ -1,0 +1,21 @@
+{
+  "id": "Q1522820",
+  "name": "Gibanica",
+  "description": "Serbian dish made from filo, white cheese, and eggs",
+  "nationality": [
+    "Italy",
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gibanica-q1522820/gibanica-q1522820-1.jpg",
+    "images/gibanica-q1522820/gibanica-q1522820-2.jpg",
+    "images/gibanica-q1522820/gibanica-q1522820-3.jpg",
+    "images/gibanica-q1522820/gibanica-q1522820-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1522820",
+    "themealdb": null
+  }
+}

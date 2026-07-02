@@ -1,0 +1,18 @@
+{
+  "id": "Q151466",
+  "name": "Röggelchen",
+  "description": "double bread roll made with rye flour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roggelchen-q151466/roggelchen-q151466-1.jpg",
+    "images/roggelchen-q151466/roggelchen-q151466-2.jpg",
+    "images/roggelchen-q151466/roggelchen-q151466-3.jpg",
+    "images/roggelchen-q151466/roggelchen-q151466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q151466",
+    "themealdb": null
+  }
+}

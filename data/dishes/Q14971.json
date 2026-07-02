@@ -1,0 +1,18 @@
+{
+  "id": "Q14971",
+  "name": "Pompe aux grattons",
+  "description": "culinary specialty of the center of France",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pompe-aux-grattons-q14971/pompe-aux-grattons-q14971-1.jpg",
+    "images/pompe-aux-grattons-q14971/pompe-aux-grattons-q14971-2.jpg",
+    "images/pompe-aux-grattons-q14971/pompe-aux-grattons-q14971-3.jpg",
+    "images/pompe-aux-grattons-q14971/pompe-aux-grattons-q14971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14971",
+    "themealdb": null
+  }
+}

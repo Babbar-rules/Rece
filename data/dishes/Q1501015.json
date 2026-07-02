@@ -1,0 +1,22 @@
+{
+  "id": "Q1501015",
+  "name": "Swedish meatballs",
+  "description": "Swedish dish made from ground meat",
+  "nationality": [
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/swedish-meatballs-q1501015/swedish-meatballs-q1501015-1.jpg",
+    "images/swedish-meatballs-q1501015/swedish-meatballs-q1501015-2.jpg",
+    "images/swedish-meatballs-q1501015/swedish-meatballs-q1501015-3.jpg",
+    "images/swedish-meatballs-q1501015/swedish-meatballs-q1501015-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1501015",
+    "themealdb": null
+  }
+}

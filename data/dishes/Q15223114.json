@@ -1,0 +1,20 @@
+{
+  "id": "Q15223114",
+  "name": "thong yip",
+  "description": "Thai dessert",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thong-yip-q15223114/thong-yip-q15223114-1.jpg",
+    "images/thong-yip-q15223114/thong-yip-q15223114-2.jpg",
+    "images/thong-yip-q15223114/thong-yip-q15223114-3.jpg",
+    "images/thong-yip-q15223114/thong-yip-q15223114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15223114",
+    "themealdb": null
+  }
+}

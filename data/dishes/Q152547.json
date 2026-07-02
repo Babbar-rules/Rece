@@ -1,0 +1,18 @@
+{
+  "id": "Q152547",
+  "name": "hagelslag",
+  "description": "candy topping",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hagelslag-q152547/hagelslag-q152547-1.jpg",
+    "images/hagelslag-q152547/hagelslag-q152547-2.jpg",
+    "images/hagelslag-q152547/hagelslag-q152547-3.jpg",
+    "images/hagelslag-q152547/hagelslag-q152547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152547",
+    "themealdb": null
+  }
+}

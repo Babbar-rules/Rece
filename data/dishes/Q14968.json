@@ -1,0 +1,20 @@
+{
+  "id": "Q14968",
+  "name": "pâté aux pommes de terre",
+  "description": "French dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-aux-pommes-de-terre-q14968/pate-aux-pommes-de-terre-q14968-1.jpg",
+    "images/pate-aux-pommes-de-terre-q14968/pate-aux-pommes-de-terre-q14968-2.jpg",
+    "images/pate-aux-pommes-de-terre-q14968/pate-aux-pommes-de-terre-q14968-3.jpg",
+    "images/pate-aux-pommes-de-terre-q14968/pate-aux-pommes-de-terre-q14968-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14968",
+    "themealdb": null
+  }
+}

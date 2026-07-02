@@ -1,0 +1,18 @@
+{
+  "id": "Q1578447",
+  "name": "lucanica",
+  "description": "pork sausage of Ancient Roman cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lucanica-q1578447/lucanica-q1578447-1.jpg",
+    "images/lucanica-q1578447/lucanica-q1578447-2.jpg",
+    "images/lucanica-q1578447/lucanica-q1578447-3.jpg",
+    "images/lucanica-q1578447/lucanica-q1578447-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1578447",
+    "themealdb": null
+  }
+}

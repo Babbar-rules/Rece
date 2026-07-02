@@ -1,0 +1,81 @@
+{
+  "id": "Q1520293",
+  "name": "rendang",
+  "description": "spicy meat dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Padang cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rendang-q1520293/rendang-q1520293-1.jpg",
+    "images/rendang-q1520293/rendang-q1520293-2.jpg",
+    "images/rendang-q1520293/rendang-q1520293-3.jpg",
+    "images/rendang-q1520293/rendang-q1520293-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53053",
+    "category": "Beef",
+    "area": "Malaysian",
+    "instructions": "Chop the spice paste ingredients and then blend it in a food processor until fine.\r\nHeat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. Add the beef and the pounded lemongrass and stir for 1 minute. Add the coconut milk, tamarind juice, water, and simmer on medium heat, stirring frequently until the meat is almost cooked. Add the kaffir lime leaves, kerisik (toasted coconut), sugar or palm sugar, stirring to blend well with the meat.\r\nLower the heat to low, cover the lid, and simmer for 1 to 1 1/2 hours or until the meat is really tender and the gravy has dried up. Add more salt and sugar to taste. Serve immediately with steamed rice and save some for overnight.",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "1lb"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "5 tbs"
+      },
+      {
+        "ingredient": "Cinnamon Stick",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cloves",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Star Anise",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Coconut Cream",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Tamarind Paste",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "6"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Challots",
+        "measure": "5"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=Ot-dmfBaZrA",
+    "thumb": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1520293",
+    "themealdb": "53053"
+  }
+}

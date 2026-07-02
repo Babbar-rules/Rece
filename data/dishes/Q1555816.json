@@ -1,0 +1,21 @@
+{
+  "id": "Q1555816",
+  "name": "Piperade",
+  "description": "French dish, from Gascony, prepared with onion, green peppers, and tomatoes sautéd and flavoured with red Espelette pepper",
+  "nationality": [],
+  "region_cuisine": [
+    "Basque cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/piperade-q1555816/piperade-q1555816-1.jpg",
+    "images/piperade-q1555816/piperade-q1555816-2.jpg",
+    "images/piperade-q1555816/piperade-q1555816-3.jpg",
+    "images/piperade-q1555816/piperade-q1555816-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1555816",
+    "themealdb": null
+  }
+}

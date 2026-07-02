@@ -1,0 +1,18 @@
+{
+  "id": "Q15062624",
+  "name": "fried rice noodles",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-rice-noodles-q15062624/fried-rice-noodles-q15062624-1.jpg",
+    "images/fried-rice-noodles-q15062624/fried-rice-noodles-q15062624-2.jpg",
+    "images/fried-rice-noodles-q15062624/fried-rice-noodles-q15062624-3.jpg",
+    "images/fried-rice-noodles-q15062624/fried-rice-noodles-q15062624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15062624",
+    "themealdb": null
+  }
+}

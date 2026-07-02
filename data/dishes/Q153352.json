@@ -1,0 +1,21 @@
+{
+  "id": "Q153352",
+  "name": "Sauerbraten",
+  "description": "German roast meat entree",
+  "nationality": [
+    "Belgium",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sauerbraten-q153352/sauerbraten-q153352-1.jpg",
+    "images/sauerbraten-q153352/sauerbraten-q153352-2.jpg",
+    "images/sauerbraten-q153352/sauerbraten-q153352-3.jpg",
+    "images/sauerbraten-q153352/sauerbraten-q153352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153352",
+    "themealdb": null
+  }
+}

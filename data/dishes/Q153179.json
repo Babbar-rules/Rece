@@ -1,0 +1,18 @@
+{
+  "id": "Q153179",
+  "name": "Beetroot salad",
+  "description": "Finnish and Swedish dish made from beetroots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beetroot-salad-q153179/beetroot-salad-q153179-1.jpg",
+    "images/beetroot-salad-q153179/beetroot-salad-q153179-2.jpg",
+    "images/beetroot-salad-q153179/beetroot-salad-q153179-3.jpg",
+    "images/beetroot-salad-q153179/beetroot-salad-q153179-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153179",
+    "themealdb": null
+  }
+}

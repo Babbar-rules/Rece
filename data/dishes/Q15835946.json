@@ -1,0 +1,18 @@
+{
+  "id": "Q15835946",
+  "name": "Muzen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/muzen-q15835946/muzen-q15835946-1.jpg",
+    "images/muzen-q15835946/muzen-q15835946-2.jpg",
+    "images/muzen-q15835946/muzen-q15835946-3.jpg",
+    "images/muzen-q15835946/muzen-q15835946-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15835946",
+    "themealdb": null
+  }
+}

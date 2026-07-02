@@ -1,0 +1,18 @@
+{
+  "id": "Q1551132",
+  "name": "Mutzenmandeln",
+  "description": "viennoiserie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mutzenmandeln-q1551132/mutzenmandeln-q1551132-1.jpg",
+    "images/mutzenmandeln-q1551132/mutzenmandeln-q1551132-2.jpg",
+    "images/mutzenmandeln-q1551132/mutzenmandeln-q1551132-3.jpg",
+    "images/mutzenmandeln-q1551132/mutzenmandeln-q1551132-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1551132",
+    "themealdb": null
+  }
+}

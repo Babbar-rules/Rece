@@ -1,0 +1,21 @@
+{
+  "id": "Q1554207",
+  "name": "gulab jamun",
+  "description": "milk-solid-based sweet from the Indian subcontinent",
+  "nationality": [
+    "India",
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gulab-jamun-q1554207/gulab-jamun-q1554207-1.jpg",
+    "images/gulab-jamun-q1554207/gulab-jamun-q1554207-2.jpg",
+    "images/gulab-jamun-q1554207/gulab-jamun-q1554207-3.jpg",
+    "images/gulab-jamun-q1554207/gulab-jamun-q1554207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1554207",
+    "themealdb": null
+  }
+}

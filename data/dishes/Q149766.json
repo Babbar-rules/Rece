@@ -1,0 +1,18 @@
+{
+  "id": "Q149766",
+  "name": "strawberry pie",
+  "description": "Fresh fruit dessert food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-pie-q149766/strawberry-pie-q149766-1.jpg",
+    "images/strawberry-pie-q149766/strawberry-pie-q149766-2.jpg",
+    "images/strawberry-pie-q149766/strawberry-pie-q149766-3.jpg",
+    "images/strawberry-pie-q149766/strawberry-pie-q149766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q149766",
+    "themealdb": null
+  }
+}

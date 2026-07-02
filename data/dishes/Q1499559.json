@@ -1,0 +1,18 @@
+{
+  "id": "Q1499559",
+  "name": "fruit jellies",
+  "description": "confections",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-jellies-q1499559/fruit-jellies-q1499559-1.jpg",
+    "images/fruit-jellies-q1499559/fruit-jellies-q1499559-2.jpg",
+    "images/fruit-jellies-q1499559/fruit-jellies-q1499559-3.jpg",
+    "images/fruit-jellies-q1499559/fruit-jellies-q1499559-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1499559",
+    "themealdb": null
+  }
+}

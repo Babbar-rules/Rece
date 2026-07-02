@@ -1,0 +1,44 @@
+{
+  "id": "Q1543770",
+  "name": "grits",
+  "description": "food made from corn",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Breakfast"
+  ],
+  "images": [
+    "images/grits-q1543770/grits-q1543770-1.jpg",
+    "images/grits-q1543770/grits-q1543770-2.jpg",
+    "images/grits-q1543770/grits-q1543770-3.jpg",
+    "images/grits-q1543770/grits-q1543770-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53450",
+    "category": "Breakfast",
+    "area": null,
+    "instructions": "Bring water with salt to a boil then add grits; reduce heat and cover. occasionally stirring. Cook approximately 15 minutes or until grits have desired consistency. Cool then serve",
+    "ingredients": [
+      {
+        "ingredient": "Grits",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 cup"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/bfok4w1780242078.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1543770",
+    "themealdb": "53450"
+  }
+}

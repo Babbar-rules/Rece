@@ -1,0 +1,18 @@
+{
+  "id": "Q15340455",
+  "name": "smoked egg",
+  "description": "egg dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-egg-q15340455/smoked-egg-q15340455-1.jpg",
+    "images/smoked-egg-q15340455/smoked-egg-q15340455-2.jpg",
+    "images/smoked-egg-q15340455/smoked-egg-q15340455-3.jpg",
+    "images/smoked-egg-q15340455/smoked-egg-q15340455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15340455",
+    "themealdb": null
+  }
+}

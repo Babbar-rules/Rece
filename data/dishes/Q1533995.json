@@ -1,0 +1,20 @@
+{
+  "id": "Q1533995",
+  "name": "Riz Casimir",
+  "description": "Swiss veal & rice curry dish",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/riz-casimir-q1533995/riz-casimir-q1533995-1.jpg",
+    "images/riz-casimir-q1533995/riz-casimir-q1533995-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1533995",
+    "themealdb": null
+  }
+}

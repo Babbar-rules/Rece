@@ -1,0 +1,22 @@
+{
+  "id": "Q15181",
+  "name": "shashlik",
+  "description": "form of shish kebab",
+  "nationality": [
+    "Central Asia"
+  ],
+  "region_cuisine": [
+    "Caucasian cuisine"
+  ],
+  "images": [
+    "images/shashlik-q15181/shashlik-q15181-1.jpg",
+    "images/shashlik-q15181/shashlik-q15181-2.jpg",
+    "images/shashlik-q15181/shashlik-q15181-3.jpg",
+    "images/shashlik-q15181/shashlik-q15181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15181",
+    "themealdb": null
+  }
+}

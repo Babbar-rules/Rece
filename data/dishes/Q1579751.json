@@ -1,0 +1,18 @@
+{
+  "id": "Q1579751",
+  "name": "tres leches cake",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tres-leches-cake-q1579751/tres-leches-cake-q1579751-1.jpg",
+    "images/tres-leches-cake-q1579751/tres-leches-cake-q1579751-2.jpg",
+    "images/tres-leches-cake-q1579751/tres-leches-cake-q1579751-3.jpg",
+    "images/tres-leches-cake-q1579751/tres-leches-cake-q1579751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1579751",
+    "themealdb": null
+  }
+}

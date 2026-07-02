@@ -1,0 +1,20 @@
+{
+  "id": "Q1574018",
+  "name": "skolebrød",
+  "description": "sweet roll",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/skolebrd-q1574018/skolebrd-q1574018-1.jpg",
+    "images/skolebrd-q1574018/skolebrd-q1574018-2.jpg",
+    "images/skolebrd-q1574018/skolebrd-q1574018-3.jpg",
+    "images/skolebrd-q1574018/skolebrd-q1574018-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1574018",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q14907198",
+  "name": "roulade",
+  "description": "rolled meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roulade-q14907198/roulade-q14907198-1.jpg",
+    "images/roulade-q14907198/roulade-q14907198-2.jpg",
+    "images/roulade-q14907198/roulade-q14907198-3.jpg",
+    "images/roulade-q14907198/roulade-q14907198-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14907198",
+    "themealdb": null
+  }
+}

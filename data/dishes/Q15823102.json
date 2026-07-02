@@ -1,0 +1,18 @@
+{
+  "id": "Q15823102",
+  "name": "Karlsbader Schnitte",
+  "description": "type of ham sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/karlsbader-schnitte-q15823102/karlsbader-schnitte-q15823102-1.jpg",
+    "images/karlsbader-schnitte-q15823102/karlsbader-schnitte-q15823102-2.jpg",
+    "images/karlsbader-schnitte-q15823102/karlsbader-schnitte-q15823102-3.jpg",
+    "images/karlsbader-schnitte-q15823102/karlsbader-schnitte-q15823102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15823102",
+    "themealdb": null
+  }
+}

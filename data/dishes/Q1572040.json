@@ -1,0 +1,20 @@
+{
+  "id": "Q1572040",
+  "name": "Halo-halo",
+  "description": "Filipino dessert",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/halo-halo-q1572040/halo-halo-q1572040-1.jpg",
+    "images/halo-halo-q1572040/halo-halo-q1572040-2.jpg",
+    "images/halo-halo-q1572040/halo-halo-q1572040-3.jpg",
+    "images/halo-halo-q1572040/halo-halo-q1572040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1572040",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1572844",
+  "name": "Mulligatawny",
+  "description": "Curry soup based on an Indian recipe of the British Raj times",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mulligatawny-q1572844/mulligatawny-q1572844-1.jpg",
+    "images/mulligatawny-q1572844/mulligatawny-q1572844-2.jpg",
+    "images/mulligatawny-q1572844/mulligatawny-q1572844-3.jpg",
+    "images/mulligatawny-q1572844/mulligatawny-q1572844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1572844",
+    "themealdb": null
+  }
+}

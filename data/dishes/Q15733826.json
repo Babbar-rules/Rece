@@ -1,0 +1,20 @@
+{
+  "id": "Q15733826",
+  "name": "Flour kurabiye",
+  "description": "Turkish kurabiye made with flour, sugar and butter",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flour-kurabiye-q15733826/flour-kurabiye-q15733826-1.jpg",
+    "images/flour-kurabiye-q15733826/flour-kurabiye-q15733826-2.jpg",
+    "images/flour-kurabiye-q15733826/flour-kurabiye-q15733826-3.jpg",
+    "images/flour-kurabiye-q15733826/flour-kurabiye-q15733826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15733826",
+    "themealdb": null
+  }
+}

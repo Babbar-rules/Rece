@@ -1,0 +1,22 @@
+{
+  "id": "Q152536",
+  "name": "oliebol",
+  "description": "traditional Dutch food",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dutch cuisine"
+  ],
+  "images": [
+    "images/oliebol-q152536/oliebol-q152536-1.jpg",
+    "images/oliebol-q152536/oliebol-q152536-2.jpg",
+    "images/oliebol-q152536/oliebol-q152536-3.jpg",
+    "images/oliebol-q152536/oliebol-q152536-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152536",
+    "themealdb": null
+  }
+}

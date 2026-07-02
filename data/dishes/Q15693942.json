@@ -1,0 +1,20 @@
+{
+  "id": "Q15693942",
+  "name": "Pastel de Gloria",
+  "description": "Colombian puff pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastel-de-gloria-q15693942/pastel-de-gloria-q15693942-1.jpg",
+    "images/pastel-de-gloria-q15693942/pastel-de-gloria-q15693942-2.jpg",
+    "images/pastel-de-gloria-q15693942/pastel-de-gloria-q15693942-3.jpg",
+    "images/pastel-de-gloria-q15693942/pastel-de-gloria-q15693942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15693942",
+    "themealdb": null
+  }
+}

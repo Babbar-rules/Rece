@@ -1,0 +1,18 @@
+{
+  "id": "Q1520147",
+  "name": "Getzen",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/getzen-q1520147/getzen-q1520147-1.jpg",
+    "images/getzen-q1520147/getzen-q1520147-2.jpg",
+    "images/getzen-q1520147/getzen-q1520147-3.jpg",
+    "images/getzen-q1520147/getzen-q1520147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1520147",
+    "themealdb": null
+  }
+}

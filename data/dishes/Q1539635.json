@@ -1,0 +1,22 @@
+{
+  "id": "Q1539635",
+  "name": "blåbärssoppa",
+  "description": "Scandanavian soup made from bilberries",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/blabarssoppa-q1539635/blabarssoppa-q1539635-1.jpg",
+    "images/blabarssoppa-q1539635/blabarssoppa-q1539635-2.jpg",
+    "images/blabarssoppa-q1539635/blabarssoppa-q1539635-3.jpg",
+    "images/blabarssoppa-q1539635/blabarssoppa-q1539635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1539635",
+    "themealdb": null
+  }
+}

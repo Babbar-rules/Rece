@@ -1,0 +1,20 @@
+{
+  "id": "Q1518955",
+  "name": "Hangtown fry",
+  "description": "American egg, oyster, and bacon dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of California"
+  ],
+  "images": [
+    "images/hangtown-fry-q1518955/hangtown-fry-q1518955-1.jpg",
+    "images/hangtown-fry-q1518955/hangtown-fry-q1518955-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1518955",
+    "themealdb": null
+  }
+}

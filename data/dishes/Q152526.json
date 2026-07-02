@@ -1,0 +1,20 @@
+{
+  "id": "Q152526",
+  "name": "Berliner",
+  "description": "German jelly doughnut",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/berliner-q152526/berliner-q152526-1.jpg",
+    "images/berliner-q152526/berliner-q152526-2.jpg",
+    "images/berliner-q152526/berliner-q152526-3.jpg",
+    "images/berliner-q152526/berliner-q152526-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152526",
+    "themealdb": null
+  }
+}

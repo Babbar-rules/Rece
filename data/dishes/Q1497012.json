@@ -1,0 +1,18 @@
+{
+  "id": "Q1497012",
+  "name": "Gebildbrot",
+  "description": "bread or bakery in the form of a figurative depiction",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gebildbrot-q1497012/gebildbrot-q1497012-1.jpg",
+    "images/gebildbrot-q1497012/gebildbrot-q1497012-2.jpg",
+    "images/gebildbrot-q1497012/gebildbrot-q1497012-3.jpg",
+    "images/gebildbrot-q1497012/gebildbrot-q1497012-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1497012",
+    "themealdb": null
+  }
+}

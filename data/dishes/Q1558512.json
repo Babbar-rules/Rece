@@ -1,0 +1,21 @@
+{
+  "id": "Q1558512",
+  "name": "Striezel",
+  "description": "pastry",
+  "nationality": [
+    "Austria",
+    "Bavaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/striezel-q1558512/striezel-q1558512-1.jpg",
+    "images/striezel-q1558512/striezel-q1558512-2.jpg",
+    "images/striezel-q1558512/striezel-q1558512-3.jpg",
+    "images/striezel-q1558512/striezel-q1558512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1558512",
+    "themealdb": null
+  }
+}

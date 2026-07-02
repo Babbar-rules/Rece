@@ -1,0 +1,18 @@
+{
+  "id": "Q15197142",
+  "name": "Wispa",
+  "description": "brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wispa-q15197142/wispa-q15197142-1.jpg",
+    "images/wispa-q15197142/wispa-q15197142-2.jpg",
+    "images/wispa-q15197142/wispa-q15197142-3.jpg",
+    "images/wispa-q15197142/wispa-q15197142-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15197142",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q15794115",
+  "name": "Cholera",
+  "description": "savoury dish from Vaiais, Switzerland, involving potatoes, vegetables and fruits baked with cheese in a pastry similar to a tart",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/cholera-q15794115/cholera-q15794115-1.jpg",
+    "images/cholera-q15794115/cholera-q15794115-2.jpg",
+    "images/cholera-q15794115/cholera-q15794115-3.jpg",
+    "images/cholera-q15794115/cholera-q15794115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15794115",
+    "themealdb": null
+  }
+}

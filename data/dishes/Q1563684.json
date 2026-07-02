@@ -1,0 +1,18 @@
+{
+  "id": "Q1563684",
+  "name": "Schleckmuscheln",
+  "description": "candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schleckmuscheln-q1563684/schleckmuscheln-q1563684-1.jpg",
+    "images/schleckmuscheln-q1563684/schleckmuscheln-q1563684-2.jpg",
+    "images/schleckmuscheln-q1563684/schleckmuscheln-q1563684-3.jpg",
+    "images/schleckmuscheln-q1563684/schleckmuscheln-q1563684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1563684",
+    "themealdb": null
+  }
+}

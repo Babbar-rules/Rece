@@ -1,0 +1,19 @@
+{
+  "id": "Q1572670",
+  "name": "meitschibei",
+  "description": "Swiss hazelnut pastry",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meitschibei-q1572670/meitschibei-q1572670-1.jpg",
+    "images/meitschibei-q1572670/meitschibei-q1572670-2.jpg",
+    "images/meitschibei-q1572670/meitschibei-q1572670-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1572670",
+    "themealdb": null
+  }
+}

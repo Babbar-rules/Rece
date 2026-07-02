@@ -1,0 +1,20 @@
+{
+  "id": "Q1509400",
+  "name": "Tharid",
+  "description": "traditional Saudi stew consumed during Ramadan",
+  "nationality": [
+    "Arabian Peninsula"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tharid-q1509400/tharid-q1509400-1.jpg",
+    "images/tharid-q1509400/tharid-q1509400-2.jpg",
+    "images/tharid-q1509400/tharid-q1509400-3.jpg",
+    "images/tharid-q1509400/tharid-q1509400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1509400",
+    "themealdb": null
+  }
+}

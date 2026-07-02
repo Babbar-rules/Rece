@@ -1,0 +1,20 @@
+{
+  "id": "Q15696039",
+  "name": "Caragolada",
+  "description": "dish of cooked land snails",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caragolada-q15696039/caragolada-q15696039-1.jpg",
+    "images/caragolada-q15696039/caragolada-q15696039-2.jpg",
+    "images/caragolada-q15696039/caragolada-q15696039-3.jpg",
+    "images/caragolada-q15696039/caragolada-q15696039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15696039",
+    "themealdb": null
+  }
+}

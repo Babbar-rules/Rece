@@ -1,0 +1,22 @@
+{
+  "id": "Q14917347",
+  "name": "jenang kudus",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/jenang-kudus-q14917347/jenang-kudus-q14917347-1.jpg",
+    "images/jenang-kudus-q14917347/jenang-kudus-q14917347-2.jpg",
+    "images/jenang-kudus-q14917347/jenang-kudus-q14917347-3.jpg",
+    "images/jenang-kudus-q14917347/jenang-kudus-q14917347-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14917347",
+    "themealdb": null
+  }
+}

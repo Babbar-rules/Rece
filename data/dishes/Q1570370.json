@@ -1,0 +1,20 @@
+{
+  "id": "Q1570370",
+  "name": "Semifreddo",
+  "description": "Italian semi-frozen dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/semifreddo-q1570370/semifreddo-q1570370-1.jpg",
+    "images/semifreddo-q1570370/semifreddo-q1570370-2.jpg",
+    "images/semifreddo-q1570370/semifreddo-q1570370-3.jpg",
+    "images/semifreddo-q1570370/semifreddo-q1570370-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1570370",
+    "themealdb": null
+  }
+}

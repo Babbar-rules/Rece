@@ -1,0 +1,20 @@
+{
+  "id": "Q15660894",
+  "name": "corn tortilla",
+  "description": "unleavened flatbread made from ground corn (maize)",
+  "nationality": [
+    "Mesoamerica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-tortilla-q15660894/corn-tortilla-q15660894-1.jpg",
+    "images/corn-tortilla-q15660894/corn-tortilla-q15660894-2.jpg",
+    "images/corn-tortilla-q15660894/corn-tortilla-q15660894-3.jpg",
+    "images/corn-tortilla-q15660894/corn-tortilla-q15660894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15660894",
+    "themealdb": null
+  }
+}

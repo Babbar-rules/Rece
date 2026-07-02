@@ -1,0 +1,20 @@
+{
+  "id": "Q15686391",
+  "name": "Pepeçura",
+  "description": "Turkish grape dessert from the Black Sea Region",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pepecura-q15686391/pepecura-q15686391-1.jpg",
+    "images/pepecura-q15686391/pepecura-q15686391-2.jpg",
+    "images/pepecura-q15686391/pepecura-q15686391-3.jpg",
+    "images/pepecura-q15686391/pepecura-q15686391-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15686391",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1509414",
+  "name": "Phanaeng curry",
+  "description": "thick, salty, sweet red Thai curry of chilis, galangal, lemongrass, kaffir lime, coriander roots and seeds, cumin, garlic, shallot, shrimp paste, salt and peanuts",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/phanaeng-curry-q1509414/phanaeng-curry-q1509414-1.jpg",
+    "images/phanaeng-curry-q1509414/phanaeng-curry-q1509414-2.jpg",
+    "images/phanaeng-curry-q1509414/phanaeng-curry-q1509414-3.jpg",
+    "images/phanaeng-curry-q1509414/phanaeng-curry-q1509414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1509414",
+    "themealdb": null
+  }
+}

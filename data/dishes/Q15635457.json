@@ -1,0 +1,20 @@
+{
+  "id": "Q15635457",
+  "name": "Kačamak",
+  "description": "traditional dish in the Balkan countries and Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kacamak-q15635457/kacamak-q15635457-1.jpg",
+    "images/kacamak-q15635457/kacamak-q15635457-2.jpg",
+    "images/kacamak-q15635457/kacamak-q15635457-3.jpg",
+    "images/kacamak-q15635457/kacamak-q15635457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15635457",
+    "themealdb": null
+  }
+}

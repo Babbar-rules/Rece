@@ -1,0 +1,20 @@
+{
+  "id": "Q1544629",
+  "name": "Vatapá",
+  "description": "afro-Brazilian dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vatapa-q1544629/vatapa-q1544629-1.jpg",
+    "images/vatapa-q1544629/vatapa-q1544629-2.jpg",
+    "images/vatapa-q1544629/vatapa-q1544629-3.jpg",
+    "images/vatapa-q1544629/vatapa-q1544629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1544629",
+    "themealdb": null
+  }
+}

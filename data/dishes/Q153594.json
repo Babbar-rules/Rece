@@ -1,0 +1,18 @@
+{
+  "id": "Q153594",
+  "name": "Pellkartoffeln",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pellkartoffeln-q153594/pellkartoffeln-q153594-1.jpg",
+    "images/pellkartoffeln-q153594/pellkartoffeln-q153594-2.jpg",
+    "images/pellkartoffeln-q153594/pellkartoffeln-q153594-3.jpg",
+    "images/pellkartoffeln-q153594/pellkartoffeln-q153594-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153594",
+    "themealdb": null
+  }
+}

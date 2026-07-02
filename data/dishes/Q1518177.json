@@ -1,0 +1,20 @@
+{
+  "id": "Q1518177",
+  "name": "whoopie pie",
+  "description": "American baked product",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/whoopie-pie-q1518177/whoopie-pie-q1518177-1.jpg",
+    "images/whoopie-pie-q1518177/whoopie-pie-q1518177-2.jpg",
+    "images/whoopie-pie-q1518177/whoopie-pie-q1518177-3.jpg",
+    "images/whoopie-pie-q1518177/whoopie-pie-q1518177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1518177",
+    "themealdb": null
+  }
+}

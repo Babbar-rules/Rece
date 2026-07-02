@@ -1,0 +1,18 @@
+{
+  "id": "Q1522595",
+  "name": "Ruchbrot",
+  "description": "Swiss bread variety",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/ruchbrot-q1522595/ruchbrot-q1522595-1.png",
+    "images/ruchbrot-q1522595/ruchbrot-q1522595-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1522595",
+    "themealdb": null
+  }
+}

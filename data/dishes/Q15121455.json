@@ -1,0 +1,18 @@
+{
+  "id": "Q15121455",
+  "name": "garlic soup",
+  "description": "type of soup using garlic as a main ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garlic-soup-q15121455/garlic-soup-q15121455-1.jpeg",
+    "images/garlic-soup-q15121455/garlic-soup-q15121455-2.jpg",
+    "images/garlic-soup-q15121455/garlic-soup-q15121455-3.jpg",
+    "images/garlic-soup-q15121455/garlic-soup-q15121455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15121455",
+    "themealdb": null
+  }
+}

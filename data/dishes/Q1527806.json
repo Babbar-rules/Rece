@@ -1,0 +1,18 @@
+{
+  "id": "Q1527806",
+  "name": "Hoppelpoppel",
+  "description": "drink",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hoppelpoppel-q1527806/hoppelpoppel-q1527806-1.jpg",
+    "images/hoppelpoppel-q1527806/hoppelpoppel-q1527806-2.jpg",
+    "images/hoppelpoppel-q1527806/hoppelpoppel-q1527806-3.jpg",
+    "images/hoppelpoppel-q1527806/hoppelpoppel-q1527806-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1527806",
+    "themealdb": null
+  }
+}

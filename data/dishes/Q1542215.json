@@ -1,0 +1,20 @@
+{
+  "id": "Q1542215",
+  "name": "Pastitsio",
+  "description": "Greek baked pasta dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastitsio-q1542215/pastitsio-q1542215-1.jpg",
+    "images/pastitsio-q1542215/pastitsio-q1542215-2.jpg",
+    "images/pastitsio-q1542215/pastitsio-q1542215-3.jpg",
+    "images/pastitsio-q1542215/pastitsio-q1542215-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1542215",
+    "themealdb": null
+  }
+}

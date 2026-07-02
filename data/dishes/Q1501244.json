@@ -1,0 +1,21 @@
+{
+  "id": "Q1501244",
+  "name": "vegetable soup",
+  "description": "soup with vegetables",
+  "nationality": [],
+  "region_cuisine": [
+    "Russian cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/vegetable-soup-q1501244/vegetable-soup-q1501244-1.jpg",
+    "images/vegetable-soup-q1501244/vegetable-soup-q1501244-2.jpg",
+    "images/vegetable-soup-q1501244/vegetable-soup-q1501244-3.jpg",
+    "images/vegetable-soup-q1501244/vegetable-soup-q1501244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1501244",
+    "themealdb": null
+  }
+}

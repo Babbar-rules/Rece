@@ -1,0 +1,18 @@
+{
+  "id": "Q15751203",
+  "name": "Eisbein",
+  "description": "pork dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eisbein-q15751203/eisbein-q15751203-1.jpg",
+    "images/eisbein-q15751203/eisbein-q15751203-2.jpg",
+    "images/eisbein-q15751203/eisbein-q15751203-3.jpg",
+    "images/eisbein-q15751203/eisbein-q15751203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15751203",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1559781",
+  "name": "Götterspeise",
+  "description": "dessert originated in Germany",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gotterspeise-q1559781/gotterspeise-q1559781-1.jpg",
+    "images/gotterspeise-q1559781/gotterspeise-q1559781-2.jpg",
+    "images/gotterspeise-q1559781/gotterspeise-q1559781-3.jpg",
+    "images/gotterspeise-q1559781/gotterspeise-q1559781-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1559781",
+    "themealdb": null
+  }
+}

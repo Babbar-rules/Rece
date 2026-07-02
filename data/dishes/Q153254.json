@@ -1,0 +1,20 @@
+{
+  "id": "Q153254",
+  "name": "Aachener Printen",
+  "description": "German honey cake originating from Aachen",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aachener-printen-q153254/aachener-printen-q153254-1.jpg",
+    "images/aachener-printen-q153254/aachener-printen-q153254-2.jpg",
+    "images/aachener-printen-q153254/aachener-printen-q153254-3.jpg",
+    "images/aachener-printen-q153254/aachener-printen-q153254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153254",
+    "themealdb": null
+  }
+}

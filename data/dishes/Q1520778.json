@@ -1,0 +1,23 @@
+{
+  "id": "Q1520778",
+  "name": "ketupat",
+  "description": "Malay traditional food",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [
+    "Malay cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ketupat-q1520778/ketupat-q1520778-1.jpg",
+    "images/ketupat-q1520778/ketupat-q1520778-2.jpg",
+    "images/ketupat-q1520778/ketupat-q1520778-3.jpg",
+    "images/ketupat-q1520778/ketupat-q1520778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1520778",
+    "themealdb": null
+  }
+}

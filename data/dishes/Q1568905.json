@@ -1,0 +1,18 @@
+{
+  "id": "Q1568905",
+  "name": "Hahnenkamm",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hahnenkamm-q1568905/hahnenkamm-q1568905-1.jpg",
+    "images/hahnenkamm-q1568905/hahnenkamm-q1568905-2.jpg",
+    "images/hahnenkamm-q1568905/hahnenkamm-q1568905-3.jpg",
+    "images/hahnenkamm-q1568905/hahnenkamm-q1568905-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1568905",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1533235",
+  "name": "gnocchi alla romana",
+  "description": "dish with gnocci",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gnocchi-alla-romana-q1533235/gnocchi-alla-romana-q1533235-1.jpeg",
+    "images/gnocchi-alla-romana-q1533235/gnocchi-alla-romana-q1533235-2.jpeg",
+    "images/gnocchi-alla-romana-q1533235/gnocchi-alla-romana-q1533235-3.jpg",
+    "images/gnocchi-alla-romana-q1533235/gnocchi-alla-romana-q1533235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1533235",
+    "themealdb": null
+  }
+}

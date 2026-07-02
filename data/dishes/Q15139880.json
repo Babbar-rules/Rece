@@ -1,0 +1,18 @@
+{
+  "id": "Q15139880",
+  "name": "chāshū",
+  "description": "Japanese braised pork",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chashu-q15139880/chashu-q15139880-1.jpg",
+    "images/chashu-q15139880/chashu-q15139880-2.jpg",
+    "images/chashu-q15139880/chashu-q15139880-3.jpg",
+    "images/chashu-q15139880/chashu-q15139880-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15139880",
+    "themealdb": null
+  }
+}

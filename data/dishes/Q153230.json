@@ -1,0 +1,20 @@
+{
+  "id": "Q153230",
+  "name": "dibbelabbes",
+  "description": "German hash",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dibbelabbes-q153230/dibbelabbes-q153230-1.jpg",
+    "images/dibbelabbes-q153230/dibbelabbes-q153230-2.jpg",
+    "images/dibbelabbes-q153230/dibbelabbes-q153230-3.jpg",
+    "images/dibbelabbes-q153230/dibbelabbes-q153230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q153230",
+    "themealdb": null
+  }
+}

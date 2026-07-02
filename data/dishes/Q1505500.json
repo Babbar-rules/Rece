@@ -1,0 +1,20 @@
+{
+  "id": "Q1505500",
+  "name": "tavukgöğsü",
+  "description": "Turkish milk pudding",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tavukgogsu-q1505500/tavukgogsu-q1505500-1.jpg",
+    "images/tavukgogsu-q1505500/tavukgogsu-q1505500-2.jpg",
+    "images/tavukgogsu-q1505500/tavukgogsu-q1505500-3.jpg",
+    "images/tavukgogsu-q1505500/tavukgogsu-q1505500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1505500",
+    "themealdb": null
+  }
+}

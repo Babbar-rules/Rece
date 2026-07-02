@@ -1,0 +1,18 @@
+{
+  "id": "Q151259",
+  "name": "Zwetschgenkuchen",
+  "description": "German plum sheet cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zwetschgenkuchen-q151259/zwetschgenkuchen-q151259-1.jpg",
+    "images/zwetschgenkuchen-q151259/zwetschgenkuchen-q151259-2.jpg",
+    "images/zwetschgenkuchen-q151259/zwetschgenkuchen-q151259-3.jpg",
+    "images/zwetschgenkuchen-q151259/zwetschgenkuchen-q151259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q151259",
+    "themealdb": null
+  }
+}

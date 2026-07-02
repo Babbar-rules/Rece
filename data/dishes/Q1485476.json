@@ -1,0 +1,18 @@
+{
+  "id": "Q1485476",
+  "name": "cold dishes",
+  "description": "dish served cold",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cold-dishes-q1485476/cold-dishes-q1485476-1.jpg",
+    "images/cold-dishes-q1485476/cold-dishes-q1485476-2.jpg",
+    "images/cold-dishes-q1485476/cold-dishes-q1485476-3.jpg",
+    "images/cold-dishes-q1485476/cold-dishes-q1485476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1485476",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1510478",
+  "name": "Westphalian ham",
+  "description": "Ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/westphalian-ham-q1510478/westphalian-ham-q1510478-1.jpg",
+    "images/westphalian-ham-q1510478/westphalian-ham-q1510478-2.jpg",
+    "images/westphalian-ham-q1510478/westphalian-ham-q1510478-3.jpg",
+    "images/westphalian-ham-q1510478/westphalian-ham-q1510478-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1510478",
+    "themealdb": null
+  }
+}

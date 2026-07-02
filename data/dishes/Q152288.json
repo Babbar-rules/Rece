@@ -1,0 +1,20 @@
+{
+  "id": "Q152288",
+  "name": "Sisig",
+  "description": "A Filipino dish that consists of pork scraps",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sisig-q152288/sisig-q152288-1.jpg",
+    "images/sisig-q152288/sisig-q152288-2.jpg",
+    "images/sisig-q152288/sisig-q152288-3.jpg",
+    "images/sisig-q152288/sisig-q152288-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152288",
+    "themealdb": null
+  }
+}

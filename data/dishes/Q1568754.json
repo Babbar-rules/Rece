@@ -1,0 +1,20 @@
+{
+  "id": "Q1568754",
+  "name": "Salpicon",
+  "description": "a side dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salpicon-q1568754/salpicon-q1568754-1.jpg",
+    "images/salpicon-q1568754/salpicon-q1568754-2.jpg",
+    "images/salpicon-q1568754/salpicon-q1568754-3.jpg",
+    "images/salpicon-q1568754/salpicon-q1568754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1568754",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1546782",
+  "name": "grilletta",
+  "description": "hamburger variant and 'Griletta' snack bars in East Germany",
+  "nationality": [
+    "German Democratic Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grilletta-q1546782/grilletta-q1546782-1.jpg",
+    "images/grilletta-q1546782/grilletta-q1546782-2.jpg",
+    "images/grilletta-q1546782/grilletta-q1546782-3.jpg",
+    "images/grilletta-q1546782/grilletta-q1546782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1546782",
+    "themealdb": null
+  }
+}

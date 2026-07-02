@@ -1,0 +1,18 @@
+{
+  "id": "Q1580437",
+  "name": "pyttipanna",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pyttipanna-q1580437/pyttipanna-q1580437-1.jpg",
+    "images/pyttipanna-q1580437/pyttipanna-q1580437-2.jpg",
+    "images/pyttipanna-q1580437/pyttipanna-q1580437-3.jpg",
+    "images/pyttipanna-q1580437/pyttipanna-q1580437-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1580437",
+    "themealdb": null
+  }
+}

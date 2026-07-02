@@ -1,0 +1,25 @@
+{
+  "id": "Q152981",
+  "name": "potato pancake",
+  "description": "fried pancakes of grated or ground potato",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Czech cuisine",
+    "Polish cuisine",
+    "German cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/potato-pancake-q152981/potato-pancake-q152981-1.jpg",
+    "images/potato-pancake-q152981/potato-pancake-q152981-2.jpg",
+    "images/potato-pancake-q152981/potato-pancake-q152981-3.jpg",
+    "images/potato-pancake-q152981/potato-pancake-q152981-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152981",
+    "themealdb": null
+  }
+}

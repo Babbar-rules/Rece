@@ -1,0 +1,18 @@
+{
+  "id": "Q1498378",
+  "name": "chopped liver",
+  "description": "Jewish dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chopped-liver-q1498378/chopped-liver-q1498378-1.jpg",
+    "images/chopped-liver-q1498378/chopped-liver-q1498378-2.jpg",
+    "images/chopped-liver-q1498378/chopped-liver-q1498378-3.jpg",
+    "images/chopped-liver-q1498378/chopped-liver-q1498378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1498378",
+    "themealdb": null
+  }
+}

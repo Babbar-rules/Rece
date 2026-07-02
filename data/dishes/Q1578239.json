@@ -1,0 +1,18 @@
+{
+  "id": "Q1578239",
+  "name": "chocolate-coated marshmallow treats",
+  "description": "marshmallow treat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-coated-marshmallow-treats-q1578239/chocolate-coated-marshmallow-treats-q1578239-1.png",
+    "images/chocolate-coated-marshmallow-treats-q1578239/chocolate-coated-marshmallow-treats-q1578239-2.png",
+    "images/chocolate-coated-marshmallow-treats-q1578239/chocolate-coated-marshmallow-treats-q1578239-3.jpg",
+    "images/chocolate-coated-marshmallow-treats-q1578239/chocolate-coated-marshmallow-treats-q1578239-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1578239",
+    "themealdb": null
+  }
+}

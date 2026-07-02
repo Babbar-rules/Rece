@@ -1,0 +1,20 @@
+{
+  "id": "Q1501043",
+  "name": "güllaç",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gullac-q1501043/gullac-q1501043-1.jpg",
+    "images/gullac-q1501043/gullac-q1501043-2.jpg",
+    "images/gullac-q1501043/gullac-q1501043-3.jpg",
+    "images/gullac-q1501043/gullac-q1501043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1501043",
+    "themealdb": null
+  }
+}

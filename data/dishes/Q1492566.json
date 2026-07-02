@@ -1,0 +1,20 @@
+{
+  "id": "Q1492566",
+  "name": "Gallo Pinto",
+  "description": "Nicaraguan and Costa rica dish based on rice and beans",
+  "nationality": [],
+  "region_cuisine": [
+    "Central American cuisine"
+  ],
+  "images": [
+    "images/gallo-pinto-q1492566/gallo-pinto-q1492566-1.jpg",
+    "images/gallo-pinto-q1492566/gallo-pinto-q1492566-2.jpg",
+    "images/gallo-pinto-q1492566/gallo-pinto-q1492566-3.jpg",
+    "images/gallo-pinto-q1492566/gallo-pinto-q1492566-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1492566",
+    "themealdb": null
+  }
+}

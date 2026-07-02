@@ -1,0 +1,18 @@
+{
+  "id": "Q15790217",
+  "name": "Buljol",
+  "description": "Trinidadian and Tobagonian salad",
+  "nationality": [
+    "Trinidad and Tobago"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buljol-q15790217/buljol-q15790217-1.jpg",
+    "images/buljol-q15790217/buljol-q15790217-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15790217",
+    "themealdb": null
+  }
+}

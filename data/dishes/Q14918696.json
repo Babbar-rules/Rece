@@ -1,0 +1,20 @@
+{
+  "id": "Q14918696",
+  "name": "cursory rice",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Hong Kong cuisine"
+  ],
+  "images": [
+    "images/cursory-rice-q14918696/cursory-rice-q14918696-1.jpg",
+    "images/cursory-rice-q14918696/cursory-rice-q14918696-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14918696",
+    "themealdb": null
+  }
+}

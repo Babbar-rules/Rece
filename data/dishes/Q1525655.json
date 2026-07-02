@@ -1,0 +1,18 @@
+{
+  "id": "Q1525655",
+  "name": "Giouvetsi",
+  "description": "baked meat dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/giouvetsi-q1525655/giouvetsi-q1525655-1.jpg",
+    "images/giouvetsi-q1525655/giouvetsi-q1525655-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1525655",
+    "themealdb": null
+  }
+}

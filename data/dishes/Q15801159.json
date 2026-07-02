@@ -1,0 +1,22 @@
+{
+  "id": "Q15801159",
+  "name": "Shkmeruli",
+  "description": "Georgian chicken dish",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/shkmeruli-q15801159/shkmeruli-q15801159-1.jpg",
+    "images/shkmeruli-q15801159/shkmeruli-q15801159-2.jpg",
+    "images/shkmeruli-q15801159/shkmeruli-q15801159-3.jpg",
+    "images/shkmeruli-q15801159/shkmeruli-q15801159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15801159",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q15630073",
+  "name": "Acquacotta",
+  "description": "Italian soup with stale bread as a primary ingredient",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/acquacotta-q15630073/acquacotta-q15630073-1.jpg",
+    "images/acquacotta-q15630073/acquacotta-q15630073-2.jpg",
+    "images/acquacotta-q15630073/acquacotta-q15630073-3.jpg",
+    "images/acquacotta-q15630073/acquacotta-q15630073-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15630073",
+    "themealdb": null
+  }
+}

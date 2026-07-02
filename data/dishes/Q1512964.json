@@ -1,0 +1,80 @@
+{
+  "id": "Q1512964",
+  "name": "latke",
+  "description": "Jewish potato pancake dish",
+  "nationality": [
+    "Ukrainian"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/latke-q1512964/latke-q1512964-1.jpg",
+    "images/latke-q1512964/latke-q1512964-2.jpg",
+    "images/latke-q1512964/latke-q1512964-3.jpg",
+    "images/latke-q1512964/latke-q1512964-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53313",
+    "category": "Vegetarian",
+    "area": "Ukrainian",
+    "instructions": "step 1\r\nHeat the oven to 180C/160C fan/gas 4. Make the latkes by combining all of the ingredients.\r\n\r\nstep 2\r\nHeat the oil in a large non-stick pan. Spoon in the mixture to make six round latkes. Fry for 4-5 mins on each side, then transfer to a baking sheet and bake for 10 mins.\r\n\r\nstep 3\r\nCombine the yogurt and mint in a small bowl. Toss the salad leaves and tomatoes together, then serve the latkes with the mint yogurt and salad.",
+    "ingredients": [
+      {
+        "ingredient": "Rapeseed Oil",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Greek Yogurt",
+        "measure": "4 tablespoons"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "1/2 bag"
+      },
+      {
+        "ingredient": "Rocket",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Cherry Tomatoes",
+        "measure": "130g"
+      },
+      {
+        "ingredient": "Beetroot",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1 beaten"
+      },
+      {
+        "ingredient": "Plain Flour",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "1 clove finely chopped"
+      },
+      {
+        "ingredient": "Caraway Seed",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Ground Cumin",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Zest of 1"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=pRLuLYQnPiM",
+    "thumb": "https://www.themealdb.com/images/media/meals/qwicc91764368097.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1512964",
+    "themealdb": "53313"
+  }
+}

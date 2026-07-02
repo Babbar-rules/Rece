@@ -1,0 +1,22 @@
+{
+  "id": "Q15042119",
+  "name": "stracciatella",
+  "description": "egg-based soup typical of central Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/stracciatella-q15042119/stracciatella-q15042119-1.jpg",
+    "images/stracciatella-q15042119/stracciatella-q15042119-2.jpg",
+    "images/stracciatella-q15042119/stracciatella-q15042119-3.jpg",
+    "images/stracciatella-q15042119/stracciatella-q15042119-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15042119",
+    "themealdb": null
+  }
+}

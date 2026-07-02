@@ -1,0 +1,18 @@
+{
+  "id": "Q15751355",
+  "name": "Schweinshaxe",
+  "description": "roasted pork knuckles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schweinshaxe-q15751355/schweinshaxe-q15751355-1.jpg",
+    "images/schweinshaxe-q15751355/schweinshaxe-q15751355-2.jpg",
+    "images/schweinshaxe-q15751355/schweinshaxe-q15751355-3.jpg",
+    "images/schweinshaxe-q15751355/schweinshaxe-q15751355-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15751355",
+    "themealdb": null
+  }
+}

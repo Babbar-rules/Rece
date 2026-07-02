@@ -1,0 +1,20 @@
+{
+  "id": "Q14943090",
+  "name": "Run down",
+  "description": "Typical Caribbean dish made with coconut milk and seafood",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/run-down-q14943090/run-down-q14943090-1.jpg",
+    "images/run-down-q14943090/run-down-q14943090-2.jpg",
+    "images/run-down-q14943090/run-down-q14943090-3.jpg",
+    "images/run-down-q14943090/run-down-q14943090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14943090",
+    "themealdb": null
+  }
+}

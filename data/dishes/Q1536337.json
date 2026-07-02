@@ -1,0 +1,18 @@
+{
+  "id": "Q1536337",
+  "name": "tenmusu",
+  "description": "Japanese rice ball filled with tempura shrimp",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tenmusu-q1536337/tenmusu-q1536337-1.jpg",
+    "images/tenmusu-q1536337/tenmusu-q1536337-2.jpg",
+    "images/tenmusu-q1536337/tenmusu-q1536337-3.jpg",
+    "images/tenmusu-q1536337/tenmusu-q1536337-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1536337",
+    "themealdb": null
+  }
+}

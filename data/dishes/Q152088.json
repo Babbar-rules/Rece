@@ -1,0 +1,20 @@
+{
+  "id": "Q152088",
+  "name": "fries",
+  "description": "deep-fried potatoes",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fries-q152088/fries-q152088-1.jpg",
+    "images/fries-q152088/fries-q152088-2.jpg",
+    "images/fries-q152088/fries-q152088-3.jpg",
+    "images/fries-q152088/fries-q152088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152088",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q15715760",
+  "name": "blintz",
+  "description": "traditional Jewish filled pancake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blintz-q15715760/blintz-q15715760-1.jpg",
+    "images/blintz-q15715760/blintz-q15715760-2.jpg",
+    "images/blintz-q15715760/blintz-q15715760-3.jpg",
+    "images/blintz-q15715760/blintz-q15715760-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15715760",
+    "themealdb": null
+  }
+}

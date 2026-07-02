@@ -1,0 +1,18 @@
+{
+  "id": "Q15010030",
+  "name": "Poc Chuc",
+  "description": "Mayan dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poc-chuc-q15010030/poc-chuc-q15010030-1.jpg",
+    "images/poc-chuc-q15010030/poc-chuc-q15010030-2.jpg",
+    "images/poc-chuc-q15010030/poc-chuc-q15010030-3.jpg",
+    "images/poc-chuc-q15010030/poc-chuc-q15010030-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15010030",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1554570",
+  "name": "Gundel pancake",
+  "description": "food",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gundel-pancake-q1554570/gundel-pancake-q1554570-1.jpg",
+    "images/gundel-pancake-q1554570/gundel-pancake-q1554570-2.jpg",
+    "images/gundel-pancake-q1554570/gundel-pancake-q1554570-3.jpg",
+    "images/gundel-pancake-q1554570/gundel-pancake-q1554570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1554570",
+    "themealdb": null
+  }
+}

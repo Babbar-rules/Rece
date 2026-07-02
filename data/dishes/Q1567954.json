@@ -1,0 +1,22 @@
+{
+  "id": "Q1567954",
+  "name": "Peach Melba",
+  "description": "type of dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/peach-melba-q1567954/peach-melba-q1567954-1.jpg",
+    "images/peach-melba-q1567954/peach-melba-q1567954-2.jpg",
+    "images/peach-melba-q1567954/peach-melba-q1567954-3.jpg",
+    "images/peach-melba-q1567954/peach-melba-q1567954-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1567954",
+    "themealdb": null
+  }
+}

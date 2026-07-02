@@ -1,0 +1,20 @@
+{
+  "id": "Q15059761",
+  "name": "dak-kkochi",
+  "description": "chicken skewers",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dak-kkochi-q15059761/dak-kkochi-q15059761-1.jpg",
+    "images/dak-kkochi-q15059761/dak-kkochi-q15059761-2.jpg",
+    "images/dak-kkochi-q15059761/dak-kkochi-q15059761-3.jpg",
+    "images/dak-kkochi-q15059761/dak-kkochi-q15059761-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15059761",
+    "themealdb": null
+  }
+}

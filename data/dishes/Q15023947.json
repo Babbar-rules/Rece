@@ -1,0 +1,19 @@
+{
+  "id": "Q15023947",
+  "name": "Acquasale",
+  "description": "southern Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/acquasale-q15023947/acquasale-q15023947-1.jpg",
+    "images/acquasale-q15023947/acquasale-q15023947-2.jpg",
+    "images/acquasale-q15023947/acquasale-q15023947-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15023947",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1551242",
+  "name": "candy cigarette",
+  "description": "candy in the form of a cigarette",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/candy-cigarette-q1551242/candy-cigarette-q1551242-1.jpg",
+    "images/candy-cigarette-q1551242/candy-cigarette-q1551242-2.jpg",
+    "images/candy-cigarette-q1551242/candy-cigarette-q1551242-3.jpg",
+    "images/candy-cigarette-q1551242/candy-cigarette-q1551242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1551242",
+    "themealdb": null
+  }
+}

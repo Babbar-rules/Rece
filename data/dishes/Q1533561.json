@@ -1,0 +1,20 @@
+{
+  "id": "Q1533561",
+  "name": "Gobstopper",
+  "description": "a type of hard candy",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gobstopper-q1533561/gobstopper-q1533561-1.jpg",
+    "images/gobstopper-q1533561/gobstopper-q1533561-2.jpg",
+    "images/gobstopper-q1533561/gobstopper-q1533561-3.jpg",
+    "images/gobstopper-q1533561/gobstopper-q1533561-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1533561",
+    "themealdb": null
+  }
+}

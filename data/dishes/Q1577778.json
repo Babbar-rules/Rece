@@ -1,0 +1,18 @@
+{
+  "id": "Q1577778",
+  "name": "Milch-Schnitte",
+  "description": "trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milch-schnitte-q1577778/milch-schnitte-q1577778-1.jpg",
+    "images/milch-schnitte-q1577778/milch-schnitte-q1577778-2.jpg",
+    "images/milch-schnitte-q1577778/milch-schnitte-q1577778-3.jpg",
+    "images/milch-schnitte-q1577778/milch-schnitte-q1577778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1577778",
+    "themealdb": null
+  }
+}

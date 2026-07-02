@@ -1,0 +1,20 @@
+{
+  "id": "Q154872",
+  "name": "baingan bartha",
+  "description": "South Asian dish, that originated in Punjab, bearing a resemblance to baba ghanoush",
+  "nationality": [],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/baingan-bartha-q154872/baingan-bartha-q154872-1.jpg",
+    "images/baingan-bartha-q154872/baingan-bartha-q154872-2.jpg",
+    "images/baingan-bartha-q154872/baingan-bartha-q154872-3.jpg",
+    "images/baingan-bartha-q154872/baingan-bartha-q154872-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q154872",
+    "themealdb": null
+  }
+}

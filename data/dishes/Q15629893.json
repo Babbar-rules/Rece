@@ -1,0 +1,20 @@
+{
+  "id": "Q15629893",
+  "name": "cornetto",
+  "description": "pastry similar to a croissant",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cornetto-q15629893/cornetto-q15629893-1.jpg",
+    "images/cornetto-q15629893/cornetto-q15629893-2.jpg",
+    "images/cornetto-q15629893/cornetto-q15629893-3.jpg",
+    "images/cornetto-q15629893/cornetto-q15629893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q15629893",
+    "themealdb": null
+  }
+}
