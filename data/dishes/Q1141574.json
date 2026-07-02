@@ -1,0 +1,20 @@
+{
+  "id": "Q1141574",
+  "name": "crostini",
+  "description": "Italian appetizer",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crostini-q1141574/crostini-q1141574-1.jpg",
+    "images/crostini-q1141574/crostini-q1141574-2.png",
+    "images/crostini-q1141574/crostini-q1141574-3.jpg",
+    "images/crostini-q1141574/crostini-q1141574-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1141574",
+    "themealdb": null
+  }
+}

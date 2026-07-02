@@ -1,0 +1,20 @@
+{
+  "id": "Q11417013",
+  "name": "miso curry milk ramen",
+  "description": "dish from Aomori, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-curry-milk-ramen-q11417013/miso-curry-milk-ramen-q11417013-1.jpg",
+    "images/miso-curry-milk-ramen-q11417013/miso-curry-milk-ramen-q11417013-2.jpg",
+    "images/miso-curry-milk-ramen-q11417013/miso-curry-milk-ramen-q11417013-3.jpg",
+    "images/miso-curry-milk-ramen-q11417013/miso-curry-milk-ramen-q11417013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11417013",
+    "themealdb": null
+  }
+}

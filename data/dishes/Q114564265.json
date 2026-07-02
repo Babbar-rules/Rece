@@ -1,0 +1,18 @@
+{
+  "id": "Q114564265",
+  "name": "CBD gummies",
+  "description": "type of gummy candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cbd-gummies-q114564265/cbd-gummies-q114564265-1.jpg",
+    "images/cbd-gummies-q114564265/cbd-gummies-q114564265-2.jpg",
+    "images/cbd-gummies-q114564265/cbd-gummies-q114564265-3.jpg",
+    "images/cbd-gummies-q114564265/cbd-gummies-q114564265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114564265",
+    "themealdb": null
+  }
+}

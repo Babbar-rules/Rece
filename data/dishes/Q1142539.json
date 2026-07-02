@@ -1,0 +1,22 @@
+{
+  "id": "Q1142539",
+  "name": "Crêpe Suzette",
+  "description": "French pancake dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/crepe-suzette-q1142539/crepe-suzette-q1142539-1.jpg",
+    "images/crepe-suzette-q1142539/crepe-suzette-q1142539-2.jpg",
+    "images/crepe-suzette-q1142539/crepe-suzette-q1142539-3.jpg",
+    "images/crepe-suzette-q1142539/crepe-suzette-q1142539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142539",
+    "themealdb": null
+  }
+}

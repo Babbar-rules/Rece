@@ -1,0 +1,18 @@
+{
+  "id": "Q115039569",
+  "name": "Fish Kabiraji",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-kabiraji-q115039569/fish-kabiraji-q115039569-1.jpg",
+    "images/fish-kabiraji-q115039569/fish-kabiraji-q115039569-2.jpg",
+    "images/fish-kabiraji-q115039569/fish-kabiraji-q115039569-3.jpg",
+    "images/fish-kabiraji-q115039569/fish-kabiraji-q115039569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115039569",
+    "themealdb": null
+  }
+}

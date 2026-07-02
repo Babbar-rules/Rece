@@ -1,0 +1,20 @@
+{
+  "id": "Q1145039",
+  "name": "sujebi",
+  "description": "hand-pulled dough soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sujebi-q1145039/sujebi-q1145039-1.jpg",
+    "images/sujebi-q1145039/sujebi-q1145039-2.jpg",
+    "images/sujebi-q1145039/sujebi-q1145039-3.jpg",
+    "images/sujebi-q1145039/sujebi-q1145039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1145039",
+    "themealdb": null
+  }
+}

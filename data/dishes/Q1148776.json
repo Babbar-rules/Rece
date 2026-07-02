@@ -1,0 +1,20 @@
+{
+  "id": "Q1148776",
+  "name": "Duchess potatoes",
+  "description": "dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duchess-potatoes-q1148776/duchess-potatoes-q1148776-1.jpg",
+    "images/duchess-potatoes-q1148776/duchess-potatoes-q1148776-2.jpg",
+    "images/duchess-potatoes-q1148776/duchess-potatoes-q1148776-3.jpg",
+    "images/duchess-potatoes-q1148776/duchess-potatoes-q1148776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1148776",
+    "themealdb": null
+  }
+}

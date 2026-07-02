@@ -1,0 +1,18 @@
+{
+  "id": "Q11433503",
+  "name": "yamatoni",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yamatoni-q11433503/yamatoni-q11433503-1.jpg",
+    "images/yamatoni-q11433503/yamatoni-q11433503-2.jpg",
+    "images/yamatoni-q11433503/yamatoni-q11433503-3.jpg",
+    "images/yamatoni-q11433503/yamatoni-q11433503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11433503",
+    "themealdb": null
+  }
+}

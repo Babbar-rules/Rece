@@ -1,0 +1,18 @@
+{
+  "id": "Q11468260",
+  "name": "Yamakawa",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yamakawa-q11468260/yamakawa-q11468260-1.jpg",
+    "images/yamakawa-q11468260/yamakawa-q11468260-2.jpg",
+    "images/yamakawa-q11468260/yamakawa-q11468260-3.jpg",
+    "images/yamakawa-q11468260/yamakawa-q11468260-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11468260",
+    "themealdb": null
+  }
+}

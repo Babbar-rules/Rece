@@ -1,0 +1,20 @@
+{
+  "id": "Q11489657",
+  "name": "Tokushima ramen",
+  "description": "Japanese ramen dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tokushima-ramen-q11489657/tokushima-ramen-q11489657-1.jpg",
+    "images/tokushima-ramen-q11489657/tokushima-ramen-q11489657-2.jpg",
+    "images/tokushima-ramen-q11489657/tokushima-ramen-q11489657-3.jpg",
+    "images/tokushima-ramen-q11489657/tokushima-ramen-q11489657-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11489657",
+    "themealdb": null
+  }
+}

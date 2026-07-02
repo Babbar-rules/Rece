@@ -1,0 +1,20 @@
+{
+  "id": "Q11413827",
+  "name": "Génoise cake",
+  "description": "French sponge cake named after the city of Genoa",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/genoise-cake-q11413827/genoise-cake-q11413827-1.jpg",
+    "images/genoise-cake-q11413827/genoise-cake-q11413827-2.jpg",
+    "images/genoise-cake-q11413827/genoise-cake-q11413827-3.jpg",
+    "images/genoise-cake-q11413827/genoise-cake-q11413827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11413827",
+    "themealdb": null
+  }
+}

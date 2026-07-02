@@ -1,0 +1,20 @@
+{
+  "id": "Q1150150",
+  "name": "Taralli",
+  "description": "food",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taralli-q1150150/taralli-q1150150-1.jpg",
+    "images/taralli-q1150150/taralli-q1150150-2.jpg",
+    "images/taralli-q1150150/taralli-q1150150-3.jpg",
+    "images/taralli-q1150150/taralli-q1150150-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1150150",
+    "themealdb": null
+  }
+}

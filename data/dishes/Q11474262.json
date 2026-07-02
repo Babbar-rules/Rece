@@ -1,0 +1,19 @@
+{
+  "id": "Q11474262",
+  "name": "iwakunizushi",
+  "description": "variety of pressed sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iwakunizushi-q11474262/iwakunizushi-q11474262-1.jpg",
+    "images/iwakunizushi-q11474262/iwakunizushi-q11474262-2.jpg",
+    "images/iwakunizushi-q11474262/iwakunizushi-q11474262-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11474262",
+    "themealdb": null
+  }
+}

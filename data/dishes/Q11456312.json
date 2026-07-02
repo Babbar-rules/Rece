@@ -1,0 +1,20 @@
+{
+  "id": "Q11456312",
+  "name": "Toyama black ramen",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toyama-black-ramen-q11456312/toyama-black-ramen-q11456312-1.jpg",
+    "images/toyama-black-ramen-q11456312/toyama-black-ramen-q11456312-2.jpg",
+    "images/toyama-black-ramen-q11456312/toyama-black-ramen-q11456312-3.jpg",
+    "images/toyama-black-ramen-q11456312/toyama-black-ramen-q11456312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11456312",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11453069",
+  "name": "Muroran yakitori",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muroran-yakitori-q11453069/muroran-yakitori-q11453069-1.jpg",
+    "images/muroran-yakitori-q11453069/muroran-yakitori-q11453069-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11453069",
+    "themealdb": null
+  }
+}

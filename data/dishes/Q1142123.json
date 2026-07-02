@@ -1,0 +1,20 @@
+{
+  "id": "Q1142123",
+  "name": "gamja-tang",
+  "description": "Korean stew",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gamja-tang-q1142123/gamja-tang-q1142123-1.jpg",
+    "images/gamja-tang-q1142123/gamja-tang-q1142123-2.jpg",
+    "images/gamja-tang-q1142123/gamja-tang-q1142123-3.jpg",
+    "images/gamja-tang-q1142123/gamja-tang-q1142123-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142123",
+    "themealdb": null
+  }
+}

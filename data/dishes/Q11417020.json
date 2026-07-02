@@ -1,0 +1,20 @@
+{
+  "id": "Q11417020",
+  "name": "dengaku",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dengaku-q11417020/dengaku-q11417020-1.jpg",
+    "images/dengaku-q11417020/dengaku-q11417020-2.jpg",
+    "images/dengaku-q11417020/dengaku-q11417020-3.jpg",
+    "images/dengaku-q11417020/dengaku-q11417020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11417020",
+    "themealdb": null
+  }
+}

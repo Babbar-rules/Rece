@@ -1,0 +1,19 @@
+{
+  "id": "Q11416718",
+  "name": "Kure reimen",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kure-reimen-q11416718/kure-reimen-q11416718-1.jpg",
+    "images/kure-reimen-q11416718/kure-reimen-q11416718-2.jpg",
+    "images/kure-reimen-q11416718/kure-reimen-q11416718-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11416718",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1144102",
+  "name": "Yakisoba",
+  "description": "Japanese stir-fry noodles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yakisoba-q1144102/yakisoba-q1144102-1.jpg",
+    "images/yakisoba-q1144102/yakisoba-q1144102-2.jpg",
+    "images/yakisoba-q1144102/yakisoba-q1144102-3.jpg",
+    "images/yakisoba-q1144102/yakisoba-q1144102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1144102",
+    "themealdb": null
+  }
+}

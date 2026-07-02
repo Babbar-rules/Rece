@@ -1,0 +1,20 @@
+{
+  "id": "Q11419150",
+  "name": "Kitakata Ramen Burger",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kitakata-ramen-burger-q11419150/kitakata-ramen-burger-q11419150-1.jpg",
+    "images/kitakata-ramen-burger-q11419150/kitakata-ramen-burger-q11419150-2.jpg",
+    "images/kitakata-ramen-burger-q11419150/kitakata-ramen-burger-q11419150-3.jpg",
+    "images/kitakata-ramen-burger-q11419150/kitakata-ramen-burger-q11419150-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11419150",
+    "themealdb": null
+  }
+}

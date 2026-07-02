@@ -1,0 +1,20 @@
+{
+  "id": "Q11417014",
+  "name": "Miso-katsu",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-katsu-q11417014/miso-katsu-q11417014-1.jpg",
+    "images/miso-katsu-q11417014/miso-katsu-q11417014-2.jpg",
+    "images/miso-katsu-q11417014/miso-katsu-q11417014-3.jpg",
+    "images/miso-katsu-q11417014/miso-katsu-q11417014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11417014",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1142506",
+  "name": "Crépinette",
+  "description": "French sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crepinette-q1142506/crepinette-q1142506-1.jpg",
+    "images/crepinette-q1142506/crepinette-q1142506-2.jpg",
+    "images/crepinette-q1142506/crepinette-q1142506-3.jpg",
+    "images/crepinette-q1142506/crepinette-q1142506-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142506",
+    "themealdb": null
+  }
+}

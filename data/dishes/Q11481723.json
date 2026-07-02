@@ -1,0 +1,18 @@
+{
+  "id": "Q11481723",
+  "name": "Hitachi Fudoki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hitachi-fudoki-q11481723/hitachi-fudoki-q11481723-1.jpg",
+    "images/hitachi-fudoki-q11481723/hitachi-fudoki-q11481723-2.jpg",
+    "images/hitachi-fudoki-q11481723/hitachi-fudoki-q11481723-3.jpg",
+    "images/hitachi-fudoki-q11481723/hitachi-fudoki-q11481723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11481723",
+    "themealdb": null
+  }
+}

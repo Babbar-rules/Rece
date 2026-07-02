@@ -1,0 +1,18 @@
+{
+  "id": "Q11414538",
+  "name": "Yoshino torimeshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yoshino-torimeshi-q11414538/yoshino-torimeshi-q11414538-1.jpg",
+    "images/yoshino-torimeshi-q11414538/yoshino-torimeshi-q11414538-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11414538",
+    "themealdb": null
+  }
+}

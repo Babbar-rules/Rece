@@ -1,0 +1,18 @@
+{
+  "id": "Q11404743",
+  "name": "Jūmangoku Manjū",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jumangoku-manju-q11404743/jumangoku-manju-q11404743-1.jpg",
+    "images/jumangoku-manju-q11404743/jumangoku-manju-q11404743-2.jpg",
+    "images/jumangoku-manju-q11404743/jumangoku-manju-q11404743-3.jpg",
+    "images/jumangoku-manju-q11404743/jumangoku-manju-q11404743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11404743",
+    "themealdb": null
+  }
+}

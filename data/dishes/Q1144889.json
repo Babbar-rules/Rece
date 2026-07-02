@@ -1,0 +1,20 @@
+{
+  "id": "Q1144889",
+  "name": "tsampa",
+  "description": "roasted flour for porridge",
+  "nationality": [
+    "Tibet"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tsampa-q1144889/tsampa-q1144889-1.jpg",
+    "images/tsampa-q1144889/tsampa-q1144889-2.jpg",
+    "images/tsampa-q1144889/tsampa-q1144889-3.jpg",
+    "images/tsampa-q1144889/tsampa-q1144889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1144889",
+    "themealdb": null
+  }
+}

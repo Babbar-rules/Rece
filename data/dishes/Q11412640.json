@@ -1,0 +1,16 @@
+{
+  "id": "Q11412640",
+  "name": "Kibi dango",
+  "description": "Japanese sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kibi-dango-q11412640/kibi-dango-q11412640-1.jpg",
+    "images/kibi-dango-q11412640/kibi-dango-q11412640-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11412640",
+    "themealdb": null
+  }
+}

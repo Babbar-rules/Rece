@@ -1,0 +1,20 @@
+{
+  "id": "Q114888032",
+  "name": "stelline",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stelline-q114888032/stelline-q114888032-1.jpg",
+    "images/stelline-q114888032/stelline-q114888032-2.jpg",
+    "images/stelline-q114888032/stelline-q114888032-3.jpg",
+    "images/stelline-q114888032/stelline-q114888032-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114888032",
+    "themealdb": null
+  }
+}

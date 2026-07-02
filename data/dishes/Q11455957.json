@@ -1,0 +1,20 @@
+{
+  "id": "Q11455957",
+  "name": "Fujinomiya yakisoba",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fujinomiya-yakisoba-q11455957/fujinomiya-yakisoba-q11455957-1.jpg",
+    "images/fujinomiya-yakisoba-q11455957/fujinomiya-yakisoba-q11455957-2.jpg",
+    "images/fujinomiya-yakisoba-q11455957/fujinomiya-yakisoba-q11455957-3.jpg",
+    "images/fujinomiya-yakisoba-q11455957/fujinomiya-yakisoba-q11455957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11455957",
+    "themealdb": null
+  }
+}

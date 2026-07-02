@@ -1,0 +1,19 @@
+{
+  "id": "Q11498438",
+  "name": "agekamaboko",
+  "description": "Japanese fried surimi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/agekamaboko-q11498438/agekamaboko-q11498438-1.jpg",
+    "images/agekamaboko-q11498438/agekamaboko-q11498438-2.jpg",
+    "images/agekamaboko-q11498438/agekamaboko-q11498438-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11498438",
+    "themealdb": null
+  }
+}

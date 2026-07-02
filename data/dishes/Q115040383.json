@@ -1,0 +1,18 @@
+{
+  "id": "Q115040383",
+  "name": "Kolkata chicken biryani",
+  "description": "rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kolkata-chicken-biryani-q115040383/kolkata-chicken-biryani-q115040383-1.jpg",
+    "images/kolkata-chicken-biryani-q115040383/kolkata-chicken-biryani-q115040383-2.jpg",
+    "images/kolkata-chicken-biryani-q115040383/kolkata-chicken-biryani-q115040383-3.jpg",
+    "images/kolkata-chicken-biryani-q115040383/kolkata-chicken-biryani-q115040383-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115040383",
+    "themealdb": null
+  }
+}

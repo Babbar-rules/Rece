@@ -1,0 +1,18 @@
+{
+  "id": "Q114905118",
+  "name": "Bisalto",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bisalto-q114905118/bisalto-q114905118-1.jpg",
+    "images/bisalto-q114905118/bisalto-q114905118-2.jpg",
+    "images/bisalto-q114905118/bisalto-q114905118-3.png",
+    "images/bisalto-q114905118/bisalto-q114905118-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114905118",
+    "themealdb": null
+  }
+}

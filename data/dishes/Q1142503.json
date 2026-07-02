@@ -1,0 +1,20 @@
+{
+  "id": "Q1142503",
+  "name": "shiokara",
+  "description": "Japanese snack made of salty seafood",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shiokara-q1142503/shiokara-q1142503-1.jpg",
+    "images/shiokara-q1142503/shiokara-q1142503-2.jpg",
+    "images/shiokara-q1142503/shiokara-q1142503-3.jpg",
+    "images/shiokara-q1142503/shiokara-q1142503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142503",
+    "themealdb": null
+  }
+}

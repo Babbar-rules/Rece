@@ -1,0 +1,18 @@
+{
+  "id": "Q114924",
+  "name": "T-bone steak",
+  "description": "beefsteak cut from the short loin, including a T-shaped bone with meat on each side",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/t-bone-steak-q114924/t-bone-steak-q114924-1.jpg",
+    "images/t-bone-steak-q114924/t-bone-steak-q114924-2.jpg",
+    "images/t-bone-steak-q114924/t-bone-steak-q114924-3.jpg",
+    "images/t-bone-steak-q114924/t-bone-steak-q114924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114924",
+    "themealdb": null
+  }
+}

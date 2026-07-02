@@ -1,0 +1,18 @@
+{
+  "id": "Q11465459",
+  "name": "Onomichi ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/onomichi-ramen-q11465459/onomichi-ramen-q11465459-1.jpg",
+    "images/onomichi-ramen-q11465459/onomichi-ramen-q11465459-2.jpg",
+    "images/onomichi-ramen-q11465459/onomichi-ramen-q11465459-3.jpg",
+    "images/onomichi-ramen-q11465459/onomichi-ramen-q11465459-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11465459",
+    "themealdb": null
+  }
+}

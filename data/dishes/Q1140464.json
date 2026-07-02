@@ -1,0 +1,20 @@
+{
+  "id": "Q1140464",
+  "name": "red bean paste",
+  "description": "paste made of red beans",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/red-bean-paste-q1140464/red-bean-paste-q1140464-1.jpg",
+    "images/red-bean-paste-q1140464/red-bean-paste-q1140464-2.jpg",
+    "images/red-bean-paste-q1140464/red-bean-paste-q1140464-3.jpg",
+    "images/red-bean-paste-q1140464/red-bean-paste-q1140464-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1140464",
+    "themealdb": null
+  }
+}

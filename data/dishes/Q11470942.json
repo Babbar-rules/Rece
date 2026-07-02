@@ -1,0 +1,20 @@
+{
+  "id": "Q11470942",
+  "name": "sannzoku-yaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sannzoku-yaki-q11470942/sannzoku-yaki-q11470942-1.jpg",
+    "images/sannzoku-yaki-q11470942/sannzoku-yaki-q11470942-2.jpg",
+    "images/sannzoku-yaki-q11470942/sannzoku-yaki-q11470942-3.jpg",
+    "images/sannzoku-yaki-q11470942/sannzoku-yaki-q11470942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11470942",
+    "themealdb": null
+  }
+}

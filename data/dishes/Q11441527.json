@@ -1,0 +1,18 @@
+{
+  "id": "Q11441527",
+  "name": "Osakayaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/osakayaki-q11441527/osakayaki-q11441527-1.jpg",
+    "images/osakayaki-q11441527/osakayaki-q11441527-2.jpg",
+    "images/osakayaki-q11441527/osakayaki-q11441527-3.jpg",
+    "images/osakayaki-q11441527/osakayaki-q11441527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11441527",
+    "themealdb": null
+  }
+}

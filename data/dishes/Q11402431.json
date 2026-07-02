@@ -1,0 +1,18 @@
+{
+  "id": "Q11402431",
+  "name": "ramen in Hokkaido",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ramen-in-hokkaido-q11402431/ramen-in-hokkaido-q11402431-1.jpg",
+    "images/ramen-in-hokkaido-q11402431/ramen-in-hokkaido-q11402431-2.jpg",
+    "images/ramen-in-hokkaido-q11402431/ramen-in-hokkaido-q11402431-3.jpg",
+    "images/ramen-in-hokkaido-q11402431/ramen-in-hokkaido-q11402431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11402431",
+    "themealdb": null
+  }
+}

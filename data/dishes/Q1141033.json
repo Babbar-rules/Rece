@@ -1,0 +1,22 @@
+{
+  "id": "Q1141033",
+  "name": "jajangmyeon",
+  "description": "Chinese-style Korean noodle dish",
+  "nationality": [
+    "Korean Empire"
+  ],
+  "region_cuisine": [
+    "Korean Chinese cuisine"
+  ],
+  "images": [
+    "images/jajangmyeon-q1141033/jajangmyeon-q1141033-1.jpg",
+    "images/jajangmyeon-q1141033/jajangmyeon-q1141033-2.jpg",
+    "images/jajangmyeon-q1141033/jajangmyeon-q1141033-3.jpg",
+    "images/jajangmyeon-q1141033/jajangmyeon-q1141033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1141033",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1142029",
+  "name": "crumpet",
+  "description": "Small unsweetened griddle bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/crumpet-q1142029/crumpet-q1142029-1.jpg",
+    "images/crumpet-q1142029/crumpet-q1142029-2.jpg",
+    "images/crumpet-q1142029/crumpet-q1142029-3.jpg",
+    "images/crumpet-q1142029/crumpet-q1142029-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142029",
+    "themealdb": null
+  }
+}

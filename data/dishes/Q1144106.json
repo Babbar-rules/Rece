@@ -1,0 +1,20 @@
+{
+  "id": "Q1144106",
+  "name": "yeot",
+  "description": "Korean sticky sweets",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yeot-q1144106/yeot-q1144106-1.jpg",
+    "images/yeot-q1144106/yeot-q1144106-2.jpg",
+    "images/yeot-q1144106/yeot-q1144106-3.jpg",
+    "images/yeot-q1144106/yeot-q1144106-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1144106",
+    "themealdb": null
+  }
+}

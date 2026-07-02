@@ -1,0 +1,18 @@
+{
+  "id": "Q114422469",
+  "name": "sarı burma",
+  "description": "rolled baklava",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sar-burma-q114422469/sar-burma-q114422469-1.jpg",
+    "images/sar-burma-q114422469/sar-burma-q114422469-2.jpg",
+    "images/sar-burma-q114422469/sar-burma-q114422469-3.jpg",
+    "images/sar-burma-q114422469/sar-burma-q114422469-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114422469",
+    "themealdb": null
+  }
+}

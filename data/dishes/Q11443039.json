@@ -1,0 +1,20 @@
+{
+  "id": "Q11443039",
+  "name": "Tenri ramen",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tenri-ramen-q11443039/tenri-ramen-q11443039-1.jpg",
+    "images/tenri-ramen-q11443039/tenri-ramen-q11443039-2.jpg",
+    "images/tenri-ramen-q11443039/tenri-ramen-q11443039-3.jpg",
+    "images/tenri-ramen-q11443039/tenri-ramen-q11443039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11443039",
+    "themealdb": null
+  }
+}

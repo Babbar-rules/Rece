@@ -1,0 +1,18 @@
+{
+  "id": "Q11497126",
+  "name": "tebasaki karaage",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tebasaki-karaage-q11497126/tebasaki-karaage-q11497126-1.jpg",
+    "images/tebasaki-karaage-q11497126/tebasaki-karaage-q11497126-2.jpg",
+    "images/tebasaki-karaage-q11497126/tebasaki-karaage-q11497126-3.jpg",
+    "images/tebasaki-karaage-q11497126/tebasaki-karaage-q11497126-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11497126",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11461968",
+  "name": "Koeda",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koeda-q11461968/koeda-q11461968-1.jpg",
+    "images/koeda-q11461968/koeda-q11461968-2.jpg",
+    "images/koeda-q11461968/koeda-q11461968-3.jpg",
+    "images/koeda-q11461968/koeda-q11461968-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11461968",
+    "themealdb": null
+  }
+}

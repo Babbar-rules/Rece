@@ -1,0 +1,18 @@
+{
+  "id": "Q115011594",
+  "name": "ilish dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ilish-dish-q115011594/ilish-dish-q115011594-1.jpg",
+    "images/ilish-dish-q115011594/ilish-dish-q115011594-2.jpg",
+    "images/ilish-dish-q115011594/ilish-dish-q115011594-3.jpg",
+    "images/ilish-dish-q115011594/ilish-dish-q115011594-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115011594",
+    "themealdb": null
+  }
+}

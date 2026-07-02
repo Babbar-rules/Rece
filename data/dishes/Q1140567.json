@@ -1,0 +1,20 @@
+{
+  "id": "Q1140567",
+  "name": "pineapple bun",
+  "description": "sweet bun, popular in Hong Kong, named after its characteristic topping, similar to the surface of a pineapple fruit; does not contain any pineapples",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-bun-q1140567/pineapple-bun-q1140567-1.jpg",
+    "images/pineapple-bun-q1140567/pineapple-bun-q1140567-2.jpg",
+    "images/pineapple-bun-q1140567/pineapple-bun-q1140567-3.jpg",
+    "images/pineapple-bun-q1140567/pineapple-bun-q1140567-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1140567",
+    "themealdb": null
+  }
+}

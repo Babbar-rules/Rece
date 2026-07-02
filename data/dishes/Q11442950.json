@@ -1,0 +1,18 @@
+{
+  "id": "Q11442950",
+  "name": "tentamadon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tentamadon-q11442950/tentamadon-q11442950-1.jpg",
+    "images/tentamadon-q11442950/tentamadon-q11442950-2.jpg",
+    "images/tentamadon-q11442950/tentamadon-q11442950-3.jpg",
+    "images/tentamadon-q11442950/tentamadon-q11442950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11442950",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11454169",
+  "name": "Miyazaki ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miyazaki-ramen-q11454169/miyazaki-ramen-q11454169-1.jpg",
+    "images/miyazaki-ramen-q11454169/miyazaki-ramen-q11454169-2.jpg",
+    "images/miyazaki-ramen-q11454169/miyazaki-ramen-q11454169-3.jpg",
+    "images/miyazaki-ramen-q11454169/miyazaki-ramen-q11454169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11454169",
+    "themealdb": null
+  }
+}

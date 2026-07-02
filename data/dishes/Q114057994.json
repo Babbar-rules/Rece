@@ -1,0 +1,20 @@
+{
+  "id": "Q114057994",
+  "name": "Durus kura",
+  "description": "Traditional fried chicken curry",
+  "nationality": [
+    "Bangladesh"
+  ],
+  "region_cuisine": [
+    "Bangladeshi cuisine"
+  ],
+  "images": [
+    "images/durus-kura-q114057994/durus-kura-q114057994-1.jpg",
+    "images/durus-kura-q114057994/durus-kura-q114057994-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114057994",
+    "themealdb": null
+  }
+}

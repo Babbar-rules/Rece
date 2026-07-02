@@ -1,0 +1,16 @@
+{
+  "id": "Q11443332",
+  "name": "Temmado",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/temmado-q11443332/temmado-q11443332-1.jpg",
+    "images/temmado-q11443332/temmado-q11443332-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11443332",
+    "themealdb": null
+  }
+}

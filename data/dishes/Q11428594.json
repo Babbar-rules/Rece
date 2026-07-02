@@ -1,0 +1,20 @@
+{
+  "id": "Q11428594",
+  "name": "shio ramen",
+  "description": "Japanese noodle soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shio-ramen-q11428594/shio-ramen-q11428594-1.jpg",
+    "images/shio-ramen-q11428594/shio-ramen-q11428594-2.jpg",
+    "images/shio-ramen-q11428594/shio-ramen-q11428594-3.png",
+    "images/shio-ramen-q11428594/shio-ramen-q11428594-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11428594",
+    "themealdb": null
+  }
+}

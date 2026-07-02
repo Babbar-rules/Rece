@@ -1,0 +1,18 @@
+{
+  "id": "Q11484441",
+  "name": "Hiroshima ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hiroshima-ramen-q11484441/hiroshima-ramen-q11484441-1.jpg",
+    "images/hiroshima-ramen-q11484441/hiroshima-ramen-q11484441-2.jpg",
+    "images/hiroshima-ramen-q11484441/hiroshima-ramen-q11484441-3.jpg",
+    "images/hiroshima-ramen-q11484441/hiroshima-ramen-q11484441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11484441",
+    "themealdb": null
+  }
+}

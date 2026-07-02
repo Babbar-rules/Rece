@@ -1,0 +1,18 @@
+{
+  "id": "Q11447460",
+  "name": "Himeji ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/himeji-ramen-q11447460/himeji-ramen-q11447460-1.jpg",
+    "images/himeji-ramen-q11447460/himeji-ramen-q11447460-2.jpg",
+    "images/himeji-ramen-q11447460/himeji-ramen-q11447460-3.jpg",
+    "images/himeji-ramen-q11447460/himeji-ramen-q11447460-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11447460",
+    "themealdb": null
+  }
+}

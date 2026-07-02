@@ -1,0 +1,20 @@
+{
+  "id": "Q11445430",
+  "name": "Nara chameshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nara-chameshi-q11445430/nara-chameshi-q11445430-1.jpg",
+    "images/nara-chameshi-q11445430/nara-chameshi-q11445430-2.jpg",
+    "images/nara-chameshi-q11445430/nara-chameshi-q11445430-3.jpg",
+    "images/nara-chameshi-q11445430/nara-chameshi-q11445430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11445430",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q1140186",
+  "name": "Danish",
+  "description": "multilayered, laminated sweet pastry",
+  "nationality": [
+    "Denmark",
+    "Austria"
+  ],
+  "region_cuisine": [
+    "Danish cuisine"
+  ],
+  "images": [
+    "images/danish-q1140186/danish-q1140186-1.jpg",
+    "images/danish-q1140186/danish-q1140186-2.jpg",
+    "images/danish-q1140186/danish-q1140186-3.jpg",
+    "images/danish-q1140186/danish-q1140186-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1140186",
+    "themealdb": null
+  }
+}

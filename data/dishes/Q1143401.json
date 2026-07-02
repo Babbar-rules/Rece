@@ -1,0 +1,20 @@
+{
+  "id": "Q1143401",
+  "name": "Cup Noodles",
+  "description": "instant ramen brand by Nissin",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cup-noodles-q1143401/cup-noodles-q1143401-1.jpg",
+    "images/cup-noodles-q1143401/cup-noodles-q1143401-2.jpg",
+    "images/cup-noodles-q1143401/cup-noodles-q1143401-3.jpg",
+    "images/cup-noodles-q1143401/cup-noodles-q1143401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1143401",
+    "themealdb": null
+  }
+}

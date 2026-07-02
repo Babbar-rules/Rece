@@ -1,0 +1,20 @@
+{
+  "id": "Q1142939",
+  "name": "cuberdon",
+  "description": "cone-shaped Belgian candy",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cuberdon-q1142939/cuberdon-q1142939-1.jpg",
+    "images/cuberdon-q1142939/cuberdon-q1142939-2.jpg",
+    "images/cuberdon-q1142939/cuberdon-q1142939-3.jpg",
+    "images/cuberdon-q1142939/cuberdon-q1142939-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142939",
+    "themealdb": null
+  }
+}

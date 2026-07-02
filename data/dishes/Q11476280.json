@@ -1,0 +1,20 @@
+{
+  "id": "Q11476280",
+  "name": "shimazushi",
+  "description": "style of sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shimazushi-q11476280/shimazushi-q11476280-1.jpg",
+    "images/shimazushi-q11476280/shimazushi-q11476280-2.jpg",
+    "images/shimazushi-q11476280/shimazushi-q11476280-3.jpg",
+    "images/shimazushi-q11476280/shimazushi-q11476280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11476280",
+    "themealdb": null
+  }
+}

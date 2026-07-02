@@ -1,0 +1,17 @@
+{
+  "id": "Q11443995",
+  "name": "taipien",
+  "description": "Chinese-Japanese noodle soup from Kumamoto, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/taipien-q11443995/taipien-q11443995-1.jpg",
+    "images/taipien-q11443995/taipien-q11443995-2.jpg",
+    "images/taipien-q11443995/taipien-q11443995-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11443995",
+    "themealdb": null
+  }
+}

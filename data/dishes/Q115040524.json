@@ -1,0 +1,18 @@
+{
+  "id": "Q115040524",
+  "name": "Kolkata mutton biryani",
+  "description": "rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kolkata-mutton-biryani-q115040524/kolkata-mutton-biryani-q115040524-1.jpg",
+    "images/kolkata-mutton-biryani-q115040524/kolkata-mutton-biryani-q115040524-2.jpg",
+    "images/kolkata-mutton-biryani-q115040524/kolkata-mutton-biryani-q115040524-3.jpg",
+    "images/kolkata-mutton-biryani-q115040524/kolkata-mutton-biryani-q115040524-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q115040524",
+    "themealdb": null
+  }
+}

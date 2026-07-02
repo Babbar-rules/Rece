@@ -1,0 +1,26 @@
+{
+  "id": "Q1142836",
+  "name": "khash",
+  "description": "type of food",
+  "nationality": [
+    "Middle East"
+  ],
+  "region_cuisine": [
+    "Azerbaijani cuisine",
+    "Ossetian cuisine",
+    "Iranian cuisine",
+    "Armenian cuisine",
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/khash-q1142836/khash-q1142836-1.jpg",
+    "images/khash-q1142836/khash-q1142836-2.jpg",
+    "images/khash-q1142836/khash-q1142836-3.jpg",
+    "images/khash-q1142836/khash-q1142836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1142836",
+    "themealdb": null
+  }
+}

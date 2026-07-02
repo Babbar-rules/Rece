@@ -1,0 +1,20 @@
+{
+  "id": "Q11457280",
+  "name": "Furano Omu-Curry",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/furano-omu-curry-q11457280/furano-omu-curry-q11457280-1.jpg",
+    "images/furano-omu-curry-q11457280/furano-omu-curry-q11457280-2.jpg",
+    "images/furano-omu-curry-q11457280/furano-omu-curry-q11457280-3.jpg",
+    "images/furano-omu-curry-q11457280/furano-omu-curry-q11457280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11457280",
+    "themealdb": null
+  }
+}

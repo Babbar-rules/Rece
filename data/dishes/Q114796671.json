@@ -1,0 +1,18 @@
+{
+  "id": "Q114796671",
+  "name": "walnut tart",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/walnut-tart-q114796671/walnut-tart-q114796671-1.jpg",
+    "images/walnut-tart-q114796671/walnut-tart-q114796671-2.jpg",
+    "images/walnut-tart-q114796671/walnut-tart-q114796671-3.jpg",
+    "images/walnut-tart-q114796671/walnut-tart-q114796671-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114796671",
+    "themealdb": null
+  }
+}

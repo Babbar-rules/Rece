@@ -1,0 +1,20 @@
+{
+  "id": "Q114352250",
+  "name": "Chhilka Roti",
+  "description": "Indian traditional bread",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chhilka-roti-q114352250/chhilka-roti-q114352250-1.jpg",
+    "images/chhilka-roti-q114352250/chhilka-roti-q114352250-2.jpg",
+    "images/chhilka-roti-q114352250/chhilka-roti-q114352250-3.jpg",
+    "images/chhilka-roti-q114352250/chhilka-roti-q114352250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114352250",
+    "themealdb": null
+  }
+}

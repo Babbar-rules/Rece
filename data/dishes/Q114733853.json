@@ -1,0 +1,17 @@
+{
+  "id": "Q114733853",
+  "name": "Sakeru Gummy",
+  "description": "product line of candies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sakeru-gummy-q114733853/sakeru-gummy-q114733853-1.jpg",
+    "images/sakeru-gummy-q114733853/sakeru-gummy-q114733853-2.jpg",
+    "images/sakeru-gummy-q114733853/sakeru-gummy-q114733853-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114733853",
+    "themealdb": null
+  }
+}

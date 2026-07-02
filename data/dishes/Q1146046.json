@@ -1,0 +1,22 @@
+{
+  "id": "Q1146046",
+  "name": "Dongpo pork",
+  "description": "Hangzhou dish made by pan-frying and then red cooking pork belly",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/dongpo-pork-q1146046/dongpo-pork-q1146046-1.jpg",
+    "images/dongpo-pork-q1146046/dongpo-pork-q1146046-2.jpg",
+    "images/dongpo-pork-q1146046/dongpo-pork-q1146046-3.jpg",
+    "images/dongpo-pork-q1146046/dongpo-pork-q1146046-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1146046",
+    "themealdb": null
+  }
+}

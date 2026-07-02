@@ -1,0 +1,20 @@
+{
+  "id": "Q11408972",
+  "name": "Hakata Torimon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hakata-torimon-q11408972/hakata-torimon-q11408972-1.jpg",
+    "images/hakata-torimon-q11408972/hakata-torimon-q11408972-2.jpg",
+    "images/hakata-torimon-q11408972/hakata-torimon-q11408972-3.jpg",
+    "images/hakata-torimon-q11408972/hakata-torimon-q11408972-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11408972",
+    "themealdb": null
+  }
+}

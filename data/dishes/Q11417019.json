@@ -1,0 +1,18 @@
+{
+  "id": "Q11417019",
+  "name": "miso nikomi udon",
+  "description": "Japanese noodle dish in which udon noodles are stewed in a miso soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-nikomi-udon-q11417019/miso-nikomi-udon-q11417019-1.jpg",
+    "images/miso-nikomi-udon-q11417019/miso-nikomi-udon-q11417019-2.jpg",
+    "images/miso-nikomi-udon-q11417019/miso-nikomi-udon-q11417019-3.jpg",
+    "images/miso-nikomi-udon-q11417019/miso-nikomi-udon-q11417019-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11417019",
+    "themealdb": null
+  }
+}

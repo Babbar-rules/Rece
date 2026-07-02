@@ -1,0 +1,19 @@
+{
+  "id": "Q11396701",
+  "name": "Beppu reimen",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beppu-reimen-q11396701/beppu-reimen-q11396701-1.jpg",
+    "images/beppu-reimen-q11396701/beppu-reimen-q11396701-2.jpg",
+    "images/beppu-reimen-q11396701/beppu-reimen-q11396701-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11396701",
+    "themealdb": null
+  }
+}

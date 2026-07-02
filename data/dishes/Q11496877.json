@@ -1,0 +1,20 @@
+{
+  "id": "Q11496877",
+  "name": "tekone-zushi",
+  "description": "style of sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tekone-zushi-q11496877/tekone-zushi-q11496877-1.jpg",
+    "images/tekone-zushi-q11496877/tekone-zushi-q11496877-2.jpg",
+    "images/tekone-zushi-q11496877/tekone-zushi-q11496877-3.jpg",
+    "images/tekone-zushi-q11496877/tekone-zushi-q11496877-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11496877",
+    "themealdb": null
+  }
+}

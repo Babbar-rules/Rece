@@ -1,0 +1,22 @@
+{
+  "id": "Q114290659",
+  "name": "chicken yassa",
+  "description": "",
+  "nationality": [
+    "Senegal"
+  ],
+  "region_cuisine": [
+    "African cuisine"
+  ],
+  "images": [
+    "images/chicken-yassa-q114290659/chicken-yassa-q114290659-1.jpg",
+    "images/chicken-yassa-q114290659/chicken-yassa-q114290659-2.jpg",
+    "images/chicken-yassa-q114290659/chicken-yassa-q114290659-3.jpg",
+    "images/chicken-yassa-q114290659/chicken-yassa-q114290659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114290659",
+    "themealdb": null
+  }
+}

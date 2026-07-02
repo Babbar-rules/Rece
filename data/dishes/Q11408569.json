@@ -1,0 +1,20 @@
+{
+  "id": "Q11408569",
+  "name": "Nambu sembei",
+  "description": "Japanese rice cracker",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nambu-sembei-q11408569/nambu-sembei-q11408569-1.jpg",
+    "images/nambu-sembei-q11408569/nambu-sembei-q11408569-2.jpg",
+    "images/nambu-sembei-q11408569/nambu-sembei-q11408569-3.jpg",
+    "images/nambu-sembei-q11408569/nambu-sembei-q11408569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11408569",
+    "themealdb": null
+  }
+}

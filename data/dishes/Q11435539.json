@@ -1,0 +1,18 @@
+{
+  "id": "Q11435539",
+  "name": "Ōte Manjū",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ote-manju-q11435539/ote-manju-q11435539-1.jpg",
+    "images/ote-manju-q11435539/ote-manju-q11435539-2.jpg",
+    "images/ote-manju-q11435539/ote-manju-q11435539-3.jpg",
+    "images/ote-manju-q11435539/ote-manju-q11435539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11435539",
+    "themealdb": null
+  }
+}

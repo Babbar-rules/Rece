@@ -1,0 +1,20 @@
+{
+  "id": "Q11450321",
+  "name": "Abekawamochi",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/abekawamochi-q11450321/abekawamochi-q11450321-1.jpg",
+    "images/abekawamochi-q11450321/abekawamochi-q11450321-2.jpg",
+    "images/abekawamochi-q11450321/abekawamochi-q11450321-3.jpg",
+    "images/abekawamochi-q11450321/abekawamochi-q11450321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11450321",
+    "themealdb": null
+  }
+}

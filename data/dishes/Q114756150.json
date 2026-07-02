@@ -1,0 +1,20 @@
+{
+  "id": "Q114756150",
+  "name": "Silesian roulade",
+  "description": "food from Silesian cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Silesian cuisine"
+  ],
+  "images": [
+    "images/silesian-roulade-q114756150/silesian-roulade-q114756150-1.jpg",
+    "images/silesian-roulade-q114756150/silesian-roulade-q114756150-2.jpg",
+    "images/silesian-roulade-q114756150/silesian-roulade-q114756150-3.jpg",
+    "images/silesian-roulade-q114756150/silesian-roulade-q114756150-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114756150",
+    "themealdb": null
+  }
+}

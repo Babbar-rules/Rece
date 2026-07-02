@@ -1,0 +1,20 @@
+{
+  "id": "Q11458898",
+  "name": "Ogura toast",
+  "description": "Japanese breakfast dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ogura-toast-q11458898/ogura-toast-q11458898-1.jpg",
+    "images/ogura-toast-q11458898/ogura-toast-q11458898-2.jpg",
+    "images/ogura-toast-q11458898/ogura-toast-q11458898-3.jpg",
+    "images/ogura-toast-q11458898/ogura-toast-q11458898-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11458898",
+    "themealdb": null
+  }
+}

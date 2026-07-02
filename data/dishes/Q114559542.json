@@ -1,0 +1,18 @@
+{
+  "id": "Q114559542",
+  "name": "zhēngjiao",
+  "description": "Chinese steamed dumpling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zhengjiao-q114559542/zhengjiao-q114559542-1.jpg",
+    "images/zhengjiao-q114559542/zhengjiao-q114559542-2.jpg",
+    "images/zhengjiao-q114559542/zhengjiao-q114559542-3.jpg",
+    "images/zhengjiao-q114559542/zhengjiao-q114559542-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q114559542",
+    "themealdb": null
+  }
+}
