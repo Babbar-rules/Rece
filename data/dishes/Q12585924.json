@@ -1,0 +1,19 @@
+{
+  "id": "Q12585924",
+  "name": "gukhwa-ppang",
+  "description": "Korean snack",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gukhwa-ppang-q12585924/gukhwa-ppang-q12585924-1.jpg",
+    "images/gukhwa-ppang-q12585924/gukhwa-ppang-q12585924-2.jpg",
+    "images/gukhwa-ppang-q12585924/gukhwa-ppang-q12585924-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12585924",
+    "themealdb": null
+  }
+}

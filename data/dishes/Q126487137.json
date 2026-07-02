@@ -1,0 +1,18 @@
+{
+  "id": "Q126487137",
+  "name": "Hot Rods",
+  "description": "fictional candy in Papa Louie's restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-rods-q126487137/hot-rods-q126487137-1.jpg",
+    "images/hot-rods-q126487137/hot-rods-q126487137-2.jpg",
+    "images/hot-rods-q126487137/hot-rods-q126487137-3.jpg",
+    "images/hot-rods-q126487137/hot-rods-q126487137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126487137",
+    "themealdb": null
+  }
+}

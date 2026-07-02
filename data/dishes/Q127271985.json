@@ -1,0 +1,18 @@
+{
+  "id": "Q127271985",
+  "name": "Dr. Bones",
+  "description": "fictional bone shaped candy served at Papa's Paleteria",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dr-bones-q127271985/dr-bones-q127271985-1.jpg",
+    "images/dr-bones-q127271985/dr-bones-q127271985-2.jpg",
+    "images/dr-bones-q127271985/dr-bones-q127271985-3.jpg",
+    "images/dr-bones-q127271985/dr-bones-q127271985-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127271985",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q125797909",
+  "name": "Dumb bread",
+  "description": "bread from United States Virgin Islands",
+  "nationality": [
+    "United States Virgin Islands",
+    "British Virgin Islands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dumb-bread-q125797909/dumb-bread-q125797909-1.jpg",
+    "images/dumb-bread-q125797909/dumb-bread-q125797909-2.jpg",
+    "images/dumb-bread-q125797909/dumb-bread-q125797909-3.jpg",
+    "images/dumb-bread-q125797909/dumb-bread-q125797909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125797909",
+    "themealdb": null
+  }
+}

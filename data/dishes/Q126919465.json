@@ -1,0 +1,18 @@
+{
+  "id": "Q126919465",
+  "name": "bacon-wrapped enoki",
+  "description": "dish made of enoki mushrooms wrappend in bacon",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-wrapped-enoki-q126919465/bacon-wrapped-enoki-q126919465-1.jpg",
+    "images/bacon-wrapped-enoki-q126919465/bacon-wrapped-enoki-q126919465-2.jpg",
+    "images/bacon-wrapped-enoki-q126919465/bacon-wrapped-enoki-q126919465-3.jpg",
+    "images/bacon-wrapped-enoki-q126919465/bacon-wrapped-enoki-q126919465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126919465",
+    "themealdb": null
+  }
+}

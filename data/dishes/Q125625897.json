@@ -1,0 +1,18 @@
+{
+  "id": "Q125625897",
+  "name": "push-up ice cream",
+  "description": "type of ice cream that can be pushed up using a cylinder mechanism",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/push-up-ice-cream-q125625897/push-up-ice-cream-q125625897-1.jpg",
+    "images/push-up-ice-cream-q125625897/push-up-ice-cream-q125625897-2.jpg",
+    "images/push-up-ice-cream-q125625897/push-up-ice-cream-q125625897-3.jpg",
+    "images/push-up-ice-cream-q125625897/push-up-ice-cream-q125625897-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125625897",
+    "themealdb": null
+  }
+}

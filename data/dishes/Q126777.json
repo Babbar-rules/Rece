@@ -1,0 +1,20 @@
+{
+  "id": "Q126777",
+  "name": "pasty",
+  "description": "baked pastry filled with meat or vegetables",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasty-q126777/pasty-q126777-1.jpeg",
+    "images/pasty-q126777/pasty-q126777-2.jpeg",
+    "images/pasty-q126777/pasty-q126777-3.jpeg",
+    "images/pasty-q126777/pasty-q126777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126777",
+    "themealdb": null
+  }
+}

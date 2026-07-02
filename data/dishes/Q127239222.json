@@ -1,0 +1,16 @@
+{
+  "id": "Q127239222",
+  "name": "Cosmo Cake",
+  "description": "fictional cake served at Papa's Cupcakeria",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cosmo-cake-q127239222/cosmo-cake-q127239222-1.jpg",
+    "images/cosmo-cake-q127239222/cosmo-cake-q127239222-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127239222",
+    "themealdb": null
+  }
+}

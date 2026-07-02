@@ -1,0 +1,20 @@
+{
+  "id": "Q12713843",
+  "name": "Bocca",
+  "description": "Chocolate by Nidar AS",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bocca-q12713843/bocca-q12713843-1.jpg",
+    "images/bocca-q12713843/bocca-q12713843-2.jpg",
+    "images/bocca-q12713843/bocca-q12713843-3.jpg",
+    "images/bocca-q12713843/bocca-q12713843-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12713843",
+    "themealdb": null
+  }
+}

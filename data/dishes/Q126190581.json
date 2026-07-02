@@ -1,0 +1,22 @@
+{
+  "id": "Q126190581",
+  "name": "Ginseng chicken soup",
+  "description": "Soup",
+  "nationality": [
+    "People's Republic of China",
+    "Malaysia",
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginseng-chicken-soup-q126190581/ginseng-chicken-soup-q126190581-1.jpg",
+    "images/ginseng-chicken-soup-q126190581/ginseng-chicken-soup-q126190581-2.jpg",
+    "images/ginseng-chicken-soup-q126190581/ginseng-chicken-soup-q126190581-3.jpg",
+    "images/ginseng-chicken-soup-q126190581/ginseng-chicken-soup-q126190581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126190581",
+    "themealdb": null
+  }
+}

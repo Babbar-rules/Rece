@@ -1,0 +1,22 @@
+{
+  "id": "Q12709581",
+  "name": "Soto Padang",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesia"
+  ],
+  "images": [
+    "images/soto-padang-q12709581/soto-padang-q12709581-1.jpg",
+    "images/soto-padang-q12709581/soto-padang-q12709581-2.jpg",
+    "images/soto-padang-q12709581/soto-padang-q12709581-3.jpg",
+    "images/soto-padang-q12709581/soto-padang-q12709581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12709581",
+    "themealdb": null
+  }
+}

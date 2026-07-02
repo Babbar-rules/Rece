@@ -1,0 +1,16 @@
+{
+  "id": "Q127235955",
+  "name": "Silver Doubloons",
+  "description": "fictional topping in Papa Louie's restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/silver-doubloons-q127235955/silver-doubloons-q127235955-1.jpg",
+    "images/silver-doubloons-q127235955/silver-doubloons-q127235955-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127235955",
+    "themealdb": null
+  }
+}

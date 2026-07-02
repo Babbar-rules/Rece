@@ -1,0 +1,20 @@
+{
+  "id": "Q12583445",
+  "name": "geotjeori",
+  "description": "Korean pickled vegetable dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/geotjeori-q12583445/geotjeori-q12583445-1.jpg",
+    "images/geotjeori-q12583445/geotjeori-q12583445-2.jpg",
+    "images/geotjeori-q12583445/geotjeori-q12583445-3.jpg",
+    "images/geotjeori-q12583445/geotjeori-q12583445-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12583445",
+    "themealdb": null
+  }
+}

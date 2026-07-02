@@ -1,0 +1,18 @@
+{
+  "id": "Q125996418",
+  "name": "savory pudding",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/savory-pudding-q125996418/savory-pudding-q125996418-1.jpg",
+    "images/savory-pudding-q125996418/savory-pudding-q125996418-2.jpg",
+    "images/savory-pudding-q125996418/savory-pudding-q125996418-3.jpg",
+    "images/savory-pudding-q125996418/savory-pudding-q125996418-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125996418",
+    "themealdb": null
+  }
+}

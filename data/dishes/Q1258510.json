@@ -1,0 +1,20 @@
+{
+  "id": "Q1258510",
+  "name": "tirtlan",
+  "description": "Italian fritter",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tirtlan-q1258510/tirtlan-q1258510-1.jpg",
+    "images/tirtlan-q1258510/tirtlan-q1258510-2.jpg",
+    "images/tirtlan-q1258510/tirtlan-q1258510-3.jpg",
+    "images/tirtlan-q1258510/tirtlan-q1258510-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1258510",
+    "themealdb": null
+  }
+}

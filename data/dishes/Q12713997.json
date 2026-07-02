@@ -1,0 +1,18 @@
+{
+  "id": "Q12713997",
+  "name": "Caramello",
+  "description": "Chocolate that Nidar AS stores and distributes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caramello-q12713997/caramello-q12713997-1.jpg",
+    "images/caramello-q12713997/caramello-q12713997-2.jpg",
+    "images/caramello-q12713997/caramello-q12713997-3.jpg",
+    "images/caramello-q12713997/caramello-q12713997-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12713997",
+    "themealdb": null
+  }
+}

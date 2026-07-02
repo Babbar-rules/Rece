@@ -1,0 +1,18 @@
+{
+  "id": "Q126681364",
+  "name": "manqué",
+  "description": "cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/manque-q126681364/manque-q126681364-1.jpg",
+    "images/manque-q126681364/manque-q126681364-2.jpg",
+    "images/manque-q126681364/manque-q126681364-3.jpg",
+    "images/manque-q126681364/manque-q126681364-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126681364",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q126476888",
+  "name": "Shell Noir",
+  "description": "cannoli shell in Papa's Mocharia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shell-noir-q126476888/shell-noir-q126476888-1.jpg",
+    "images/shell-noir-q126476888/shell-noir-q126476888-2.jpg",
+    "images/shell-noir-q126476888/shell-noir-q126476888-3.jpg",
+    "images/shell-noir-q126476888/shell-noir-q126476888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126476888",
+    "themealdb": null
+  }
+}

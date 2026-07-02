@@ -1,0 +1,18 @@
+{
+  "id": "Q1260250",
+  "name": "Kornspitz",
+  "description": "Pastry and trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kornspitz-q1260250/kornspitz-q1260250-1.jpg",
+    "images/kornspitz-q1260250/kornspitz-q1260250-2.jpg",
+    "images/kornspitz-q1260250/kornspitz-q1260250-3.jpg",
+    "images/kornspitz-q1260250/kornspitz-q1260250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1260250",
+    "themealdb": null
+  }
+}

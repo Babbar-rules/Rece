@@ -1,0 +1,17 @@
+{
+  "id": "Q12556938",
+  "name": "Ovdukh",
+  "description": "Yogurt soup with vegetables in Azerbaijani cuisine",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [
+    "Azerbaijani cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12556938",
+    "themealdb": null
+  }
+}

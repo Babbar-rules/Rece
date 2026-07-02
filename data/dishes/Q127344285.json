@@ -1,0 +1,18 @@
+{
+  "id": "Q127344285",
+  "name": "AirHeads Strawberry",
+  "description": "flavor of AirHeads taffy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airheads-strawberry-q127344285/airheads-strawberry-q127344285-1.jpg",
+    "images/airheads-strawberry-q127344285/airheads-strawberry-q127344285-2.jpg",
+    "images/airheads-strawberry-q127344285/airheads-strawberry-q127344285-3.jpg",
+    "images/airheads-strawberry-q127344285/airheads-strawberry-q127344285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127344285",
+    "themealdb": null
+  }
+}

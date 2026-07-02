@@ -1,0 +1,15 @@
+{
+  "id": "Q12715233",
+  "name": "Haglette",
+  "description": "Food made from milk",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12715233",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1262980",
+  "name": "spaghetti alla puttanesca",
+  "description": "Neapolitan pasta dish with tomatoes, olive oil, olives, capers, garlic (and sometimes anchovies)",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-alla-puttanesca-q1262980/spaghetti-alla-puttanesca-q1262980-1.jpg",
+    "images/spaghetti-alla-puttanesca-q1262980/spaghetti-alla-puttanesca-q1262980-2.jpg",
+    "images/spaghetti-alla-puttanesca-q1262980/spaghetti-alla-puttanesca-q1262980-3.jpg",
+    "images/spaghetti-alla-puttanesca-q1262980/spaghetti-alla-puttanesca-q1262980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1262980",
+    "themealdb": null
+  }
+}

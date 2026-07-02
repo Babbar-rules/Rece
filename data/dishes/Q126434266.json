@@ -1,0 +1,20 @@
+{
+  "id": "Q126434266",
+  "name": "Salade hawaïenne",
+  "description": "Hawaiian-style salad with rice and fruit",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salade-hawaienne-q126434266/salade-hawaienne-q126434266-1.jpg",
+    "images/salade-hawaienne-q126434266/salade-hawaienne-q126434266-2.jpg",
+    "images/salade-hawaienne-q126434266/salade-hawaienne-q126434266-3.jpg",
+    "images/salade-hawaienne-q126434266/salade-hawaienne-q126434266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126434266",
+    "themealdb": null
+  }
+}

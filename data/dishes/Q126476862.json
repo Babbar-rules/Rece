@@ -1,0 +1,18 @@
+{
+  "id": "Q126476862",
+  "name": "Starlight Shell",
+  "description": "cannoli shell in Papa's Mocharia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/starlight-shell-q126476862/starlight-shell-q126476862-1.jpg",
+    "images/starlight-shell-q126476862/starlight-shell-q126476862-2.jpg",
+    "images/starlight-shell-q126476862/starlight-shell-q126476862-3.jpg",
+    "images/starlight-shell-q126476862/starlight-shell-q126476862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126476862",
+    "themealdb": null
+  }
+}

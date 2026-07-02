@@ -1,0 +1,18 @@
+{
+  "id": "Q125989832",
+  "name": "PhillySwirl",
+  "description": "frozen dessert brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/phillyswirl-q125989832/phillyswirl-q125989832-1.jpg",
+    "images/phillyswirl-q125989832/phillyswirl-q125989832-2.jpg",
+    "images/phillyswirl-q125989832/phillyswirl-q125989832-3.jpg",
+    "images/phillyswirl-q125989832/phillyswirl-q125989832-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125989832",
+    "themealdb": null
+  }
+}

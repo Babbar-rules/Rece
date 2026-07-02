@@ -1,0 +1,21 @@
+{
+  "id": "Q12684230",
+  "name": "bosou",
+  "description": "Kadazandusun appetizer",
+  "nationality": [
+    "Malaysia",
+    "Sabah"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bosou-q12684230/bosou-q12684230-1.jpg",
+    "images/bosou-q12684230/bosou-q12684230-2.jpg",
+    "images/bosou-q12684230/bosou-q12684230-3.jpg",
+    "images/bosou-q12684230/bosou-q12684230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12684230",
+    "themealdb": null
+  }
+}

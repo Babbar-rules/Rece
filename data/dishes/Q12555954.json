@@ -1,0 +1,21 @@
+{
+  "id": "Q12555954",
+  "name": "Nauryz kozhe",
+  "description": "Uyghur/Kazakh/Kyrgyz congee",
+  "nationality": [
+    "Kazakhstan",
+    "Kyrgyzstan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nauryz-kozhe-q12555954/nauryz-kozhe-q12555954-1.jpg",
+    "images/nauryz-kozhe-q12555954/nauryz-kozhe-q12555954-2.jpg",
+    "images/nauryz-kozhe-q12555954/nauryz-kozhe-q12555954-3.jpg",
+    "images/nauryz-kozhe-q12555954/nauryz-kozhe-q12555954-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12555954",
+    "themealdb": null
+  }
+}

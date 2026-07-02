@@ -1,0 +1,17 @@
+{
+  "id": "Q12716458",
+  "name": "Lauvsteik",
+  "description": "Dish typically served at various food outlets such as gas stations, roadside taverns, and other serving locations",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [
+    "Norwegian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12716458",
+    "themealdb": null
+  }
+}

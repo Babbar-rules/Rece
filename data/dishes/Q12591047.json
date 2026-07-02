@@ -1,0 +1,20 @@
+{
+  "id": "Q12591047",
+  "name": "dak-gangjeong",
+  "description": "fried chicken dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dak-gangjeong-q12591047/dak-gangjeong-q12591047-1.jpg",
+    "images/dak-gangjeong-q12591047/dak-gangjeong-q12591047-2.jpg",
+    "images/dak-gangjeong-q12591047/dak-gangjeong-q12591047-3.jpg",
+    "images/dak-gangjeong-q12591047/dak-gangjeong-q12591047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12591047",
+    "themealdb": null
+  }
+}

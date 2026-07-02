@@ -1,0 +1,18 @@
+{
+  "id": "Q125745103",
+  "name": "Kolkata biryani",
+  "description": "Indian rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kolkata-biryani-q125745103/kolkata-biryani-q125745103-1.jpg",
+    "images/kolkata-biryani-q125745103/kolkata-biryani-q125745103-2.jpg",
+    "images/kolkata-biryani-q125745103/kolkata-biryani-q125745103-3.jpg",
+    "images/kolkata-biryani-q125745103/kolkata-biryani-q125745103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125745103",
+    "themealdb": null
+  }
+}

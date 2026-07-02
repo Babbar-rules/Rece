@@ -1,0 +1,20 @@
+{
+  "id": "Q12578785",
+  "name": "Älme",
+  "description": "Kazakh dish",
+  "nationality": [
+    "Kazakhstan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alme-q12578785/alme-q12578785-1.jpg",
+    "images/alme-q12578785/alme-q12578785-2.jpg",
+    "images/alme-q12578785/alme-q12578785-3.png",
+    "images/alme-q12578785/alme-q12578785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12578785",
+    "themealdb": null
+  }
+}

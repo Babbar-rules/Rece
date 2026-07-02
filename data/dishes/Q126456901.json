@@ -1,0 +1,18 @@
+{
+  "id": "Q126456901",
+  "name": "Wow! Soup",
+  "description": "grease on a paper plate served at the Krusty Krab",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wow-soup-q126456901/wow-soup-q126456901-1.jpg",
+    "images/wow-soup-q126456901/wow-soup-q126456901-2.jpg",
+    "images/wow-soup-q126456901/wow-soup-q126456901-3.jpg",
+    "images/wow-soup-q126456901/wow-soup-q126456901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126456901",
+    "themealdb": null
+  }
+}

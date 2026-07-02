@@ -1,0 +1,18 @@
+{
+  "id": "Q127344071",
+  "name": "AirHeads Cherry",
+  "description": "flavor of AirHeads taffy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airheads-cherry-q127344071/airheads-cherry-q127344071-1.jpg",
+    "images/airheads-cherry-q127344071/airheads-cherry-q127344071-2.jpg",
+    "images/airheads-cherry-q127344071/airheads-cherry-q127344071-3.jpg",
+    "images/airheads-cherry-q127344071/airheads-cherry-q127344071-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127344071",
+    "themealdb": null
+  }
+}

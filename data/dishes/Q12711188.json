@@ -1,0 +1,22 @@
+{
+  "id": "Q12711188",
+  "name": "tahu campur",
+  "description": "East Javanese tofu dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tahu-campur-q12711188/tahu-campur-q12711188-1.jpg",
+    "images/tahu-campur-q12711188/tahu-campur-q12711188-2.jpg",
+    "images/tahu-campur-q12711188/tahu-campur-q12711188-3.jpg",
+    "images/tahu-campur-q12711188/tahu-campur-q12711188-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12711188",
+    "themealdb": null
+  }
+}

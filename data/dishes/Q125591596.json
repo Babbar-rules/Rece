@@ -1,0 +1,18 @@
+{
+  "id": "Q125591596",
+  "name": "cooked apple",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cooked-apple-q125591596/cooked-apple-q125591596-1.jpg",
+    "images/cooked-apple-q125591596/cooked-apple-q125591596-2.jpg",
+    "images/cooked-apple-q125591596/cooked-apple-q125591596-3.jpg",
+    "images/cooked-apple-q125591596/cooked-apple-q125591596-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125591596",
+    "themealdb": null
+  }
+}

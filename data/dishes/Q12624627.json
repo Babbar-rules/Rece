@@ -1,0 +1,18 @@
+{
+  "id": "Q12624627",
+  "name": "space cake",
+  "description": "cake made with cannabis",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/space-cake-q12624627/space-cake-q12624627-1.jpg",
+    "images/space-cake-q12624627/space-cake-q12624627-2.jpg",
+    "images/space-cake-q12624627/space-cake-q12624627-3.jpg",
+    "images/space-cake-q12624627/space-cake-q12624627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12624627",
+    "themealdb": null
+  }
+}

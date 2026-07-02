@@ -1,0 +1,18 @@
+{
+  "id": "Q12716921",
+  "name": "Mokkatrøffel",
+  "description": "Norwegian chocolate",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mokkatrffel-q12716921/mokkatrffel-q12716921-1.jpg",
+    "images/mokkatrffel-q12716921/mokkatrffel-q12716921-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12716921",
+    "themealdb": null
+  }
+}

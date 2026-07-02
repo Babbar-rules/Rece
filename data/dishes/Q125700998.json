@@ -1,0 +1,20 @@
+{
+  "id": "Q125700998",
+  "name": "Paratha roll",
+  "description": "street food of Pakistan",
+  "nationality": [],
+  "region_cuisine": [
+    "Pakistani cuisine"
+  ],
+  "images": [
+    "images/paratha-roll-q125700998/paratha-roll-q125700998-1.jpg",
+    "images/paratha-roll-q125700998/paratha-roll-q125700998-2.jpg",
+    "images/paratha-roll-q125700998/paratha-roll-q125700998-3.jpg",
+    "images/paratha-roll-q125700998/paratha-roll-q125700998-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125700998",
+    "themealdb": null
+  }
+}

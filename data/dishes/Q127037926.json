@@ -1,0 +1,22 @@
+{
+  "id": "Q127037926",
+  "name": "Bubur ase",
+  "description": "type of porridge",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bubur-ase-q127037926/bubur-ase-q127037926-1.jpg",
+    "images/bubur-ase-q127037926/bubur-ase-q127037926-2.jpg",
+    "images/bubur-ase-q127037926/bubur-ase-q127037926-3.jpg",
+    "images/bubur-ase-q127037926/bubur-ase-q127037926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127037926",
+    "themealdb": null
+  }
+}

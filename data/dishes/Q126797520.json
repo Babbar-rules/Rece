@@ -1,0 +1,13 @@
+{
+  "id": "Q126797520",
+  "name": "Krusty Krab Pizza",
+  "description": "pizza served at the Krusty Krab",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126797520",
+    "themealdb": null
+  }
+}

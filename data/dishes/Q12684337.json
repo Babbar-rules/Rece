@@ -1,0 +1,20 @@
+{
+  "id": "Q12684337",
+  "name": "bubur lambuk",
+  "description": "porridge",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubur-lambuk-q12684337/bubur-lambuk-q12684337-1.jpg",
+    "images/bubur-lambuk-q12684337/bubur-lambuk-q12684337-2.png",
+    "images/bubur-lambuk-q12684337/bubur-lambuk-q12684337-3.png",
+    "images/bubur-lambuk-q12684337/bubur-lambuk-q12684337-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12684337",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q126961970",
+  "name": "Dal Tadka",
+  "description": "Indian dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dal-tadka-q126961970/dal-tadka-q126961970-1.jpg",
+    "images/dal-tadka-q126961970/dal-tadka-q126961970-2.jpg",
+    "images/dal-tadka-q126961970/dal-tadka-q126961970-3.jpg",
+    "images/dal-tadka-q126961970/dal-tadka-q126961970-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126961970",
+    "themealdb": null
+  }
+}

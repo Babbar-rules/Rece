@@ -1,0 +1,20 @@
+{
+  "id": "Q12608980",
+  "name": "Uja",
+  "description": "Korean food",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uja-q12608980/uja-q12608980-1.jpg",
+    "images/uja-q12608980/uja-q12608980-2.jpg",
+    "images/uja-q12608980/uja-q12608980-3.jpg",
+    "images/uja-q12608980/uja-q12608980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12608980",
+    "themealdb": null
+  }
+}

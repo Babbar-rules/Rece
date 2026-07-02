@@ -1,0 +1,16 @@
+{
+  "id": "Q125867352",
+  "name": "Ganmianpi",
+  "description": "A type of Chinese noodle dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ganmianpi-q125867352/ganmianpi-q125867352-1.jpg",
+    "images/ganmianpi-q125867352/ganmianpi-q125867352-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125867352",
+    "themealdb": null
+  }
+}

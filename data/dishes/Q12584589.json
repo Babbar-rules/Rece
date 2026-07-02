@@ -1,0 +1,19 @@
+{
+  "id": "Q12584589",
+  "name": "soboro-ppang",
+  "description": "Korean streusel bread",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soboro-ppang-q12584589/soboro-ppang-q12584589-1.jpg",
+    "images/soboro-ppang-q12584589/soboro-ppang-q12584589-2.jpg",
+    "images/soboro-ppang-q12584589/soboro-ppang-q12584589-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12584589",
+    "themealdb": null
+  }
+}

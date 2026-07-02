@@ -1,0 +1,15 @@
+{
+  "id": "Q126799075",
+  "name": "Krusty Dog",
+  "description": "hot dog-shaped Krabby Patty created by SpongeBob in the eponymous episode",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krusty-dog-q126799075/krusty-dog-q126799075-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126799075",
+    "themealdb": null
+  }
+}

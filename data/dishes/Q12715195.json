@@ -1,0 +1,18 @@
+{
+  "id": "Q12715195",
+  "name": "Gullbrød",
+  "description": "Norwegian chocolate",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gullbrd-q12715195/gullbrd-q12715195-1.jpg",
+    "images/gullbrd-q12715195/gullbrd-q12715195-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12715195",
+    "themealdb": null
+  }
+}

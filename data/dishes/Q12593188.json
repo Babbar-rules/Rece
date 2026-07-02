@@ -1,0 +1,20 @@
+{
+  "id": "Q12593188",
+  "name": "don-jeonya",
+  "description": "pan-fried meat patties",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/don-jeonya-q12593188/don-jeonya-q12593188-1.jpg",
+    "images/don-jeonya-q12593188/don-jeonya-q12593188-2.jpg",
+    "images/don-jeonya-q12593188/don-jeonya-q12593188-3.jpg",
+    "images/don-jeonya-q12593188/don-jeonya-q12593188-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12593188",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q12690624",
+  "name": "Kuih kosui",
+  "description": "Malaysian steamed rice cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kuih-kosui-q12690624/kuih-kosui-q12690624-1.jpg",
+    "images/kuih-kosui-q12690624/kuih-kosui-q12690624-2.jpg",
+    "images/kuih-kosui-q12690624/kuih-kosui-q12690624-3.jpg",
+    "images/kuih-kosui-q12690624/kuih-kosui-q12690624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12690624",
+    "themealdb": null
+  }
+}

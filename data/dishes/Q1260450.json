@@ -1,0 +1,20 @@
+{
+  "id": "Q1260450",
+  "name": "bigoli con l'anatra",
+  "description": "Italian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bigoli-con-lanatra-q1260450/bigoli-con-lanatra-q1260450-1.jpg",
+    "images/bigoli-con-lanatra-q1260450/bigoli-con-lanatra-q1260450-2.jpg",
+    "images/bigoli-con-lanatra-q1260450/bigoli-con-lanatra-q1260450-3.jpg",
+    "images/bigoli-con-lanatra-q1260450/bigoli-con-lanatra-q1260450-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1260450",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q126856764",
+  "name": "sbriciolata",
+  "description": "Italian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sbriciolata-q126856764/sbriciolata-q126856764-1.jpg",
+    "images/sbriciolata-q126856764/sbriciolata-q126856764-2.jpg",
+    "images/sbriciolata-q126856764/sbriciolata-q126856764-3.jpg",
+    "images/sbriciolata-q126856764/sbriciolata-q126856764-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126856764",
+    "themealdb": null
+  }
+}

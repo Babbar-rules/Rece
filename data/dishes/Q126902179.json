@@ -1,0 +1,20 @@
+{
+  "id": "Q126902179",
+  "name": "Sutadon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sutadon-q126902179/sutadon-q126902179-1.jpg",
+    "images/sutadon-q126902179/sutadon-q126902179-2.jpg",
+    "images/sutadon-q126902179/sutadon-q126902179-3.jpg",
+    "images/sutadon-q126902179/sutadon-q126902179-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126902179",
+    "themealdb": null
+  }
+}

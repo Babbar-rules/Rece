@@ -1,0 +1,18 @@
+{
+  "id": "Q127239585",
+  "name": "Green Emerald",
+  "description": "dessert ingredient flavoring in Papa Louie's restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/green-emerald-q127239585/green-emerald-q127239585-1.jpg",
+    "images/green-emerald-q127239585/green-emerald-q127239585-2.jpg",
+    "images/green-emerald-q127239585/green-emerald-q127239585-3.jpg",
+    "images/green-emerald-q127239585/green-emerald-q127239585-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127239585",
+    "themealdb": null
+  }
+}

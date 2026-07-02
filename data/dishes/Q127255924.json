@@ -1,0 +1,18 @@
+{
+  "id": "Q127255924",
+  "name": "Raspberry Bark",
+  "description": "topping in Papa's Donuteria",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raspberry-bark-q127255924/raspberry-bark-q127255924-1.jpg",
+    "images/raspberry-bark-q127255924/raspberry-bark-q127255924-2.jpg",
+    "images/raspberry-bark-q127255924/raspberry-bark-q127255924-3.jpg",
+    "images/raspberry-bark-q127255924/raspberry-bark-q127255924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127255924",
+    "themealdb": null
+  }
+}

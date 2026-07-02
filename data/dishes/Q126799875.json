@@ -1,0 +1,18 @@
+{
+  "id": "Q126799875",
+  "name": "Secret Patty",
+  "description": "orange Krabby Patty created by Sandy that turns whoever eats it into a Krabby Patty creature",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/secret-patty-q126799875/secret-patty-q126799875-1.jpg",
+    "images/secret-patty-q126799875/secret-patty-q126799875-2.jpg",
+    "images/secret-patty-q126799875/secret-patty-q126799875-3.jpg",
+    "images/secret-patty-q126799875/secret-patty-q126799875-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126799875",
+    "themealdb": null
+  }
+}

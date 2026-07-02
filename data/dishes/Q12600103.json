@@ -1,0 +1,17 @@
+{
+  "id": "Q12600103",
+  "name": "Triangular gimbap",
+  "description": "Rice shaped into a triangle and wrapped with seaweed",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/triangular-gimbap-q12600103/triangular-gimbap-q12600103-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12600103",
+    "themealdb": null
+  }
+}

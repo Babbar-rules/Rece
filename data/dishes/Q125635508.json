@@ -1,0 +1,18 @@
+{
+  "id": "Q125635508",
+  "name": "Wei Lih Men",
+  "description": "Taiwanese instant noodle brand",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wei-lih-men-q125635508/wei-lih-men-q125635508-1.jpg",
+    "images/wei-lih-men-q125635508/wei-lih-men-q125635508-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125635508",
+    "themealdb": null
+  }
+}

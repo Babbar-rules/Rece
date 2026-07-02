@@ -1,0 +1,18 @@
+{
+  "id": "Q1262538",
+  "name": "sherbet",
+  "description": "type of powder",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sherbet-q1262538/sherbet-q1262538-1.jpg",
+    "images/sherbet-q1262538/sherbet-q1262538-2.jpg",
+    "images/sherbet-q1262538/sherbet-q1262538-3.jpg",
+    "images/sherbet-q1262538/sherbet-q1262538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1262538",
+    "themealdb": null
+  }
+}

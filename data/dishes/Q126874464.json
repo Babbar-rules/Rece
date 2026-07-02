@@ -1,0 +1,18 @@
+{
+  "id": "Q126874464",
+  "name": "Hydrox Corporation",
+  "description": "Ice cream and soft drink company",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hydrox-corporation-q126874464/hydrox-corporation-q126874464-1.jpg",
+    "images/hydrox-corporation-q126874464/hydrox-corporation-q126874464-2.jpg",
+    "images/hydrox-corporation-q126874464/hydrox-corporation-q126874464-3.png",
+    "images/hydrox-corporation-q126874464/hydrox-corporation-q126874464-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126874464",
+    "themealdb": null
+  }
+}

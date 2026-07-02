@@ -1,0 +1,20 @@
+{
+  "id": "Q127256854",
+  "name": "sándwich York",
+  "description": "Chilean ham and egg sandwich",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sandwich-york-q127256854/sandwich-york-q127256854-1.jpg",
+    "images/sandwich-york-q127256854/sandwich-york-q127256854-2.jpg",
+    "images/sandwich-york-q127256854/sandwich-york-q127256854-3.jpg",
+    "images/sandwich-york-q127256854/sandwich-york-q127256854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127256854",
+    "themealdb": null
+  }
+}

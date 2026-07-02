@@ -1,0 +1,18 @@
+{
+  "id": "Q127344382",
+  "name": "AirHeads Green Apple",
+  "description": "flavor of AirHeads taffy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airheads-green-apple-q127344382/airheads-green-apple-q127344382-1.png",
+    "images/airheads-green-apple-q127344382/airheads-green-apple-q127344382-2.jpg",
+    "images/airheads-green-apple-q127344382/airheads-green-apple-q127344382-3.jpeg",
+    "images/airheads-green-apple-q127344382/airheads-green-apple-q127344382-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127344382",
+    "themealdb": null
+  }
+}

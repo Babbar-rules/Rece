@@ -1,0 +1,18 @@
+{
+  "id": "Q126476855",
+  "name": "Sunburst Shell",
+  "description": "cannoli shell in Papa's Mocharia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sunburst-shell-q126476855/sunburst-shell-q126476855-1.jpeg",
+    "images/sunburst-shell-q126476855/sunburst-shell-q126476855-2.jpg",
+    "images/sunburst-shell-q126476855/sunburst-shell-q126476855-3.jpg",
+    "images/sunburst-shell-q126476855/sunburst-shell-q126476855-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126476855",
+    "themealdb": null
+  }
+}

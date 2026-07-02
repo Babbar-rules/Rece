@@ -1,0 +1,18 @@
+{
+  "id": "Q127344348",
+  "name": "AirHeads Orange",
+  "description": "flavor of AirHeads taffy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airheads-orange-q127344348/airheads-orange-q127344348-1.jpg",
+    "images/airheads-orange-q127344348/airheads-orange-q127344348-2.jpg",
+    "images/airheads-orange-q127344348/airheads-orange-q127344348-3.jpg",
+    "images/airheads-orange-q127344348/airheads-orange-q127344348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127344348",
+    "themealdb": null
+  }
+}

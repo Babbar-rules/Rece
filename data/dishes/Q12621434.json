@@ -1,0 +1,20 @@
+{
+  "id": "Q12621434",
+  "name": "padak",
+  "description": "South Korean chicken dish made from fried chicken and scallions",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/padak-q12621434/padak-q12621434-1.jpg",
+    "images/padak-q12621434/padak-q12621434-2.jpg",
+    "images/padak-q12621434/padak-q12621434-3.jpg",
+    "images/padak-q12621434/padak-q12621434-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12621434",
+    "themealdb": null
+  }
+}

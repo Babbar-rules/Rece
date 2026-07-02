@@ -1,0 +1,19 @@
+{
+  "id": "Q12640393",
+  "name": "pretepena juha",
+  "description": "Croatian soup",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pretepena-juha-q12640393/pretepena-juha-q12640393-1.jpg",
+    "images/pretepena-juha-q12640393/pretepena-juha-q12640393-2.jpg",
+    "images/pretepena-juha-q12640393/pretepena-juha-q12640393-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12640393",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q12633056",
+  "name": "Istarski pršut",
+  "description": "cured and dried ham",
+  "nationality": [
+    "Slovenia",
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/istarski-prsut-q12633056/istarski-prsut-q12633056-1.jpg",
+    "images/istarski-prsut-q12633056/istarski-prsut-q12633056-2.jpg",
+    "images/istarski-prsut-q12633056/istarski-prsut-q12633056-3.jpg",
+    "images/istarski-prsut-q12633056/istarski-prsut-q12633056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12633056",
+    "themealdb": null
+  }
+}

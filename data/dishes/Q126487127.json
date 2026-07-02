@@ -1,0 +1,18 @@
+{
+  "id": "Q126487127",
+  "name": "Blots",
+  "description": "fictional candy in Papa Louie's restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blots-q126487127/blots-q126487127-1.jpeg",
+    "images/blots-q126487127/blots-q126487127-2.jpg",
+    "images/blots-q126487127/blots-q126487127-3.png",
+    "images/blots-q126487127/blots-q126487127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126487127",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q127164636",
+  "name": "loimulohi",
+  "description": "Finnish fish dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/loimulohi-q127164636/loimulohi-q127164636-1.png",
+    "images/loimulohi-q127164636/loimulohi-q127164636-2.png",
+    "images/loimulohi-q127164636/loimulohi-q127164636-3.jpg",
+    "images/loimulohi-q127164636/loimulohi-q127164636-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127164636",
+    "themealdb": null
+  }
+}

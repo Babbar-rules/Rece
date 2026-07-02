@@ -1,0 +1,18 @@
+{
+  "id": "Q126174164",
+  "name": "pineapple upside-down cake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-upside-down-cake-q126174164/pineapple-upside-down-cake-q126174164-1.jpg",
+    "images/pineapple-upside-down-cake-q126174164/pineapple-upside-down-cake-q126174164-2.jpg",
+    "images/pineapple-upside-down-cake-q126174164/pineapple-upside-down-cake-q126174164-3.jpg",
+    "images/pineapple-upside-down-cake-q126174164/pineapple-upside-down-cake-q126174164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126174164",
+    "themealdb": null
+  }
+}

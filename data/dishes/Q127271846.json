@@ -1,0 +1,18 @@
+{
+  "id": "Q127271846",
+  "name": "Autumn Leaves Sprinkles",
+  "description": "fictional sprinkle topping in Papa Louie's restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/autumn-leaves-sprinkles-q127271846/autumn-leaves-sprinkles-q127271846-1.jpg",
+    "images/autumn-leaves-sprinkles-q127271846/autumn-leaves-sprinkles-q127271846-2.jpg",
+    "images/autumn-leaves-sprinkles-q127271846/autumn-leaves-sprinkles-q127271846-3.jpg",
+    "images/autumn-leaves-sprinkles-q127271846/autumn-leaves-sprinkles-q127271846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q127271846",
+    "themealdb": null
+  }
+}

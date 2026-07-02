@@ -1,0 +1,15 @@
+{
+  "id": "Q125754246",
+  "name": "tel'noe",
+  "description": "dish in Russian cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125754246",
+    "themealdb": null
+  }
+}

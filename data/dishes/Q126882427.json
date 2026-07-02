@@ -1,0 +1,16 @@
+{
+  "id": "Q126882427",
+  "name": "Nerds Rope",
+  "description": "gummy rope covered in Nerds",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nerds-rope-q126882427/nerds-rope-q126882427-1.jpg",
+    "images/nerds-rope-q126882427/nerds-rope-q126882427-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126882427",
+    "themealdb": null
+  }
+}

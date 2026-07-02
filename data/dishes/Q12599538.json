@@ -1,0 +1,15 @@
+{
+  "id": "Q12599538",
+  "name": "bingtteok",
+  "description": "dish from Jeju, South Korea",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bingtteok-q12599538/bingtteok-q12599538-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12599538",
+    "themealdb": null
+  }
+}

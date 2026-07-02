@@ -1,0 +1,18 @@
+{
+  "id": "Q125999569",
+  "name": "custard pudding",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/custard-pudding-q125999569/custard-pudding-q125999569-1.jpg",
+    "images/custard-pudding-q125999569/custard-pudding-q125999569-2.jpg",
+    "images/custard-pudding-q125999569/custard-pudding-q125999569-3.jpg",
+    "images/custard-pudding-q125999569/custard-pudding-q125999569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125999569",
+    "themealdb": null
+  }
+}

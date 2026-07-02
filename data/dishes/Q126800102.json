@@ -1,0 +1,18 @@
+{
+  "id": "Q126800102",
+  "name": "Night Patty",
+  "description": "Krabby Patty made of burnt patty smoke",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/night-patty-q126800102/night-patty-q126800102-1.jpg",
+    "images/night-patty-q126800102/night-patty-q126800102-2.jpg",
+    "images/night-patty-q126800102/night-patty-q126800102-3.jpg",
+    "images/night-patty-q126800102/night-patty-q126800102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126800102",
+    "themealdb": null
+  }
+}

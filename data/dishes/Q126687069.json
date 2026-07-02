@@ -1,0 +1,18 @@
+{
+  "id": "Q126687069",
+  "name": "Nature Patty",
+  "description": "Krabby Patty made of inedible nature ingredients",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nature-patty-q126687069/nature-patty-q126687069-1.png",
+    "images/nature-patty-q126687069/nature-patty-q126687069-2.png",
+    "images/nature-patty-q126687069/nature-patty-q126687069-3.png",
+    "images/nature-patty-q126687069/nature-patty-q126687069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q126687069",
+    "themealdb": null
+  }
+}

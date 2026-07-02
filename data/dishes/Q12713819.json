@@ -1,0 +1,15 @@
+{
+  "id": "Q12713819",
+  "name": "Blanklefse",
+  "description": "Type of flatbread",
+  "nationality": [],
+  "region_cuisine": [
+    "Norwegian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q12713819",
+    "themealdb": null
+  }
+}

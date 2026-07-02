@@ -1,0 +1,18 @@
+{
+  "id": "Q125584438",
+  "name": "Salade alsacienne",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salade-alsacienne-q125584438/salade-alsacienne-q125584438-1.jpg",
+    "images/salade-alsacienne-q125584438/salade-alsacienne-q125584438-2.jpg",
+    "images/salade-alsacienne-q125584438/salade-alsacienne-q125584438-3.jpg",
+    "images/salade-alsacienne-q125584438/salade-alsacienne-q125584438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q125584438",
+    "themealdb": null
+  }
+}
