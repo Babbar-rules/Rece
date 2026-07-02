@@ -1,0 +1,18 @@
+{
+  "id": "Q11857503",
+  "name": "Ellen Svinhufvud cake",
+  "description": "Finnish cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ellen-svinhufvud-cake-q11857503/ellen-svinhufvud-cake-q11857503-1.jpg",
+    "images/ellen-svinhufvud-cake-q11857503/ellen-svinhufvud-cake-q11857503-2.jpg",
+    "images/ellen-svinhufvud-cake-q11857503/ellen-svinhufvud-cake-q11857503-3.jpg",
+    "images/ellen-svinhufvud-cake-q11857503/ellen-svinhufvud-cake-q11857503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11857503",
+    "themealdb": null
+  }
+}

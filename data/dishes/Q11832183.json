@@ -1,0 +1,20 @@
+{
+  "id": "Q11832183",
+  "name": "pyry z gzikiem",
+  "description": "Polish potato and cheese dish",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pyry-z-gzikiem-q11832183/pyry-z-gzikiem-q11832183-1.jpg",
+    "images/pyry-z-gzikiem-q11832183/pyry-z-gzikiem-q11832183-2.jpg",
+    "images/pyry-z-gzikiem-q11832183/pyry-z-gzikiem-q11832183-3.jpg",
+    "images/pyry-z-gzikiem-q11832183/pyry-z-gzikiem-q11832183-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11832183",
+    "themealdb": null
+  }
+}

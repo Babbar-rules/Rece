@@ -1,0 +1,20 @@
+{
+  "id": "Q116972170",
+  "name": "sururu stew",
+  "description": "Brazilian dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sururu-stew-q116972170/sururu-stew-q116972170-1.jpg",
+    "images/sururu-stew-q116972170/sururu-stew-q116972170-2.jpg",
+    "images/sururu-stew-q116972170/sururu-stew-q116972170-3.jpg",
+    "images/sururu-stew-q116972170/sururu-stew-q116972170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116972170",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11674229",
+  "name": "koikoku",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koikoku-q11674229/koikoku-q11674229-1.jpg",
+    "images/koikoku-q11674229/koikoku-q11674229-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674229",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11674333",
+  "name": "Katsuo no tataki",
+  "description": "Japanese fish dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katsuo-no-tataki-q11674333/katsuo-no-tataki-q11674333-1.jpg",
+    "images/katsuo-no-tataki-q11674333/katsuo-no-tataki-q11674333-2.jpg",
+    "images/katsuo-no-tataki-q11674333/katsuo-no-tataki-q11674333-3.jpg",
+    "images/katsuo-no-tataki-q11674333/katsuo-no-tataki-q11674333-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674333",
+    "themealdb": null
+  }
+}

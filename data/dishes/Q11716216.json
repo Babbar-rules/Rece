@@ -1,0 +1,60 @@
+{
+  "id": "Q11716216",
+  "name": "soft-boiled egg",
+  "description": "boiled egg with liquid yolk",
+  "nationality": [
+    "Spanish"
+  ],
+  "region_cuisine": [
+    "Pork"
+  ],
+  "images": [
+    "images/soft-boiled-egg-q11716216/soft-boiled-egg-q11716216-1.jpg",
+    "images/soft-boiled-egg-q11716216/soft-boiled-egg-q11716216-2.jpg",
+    "images/soft-boiled-egg-q11716216/soft-boiled-egg-q11716216-3.jpg",
+    "images/soft-boiled-egg-q11716216/soft-boiled-egg-q11716216-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53157",
+    "category": "Pork",
+    "area": "Spanish",
+    "instructions": "step 1\r\nCook the potatoes in a large pan of boiling salted water for 12 mins, adding the eggs after 6 mins, and the beans for the final 2 mins. Drain everything and cool the eggs under cold running water.\r\n\r\nstep 2\r\nMeanwhile fry chorizo slices for 1-2 mins, until beginning to crisp. Remove from the pan with a slotted spoon and set aside, leaving the oil from the chorizo in the pan. Add the garlic to the pan and cook gently for 1 min.\r\n\r\nstep 3\r\nRemove the pan from the heat, stir in the vinegar and parsley, then toss with the potatoes, beans, chorizo and seasoning. Shell the eggs, cut into quarters and add to the salad.",
+    "ingredients": [
+      {
+        "ingredient": "Baby New Potatoes",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Green Beans",
+        "measure": "225g"
+      },
+      {
+        "ingredient": "Chorizo",
+        "measure": "225g"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Sherry vinegar",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "2 tbsp chopped"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=PfAjfn5dYHE",
+    "thumb": "https://www.themealdb.com/images/media/meals/v8eaed1763257313.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11716216",
+    "themealdb": "53157"
+  }
+}

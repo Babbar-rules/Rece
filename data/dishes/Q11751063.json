@@ -1,0 +1,18 @@
+{
+  "id": "Q11751063",
+  "name": "Kumpiak",
+  "description": "raw, salted, dried ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kumpiak-q11751063/kumpiak-q11751063-1.jpg",
+    "images/kumpiak-q11751063/kumpiak-q11751063-2.jpg",
+    "images/kumpiak-q11751063/kumpiak-q11751063-3.jpg",
+    "images/kumpiak-q11751063/kumpiak-q11751063-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11751063",
+    "themealdb": null
+  }
+}

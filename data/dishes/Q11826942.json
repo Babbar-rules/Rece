@@ -1,0 +1,20 @@
+{
+  "id": "Q11826942",
+  "name": "Prażonki",
+  "description": "Cuisine in Poland",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prazonki-q11826942/prazonki-q11826942-1.jpg",
+    "images/prazonki-q11826942/prazonki-q11826942-2.jpg",
+    "images/prazonki-q11826942/prazonki-q11826942-3.jpg",
+    "images/prazonki-q11826942/prazonki-q11826942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11826942",
+    "themealdb": null
+  }
+}

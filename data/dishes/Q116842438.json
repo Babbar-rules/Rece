@@ -1,0 +1,19 @@
+{
+  "id": "Q116842438",
+  "name": "Amaretti di Sassello",
+  "description": "biscuit from Sassello, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amaretti-di-sassello-q116842438/amaretti-di-sassello-q116842438-1.jpg",
+    "images/amaretti-di-sassello-q116842438/amaretti-di-sassello-q116842438-2.jpg",
+    "images/amaretti-di-sassello-q116842438/amaretti-di-sassello-q116842438-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116842438",
+    "themealdb": null
+  }
+}

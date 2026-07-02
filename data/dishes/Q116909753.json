@@ -1,0 +1,19 @@
+{
+  "id": "Q116909753",
+  "name": "kaeng khanun",
+  "description": "Northern Thai curry dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaeng-khanun-q116909753/kaeng-khanun-q116909753-1.jpg",
+    "images/kaeng-khanun-q116909753/kaeng-khanun-q116909753-2.jpg",
+    "images/kaeng-khanun-q116909753/kaeng-khanun-q116909753-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116909753",
+    "themealdb": null
+  }
+}

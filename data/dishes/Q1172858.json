@@ -1,0 +1,16 @@
+{
+  "id": "Q1172858",
+  "name": "shelf-stable bread",
+  "description": "shelf-stable pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shelf-stable-bread-q1172858/shelf-stable-bread-q1172858-1.jpg",
+    "images/shelf-stable-bread-q1172858/shelf-stable-bread-q1172858-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1172858",
+    "themealdb": null
+  }
+}

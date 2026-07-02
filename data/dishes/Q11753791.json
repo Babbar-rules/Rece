@@ -1,0 +1,20 @@
+{
+  "id": "Q11753791",
+  "name": "legumina",
+  "description": "various sweat dishes of Polish and Galician cuisine",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/legumina-q11753791/legumina-q11753791-1.jpg",
+    "images/legumina-q11753791/legumina-q11753791-2.jpg",
+    "images/legumina-q11753791/legumina-q11753791-3.jpg",
+    "images/legumina-q11753791/legumina-q11753791-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11753791",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11677821",
+  "name": "kimi-shigure",
+  "description": "steamed bun",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kimi-shigure-q11677821/kimi-shigure-q11677821-1.jpg",
+    "images/kimi-shigure-q11677821/kimi-shigure-q11677821-2.jpg",
+    "images/kimi-shigure-q11677821/kimi-shigure-q11677821-3.jpg",
+    "images/kimi-shigure-q11677821/kimi-shigure-q11677821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11677821",
+    "themealdb": null
+  }
+}

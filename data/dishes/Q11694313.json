@@ -1,0 +1,15 @@
+{
+  "id": "Q11694313",
+  "name": "Djamilah",
+  "description": "Type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/djamilah-q11694313/djamilah-q11694313-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11694313",
+    "themealdb": null
+  }
+}

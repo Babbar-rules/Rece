@@ -1,0 +1,17 @@
+{
+  "id": "Q117739920",
+  "name": "Putchin Pudding",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/putchin-pudding-q117739920/putchin-pudding-q117739920-1.jpg",
+    "images/putchin-pudding-q117739920/putchin-pudding-q117739920-2.jpg",
+    "images/putchin-pudding-q117739920/putchin-pudding-q117739920-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117739920",
+    "themealdb": null
+  }
+}

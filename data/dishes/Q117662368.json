@@ -1,0 +1,18 @@
+{
+  "id": "Q117662368",
+  "name": "chocolate Easter egg",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-easter-egg-q117662368/chocolate-easter-egg-q117662368-1.jpg",
+    "images/chocolate-easter-egg-q117662368/chocolate-easter-egg-q117662368-2.jpg",
+    "images/chocolate-easter-egg-q117662368/chocolate-easter-egg-q117662368-3.jpg",
+    "images/chocolate-easter-egg-q117662368/chocolate-easter-egg-q117662368-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117662368",
+    "themealdb": null
+  }
+}

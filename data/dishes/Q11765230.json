@@ -1,0 +1,20 @@
+{
+  "id": "Q11765230",
+  "name": "Machaca",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/machaca-q11765230/machaca-q11765230-1.jpg",
+    "images/machaca-q11765230/machaca-q11765230-2.jpg",
+    "images/machaca-q11765230/machaca-q11765230-3.jpg",
+    "images/machaca-q11765230/machaca-q11765230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11765230",
+    "themealdb": null
+  }
+}

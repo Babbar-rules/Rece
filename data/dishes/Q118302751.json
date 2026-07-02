@@ -1,0 +1,22 @@
+{
+  "id": "Q118302751",
+  "name": "hōraku-yaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/horaku-yaki-q118302751/horaku-yaki-q118302751-1.jpg",
+    "images/horaku-yaki-q118302751/horaku-yaki-q118302751-2.jpg",
+    "images/horaku-yaki-q118302751/horaku-yaki-q118302751-3.jpg",
+    "images/horaku-yaki-q118302751/horaku-yaki-q118302751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118302751",
+    "themealdb": null
+  }
+}

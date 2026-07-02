@@ -1,0 +1,20 @@
+{
+  "id": "Q117220543",
+  "name": "Dal curry",
+  "description": "Curry dish of India",
+  "nationality": [],
+  "region_cuisine": [
+    "South Asian cuisine"
+  ],
+  "images": [
+    "images/dal-curry-q117220543/dal-curry-q117220543-1.jpg",
+    "images/dal-curry-q117220543/dal-curry-q117220543-2.jpg",
+    "images/dal-curry-q117220543/dal-curry-q117220543-3.jpg",
+    "images/dal-curry-q117220543/dal-curry-q117220543-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117220543",
+    "themealdb": null
+  }
+}

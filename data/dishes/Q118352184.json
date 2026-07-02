@@ -1,0 +1,18 @@
+{
+  "id": "Q118352184",
+  "name": "frugtgrød",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frugtgrd-q118352184/frugtgrd-q118352184-1.jpg",
+    "images/frugtgrd-q118352184/frugtgrd-q118352184-2.jpg",
+    "images/frugtgrd-q118352184/frugtgrd-q118352184-3.jpg",
+    "images/frugtgrd-q118352184/frugtgrd-q118352184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118352184",
+    "themealdb": null
+  }
+}

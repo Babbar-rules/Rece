@@ -1,0 +1,18 @@
+{
+  "id": "Q118489612",
+  "name": "minestra",
+  "description": "Italian soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/minestra-q118489612/minestra-q118489612-1.jpg",
+    "images/minestra-q118489612/minestra-q118489612-2.jpg",
+    "images/minestra-q118489612/minestra-q118489612-3.jpg",
+    "images/minestra-q118489612/minestra-q118489612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118489612",
+    "themealdb": null
+  }
+}

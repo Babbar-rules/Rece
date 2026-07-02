@@ -1,0 +1,18 @@
+{
+  "id": "Q11686754",
+  "name": "stortini",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stortini-q11686754/stortini-q11686754-1.jpg",
+    "images/stortini-q11686754/stortini-q11686754-2.jpg",
+    "images/stortini-q11686754/stortini-q11686754-3.jpg",
+    "images/stortini-q11686754/stortini-q11686754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11686754",
+    "themealdb": null
+  }
+}

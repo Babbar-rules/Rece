@@ -1,0 +1,18 @@
+{
+  "id": "Q118746867",
+  "name": "white chocolate cheesecake",
+  "description": "cheesecake made with white chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-chocolate-cheesecake-q118746867/white-chocolate-cheesecake-q118746867-1.jpg",
+    "images/white-chocolate-cheesecake-q118746867/white-chocolate-cheesecake-q118746867-2.jpg",
+    "images/white-chocolate-cheesecake-q118746867/white-chocolate-cheesecake-q118746867-3.jpg",
+    "images/white-chocolate-cheesecake-q118746867/white-chocolate-cheesecake-q118746867-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118746867",
+    "themealdb": null
+  }
+}

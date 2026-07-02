@@ -1,0 +1,18 @@
+{
+  "id": "Q116745706",
+  "name": "finger food with stick",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/finger-food-with-stick-q116745706/finger-food-with-stick-q116745706-1.jpg",
+    "images/finger-food-with-stick-q116745706/finger-food-with-stick-q116745706-2.jpg",
+    "images/finger-food-with-stick-q116745706/finger-food-with-stick-q116745706-3.jpg",
+    "images/finger-food-with-stick-q116745706/finger-food-with-stick-q116745706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116745706",
+    "themealdb": null
+  }
+}

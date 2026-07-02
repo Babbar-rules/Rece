@@ -1,0 +1,21 @@
+{
+  "id": "Q11680910",
+  "name": "Cotoletta",
+  "description": "Italian food item of meat , eggs and breadcrumbs",
+  "nationality": [
+    "France",
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cotoletta-q11680910/cotoletta-q11680910-1.jpg",
+    "images/cotoletta-q11680910/cotoletta-q11680910-2.jpg",
+    "images/cotoletta-q11680910/cotoletta-q11680910-3.jpg",
+    "images/cotoletta-q11680910/cotoletta-q11680910-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11680910",
+    "themealdb": null
+  }
+}

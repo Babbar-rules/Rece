@@ -1,0 +1,18 @@
+{
+  "id": "Q118139279",
+  "name": "Chicken feet",
+  "description": "dim sum dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-feet-q118139279/chicken-feet-q118139279-1.jpg",
+    "images/chicken-feet-q118139279/chicken-feet-q118139279-2.jpg",
+    "images/chicken-feet-q118139279/chicken-feet-q118139279-3.jpg",
+    "images/chicken-feet-q118139279/chicken-feet-q118139279-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118139279",
+    "themealdb": null
+  }
+}

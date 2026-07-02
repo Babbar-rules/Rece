@@ -1,0 +1,20 @@
+{
+  "id": "Q11678964",
+  "name": "bekkō candy",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bekko-candy-q11678964/bekko-candy-q11678964-1.jpg",
+    "images/bekko-candy-q11678964/bekko-candy-q11678964-2.jpg",
+    "images/bekko-candy-q11678964/bekko-candy-q11678964-3.jpg",
+    "images/bekko-candy-q11678964/bekko-candy-q11678964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11678964",
+    "themealdb": null
+  }
+}

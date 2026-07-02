@@ -1,0 +1,20 @@
+{
+  "id": "Q117084707",
+  "name": "Chicharrón de la Ramos",
+  "description": "Mexican variant of pork dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicharron-de-la-ramos-q117084707/chicharron-de-la-ramos-q117084707-1.jpg",
+    "images/chicharron-de-la-ramos-q117084707/chicharron-de-la-ramos-q117084707-2.jpg",
+    "images/chicharron-de-la-ramos-q117084707/chicharron-de-la-ramos-q117084707-3.jpg",
+    "images/chicharron-de-la-ramos-q117084707/chicharron-de-la-ramos-q117084707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117084707",
+    "themealdb": null
+  }
+}

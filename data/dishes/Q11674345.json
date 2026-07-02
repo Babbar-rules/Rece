@@ -1,0 +1,18 @@
+{
+  "id": "Q11674345",
+  "name": "masuzushi",
+  "description": "type of sushi from Toyama",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/masuzushi-q11674345/masuzushi-q11674345-1.jpg",
+    "images/masuzushi-q11674345/masuzushi-q11674345-2.jpg",
+    "images/masuzushi-q11674345/masuzushi-q11674345-3.jpg",
+    "images/masuzushi-q11674345/masuzushi-q11674345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674345",
+    "themealdb": null
+  }
+}

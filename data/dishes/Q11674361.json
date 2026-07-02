@@ -1,0 +1,20 @@
+{
+  "id": "Q11674361",
+  "name": "tori ham",
+  "description": "Japanese ham-like chicken dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tori-ham-q11674361/tori-ham-q11674361-1.jpg",
+    "images/tori-ham-q11674361/tori-ham-q11674361-2.jpg",
+    "images/tori-ham-q11674361/tori-ham-q11674361-3.jpg",
+    "images/tori-ham-q11674361/tori-ham-q11674361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674361",
+    "themealdb": null
+  }
+}

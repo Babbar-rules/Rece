@@ -1,0 +1,20 @@
+{
+  "id": "Q11700178",
+  "name": "Potica",
+  "description": "Slovenian walnut cake roll",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potica-q11700178/potica-q11700178-1.jpg",
+    "images/potica-q11700178/potica-q11700178-2.jpg",
+    "images/potica-q11700178/potica-q11700178-3.jpg",
+    "images/potica-q11700178/potica-q11700178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11700178",
+    "themealdb": null
+  }
+}

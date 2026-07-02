@@ -1,0 +1,18 @@
+{
+  "id": "Q11849588",
+  "name": "5th Avenue",
+  "description": "candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/5th-avenue-q11849588/5th-avenue-q11849588-1.jpg",
+    "images/5th-avenue-q11849588/5th-avenue-q11849588-2.jpg",
+    "images/5th-avenue-q11849588/5th-avenue-q11849588-3.jpg",
+    "images/5th-avenue-q11849588/5th-avenue-q11849588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11849588",
+    "themealdb": null
+  }
+}

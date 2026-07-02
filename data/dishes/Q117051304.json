@@ -1,0 +1,19 @@
+{
+  "id": "Q117051304",
+  "name": "Curzoli",
+  "description": "type of pasta of Romagna, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curzoli-q117051304/curzoli-q117051304-1.jpg",
+    "images/curzoli-q117051304/curzoli-q117051304-2.jpg",
+    "images/curzoli-q117051304/curzoli-q117051304-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117051304",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q118746862",
+  "name": "white chocolate cake",
+  "description": "cake made with white chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-chocolate-cake-q118746862/white-chocolate-cake-q118746862-1.jpg",
+    "images/white-chocolate-cake-q118746862/white-chocolate-cake-q118746862-2.jpg",
+    "images/white-chocolate-cake-q118746862/white-chocolate-cake-q118746862-3.jpg",
+    "images/white-chocolate-cake-q118746862/white-chocolate-cake-q118746862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118746862",
+    "themealdb": null
+  }
+}

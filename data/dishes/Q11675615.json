@@ -1,0 +1,18 @@
+{
+  "id": "Q11675615",
+  "name": "kamonabe",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kamonabe-q11675615/kamonabe-q11675615-1.jpg",
+    "images/kamonabe-q11675615/kamonabe-q11675615-2.jpg",
+    "images/kamonabe-q11675615/kamonabe-q11675615-3.jpg",
+    "images/kamonabe-q11675615/kamonabe-q11675615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11675615",
+    "themealdb": null
+  }
+}

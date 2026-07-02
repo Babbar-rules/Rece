@@ -1,0 +1,18 @@
+{
+  "id": "Q117481518",
+  "name": "Fig-cake",
+  "description": "fig-based sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fig-cake-q117481518/fig-cake-q117481518-1.jpg",
+    "images/fig-cake-q117481518/fig-cake-q117481518-2.jpg",
+    "images/fig-cake-q117481518/fig-cake-q117481518-3.jpg",
+    "images/fig-cake-q117481518/fig-cake-q117481518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117481518",
+    "themealdb": null
+  }
+}

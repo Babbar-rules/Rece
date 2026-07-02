@@ -1,0 +1,20 @@
+{
+  "id": "Q11835420",
+  "name": "Rura",
+  "description": "a Polish confection, part of Greater Poland cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of Greater Poland"
+  ],
+  "images": [
+    "images/rura-q11835420/rura-q11835420-1.jpg",
+    "images/rura-q11835420/rura-q11835420-2.jpg",
+    "images/rura-q11835420/rura-q11835420-3.jpg",
+    "images/rura-q11835420/rura-q11835420-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11835420",
+    "themealdb": null
+  }
+}

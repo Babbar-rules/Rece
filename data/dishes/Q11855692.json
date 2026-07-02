@@ -1,0 +1,18 @@
+{
+  "id": "Q11855692",
+  "name": "Da-Capo",
+  "description": "Finnish chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/da-capo-q11855692/da-capo-q11855692-1.jpg",
+    "images/da-capo-q11855692/da-capo-q11855692-2.jpg",
+    "images/da-capo-q11855692/da-capo-q11855692-3.jpg",
+    "images/da-capo-q11855692/da-capo-q11855692-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11855692",
+    "themealdb": null
+  }
+}

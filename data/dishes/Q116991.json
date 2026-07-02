@@ -1,0 +1,20 @@
+{
+  "id": "Q116991",
+  "name": "knäck",
+  "description": "Swedish confectionery",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/knack-q116991/knack-q116991-1.jpg",
+    "images/knack-q116991/knack-q116991-2.jpg",
+    "images/knack-q116991/knack-q116991-3.jpg",
+    "images/knack-q116991/knack-q116991-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116991",
+    "themealdb": null
+  }
+}

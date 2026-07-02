@@ -1,0 +1,25 @@
+{
+  "id": "Q116778899",
+  "name": "Cacao-Chocolate",
+  "description": "chocolate produced from wild Theobroma cacao beans without preservatives",
+  "nationality": [
+    "Brazil",
+    "Peru",
+    "Venezuela",
+    "Guyana",
+    "Ecuador",
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cacao-chocolate-q116778899/cacao-chocolate-q116778899-1.jpg",
+    "images/cacao-chocolate-q116778899/cacao-chocolate-q116778899-2.jpg",
+    "images/cacao-chocolate-q116778899/cacao-chocolate-q116778899-3.jpg",
+    "images/cacao-chocolate-q116778899/cacao-chocolate-q116778899-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116778899",
+    "themealdb": null
+  }
+}

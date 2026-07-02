@@ -1,0 +1,23 @@
+{
+  "id": "Q117187798",
+  "name": "Pizza dolce di Beridde",
+  "description": "Italian yeasted cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Jewish cuisine",
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/pizza-dolce-di-beridde-q117187798/pizza-dolce-di-beridde-q117187798-1.jpg",
+    "images/pizza-dolce-di-beridde-q117187798/pizza-dolce-di-beridde-q117187798-2.jpg",
+    "images/pizza-dolce-di-beridde-q117187798/pizza-dolce-di-beridde-q117187798-3.jpg",
+    "images/pizza-dolce-di-beridde-q117187798/pizza-dolce-di-beridde-q117187798-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117187798",
+    "themealdb": null
+  }
+}

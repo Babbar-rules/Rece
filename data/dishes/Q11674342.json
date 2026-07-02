@@ -1,0 +1,20 @@
+{
+  "id": "Q11674342",
+  "name": "unajū",
+  "description": "unagi eel bowl in a square container",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/unaju-q11674342/unaju-q11674342-1.jpg",
+    "images/unaju-q11674342/unaju-q11674342-2.jpg",
+    "images/unaju-q11674342/unaju-q11674342-3.jpg",
+    "images/unaju-q11674342/unaju-q11674342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674342",
+    "themealdb": null
+  }
+}

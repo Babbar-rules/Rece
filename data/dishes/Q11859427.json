@@ -1,0 +1,20 @@
+{
+  "id": "Q11859427",
+  "name": "Fazer Blue",
+  "description": "Finnish brand of milk chocolate",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fazer-blue-q11859427/fazer-blue-q11859427-1.jpg",
+    "images/fazer-blue-q11859427/fazer-blue-q11859427-2.jpg",
+    "images/fazer-blue-q11859427/fazer-blue-q11859427-3.png",
+    "images/fazer-blue-q11859427/fazer-blue-q11859427-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11859427",
+    "themealdb": null
+  }
+}

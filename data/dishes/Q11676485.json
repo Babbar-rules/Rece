@@ -1,0 +1,20 @@
+{
+  "id": "Q11676485",
+  "name": "Kagoshima ramen",
+  "description": "ramen dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kagoshima-ramen-q11676485/kagoshima-ramen-q11676485-1.jpg",
+    "images/kagoshima-ramen-q11676485/kagoshima-ramen-q11676485-2.jpg",
+    "images/kagoshima-ramen-q11676485/kagoshima-ramen-q11676485-3.jpg",
+    "images/kagoshima-ramen-q11676485/kagoshima-ramen-q11676485-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11676485",
+    "themealdb": null
+  }
+}

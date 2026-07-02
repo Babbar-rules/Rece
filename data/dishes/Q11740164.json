@@ -1,0 +1,20 @@
+{
+  "id": "Q11740164",
+  "name": "Klobásník",
+  "description": "American Czech savory food",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/klobasnik-q11740164/klobasnik-q11740164-1.jpg",
+    "images/klobasnik-q11740164/klobasnik-q11740164-2.jpg",
+    "images/klobasnik-q11740164/klobasnik-q11740164-3.jpg",
+    "images/klobasnik-q11740164/klobasnik-q11740164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11740164",
+    "themealdb": null
+  }
+}

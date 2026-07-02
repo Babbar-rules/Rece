@@ -1,0 +1,20 @@
+{
+  "id": "Q117011849",
+  "name": "Sakhnovshchyna korovai",
+  "description": "traditional ceremonial bread baked in Sakhnovshchyna",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/sakhnovshchyna-korovai-q117011849/sakhnovshchyna-korovai-q117011849-1.jpg",
+    "images/sakhnovshchyna-korovai-q117011849/sakhnovshchyna-korovai-q117011849-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117011849",
+    "themealdb": null
+  }
+}

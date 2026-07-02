@@ -1,0 +1,23 @@
+{
+  "id": "Q11838743",
+  "name": "pirozhki",
+  "description": "fried/baked filled bun common in Russian cuisine",
+  "nationality": [
+    "Eastern Europe"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/pirozhki-q11838743/pirozhki-q11838743-1.jpg",
+    "images/pirozhki-q11838743/pirozhki-q11838743-2.jpg",
+    "images/pirozhki-q11838743/pirozhki-q11838743-3.jpg",
+    "images/pirozhki-q11838743/pirozhki-q11838743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11838743",
+    "themealdb": null
+  }
+}

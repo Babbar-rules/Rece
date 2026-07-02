@@ -1,0 +1,22 @@
+{
+  "id": "Q11674265",
+  "name": "taimeshi",
+  "description": "rice with seabream",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/taimeshi-q11674265/taimeshi-q11674265-1.jpg",
+    "images/taimeshi-q11674265/taimeshi-q11674265-2.jpg",
+    "images/taimeshi-q11674265/taimeshi-q11674265-3.jpg",
+    "images/taimeshi-q11674265/taimeshi-q11674265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674265",
+    "themealdb": null
+  }
+}

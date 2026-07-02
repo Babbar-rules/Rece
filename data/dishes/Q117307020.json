@@ -1,0 +1,20 @@
+{
+  "id": "Q117307020",
+  "name": "Leningradsky cake",
+  "description": "soviet pastry",
+  "nationality": [],
+  "region_cuisine": [
+    "Soviet cuisine"
+  ],
+  "images": [
+    "images/leningradsky-cake-q117307020/leningradsky-cake-q117307020-1.jpg",
+    "images/leningradsky-cake-q117307020/leningradsky-cake-q117307020-2.jpg",
+    "images/leningradsky-cake-q117307020/leningradsky-cake-q117307020-3.jpg",
+    "images/leningradsky-cake-q117307020/leningradsky-cake-q117307020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117307020",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "Q117815182",
+  "name": "slagroomtaart",
+  "description": "Dutch whipped cream and sponge cake",
+  "nationality": [
+    "Belgium",
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/slagroomtaart-q117815182/slagroomtaart-q117815182-1.jpg",
+    "images/slagroomtaart-q117815182/slagroomtaart-q117815182-2.jpg",
+    "images/slagroomtaart-q117815182/slagroomtaart-q117815182-3.jpg",
+    "images/slagroomtaart-q117815182/slagroomtaart-q117815182-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53395",
+    "category": "Dessert",
+    "area": null,
+    "instructions": "Beat the eggs, sugar and vanilla sugar until light and fluffy. I beat this in a stand mixer on medium-high speed for about 10 minutes.\r\nSift the flour and cornstarch and add to the mixture. Fold this gently into the mixture; you don’t want all the air you whipped in to disappear.\r\nPour the batter into a greased baking pan. Bake the cake base at 180°C/350°F (conventional oven) for 30 minutes. The cake is done when you press lightly on the top and it springs back. Allow the cake to cool in the pan for a few minutes before removing it to a cake rack.\r\nMeanwhile, prepare the nougatine and jam according to the recipe if you haven’t already.\r\nLet the cake cool completely before you cut it. If, like me, you used a 20 cm/8 inch spring form pan, cut the cake into three layers.",
+    "ingredients": [
+      {
+        "ingredient": "Eggs",
+        "measure": "175g"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "vanilla sugar",
+        "measure": "10g"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Jam",
+        "measure": "6 tablespoons"
+      },
+      {
+        "ingredient": "Nougatine",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Whipping Cream",
+        "measure": "750 ml"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "6 tablespoons"
+      },
+      {
+        "ingredient": "Fruit Mix",
+        "measure": "5"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=w6d3N2E_Vdo",
+    "thumb": "https://www.themealdb.com/images/media/meals/wxfmk41777628643.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117815182",
+    "themealdb": "53395"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q11674068",
+  "name": "fish sausage",
+  "description": "Japanese fish sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-sausage-q11674068/fish-sausage-q11674068-1.jpg",
+    "images/fish-sausage-q11674068/fish-sausage-q11674068-2.jpg",
+    "images/fish-sausage-q11674068/fish-sausage-q11674068-3.jpg",
+    "images/fish-sausage-q11674068/fish-sausage-q11674068-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674068",
+    "themealdb": null
+  }
+}

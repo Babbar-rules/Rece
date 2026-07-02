@@ -1,0 +1,20 @@
+{
+  "id": "Q118470980",
+  "name": "Nabeyaki egg noodles",
+  "description": "noodle soup in Taiwan",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nabeyaki-egg-noodles-q118470980/nabeyaki-egg-noodles-q118470980-1.jpg",
+    "images/nabeyaki-egg-noodles-q118470980/nabeyaki-egg-noodles-q118470980-2.jpg",
+    "images/nabeyaki-egg-noodles-q118470980/nabeyaki-egg-noodles-q118470980-3.jpg",
+    "images/nabeyaki-egg-noodles-q118470980/nabeyaki-egg-noodles-q118470980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118470980",
+    "themealdb": null
+  }
+}

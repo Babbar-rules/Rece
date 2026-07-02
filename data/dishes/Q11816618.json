@@ -1,0 +1,20 @@
+{
+  "id": "Q11816618",
+  "name": "pierogi leniwe",
+  "description": "Polish dumplings",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pierogi-leniwe-q11816618/pierogi-leniwe-q11816618-1.jpg",
+    "images/pierogi-leniwe-q11816618/pierogi-leniwe-q11816618-2.jpg",
+    "images/pierogi-leniwe-q11816618/pierogi-leniwe-q11816618-3.jpg",
+    "images/pierogi-leniwe-q11816618/pierogi-leniwe-q11816618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11816618",
+    "themealdb": null
+  }
+}

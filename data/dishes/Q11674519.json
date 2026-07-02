@@ -1,0 +1,18 @@
+{
+  "id": "Q11674519",
+  "name": "Tottori gyūkotsu ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tottori-gyukotsu-ramen-q11674519/tottori-gyukotsu-ramen-q11674519-1.jpg",
+    "images/tottori-gyukotsu-ramen-q11674519/tottori-gyukotsu-ramen-q11674519-2.jpg",
+    "images/tottori-gyukotsu-ramen-q11674519/tottori-gyukotsu-ramen-q11674519-3.jpg",
+    "images/tottori-gyukotsu-ramen-q11674519/tottori-gyukotsu-ramen-q11674519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674519",
+    "themealdb": null
+  }
+}

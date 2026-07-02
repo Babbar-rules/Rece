@@ -1,0 +1,20 @@
+{
+  "id": "Q11675821",
+  "name": "Torisashi",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torisashi-q11675821/torisashi-q11675821-1.jpg",
+    "images/torisashi-q11675821/torisashi-q11675821-2.jpg",
+    "images/torisashi-q11675821/torisashi-q11675821-3.jpg",
+    "images/torisashi-q11675821/torisashi-q11675821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11675821",
+    "themealdb": null
+  }
+}

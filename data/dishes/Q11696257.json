@@ -1,0 +1,20 @@
+{
+  "id": "Q11696257",
+  "name": "Nürnberger Rostbratwurst",
+  "description": "German sausage",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nurnberger-rostbratwurst-q11696257/nurnberger-rostbratwurst-q11696257-1.jpg",
+    "images/nurnberger-rostbratwurst-q11696257/nurnberger-rostbratwurst-q11696257-2.jpg",
+    "images/nurnberger-rostbratwurst-q11696257/nurnberger-rostbratwurst-q11696257-3.jpg",
+    "images/nurnberger-rostbratwurst-q11696257/nurnberger-rostbratwurst-q11696257-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11696257",
+    "themealdb": null
+  }
+}

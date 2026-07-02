@@ -1,0 +1,19 @@
+{
+  "id": "Q116984509",
+  "name": "Nail Pita",
+  "description": "",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nail-pita-q116984509/nail-pita-q116984509-1.jpg",
+    "images/nail-pita-q116984509/nail-pita-q116984509-2.jpg",
+    "images/nail-pita-q116984509/nail-pita-q116984509-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116984509",
+    "themealdb": null
+  }
+}

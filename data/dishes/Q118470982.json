@@ -1,0 +1,20 @@
+{
+  "id": "Q118470982",
+  "name": "ì-mī",
+  "description": "",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/i-mi-q118470982/i-mi-q118470982-1.jpg",
+    "images/i-mi-q118470982/i-mi-q118470982-2.jpg",
+    "images/i-mi-q118470982/i-mi-q118470982-3.jpg",
+    "images/i-mi-q118470982/i-mi-q118470982-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118470982",
+    "themealdb": null
+  }
+}

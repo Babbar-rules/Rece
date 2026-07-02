@@ -1,0 +1,20 @@
+{
+  "id": "Q11675813",
+  "name": "keichan",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/keichan-q11675813/keichan-q11675813-1.jpg",
+    "images/keichan-q11675813/keichan-q11675813-2.jpg",
+    "images/keichan-q11675813/keichan-q11675813-3.jpg",
+    "images/keichan-q11675813/keichan-q11675813-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11675813",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q117861283",
+  "name": "poké bowl",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poke-bowl-q117861283/poke-bowl-q117861283-1.jpg",
+    "images/poke-bowl-q117861283/poke-bowl-q117861283-2.jpg",
+    "images/poke-bowl-q117861283/poke-bowl-q117861283-3.jpg",
+    "images/poke-bowl-q117861283/poke-bowl-q117861283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117861283",
+    "themealdb": null
+  }
+}

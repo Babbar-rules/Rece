@@ -1,0 +1,20 @@
+{
+  "id": "Q1185709",
+  "name": "kushikatsu",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kushikatsu-q1185709/kushikatsu-q1185709-1.jpg",
+    "images/kushikatsu-q1185709/kushikatsu-q1185709-2.jpg",
+    "images/kushikatsu-q1185709/kushikatsu-q1185709-3.jpg",
+    "images/kushikatsu-q1185709/kushikatsu-q1185709-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1185709",
+    "themealdb": null
+  }
+}

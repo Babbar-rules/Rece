@@ -1,0 +1,18 @@
+{
+  "id": "Q11676454",
+  "name": "shika-senbei",
+  "description": "senbei to be fed to deer in Nara Park in Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shika-senbei-q11676454/shika-senbei-q11676454-1.jpg",
+    "images/shika-senbei-q11676454/shika-senbei-q11676454-2.jpg",
+    "images/shika-senbei-q11676454/shika-senbei-q11676454-3.jpg",
+    "images/shika-senbei-q11676454/shika-senbei-q11676454-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11676454",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q118574815",
+  "name": "Victoria sponge",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/victoria-sponge-q118574815/victoria-sponge-q118574815-1.jpg",
+    "images/victoria-sponge-q118574815/victoria-sponge-q118574815-2.jpg",
+    "images/victoria-sponge-q118574815/victoria-sponge-q118574815-3.jpg",
+    "images/victoria-sponge-q118574815/victoria-sponge-q118574815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118574815",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11870615",
+  "name": "valašský frgál",
+  "description": "Czech cake",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/valassky-frgal-q11870615/valassky-frgal-q11870615-1.jpg",
+    "images/valassky-frgal-q11870615/valassky-frgal-q11870615-2.jpg",
+    "images/valassky-frgal-q11870615/valassky-frgal-q11870615-3.jpg",
+    "images/valassky-frgal-q11870615/valassky-frgal-q11870615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11870615",
+    "themealdb": null
+  }
+}

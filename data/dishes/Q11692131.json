@@ -1,0 +1,18 @@
+{
+  "id": "Q11692131",
+  "name": "Italian meringue",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-meringue-q11692131/italian-meringue-q11692131-1.jpg",
+    "images/italian-meringue-q11692131/italian-meringue-q11692131-2.jpg",
+    "images/italian-meringue-q11692131/italian-meringue-q11692131-3.jpg",
+    "images/italian-meringue-q11692131/italian-meringue-q11692131-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11692131",
+    "themealdb": null
+  }
+}

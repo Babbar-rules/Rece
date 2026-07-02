@@ -1,0 +1,21 @@
+{
+  "id": "Q116985058",
+  "name": "sonhos",
+  "description": "pastry typical of Madeira",
+  "nationality": [
+    "Portugal",
+    "Madeira"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sonhos-q116985058/sonhos-q116985058-1.jpg",
+    "images/sonhos-q116985058/sonhos-q116985058-2.jpg",
+    "images/sonhos-q116985058/sonhos-q116985058-3.jpg",
+    "images/sonhos-q116985058/sonhos-q116985058-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116985058",
+    "themealdb": null
+  }
+}

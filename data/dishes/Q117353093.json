@@ -1,0 +1,18 @@
+{
+  "id": "Q117353093",
+  "name": "hash cookie",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hash-cookie-q117353093/hash-cookie-q117353093-1.jpg",
+    "images/hash-cookie-q117353093/hash-cookie-q117353093-2.jpg",
+    "images/hash-cookie-q117353093/hash-cookie-q117353093-3.jpg",
+    "images/hash-cookie-q117353093/hash-cookie-q117353093-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117353093",
+    "themealdb": null
+  }
+}

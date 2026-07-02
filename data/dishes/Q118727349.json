@@ -1,0 +1,18 @@
+{
+  "id": "Q118727349",
+  "name": "Colorado-style pizza",
+  "description": "pizza served at the Beau Jo's pizza restaurant chain in Colorado, made with a braided crust topped with heavy amounts of sauce and cheese and served with honey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/colorado-style-pizza-q118727349/colorado-style-pizza-q118727349-1.jpg",
+    "images/colorado-style-pizza-q118727349/colorado-style-pizza-q118727349-2.jpg",
+    "images/colorado-style-pizza-q118727349/colorado-style-pizza-q118727349-3.jpg",
+    "images/colorado-style-pizza-q118727349/colorado-style-pizza-q118727349-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118727349",
+    "themealdb": null
+  }
+}

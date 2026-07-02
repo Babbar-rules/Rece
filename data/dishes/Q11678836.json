@@ -1,0 +1,20 @@
+{
+  "id": "Q11678836",
+  "name": "Kurobe Dam Curry",
+  "description": "Japanese rice curry with rice molded to mimic the Kurobe Dam",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kurobe-dam-curry-q11678836/kurobe-dam-curry-q11678836-1.jpg",
+    "images/kurobe-dam-curry-q11678836/kurobe-dam-curry-q11678836-2.jpg",
+    "images/kurobe-dam-curry-q11678836/kurobe-dam-curry-q11678836-3.jpg",
+    "images/kurobe-dam-curry-q11678836/kurobe-dam-curry-q11678836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11678836",
+    "themealdb": null
+  }
+}

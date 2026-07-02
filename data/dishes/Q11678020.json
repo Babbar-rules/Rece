@@ -1,0 +1,17 @@
+{
+  "id": "Q11678020",
+  "name": "Kuro zukuri",
+  "description": "salted squid with squid ink",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuro-zukuri-q11678020/kuro-zukuri-q11678020-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11678020",
+    "themealdb": null
+  }
+}

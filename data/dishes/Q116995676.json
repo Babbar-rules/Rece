@@ -1,0 +1,20 @@
+{
+  "id": "Q116995676",
+  "name": "salt and pepper pork chop",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/salt-and-pepper-pork-chop-q116995676/salt-and-pepper-pork-chop-q116995676-1.jpg",
+    "images/salt-and-pepper-pork-chop-q116995676/salt-and-pepper-pork-chop-q116995676-2.jpg",
+    "images/salt-and-pepper-pork-chop-q116995676/salt-and-pepper-pork-chop-q116995676-3.jpg",
+    "images/salt-and-pepper-pork-chop-q116995676/salt-and-pepper-pork-chop-q116995676-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116995676",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q11751674",
+  "name": "kwaśnica",
+  "description": "Polish sauerkraut soup",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kwasnica-q11751674/kwasnica-q11751674-1.jpg",
+    "images/kwasnica-q11751674/kwasnica-q11751674-2.jpg",
+    "images/kwasnica-q11751674/kwasnica-q11751674-3.jpg",
+    "images/kwasnica-q11751674/kwasnica-q11751674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11751674",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q118610443",
+  "name": "MARRON CORON",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/marron-coron-q118610443/marron-coron-q118610443-1.jpg",
+    "images/marron-coron-q118610443/marron-coron-q118610443-2.jpg",
+    "images/marron-coron-q118610443/marron-coron-q118610443-3.jpg",
+    "images/marron-coron-q118610443/marron-coron-q118610443-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118610443",
+    "themealdb": null
+  }
+}

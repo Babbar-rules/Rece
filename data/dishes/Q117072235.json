@@ -1,0 +1,18 @@
+{
+  "id": "Q117072235",
+  "name": "wafer",
+  "description": "thin type of biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wafer-q117072235/wafer-q117072235-1.jpg",
+    "images/wafer-q117072235/wafer-q117072235-2.jpg",
+    "images/wafer-q117072235/wafer-q117072235-3.jpg",
+    "images/wafer-q117072235/wafer-q117072235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117072235",
+    "themealdb": null
+  }
+}

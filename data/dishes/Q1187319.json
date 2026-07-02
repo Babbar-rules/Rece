@@ -1,0 +1,20 @@
+{
+  "id": "Q1187319",
+  "name": "barfi",
+  "description": "sweet confectionery from the Pakistani subcontinent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barfi-q1187319/barfi-q1187319-1.jpg",
+    "images/barfi-q1187319/barfi-q1187319-2.jpg",
+    "images/barfi-q1187319/barfi-q1187319-3.png",
+    "images/barfi-q1187319/barfi-q1187319-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1187319",
+    "themealdb": null
+  }
+}

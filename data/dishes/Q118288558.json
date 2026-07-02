@@ -1,0 +1,20 @@
+{
+  "id": "Q118288558",
+  "name": "kropsu",
+  "description": "",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kropsu-q118288558/kropsu-q118288558-1.jpg",
+    "images/kropsu-q118288558/kropsu-q118288558-2.jpg",
+    "images/kropsu-q118288558/kropsu-q118288558-3.jpg",
+    "images/kropsu-q118288558/kropsu-q118288558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118288558",
+    "themealdb": null
+  }
+}

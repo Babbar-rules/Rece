@@ -1,0 +1,22 @@
+{
+  "id": "Q11699222",
+  "name": "picatostes",
+  "description": "pieces of fried bread",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/picatostes-q11699222/picatostes-q11699222-1.jpg",
+    "images/picatostes-q11699222/picatostes-q11699222-2.jpg",
+    "images/picatostes-q11699222/picatostes-q11699222-3.jpg",
+    "images/picatostes-q11699222/picatostes-q11699222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11699222",
+    "themealdb": null
+  }
+}

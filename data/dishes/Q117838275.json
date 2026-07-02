@@ -1,0 +1,16 @@
+{
+  "id": "Q117838275",
+  "name": "Buzynnyk",
+  "description": "Elderberry dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buzynnyk-q117838275/buzynnyk-q117838275-1.jpg",
+    "images/buzynnyk-q117838275/buzynnyk-q117838275-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117838275",
+    "themealdb": null
+  }
+}

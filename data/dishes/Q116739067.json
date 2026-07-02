@@ -1,0 +1,21 @@
+{
+  "id": "Q116739067",
+  "name": "Bingka Barandam",
+  "description": "traditional Indonesian cake from South Kalimantan, made from duck eggs, flour and bingka sauce",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bingka-barandam-q116739067/bingka-barandam-q116739067-1.jpg",
+    "images/bingka-barandam-q116739067/bingka-barandam-q116739067-2.jpg",
+    "images/bingka-barandam-q116739067/bingka-barandam-q116739067-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q116739067",
+    "themealdb": null
+  }
+}

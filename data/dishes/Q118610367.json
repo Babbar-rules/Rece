@@ -1,0 +1,18 @@
+{
+  "id": "Q118610367",
+  "name": "Northman",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/northman-q118610367/northman-q118610367-1.jpg",
+    "images/northman-q118610367/northman-q118610367-2.jpg",
+    "images/northman-q118610367/northman-q118610367-3.jpg",
+    "images/northman-q118610367/northman-q118610367-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118610367",
+    "themealdb": null
+  }
+}

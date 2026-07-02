@@ -1,0 +1,22 @@
+{
+  "id": "Q11771087",
+  "name": "Masala dosa",
+  "description": "a variant of South Indian food dosa",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Udupi cuisine"
+  ],
+  "images": [
+    "images/masala-dosa-q11771087/masala-dosa-q11771087-1.jpg",
+    "images/masala-dosa-q11771087/masala-dosa-q11771087-2.jpg",
+    "images/masala-dosa-q11771087/masala-dosa-q11771087-3.jpg",
+    "images/masala-dosa-q11771087/masala-dosa-q11771087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11771087",
+    "themealdb": null
+  }
+}

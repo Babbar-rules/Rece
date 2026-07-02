@@ -1,0 +1,18 @@
+{
+  "id": "Q118746871",
+  "name": "chocolate cheesecake",
+  "description": "cheesecake made with chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-cheesecake-q118746871/chocolate-cheesecake-q118746871-1.jpg",
+    "images/chocolate-cheesecake-q118746871/chocolate-cheesecake-q118746871-2.jpg",
+    "images/chocolate-cheesecake-q118746871/chocolate-cheesecake-q118746871-3.jpg",
+    "images/chocolate-cheesecake-q118746871/chocolate-cheesecake-q118746871-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118746871",
+    "themealdb": null
+  }
+}

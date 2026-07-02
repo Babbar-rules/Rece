@@ -1,0 +1,20 @@
+{
+  "id": "Q11837128",
+  "name": "trenne",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trenne-q11837128/trenne-q11837128-1.jpg",
+    "images/trenne-q11837128/trenne-q11837128-2.jpg",
+    "images/trenne-q11837128/trenne-q11837128-3.jpg",
+    "images/trenne-q11837128/trenne-q11837128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11837128",
+    "themealdb": null
+  }
+}

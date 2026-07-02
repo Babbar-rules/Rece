@@ -1,0 +1,20 @@
+{
+  "id": "Q11691713",
+  "name": "mazapán de Toledo",
+  "description": "marzipan from Toledo",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mazapan-de-toledo-q11691713/mazapan-de-toledo-q11691713-1.jpg",
+    "images/mazapan-de-toledo-q11691713/mazapan-de-toledo-q11691713-2.jpg",
+    "images/mazapan-de-toledo-q11691713/mazapan-de-toledo-q11691713-3.jpg",
+    "images/mazapan-de-toledo-q11691713/mazapan-de-toledo-q11691713-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11691713",
+    "themealdb": null
+  }
+}

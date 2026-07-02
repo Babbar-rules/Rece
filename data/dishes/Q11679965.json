@@ -1,0 +1,22 @@
+{
+  "id": "Q11679965",
+  "name": "Arròs al forn",
+  "description": "Rice dish made in the oven",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Valencian cuisine"
+  ],
+  "images": [
+    "images/arros-al-forn-q11679965/arros-al-forn-q11679965-1.jpg",
+    "images/arros-al-forn-q11679965/arros-al-forn-q11679965-2.jpg",
+    "images/arros-al-forn-q11679965/arros-al-forn-q11679965-3.jpg",
+    "images/arros-al-forn-q11679965/arros-al-forn-q11679965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11679965",
+    "themealdb": null
+  }
+}

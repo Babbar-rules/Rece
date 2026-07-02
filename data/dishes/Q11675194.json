@@ -1,0 +1,20 @@
+{
+  "id": "Q11675194",
+  "name": "Hato Sablés",
+  "description": "Japanese pastry",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hato-sables-q11675194/hato-sables-q11675194-1.jpg",
+    "images/hato-sables-q11675194/hato-sables-q11675194-2.jpg",
+    "images/hato-sables-q11675194/hato-sables-q11675194-3.jpg",
+    "images/hato-sables-q11675194/hato-sables-q11675194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11675194",
+    "themealdb": null
+  }
+}

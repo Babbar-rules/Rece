@@ -1,0 +1,22 @@
+{
+  "id": "Q117148246",
+  "name": "Samarkand non",
+  "description": "Uzbek bread",
+  "nationality": [
+    "Uzbekistan"
+  ],
+  "region_cuisine": [
+    "Cuisine of Uzbekistan"
+  ],
+  "images": [
+    "images/samarkand-non-q117148246/samarkand-non-q117148246-1.jpg",
+    "images/samarkand-non-q117148246/samarkand-non-q117148246-2.jpg",
+    "images/samarkand-non-q117148246/samarkand-non-q117148246-3.jpg",
+    "images/samarkand-non-q117148246/samarkand-non-q117148246-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117148246",
+    "themealdb": null
+  }
+}

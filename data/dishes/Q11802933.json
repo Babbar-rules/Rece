@@ -1,0 +1,18 @@
+{
+  "id": "Q11802933",
+  "name": "paprykarz szczeciński",
+  "description": "Polish canned fish spread made from ground fish, rice, tomato paste and vegetable oil, seasoned with onion, salt and spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paprykarz-szczecinski-q11802933/paprykarz-szczecinski-q11802933-1.jpg",
+    "images/paprykarz-szczecinski-q11802933/paprykarz-szczecinski-q11802933-2.jpg",
+    "images/paprykarz-szczecinski-q11802933/paprykarz-szczecinski-q11802933-3.jpg",
+    "images/paprykarz-szczecinski-q11802933/paprykarz-szczecinski-q11802933-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11802933",
+    "themealdb": null
+  }
+}

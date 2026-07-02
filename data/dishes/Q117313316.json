@@ -1,0 +1,20 @@
+{
+  "id": "Q117313316",
+  "name": "Šúľance",
+  "description": "a dish of Slovak cuisine prepared from eggs, flour, salt, boiled and grated potatoes",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sulance-q117313316/sulance-q117313316-1.jpg",
+    "images/sulance-q117313316/sulance-q117313316-2.png",
+    "images/sulance-q117313316/sulance-q117313316-3.png",
+    "images/sulance-q117313316/sulance-q117313316-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q117313316",
+    "themealdb": null
+  }
+}

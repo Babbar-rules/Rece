@@ -1,0 +1,20 @@
+{
+  "id": "Q11674158",
+  "name": "ayu-zushi",
+  "description": "kind of sushi made with ayu (Plecoglossus altivelis)",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayu-zushi-q11674158/ayu-zushi-q11674158-1.jpg",
+    "images/ayu-zushi-q11674158/ayu-zushi-q11674158-2.jpg",
+    "images/ayu-zushi-q11674158/ayu-zushi-q11674158-3.jpg",
+    "images/ayu-zushi-q11674158/ayu-zushi-q11674158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11674158",
+    "themealdb": null
+  }
+}
