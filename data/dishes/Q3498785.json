@@ -1,0 +1,17 @@
+{
+  "id": "Q3498785",
+  "name": "demikát",
+  "description": "Slovak soup",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/demikat-q3498785/demikat-q3498785-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3498785",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3509626",
+  "name": "szarlotka",
+  "description": "Polish apple pie – apple filling on a shortcrust pastry base, covered with a layer of meringue and grated dough",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/szarlotka-q3509626/szarlotka-q3509626-1.jpg",
+    "images/szarlotka-q3509626/szarlotka-q3509626-2.jpg",
+    "images/szarlotka-q3509626/szarlotka-q3509626-3.jpg",
+    "images/szarlotka-q3509626/szarlotka-q3509626-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3509626",
+    "themealdb": null
+  }
+}

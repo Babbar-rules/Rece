@@ -1,0 +1,18 @@
+{
+  "id": "Q3528208",
+  "name": "Tielle",
+  "description": "type of pie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tielle-q3528208/tielle-q3528208-1.jpg",
+    "images/tielle-q3528208/tielle-q3528208-2.jpg",
+    "images/tielle-q3528208/tielle-q3528208-3.jpg",
+    "images/tielle-q3528208/tielle-q3528208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3528208",
+    "themealdb": null
+  }
+}

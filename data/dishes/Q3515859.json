@@ -1,0 +1,20 @@
+{
+  "id": "Q3515859",
+  "name": "Tarte Tropézienne",
+  "description": "French dessert pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-tropezienne-q3515859/tarte-tropezienne-q3515859-1.jpg",
+    "images/tarte-tropezienne-q3515859/tarte-tropezienne-q3515859-2.jpg",
+    "images/tarte-tropezienne-q3515859/tarte-tropezienne-q3515859-3.jpg",
+    "images/tarte-tropezienne-q3515859/tarte-tropezienne-q3515859-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3515859",
+    "themealdb": null
+  }
+}

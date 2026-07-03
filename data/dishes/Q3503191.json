@@ -1,0 +1,18 @@
+{
+  "id": "Q3503191",
+  "name": "Suisse de Valence",
+  "description": "French man-shaped cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suisse-de-valence-q3503191/suisse-de-valence-q3503191-1.jpg",
+    "images/suisse-de-valence-q3503191/suisse-de-valence-q3503191-2.jpg",
+    "images/suisse-de-valence-q3503191/suisse-de-valence-q3503191-3.jpg",
+    "images/suisse-de-valence-q3503191/suisse-de-valence-q3503191-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3503191",
+    "themealdb": null
+  }
+}

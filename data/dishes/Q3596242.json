@@ -1,0 +1,19 @@
+{
+  "id": "Q3596242",
+  "name": "'O pere e 'o musso",
+  "description": "Italian street food from Naples",
+  "nationality": [
+    "Campania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/o-pere-e-o-musso-q3596242/o-pere-e-o-musso-q3596242-1.jpg",
+    "images/o-pere-e-o-musso-q3596242/o-pere-e-o-musso-q3596242-2.jpg",
+    "images/o-pere-e-o-musso-q3596242/o-pere-e-o-musso-q3596242-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3596242",
+    "themealdb": null
+  }
+}

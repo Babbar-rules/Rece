@@ -1,0 +1,22 @@
+{
+  "id": "Q3500519",
+  "name": "stromboli",
+  "description": "savory turnover",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Italian-American cuisine"
+  ],
+  "images": [
+    "images/stromboli-q3500519/stromboli-q3500519-1.jpg",
+    "images/stromboli-q3500519/stromboli-q3500519-2.jpg",
+    "images/stromboli-q3500519/stromboli-q3500519-3.jpg",
+    "images/stromboli-q3500519/stromboli-q3500519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3500519",
+    "themealdb": null
+  }
+}

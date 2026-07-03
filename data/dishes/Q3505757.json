@@ -1,0 +1,23 @@
+{
+  "id": "Q3505757",
+  "name": "sautéed reindeer",
+  "description": "traditional meal from Lapland and Sakha (Yakutia)",
+  "nationality": [
+    "Norway",
+    "Finland",
+    "Sweden",
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-reindeer-q3505757/sauteed-reindeer-q3505757-1.jpg",
+    "images/sauteed-reindeer-q3505757/sauteed-reindeer-q3505757-2.jpg",
+    "images/sauteed-reindeer-q3505757/sauteed-reindeer-q3505757-3.jpg",
+    "images/sauteed-reindeer-q3505757/sauteed-reindeer-q3505757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3505757",
+    "themealdb": null
+  }
+}

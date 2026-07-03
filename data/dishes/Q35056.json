@@ -1,0 +1,21 @@
+{
+  "id": "Q35056",
+  "name": "Angel wings",
+  "description": "sweet crisp pastry",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/angel-wings-q35056/angel-wings-q35056-1.jpg",
+    "images/angel-wings-q35056/angel-wings-q35056-2.jpg",
+    "images/angel-wings-q35056/angel-wings-q35056-3.jpg",
+    "images/angel-wings-q35056/angel-wings-q35056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q35056",
+    "themealdb": null
+  }
+}

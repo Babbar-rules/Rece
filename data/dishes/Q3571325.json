@@ -1,0 +1,20 @@
+{
+  "id": "Q3571325",
+  "name": "Chireta",
+  "description": "aragonese type of savoury pudding",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chireta-q3571325/chireta-q3571325-1.jpg",
+    "images/chireta-q3571325/chireta-q3571325-2.jpg",
+    "images/chireta-q3571325/chireta-q3571325-3.jpg",
+    "images/chireta-q3571325/chireta-q3571325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3571325",
+    "themealdb": null
+  }
+}

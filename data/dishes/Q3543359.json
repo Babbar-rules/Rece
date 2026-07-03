@@ -1,0 +1,20 @@
+{
+  "id": "Q3543359",
+  "name": "Kaldereta",
+  "description": "goat meat stew from the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaldereta-q3543359/kaldereta-q3543359-1.jpg",
+    "images/kaldereta-q3543359/kaldereta-q3543359-2.jpg",
+    "images/kaldereta-q3543359/kaldereta-q3543359-3.jpg",
+    "images/kaldereta-q3543359/kaldereta-q3543359-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543359",
+    "themealdb": null
+  }
+}

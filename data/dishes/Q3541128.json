@@ -1,0 +1,19 @@
+{
+  "id": "Q3541128",
+  "name": "truite au bleu",
+  "description": "French fish dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/truite-au-bleu-q3541128/truite-au-bleu-q3541128-1.jpg",
+    "images/truite-au-bleu-q3541128/truite-au-bleu-q3541128-2.jpg",
+    "images/truite-au-bleu-q3541128/truite-au-bleu-q3541128-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3541128",
+    "themealdb": null
+  }
+}

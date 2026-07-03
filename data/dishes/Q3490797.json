@@ -1,0 +1,18 @@
+{
+  "id": "Q3490797",
+  "name": "Sopa de mondongo",
+  "description": "spanish-origin dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sopa-de-mondongo-q3490797/sopa-de-mondongo-q3490797-1.jpg",
+    "images/sopa-de-mondongo-q3490797/sopa-de-mondongo-q3490797-2.jpg",
+    "images/sopa-de-mondongo-q3490797/sopa-de-mondongo-q3490797-3.jpg",
+    "images/sopa-de-mondongo-q3490797/sopa-de-mondongo-q3490797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3490797",
+    "themealdb": null
+  }
+}

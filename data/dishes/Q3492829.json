@@ -1,0 +1,18 @@
+{
+  "id": "Q3492829",
+  "name": "Special K",
+  "description": "brand of cereal foods",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/special-k-q3492829/special-k-q3492829-1.jpg",
+    "images/special-k-q3492829/special-k-q3492829-2.jpg",
+    "images/special-k-q3492829/special-k-q3492829-3.jpg",
+    "images/special-k-q3492829/special-k-q3492829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3492829",
+    "themealdb": null
+  }
+}

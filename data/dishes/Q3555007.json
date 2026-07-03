@@ -1,0 +1,19 @@
+{
+  "id": "Q3555007",
+  "name": "Vastedda",
+  "description": "type of Sicilian bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vastedda-q3555007/vastedda-q3555007-1.jpg",
+    "images/vastedda-q3555007/vastedda-q3555007-2.jpg",
+    "images/vastedda-q3555007/vastedda-q3555007-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3555007",
+    "themealdb": null
+  }
+}

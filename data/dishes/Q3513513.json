@@ -1,0 +1,22 @@
+{
+  "id": "Q3513513",
+  "name": "tablier de sapeur",
+  "description": "Lyonnais dish made from beef tripe",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "Lyonnaise cuisine"
+  ],
+  "images": [
+    "images/tablier-de-sapeur-q3513513/tablier-de-sapeur-q3513513-1.jpg",
+    "images/tablier-de-sapeur-q3513513/tablier-de-sapeur-q3513513-2.jpg",
+    "images/tablier-de-sapeur-q3513513/tablier-de-sapeur-q3513513-3.jpg",
+    "images/tablier-de-sapeur-q3513513/tablier-de-sapeur-q3513513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3513513",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3548107",
+  "name": "tahô",
+  "description": "Philippine snack food",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taho-q3548107/taho-q3548107-1.jpg",
+    "images/taho-q3548107/taho-q3548107-2.jpg",
+    "images/taho-q3548107/taho-q3548107-3.jpg",
+    "images/taho-q3548107/taho-q3548107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3548107",
+    "themealdb": null
+  }
+}

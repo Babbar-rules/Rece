@@ -1,0 +1,22 @@
+{
+  "id": "Q3541706",
+  "name": "ttoro",
+  "description": "Basque fish stew",
+  "nationality": [
+    "Labourd"
+  ],
+  "region_cuisine": [
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/ttoro-q3541706/ttoro-q3541706-1.jpg",
+    "images/ttoro-q3541706/ttoro-q3541706-2.jpg",
+    "images/ttoro-q3541706/ttoro-q3541706-3.jpg",
+    "images/ttoro-q3541706/ttoro-q3541706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3541706",
+    "themealdb": null
+  }
+}

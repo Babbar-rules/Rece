@@ -1,0 +1,18 @@
+{
+  "id": "Q3501098",
+  "name": "stufat",
+  "description": "Romanian meat stew",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stufat-q3501098/stufat-q3501098-1.jpg",
+    "images/stufat-q3501098/stufat-q3501098-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3501098",
+    "themealdb": null
+  }
+}

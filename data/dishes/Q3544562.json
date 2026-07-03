@@ -1,0 +1,20 @@
+{
+  "id": "Q3544562",
+  "name": "sinigang",
+  "description": "Filipino sour soup",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sinigang-q3544562/sinigang-q3544562-1.jpg",
+    "images/sinigang-q3544562/sinigang-q3544562-2.jpg",
+    "images/sinigang-q3544562/sinigang-q3544562-3.jpg",
+    "images/sinigang-q3544562/sinigang-q3544562-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3544562",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q34807",
+  "name": "foie gras",
+  "description": "French culinary dish",
+  "nationality": [
+    "France",
+    "Ancient Egypt"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/foie-gras-q34807/foie-gras-q34807-1.jpg",
+    "images/foie-gras-q34807/foie-gras-q34807-2.jpg",
+    "images/foie-gras-q34807/foie-gras-q34807-3.jpg",
+    "images/foie-gras-q34807/foie-gras-q34807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q34807",
+    "themealdb": null
+  }
+}

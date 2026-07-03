@@ -1,0 +1,18 @@
+{
+  "id": "Q3545686",
+  "name": "mote",
+  "description": "corn kernels boiled in lime",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mote-q3545686/mote-q3545686-1.jpg",
+    "images/mote-q3545686/mote-q3545686-2.jpg",
+    "images/mote-q3545686/mote-q3545686-3.jpg",
+    "images/mote-q3545686/mote-q3545686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3545686",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3621271",
+  "name": "Arancini",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arancini-q3621271/arancini-q3621271-1.jpg",
+    "images/arancini-q3621271/arancini-q3621271-2.jpg",
+    "images/arancini-q3621271/arancini-q3621271-3.jpg",
+    "images/arancini-q3621271/arancini-q3621271-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3621271",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q3553945",
+  "name": "Vallée d’Aoste Jambon de Bosses",
+  "description": "ham product",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3553945",
+    "themealdb": null
+  }
+}

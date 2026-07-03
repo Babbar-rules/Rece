@@ -1,0 +1,20 @@
+{
+  "id": "Q3515861",
+  "name": "Norman Tart",
+  "description": "French almond dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/norman-tart-q3515861/norman-tart-q3515861-1.jpg",
+    "images/norman-tart-q3515861/norman-tart-q3515861-2.jpg",
+    "images/norman-tart-q3515861/norman-tart-q3515861-3.jpg",
+    "images/norman-tart-q3515861/norman-tart-q3515861-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3515861",
+    "themealdb": null
+  }
+}

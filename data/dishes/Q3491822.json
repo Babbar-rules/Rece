@@ -1,0 +1,19 @@
+{
+  "id": "Q3491822",
+  "name": "Sétoise fish soup",
+  "description": "French fish soup",
+  "nationality": [],
+  "region_cuisine": [
+    "Occitan cuisine"
+  ],
+  "images": [
+    "images/setoise-fish-soup-q3491822/setoise-fish-soup-q3491822-1.jpg",
+    "images/setoise-fish-soup-q3491822/setoise-fish-soup-q3491822-2.jpg",
+    "images/setoise-fish-soup-q3491822/setoise-fish-soup-q3491822-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3491822",
+    "themealdb": null
+  }
+}

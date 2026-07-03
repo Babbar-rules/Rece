@@ -1,0 +1,18 @@
+{
+  "id": "Q3632870",
+  "name": "Baghara baingan",
+  "description": "Hyderabadi cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baghara-baingan-q3632870/baghara-baingan-q3632870-1.jpg",
+    "images/baghara-baingan-q3632870/baghara-baingan-q3632870-2.jpg",
+    "images/baghara-baingan-q3632870/baghara-baingan-q3632870-3.jpg",
+    "images/baghara-baingan-q3632870/baghara-baingan-q3632870-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3632870",
+    "themealdb": null
+  }
+}

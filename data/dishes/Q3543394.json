@@ -1,0 +1,23 @@
+{
+  "id": "Q3543394",
+  "name": "Arròs negre",
+  "description": "Valencian and Catalan dish made with cuttlefish (or squid) and rice",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Catalan cuisine",
+    "Valencian cuisine"
+  ],
+  "images": [
+    "images/arros-negre-q3543394/arros-negre-q3543394-1.jpg",
+    "images/arros-negre-q3543394/arros-negre-q3543394-2.png",
+    "images/arros-negre-q3543394/arros-negre-q3543394-3.jpg",
+    "images/arros-negre-q3543394/arros-negre-q3543394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543394",
+    "themealdb": null
+  }
+}

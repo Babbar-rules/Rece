@@ -1,0 +1,18 @@
+{
+  "id": "Q3480481",
+  "name": "Ábrystir",
+  "description": "Icelandic dessert",
+  "nationality": [
+    "Iceland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/abrystir-q3480481/abrystir-q3480481-1.jpg",
+    "images/abrystir-q3480481/abrystir-q3480481-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3480481",
+    "themealdb": null
+  }
+}

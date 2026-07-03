@@ -1,0 +1,18 @@
+{
+  "id": "Q3494357",
+  "name": "culinary speciality",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/culinary-speciality-q3494357/culinary-speciality-q3494357-1.jpg",
+    "images/culinary-speciality-q3494357/culinary-speciality-q3494357-2.jpg",
+    "images/culinary-speciality-q3494357/culinary-speciality-q3494357-3.jpg",
+    "images/culinary-speciality-q3494357/culinary-speciality-q3494357-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3494357",
+    "themealdb": null
+  }
+}

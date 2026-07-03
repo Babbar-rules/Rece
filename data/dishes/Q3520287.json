@@ -1,0 +1,21 @@
+{
+  "id": "Q3520287",
+  "name": "Puttu",
+  "description": "South Indian breakfast dish of steamed ground rice and coconut shavings",
+  "nationality": [
+    "India",
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puttu-q3520287/puttu-q3520287-1.jpg",
+    "images/puttu-q3520287/puttu-q3520287-2.jpg",
+    "images/puttu-q3520287/puttu-q3520287-3.jpg",
+    "images/puttu-q3520287/puttu-q3520287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3520287",
+    "themealdb": null
+  }
+}

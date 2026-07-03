@@ -1,0 +1,18 @@
+{
+  "id": "Q3497102",
+  "name": "Starburst",
+  "description": "brand of chewy fruit-flavored candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/starburst-q3497102/starburst-q3497102-1.jpg",
+    "images/starburst-q3497102/starburst-q3497102-2.jpg",
+    "images/starburst-q3497102/starburst-q3497102-3.jpg",
+    "images/starburst-q3497102/starburst-q3497102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3497102",
+    "themealdb": null
+  }
+}

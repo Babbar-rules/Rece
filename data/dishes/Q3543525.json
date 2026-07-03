@@ -1,0 +1,20 @@
+{
+  "id": "Q3543525",
+  "name": "Dinuguan",
+  "description": "Filipino savory stew",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dinuguan-q3543525/dinuguan-q3543525-1.jpg",
+    "images/dinuguan-q3543525/dinuguan-q3543525-2.jpg",
+    "images/dinuguan-q3543525/dinuguan-q3543525-3.jpg",
+    "images/dinuguan-q3543525/dinuguan-q3543525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543525",
+    "themealdb": null
+  }
+}

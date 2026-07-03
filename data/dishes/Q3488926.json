@@ -1,0 +1,20 @@
+{
+  "id": "Q3488926",
+  "name": "Sohlob",
+  "description": "dessert",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sohlob-q3488926/sohlob-q3488926-1.jpg",
+    "images/sohlob-q3488926/sohlob-q3488926-2.jpg",
+    "images/sohlob-q3488926/sohlob-q3488926-3.jpg",
+    "images/sohlob-q3488926/sohlob-q3488926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3488926",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3531005",
+  "name": "Tomates à la provençale",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tomates-a-la-provencale-q3531005/tomates-a-la-provencale-q3531005-1.jpg",
+    "images/tomates-a-la-provencale-q3531005/tomates-a-la-provencale-q3531005-2.jpg",
+    "images/tomates-a-la-provencale-q3531005/tomates-a-la-provencale-q3531005-3.jpg",
+    "images/tomates-a-la-provencale-q3531005/tomates-a-la-provencale-q3531005-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3531005",
+    "themealdb": null
+  }
+}

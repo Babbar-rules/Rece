@@ -1,0 +1,22 @@
+{
+  "id": "Q352253",
+  "name": "Adana kebabı",
+  "description": "kebab from the Turkish cuisine, originating from the southern city of Adana",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/adana-kebab-q352253/adana-kebab-q352253-1.jpg",
+    "images/adana-kebab-q352253/adana-kebab-q352253-2.jpg",
+    "images/adana-kebab-q352253/adana-kebab-q352253-3.jpg",
+    "images/adana-kebab-q352253/adana-kebab-q352253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q352253",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3599457",
+  "name": "5 e 5",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/5-e-5-q3599457/5-e-5-q3599457-1.jpg",
+    "images/5-e-5-q3599457/5-e-5-q3599457-2.jpg",
+    "images/5-e-5-q3599457/5-e-5-q3599457-3.jpg",
+    "images/5-e-5-q3599457/5-e-5-q3599457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3599457",
+    "themealdb": null
+  }
+}

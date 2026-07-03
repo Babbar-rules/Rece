@@ -1,0 +1,20 @@
+{
+  "id": "Q3545233",
+  "name": "champorado",
+  "description": "chocolate rice porridge made in the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/champorado-q3545233/champorado-q3545233-1.jpg",
+    "images/champorado-q3545233/champorado-q3545233-2.jpg",
+    "images/champorado-q3545233/champorado-q3545233-3.jpg",
+    "images/champorado-q3545233/champorado-q3545233-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3545233",
+    "themealdb": null
+  }
+}

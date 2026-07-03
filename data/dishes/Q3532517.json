@@ -1,0 +1,20 @@
+{
+  "id": "Q3532517",
+  "name": "tortelli di patate",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortelli-di-patate-q3532517/tortelli-di-patate-q3532517-1.jpg",
+    "images/tortelli-di-patate-q3532517/tortelli-di-patate-q3532517-2.jpg",
+    "images/tortelli-di-patate-q3532517/tortelli-di-patate-q3532517-3.jpg",
+    "images/tortelli-di-patate-q3532517/tortelli-di-patate-q3532517-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3532517",
+    "themealdb": null
+  }
+}

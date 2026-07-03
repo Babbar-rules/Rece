@@ -1,0 +1,20 @@
+{
+  "id": "Q3543297",
+  "name": "puto",
+  "description": "type of steamed rice cake",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puto-q3543297/puto-q3543297-1.jpg",
+    "images/puto-q3543297/puto-q3543297-2.jpg",
+    "images/puto-q3543297/puto-q3543297-3.jpg",
+    "images/puto-q3543297/puto-q3543297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543297",
+    "themealdb": null
+  }
+}

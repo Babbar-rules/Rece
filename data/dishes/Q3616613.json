@@ -1,0 +1,20 @@
+{
+  "id": "Q3616613",
+  "name": "Anello di Monaco",
+  "description": "Italian sweet bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anello-di-monaco-q3616613/anello-di-monaco-q3616613-1.jpg",
+    "images/anello-di-monaco-q3616613/anello-di-monaco-q3616613-2.jpg",
+    "images/anello-di-monaco-q3616613/anello-di-monaco-q3616613-3.jpg",
+    "images/anello-di-monaco-q3616613/anello-di-monaco-q3616613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3616613",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3515850",
+  "name": "Maroilles tart",
+  "description": "savoury tart made using Maroilles cheese",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/maroilles-tart-q3515850/maroilles-tart-q3515850-1.jpg",
+    "images/maroilles-tart-q3515850/maroilles-tart-q3515850-2.jpg",
+    "images/maroilles-tart-q3515850/maroilles-tart-q3515850-3.jpg",
+    "images/maroilles-tart-q3515850/maroilles-tart-q3515850-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3515850",
+    "themealdb": null
+  }
+}

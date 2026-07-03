@@ -1,0 +1,20 @@
+{
+  "id": "Q3543397",
+  "name": "Espasol",
+  "description": "cylinder-shaped Filipino rice cake",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/espasol-q3543397/espasol-q3543397-1.jpg",
+    "images/espasol-q3543397/espasol-q3543397-2.jpg",
+    "images/espasol-q3543397/espasol-q3543397-3.jpg",
+    "images/espasol-q3543397/espasol-q3543397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543397",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3595555",
+  "name": "Keema curry",
+  "description": "",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/keema-curry-q3595555/keema-curry-q3595555-1.jpg",
+    "images/keema-curry-q3595555/keema-curry-q3595555-2.jpg",
+    "images/keema-curry-q3595555/keema-curry-q3595555-3.jpg",
+    "images/keema-curry-q3595555/keema-curry-q3595555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3595555",
+    "themealdb": null
+  }
+}

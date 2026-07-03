@@ -1,0 +1,20 @@
+{
+  "id": "Q3596097",
+  "name": "tomato sauce",
+  "description": "sauce made primarily from tomatoes",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomato-sauce-q3596097/tomato-sauce-q3596097-1.jpg",
+    "images/tomato-sauce-q3596097/tomato-sauce-q3596097-2.jpg",
+    "images/tomato-sauce-q3596097/tomato-sauce-q3596097-3.jpg",
+    "images/tomato-sauce-q3596097/tomato-sauce-q3596097-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3596097",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3514033",
+  "name": "Taillé aux greubons",
+  "description": "Swiss pastry baked with pieces of pork rind",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taille-aux-greubons-q3514033/taille-aux-greubons-q3514033-1.jpg",
+    "images/taille-aux-greubons-q3514033/taille-aux-greubons-q3514033-2.jpg",
+    "images/taille-aux-greubons-q3514033/taille-aux-greubons-q3514033-3.jpg",
+    "images/taille-aux-greubons-q3514033/taille-aux-greubons-q3514033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3514033",
+    "themealdb": null
+  }
+}

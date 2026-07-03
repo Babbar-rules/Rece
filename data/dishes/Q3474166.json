@@ -1,0 +1,19 @@
+{
+  "id": "Q3474166",
+  "name": "Pleșcoi sausages",
+  "description": "Romanian sausage",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/plescoi-sausages-q3474166/plescoi-sausages-q3474166-1.jpg",
+    "images/plescoi-sausages-q3474166/plescoi-sausages-q3474166-2.jpg",
+    "images/plescoi-sausages-q3474166/plescoi-sausages-q3474166-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3474166",
+    "themealdb": null
+  }
+}

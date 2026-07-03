@@ -1,0 +1,18 @@
+{
+  "id": "Q36180436",
+  "name": "goat milk ice cream",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-milk-ice-cream-q36180436/goat-milk-ice-cream-q36180436-1.jpg",
+    "images/goat-milk-ice-cream-q36180436/goat-milk-ice-cream-q36180436-2.jpg",
+    "images/goat-milk-ice-cream-q36180436/goat-milk-ice-cream-q36180436-3.jpg",
+    "images/goat-milk-ice-cream-q36180436/goat-milk-ice-cream-q36180436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36180436",
+    "themealdb": null
+  }
+}

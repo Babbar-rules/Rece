@@ -1,0 +1,20 @@
+{
+  "id": "Q3543686",
+  "name": "ginataan",
+  "description": "Filipino dish made with coconut milk",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataan-q3543686/ginataan-q3543686-1.jpg",
+    "images/ginataan-q3543686/ginataan-q3543686-2.jpg",
+    "images/ginataan-q3543686/ginataan-q3543686-3.jpg",
+    "images/ginataan-q3543686/ginataan-q3543686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543686",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3595628",
+  "name": "Pathiri",
+  "description": "Indian Food",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pathiri-q3595628/pathiri-q3595628-1.jpg",
+    "images/pathiri-q3595628/pathiri-q3595628-2.jpg",
+    "images/pathiri-q3595628/pathiri-q3595628-3.jpg",
+    "images/pathiri-q3595628/pathiri-q3595628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3595628",
+    "themealdb": null
+  }
+}

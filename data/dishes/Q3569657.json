@@ -1,0 +1,18 @@
+{
+  "id": "Q3569657",
+  "name": "Gebrochts",
+  "description": "matzo that has absorbed liquid",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gebrochts-q3569657/gebrochts-q3569657-1.jpg",
+    "images/gebrochts-q3569657/gebrochts-q3569657-2.jpg",
+    "images/gebrochts-q3569657/gebrochts-q3569657-3.jpg",
+    "images/gebrochts-q3569657/gebrochts-q3569657-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3569657",
+    "themealdb": null
+  }
+}

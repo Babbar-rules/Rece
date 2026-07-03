@@ -1,0 +1,18 @@
+{
+  "id": "Q3573091",
+  "name": "yuanxiao",
+  "description": "glutinous rice dish shaken from fillings, different from Tangyuan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yuanxiao-q3573091/yuanxiao-q3573091-1.jpg",
+    "images/yuanxiao-q3573091/yuanxiao-q3573091-2.jpg",
+    "images/yuanxiao-q3573091/yuanxiao-q3573091-3.jpg",
+    "images/yuanxiao-q3573091/yuanxiao-q3573091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3573091",
+    "themealdb": null
+  }
+}

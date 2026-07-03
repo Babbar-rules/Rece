@@ -1,0 +1,22 @@
+{
+  "id": "Q3478195",
+  "name": "Sellu",
+  "description": "maroccan pastry",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [
+    "Moroccan cuisine"
+  ],
+  "images": [
+    "images/sellu-q3478195/sellu-q3478195-1.jpg",
+    "images/sellu-q3478195/sellu-q3478195-2.jpg",
+    "images/sellu-q3478195/sellu-q3478195-3.jpg",
+    "images/sellu-q3478195/sellu-q3478195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3478195",
+    "themealdb": null
+  }
+}

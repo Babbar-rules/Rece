@@ -1,0 +1,18 @@
+{
+  "id": "Q3499420",
+  "name": "stifado",
+  "description": "stew made from meat, onions and tomatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stifado-q3499420/stifado-q3499420-1.jpg",
+    "images/stifado-q3499420/stifado-q3499420-2.jpg",
+    "images/stifado-q3499420/stifado-q3499420-3.jpg",
+    "images/stifado-q3499420/stifado-q3499420-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3499420",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3509587",
+  "name": "agemochi",
+  "description": "snack",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/agemochi-q3509587/agemochi-q3509587-1.jpg",
+    "images/agemochi-q3509587/agemochi-q3509587-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3509587",
+    "themealdb": null
+  }
+}

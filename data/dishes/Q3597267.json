@@ -1,0 +1,22 @@
+{
+  "id": "Q3597267",
+  "name": "Black sesame roll",
+  "description": "Refrigerated dim sum dessert",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/black-sesame-roll-q3597267/black-sesame-roll-q3597267-1.jpg",
+    "images/black-sesame-roll-q3597267/black-sesame-roll-q3597267-2.jpg",
+    "images/black-sesame-roll-q3597267/black-sesame-roll-q3597267-3.jpg",
+    "images/black-sesame-roll-q3597267/black-sesame-roll-q3597267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3597267",
+    "themealdb": null
+  }
+}

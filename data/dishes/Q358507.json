@@ -1,0 +1,20 @@
+{
+  "id": "Q358507",
+  "name": "Bosna",
+  "description": "It resembles a hot dog, consisting mainly of a Bratwurst sausage, onions and a blend of mustard and/or tomato ketchup and curry powder (Curry ketchup).",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bosna-q358507/bosna-q358507-1.jpg",
+    "images/bosna-q358507/bosna-q358507-2.png",
+    "images/bosna-q358507/bosna-q358507-3.jpg",
+    "images/bosna-q358507/bosna-q358507-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q358507",
+    "themealdb": null
+  }
+}

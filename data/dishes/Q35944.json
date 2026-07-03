@@ -1,0 +1,20 @@
+{
+  "id": "Q35944",
+  "name": "Panellets",
+  "description": "Spanish pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panellets-q35944/panellets-q35944-1.jpg",
+    "images/panellets-q35944/panellets-q35944-2.jpg",
+    "images/panellets-q35944/panellets-q35944-3.jpg",
+    "images/panellets-q35944/panellets-q35944-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q35944",
+    "themealdb": null
+  }
+}

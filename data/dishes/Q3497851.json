@@ -1,0 +1,20 @@
+{
+  "id": "Q3497851",
+  "name": "escudella",
+  "description": "Spanish Catalan traditional meat and vegetable stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/escudella-q3497851/escudella-q3497851-1.jpg",
+    "images/escudella-q3497851/escudella-q3497851-2.jpg",
+    "images/escudella-q3497851/escudella-q3497851-3.jpg",
+    "images/escudella-q3497851/escudella-q3497851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3497851",
+    "themealdb": null
+  }
+}

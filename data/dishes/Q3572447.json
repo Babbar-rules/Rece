@@ -1,0 +1,18 @@
+{
+  "id": "Q3572447",
+  "name": "bandeja paisa",
+  "description": "typical meal popular in Colombian cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bandeja-paisa-q3572447/bandeja-paisa-q3572447-1.jpg",
+    "images/bandeja-paisa-q3572447/bandeja-paisa-q3572447-2.jpg",
+    "images/bandeja-paisa-q3572447/bandeja-paisa-q3572447-3.jpg",
+    "images/bandeja-paisa-q3572447/bandeja-paisa-q3572447-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3572447",
+    "themealdb": null
+  }
+}

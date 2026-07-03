@@ -1,0 +1,18 @@
+{
+  "id": "Q3515851",
+  "name": "Tarte au maugin",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-au-maugin-q3515851/tarte-au-maugin-q3515851-1.jpeg",
+    "images/tarte-au-maugin-q3515851/tarte-au-maugin-q3515851-2.jpg",
+    "images/tarte-au-maugin-q3515851/tarte-au-maugin-q3515851-3.jpg",
+    "images/tarte-au-maugin-q3515851/tarte-au-maugin-q3515851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3515851",
+    "themealdb": null
+  }
+}

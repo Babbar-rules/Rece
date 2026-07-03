@@ -1,0 +1,22 @@
+{
+  "id": "Q3499942",
+  "name": "Stracciatella",
+  "description": "variety of gelato",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/stracciatella-q3499942/stracciatella-q3499942-1.jpg",
+    "images/stracciatella-q3499942/stracciatella-q3499942-2.jpg",
+    "images/stracciatella-q3499942/stracciatella-q3499942-3.jpg",
+    "images/stracciatella-q3499942/stracciatella-q3499942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3499942",
+    "themealdb": null
+  }
+}

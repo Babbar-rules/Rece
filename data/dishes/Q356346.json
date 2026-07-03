@@ -1,0 +1,22 @@
+{
+  "id": "Q356346",
+  "name": "Rumford's Soup",
+  "description": "soup of barley, dried peas, potatoes, and beer",
+  "nationality": [
+    "Bavaria"
+  ],
+  "region_cuisine": [
+    "Bavarian cuisine"
+  ],
+  "images": [
+    "images/rumfords-soup-q356346/rumfords-soup-q356346-1.jpg",
+    "images/rumfords-soup-q356346/rumfords-soup-q356346-2.jpg",
+    "images/rumfords-soup-q356346/rumfords-soup-q356346-3.jpg",
+    "images/rumfords-soup-q356346/rumfords-soup-q356346-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q356346",
+    "themealdb": null
+  }
+}

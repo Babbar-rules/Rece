@@ -1,0 +1,18 @@
+{
+  "id": "Q34804358",
+  "name": "Stephaniebraten",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stephaniebraten-q34804358/stephaniebraten-q34804358-1.jpg",
+    "images/stephaniebraten-q34804358/stephaniebraten-q34804358-2.jpg",
+    "images/stephaniebraten-q34804358/stephaniebraten-q34804358-3.jpg",
+    "images/stephaniebraten-q34804358/stephaniebraten-q34804358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q34804358",
+    "themealdb": null
+  }
+}

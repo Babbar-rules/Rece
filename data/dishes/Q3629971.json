@@ -1,0 +1,20 @@
+{
+  "id": "Q3629971",
+  "name": "Pav bhaji",
+  "description": "a vegetable curry and bread dish originating from Mumbai, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pav-bhaji-q3629971/pav-bhaji-q3629971-1.jpg",
+    "images/pav-bhaji-q3629971/pav-bhaji-q3629971-2.jpg",
+    "images/pav-bhaji-q3629971/pav-bhaji-q3629971-3.jpg",
+    "images/pav-bhaji-q3629971/pav-bhaji-q3629971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3629971",
+    "themealdb": null
+  }
+}

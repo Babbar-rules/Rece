@@ -1,0 +1,20 @@
+{
+  "id": "Q3516025",
+  "name": "Tater Tots",
+  "description": "trademarked Ore-Ida product, cylindrical pieces of deep-fried grated potatoes, the first tater tots made using holey board",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tater-tots-q3516025/tater-tots-q3516025-1.jpg",
+    "images/tater-tots-q3516025/tater-tots-q3516025-2.png",
+    "images/tater-tots-q3516025/tater-tots-q3516025-3.jpg",
+    "images/tater-tots-q3516025/tater-tots-q3516025-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3516025",
+    "themealdb": null
+  }
+}

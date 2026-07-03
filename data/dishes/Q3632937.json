@@ -1,0 +1,18 @@
+{
+  "id": "Q3632937",
+  "name": "Bagnun",
+  "description": "Italian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bagnun-q3632937/bagnun-q3632937-1.png",
+    "images/bagnun-q3632937/bagnun-q3632937-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3632937",
+    "themealdb": null
+  }
+}

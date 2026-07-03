@@ -1,0 +1,15 @@
+{
+  "id": "Q3561219",
+  "name": "Potatiskorv",
+  "description": "Swedish sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potatiskorv-q3561219/potatiskorv-q3561219-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3561219",
+    "themealdb": null
+  }
+}

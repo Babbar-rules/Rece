@@ -1,0 +1,20 @@
+{
+  "id": "Q3502845",
+  "name": "tablet",
+  "description": "sugary confection from Scotland",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tablet-q3502845/tablet-q3502845-1.jpg",
+    "images/tablet-q3502845/tablet-q3502845-2.jpg",
+    "images/tablet-q3502845/tablet-q3502845-3.jpg",
+    "images/tablet-q3502845/tablet-q3502845-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3502845",
+    "themealdb": null
+  }
+}

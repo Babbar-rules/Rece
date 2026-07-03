@@ -1,0 +1,18 @@
+{
+  "id": "Q3513992",
+  "name": "Taillaule",
+  "description": "Swiss regional variety of brioche",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taillaule-q3513992/taillaule-q3513992-1.jpg",
+    "images/taillaule-q3513992/taillaule-q3513992-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3513992",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3632577",
+  "name": "Bacio Perugina",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacio-perugina-q3632577/bacio-perugina-q3632577-1.jpg",
+    "images/bacio-perugina-q3632577/bacio-perugina-q3632577-2.jpg",
+    "images/bacio-perugina-q3632577/bacio-perugina-q3632577-3.jpg",
+    "images/bacio-perugina-q3632577/bacio-perugina-q3632577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3632577",
+    "themealdb": null
+  }
+}

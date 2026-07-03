@@ -1,0 +1,20 @@
+{
+  "id": "Q3594122",
+  "name": "oeufs en meurette",
+  "description": "eggs in meurette sauce",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/oeufs-en-meurette-q3594122/oeufs-en-meurette-q3594122-1.jpeg",
+    "images/oeufs-en-meurette-q3594122/oeufs-en-meurette-q3594122-2.jpg",
+    "images/oeufs-en-meurette-q3594122/oeufs-en-meurette-q3594122-3.jpeg",
+    "images/oeufs-en-meurette-q3594122/oeufs-en-meurette-q3594122-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3594122",
+    "themealdb": null
+  }
+}

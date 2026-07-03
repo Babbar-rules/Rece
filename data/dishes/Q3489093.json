@@ -1,0 +1,20 @@
+{
+  "id": "Q3489093",
+  "name": "Svíčková",
+  "description": "typical Czech dish",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/svickova-q3489093/svickova-q3489093-1.jpg",
+    "images/svickova-q3489093/svickova-q3489093-2.jpg",
+    "images/svickova-q3489093/svickova-q3489093-3.jpg",
+    "images/svickova-q3489093/svickova-q3489093-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3489093",
+    "themealdb": null
+  }
+}

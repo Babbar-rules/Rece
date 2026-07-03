@@ -1,0 +1,19 @@
+{
+  "id": "Q3486962",
+  "name": "smetannik",
+  "description": "torte of Russian and Ukrainian cuisine",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smetannik-q3486962/smetannik-q3486962-1.jpg",
+    "images/smetannik-q3486962/smetannik-q3486962-2.jpg",
+    "images/smetannik-q3486962/smetannik-q3486962-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3486962",
+    "themealdb": null
+  }
+}

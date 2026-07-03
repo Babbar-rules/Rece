@@ -1,0 +1,20 @@
+{
+  "id": "Q3634389",
+  "name": "Baati",
+  "description": "type of bread popular in western India",
+  "nationality": [
+    "Madhya Pradesh"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baati-q3634389/baati-q3634389-1.jpg",
+    "images/baati-q3634389/baati-q3634389-2.jpg",
+    "images/baati-q3634389/baati-q3634389-3.jpg",
+    "images/baati-q3634389/baati-q3634389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3634389",
+    "themealdb": null
+  }
+}

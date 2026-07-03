@@ -1,0 +1,20 @@
+{
+  "id": "Q3473453",
+  "name": "saramură",
+  "description": "Romanian sauce for marinating",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saramura-q3473453/saramura-q3473453-1.jpg",
+    "images/saramura-q3473453/saramura-q3473453-2.png",
+    "images/saramura-q3473453/saramura-q3473453-3.jpg",
+    "images/saramura-q3473453/saramura-q3473453-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3473453",
+    "themealdb": null
+  }
+}

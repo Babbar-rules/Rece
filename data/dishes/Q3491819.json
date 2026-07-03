@@ -1,0 +1,16 @@
+{
+  "id": "Q3491819",
+  "name": "soupe aux gourganes",
+  "description": "fava bean soup from Quebec",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soupe-aux-gourganes-q3491819/soupe-aux-gourganes-q3491819-1.jpg",
+    "images/soupe-aux-gourganes-q3491819/soupe-aux-gourganes-q3491819-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3491819",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3505415",
+  "name": "farina",
+  "description": "cereal meal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/farina-q3505415/farina-q3505415-1.jpg",
+    "images/farina-q3505415/farina-q3505415-2.jpg",
+    "images/farina-q3505415/farina-q3505415-3.jpg",
+    "images/farina-q3505415/farina-q3505415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3505415",
+    "themealdb": null
+  }
+}

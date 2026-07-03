@@ -1,0 +1,20 @@
+{
+  "id": "Q3506598",
+  "name": "Pedro",
+  "description": "chewing gum",
+  "nationality": [
+    "Czechoslovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pedro-q3506598/pedro-q3506598-1.jpg",
+    "images/pedro-q3506598/pedro-q3506598-2.jpg",
+    "images/pedro-q3506598/pedro-q3506598-3.jpg",
+    "images/pedro-q3506598/pedro-q3506598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3506598",
+    "themealdb": null
+  }
+}

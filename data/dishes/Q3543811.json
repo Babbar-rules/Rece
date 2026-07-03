@@ -1,0 +1,18 @@
+{
+  "id": "Q3543811",
+  "name": "pork and beans",
+  "description": "culinary dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-and-beans-q3543811/pork-and-beans-q3543811-1.jpg",
+    "images/pork-and-beans-q3543811/pork-and-beans-q3543811-2.jpg",
+    "images/pork-and-beans-q3543811/pork-and-beans-q3543811-3.jpg",
+    "images/pork-and-beans-q3543811/pork-and-beans-q3543811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543811",
+    "themealdb": null
+  }
+}

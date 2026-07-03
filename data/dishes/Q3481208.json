@@ -1,0 +1,20 @@
+{
+  "id": "Q3481208",
+  "name": "Prince Polo",
+  "description": "chocolate bar also sold under the name Siesta",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prince-polo-q3481208/prince-polo-q3481208-1.jpg",
+    "images/prince-polo-q3481208/prince-polo-q3481208-2.jpg",
+    "images/prince-polo-q3481208/prince-polo-q3481208-3.jpg",
+    "images/prince-polo-q3481208/prince-polo-q3481208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3481208",
+    "themealdb": null
+  }
+}

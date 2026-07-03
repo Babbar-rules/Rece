@@ -1,0 +1,23 @@
+{
+  "id": "Q3503333",
+  "name": "gulyásleves",
+  "description": "Hungarian soup",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Austrian cuisine",
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/gulyasleves-q3503333/gulyasleves-q3503333-1.jpg",
+    "images/gulyasleves-q3503333/gulyasleves-q3503333-2.jpg",
+    "images/gulyasleves-q3503333/gulyasleves-q3503333-3.jpg",
+    "images/gulyasleves-q3503333/gulyasleves-q3503333-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3503333",
+    "themealdb": null
+  }
+}

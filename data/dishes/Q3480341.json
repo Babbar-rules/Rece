@@ -1,0 +1,18 @@
+{
+  "id": "Q3480341",
+  "name": "Japp",
+  "description": "Swedish Candy Bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/japp-q3480341/japp-q3480341-1.png",
+    "images/japp-q3480341/japp-q3480341-2.jpg",
+    "images/japp-q3480341/japp-q3480341-3.png",
+    "images/japp-q3480341/japp-q3480341-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3480341",
+    "themealdb": null
+  }
+}

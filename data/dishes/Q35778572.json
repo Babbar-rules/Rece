@@ -1,0 +1,18 @@
+{
+  "id": "Q35778572",
+  "name": "laghman",
+  "description": "Central Asian noodle dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/laghman-q35778572/laghman-q35778572-1.jpg",
+    "images/laghman-q35778572/laghman-q35778572-2.jpg",
+    "images/laghman-q35778572/laghman-q35778572-3.jpg",
+    "images/laghman-q35778572/laghman-q35778572-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q35778572",
+    "themealdb": null
+  }
+}

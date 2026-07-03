@@ -1,0 +1,20 @@
+{
+  "id": "Q3570585",
+  "name": "xató",
+  "description": "sauce in Catlan cooking",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xato-q3570585/xato-q3570585-1.jpg",
+    "images/xato-q3570585/xato-q3570585-2.jpg",
+    "images/xato-q3570585/xato-q3570585-3.jpg",
+    "images/xato-q3570585/xato-q3570585-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3570585",
+    "themealdb": null
+  }
+}

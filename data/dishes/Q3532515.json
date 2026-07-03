@@ -1,0 +1,22 @@
+{
+  "id": "Q3532515",
+  "name": "torta Barozzi",
+  "description": "Italian cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Modena"
+  ],
+  "images": [
+    "images/torta-barozzi-q3532515/torta-barozzi-q3532515-1.jpg",
+    "images/torta-barozzi-q3532515/torta-barozzi-q3532515-2.jpg",
+    "images/torta-barozzi-q3532515/torta-barozzi-q3532515-3.jpg",
+    "images/torta-barozzi-q3532515/torta-barozzi-q3532515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3532515",
+    "themealdb": null
+  }
+}

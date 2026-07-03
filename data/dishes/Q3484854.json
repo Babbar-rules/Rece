@@ -1,0 +1,18 @@
+{
+  "id": "Q3484854",
+  "name": "Sin Parar",
+  "description": "brand of confectionery and ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sin-parar-q3484854/sin-parar-q3484854-1.jpg",
+    "images/sin-parar-q3484854/sin-parar-q3484854-2.jpg",
+    "images/sin-parar-q3484854/sin-parar-q3484854-3.jpg",
+    "images/sin-parar-q3484854/sin-parar-q3484854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3484854",
+    "themealdb": null
+  }
+}

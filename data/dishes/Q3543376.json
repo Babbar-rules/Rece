@@ -1,0 +1,20 @@
+{
+  "id": "Q3543376",
+  "name": "Suman",
+  "description": "rice cake originating in the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suman-q3543376/suman-q3543376-1.jpg",
+    "images/suman-q3543376/suman-q3543376-2.jpg",
+    "images/suman-q3543376/suman-q3543376-3.jpg",
+    "images/suman-q3543376/suman-q3543376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3543376",
+    "themealdb": null
+  }
+}

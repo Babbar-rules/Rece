@@ -1,0 +1,18 @@
+{
+  "id": "Q3544579",
+  "name": "vispipuuro",
+  "description": "dessert porridge made from semolina and berries, usually lingonberries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vispipuuro-q3544579/vispipuuro-q3544579-1.jpg",
+    "images/vispipuuro-q3544579/vispipuuro-q3544579-2.jpg",
+    "images/vispipuuro-q3544579/vispipuuro-q3544579-3.jpg",
+    "images/vispipuuro-q3544579/vispipuuro-q3544579-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3544579",
+    "themealdb": null
+  }
+}

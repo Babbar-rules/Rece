@@ -1,0 +1,18 @@
+{
+  "id": "Q3515858",
+  "name": "tarte à l'oignon",
+  "description": "savory tart made using onions",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-a-loignon-q3515858/tarte-a-loignon-q3515858-1.jpg",
+    "images/tarte-a-loignon-q3515858/tarte-a-loignon-q3515858-2.jpg",
+    "images/tarte-a-loignon-q3515858/tarte-a-loignon-q3515858-3.jpg",
+    "images/tarte-a-loignon-q3515858/tarte-a-loignon-q3515858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3515858",
+    "themealdb": null
+  }
+}

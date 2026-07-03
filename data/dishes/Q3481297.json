@@ -1,0 +1,20 @@
+{
+  "id": "Q3481297",
+  "name": "Shambar",
+  "description": "Peruvian typical soup",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shambar-q3481297/shambar-q3481297-1.jpg",
+    "images/shambar-q3481297/shambar-q3481297-2.jpg",
+    "images/shambar-q3481297/shambar-q3481297-3.jpg",
+    "images/shambar-q3481297/shambar-q3481297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3481297",
+    "themealdb": null
+  }
+}

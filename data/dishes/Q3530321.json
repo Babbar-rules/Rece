@@ -1,0 +1,18 @@
+{
+  "id": "Q3530321",
+  "name": "Tofailles",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tofailles-q3530321/tofailles-q3530321-1.jpg",
+    "images/tofailles-q3530321/tofailles-q3530321-2.jpg",
+    "images/tofailles-q3530321/tofailles-q3530321-3.jpg",
+    "images/tofailles-q3530321/tofailles-q3530321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3530321",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3514675",
+  "name": "tamari shoyu",
+  "description": "Japanese soy sauce",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamari-shoyu-q3514675/tamari-shoyu-q3514675-1.jpg",
+    "images/tamari-shoyu-q3514675/tamari-shoyu-q3514675-2.jpg",
+    "images/tamari-shoyu-q3514675/tamari-shoyu-q3514675-3.jpg",
+    "images/tamari-shoyu-q3514675/tamari-shoyu-q3514675-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3514675",
+    "themealdb": null
+  }
+}

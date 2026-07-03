@@ -1,0 +1,18 @@
+{
+  "id": "Q35661296",
+  "name": "rice porridge",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-porridge-q35661296/rice-porridge-q35661296-1.jpg",
+    "images/rice-porridge-q35661296/rice-porridge-q35661296-2.jpg",
+    "images/rice-porridge-q35661296/rice-porridge-q35661296-3.jpg",
+    "images/rice-porridge-q35661296/rice-porridge-q35661296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q35661296",
+    "themealdb": null
+  }
+}

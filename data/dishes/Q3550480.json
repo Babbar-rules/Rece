@@ -1,0 +1,20 @@
+{
+  "id": "Q3550480",
+  "name": "tinola",
+  "description": "Filipino soup dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tinola-q3550480/tinola-q3550480-1.jpg",
+    "images/tinola-q3550480/tinola-q3550480-2.jpg",
+    "images/tinola-q3550480/tinola-q3550480-3.jpg",
+    "images/tinola-q3550480/tinola-q3550480-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3550480",
+    "themealdb": null
+  }
+}

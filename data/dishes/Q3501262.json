@@ -1,0 +1,18 @@
+{
+  "id": "Q3501262",
+  "name": "Tlacoyo",
+  "description": "Mexican dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tlacoyo-q3501262/tlacoyo-q3501262-1.jpg",
+    "images/tlacoyo-q3501262/tlacoyo-q3501262-2.jpg",
+    "images/tlacoyo-q3501262/tlacoyo-q3501262-3.jpg",
+    "images/tlacoyo-q3501262/tlacoyo-q3501262-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3501262",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3549118",
+  "name": "Palitaw",
+  "description": "rice cake eaten in the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/palitaw-q3549118/palitaw-q3549118-1.jpg",
+    "images/palitaw-q3549118/palitaw-q3549118-2.jpg",
+    "images/palitaw-q3549118/palitaw-q3549118-3.jpg",
+    "images/palitaw-q3549118/palitaw-q3549118-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3549118",
+    "themealdb": null
+  }
+}

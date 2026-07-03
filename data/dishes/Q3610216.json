@@ -1,0 +1,18 @@
+{
+  "id": "Q3610216",
+  "name": "Diyabath",
+  "description": "Sri Lankan cold soup",
+  "nationality": [
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/diyabath-q3610216/diyabath-q3610216-1.jpg",
+    "images/diyabath-q3610216/diyabath-q3610216-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3610216",
+    "themealdb": null
+  }
+}

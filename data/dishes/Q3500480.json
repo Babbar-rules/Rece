@@ -1,0 +1,20 @@
+{
+  "id": "Q3500480",
+  "name": "Øllebrød",
+  "description": "Danish porridge",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/llebrd-q3500480/llebrd-q3500480-1.jpg",
+    "images/llebrd-q3500480/llebrd-q3500480-2.jpg",
+    "images/llebrd-q3500480/llebrd-q3500480-3.jpg",
+    "images/llebrd-q3500480/llebrd-q3500480-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3500480",
+    "themealdb": null
+  }
+}
