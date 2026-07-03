@@ -1,0 +1,18 @@
+{
+  "id": "Q5016269",
+  "name": "Cadbury Fingers",
+  "description": "Popular chocolate biscuit (cookie)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cadbury-fingers-q5016269/cadbury-fingers-q5016269-1.jpg",
+    "images/cadbury-fingers-q5016269/cadbury-fingers-q5016269-2.jpg",
+    "images/cadbury-fingers-q5016269/cadbury-fingers-q5016269-3.jpg",
+    "images/cadbury-fingers-q5016269/cadbury-fingers-q5016269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5016269",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q5068592",
+  "name": "chalbori-ppang",
+  "description": "Korean confection, consisting of two small pancakes made with glutinous barley flour wrapped around a filling of red bean paste",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/chalbori-ppang-q5068592/chalbori-ppang-q5068592-1.jpg",
+    "images/chalbori-ppang-q5068592/chalbori-ppang-q5068592-2.jpg",
+    "images/chalbori-ppang-q5068592/chalbori-ppang-q5068592-3.jpg",
+    "images/chalbori-ppang-q5068592/chalbori-ppang-q5068592-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5068592",
+    "themealdb": null
+  }
+}

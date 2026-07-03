@@ -1,0 +1,18 @@
+{
+  "id": "Q4996510",
+  "name": "Bulkie roll",
+  "description": "American sandwich originating from New England",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bulkie-roll-q4996510/bulkie-roll-q4996510-1.jpg",
+    "images/bulkie-roll-q4996510/bulkie-roll-q4996510-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4996510",
+    "themealdb": null
+  }
+}

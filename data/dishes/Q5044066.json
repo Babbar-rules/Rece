@@ -1,0 +1,20 @@
+{
+  "id": "Q5044066",
+  "name": "carnitas",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carnitas-q5044066/carnitas-q5044066-1.jpg",
+    "images/carnitas-q5044066/carnitas-q5044066-2.jpg",
+    "images/carnitas-q5044066/carnitas-q5044066-3.jpg",
+    "images/carnitas-q5044066/carnitas-q5044066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5044066",
+    "themealdb": null
+  }
+}

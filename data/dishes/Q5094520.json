@@ -1,0 +1,15 @@
+{
+  "id": "Q5094520",
+  "name": "Chewels",
+  "description": "chewing gum brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chewels-q5094520/chewels-q5094520-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5094520",
+    "themealdb": null
+  }
+}

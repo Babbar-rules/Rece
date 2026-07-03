@@ -1,0 +1,20 @@
+{
+  "id": "Q5004807",
+  "name": "bánh pía",
+  "description": "Vietnamese pastry",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-pia-q5004807/banh-pia-q5004807-1.jpg",
+    "images/banh-pia-q5004807/banh-pia-q5004807-2.jpg",
+    "images/banh-pia-q5004807/banh-pia-q5004807-3.jpg",
+    "images/banh-pia-q5004807/banh-pia-q5004807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5004807",
+    "themealdb": null
+  }
+}

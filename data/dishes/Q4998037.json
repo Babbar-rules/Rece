@@ -1,0 +1,20 @@
+{
+  "id": "Q4998037",
+  "name": "bupyeon",
+  "description": "variety of tteok",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bupyeon-q4998037/bupyeon-q4998037-1.jpg",
+    "images/bupyeon-q4998037/bupyeon-q4998037-2.jpg",
+    "images/bupyeon-q4998037/bupyeon-q4998037-3.jpg",
+    "images/bupyeon-q4998037/bupyeon-q4998037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4998037",
+    "themealdb": null
+  }
+}

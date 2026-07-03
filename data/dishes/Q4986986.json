@@ -1,0 +1,20 @@
+{
+  "id": "Q4986986",
+  "name": "bukkumi",
+  "description": "korean-cuisine pan-fried rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bukkumi-q4986986/bukkumi-q4986986-1.jpg",
+    "images/bukkumi-q4986986/bukkumi-q4986986-2.jpg",
+    "images/bukkumi-q4986986/bukkumi-q4986986-3.jpg",
+    "images/bukkumi-q4986986/bukkumi-q4986986-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4986986",
+    "themealdb": null
+  }
+}

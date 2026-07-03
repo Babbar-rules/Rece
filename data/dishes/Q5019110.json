@@ -1,0 +1,20 @@
+{
+  "id": "Q5019110",
+  "name": "Caldo de costilla",
+  "description": "Colombian broth dish",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-de-costilla-q5019110/caldo-de-costilla-q5019110-1.jpg",
+    "images/caldo-de-costilla-q5019110/caldo-de-costilla-q5019110-2.jpg",
+    "images/caldo-de-costilla-q5019110/caldo-de-costilla-q5019110-3.jpg",
+    "images/caldo-de-costilla-q5019110/caldo-de-costilla-q5019110-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5019110",
+    "themealdb": null
+  }
+}

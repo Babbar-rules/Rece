@@ -1,0 +1,18 @@
+{
+  "id": "Q5092460",
+  "name": "Cherry Ripe",
+  "description": "Chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-ripe-q5092460/cherry-ripe-q5092460-1.jpg",
+    "images/cherry-ripe-q5092460/cherry-ripe-q5092460-2.jpg",
+    "images/cherry-ripe-q5092460/cherry-ripe-q5092460-3.png",
+    "images/cherry-ripe-q5092460/cherry-ripe-q5092460-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5092460",
+    "themealdb": null
+  }
+}

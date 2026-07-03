@@ -1,0 +1,20 @@
+{
+  "id": "Q5072910",
+  "name": "Chapalele",
+  "description": "dough made from boiled potatoes and wheat flour",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chapalele-q5072910/chapalele-q5072910-1.jpg",
+    "images/chapalele-q5072910/chapalele-q5072910-2.jpg",
+    "images/chapalele-q5072910/chapalele-q5072910-3.jpg",
+    "images/chapalele-q5072910/chapalele-q5072910-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5072910",
+    "themealdb": null
+  }
+}

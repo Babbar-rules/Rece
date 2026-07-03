@@ -1,0 +1,20 @@
+{
+  "id": "Q5033997",
+  "name": "Cantonese seafood soup",
+  "description": "cantonese cuisine dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cantonese-seafood-soup-q5033997/cantonese-seafood-soup-q5033997-1.jpg",
+    "images/cantonese-seafood-soup-q5033997/cantonese-seafood-soup-q5033997-2.jpg",
+    "images/cantonese-seafood-soup-q5033997/cantonese-seafood-soup-q5033997-3.jpg",
+    "images/cantonese-seafood-soup-q5033997/cantonese-seafood-soup-q5033997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5033997",
+    "themealdb": null
+  }
+}

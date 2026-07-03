@@ -1,0 +1,18 @@
+{
+  "id": "Q4996483",
+  "name": "bulk confectionery",
+  "description": "confection sold in small units",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bulk-confectionery-q4996483/bulk-confectionery-q4996483-1.jpg",
+    "images/bulk-confectionery-q4996483/bulk-confectionery-q4996483-2.jpg",
+    "images/bulk-confectionery-q4996483/bulk-confectionery-q4996483-3.jpg",
+    "images/bulk-confectionery-q4996483/bulk-confectionery-q4996483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4996483",
+    "themealdb": null
+  }
+}

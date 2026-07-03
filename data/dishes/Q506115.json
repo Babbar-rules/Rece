@@ -1,0 +1,20 @@
+{
+  "id": "Q506115",
+  "name": "Jammie Dodgers",
+  "description": "British biscuit",
+  "nationality": [],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/jammie-dodgers-q506115/jammie-dodgers-q506115-1.jpg",
+    "images/jammie-dodgers-q506115/jammie-dodgers-q506115-2.jpg",
+    "images/jammie-dodgers-q506115/jammie-dodgers-q506115-3.jpg",
+    "images/jammie-dodgers-q506115/jammie-dodgers-q506115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q506115",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4993083",
+  "name": "Cherries jubilee",
+  "description": "dessert made with cherries, ice cream and liqueur",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherries-jubilee-q4993083/cherries-jubilee-q4993083-1.jpg",
+    "images/cherries-jubilee-q4993083/cherries-jubilee-q4993083-2.jpg",
+    "images/cherries-jubilee-q4993083/cherries-jubilee-q4993083-3.jpg",
+    "images/cherries-jubilee-q4993083/cherries-jubilee-q4993083-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4993083",
+    "themealdb": null
+  }
+}

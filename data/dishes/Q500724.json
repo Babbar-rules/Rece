@@ -1,0 +1,20 @@
+{
+  "id": "Q500724",
+  "name": "Pizza Margherita",
+  "description": "typical Neapolitan pizza topped with tomato, mozzarella, and fresh basil",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-margherita-q500724/pizza-margherita-q500724-1.jpg",
+    "images/pizza-margherita-q500724/pizza-margherita-q500724-2.jpg",
+    "images/pizza-margherita-q500724/pizza-margherita-q500724-3.jpg",
+    "images/pizza-margherita-q500724/pizza-margherita-q500724-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q500724",
+    "themealdb": null
+  }
+}

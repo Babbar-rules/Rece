@@ -1,0 +1,20 @@
+{
+  "id": "Q500445",
+  "name": "Neapolitan pizza",
+  "description": "style of pizza made with tomatoes and Mozzarella cheese",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neapolitan-pizza-q500445/neapolitan-pizza-q500445-1.jpg",
+    "images/neapolitan-pizza-q500445/neapolitan-pizza-q500445-2.jpg",
+    "images/neapolitan-pizza-q500445/neapolitan-pizza-q500445-3.jpg",
+    "images/neapolitan-pizza-q500445/neapolitan-pizza-q500445-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q500445",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5096278",
+  "name": "Chicken Tatsuta",
+  "description": "Japanese McDonald's burger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-tatsuta-q5096278/chicken-tatsuta-q5096278-1.jpg",
+    "images/chicken-tatsuta-q5096278/chicken-tatsuta-q5096278-2.jpg",
+    "images/chicken-tatsuta-q5096278/chicken-tatsuta-q5096278-3.jpg",
+    "images/chicken-tatsuta-q5096278/chicken-tatsuta-q5096278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096278",
+    "themealdb": null
+  }
+}

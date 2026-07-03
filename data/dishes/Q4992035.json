@@ -1,0 +1,18 @@
+{
+  "id": "Q4992035",
+  "name": "pålægschokolade",
+  "description": "thin sheets of chocolate to put on bread",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/palgschokolade-q4992035/palgschokolade-q4992035-1.jpg",
+    "images/palgschokolade-q4992035/palgschokolade-q4992035-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4992035",
+    "themealdb": null
+  }
+}

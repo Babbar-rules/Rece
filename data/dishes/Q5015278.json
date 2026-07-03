@@ -1,0 +1,20 @@
+{
+  "id": "Q5015278",
+  "name": "cabbage casserole",
+  "description": "traditional Finnish dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cabbage-casserole-q5015278/cabbage-casserole-q5015278-1.jpg",
+    "images/cabbage-casserole-q5015278/cabbage-casserole-q5015278-2.jpg",
+    "images/cabbage-casserole-q5015278/cabbage-casserole-q5015278-3.jpg",
+    "images/cabbage-casserole-q5015278/cabbage-casserole-q5015278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5015278",
+    "themealdb": null
+  }
+}

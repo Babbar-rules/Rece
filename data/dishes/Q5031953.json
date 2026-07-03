@@ -1,0 +1,20 @@
+{
+  "id": "Q5031953",
+  "name": "candle salad",
+  "description": "US fruit salad dish composed of lettuce, pineapple, banana, cherry, and mayonnaise or cottage cheese",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/candle-salad-q5031953/candle-salad-q5031953-1.jpg",
+    "images/candle-salad-q5031953/candle-salad-q5031953-2.jpg",
+    "images/candle-salad-q5031953/candle-salad-q5031953-3.png",
+    "images/candle-salad-q5031953/candle-salad-q5031953-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5031953",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q5096277",
+  "name": "Chicken Vesuvio",
+  "description": "Italian-American dish popular in Chicago",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-vesuvio-q5096277/chicken-vesuvio-q5096277-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096277",
+    "themealdb": null
+  }
+}

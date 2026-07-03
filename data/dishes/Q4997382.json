@@ -1,0 +1,18 @@
+{
+  "id": "Q4997382",
+  "name": "Bun Bars",
+  "description": "chocolate candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-bars-q4997382/bun-bars-q4997382-1.jpg",
+    "images/bun-bars-q4997382/bun-bars-q4997382-2.jpg",
+    "images/bun-bars-q4997382/bun-bars-q4997382-3.jpg",
+    "images/bun-bars-q4997382/bun-bars-q4997382-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4997382",
+    "themealdb": null
+  }
+}

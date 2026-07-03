@@ -1,0 +1,22 @@
+{
+  "id": "Q5057827",
+  "name": "celery Victor",
+  "description": "marinated celery salad dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of California"
+  ],
+  "images": [
+    "images/celery-victor-q5057827/celery-victor-q5057827-1.jpg",
+    "images/celery-victor-q5057827/celery-victor-q5057827-2.jpg",
+    "images/celery-victor-q5057827/celery-victor-q5057827-3.jpg",
+    "images/celery-victor-q5057827/celery-victor-q5057827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5057827",
+    "themealdb": null
+  }
+}

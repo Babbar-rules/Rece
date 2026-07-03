@@ -1,0 +1,20 @@
+{
+  "id": "Q5051989",
+  "name": "catfish stew",
+  "description": "Fish stew from the American South",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/catfish-stew-q5051989/catfish-stew-q5051989-1.jpg",
+    "images/catfish-stew-q5051989/catfish-stew-q5051989-2.jpg",
+    "images/catfish-stew-q5051989/catfish-stew-q5051989-3.jpg",
+    "images/catfish-stew-q5051989/catfish-stew-q5051989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5051989",
+    "themealdb": null
+  }
+}

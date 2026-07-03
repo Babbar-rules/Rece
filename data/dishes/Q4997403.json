@@ -1,0 +1,20 @@
+{
+  "id": "Q4997403",
+  "name": "bun rieu",
+  "description": "traditional Vietnamese soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-rieu-q4997403/bun-rieu-q4997403-1.jpg",
+    "images/bun-rieu-q4997403/bun-rieu-q4997403-2.jpg",
+    "images/bun-rieu-q4997403/bun-rieu-q4997403-3.jpg",
+    "images/bun-rieu-q4997403/bun-rieu-q4997403-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4997403",
+    "themealdb": null
+  }
+}

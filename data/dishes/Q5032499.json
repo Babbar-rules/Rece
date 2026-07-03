@@ -1,0 +1,21 @@
+{
+  "id": "Q5032499",
+  "name": "Canja de galinha",
+  "description": "popular chicken soup of Portuguese and Brazilian cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Portuguese cuisine",
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/canja-de-galinha-q5032499/canja-de-galinha-q5032499-1.jpg",
+    "images/canja-de-galinha-q5032499/canja-de-galinha-q5032499-2.jpg",
+    "images/canja-de-galinha-q5032499/canja-de-galinha-q5032499-3.jpeg",
+    "images/canja-de-galinha-q5032499/canja-de-galinha-q5032499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5032499",
+    "themealdb": null
+  }
+}

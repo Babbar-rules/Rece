@@ -1,0 +1,20 @@
+{
+  "id": "Q5097475",
+  "name": "Chiko Roll",
+  "description": "Australian savoury snack",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chiko-roll-q5097475/chiko-roll-q5097475-1.jpg",
+    "images/chiko-roll-q5097475/chiko-roll-q5097475-2.jpg",
+    "images/chiko-roll-q5097475/chiko-roll-q5097475-3.jpg",
+    "images/chiko-roll-q5097475/chiko-roll-q5097475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5097475",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q5019112",
+  "name": "Caldo de siete mares",
+  "description": "Mexican fish stew",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-de-siete-mares-q5019112/caldo-de-siete-mares-q5019112-1.jpg",
+    "images/caldo-de-siete-mares-q5019112/caldo-de-siete-mares-q5019112-2.jpg",
+    "images/caldo-de-siete-mares-q5019112/caldo-de-siete-mares-q5019112-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5019112",
+    "themealdb": null
+  }
+}

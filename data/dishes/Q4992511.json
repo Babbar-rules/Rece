@@ -1,0 +1,20 @@
+{
+  "id": "Q4992511",
+  "name": "galinha à Africana",
+  "description": "Macanese chicken dish",
+  "nationality": [
+    "Portuguese Macau"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galinha-a-africana-q4992511/galinha-a-africana-q4992511-1.jpg",
+    "images/galinha-a-africana-q4992511/galinha-a-africana-q4992511-2.jpg",
+    "images/galinha-a-africana-q4992511/galinha-a-africana-q4992511-3.jpg",
+    "images/galinha-a-africana-q4992511/galinha-a-africana-q4992511-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4992511",
+    "themealdb": null
+  }
+}

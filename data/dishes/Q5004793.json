@@ -1,0 +1,20 @@
+{
+  "id": "Q5004793",
+  "name": "bánh chuối",
+  "description": "sweet banana cake",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-chuoi-q5004793/banh-chuoi-q5004793-1.jpg",
+    "images/banh-chuoi-q5004793/banh-chuoi-q5004793-2.jpg",
+    "images/banh-chuoi-q5004793/banh-chuoi-q5004793-3.jpg",
+    "images/banh-chuoi-q5004793/banh-chuoi-q5004793-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5004793",
+    "themealdb": null
+  }
+}

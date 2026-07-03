@@ -1,0 +1,20 @@
+{
+  "id": "Q5065284",
+  "name": "Certs",
+  "description": "confectionery",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/certs-q5065284/certs-q5065284-1.jpg",
+    "images/certs-q5065284/certs-q5065284-2.jpg",
+    "images/certs-q5065284/certs-q5065284-3.jpg",
+    "images/certs-q5065284/certs-q5065284-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5065284",
+    "themealdb": null
+  }
+}

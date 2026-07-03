@@ -1,0 +1,22 @@
+{
+  "id": "Q5004796",
+  "name": "bánh bó",
+  "description": "pressed fruit cake from Quảng Ngãi province, Vietnam",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [
+    "cuisine of Quảng Ngãi"
+  ],
+  "images": [
+    "images/banh-bo-q5004796/banh-bo-q5004796-1.jpg",
+    "images/banh-bo-q5004796/banh-bo-q5004796-2.jpg",
+    "images/banh-bo-q5004796/banh-bo-q5004796-3.jpg",
+    "images/banh-bo-q5004796/banh-bo-q5004796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5004796",
+    "themealdb": null
+  }
+}

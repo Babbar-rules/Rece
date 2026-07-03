@@ -1,0 +1,17 @@
+{
+  "id": "Q5017201",
+  "name": "Cafreal",
+  "description": "spicy chicken dish popular in the Indian state of Goa",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cafreal-q5017201/cafreal-q5017201-1.jpg",
+    "images/cafreal-q5017201/cafreal-q5017201-2.jpg",
+    "images/cafreal-q5017201/cafreal-q5017201-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5017201",
+    "themealdb": null
+  }
+}

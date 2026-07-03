@@ -1,0 +1,20 @@
+{
+  "id": "Q5005249",
+  "name": "Bún thịt nướng",
+  "description": "Vietnamese cold rice vermicelli noodle dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-thit-nuong-q5005249/bun-thit-nuong-q5005249-1.jpg",
+    "images/bun-thit-nuong-q5005249/bun-thit-nuong-q5005249-2.jpg",
+    "images/bun-thit-nuong-q5005249/bun-thit-nuong-q5005249-3.jpg",
+    "images/bun-thit-nuong-q5005249/bun-thit-nuong-q5005249-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5005249",
+    "themealdb": null
+  }
+}

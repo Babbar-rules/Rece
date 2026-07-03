@@ -1,0 +1,18 @@
+{
+  "id": "Q5089476",
+  "name": "Cheez-It",
+  "description": "baked cheese crackers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheez-it-q5089476/cheez-it-q5089476-1.jpg",
+    "images/cheez-it-q5089476/cheez-it-q5089476-2.jpg",
+    "images/cheez-it-q5089476/cheez-it-q5089476-3.jpg",
+    "images/cheez-it-q5089476/cheez-it-q5089476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5089476",
+    "themealdb": null
+  }
+}

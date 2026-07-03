@@ -1,0 +1,20 @@
+{
+  "id": "Q50622",
+  "name": "bánh cuốn",
+  "description": "Vietnamese dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-cuon-q50622/banh-cuon-q50622-1.jpg",
+    "images/banh-cuon-q50622/banh-cuon-q50622-2.jpg",
+    "images/banh-cuon-q50622/banh-cuon-q50622-3.jpg",
+    "images/banh-cuon-q50622/banh-cuon-q50622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50622",
+    "themealdb": null
+  }
+}

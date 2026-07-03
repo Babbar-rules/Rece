@@ -1,0 +1,18 @@
+{
+  "id": "Q4995419",
+  "name": "dagashi",
+  "description": "cheap Japanese candies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dagashi-q4995419/dagashi-q4995419-1.jpg",
+    "images/dagashi-q4995419/dagashi-q4995419-2.jpg",
+    "images/dagashi-q4995419/dagashi-q4995419-3.png",
+    "images/dagashi-q4995419/dagashi-q4995419-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4995419",
+    "themealdb": null
+  }
+}

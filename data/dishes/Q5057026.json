@@ -1,0 +1,20 @@
+{
+  "id": "Q5057026",
+  "name": "Montreal-style bagel",
+  "description": "variety of bagel created by Jewish immigrants in Montreal, Quebec",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/montreal-style-bagel-q5057026/montreal-style-bagel-q5057026-1.jpg",
+    "images/montreal-style-bagel-q5057026/montreal-style-bagel-q5057026-2.jpg",
+    "images/montreal-style-bagel-q5057026/montreal-style-bagel-q5057026-3.jpg",
+    "images/montreal-style-bagel-q5057026/montreal-style-bagel-q5057026-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5057026",
+    "themealdb": null
+  }
+}

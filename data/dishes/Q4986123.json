@@ -1,0 +1,20 @@
+{
+  "id": "Q4986123",
+  "name": "bugak",
+  "description": "deep fried vegetables and seaweeds",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bugak-q4986123/bugak-q4986123-1.jpg",
+    "images/bugak-q4986123/bugak-q4986123-2.jpg",
+    "images/bugak-q4986123/bugak-q4986123-3.jpg",
+    "images/bugak-q4986123/bugak-q4986123-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4986123",
+    "themealdb": null
+  }
+}

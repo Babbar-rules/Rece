@@ -1,0 +1,20 @@
+{
+  "id": "Q4996659",
+  "name": "Bulla cake",
+  "description": "Jamaican bread",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bulla-cake-q4996659/bulla-cake-q4996659-1.jpg",
+    "images/bulla-cake-q4996659/bulla-cake-q4996659-2.jpg",
+    "images/bulla-cake-q4996659/bulla-cake-q4996659-3.jpg",
+    "images/bulla-cake-q4996659/bulla-cake-q4996659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4996659",
+    "themealdb": null
+  }
+}

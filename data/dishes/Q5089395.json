@@ -1,0 +1,20 @@
+{
+  "id": "Q5089395",
+  "name": "Cheese and pickle sandwich",
+  "description": "As its name suggests, it consists of sliced or grated cheese (typically Cheddar) and pickle (a sweet, vinegary chutney, the most popular brand being Branston), sandwiched between two slices of bread.",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-and-pickle-sandwich-q5089395/cheese-and-pickle-sandwich-q5089395-1.jpg",
+    "images/cheese-and-pickle-sandwich-q5089395/cheese-and-pickle-sandwich-q5089395-2.jpg",
+    "images/cheese-and-pickle-sandwich-q5089395/cheese-and-pickle-sandwich-q5089395-3.jpg",
+    "images/cheese-and-pickle-sandwich-q5089395/cheese-and-pickle-sandwich-q5089395-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5089395",
+    "themealdb": null
+  }
+}

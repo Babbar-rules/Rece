@@ -1,0 +1,20 @@
+{
+  "id": "Q5089400",
+  "name": "cheese fries",
+  "description": "fast food dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-fries-q5089400/cheese-fries-q5089400-1.jpg",
+    "images/cheese-fries-q5089400/cheese-fries-q5089400-2.jpg",
+    "images/cheese-fries-q5089400/cheese-fries-q5089400-3.jpg",
+    "images/cheese-fries-q5089400/cheese-fries-q5089400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5089400",
+    "themealdb": null
+  }
+}

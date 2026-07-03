@@ -1,0 +1,20 @@
+{
+  "id": "Q4997887",
+  "name": "bunny chow",
+  "description": "South African dish consisting of a hollowed-out loaf of white bread filled with curry",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bunny-chow-q4997887/bunny-chow-q4997887-1.jpg",
+    "images/bunny-chow-q4997887/bunny-chow-q4997887-2.jpg",
+    "images/bunny-chow-q4997887/bunny-chow-q4997887-3.jpg",
+    "images/bunny-chow-q4997887/bunny-chow-q4997887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4997887",
+    "themealdb": null
+  }
+}

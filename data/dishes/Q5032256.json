@@ -1,0 +1,16 @@
+{
+  "id": "Q5032256",
+  "name": "Canelaz",
+  "description": "alcoholic beverage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/canelaz-q5032256/canelaz-q5032256-1.jpg",
+    "images/canelaz-q5032256/canelaz-q5032256-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5032256",
+    "themealdb": null
+  }
+}

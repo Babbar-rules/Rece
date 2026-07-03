@@ -1,0 +1,20 @@
+{
+  "id": "Q5068377",
+  "name": "Chakna",
+  "description": "Indian spicy stew",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chakna-q5068377/chakna-q5068377-1.jpg",
+    "images/chakna-q5068377/chakna-q5068377-2.jpg",
+    "images/chakna-q5068377/chakna-q5068377-3.jpg",
+    "images/chakna-q5068377/chakna-q5068377-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5068377",
+    "themealdb": null
+  }
+}

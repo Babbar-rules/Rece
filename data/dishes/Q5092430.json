@@ -1,0 +1,18 @@
+{
+  "id": "Q5092430",
+  "name": "Cherry Mash",
+  "description": "cherry, peanut, and chocolate candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-mash-q5092430/cherry-mash-q5092430-1.jpg",
+    "images/cherry-mash-q5092430/cherry-mash-q5092430-2.jpg",
+    "images/cherry-mash-q5092430/cherry-mash-q5092430-3.jpg",
+    "images/cherry-mash-q5092430/cherry-mash-q5092430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5092430",
+    "themealdb": null
+  }
+}

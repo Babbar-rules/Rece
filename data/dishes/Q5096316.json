@@ -1,0 +1,19 @@
+{
+  "id": "Q5096316",
+  "name": "chicken riggies",
+  "description": "pasta dish",
+  "nationality": [
+    "New York"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-riggies-q5096316/chicken-riggies-q5096316-1.jpg",
+    "images/chicken-riggies-q5096316/chicken-riggies-q5096316-2.jpg",
+    "images/chicken-riggies-q5096316/chicken-riggies-q5096316-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096316",
+    "themealdb": null
+  }
+}

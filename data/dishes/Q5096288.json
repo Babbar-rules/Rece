@@ -1,0 +1,20 @@
+{
+  "id": "Q5096288",
+  "name": "Chicken bog",
+  "description": "Lowcountry chicken pilaf",
+  "nationality": [],
+  "region_cuisine": [
+    "Lowcountry cuisine"
+  ],
+  "images": [
+    "images/chicken-bog-q5096288/chicken-bog-q5096288-1.jpg",
+    "images/chicken-bog-q5096288/chicken-bog-q5096288-2.jpg",
+    "images/chicken-bog-q5096288/chicken-bog-q5096288-3.jpg",
+    "images/chicken-bog-q5096288/chicken-bog-q5096288-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096288",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q50862300",
+  "name": "Rendang Itiak",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50862300",
+    "themealdb": null
+  }
+}

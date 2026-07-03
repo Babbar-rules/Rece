@@ -1,0 +1,20 @@
+{
+  "id": "Q5055611",
+  "name": "Cağ kebabı",
+  "description": "Turkish meal",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cag-kebab-q5055611/cag-kebab-q5055611-1.jpg",
+    "images/cag-kebab-q5055611/cag-kebab-q5055611-2.jpg",
+    "images/cag-kebab-q5055611/cag-kebab-q5055611-3.jpg",
+    "images/cag-kebab-q5055611/cag-kebab-q5055611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5055611",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5096289",
+  "name": "chicken and mushroom pie",
+  "description": "common British pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-and-mushroom-pie-q5096289/chicken-and-mushroom-pie-q5096289-1.jpg",
+    "images/chicken-and-mushroom-pie-q5096289/chicken-and-mushroom-pie-q5096289-2.jpg",
+    "images/chicken-and-mushroom-pie-q5096289/chicken-and-mushroom-pie-q5096289-3.jpg",
+    "images/chicken-and-mushroom-pie-q5096289/chicken-and-mushroom-pie-q5096289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096289",
+    "themealdb": null
+  }
+}

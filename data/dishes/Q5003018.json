@@ -1,0 +1,18 @@
+{
+  "id": "Q5003018",
+  "name": "buttermilk pie",
+  "description": "type of desperation pie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buttermilk-pie-q5003018/buttermilk-pie-q5003018-1.jpg",
+    "images/buttermilk-pie-q5003018/buttermilk-pie-q5003018-2.jpg",
+    "images/buttermilk-pie-q5003018/buttermilk-pie-q5003018-3.jpg",
+    "images/buttermilk-pie-q5003018/buttermilk-pie-q5003018-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5003018",
+    "themealdb": null
+  }
+}

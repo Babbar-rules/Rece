@@ -1,0 +1,20 @@
+{
+  "id": "Q5096299",
+  "name": "chicken fingers",
+  "description": "U.S. dish of breaded and fried chicken meat from the pectoralis minor or similarly sized cut of chicken",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-fingers-q5096299/chicken-fingers-q5096299-1.jpg",
+    "images/chicken-fingers-q5096299/chicken-fingers-q5096299-2.jpg",
+    "images/chicken-fingers-q5096299/chicken-fingers-q5096299-3.jpg",
+    "images/chicken-fingers-q5096299/chicken-fingers-q5096299-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096299",
+    "themealdb": null
+  }
+}

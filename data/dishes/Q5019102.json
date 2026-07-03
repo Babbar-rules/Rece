@@ -1,0 +1,20 @@
+{
+  "id": "Q5019102",
+  "name": "Caldillo de congrio",
+  "description": "Chilean fish soup",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldillo-de-congrio-q5019102/caldillo-de-congrio-q5019102-1.jpg",
+    "images/caldillo-de-congrio-q5019102/caldillo-de-congrio-q5019102-2.jpg",
+    "images/caldillo-de-congrio-q5019102/caldillo-de-congrio-q5019102-3.jpg",
+    "images/caldillo-de-congrio-q5019102/caldillo-de-congrio-q5019102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5019102",
+    "themealdb": null
+  }
+}

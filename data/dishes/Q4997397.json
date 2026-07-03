@@ -1,0 +1,20 @@
+{
+  "id": "Q4997397",
+  "name": "bun kebab",
+  "description": "sandwich originating in Pakistan",
+  "nationality": [
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-kebab-q4997397/bun-kebab-q4997397-1.jpg",
+    "images/bun-kebab-q4997397/bun-kebab-q4997397-2.jpg",
+    "images/bun-kebab-q4997397/bun-kebab-q4997397-3.jpg",
+    "images/bun-kebab-q4997397/bun-kebab-q4997397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4997397",
+    "themealdb": null
+  }
+}

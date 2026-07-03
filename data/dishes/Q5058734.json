@@ -1,0 +1,20 @@
+{
+  "id": "Q5058734",
+  "name": "Cemita",
+  "description": "bread from the Hispanic bakery tradition",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cemita-q5058734/cemita-q5058734-1.jpg",
+    "images/cemita-q5058734/cemita-q5058734-2.jpg",
+    "images/cemita-q5058734/cemita-q5058734-3.jpg",
+    "images/cemita-q5058734/cemita-q5058734-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5058734",
+    "themealdb": null
+  }
+}

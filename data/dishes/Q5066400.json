@@ -1,0 +1,18 @@
+{
+  "id": "Q5066400",
+  "name": "charchari",
+  "description": "type of dish in Bengali cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/charchari-q5066400/charchari-q5066400-1.jpg",
+    "images/charchari-q5066400/charchari-q5066400-2.jpg",
+    "images/charchari-q5066400/charchari-q5066400-3.jpg",
+    "images/charchari-q5066400/charchari-q5066400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5066400",
+    "themealdb": null
+  }
+}

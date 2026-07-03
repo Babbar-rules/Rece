@@ -1,0 +1,20 @@
+{
+  "id": "Q50301470",
+  "name": "kkochi",
+  "description": "Korean foods cooked on skewers",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kkochi-q50301470/kkochi-q50301470-1.jpg",
+    "images/kkochi-q50301470/kkochi-q50301470-2.jpg",
+    "images/kkochi-q50301470/kkochi-q50301470-3.jpg",
+    "images/kkochi-q50301470/kkochi-q50301470-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50301470",
+    "themealdb": null
+  }
+}

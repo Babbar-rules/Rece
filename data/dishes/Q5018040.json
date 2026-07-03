@@ -1,0 +1,20 @@
+{
+  "id": "Q5018040",
+  "name": "Cakalang fufu",
+  "description": "Indonesian traditional food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cakalang-fufu-q5018040/cakalang-fufu-q5018040-1.jpg",
+    "images/cakalang-fufu-q5018040/cakalang-fufu-q5018040-2.jpg",
+    "images/cakalang-fufu-q5018040/cakalang-fufu-q5018040-3.jpg",
+    "images/cakalang-fufu-q5018040/cakalang-fufu-q5018040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5018040",
+    "themealdb": null
+  }
+}

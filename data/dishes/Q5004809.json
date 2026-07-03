@@ -1,0 +1,20 @@
+{
+  "id": "Q5004809",
+  "name": "bánh rán",
+  "description": "deep-fried glutinous rice ball Vietnamese dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-ran-q5004809/banh-ran-q5004809-1.jpg",
+    "images/banh-ran-q5004809/banh-ran-q5004809-2.jpg",
+    "images/banh-ran-q5004809/banh-ran-q5004809-3.jpg",
+    "images/banh-ran-q5004809/banh-ran-q5004809-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5004809",
+    "themealdb": null
+  }
+}

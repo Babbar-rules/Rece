@@ -1,0 +1,20 @@
+{
+  "id": "Q5003051",
+  "name": "Buttery",
+  "description": "savoury bread roll originating from Aberdeen, Scotland",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buttery-q5003051/buttery-q5003051-1.jpg",
+    "images/buttery-q5003051/buttery-q5003051-2.jpg",
+    "images/buttery-q5003051/buttery-q5003051-3.jpg",
+    "images/buttery-q5003051/buttery-q5003051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5003051",
+    "themealdb": null
+  }
+}

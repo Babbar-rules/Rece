@@ -1,0 +1,20 @@
+{
+  "id": "Q4987202",
+  "name": "Bulalo",
+  "description": "beef dish from the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bulalo-q4987202/bulalo-q4987202-1.jpg",
+    "images/bulalo-q4987202/bulalo-q4987202-2.jpg",
+    "images/bulalo-q4987202/bulalo-q4987202-3.jpg",
+    "images/bulalo-q4987202/bulalo-q4987202-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4987202",
+    "themealdb": null
+  }
+}

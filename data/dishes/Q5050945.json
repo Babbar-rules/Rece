@@ -1,0 +1,20 @@
+{
+  "id": "Q5050945",
+  "name": "Casunziei",
+  "description": "type of stuffed pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/casunziei-q5050945/casunziei-q5050945-1.jpg",
+    "images/casunziei-q5050945/casunziei-q5050945-2.jpg",
+    "images/casunziei-q5050945/casunziei-q5050945-3.jpg",
+    "images/casunziei-q5050945/casunziei-q5050945-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5050945",
+    "themealdb": null
+  }
+}

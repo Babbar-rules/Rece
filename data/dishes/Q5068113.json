@@ -1,0 +1,18 @@
+{
+  "id": "Q5068113",
+  "name": "chaira",
+  "description": "soup of Andean origin, traditional in countries that comprise the Andean region",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chaira-q5068113/chaira-q5068113-1.jpg",
+    "images/chaira-q5068113/chaira-q5068113-2.jpg",
+    "images/chaira-q5068113/chaira-q5068113-3.jpg",
+    "images/chaira-q5068113/chaira-q5068113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5068113",
+    "themealdb": null
+  }
+}

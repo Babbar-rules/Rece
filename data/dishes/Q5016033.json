@@ -1,0 +1,23 @@
+{
+  "id": "Q5016033",
+  "name": "cacio e pepe",
+  "description": "Italian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Roman cuisine",
+    "cuisine of Lazio"
+  ],
+  "images": [
+    "images/cacio-e-pepe-q5016033/cacio-e-pepe-q5016033-1.jpg",
+    "images/cacio-e-pepe-q5016033/cacio-e-pepe-q5016033-2.jpg",
+    "images/cacio-e-pepe-q5016033/cacio-e-pepe-q5016033-3.jpg",
+    "images/cacio-e-pepe-q5016033/cacio-e-pepe-q5016033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5016033",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5005251",
+  "name": "Bún ốc",
+  "description": "Vietnamese soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-oc-q5005251/bun-oc-q5005251-1.jpg",
+    "images/bun-oc-q5005251/bun-oc-q5005251-2.jpg",
+    "images/bun-oc-q5005251/bun-oc-q5005251-3.jpg",
+    "images/bun-oc-q5005251/bun-oc-q5005251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5005251",
+    "themealdb": null
+  }
+}

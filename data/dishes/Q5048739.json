@@ -1,0 +1,20 @@
+{
+  "id": "Q5048739",
+  "name": "cashew chicken",
+  "description": "fried chicken with cashews",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cashew-chicken-q5048739/cashew-chicken-q5048739-1.jpg",
+    "images/cashew-chicken-q5048739/cashew-chicken-q5048739-2.jpg",
+    "images/cashew-chicken-q5048739/cashew-chicken-q5048739-3.jpg",
+    "images/cashew-chicken-q5048739/cashew-chicken-q5048739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5048739",
+    "themealdb": null
+  }
+}

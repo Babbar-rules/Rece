@@ -1,0 +1,18 @@
+{
+  "id": "Q5036496",
+  "name": "Captain's Wafers",
+  "description": "American brand of crackers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/captains-wafers-q5036496/captains-wafers-q5036496-1.png",
+    "images/captains-wafers-q5036496/captains-wafers-q5036496-2.gif",
+    "images/captains-wafers-q5036496/captains-wafers-q5036496-3.jpg",
+    "images/captains-wafers-q5036496/captains-wafers-q5036496-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5036496",
+    "themealdb": null
+  }
+}

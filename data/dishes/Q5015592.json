@@ -1,0 +1,22 @@
+{
+  "id": "Q5015592",
+  "name": "cabinet pudding",
+  "description": "pudding with ladyfingers",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "English cuisine"
+  ],
+  "images": [
+    "images/cabinet-pudding-q5015592/cabinet-pudding-q5015592-1.jpg",
+    "images/cabinet-pudding-q5015592/cabinet-pudding-q5015592-2.jpg",
+    "images/cabinet-pudding-q5015592/cabinet-pudding-q5015592-3.jpg",
+    "images/cabinet-pudding-q5015592/cabinet-pudding-q5015592-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5015592",
+    "themealdb": null
+  }
+}

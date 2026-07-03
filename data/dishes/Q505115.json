@@ -1,0 +1,18 @@
+{
+  "id": "Q505115",
+  "name": "Plätzchen",
+  "description": "German biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/platzchen-q505115/platzchen-q505115-1.jpg",
+    "images/platzchen-q505115/platzchen-q505115-2.jpg",
+    "images/platzchen-q505115/platzchen-q505115-3.jpg",
+    "images/platzchen-q505115/platzchen-q505115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q505115",
+    "themealdb": null
+  }
+}

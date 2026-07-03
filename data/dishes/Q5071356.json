@@ -1,0 +1,20 @@
+{
+  "id": "Q5071356",
+  "name": "Chandrakala",
+  "description": "Indian sweet named after Moon",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chandrakala-q5071356/chandrakala-q5071356-1.jpg",
+    "images/chandrakala-q5071356/chandrakala-q5071356-2.jpg",
+    "images/chandrakala-q5071356/chandrakala-q5071356-3.jpg",
+    "images/chandrakala-q5071356/chandrakala-q5071356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5071356",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5019109",
+  "name": "Caldo de pollo",
+  "description": "Latin American soup dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-de-pollo-q5019109/caldo-de-pollo-q5019109-1.jpg",
+    "images/caldo-de-pollo-q5019109/caldo-de-pollo-q5019109-2.jpg",
+    "images/caldo-de-pollo-q5019109/caldo-de-pollo-q5019109-3.jpg",
+    "images/caldo-de-pollo-q5019109/caldo-de-pollo-q5019109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5019109",
+    "themealdb": null
+  }
+}

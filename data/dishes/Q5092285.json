@@ -1,0 +1,18 @@
+{
+  "id": "Q5092285",
+  "name": "Cherry Blossom",
+  "description": "type of chocolate confection in Canada produced by Hershey Canada Inc. consisting of a maraschino cherry and cherry syrup surrounded by a mixture of chocolate, shredded coconut and roasted peanut pieces",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-blossom-q5092285/cherry-blossom-q5092285-1.jpg",
+    "images/cherry-blossom-q5092285/cherry-blossom-q5092285-2.jpg",
+    "images/cherry-blossom-q5092285/cherry-blossom-q5092285-3.jpg",
+    "images/cherry-blossom-q5092285/cherry-blossom-q5092285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5092285",
+    "themealdb": null
+  }
+}

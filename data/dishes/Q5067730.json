@@ -1,0 +1,20 @@
+{
+  "id": "Q5067730",
+  "name": "chahuis",
+  "description": "common name of edible beetles in the order Coleoptera, traditionally eaten in Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chahuis-q5067730/chahuis-q5067730-1.jpg",
+    "images/chahuis-q5067730/chahuis-q5067730-2.jpg",
+    "images/chahuis-q5067730/chahuis-q5067730-3.jpg",
+    "images/chahuis-q5067730/chahuis-q5067730-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5067730",
+    "themealdb": null
+  }
+}

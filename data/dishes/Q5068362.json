@@ -1,0 +1,18 @@
+{
+  "id": "Q5068362",
+  "name": "Chakkoli",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chakkoli-q5068362/chakkoli-q5068362-1.jpg",
+    "images/chakkoli-q5068362/chakkoli-q5068362-2.jpg",
+    "images/chakkoli-q5068362/chakkoli-q5068362-3.jpg",
+    "images/chakkoli-q5068362/chakkoli-q5068362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5068362",
+    "themealdb": null
+  }
+}

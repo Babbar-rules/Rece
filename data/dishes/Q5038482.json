@@ -1,0 +1,20 @@
+{
+  "id": "Q5038482",
+  "name": "Cawl",
+  "description": "Traditional Welsh soup",
+  "nationality": [
+    "Wales"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cawl-q5038482/cawl-q5038482-1.jpg",
+    "images/cawl-q5038482/cawl-q5038482-2.jpg",
+    "images/cawl-q5038482/cawl-q5038482-3.jpg",
+    "images/cawl-q5038482/cawl-q5038482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5038482",
+    "themealdb": null
+  }
+}

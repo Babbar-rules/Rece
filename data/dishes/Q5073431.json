@@ -1,0 +1,20 @@
+{
+  "id": "Q5073431",
+  "name": "Chapssal-tteok",
+  "description": "Korean glutinous rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chapssal-tteok-q5073431/chapssal-tteok-q5073431-1.jpg",
+    "images/chapssal-tteok-q5073431/chapssal-tteok-q5073431-2.jpg",
+    "images/chapssal-tteok-q5073431/chapssal-tteok-q5073431-3.jpg",
+    "images/chapssal-tteok-q5073431/chapssal-tteok-q5073431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5073431",
+    "themealdb": null
+  }
+}

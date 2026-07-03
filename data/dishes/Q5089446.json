@@ -1,0 +1,19 @@
+{
+  "id": "Q5089446",
+  "name": "Cheesymite scroll",
+  "description": "Australian baked food",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheesymite-scroll-q5089446/cheesymite-scroll-q5089446-1.jpg",
+    "images/cheesymite-scroll-q5089446/cheesymite-scroll-q5089446-2.jpg",
+    "images/cheesymite-scroll-q5089446/cheesymite-scroll-q5089446-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5089446",
+    "themealdb": null
+  }
+}

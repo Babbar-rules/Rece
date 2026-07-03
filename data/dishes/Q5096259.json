@@ -1,0 +1,20 @@
+{
+  "id": "Q5096259",
+  "name": "Chicken Maryland",
+  "description": "fried chicken dish with cream sauce",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the Southern United States"
+  ],
+  "images": [
+    "images/chicken-maryland-q5096259/chicken-maryland-q5096259-1.jpg",
+    "images/chicken-maryland-q5096259/chicken-maryland-q5096259-2.jpg",
+    "images/chicken-maryland-q5096259/chicken-maryland-q5096259-3.jpg",
+    "images/chicken-maryland-q5096259/chicken-maryland-q5096259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096259",
+    "themealdb": null
+  }
+}

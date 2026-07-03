@@ -1,0 +1,20 @@
+{
+  "id": "Q5089399",
+  "name": "cheese dog",
+  "description": "type of hot dog",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-dog-q5089399/cheese-dog-q5089399-1.jpg",
+    "images/cheese-dog-q5089399/cheese-dog-q5089399-2.jpg",
+    "images/cheese-dog-q5089399/cheese-dog-q5089399-3.jpg",
+    "images/cheese-dog-q5089399/cheese-dog-q5089399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5089399",
+    "themealdb": null
+  }
+}

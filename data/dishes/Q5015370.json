@@ -1,0 +1,20 @@
+{
+  "id": "Q5015370",
+  "name": "kelle",
+  "description": "Turkish dish made of head meat (generally sheep)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kelle-q5015370/kelle-q5015370-1.jpg",
+    "images/kelle-q5015370/kelle-q5015370-2.jpg",
+    "images/kelle-q5015370/kelle-q5015370-3.jpg",
+    "images/kelle-q5015370/kelle-q5015370-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5015370",
+    "themealdb": null
+  }
+}

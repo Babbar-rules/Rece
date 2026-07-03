@@ -1,0 +1,20 @@
+{
+  "id": "Q5030681",
+  "name": "Canadian white bread",
+  "description": "Type of commercially prepared bread",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/canadian-white-bread-q5030681/canadian-white-bread-q5030681-1.jpg",
+    "images/canadian-white-bread-q5030681/canadian-white-bread-q5030681-2.jpg",
+    "images/canadian-white-bread-q5030681/canadian-white-bread-q5030681-3.jpg",
+    "images/canadian-white-bread-q5030681/canadian-white-bread-q5030681-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5030681",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "Q50633",
+  "name": "bánh xèo",
+  "description": "Vietnamese thin pancakes",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [
+    "Pork"
+  ],
+  "images": [
+    "images/banh-xeo-q50633/banh-xeo-q50633-1.jpg",
+    "images/banh-xeo-q50633/banh-xeo-q50633-2.jpg",
+    "images/banh-xeo-q50633/banh-xeo-q50633-3.jpg",
+    "images/banh-xeo-q50633/banh-xeo-q50633-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53502",
+    "category": "Pork",
+    "area": null,
+    "instructions": "Whisk together rice flour, cornstarch, coconut milk, water, and turmeric in a bowl until smooth, then let rest for 15 minutes—this hydrates the flour for better texture.\r\nHeat a 10-inch non-stick skillet over medium-high heat (375°F) and add 1/2 tablespoon of vegetable oil.\r\nSauté pork belly slices for 3–4 minutes until lightly browned, then push to one side of the skillet.\r\nAdd onion slices and cook for 1 minute until slightly softened.\r\nStir the batter briefly and pour about 1/2 cup into the skillet, immediately swirling to coat the bottom thinly.\r\nScatter bean sprouts over half of the pancake and cover the skillet with a lid for 2 minutes to steam the sprouts.\r\nUncover and cook for another 3–4 minutes until the edges curl and turn golden brown and crispy.\r\nFold the pancake in half over the bean sprouts using a spatula, then transfer to a plate.\r\nRepeat steps 2–8 with remaining batter and ingredients, adding oil as needed to prevent sticking.\r\nServe immediately with fish sauce for dipping.",
+    "ingredients": [
+      {
+        "ingredient": "Rice Flour",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "1 1/4 cup"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "Ground Turmeric",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Pork belly slices",
+        "measure": "1/2 lb"
+      },
+      {
+        "ingredient": "Bean Sprouts",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Fish Sauce",
+        "measure": "Splash"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/xrv78g1782769859.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q50633",
+    "themealdb": "53502"
+  }
+}

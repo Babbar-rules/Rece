@@ -1,0 +1,20 @@
+{
+  "id": "Q4992018",
+  "name": "po' boy",
+  "description": "po' boy almost always consists of meat, which is usually roast beef or fried seafood, often shrimp, crawfish, fish, oysters or crab. The meat is served on New Orleans French bread, known for its crisp crust and fluffy center",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/po-boy-q4992018/po-boy-q4992018-1.jpg",
+    "images/po-boy-q4992018/po-boy-q4992018-2.jpg",
+    "images/po-boy-q4992018/po-boy-q4992018-3.jpg",
+    "images/po-boy-q4992018/po-boy-q4992018-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4992018",
+    "themealdb": null
+  }
+}

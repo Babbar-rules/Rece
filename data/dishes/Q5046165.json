@@ -1,0 +1,20 @@
+{
+  "id": "Q5046165",
+  "name": "Morioka reimen",
+  "description": "Japanese dish of cold noodles from Morioka, Japan, originating from Korean naengmyeon",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/morioka-reimen-q5046165/morioka-reimen-q5046165-1.jpg",
+    "images/morioka-reimen-q5046165/morioka-reimen-q5046165-2.jpg",
+    "images/morioka-reimen-q5046165/morioka-reimen-q5046165-3.jpg",
+    "images/morioka-reimen-q5046165/morioka-reimen-q5046165-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5046165",
+    "themealdb": null
+  }
+}

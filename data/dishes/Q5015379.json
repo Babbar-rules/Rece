@@ -1,0 +1,18 @@
+{
+  "id": "Q5015379",
+  "name": "Cabeça de galo",
+  "description": "Brazilian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabeca-de-galo-q5015379/cabeca-de-galo-q5015379-1.jpg",
+    "images/cabeca-de-galo-q5015379/cabeca-de-galo-q5015379-2.jpg",
+    "images/cabeca-de-galo-q5015379/cabeca-de-galo-q5015379-3.jpg",
+    "images/cabeca-de-galo-q5015379/cabeca-de-galo-q5015379-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5015379",
+    "themealdb": null
+  }
+}

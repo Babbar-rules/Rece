@@ -1,0 +1,20 @@
+{
+  "id": "Q5005250",
+  "name": "Bún mắm",
+  "description": "Vietnamese vermicelli soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bun-mam-q5005250/bun-mam-q5005250-1.jpg",
+    "images/bun-mam-q5005250/bun-mam-q5005250-2.jpg",
+    "images/bun-mam-q5005250/bun-mam-q5005250-3.jpg",
+    "images/bun-mam-q5005250/bun-mam-q5005250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5005250",
+    "themealdb": null
+  }
+}

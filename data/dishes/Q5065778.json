@@ -1,0 +1,20 @@
+{
+  "id": "Q5065778",
+  "name": "Ceylon",
+  "description": "family of curry recipes with the key ingredients of coconut, lime, Ceylon curry powder",
+  "nationality": [
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ceylon-q5065778/ceylon-q5065778-1.jpg",
+    "images/ceylon-q5065778/ceylon-q5065778-2.jpg",
+    "images/ceylon-q5065778/ceylon-q5065778-3.jpg",
+    "images/ceylon-q5065778/ceylon-q5065778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5065778",
+    "themealdb": null
+  }
+}

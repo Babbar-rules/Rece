@@ -1,0 +1,20 @@
+{
+  "id": "Q5022901",
+  "name": "Callos",
+  "description": "Spanish beef tripe and sausage stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/callos-q5022901/callos-q5022901-1.jpg",
+    "images/callos-q5022901/callos-q5022901-2.jpg",
+    "images/callos-q5022901/callos-q5022901-3.jpg",
+    "images/callos-q5022901/callos-q5022901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5022901",
+    "themealdb": null
+  }
+}

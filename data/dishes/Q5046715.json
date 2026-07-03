@@ -1,0 +1,18 @@
+{
+  "id": "Q5046715",
+  "name": "carrot pudding",
+  "description": "sweet dessert made with carrots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carrot-pudding-q5046715/carrot-pudding-q5046715-1.jpg",
+    "images/carrot-pudding-q5046715/carrot-pudding-q5046715-2.jpg",
+    "images/carrot-pudding-q5046715/carrot-pudding-q5046715-3.jpg",
+    "images/carrot-pudding-q5046715/carrot-pudding-q5046715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5046715",
+    "themealdb": null
+  }
+}

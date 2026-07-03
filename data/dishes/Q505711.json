@@ -1,0 +1,20 @@
+{
+  "id": "Q505711",
+  "name": "nattō",
+  "description": "traditional Japanese food made from fermented soybeans",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/natto-q505711/natto-q505711-1.jpg",
+    "images/natto-q505711/natto-q505711-2.jpg",
+    "images/natto-q505711/natto-q505711-3.jpg",
+    "images/natto-q505711/natto-q505711-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q505711",
+    "themealdb": null
+  }
+}

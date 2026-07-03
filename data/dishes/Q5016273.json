@@ -1,0 +1,15 @@
+{
+  "id": "Q5016273",
+  "name": "Cadbury Mr. Big",
+  "description": "Canadian candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cadbury-mr-big-q5016273/cadbury-mr-big-q5016273-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5016273",
+    "themealdb": null
+  }
+}

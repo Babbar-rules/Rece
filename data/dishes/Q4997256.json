@@ -1,0 +1,20 @@
+{
+  "id": "Q4997256",
+  "name": "Bumbleberry pie",
+  "description": "Canadian mixed berry pie",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bumbleberry-pie-q4997256/bumbleberry-pie-q4997256-1.jpg",
+    "images/bumbleberry-pie-q4997256/bumbleberry-pie-q4997256-2.jpg",
+    "images/bumbleberry-pie-q4997256/bumbleberry-pie-q4997256-3.jpg",
+    "images/bumbleberry-pie-q4997256/bumbleberry-pie-q4997256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4997256",
+    "themealdb": null
+  }
+}

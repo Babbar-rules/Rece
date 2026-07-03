@@ -1,0 +1,20 @@
+{
+  "id": "Q500708",
+  "name": "pizza marinara",
+  "description": "typical Neapolitan pizza topped with tomato, garlic, oregano and olive oil",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-marinara-q500708/pizza-marinara-q500708-1.jpg",
+    "images/pizza-marinara-q500708/pizza-marinara-q500708-2.jpg",
+    "images/pizza-marinara-q500708/pizza-marinara-q500708-3.jpg",
+    "images/pizza-marinara-q500708/pizza-marinara-q500708-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q500708",
+    "themealdb": null
+  }
+}

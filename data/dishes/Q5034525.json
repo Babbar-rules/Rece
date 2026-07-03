@@ -1,0 +1,20 @@
+{
+  "id": "Q5034525",
+  "name": "Caparrones",
+  "description": "caparrón stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caparrones-q5034525/caparrones-q5034525-1.jpg",
+    "images/caparrones-q5034525/caparrones-q5034525-2.jpg",
+    "images/caparrones-q5034525/caparrones-q5034525-3.jpg",
+    "images/caparrones-q5034525/caparrones-q5034525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5034525",
+    "themealdb": null
+  }
+}

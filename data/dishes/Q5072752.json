@@ -1,0 +1,20 @@
+{
+  "id": "Q5072752",
+  "name": "Chao hong guo",
+  "description": "traditional dish in Beijing cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chao-hong-guo-q5072752/chao-hong-guo-q5072752-1.jpg",
+    "images/chao-hong-guo-q5072752/chao-hong-guo-q5072752-2.jpg",
+    "images/chao-hong-guo-q5072752/chao-hong-guo-q5072752-3.jpg",
+    "images/chao-hong-guo-q5072752/chao-hong-guo-q5072752-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5072752",
+    "themealdb": null
+  }
+}

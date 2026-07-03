@@ -1,0 +1,18 @@
+{
+  "id": "Q5089403",
+  "name": "cheese pudding",
+  "description": "Pudding dish made with cheese",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-pudding-q5089403/cheese-pudding-q5089403-1.jpg",
+    "images/cheese-pudding-q5089403/cheese-pudding-q5089403-2.jpg",
+    "images/cheese-pudding-q5089403/cheese-pudding-q5089403-3.jpg",
+    "images/cheese-pudding-q5089403/cheese-pudding-q5089403-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5089403",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5072677",
+  "name": "Chantilly cake",
+  "description": "one of two types of cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chantilly-cake-q5072677/chantilly-cake-q5072677-1.jpg",
+    "images/chantilly-cake-q5072677/chantilly-cake-q5072677-2.jpg",
+    "images/chantilly-cake-q5072677/chantilly-cake-q5072677-3.jpg",
+    "images/chantilly-cake-q5072677/chantilly-cake-q5072677-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5072677",
+    "themealdb": null
+  }
+}

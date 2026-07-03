@@ -1,0 +1,20 @@
+{
+  "id": "Q5096240",
+  "name": "Chicken French",
+  "description": "italian-American dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Italian-American cuisine"
+  ],
+  "images": [
+    "images/chicken-french-q5096240/chicken-french-q5096240-1.jpg",
+    "images/chicken-french-q5096240/chicken-french-q5096240-2.jpg",
+    "images/chicken-french-q5096240/chicken-french-q5096240-3.jpg",
+    "images/chicken-french-q5096240/chicken-french-q5096240-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096240",
+    "themealdb": null
+  }
+}

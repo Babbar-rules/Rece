@@ -1,0 +1,20 @@
+{
+  "id": "Q5004795",
+  "name": "bánh bò",
+  "description": "Vietnamese sponge cake made of yeasted rice flour",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-bo-q5004795/banh-bo-q5004795-1.jpg",
+    "images/banh-bo-q5004795/banh-bo-q5004795-2.jpg",
+    "images/banh-bo-q5004795/banh-bo-q5004795-3.jpg",
+    "images/banh-bo-q5004795/banh-bo-q5004795-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5004795",
+    "themealdb": null
+  }
+}

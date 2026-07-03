@@ -1,0 +1,20 @@
+{
+  "id": "Q5096312",
+  "name": "chicken parmesan",
+  "description": "Italian-American dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-parmesan-q5096312/chicken-parmesan-q5096312-1.jpg",
+    "images/chicken-parmesan-q5096312/chicken-parmesan-q5096312-2.jpg",
+    "images/chicken-parmesan-q5096312/chicken-parmesan-q5096312-3.jpg",
+    "images/chicken-parmesan-q5096312/chicken-parmesan-q5096312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096312",
+    "themealdb": null
+  }
+}

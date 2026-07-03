@@ -1,0 +1,15 @@
+{
+  "id": "Q5042737",
+  "name": "Carlos V chocolate bar",
+  "description": "Mexican chocolate bar",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5042737",
+    "themealdb": null
+  }
+}

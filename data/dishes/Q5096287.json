@@ -1,0 +1,20 @@
+{
+  "id": "Q5096287",
+  "name": "chicken and waffles",
+  "description": "U.S. dish combining fried chicken with waffles",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-and-waffles-q5096287/chicken-and-waffles-q5096287-1.jpg",
+    "images/chicken-and-waffles-q5096287/chicken-and-waffles-q5096287-2.jpg",
+    "images/chicken-and-waffles-q5096287/chicken-and-waffles-q5096287-3.jpg",
+    "images/chicken-and-waffles-q5096287/chicken-and-waffles-q5096287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5096287",
+    "themealdb": null
+  }
+}

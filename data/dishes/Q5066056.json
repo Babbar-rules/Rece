@@ -1,0 +1,20 @@
+{
+  "id": "Q5066056",
+  "name": "Chacarero",
+  "description": "Chilean sandwich",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chacarero-q5066056/chacarero-q5066056-1.jpg",
+    "images/chacarero-q5066056/chacarero-q5066056-2.jpg",
+    "images/chacarero-q5066056/chacarero-q5066056-3.jpg",
+    "images/chacarero-q5066056/chacarero-q5066056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5066056",
+    "themealdb": null
+  }
+}

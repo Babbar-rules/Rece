@@ -1,0 +1,22 @@
+{
+  "id": "Q5093340",
+  "name": "chess pie",
+  "description": "Southern US pie with a filling of flour, butter, sugar, eggs, and milk",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [
+    "cuisine of the Southern United States"
+  ],
+  "images": [
+    "images/chess-pie-q5093340/chess-pie-q5093340-1.jpg",
+    "images/chess-pie-q5093340/chess-pie-q5093340-2.jpg",
+    "images/chess-pie-q5093340/chess-pie-q5093340-3.jpg",
+    "images/chess-pie-q5093340/chess-pie-q5093340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5093340",
+    "themealdb": null
+  }
+}
