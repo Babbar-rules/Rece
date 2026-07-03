@@ -1,0 +1,20 @@
+{
+  "id": "Q19820105",
+  "name": "Semizotu with yogurt",
+  "description": "Turkish meze or starter plate made with verdolaga and yogurt",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/semizotu-with-yogurt-q19820105/semizotu-with-yogurt-q19820105-1.jpg",
+    "images/semizotu-with-yogurt-q19820105/semizotu-with-yogurt-q19820105-2.jpg",
+    "images/semizotu-with-yogurt-q19820105/semizotu-with-yogurt-q19820105-3.jpg",
+    "images/semizotu-with-yogurt-q19820105/semizotu-with-yogurt-q19820105-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19820105",
+    "themealdb": null
+  }
+}

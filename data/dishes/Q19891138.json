@@ -1,0 +1,17 @@
+{
+  "id": "Q19891138",
+  "name": "Chargha",
+  "description": "Pakistani chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chargha-q19891138/chargha-q19891138-1.jpg",
+    "images/chargha-q19891138/chargha-q19891138-2.jpg",
+    "images/chargha-q19891138/chargha-q19891138-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19891138",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q20044",
+  "name": "tagliatelle",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/tagliatelle-q20044/tagliatelle-q20044-1.jpg",
+    "images/tagliatelle-q20044/tagliatelle-q20044-2.jpg",
+    "images/tagliatelle-q20044/tagliatelle-q20044-3.jpg",
+    "images/tagliatelle-q20044/tagliatelle-q20044-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20044",
+    "themealdb": null
+  }
+}

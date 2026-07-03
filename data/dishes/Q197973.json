@@ -1,0 +1,20 @@
+{
+  "id": "Q197973",
+  "name": "French toast",
+  "description": "bread soaked in beaten eggs and then fried",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/french-toast-q197973/french-toast-q197973-1.jpg",
+    "images/french-toast-q197973/french-toast-q197973-2.jpg",
+    "images/french-toast-q197973/french-toast-q197973-3.jpg",
+    "images/french-toast-q197973/french-toast-q197973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q197973",
+    "themealdb": null
+  }
+}

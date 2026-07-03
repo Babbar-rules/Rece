@@ -1,0 +1,20 @@
+{
+  "id": "Q20055",
+  "name": "Maultasche",
+  "description": "German dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maultasche-q20055/maultasche-q20055-1.jpg",
+    "images/maultasche-q20055/maultasche-q20055-2.jpg",
+    "images/maultasche-q20055/maultasche-q20055-3.jpg",
+    "images/maultasche-q20055/maultasche-q20055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20055",
+    "themealdb": null
+  }
+}

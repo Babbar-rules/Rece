@@ -1,0 +1,20 @@
+{
+  "id": "Q2009326",
+  "name": "butterscotch",
+  "description": "type of confection whose primary ingredients are brown sugar and butter",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/butterscotch-q2009326/butterscotch-q2009326-1.jpg",
+    "images/butterscotch-q2009326/butterscotch-q2009326-2.jpg",
+    "images/butterscotch-q2009326/butterscotch-q2009326-3.jpg",
+    "images/butterscotch-q2009326/butterscotch-q2009326-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2009326",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19903564",
+  "name": "bolo de arroz",
+  "description": "rice muffin from Portugal",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolo-de-arroz-q19903564/bolo-de-arroz-q19903564-1.jpg",
+    "images/bolo-de-arroz-q19903564/bolo-de-arroz-q19903564-2.jpg",
+    "images/bolo-de-arroz-q19903564/bolo-de-arroz-q19903564-3.jpg",
+    "images/bolo-de-arroz-q19903564/bolo-de-arroz-q19903564-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19903564",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19959",
+  "name": "cavatelli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cavatelli-q19959/cavatelli-q19959-1.jpg",
+    "images/cavatelli-q19959/cavatelli-q19959-2.jpg",
+    "images/cavatelli-q19959/cavatelli-q19959-3.jpg",
+    "images/cavatelli-q19959/cavatelli-q19959-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19959",
+    "themealdb": null
+  }
+}

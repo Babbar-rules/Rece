@@ -1,0 +1,20 @@
+{
+  "id": "Q200527",
+  "name": "Salisbury steak",
+  "description": "meat patty",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salisbury-steak-q200527/salisbury-steak-q200527-1.jpg",
+    "images/salisbury-steak-q200527/salisbury-steak-q200527-2.jpg",
+    "images/salisbury-steak-q200527/salisbury-steak-q200527-3.jpg",
+    "images/salisbury-steak-q200527/salisbury-steak-q200527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q200527",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19893634",
+  "name": "Nem Nướng",
+  "description": "Vietnamese food item",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nem-nuong-q19893634/nem-nuong-q19893634-1.jpg",
+    "images/nem-nuong-q19893634/nem-nuong-q19893634-2.jpg",
+    "images/nem-nuong-q19893634/nem-nuong-q19893634-3.jpg",
+    "images/nem-nuong-q19893634/nem-nuong-q19893634-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19893634",
+    "themealdb": null
+  }
+}

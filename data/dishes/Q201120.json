@@ -1,0 +1,28 @@
+{
+  "id": "Q201120",
+  "name": "paska",
+  "description": "Eastern European pastry traditionally baked for Easter",
+  "nationality": [
+    "Russia",
+    "Belarus",
+    "Ukraine",
+    "Moldova",
+    "Romania"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/paska-q201120/paska-q201120-1.jpg",
+    "images/paska-q201120/paska-q201120-2.jpg",
+    "images/paska-q201120/paska-q201120-3.jpg",
+    "images/paska-q201120/paska-q201120-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q201120",
+    "themealdb": null
+  }
+}

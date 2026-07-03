@@ -1,0 +1,18 @@
+{
+  "id": "Q19895414",
+  "name": "Chingri malai curry",
+  "description": "Bengali curry made from prawns and coconut milk and flavored with spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chingri-malai-curry-q19895414/chingri-malai-curry-q19895414-1.jpg",
+    "images/chingri-malai-curry-q19895414/chingri-malai-curry-q19895414-2.jpg",
+    "images/chingri-malai-curry-q19895414/chingri-malai-curry-q19895414-3.jpg",
+    "images/chingri-malai-curry-q19895414/chingri-malai-curry-q19895414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19895414",
+    "themealdb": null
+  }
+}

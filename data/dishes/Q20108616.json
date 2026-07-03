@@ -1,0 +1,20 @@
+{
+  "id": "Q20108616",
+  "name": "patlıcanlı köfte",
+  "description": "Turkish meatball stew with eggplants",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/patlcanl-kofte-q20108616/patlcanl-kofte-q20108616-1.jpg",
+    "images/patlcanl-kofte-q20108616/patlcanl-kofte-q20108616-2.jpg",
+    "images/patlcanl-kofte-q20108616/patlcanl-kofte-q20108616-3.jpg",
+    "images/patlcanl-kofte-q20108616/patlcanl-kofte-q20108616-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20108616",
+    "themealdb": null
+  }
+}

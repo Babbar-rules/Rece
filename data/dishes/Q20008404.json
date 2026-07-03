@@ -1,0 +1,18 @@
+{
+  "id": "Q20008404",
+  "name": "pinza bolognese",
+  "description": "Italian pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pinza-bolognese-q20008404/pinza-bolognese-q20008404-1.jpg",
+    "images/pinza-bolognese-q20008404/pinza-bolognese-q20008404-2.png",
+    "images/pinza-bolognese-q20008404/pinza-bolognese-q20008404-3.jpg",
+    "images/pinza-bolognese-q20008404/pinza-bolognese-q20008404-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20008404",
+    "themealdb": null
+  }
+}

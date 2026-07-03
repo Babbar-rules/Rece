@@ -1,0 +1,20 @@
+{
+  "id": "Q19969",
+  "name": "orecchiette",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/orecchiette-q19969/orecchiette-q19969-1.jpg",
+    "images/orecchiette-q19969/orecchiette-q19969-2.jpg",
+    "images/orecchiette-q19969/orecchiette-q19969-3.jpg",
+    "images/orecchiette-q19969/orecchiette-q19969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19969",
+    "themealdb": null
+  }
+}

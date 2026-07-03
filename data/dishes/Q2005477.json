@@ -1,0 +1,20 @@
+{
+  "id": "Q2005477",
+  "name": "Walnut and almond cake",
+  "description": "Polish cake",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/walnut-and-almond-cake-q2005477/walnut-and-almond-cake-q2005477-1.jpg",
+    "images/walnut-and-almond-cake-q2005477/walnut-and-almond-cake-q2005477-2.jpg",
+    "images/walnut-and-almond-cake-q2005477/walnut-and-almond-cake-q2005477-3.jpg",
+    "images/walnut-and-almond-cake-q2005477/walnut-and-almond-cake-q2005477-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2005477",
+    "themealdb": null
+  }
+}

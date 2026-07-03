@@ -1,0 +1,20 @@
+{
+  "id": "Q20041",
+  "name": "pappardelle",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pappardelle-q20041/pappardelle-q20041-1.jpg",
+    "images/pappardelle-q20041/pappardelle-q20041-2.jpg",
+    "images/pappardelle-q20041/pappardelle-q20041-3.jpg",
+    "images/pappardelle-q20041/pappardelle-q20041-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20041",
+    "themealdb": null
+  }
+}

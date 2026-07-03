@@ -1,0 +1,20 @@
+{
+  "id": "Q20061",
+  "name": "tortelloni",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortelloni-q20061/tortelloni-q20061-1.jpg",
+    "images/tortelloni-q20061/tortelloni-q20061-2.jpg",
+    "images/tortelloni-q20061/tortelloni-q20061-3.jpg",
+    "images/tortelloni-q20061/tortelloni-q20061-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20061",
+    "themealdb": null
+  }
+}

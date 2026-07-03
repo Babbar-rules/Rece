@@ -1,0 +1,20 @@
+{
+  "id": "Q19962",
+  "name": "conchiglie",
+  "description": "type of pasta in the shape of a seashell",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/conchiglie-q19962/conchiglie-q19962-1.png",
+    "images/conchiglie-q19962/conchiglie-q19962-2.png",
+    "images/conchiglie-q19962/conchiglie-q19962-3.jpg",
+    "images/conchiglie-q19962/conchiglie-q19962-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19962",
+    "themealdb": null
+  }
+}

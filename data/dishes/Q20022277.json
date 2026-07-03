@@ -1,0 +1,18 @@
+{
+  "id": "Q20022277",
+  "name": "Rondón",
+  "description": "Afro-Caribbean dish present in Latin American Cuisine, made of seafood, coconut milk and vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rondon-q20022277/rondon-q20022277-1.jpg",
+    "images/rondon-q20022277/rondon-q20022277-2.jpg",
+    "images/rondon-q20022277/rondon-q20022277-3.jpg",
+    "images/rondon-q20022277/rondon-q20022277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20022277",
+    "themealdb": null
+  }
+}

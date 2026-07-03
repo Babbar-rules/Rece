@@ -1,0 +1,22 @@
+{
+  "id": "Q20023",
+  "name": "Paccheri",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/paccheri-q20023/paccheri-q20023-1.jpg",
+    "images/paccheri-q20023/paccheri-q20023-2.jpg",
+    "images/paccheri-q20023/paccheri-q20023-3.jpg",
+    "images/paccheri-q20023/paccheri-q20023-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20023",
+    "themealdb": null
+  }
+}

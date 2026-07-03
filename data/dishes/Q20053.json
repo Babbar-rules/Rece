@@ -1,0 +1,21 @@
+{
+  "id": "Q20053",
+  "name": "ravioli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ravioli-q20053/ravioli-q20053-1.jpg",
+    "images/ravioli-q20053/ravioli-q20053-2.jpg",
+    "images/ravioli-q20053/ravioli-q20053-3.jpg",
+    "images/ravioli-q20053/ravioli-q20053-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20053",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q20017159",
+  "name": "mantecados de Portillo",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mantecados-de-portillo-q20017159/mantecados-de-portillo-q20017159-1.jpg",
+    "images/mantecados-de-portillo-q20017159/mantecados-de-portillo-q20017159-2.jpg",
+    "images/mantecados-de-portillo-q20017159/mantecados-de-portillo-q20017159-3.jpg",
+    "images/mantecados-de-portillo-q20017159/mantecados-de-portillo-q20017159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20017159",
+    "themealdb": null
+  }
+}

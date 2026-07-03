@@ -1,0 +1,20 @@
+{
+  "id": "Q20165873",
+  "name": "Kue mangkok",
+  "description": "Indonesian dessert",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kue-mangkok-q20165873/kue-mangkok-q20165873-1.jpg",
+    "images/kue-mangkok-q20165873/kue-mangkok-q20165873-2.jpg",
+    "images/kue-mangkok-q20165873/kue-mangkok-q20165873-3.jpg",
+    "images/kue-mangkok-q20165873/kue-mangkok-q20165873-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20165873",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19947359",
+  "name": "canard á foie gras du Sud-Ouest",
+  "description": "indication géographique protégée, in France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/canard-a-foie-gras-du-sud-ouest-q19947359/canard-a-foie-gras-du-sud-ouest-q19947359-1.jpg",
+    "images/canard-a-foie-gras-du-sud-ouest-q19947359/canard-a-foie-gras-du-sud-ouest-q19947359-2.jpg",
+    "images/canard-a-foie-gras-du-sud-ouest-q19947359/canard-a-foie-gras-du-sud-ouest-q19947359-3.jpg",
+    "images/canard-a-foie-gras-du-sud-ouest-q19947359/canard-a-foie-gras-du-sud-ouest-q19947359-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19947359",
+    "themealdb": null
+  }
+}

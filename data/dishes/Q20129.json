@@ -1,0 +1,44 @@
+{
+  "id": "Q20129",
+  "name": "omelette",
+  "description": "egg dish",
+  "nationality": [
+    "Persian Empire"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/omelette-q20129/omelette-q20129-1.jpg",
+    "images/omelette-q20129/omelette-q20129-2.jpg",
+    "images/omelette-q20129/omelette-q20129-3.jpg",
+    "images/omelette-q20129/omelette-q20129-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53076",
+    "category": "Breakfast",
+    "area": "India",
+    "instructions": "Make and enjoy",
+    "ingredients": [
+      {
+        "ingredient": "Bread",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "0.5"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20129",
+    "themealdb": "53076"
+  }
+}

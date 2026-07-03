@@ -1,0 +1,20 @@
+{
+  "id": "Q1995435",
+  "name": "tiradito",
+  "description": "Peruvian dish of raw seafood",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiradito-q1995435/tiradito-q1995435-1.jpg",
+    "images/tiradito-q1995435/tiradito-q1995435-2.jpg",
+    "images/tiradito-q1995435/tiradito-q1995435-3.jpg",
+    "images/tiradito-q1995435/tiradito-q1995435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1995435",
+    "themealdb": null
+  }
+}

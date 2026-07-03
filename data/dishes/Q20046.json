@@ -1,0 +1,20 @@
+{
+  "id": "Q20046",
+  "name": "tagliolini",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tagliolini-q20046/tagliolini-q20046-1.png",
+    "images/tagliolini-q20046/tagliolini-q20046-2.png",
+    "images/tagliolini-q20046/tagliolini-q20046-3.jpg",
+    "images/tagliolini-q20046/tagliolini-q20046-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20046",
+    "themealdb": null
+  }
+}

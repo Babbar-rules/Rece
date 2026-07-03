@@ -1,0 +1,20 @@
+{
+  "id": "Q19894306",
+  "name": "mutton curry",
+  "description": "South Asian curry dish that is prepared from mutton",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mutton-curry-q19894306/mutton-curry-q19894306-1.jpg",
+    "images/mutton-curry-q19894306/mutton-curry-q19894306-2.jpg",
+    "images/mutton-curry-q19894306/mutton-curry-q19894306-3.jpg",
+    "images/mutton-curry-q19894306/mutton-curry-q19894306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19894306",
+    "themealdb": null
+  }
+}

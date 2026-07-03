@@ -1,0 +1,22 @@
+{
+  "id": "Q19944109",
+  "name": "pukis",
+  "description": "Indonesian hot cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pukis-q19944109/pukis-q19944109-1.jpg",
+    "images/pukis-q19944109/pukis-q19944109-2.jpg",
+    "images/pukis-q19944109/pukis-q19944109-3.jpg",
+    "images/pukis-q19944109/pukis-q19944109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19944109",
+    "themealdb": null
+  }
+}

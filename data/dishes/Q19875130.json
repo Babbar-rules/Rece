@@ -1,0 +1,22 @@
+{
+  "id": "Q19875130",
+  "name": "Light cheese cake",
+  "description": "Light sponge cake with cream cheese",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/light-cheese-cake-q19875130/light-cheese-cake-q19875130-1.jpg",
+    "images/light-cheese-cake-q19875130/light-cheese-cake-q19875130-2.jpg",
+    "images/light-cheese-cake-q19875130/light-cheese-cake-q19875130-3.jpg",
+    "images/light-cheese-cake-q19875130/light-cheese-cake-q19875130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19875130",
+    "themealdb": null
+  }
+}

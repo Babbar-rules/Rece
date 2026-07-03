@@ -1,0 +1,22 @@
+{
+  "id": "Q20042",
+  "name": "pizzoccheri",
+  "description": "type of short tagliatelle, a flat ribbon pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Valtellina"
+  ],
+  "images": [
+    "images/pizzoccheri-q20042/pizzoccheri-q20042-1.jpg",
+    "images/pizzoccheri-q20042/pizzoccheri-q20042-2.jpg",
+    "images/pizzoccheri-q20042/pizzoccheri-q20042-3.jpg",
+    "images/pizzoccheri-q20042/pizzoccheri-q20042-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20042",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q20162674",
+  "name": "pineapple marmalade",
+  "description": "marmalade made from pineapple",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-marmalade-q20162674/pineapple-marmalade-q20162674-1.jpg",
+    "images/pineapple-marmalade-q20162674/pineapple-marmalade-q20162674-2.jpg",
+    "images/pineapple-marmalade-q20162674/pineapple-marmalade-q20162674-3.jpg",
+    "images/pineapple-marmalade-q20162674/pineapple-marmalade-q20162674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20162674",
+    "themealdb": null
+  }
+}

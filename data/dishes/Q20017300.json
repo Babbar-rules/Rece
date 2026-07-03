@@ -1,0 +1,18 @@
+{
+  "id": "Q20017300",
+  "name": "corone",
+  "description": "Japanese horn-shaped sweet bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/corone-q20017300/corone-q20017300-1.jpg",
+    "images/corone-q20017300/corone-q20017300-2.jpg",
+    "images/corone-q20017300/corone-q20017300-3.jpg",
+    "images/corone-q20017300/corone-q20017300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20017300",
+    "themealdb": null
+  }
+}

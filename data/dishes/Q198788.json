@@ -1,0 +1,20 @@
+{
+  "id": "Q198788",
+  "name": "senbei",
+  "description": "Japanese rice cracker",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/senbei-q198788/senbei-q198788-1.jpg",
+    "images/senbei-q198788/senbei-q198788-2.jpg",
+    "images/senbei-q198788/senbei-q198788-3.jpg",
+    "images/senbei-q198788/senbei-q198788-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q198788",
+    "themealdb": null
+  }
+}

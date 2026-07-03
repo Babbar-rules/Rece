@@ -1,0 +1,17 @@
+{
+  "id": "Q2013640",
+  "name": "Oxmouth Salad",
+  "description": "Beef muzzle meat salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oxmouth-salad-q2013640/oxmouth-salad-q2013640-1.jpg",
+    "images/oxmouth-salad-q2013640/oxmouth-salad-q2013640-2.jpg",
+    "images/oxmouth-salad-q2013640/oxmouth-salad-q2013640-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2013640",
+    "themealdb": null
+  }
+}

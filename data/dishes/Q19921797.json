@@ -1,0 +1,18 @@
+{
+  "id": "Q19921797",
+  "name": "dried mixed fruits",
+  "description": "mixture of dried fruits",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dried-mixed-fruits-q19921797/dried-mixed-fruits-q19921797-1.jpg",
+    "images/dried-mixed-fruits-q19921797/dried-mixed-fruits-q19921797-2.jpg",
+    "images/dried-mixed-fruits-q19921797/dried-mixed-fruits-q19921797-3.jpg",
+    "images/dried-mixed-fruits-q19921797/dried-mixed-fruits-q19921797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19921797",
+    "themealdb": null
+  }
+}

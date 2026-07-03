@@ -1,0 +1,21 @@
+{
+  "id": "Q20063",
+  "name": "gnocchi",
+  "description": "type of Italian pasta",
+  "nationality": [
+    "Italy",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gnocchi-q20063/gnocchi-q20063-1.jpg",
+    "images/gnocchi-q20063/gnocchi-q20063-2.jpg",
+    "images/gnocchi-q20063/gnocchi-q20063-3.jpg",
+    "images/gnocchi-q20063/gnocchi-q20063-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20063",
+    "themealdb": null
+  }
+}

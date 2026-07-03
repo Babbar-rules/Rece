@@ -1,0 +1,60 @@
+{
+  "id": "Q2009256",
+  "name": "banitsa",
+  "description": "traditional Bulgarian pie",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [
+    "Bulgarian cuisine"
+  ],
+  "images": [
+    "images/banitsa-q2009256/banitsa-q2009256-1.jpg",
+    "images/banitsa-q2009256/banitsa-q2009256-2.jpg",
+    "images/banitsa-q2009256/banitsa-q2009256-3.jpg",
+    "images/banitsa-q2009256/banitsa-q2009256-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53494",
+    "category": "Side",
+    "area": null,
+    "instructions": "Preheat oven to 360 F (180 C)\r\nBeat eggs in a bowl, using a whisk ( no mixer needed).\r\nSlowly add the melted butter, whisking to incorporate.\r\nAdd the cheeses (mozzarella, feta and cream cheese), stir to combine. Then add the baking powder and whisk.\r\nGrease a 8×8 -inch square baking dish with butter and pour the mixture inside. Top with sesame seeds (optional).\r\nBake for 20 minutes, until golden.\r\nLet it cool for 5-10 minutes inside the pan, then cut into pieces and serve.\r\nKeep in the fridge for up to 3 days.",
+    "ingredients": [
+      {
+        "ingredient": "Eggs",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Melted Butter",
+        "measure": "80g"
+      },
+      {
+        "ingredient": "Mozzarella",
+        "measure": "120g"
+      },
+      {
+        "ingredient": "Cream Cheese",
+        "measure": "30g"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Feta",
+        "measure": "60g"
+      },
+      {
+        "ingredient": "Sesame Seed",
+        "measure": "Topping"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/8wynv41782686271.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2009256",
+    "themealdb": "53494"
+  }
+}

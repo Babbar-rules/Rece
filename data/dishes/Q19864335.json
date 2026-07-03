@@ -1,0 +1,18 @@
+{
+  "id": "Q19864335",
+  "name": "Animal Bar",
+  "description": "Chocolate bar brand of Nestle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/animal-bar-q19864335/animal-bar-q19864335-1.jpg",
+    "images/animal-bar-q19864335/animal-bar-q19864335-2.jpg",
+    "images/animal-bar-q19864335/animal-bar-q19864335-3.jpg",
+    "images/animal-bar-q19864335/animal-bar-q19864335-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19864335",
+    "themealdb": null
+  }
+}

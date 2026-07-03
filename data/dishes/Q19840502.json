@@ -1,0 +1,20 @@
+{
+  "id": "Q19840502",
+  "name": "Yarma çorbası",
+  "description": "soup from the Turkish cuisine, made with \"yarma\", a wheat by-product",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yarma-corbas-q19840502/yarma-corbas-q19840502-1.jpg",
+    "images/yarma-corbas-q19840502/yarma-corbas-q19840502-2.jpg",
+    "images/yarma-corbas-q19840502/yarma-corbas-q19840502-3.jpg",
+    "images/yarma-corbas-q19840502/yarma-corbas-q19840502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19840502",
+    "themealdb": null
+  }
+}

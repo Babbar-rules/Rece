@@ -1,0 +1,20 @@
+{
+  "id": "Q19966",
+  "name": "fusilli",
+  "description": "long, thick, corkscrew shaped pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fusilli-q19966/fusilli-q19966-1.jpg",
+    "images/fusilli-q19966/fusilli-q19966-2.jpg",
+    "images/fusilli-q19966/fusilli-q19966-3.jpg",
+    "images/fusilli-q19966/fusilli-q19966-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19966",
+    "themealdb": null
+  }
+}

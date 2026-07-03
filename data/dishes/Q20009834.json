@@ -1,0 +1,18 @@
+{
+  "id": "Q20009834",
+  "name": "stroncatura",
+  "description": "type of pasta originating in Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stroncatura-q20009834/stroncatura-q20009834-1.jpg",
+    "images/stroncatura-q20009834/stroncatura-q20009834-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20009834",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19979570",
+  "name": "Hamsi tava",
+  "description": "fried \"hamsi\" (European anchovies) dish in the Black Sea Region cuisine of Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hamsi-tava-q19979570/hamsi-tava-q19979570-1.jpg",
+    "images/hamsi-tava-q19979570/hamsi-tava-q19979570-2.jpg",
+    "images/hamsi-tava-q19979570/hamsi-tava-q19979570-3.jpg",
+    "images/hamsi-tava-q19979570/hamsi-tava-q19979570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19979570",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q19829597",
+  "name": "Janhagel",
+  "description": "Old-fashioned Dutch cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/janhagel-q19829597/janhagel-q19829597-1.jpg",
+    "images/janhagel-q19829597/janhagel-q19829597-2.jpg",
+    "images/janhagel-q19829597/janhagel-q19829597-3.jpg",
+    "images/janhagel-q19829597/janhagel-q19829597-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19829597",
+    "themealdb": null
+  }
+}

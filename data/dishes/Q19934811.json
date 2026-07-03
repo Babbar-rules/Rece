@@ -1,0 +1,20 @@
+{
+  "id": "Q19934811",
+  "name": "kourabiedes",
+  "description": "Greek biscuits",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kourabiedes-q19934811/kourabiedes-q19934811-1.jpg",
+    "images/kourabiedes-q19934811/kourabiedes-q19934811-2.jpg",
+    "images/kourabiedes-q19934811/kourabiedes-q19934811-3.jpg",
+    "images/kourabiedes-q19934811/kourabiedes-q19934811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19934811",
+    "themealdb": null
+  }
+}

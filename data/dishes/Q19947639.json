@@ -1,0 +1,20 @@
+{
+  "id": "Q19947639",
+  "name": "pompe à l'huile",
+  "description": "French sweet bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pompe-a-lhuile-q19947639/pompe-a-lhuile-q19947639-1.jpg",
+    "images/pompe-a-lhuile-q19947639/pompe-a-lhuile-q19947639-2.jpg",
+    "images/pompe-a-lhuile-q19947639/pompe-a-lhuile-q19947639-3.jpg",
+    "images/pompe-a-lhuile-q19947639/pompe-a-lhuile-q19947639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19947639",
+    "themealdb": null
+  }
+}

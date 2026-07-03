@@ -1,0 +1,18 @@
+{
+  "id": "Q20052841",
+  "name": "brisas do lis",
+  "description": "Portuguese dessert",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brisas-do-lis-q20052841/brisas-do-lis-q20052841-1.jpg",
+    "images/brisas-do-lis-q20052841/brisas-do-lis-q20052841-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20052841",
+    "themealdb": null
+  }
+}

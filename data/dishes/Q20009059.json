@@ -1,0 +1,18 @@
+{
+  "id": "Q20009059",
+  "name": "baci di Cherasco",
+  "description": "Italian hazelnut chocolate dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baci-di-cherasco-q20009059/baci-di-cherasco-q20009059-1.jpg",
+    "images/baci-di-cherasco-q20009059/baci-di-cherasco-q20009059-2.jpg",
+    "images/baci-di-cherasco-q20009059/baci-di-cherasco-q20009059-3.jpg",
+    "images/baci-di-cherasco-q20009059/baci-di-cherasco-q20009059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20009059",
+    "themealdb": null
+  }
+}

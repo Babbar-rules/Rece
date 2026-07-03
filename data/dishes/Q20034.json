@@ -1,0 +1,80 @@
+{
+  "id": "Q20034",
+  "name": "lasagna",
+  "description": "layered pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/lasagna-q20034/lasagna-q20034-1.jpg",
+    "images/lasagna-q20034/lasagna-q20034-2.jpg",
+    "images/lasagna-q20034/lasagna-q20034-3.jpg",
+    "images/lasagna-q20034/lasagna-q20034-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52775",
+    "category": "Vegan",
+    "area": "Italian",
+    "instructions": "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes.",
+    "ingredients": [
+      {
+        "ingredient": "green red lentils",
+        "measure": "1 cups"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "1"
+      },
+      {
+        "ingredient": "onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "zucchini",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "coriander",
+        "measure": "sprinking"
+      },
+      {
+        "ingredient": "spinach",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "lasagne sheets",
+        "measure": "10"
+      },
+      {
+        "ingredient": "vegan butter",
+        "measure": "35g"
+      },
+      {
+        "ingredient": "flour",
+        "measure": "4 tablespoons"
+      },
+      {
+        "ingredient": "soya milk",
+        "measure": "300ml"
+      },
+      {
+        "ingredient": "mustard",
+        "measure": "1.5 teaspoons"
+      },
+      {
+        "ingredient": "vinegar",
+        "measure": "1 teaspoon"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=VU8cXvlGbvc",
+    "thumb": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20034",
+    "themealdb": "52775"
+  }
+}

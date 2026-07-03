@@ -1,0 +1,18 @@
+{
+  "id": "Q2005538",
+  "name": "Nussecke",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nussecke-q2005538/nussecke-q2005538-1.jpg",
+    "images/nussecke-q2005538/nussecke-q2005538-2.jpg",
+    "images/nussecke-q2005538/nussecke-q2005538-3.jpg",
+    "images/nussecke-q2005538/nussecke-q2005538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2005538",
+    "themealdb": null
+  }
+}

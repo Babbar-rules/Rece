@@ -1,0 +1,18 @@
+{
+  "id": "Q19971593",
+  "name": "Braune Kuchen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/braune-kuchen-q19971593/braune-kuchen-q19971593-1.jpg",
+    "images/braune-kuchen-q19971593/braune-kuchen-q19971593-2.jpg",
+    "images/braune-kuchen-q19971593/braune-kuchen-q19971593-3.jpg",
+    "images/braune-kuchen-q19971593/braune-kuchen-q19971593-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19971593",
+    "themealdb": null
+  }
+}

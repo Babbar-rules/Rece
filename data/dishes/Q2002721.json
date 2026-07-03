@@ -1,0 +1,20 @@
+{
+  "id": "Q2002721",
+  "name": "peanut paçoca",
+  "description": "Brazilian sweet made of ground peanuts, sugar, and cassava flour",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peanut-pacoca-q2002721/peanut-pacoca-q2002721-1.jpg",
+    "images/peanut-pacoca-q2002721/peanut-pacoca-q2002721-2.jpg",
+    "images/peanut-pacoca-q2002721/peanut-pacoca-q2002721-3.jpg",
+    "images/peanut-pacoca-q2002721/peanut-pacoca-q2002721-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2002721",
+    "themealdb": null
+  }
+}

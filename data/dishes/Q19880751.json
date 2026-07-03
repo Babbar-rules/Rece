@@ -1,0 +1,18 @@
+{
+  "id": "Q19880751",
+  "name": "Double decker taco",
+  "description": "Offering at Taco Bell restaurants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/double-decker-taco-q19880751/double-decker-taco-q19880751-1.jpg",
+    "images/double-decker-taco-q19880751/double-decker-taco-q19880751-2.jpg",
+    "images/double-decker-taco-q19880751/double-decker-taco-q19880751-3.jpg",
+    "images/double-decker-taco-q19880751/double-decker-taco-q19880751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19880751",
+    "themealdb": null
+  }
+}

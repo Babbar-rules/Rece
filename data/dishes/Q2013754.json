@@ -1,0 +1,20 @@
+{
+  "id": "Q2013754",
+  "name": "pane ticinese",
+  "description": "white bread traditionally made in the Swiss canton of Ticino",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pane-ticinese-q2013754/pane-ticinese-q2013754-1.jpg",
+    "images/pane-ticinese-q2013754/pane-ticinese-q2013754-2.jpg",
+    "images/pane-ticinese-q2013754/pane-ticinese-q2013754-3.jpg",
+    "images/pane-ticinese-q2013754/pane-ticinese-q2013754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2013754",
+    "themealdb": null
+  }
+}

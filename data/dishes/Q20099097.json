@@ -1,0 +1,19 @@
+{
+  "id": "Q20099097",
+  "name": "İslim kebap",
+  "description": "Turkish stew with eggplants and beef or veal (sometimes w/ lamb or mutton)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/islim-kebap-q20099097/islim-kebap-q20099097-1.jpg",
+    "images/islim-kebap-q20099097/islim-kebap-q20099097-2.jpg",
+    "images/islim-kebap-q20099097/islim-kebap-q20099097-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20099097",
+    "themealdb": null
+  }
+}

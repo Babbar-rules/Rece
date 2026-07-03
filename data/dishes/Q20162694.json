@@ -1,0 +1,18 @@
+{
+  "id": "Q20162694",
+  "name": "apricot marmalade",
+  "description": "marmalade made from apricots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apricot-marmalade-q20162694/apricot-marmalade-q20162694-1.jpg",
+    "images/apricot-marmalade-q20162694/apricot-marmalade-q20162694-2.jpg",
+    "images/apricot-marmalade-q20162694/apricot-marmalade-q20162694-3.jpg",
+    "images/apricot-marmalade-q20162694/apricot-marmalade-q20162694-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20162694",
+    "themealdb": null
+  }
+}

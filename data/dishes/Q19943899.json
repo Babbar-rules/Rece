@@ -1,0 +1,22 @@
+{
+  "id": "Q19943899",
+  "name": "nasi tumpang",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-tumpang-q19943899/nasi-tumpang-q19943899-1.jpg",
+    "images/nasi-tumpang-q19943899/nasi-tumpang-q19943899-2.jpg",
+    "images/nasi-tumpang-q19943899/nasi-tumpang-q19943899-3.jpg",
+    "images/nasi-tumpang-q19943899/nasi-tumpang-q19943899-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19943899",
+    "themealdb": null
+  }
+}

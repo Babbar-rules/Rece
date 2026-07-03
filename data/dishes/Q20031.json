@@ -1,0 +1,20 @@
+{
+  "id": "Q20031",
+  "name": "bavette",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bavette-q20031/bavette-q20031-1.png",
+    "images/bavette-q20031/bavette-q20031-2.png",
+    "images/bavette-q20031/bavette-q20031-3.jpg",
+    "images/bavette-q20031/bavette-q20031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20031",
+    "themealdb": null
+  }
+}

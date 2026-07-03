@@ -1,0 +1,22 @@
+{
+  "id": "Q20064322",
+  "name": "kavurma",
+  "description": "Turkish meat conservation tecnique and meat conserved as such",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/kavurma-q20064322/kavurma-q20064322-1.jpg",
+    "images/kavurma-q20064322/kavurma-q20064322-2.jpg",
+    "images/kavurma-q20064322/kavurma-q20064322-3.jpg",
+    "images/kavurma-q20064322/kavurma-q20064322-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20064322",
+    "themealdb": null
+  }
+}

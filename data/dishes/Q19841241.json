@@ -1,0 +1,20 @@
+{
+  "id": "Q19841241",
+  "name": "Açma",
+  "description": "Turkish bread, widely consumed as street food",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/acma-q19841241/acma-q19841241-1.jpg",
+    "images/acma-q19841241/acma-q19841241-2.jpg",
+    "images/acma-q19841241/acma-q19841241-3.jpg",
+    "images/acma-q19841241/acma-q19841241-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19841241",
+    "themealdb": null
+  }
+}

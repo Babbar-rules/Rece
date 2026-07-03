@@ -1,0 +1,18 @@
+{
+  "id": "Q19892252",
+  "name": "concave cake",
+  "description": "Taiwanese cake with filling, originally from Portuguese and Japanese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/concave-cake-q19892252/concave-cake-q19892252-1.jpg",
+    "images/concave-cake-q19892252/concave-cake-q19892252-2.jpg",
+    "images/concave-cake-q19892252/concave-cake-q19892252-3.jpg",
+    "images/concave-cake-q19892252/concave-cake-q19892252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19892252",
+    "themealdb": null
+  }
+}

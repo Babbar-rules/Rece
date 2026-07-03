@@ -1,0 +1,20 @@
+{
+  "id": "Q19814732",
+  "name": "nankhatai",
+  "description": "shortbread biscuit popular in the Indian subcontinent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nankhatai-q19814732/nankhatai-q19814732-1.jpg",
+    "images/nankhatai-q19814732/nankhatai-q19814732-2.jpg",
+    "images/nankhatai-q19814732/nankhatai-q19814732-3.jpg",
+    "images/nankhatai-q19814732/nankhatai-q19814732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19814732",
+    "themealdb": null
+  }
+}

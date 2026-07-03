@@ -1,0 +1,26 @@
+{
+  "id": "Q20065",
+  "name": "spätzle",
+  "description": "type of egg noodle",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "Alsatian cuisine",
+    "Swabian cuisine",
+    "Baden cuisine",
+    "Austrian cuisine",
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/spatzle-q20065/spatzle-q20065-1.jpg",
+    "images/spatzle-q20065/spatzle-q20065-2.jpg",
+    "images/spatzle-q20065/spatzle-q20065-3.jpg",
+    "images/spatzle-q20065/spatzle-q20065-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20065",
+    "themealdb": null
+  }
+}

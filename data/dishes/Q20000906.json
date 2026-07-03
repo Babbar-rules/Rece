@@ -1,0 +1,18 @@
+{
+  "id": "Q20000906",
+  "name": "dam curry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dam-curry-q20000906/dam-curry-q20000906-1.jpg",
+    "images/dam-curry-q20000906/dam-curry-q20000906-2.jpg",
+    "images/dam-curry-q20000906/dam-curry-q20000906-3.jpg",
+    "images/dam-curry-q20000906/dam-curry-q20000906-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20000906",
+    "themealdb": null
+  }
+}

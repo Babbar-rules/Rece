@@ -1,0 +1,18 @@
+{
+  "id": "Q20107719",
+  "name": "Ayran soup",
+  "description": "Turkish cold soup with yogurt, chickpeas, and yarma",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ayran-soup-q20107719/ayran-soup-q20107719-1.jpg",
+    "images/ayran-soup-q20107719/ayran-soup-q20107719-2.jpg",
+    "images/ayran-soup-q20107719/ayran-soup-q20107719-3.jpg",
+    "images/ayran-soup-q20107719/ayran-soup-q20107719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20107719",
+    "themealdb": null
+  }
+}

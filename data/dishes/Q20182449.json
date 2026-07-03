@@ -1,0 +1,18 @@
+{
+  "id": "Q20182449",
+  "name": "Pick up",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pick-up-q20182449/pick-up-q20182449-1.jpg",
+    "images/pick-up-q20182449/pick-up-q20182449-2.jpg",
+    "images/pick-up-q20182449/pick-up-q20182449-3.jpg",
+    "images/pick-up-q20182449/pick-up-q20182449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20182449",
+    "themealdb": null
+  }
+}

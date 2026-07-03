@@ -1,0 +1,20 @@
+{
+  "id": "Q19952",
+  "name": "farfalle",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/farfalle-q19952/farfalle-q19952-1.jpg",
+    "images/farfalle-q19952/farfalle-q19952-2.jpg",
+    "images/farfalle-q19952/farfalle-q19952-3.jpg",
+    "images/farfalle-q19952/farfalle-q19952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19952",
+    "themealdb": null
+  }
+}

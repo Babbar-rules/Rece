@@ -1,0 +1,18 @@
+{
+  "id": "Q20043331",
+  "name": "Ekmek",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ekmek-q20043331/ekmek-q20043331-1.jpg",
+    "images/ekmek-q20043331/ekmek-q20043331-2.jpg",
+    "images/ekmek-q20043331/ekmek-q20043331-3.jpg",
+    "images/ekmek-q20043331/ekmek-q20043331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20043331",
+    "themealdb": null
+  }
+}

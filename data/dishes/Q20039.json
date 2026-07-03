@@ -1,0 +1,20 @@
+{
+  "id": "Q20039",
+  "name": "mafaldine",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mafaldine-q20039/mafaldine-q20039-1.jpg",
+    "images/mafaldine-q20039/mafaldine-q20039-2.jpg",
+    "images/mafaldine-q20039/mafaldine-q20039-3.jpg",
+    "images/mafaldine-q20039/mafaldine-q20039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20039",
+    "themealdb": null
+  }
+}

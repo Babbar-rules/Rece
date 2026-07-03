@@ -1,0 +1,20 @@
+{
+  "id": "Q20108295",
+  "name": "Kuzu haşlama",
+  "description": "mutton or lamb stew from Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuzu-haslama-q20108295/kuzu-haslama-q20108295-1.jpg",
+    "images/kuzu-haslama-q20108295/kuzu-haslama-q20108295-2.jpg",
+    "images/kuzu-haslama-q20108295/kuzu-haslama-q20108295-3.jpg",
+    "images/kuzu-haslama-q20108295/kuzu-haslama-q20108295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20108295",
+    "themealdb": null
+  }
+}

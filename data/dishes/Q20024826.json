@@ -1,0 +1,20 @@
+{
+  "id": "Q20024826",
+  "name": "Soltero de queso",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soltero-de-queso-q20024826/soltero-de-queso-q20024826-1.jpg",
+    "images/soltero-de-queso-q20024826/soltero-de-queso-q20024826-2.jpg",
+    "images/soltero-de-queso-q20024826/soltero-de-queso-q20024826-3.jpg",
+    "images/soltero-de-queso-q20024826/soltero-de-queso-q20024826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20024826",
+    "themealdb": null
+  }
+}

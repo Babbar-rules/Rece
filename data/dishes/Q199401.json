@@ -1,0 +1,20 @@
+{
+  "id": "Q199401",
+  "name": "zigeunerschnitzel",
+  "description": "German meat dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zigeunerschnitzel-q199401/zigeunerschnitzel-q199401-1.jpg",
+    "images/zigeunerschnitzel-q199401/zigeunerschnitzel-q199401-2.jpg",
+    "images/zigeunerschnitzel-q199401/zigeunerschnitzel-q199401-3.jpg",
+    "images/zigeunerschnitzel-q199401/zigeunerschnitzel-q199401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q199401",
+    "themealdb": null
+  }
+}

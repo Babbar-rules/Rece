@@ -1,0 +1,20 @@
+{
+  "id": "Q20007",
+  "name": "bucatini",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bucatini-q20007/bucatini-q20007-1.jpg",
+    "images/bucatini-q20007/bucatini-q20007-2.jpg",
+    "images/bucatini-q20007/bucatini-q20007-3.jpg",
+    "images/bucatini-q20007/bucatini-q20007-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20007",
+    "themealdb": null
+  }
+}

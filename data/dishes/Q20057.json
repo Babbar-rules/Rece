@@ -1,0 +1,23 @@
+{
+  "id": "Q20057",
+  "name": "tortellini",
+  "description": "pasta stuffed with filling",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Modena",
+    "Emilian cuisine"
+  ],
+  "images": [
+    "images/tortellini-q20057/tortellini-q20057-1.jpg",
+    "images/tortellini-q20057/tortellini-q20057-2.jpg",
+    "images/tortellini-q20057/tortellini-q20057-3.jpg",
+    "images/tortellini-q20057/tortellini-q20057-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20057",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q20181164",
+  "name": "Bobby",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bobby-q20181164/bobby-q20181164-1.jpg",
+    "images/bobby-q20181164/bobby-q20181164-2.png",
+    "images/bobby-q20181164/bobby-q20181164-3.jpg",
+    "images/bobby-q20181164/bobby-q20181164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20181164",
+    "themealdb": null
+  }
+}

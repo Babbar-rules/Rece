@@ -1,0 +1,22 @@
+{
+  "id": "Q19838749",
+  "name": "düğün çorbası",
+  "description": "traditional soup from the Turkish cuisine, which literally means \"wedding soup\" and is served in social occasions like a wedding",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/dugun-corbas-q19838749/dugun-corbas-q19838749-1.jpg",
+    "images/dugun-corbas-q19838749/dugun-corbas-q19838749-2.jpg",
+    "images/dugun-corbas-q19838749/dugun-corbas-q19838749-3.jpg",
+    "images/dugun-corbas-q19838749/dugun-corbas-q19838749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19838749",
+    "themealdb": null
+  }
+}

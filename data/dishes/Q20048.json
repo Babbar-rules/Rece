@@ -1,0 +1,22 @@
+{
+  "id": "Q20048",
+  "name": "fregula",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Sardinia"
+  ],
+  "images": [
+    "images/fregula-q20048/fregula-q20048-1.jpg",
+    "images/fregula-q20048/fregula-q20048-2.jpg",
+    "images/fregula-q20048/fregula-q20048-3.jpg",
+    "images/fregula-q20048/fregula-q20048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20048",
+    "themealdb": null
+  }
+}

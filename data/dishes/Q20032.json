@@ -1,0 +1,56 @@
+{
+  "id": "Q20032",
+  "name": "fettuccine",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Pasta"
+  ],
+  "images": [
+    "images/fettuccine-q20032/fettuccine-q20032-1.jpg",
+    "images/fettuccine-q20032/fettuccine-q20032-2.jpg",
+    "images/fettuccine-q20032/fettuccine-q20032-3.jpg",
+    "images/fettuccine-q20032/fettuccine-q20032-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53064",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Cook pasta according to package instructions in a large pot of boiling water and salt. Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts. Whisk in parmesan and add seasoning (salt and black pepper). Let the sauce thicken slightly and then add the pasta and toss until coated in sauce. Garnish with parsley, and it's ready.",
+    "ingredients": [
+      {
+        "ingredient": "Fettuccine",
+        "measure": "1 lb"
+      },
+      {
+        "ingredient": "Heavy Cream",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Parmesan",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Black Pepper",
+        "measure": ""
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=LPPcNPdq_j4",
+    "thumb": "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20032",
+    "themealdb": "53064"
+  }
+}

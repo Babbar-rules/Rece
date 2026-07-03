@@ -1,0 +1,20 @@
+{
+  "id": "Q19819989",
+  "name": "kabak kalye",
+  "description": "light dish of spring courgettes, from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kabak-kalye-q19819989/kabak-kalye-q19819989-1.jpg",
+    "images/kabak-kalye-q19819989/kabak-kalye-q19819989-2.jpg",
+    "images/kabak-kalye-q19819989/kabak-kalye-q19819989-3.jpg",
+    "images/kabak-kalye-q19819989/kabak-kalye-q19819989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19819989",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19898963",
+  "name": "Treccia d'oro",
+  "description": "cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/treccia-doro-q19898963/treccia-doro-q19898963-1.jpg",
+    "images/treccia-doro-q19898963/treccia-doro-q19898963-2.jpg",
+    "images/treccia-doro-q19898963/treccia-doro-q19898963-3.jpg",
+    "images/treccia-doro-q19898963/treccia-doro-q19898963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19898963",
+    "themealdb": null
+  }
+}

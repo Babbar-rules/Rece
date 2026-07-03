@@ -1,0 +1,18 @@
+{
+  "id": "Q19839943",
+  "name": "Cantonese salted fish",
+  "description": "traditional Chinese food originating from Guangdong province",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cantonese-salted-fish-q19839943/cantonese-salted-fish-q19839943-1.jpg",
+    "images/cantonese-salted-fish-q19839943/cantonese-salted-fish-q19839943-2.jpg",
+    "images/cantonese-salted-fish-q19839943/cantonese-salted-fish-q19839943-3.jpg",
+    "images/cantonese-salted-fish-q19839943/cantonese-salted-fish-q19839943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19839943",
+    "themealdb": null
+  }
+}

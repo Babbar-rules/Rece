@@ -1,0 +1,18 @@
+{
+  "id": "Q1988957",
+  "name": "worstenbrood",
+  "description": "sausage filled bread roll",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/worstenbrood-q1988957/worstenbrood-q1988957-1.jpg",
+    "images/worstenbrood-q1988957/worstenbrood-q1988957-2.jpg",
+    "images/worstenbrood-q1988957/worstenbrood-q1988957-3.jpg",
+    "images/worstenbrood-q1988957/worstenbrood-q1988957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1988957",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q19854112",
+  "name": "Ma jiang mian",
+  "description": "noodles stirred with sesame sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ma-jiang-mian-q19854112/ma-jiang-mian-q19854112-1.jpg",
+    "images/ma-jiang-mian-q19854112/ma-jiang-mian-q19854112-2.jpg",
+    "images/ma-jiang-mian-q19854112/ma-jiang-mian-q19854112-3.jpg",
+    "images/ma-jiang-mian-q19854112/ma-jiang-mian-q19854112-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19854112",
+    "themealdb": null
+  }
+}

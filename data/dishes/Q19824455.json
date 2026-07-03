@@ -1,0 +1,16 @@
+{
+  "id": "Q19824455",
+  "name": "Solothurner Torte",
+  "description": "cake with origin in the Swiss city Solothurn",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/solothurner-torte-q19824455/solothurner-torte-q19824455-1.jpg",
+    "images/solothurner-torte-q19824455/solothurner-torte-q19824455-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19824455",
+    "themealdb": null
+  }
+}

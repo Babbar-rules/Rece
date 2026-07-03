@@ -1,0 +1,18 @@
+{
+  "id": "Q20047",
+  "name": "alphabet soup",
+  "description": "soup made with alphabet pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alphabet-soup-q20047/alphabet-soup-q20047-1.jpg",
+    "images/alphabet-soup-q20047/alphabet-soup-q20047-2.jpg",
+    "images/alphabet-soup-q20047/alphabet-soup-q20047-3.jpg",
+    "images/alphabet-soup-q20047/alphabet-soup-q20047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20047",
+    "themealdb": null
+  }
+}

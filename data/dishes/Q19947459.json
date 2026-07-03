@@ -1,0 +1,20 @@
+{
+  "id": "Q19947459",
+  "name": "Gâteau de Savoie",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-de-savoie-q19947459/gateau-de-savoie-q19947459-1.jpg",
+    "images/gateau-de-savoie-q19947459/gateau-de-savoie-q19947459-2.jpg",
+    "images/gateau-de-savoie-q19947459/gateau-de-savoie-q19947459-3.jpg",
+    "images/gateau-de-savoie-q19947459/gateau-de-savoie-q19947459-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19947459",
+    "themealdb": null
+  }
+}

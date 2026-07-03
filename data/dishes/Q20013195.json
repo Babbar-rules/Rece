@@ -1,0 +1,18 @@
+{
+  "id": "Q20013195",
+  "name": "white rice",
+  "description": "plainly cooked rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-rice-q20013195/white-rice-q20013195-1.jpg",
+    "images/white-rice-q20013195/white-rice-q20013195-2.jpg",
+    "images/white-rice-q20013195/white-rice-q20013195-3.jpg",
+    "images/white-rice-q20013195/white-rice-q20013195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20013195",
+    "themealdb": null
+  }
+}

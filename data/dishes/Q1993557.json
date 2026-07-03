@@ -1,0 +1,18 @@
+{
+  "id": "Q1993557",
+  "name": "multigrain bread",
+  "description": "type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/multigrain-bread-q1993557/multigrain-bread-q1993557-1.jpg",
+    "images/multigrain-bread-q1993557/multigrain-bread-q1993557-2.jpg",
+    "images/multigrain-bread-q1993557/multigrain-bread-q1993557-3.jpg",
+    "images/multigrain-bread-q1993557/multigrain-bread-q1993557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1993557",
+    "themealdb": null
+  }
+}
