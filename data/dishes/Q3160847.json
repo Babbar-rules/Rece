@@ -1,0 +1,18 @@
+{
+  "id": "Q3160847",
+  "name": "jambon persillé",
+  "description": "Burgundian charcuterie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-persille-q3160847/jambon-persille-q3160847-1.jpg",
+    "images/jambon-persille-q3160847/jambon-persille-q3160847-2.jpg",
+    "images/jambon-persille-q3160847/jambon-persille-q3160847-3.jpg",
+    "images/jambon-persille-q3160847/jambon-persille-q3160847-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3160847",
+    "themealdb": null
+  }
+}

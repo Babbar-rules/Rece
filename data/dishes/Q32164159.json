@@ -1,0 +1,20 @@
+{
+  "id": "Q32164159",
+  "name": "shan tounsi",
+  "description": "Tunisian food made with eggs, known for its ease of preparation",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shan-tounsi-q32164159/shan-tounsi-q32164159-1.jpg",
+    "images/shan-tounsi-q32164159/shan-tounsi-q32164159-2.jpg",
+    "images/shan-tounsi-q32164159/shan-tounsi-q32164159-3.jpg",
+    "images/shan-tounsi-q32164159/shan-tounsi-q32164159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q32164159",
+    "themealdb": null
+  }
+}

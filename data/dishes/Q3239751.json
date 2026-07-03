@@ -1,0 +1,25 @@
+{
+  "id": "Q3239751",
+  "name": "Hainanese chicken rice",
+  "description": "Rice and chicken dish originating from Hainan island",
+  "nationality": [],
+  "region_cuisine": [
+    "Malaysian Chinese cuisine",
+    "Chinese Indonesian cuisine",
+    "Chinese cuisine",
+    "Hainan cuisine",
+    "Thai cuisine",
+    "Singaporean cuisine"
+  ],
+  "images": [
+    "images/hainanese-chicken-rice-q3239751/hainanese-chicken-rice-q3239751-1.jpg",
+    "images/hainanese-chicken-rice-q3239751/hainanese-chicken-rice-q3239751-2.jpg",
+    "images/hainanese-chicken-rice-q3239751/hainanese-chicken-rice-q3239751-3.jpg",
+    "images/hainanese-chicken-rice-q3239751/hainanese-chicken-rice-q3239751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3239751",
+    "themealdb": null
+  }
+}

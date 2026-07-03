@@ -1,0 +1,18 @@
+{
+  "id": "Q3238376",
+  "name": "Life Savers",
+  "description": "American brand of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/life-savers-q3238376/life-savers-q3238376-1.jpg",
+    "images/life-savers-q3238376/life-savers-q3238376-2.jpg",
+    "images/life-savers-q3238376/life-savers-q3238376-3.jpg",
+    "images/life-savers-q3238376/life-savers-q3238376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3238376",
+    "themealdb": null
+  }
+}

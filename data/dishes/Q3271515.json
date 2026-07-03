@@ -1,0 +1,20 @@
+{
+  "id": "Q3271515",
+  "name": "Saltah",
+  "description": "traditional Saudi food",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saltah-q3271515/saltah-q3271515-1.gif",
+    "images/saltah-q3271515/saltah-q3271515-2.gif",
+    "images/saltah-q3271515/saltah-q3271515-3.jpg",
+    "images/saltah-q3271515/saltah-q3271515-4.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3271515",
+    "themealdb": null
+  }
+}

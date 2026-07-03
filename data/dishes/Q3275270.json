@@ -1,0 +1,20 @@
+{
+  "id": "Q3275270",
+  "name": "Tangbao",
+  "description": "Soup-filled baozi from China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tangbao-q3275270/tangbao-q3275270-1.jpg",
+    "images/tangbao-q3275270/tangbao-q3275270-2.jpg",
+    "images/tangbao-q3275270/tangbao-q3275270-3.jpg",
+    "images/tangbao-q3275270/tangbao-q3275270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3275270",
+    "themealdb": null
+  }
+}

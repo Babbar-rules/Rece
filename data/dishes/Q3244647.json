@@ -1,0 +1,22 @@
+{
+  "id": "Q3244647",
+  "name": "nasi kucing",
+  "description": "Indonesian rice dish originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-kucing-q3244647/nasi-kucing-q3244647-1.jpg",
+    "images/nasi-kucing-q3244647/nasi-kucing-q3244647-2.jpg",
+    "images/nasi-kucing-q3244647/nasi-kucing-q3244647-3.jpg",
+    "images/nasi-kucing-q3244647/nasi-kucing-q3244647-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3244647",
+    "themealdb": null
+  }
+}

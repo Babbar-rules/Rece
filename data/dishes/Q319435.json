@@ -1,0 +1,20 @@
+{
+  "id": "Q319435",
+  "name": "Linsen mit Spätzle",
+  "description": "Swabian dish of egg noodles, lentils, and wiener sausages",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/linsen-mit-spatzle-q319435/linsen-mit-spatzle-q319435-1.jpg",
+    "images/linsen-mit-spatzle-q319435/linsen-mit-spatzle-q319435-2.jpg",
+    "images/linsen-mit-spatzle-q319435/linsen-mit-spatzle-q319435-3.jpg",
+    "images/linsen-mit-spatzle-q319435/linsen-mit-spatzle-q319435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q319435",
+    "themealdb": null
+  }
+}

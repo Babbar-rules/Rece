@@ -1,0 +1,19 @@
+{
+  "id": "Q3303725",
+  "name": "Mchewek",
+  "description": "pastry",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mchewek-q3303725/mchewek-q3303725-1.jpg",
+    "images/mchewek-q3303725/mchewek-q3303725-2.jpg",
+    "images/mchewek-q3303725/mchewek-q3303725-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3303725",
+    "themealdb": null
+  }
+}

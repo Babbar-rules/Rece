@@ -1,0 +1,20 @@
+{
+  "id": "Q3323782",
+  "name": "morbiflette",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/morbiflette-q3323782/morbiflette-q3323782-1.jpg",
+    "images/morbiflette-q3323782/morbiflette-q3323782-2.jpg",
+    "images/morbiflette-q3323782/morbiflette-q3323782-3.jpg",
+    "images/morbiflette-q3323782/morbiflette-q3323782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3323782",
+    "themealdb": null
+  }
+}

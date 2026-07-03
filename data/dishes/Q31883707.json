@@ -1,0 +1,18 @@
+{
+  "id": "Q31883707",
+  "name": "dishes of Chile",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dishes-of-chile-q31883707/dishes-of-chile-q31883707-1.jpg",
+    "images/dishes-of-chile-q31883707/dishes-of-chile-q31883707-2.jpeg",
+    "images/dishes-of-chile-q31883707/dishes-of-chile-q31883707-3.jpeg",
+    "images/dishes-of-chile-q31883707/dishes-of-chile-q31883707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31883707",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q32153719",
+  "name": "phoenix egg rolls",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Macau's cuisine"
+  ],
+  "images": [
+    "images/phoenix-egg-rolls-q32153719/phoenix-egg-rolls-q32153719-1.jpg",
+    "images/phoenix-egg-rolls-q32153719/phoenix-egg-rolls-q32153719-2.jpg",
+    "images/phoenix-egg-rolls-q32153719/phoenix-egg-rolls-q32153719-3.jpg",
+    "images/phoenix-egg-rolls-q32153719/phoenix-egg-rolls-q32153719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q32153719",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3308312",
+  "name": "Cookies and Cream",
+  "description": "variety of ice cream based on flavoring from chocolate cookies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cookies-and-cream-q3308312/cookies-and-cream-q3308312-1.jpg",
+    "images/cookies-and-cream-q3308312/cookies-and-cream-q3308312-2.jpg",
+    "images/cookies-and-cream-q3308312/cookies-and-cream-q3308312-3.jpg",
+    "images/cookies-and-cream-q3308312/cookies-and-cream-q3308312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3308312",
+    "themealdb": null
+  }
+}

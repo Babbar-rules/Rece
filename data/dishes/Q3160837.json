@@ -1,0 +1,20 @@
+{
+  "id": "Q3160837",
+  "name": "Ardennes ham",
+  "description": "",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ardennes-ham-q3160837/ardennes-ham-q3160837-1.jpg",
+    "images/ardennes-ham-q3160837/ardennes-ham-q3160837-2.jpg",
+    "images/ardennes-ham-q3160837/ardennes-ham-q3160837-3.jpg",
+    "images/ardennes-ham-q3160837/ardennes-ham-q3160837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3160837",
+    "themealdb": null
+  }
+}

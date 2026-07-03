@@ -1,0 +1,20 @@
+{
+  "id": "Q32945376",
+  "name": "Kapustnica",
+  "description": "",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kapustnica-q32945376/kapustnica-q32945376-1.jpg",
+    "images/kapustnica-q32945376/kapustnica-q32945376-2.jpg",
+    "images/kapustnica-q32945376/kapustnica-q32945376-3.jpg",
+    "images/kapustnica-q32945376/kapustnica-q32945376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q32945376",
+    "themealdb": null
+  }
+}

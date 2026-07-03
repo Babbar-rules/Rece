@@ -1,0 +1,22 @@
+{
+  "id": "Q3270102",
+  "name": "bebinca",
+  "description": "traditional Indo-Portuguese pudding dessert",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Goan cuisine"
+  ],
+  "images": [
+    "images/bebinca-q3270102/bebinca-q3270102-1.jpg",
+    "images/bebinca-q3270102/bebinca-q3270102-2.jpg",
+    "images/bebinca-q3270102/bebinca-q3270102-3.jpg",
+    "images/bebinca-q3270102/bebinca-q3270102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3270102",
+    "themealdb": null
+  }
+}

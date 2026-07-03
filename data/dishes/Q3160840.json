@@ -1,0 +1,18 @@
+{
+  "id": "Q3160840",
+  "name": "Jambon de Luxeuil",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-de-luxeuil-q3160840/jambon-de-luxeuil-q3160840-1.jpg",
+    "images/jambon-de-luxeuil-q3160840/jambon-de-luxeuil-q3160840-2.jpg",
+    "images/jambon-de-luxeuil-q3160840/jambon-de-luxeuil-q3160840-3.jpg",
+    "images/jambon-de-luxeuil-q3160840/jambon-de-luxeuil-q3160840-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3160840",
+    "themealdb": null
+  }
+}

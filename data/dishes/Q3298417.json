@@ -1,0 +1,22 @@
+{
+  "id": "Q3298417",
+  "name": "matelote",
+  "description": "French fish stew",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/matelote-q3298417/matelote-q3298417-1.jpg",
+    "images/matelote-q3298417/matelote-q3298417-2.jpg",
+    "images/matelote-q3298417/matelote-q3298417-3.jpg",
+    "images/matelote-q3298417/matelote-q3298417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3298417",
+    "themealdb": null
+  }
+}

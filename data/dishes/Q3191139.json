@@ -1,0 +1,20 @@
+{
+  "id": "Q3191139",
+  "name": "Jókai Bean Soup",
+  "description": "Hungarian bean soup",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/jokai-bean-soup-q3191139/jokai-bean-soup-q3191139-1.jpg",
+    "images/jokai-bean-soup-q3191139/jokai-bean-soup-q3191139-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3191139",
+    "themealdb": null
+  }
+}

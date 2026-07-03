@@ -1,0 +1,20 @@
+{
+  "id": "Q3305189",
+  "name": "cabidela",
+  "description": "Portuguese cuisine dish",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cabidela-q3305189/cabidela-q3305189-1.jpg",
+    "images/cabidela-q3305189/cabidela-q3305189-2.jpg",
+    "images/cabidela-q3305189/cabidela-q3305189-3.jpg",
+    "images/cabidela-q3305189/cabidela-q3305189-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3305189",
+    "themealdb": null
+  }
+}

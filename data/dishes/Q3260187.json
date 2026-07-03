@@ -1,0 +1,20 @@
+{
+  "id": "Q3260187",
+  "name": "loubia",
+  "description": "Moroccan stewed beans",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/loubia-q3260187/loubia-q3260187-1.jpg",
+    "images/loubia-q3260187/loubia-q3260187-2.jpg",
+    "images/loubia-q3260187/loubia-q3260187-3.jpg",
+    "images/loubia-q3260187/loubia-q3260187-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3260187",
+    "themealdb": null
+  }
+}

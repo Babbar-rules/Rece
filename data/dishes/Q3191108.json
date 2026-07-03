@@ -1,0 +1,22 @@
+{
+  "id": "Q3191108",
+  "name": "jésuite",
+  "description": "French pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/jesuite-q3191108/jesuite-q3191108-1.jpg",
+    "images/jesuite-q3191108/jesuite-q3191108-2.jpg",
+    "images/jesuite-q3191108/jesuite-q3191108-3.jpg",
+    "images/jesuite-q3191108/jesuite-q3191108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3191108",
+    "themealdb": null
+  }
+}

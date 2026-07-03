@@ -1,0 +1,20 @@
+{
+  "id": "Q3269528",
+  "name": "Haupia",
+  "description": "traditional coconut milk-based Hawaiian dessert",
+  "nationality": [
+    "Hawaii"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/haupia-q3269528/haupia-q3269528-1.jpg",
+    "images/haupia-q3269528/haupia-q3269528-2.jpg",
+    "images/haupia-q3269528/haupia-q3269528-3.jpg",
+    "images/haupia-q3269528/haupia-q3269528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3269528",
+    "themealdb": null
+  }
+}

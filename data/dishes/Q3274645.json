@@ -1,0 +1,20 @@
+{
+  "id": "Q3274645",
+  "name": "Jinhua ham",
+  "description": "Chinese cured ham",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jinhua-ham-q3274645/jinhua-ham-q3274645-1.jpg",
+    "images/jinhua-ham-q3274645/jinhua-ham-q3274645-2.jpg",
+    "images/jinhua-ham-q3274645/jinhua-ham-q3274645-3.jpg",
+    "images/jinhua-ham-q3274645/jinhua-ham-q3274645-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3274645",
+    "themealdb": null
+  }
+}

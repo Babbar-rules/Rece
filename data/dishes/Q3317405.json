@@ -1,0 +1,20 @@
+{
+  "id": "Q3317405",
+  "name": "mkharek",
+  "description": "Tunisian pastry",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mkharek-q3317405/mkharek-q3317405-1.jpg",
+    "images/mkharek-q3317405/mkharek-q3317405-2.jpg",
+    "images/mkharek-q3317405/mkharek-q3317405-3.jpg",
+    "images/mkharek-q3317405/mkharek-q3317405-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3317405",
+    "themealdb": null
+  }
+}

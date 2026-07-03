@@ -1,0 +1,22 @@
+{
+  "id": "Q3276660",
+  "name": "Tsukudani",
+  "description": "simmered Japanese side dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/tsukudani-q3276660/tsukudani-q3276660-1.jpg",
+    "images/tsukudani-q3276660/tsukudani-q3276660-2.jpg",
+    "images/tsukudani-q3276660/tsukudani-q3276660-3.jpg",
+    "images/tsukudani-q3276660/tsukudani-q3276660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3276660",
+    "themealdb": null
+  }
+}

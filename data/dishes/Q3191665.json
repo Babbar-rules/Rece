@@ -1,0 +1,18 @@
+{
+  "id": "Q3191665",
+  "name": "baby carrot",
+  "description": "carrot sold at a smaller size before reaching maturity",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-carrot-q3191665/baby-carrot-q3191665-1.jpg",
+    "images/baby-carrot-q3191665/baby-carrot-q3191665-2.jpg",
+    "images/baby-carrot-q3191665/baby-carrot-q3191665-3.jpg",
+    "images/baby-carrot-q3191665/baby-carrot-q3191665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3191665",
+    "themealdb": null
+  }
+}

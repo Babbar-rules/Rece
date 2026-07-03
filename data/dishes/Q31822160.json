@@ -1,0 +1,20 @@
+{
+  "id": "Q31822160",
+  "name": "dograma",
+  "description": "Turkmen dish",
+  "nationality": [
+    "Turkmenistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dograma-q31822160/dograma-q31822160-1.jpg",
+    "images/dograma-q31822160/dograma-q31822160-2.jpg",
+    "images/dograma-q31822160/dograma-q31822160-3.jpg",
+    "images/dograma-q31822160/dograma-q31822160-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31822160",
+    "themealdb": null
+  }
+}

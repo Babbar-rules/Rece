@@ -1,0 +1,20 @@
+{
+  "id": "Q3301197",
+  "name": "deep-fried pizza",
+  "description": "Scottish chip shop dish of pizza deep-fried (usually without batter)",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-pizza-q3301197/deep-fried-pizza-q3301197-1.jpg",
+    "images/deep-fried-pizza-q3301197/deep-fried-pizza-q3301197-2.jpg",
+    "images/deep-fried-pizza-q3301197/deep-fried-pizza-q3301197-3.jpg",
+    "images/deep-fried-pizza-q3301197/deep-fried-pizza-q3301197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3301197",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q3275692",
+  "name": "fios de ovos",
+  "description": "Portuguese egg dessert",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/fios-de-ovos-q3275692/fios-de-ovos-q3275692-1.jpg",
+    "images/fios-de-ovos-q3275692/fios-de-ovos-q3275692-2.jpg",
+    "images/fios-de-ovos-q3275692/fios-de-ovos-q3275692-3.jpg",
+    "images/fios-de-ovos-q3275692/fios-de-ovos-q3275692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3275692",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3232603",
+  "name": "Marie biscuit",
+  "description": "vanilla-flavoured round biscuit",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marie-biscuit-q3232603/marie-biscuit-q3232603-1.jpg",
+    "images/marie-biscuit-q3232603/marie-biscuit-q3232603-2.jpg",
+    "images/marie-biscuit-q3232603/marie-biscuit-q3232603-3.jpg",
+    "images/marie-biscuit-q3232603/marie-biscuit-q3232603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3232603",
+    "themealdb": null
+  }
+}

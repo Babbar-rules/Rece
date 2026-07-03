@@ -1,0 +1,22 @@
+{
+  "id": "Q3230686",
+  "name": "snail as food",
+  "description": "flesh from snails",
+  "nationality": [
+    "Spain",
+    "France",
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snail-as-food-q3230686/snail-as-food-q3230686-1.jpg",
+    "images/snail-as-food-q3230686/snail-as-food-q3230686-2.jpg",
+    "images/snail-as-food-q3230686/snail-as-food-q3230686-3.jpg",
+    "images/snail-as-food-q3230686/snail-as-food-q3230686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3230686",
+    "themealdb": null
+  }
+}

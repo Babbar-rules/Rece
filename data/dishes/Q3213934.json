@@ -1,0 +1,20 @@
+{
+  "id": "Q3213934",
+  "name": "La Vosgienne",
+  "description": "Confectionery brand",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/la-vosgienne-q3213934/la-vosgienne-q3213934-1.jpg",
+    "images/la-vosgienne-q3213934/la-vosgienne-q3213934-2.jpg",
+    "images/la-vosgienne-q3213934/la-vosgienne-q3213934-3.jpg",
+    "images/la-vosgienne-q3213934/la-vosgienne-q3213934-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3213934",
+    "themealdb": null
+  }
+}

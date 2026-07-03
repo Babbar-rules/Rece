@@ -1,0 +1,20 @@
+{
+  "id": "Q3160844",
+  "name": "Njeguška pršuta",
+  "description": "dry-cured ham from Njeguši",
+  "nationality": [
+    "Montenegro"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/njeguska-prsuta-q3160844/njeguska-prsuta-q3160844-1.jpg",
+    "images/njeguska-prsuta-q3160844/njeguska-prsuta-q3160844-2.jpg",
+    "images/njeguska-prsuta-q3160844/njeguska-prsuta-q3160844-3.jpg",
+    "images/njeguska-prsuta-q3160844/njeguska-prsuta-q3160844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3160844",
+    "themealdb": null
+  }
+}

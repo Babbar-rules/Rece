@@ -1,0 +1,20 @@
+{
+  "id": "Q3192044",
+  "name": "kakiage",
+  "description": "Japanese dish of battered and deep-fried shrimp or other ingredients",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kakiage-q3192044/kakiage-q3192044-1.jpg",
+    "images/kakiage-q3192044/kakiage-q3192044-2.jpg",
+    "images/kakiage-q3192044/kakiage-q3192044-3.jpg",
+    "images/kakiage-q3192044/kakiage-q3192044-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3192044",
+    "themealdb": null
+  }
+}

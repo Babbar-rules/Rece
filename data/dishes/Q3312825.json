@@ -1,0 +1,17 @@
+{
+  "id": "Q3312825",
+  "name": "migaine",
+  "description": "custard made with eggs and crème fraîche",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/migaine-q3312825/migaine-q3312825-1.jpg",
+    "images/migaine-q3312825/migaine-q3312825-2.jpg",
+    "images/migaine-q3312825/migaine-q3312825-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3312825",
+    "themealdb": null
+  }
+}

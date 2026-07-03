@@ -1,0 +1,20 @@
+{
+  "id": "Q3296567",
+  "name": "Frigărui",
+  "description": "Romanian kebab",
+  "nationality": [],
+  "region_cuisine": [
+    "Romanian cuisine"
+  ],
+  "images": [
+    "images/frigarui-q3296567/frigarui-q3296567-1.jpg",
+    "images/frigarui-q3296567/frigarui-q3296567-2.jpg",
+    "images/frigarui-q3296567/frigarui-q3296567-3.jpg",
+    "images/frigarui-q3296567/frigarui-q3296567-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3296567",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3314532",
+  "name": "Spiced meat roll",
+  "description": "spiced meat roll",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spiced-meat-roll-q3314532/spiced-meat-roll-q3314532-1.jpg",
+    "images/spiced-meat-roll-q3314532/spiced-meat-roll-q3314532-2.jpg",
+    "images/spiced-meat-roll-q3314532/spiced-meat-roll-q3314532-3.jpg",
+    "images/spiced-meat-roll-q3314532/spiced-meat-roll-q3314532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3314532",
+    "themealdb": null
+  }
+}

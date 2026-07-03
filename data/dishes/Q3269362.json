@@ -1,0 +1,22 @@
+{
+  "id": "Q3269362",
+  "name": "laziji",
+  "description": "Chinese Sichuan chicken with chilies",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Sichuan cuisine"
+  ],
+  "images": [
+    "images/laziji-q3269362/laziji-q3269362-1.jpg",
+    "images/laziji-q3269362/laziji-q3269362-2.jpg",
+    "images/laziji-q3269362/laziji-q3269362-3.jpg",
+    "images/laziji-q3269362/laziji-q3269362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3269362",
+    "themealdb": null
+  }
+}

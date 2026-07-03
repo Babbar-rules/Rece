@@ -1,0 +1,20 @@
+{
+  "id": "Q3277130",
+  "name": "mote con huesillo",
+  "description": "Chilean drink",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mote-con-huesillo-q3277130/mote-con-huesillo-q3277130-1.jpg",
+    "images/mote-con-huesillo-q3277130/mote-con-huesillo-q3277130-2.jpg",
+    "images/mote-con-huesillo-q3277130/mote-con-huesillo-q3277130-3.jpg",
+    "images/mote-con-huesillo-q3277130/mote-con-huesillo-q3277130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3277130",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q321797",
+  "name": "zefir",
+  "description": "type of soft confectionery",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zefir-q321797/zefir-q321797-1.jpg",
+    "images/zefir-q321797/zefir-q321797-2.jpg",
+    "images/zefir-q321797/zefir-q321797-3.jpg",
+    "images/zefir-q321797/zefir-q321797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q321797",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q3192094",
+  "name": "Kalamai",
+  "description": "a traditional Chamorro corn / coconut pudding",
+  "nationality": [
+    "Guam",
+    "Mariana Islands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalamai-q3192094/kalamai-q3192094-1.jpg",
+    "images/kalamai-q3192094/kalamai-q3192094-2.jpg",
+    "images/kalamai-q3192094/kalamai-q3192094-3.png",
+    "images/kalamai-q3192094/kalamai-q3192094-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3192094",
+    "themealdb": null
+  }
+}

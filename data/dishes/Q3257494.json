@@ -1,0 +1,18 @@
+{
+  "id": "Q3257494",
+  "name": "Llapingacho",
+  "description": "Ecuadorian fried potato pancake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/llapingacho-q3257494/llapingacho-q3257494-1.jpg",
+    "images/llapingacho-q3257494/llapingacho-q3257494-2.jpg",
+    "images/llapingacho-q3257494/llapingacho-q3257494-3.jpg",
+    "images/llapingacho-q3257494/llapingacho-q3257494-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3257494",
+    "themealdb": null
+  }
+}

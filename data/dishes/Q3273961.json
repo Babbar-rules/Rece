@@ -1,0 +1,19 @@
+{
+  "id": "Q3273961",
+  "name": "Hishi mochi",
+  "description": "diamond shaped mochi that consists of three layers",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hishi-mochi-q3273961/hishi-mochi-q3273961-1.jpg",
+    "images/hishi-mochi-q3273961/hishi-mochi-q3273961-2.jpg",
+    "images/hishi-mochi-q3273961/hishi-mochi-q3273961-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3273961",
+    "themealdb": null
+  }
+}

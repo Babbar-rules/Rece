@@ -1,0 +1,18 @@
+{
+  "id": "Q3308519",
+  "name": "Girl Scout Cookies",
+  "description": "seasonal baked goods sold for fundraising",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/girl-scout-cookies-q3308519/girl-scout-cookies-q3308519-1.jpg",
+    "images/girl-scout-cookies-q3308519/girl-scout-cookies-q3308519-2.jpg",
+    "images/girl-scout-cookies-q3308519/girl-scout-cookies-q3308519-3.jpg",
+    "images/girl-scout-cookies-q3308519/girl-scout-cookies-q3308519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3308519",
+    "themealdb": null
+  }
+}

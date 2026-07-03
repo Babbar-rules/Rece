@@ -1,0 +1,18 @@
+{
+  "id": "Q3277405",
+  "name": "bacon and eggs",
+  "description": "breakfast dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-and-eggs-q3277405/bacon-and-eggs-q3277405-1.jpg",
+    "images/bacon-and-eggs-q3277405/bacon-and-eggs-q3277405-2.jpg",
+    "images/bacon-and-eggs-q3277405/bacon-and-eggs-q3277405-3.jpg",
+    "images/bacon-and-eggs-q3277405/bacon-and-eggs-q3277405-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3277405",
+    "themealdb": null
+  }
+}

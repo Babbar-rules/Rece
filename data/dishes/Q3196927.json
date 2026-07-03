@@ -1,0 +1,20 @@
+{
+  "id": "Q3196927",
+  "name": "kimchi-don",
+  "description": "donburi made with kimchi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kimchi-don-q3196927/kimchi-don-q3196927-1.jpg",
+    "images/kimchi-don-q3196927/kimchi-don-q3196927-2.jpg",
+    "images/kimchi-don-q3196927/kimchi-don-q3196927-3.jpg",
+    "images/kimchi-don-q3196927/kimchi-don-q3196927-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3196927",
+    "themealdb": null
+  }
+}

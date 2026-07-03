@@ -1,0 +1,18 @@
+{
+  "id": "Q3273096",
+  "name": "doubanjiang",
+  "description": "Chinese bean paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doubanjiang-q3273096/doubanjiang-q3273096-1.jpg",
+    "images/doubanjiang-q3273096/doubanjiang-q3273096-2.jpg",
+    "images/doubanjiang-q3273096/doubanjiang-q3273096-3.jpg",
+    "images/doubanjiang-q3273096/doubanjiang-q3273096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3273096",
+    "themealdb": null
+  }
+}

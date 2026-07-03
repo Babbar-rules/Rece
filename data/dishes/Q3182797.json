@@ -1,0 +1,22 @@
+{
+  "id": "Q3182797",
+  "name": "Dadiah",
+  "description": "Indonesian traditional fermented milk",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/dadiah-q3182797/dadiah-q3182797-1.jpg",
+    "images/dadiah-q3182797/dadiah-q3182797-2.jpg",
+    "images/dadiah-q3182797/dadiah-q3182797-3.jpg",
+    "images/dadiah-q3182797/dadiah-q3182797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3182797",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Q3275558",
+  "name": "rice noodle roll",
+  "description": "food",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [
+    "Cantonese cuisine",
+    "Hong Kong cuisine",
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/rice-noodle-roll-q3275558/rice-noodle-roll-q3275558-1.jpg",
+    "images/rice-noodle-roll-q3275558/rice-noodle-roll-q3275558-2.jpg",
+    "images/rice-noodle-roll-q3275558/rice-noodle-roll-q3275558-3.jpg",
+    "images/rice-noodle-roll-q3275558/rice-noodle-roll-q3275558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3275558",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q3260142",
+  "name": "Lou Pisadou",
+  "description": "French pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lou-pisadou-q3260142/lou-pisadou-q3260142-1.jpg",
+    "images/lou-pisadou-q3260142/lou-pisadou-q3260142-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3260142",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Q3197476",
+  "name": "kisra",
+  "description": "type of bread",
+  "nationality": [
+    "Kenya",
+    "Algeria",
+    "Chad",
+    "South Sudan",
+    "Uganda",
+    "Sudan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kisra-q3197476/kisra-q3197476-1.jpeg",
+    "images/kisra-q3197476/kisra-q3197476-2.jpeg",
+    "images/kisra-q3197476/kisra-q3197476-3.jpg",
+    "images/kisra-q3197476/kisra-q3197476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3197476",
+    "themealdb": null
+  }
+}

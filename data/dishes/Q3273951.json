@@ -1,0 +1,22 @@
+{
+  "id": "Q3273951",
+  "name": "Nasi Campur",
+  "description": "Indonesian rice dish originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-campur-q3273951/nasi-campur-q3273951-1.jpg",
+    "images/nasi-campur-q3273951/nasi-campur-q3273951-2.jpg",
+    "images/nasi-campur-q3273951/nasi-campur-q3273951-3.jpg",
+    "images/nasi-campur-q3273951/nasi-campur-q3273951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3273951",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3183248",
+  "name": "Malay sponge cake",
+  "description": "Chinese dessert cake",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malay-sponge-cake-q3183248/malay-sponge-cake-q3183248-1.jpg",
+    "images/malay-sponge-cake-q3183248/malay-sponge-cake-q3183248-2.jpg",
+    "images/malay-sponge-cake-q3183248/malay-sponge-cake-q3183248-3.jpg",
+    "images/malay-sponge-cake-q3183248/malay-sponge-cake-q3183248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3183248",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q3306574",
+  "name": "Mermez",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mermez-q3306574/mermez-q3306574-1.jpg",
+    "images/mermez-q3306574/mermez-q3306574-2.jpg",
+    "images/mermez-q3306574/mermez-q3306574-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3306574",
+    "themealdb": null
+  }
+}

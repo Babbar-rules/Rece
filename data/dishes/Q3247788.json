@@ -1,0 +1,24 @@
+{
+  "id": "Q3247788",
+  "name": "tandyr nan",
+  "description": "type of Central Asian naan",
+  "nationality": [
+    "Kazakhstan",
+    "Uzbekistan",
+    "Kyrgyzstan",
+    "Tajikistan",
+    "Afghanistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tandyr-nan-q3247788/tandyr-nan-q3247788-1.jpg",
+    "images/tandyr-nan-q3247788/tandyr-nan-q3247788-2.jpg",
+    "images/tandyr-nan-q3247788/tandyr-nan-q3247788-3.jpg",
+    "images/tandyr-nan-q3247788/tandyr-nan-q3247788-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3247788",
+    "themealdb": null
+  }
+}

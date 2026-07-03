@@ -1,0 +1,21 @@
+{
+  "id": "Q3282218",
+  "name": "malloreddus",
+  "description": "gnocchi-shaped pasta variety",
+  "nationality": [
+    "Italy",
+    "Sardinia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malloreddus-q3282218/malloreddus-q3282218-1.jpg",
+    "images/malloreddus-q3282218/malloreddus-q3282218-2.jpg",
+    "images/malloreddus-q3282218/malloreddus-q3282218-3.jpg",
+    "images/malloreddus-q3282218/malloreddus-q3282218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3282218",
+    "themealdb": null
+  }
+}

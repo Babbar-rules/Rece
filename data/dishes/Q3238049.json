@@ -1,0 +1,20 @@
+{
+  "id": "Q3238049",
+  "name": "twice cooked pork",
+  "description": "Sichuanese pork dish",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/twice-cooked-pork-q3238049/twice-cooked-pork-q3238049-1.jpg",
+    "images/twice-cooked-pork-q3238049/twice-cooked-pork-q3238049-2.jpg",
+    "images/twice-cooked-pork-q3238049/twice-cooked-pork-q3238049-3.jpg",
+    "images/twice-cooked-pork-q3238049/twice-cooked-pork-q3238049-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3238049",
+    "themealdb": null
+  }
+}

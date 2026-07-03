@@ -1,0 +1,20 @@
+{
+  "id": "Q3243732",
+  "name": "bitter almond cookie",
+  "description": "Turkish kurabiye (cookie)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bitter-almond-cookie-q3243732/bitter-almond-cookie-q3243732-1.jpg",
+    "images/bitter-almond-cookie-q3243732/bitter-almond-cookie-q3243732-2.jpg",
+    "images/bitter-almond-cookie-q3243732/bitter-almond-cookie-q3243732-3.jpg",
+    "images/bitter-almond-cookie-q3243732/bitter-almond-cookie-q3243732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3243732",
+    "themealdb": null
+  }
+}

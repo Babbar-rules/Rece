@@ -1,0 +1,18 @@
+{
+  "id": "Q32890",
+  "name": "corn steak",
+  "description": "Hong Kong dish consisting of fried fish served with corn and egg",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-steak-q32890/corn-steak-q32890-1.jpg",
+    "images/corn-steak-q32890/corn-steak-q32890-2.jpg",
+    "images/corn-steak-q32890/corn-steak-q32890-3.jpg",
+    "images/corn-steak-q32890/corn-steak-q32890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q32890",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3269618",
+  "name": "shaobing",
+  "description": "Chinese food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shaobing-q3269618/shaobing-q3269618-1.jpg",
+    "images/shaobing-q3269618/shaobing-q3269618-2.jpg",
+    "images/shaobing-q3269618/shaobing-q3269618-3.jpg",
+    "images/shaobing-q3269618/shaobing-q3269618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3269618",
+    "themealdb": null
+  }
+}

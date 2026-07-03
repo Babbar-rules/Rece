@@ -1,0 +1,20 @@
+{
+  "id": "Q3201055",
+  "name": "Kaak warka",
+  "description": "Tunisian pastry",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaak-warka-q3201055/kaak-warka-q3201055-1.jpg",
+    "images/kaak-warka-q3201055/kaak-warka-q3201055-2.jpg",
+    "images/kaak-warka-q3201055/kaak-warka-q3201055-3.jpg",
+    "images/kaak-warka-q3201055/kaak-warka-q3201055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3201055",
+    "themealdb": null
+  }
+}

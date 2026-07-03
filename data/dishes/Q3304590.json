@@ -1,0 +1,20 @@
+{
+  "id": "Q3304590",
+  "name": "Blackberry pie",
+  "description": "pie composed of blackberry filling",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blackberry-pie-q3304590/blackberry-pie-q3304590-1.jpg",
+    "images/blackberry-pie-q3304590/blackberry-pie-q3304590-2.jpg",
+    "images/blackberry-pie-q3304590/blackberry-pie-q3304590-3.jpg",
+    "images/blackberry-pie-q3304590/blackberry-pie-q3304590-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3304590",
+    "themealdb": null
+  }
+}

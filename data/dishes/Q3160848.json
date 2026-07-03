@@ -1,0 +1,18 @@
+{
+  "id": "Q3160848",
+  "name": "jambon sec des Ardennes",
+  "description": "French ham",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-sec-des-ardennes-q3160848/jambon-sec-des-ardennes-q3160848-1.jpg",
+    "images/jambon-sec-des-ardennes-q3160848/jambon-sec-des-ardennes-q3160848-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3160848",
+    "themealdb": null
+  }
+}

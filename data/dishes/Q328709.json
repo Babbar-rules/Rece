@@ -1,0 +1,72 @@
+{
+  "id": "Q328709",
+  "name": "tempura",
+  "description": "Japanese dish of battered deep-fried fish or vegetable, of Portuguese origin",
+  "nationality": [
+    "Vietnamese"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/tempura-q328709/tempura-q328709-1.jpg",
+    "images/tempura-q328709/tempura-q328709-2.jpg",
+    "images/tempura-q328709/tempura-q328709-3.jpg",
+    "images/tempura-q328709/tempura-q328709-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53230",
+    "category": "Miscellaneous",
+    "area": "Vietnamese",
+    "instructions": "step 1\r\nFor the nuoc cham, whisk together all of the ingredients with 5 tbsp hot water in a small bowl. Set aside while you make the tempura.\r\n\r\nstep 2\r\nWhisk the cornflour, plain flour, sesame seeds (if using) and a large pinch of salt together. Fill a large, deep pan no more than a third full with the vegetable oil and heat until it reaches 180C or a cube of bread dropped in browns in 20 seconds.\r\n\r\nstep 3\r\nQuickly whisk the soda water into the flour mixture, being careful not to overmix, then dunk in the broccoli using tongs. Carefully lower into the hot oil and cook for 2-3 mins until crisp. Drain on kitchen paper, then serve with the nuoc cham on the side for dipping.",
+    "ingredients": [
+      {
+        "ingredient": "Corn Flour",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Plain Flour",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Sesame Seed",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "For frying"
+      },
+      {
+        "ingredient": "Soda Water",
+        "measure": "250ml"
+      },
+      {
+        "ingredient": "Purple Sprouting Broccoli",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Fish Sauce",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "Juice of 2"
+      },
+      {
+        "ingredient": "Birds-eye Chillies",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "2 tablespoons"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/xnv4wf1763756529.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q328709",
+    "themealdb": "53230"
+  }
+}

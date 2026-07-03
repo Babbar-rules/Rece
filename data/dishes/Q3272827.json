@@ -1,0 +1,20 @@
+{
+  "id": "Q3272827",
+  "name": "bonbon",
+  "description": "sweet or small confection coated in chocolate",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bonbon-q3272827/bonbon-q3272827-1.jpg",
+    "images/bonbon-q3272827/bonbon-q3272827-2.gif",
+    "images/bonbon-q3272827/bonbon-q3272827-3.jpg",
+    "images/bonbon-q3272827/bonbon-q3272827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3272827",
+    "themealdb": null
+  }
+}

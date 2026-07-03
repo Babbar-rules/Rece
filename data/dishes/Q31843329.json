@@ -1,0 +1,18 @@
+{
+  "id": "Q31843329",
+  "name": "potato croquette",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-croquette-q31843329/potato-croquette-q31843329-1.jpg",
+    "images/potato-croquette-q31843329/potato-croquette-q31843329-2.jpg",
+    "images/potato-croquette-q31843329/potato-croquette-q31843329-3.jpg",
+    "images/potato-croquette-q31843329/potato-croquette-q31843329-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31843329",
+    "themealdb": null
+  }
+}

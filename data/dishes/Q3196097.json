@@ -1,0 +1,20 @@
+{
+  "id": "Q3196097",
+  "name": "Khashlama",
+  "description": "Armenian and Georgian meat dish",
+  "nationality": [
+    "Georgia",
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khashlama-q3196097/khashlama-q3196097-1.jpg",
+    "images/khashlama-q3196097/khashlama-q3196097-2.jpg",
+    "images/khashlama-q3196097/khashlama-q3196097-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3196097",
+    "themealdb": null
+  }
+}

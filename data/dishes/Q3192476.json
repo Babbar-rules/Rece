@@ -1,0 +1,18 @@
+{
+  "id": "Q3192476",
+  "name": "Kamounia",
+  "description": "beef and liver stew prepared with cumin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kamounia-q3192476/kamounia-q3192476-1.jpg",
+    "images/kamounia-q3192476/kamounia-q3192476-2.jpg",
+    "images/kamounia-q3192476/kamounia-q3192476-3.jpg",
+    "images/kamounia-q3192476/kamounia-q3192476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3192476",
+    "themealdb": null
+  }
+}

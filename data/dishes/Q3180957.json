@@ -1,0 +1,23 @@
+{
+  "id": "Q3180957",
+  "name": "Reuben sandwich",
+  "description": "hot sandwich of corned beef, Swiss cheese, with Russian or Thousand Island dressing, and sauerkraut",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Jewish cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/reuben-sandwich-q3180957/reuben-sandwich-q3180957-1.jpg",
+    "images/reuben-sandwich-q3180957/reuben-sandwich-q3180957-2.jpg",
+    "images/reuben-sandwich-q3180957/reuben-sandwich-q3180957-3.jpg",
+    "images/reuben-sandwich-q3180957/reuben-sandwich-q3180957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3180957",
+    "themealdb": null
+  }
+}

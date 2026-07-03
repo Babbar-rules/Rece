@@ -1,0 +1,18 @@
+{
+  "id": "Q3275951",
+  "name": "fried shrimp",
+  "description": "type of food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-shrimp-q3275951/fried-shrimp-q3275951-1.jpg",
+    "images/fried-shrimp-q3275951/fried-shrimp-q3275951-2.jpg",
+    "images/fried-shrimp-q3275951/fried-shrimp-q3275951-3.jpg",
+    "images/fried-shrimp-q3275951/fried-shrimp-q3275951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3275951",
+    "themealdb": null
+  }
+}

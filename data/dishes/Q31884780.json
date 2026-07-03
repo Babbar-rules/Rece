@@ -1,0 +1,18 @@
+{
+  "id": "Q31884780",
+  "name": "Dallas salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dallas-salad-q31884780/dallas-salad-q31884780-1.jpg",
+    "images/dallas-salad-q31884780/dallas-salad-q31884780-2.jpg",
+    "images/dallas-salad-q31884780/dallas-salad-q31884780-3.jpg",
+    "images/dallas-salad-q31884780/dallas-salad-q31884780-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31884780",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3270149",
+  "name": "Singapore style noodles",
+  "description": "Cantonese stir-fried dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/singapore-style-noodles-q3270149/singapore-style-noodles-q3270149-1.jpg",
+    "images/singapore-style-noodles-q3270149/singapore-style-noodles-q3270149-2.jpg",
+    "images/singapore-style-noodles-q3270149/singapore-style-noodles-q3270149-3.jpg",
+    "images/singapore-style-noodles-q3270149/singapore-style-noodles-q3270149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3270149",
+    "themealdb": null
+  }
+}

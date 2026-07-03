@@ -1,0 +1,22 @@
+{
+  "id": "Q3236175",
+  "name": "nasi uduk",
+  "description": "Indonesian traditional rice cooked with coconut milk",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-uduk-q3236175/nasi-uduk-q3236175-1.jpg",
+    "images/nasi-uduk-q3236175/nasi-uduk-q3236175-2.jpg",
+    "images/nasi-uduk-q3236175/nasi-uduk-q3236175-3.jpg",
+    "images/nasi-uduk-q3236175/nasi-uduk-q3236175-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3236175",
+    "themealdb": null
+  }
+}

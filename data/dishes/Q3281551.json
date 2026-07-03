@@ -1,0 +1,20 @@
+{
+  "id": "Q3281551",
+  "name": "Malasada",
+  "description": "Portuguese style fried doughnut",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malasada-q3281551/malasada-q3281551-1.jpg",
+    "images/malasada-q3281551/malasada-q3281551-2.jpg",
+    "images/malasada-q3281551/malasada-q3281551-3.jpg",
+    "images/malasada-q3281551/malasada-q3281551-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3281551",
+    "themealdb": null
+  }
+}

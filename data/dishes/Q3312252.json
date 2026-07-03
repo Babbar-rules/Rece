@@ -1,0 +1,20 @@
+{
+  "id": "Q3312252",
+  "name": "Cozido à portuguesa",
+  "description": "traditional Portuguese boiled meal",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cozido-a-portuguesa-q3312252/cozido-a-portuguesa-q3312252-1.jpg",
+    "images/cozido-a-portuguesa-q3312252/cozido-a-portuguesa-q3312252-2.jpg",
+    "images/cozido-a-portuguesa-q3312252/cozido-a-portuguesa-q3312252-3.jpg",
+    "images/cozido-a-portuguesa-q3312252/cozido-a-portuguesa-q3312252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3312252",
+    "themealdb": null
+  }
+}

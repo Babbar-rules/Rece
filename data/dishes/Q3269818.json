@@ -1,0 +1,22 @@
+{
+  "id": "Q3269818",
+  "name": "nasi kuning",
+  "description": "Indonesian yellow rice dish originating from Java",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-kuning-q3269818/nasi-kuning-q3269818-1.jpg",
+    "images/nasi-kuning-q3269818/nasi-kuning-q3269818-2.jpg",
+    "images/nasi-kuning-q3269818/nasi-kuning-q3269818-3.jpg",
+    "images/nasi-kuning-q3269818/nasi-kuning-q3269818-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3269818",
+    "themealdb": null
+  }
+}

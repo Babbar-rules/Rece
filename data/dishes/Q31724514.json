@@ -1,0 +1,18 @@
+{
+  "id": "Q31724514",
+  "name": "Ghanto",
+  "description": "Bengali dish with multiple vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ghanto-q31724514/ghanto-q31724514-1.jpg",
+    "images/ghanto-q31724514/ghanto-q31724514-2.jpg",
+    "images/ghanto-q31724514/ghanto-q31724514-3.jpg",
+    "images/ghanto-q31724514/ghanto-q31724514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31724514",
+    "themealdb": null
+  }
+}

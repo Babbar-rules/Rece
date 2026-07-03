@@ -1,0 +1,18 @@
+{
+  "id": "Q3316250",
+  "name": "mise en bouche",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mise-en-bouche-q3316250/mise-en-bouche-q3316250-1.jpg",
+    "images/mise-en-bouche-q3316250/mise-en-bouche-q3316250-2.jpg",
+    "images/mise-en-bouche-q3316250/mise-en-bouche-q3316250-3.jpg",
+    "images/mise-en-bouche-q3316250/mise-en-bouche-q3316250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3316250",
+    "themealdb": null
+  }
+}

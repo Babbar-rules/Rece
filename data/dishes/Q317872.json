@@ -1,0 +1,18 @@
+{
+  "id": "Q317872",
+  "name": "Haddekuche",
+  "description": "spice cake from Frankfurt and South Hesse",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/haddekuche-q317872/haddekuche-q317872-1.jpg",
+    "images/haddekuche-q317872/haddekuche-q317872-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q317872",
+    "themealdb": null
+  }
+}

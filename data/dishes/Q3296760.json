@@ -1,0 +1,20 @@
+{
+  "id": "Q3296760",
+  "name": "liver casserole",
+  "description": "Finnish dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/liver-casserole-q3296760/liver-casserole-q3296760-1.jpg",
+    "images/liver-casserole-q3296760/liver-casserole-q3296760-2.jpg",
+    "images/liver-casserole-q3296760/liver-casserole-q3296760-3.jpg",
+    "images/liver-casserole-q3296760/liver-casserole-q3296760-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3296760",
+    "themealdb": null
+  }
+}

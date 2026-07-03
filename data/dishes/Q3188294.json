@@ -1,0 +1,18 @@
+{
+  "id": "Q3188294",
+  "name": "Jujube",
+  "description": "type of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jujube-q3188294/jujube-q3188294-1.jpg",
+    "images/jujube-q3188294/jujube-q3188294-2.jpg",
+    "images/jujube-q3188294/jujube-q3188294-3.jpg",
+    "images/jujube-q3188294/jujube-q3188294-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3188294",
+    "themealdb": null
+  }
+}

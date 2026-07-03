@@ -1,0 +1,22 @@
+{
+  "id": "Q328178",
+  "name": "steckerlfisch",
+  "description": "fish grilled on a stick",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/steckerlfisch-q328178/steckerlfisch-q328178-1.jpg",
+    "images/steckerlfisch-q328178/steckerlfisch-q328178-2.jpg",
+    "images/steckerlfisch-q328178/steckerlfisch-q328178-3.jpg",
+    "images/steckerlfisch-q328178/steckerlfisch-q328178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q328178",
+    "themealdb": null
+  }
+}

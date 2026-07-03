@@ -1,0 +1,18 @@
+{
+  "id": "Q3200265",
+  "name": "patty",
+  "description": "serving of chopped ingredients formed into a disc",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/patty-q3200265/patty-q3200265-1.jpg",
+    "images/patty-q3200265/patty-q3200265-2.jpg",
+    "images/patty-q3200265/patty-q3200265-3.jpg",
+    "images/patty-q3200265/patty-q3200265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3200265",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3290483",
+  "name": "caramelized potatoes",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Danish cuisine"
+  ],
+  "images": [
+    "images/caramelized-potatoes-q3290483/caramelized-potatoes-q3290483-1.jpg",
+    "images/caramelized-potatoes-q3290483/caramelized-potatoes-q3290483-2.jpg",
+    "images/caramelized-potatoes-q3290483/caramelized-potatoes-q3290483-3.jpg",
+    "images/caramelized-potatoes-q3290483/caramelized-potatoes-q3290483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3290483",
+    "themealdb": null
+  }
+}

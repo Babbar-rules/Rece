@@ -1,0 +1,20 @@
+{
+  "id": "Q3273642",
+  "name": "Mansaf",
+  "description": "lamb dish",
+  "nationality": [
+    "Jordan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mansaf-q3273642/mansaf-q3273642-1.jpg",
+    "images/mansaf-q3273642/mansaf-q3273642-2.jpg",
+    "images/mansaf-q3273642/mansaf-q3273642-3.jpg",
+    "images/mansaf-q3273642/mansaf-q3273642-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3273642",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q32759803",
+  "name": "zelňačka",
+  "description": "Czech sauerkraut soup",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zelnacka-q32759803/zelnacka-q32759803-1.jpg",
+    "images/zelnacka-q32759803/zelnacka-q32759803-2.png",
+    "images/zelnacka-q32759803/zelnacka-q32759803-3.png",
+    "images/zelnacka-q32759803/zelnacka-q32759803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q32759803",
+    "themealdb": null
+  }
+}

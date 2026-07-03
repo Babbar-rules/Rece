@@ -1,0 +1,18 @@
+{
+  "id": "Q320657",
+  "name": "Swiss roll",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/swiss-roll-q320657/swiss-roll-q320657-1.jpg",
+    "images/swiss-roll-q320657/swiss-roll-q320657-2.jpg",
+    "images/swiss-roll-q320657/swiss-roll-q320657-3.jpg",
+    "images/swiss-roll-q320657/swiss-roll-q320657-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q320657",
+    "themealdb": null
+  }
+}

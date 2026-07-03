@@ -1,0 +1,20 @@
+{
+  "id": "Q3160836",
+  "name": "jambon-beurre",
+  "description": "French sandwich made of a baguette sliced open, spread with butter, and filled with slices of ham",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-beurre-q3160836/jambon-beurre-q3160836-1.jpg",
+    "images/jambon-beurre-q3160836/jambon-beurre-q3160836-2.jpg",
+    "images/jambon-beurre-q3160836/jambon-beurre-q3160836-3.jpg",
+    "images/jambon-beurre-q3160836/jambon-beurre-q3160836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3160836",
+    "themealdb": null
+  }
+}

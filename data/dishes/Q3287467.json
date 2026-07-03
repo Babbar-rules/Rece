@@ -1,0 +1,18 @@
+{
+  "id": "Q3287467",
+  "name": "Marathon",
+  "description": "chocolate bar manufactured by Mars",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/marathon-q3287467/marathon-q3287467-1.jpg",
+    "images/marathon-q3287467/marathon-q3287467-2.jpg",
+    "images/marathon-q3287467/marathon-q3287467-3.jpg",
+    "images/marathon-q3287467/marathon-q3287467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3287467",
+    "themealdb": null
+  }
+}

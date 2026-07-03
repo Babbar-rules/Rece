@@ -1,0 +1,20 @@
+{
+  "id": "Q3318218",
+  "name": "Moffle",
+  "description": "Japanese dish; waffle rice cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moffle-q3318218/moffle-q3318218-1.jpg",
+    "images/moffle-q3318218/moffle-q3318218-2.jpg",
+    "images/moffle-q3318218/moffle-q3318218-3.jpg",
+    "images/moffle-q3318218/moffle-q3318218-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3318218",
+    "themealdb": null
+  }
+}

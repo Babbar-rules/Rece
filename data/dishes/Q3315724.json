@@ -1,0 +1,18 @@
+{
+  "id": "Q3315724",
+  "name": "Mique",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mique-q3315724/mique-q3315724-1.png",
+    "images/mique-q3315724/mique-q3315724-2.jpg",
+    "images/mique-q3315724/mique-q3315724-3.png",
+    "images/mique-q3315724/mique-q3315724-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3315724",
+    "themealdb": null
+  }
+}

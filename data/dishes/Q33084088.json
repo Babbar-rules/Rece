@@ -1,0 +1,18 @@
+{
+  "id": "Q33084088",
+  "name": "pizza in China",
+  "description": "overview about the pizza industry of China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-in-china-q33084088/pizza-in-china-q33084088-1.jpg",
+    "images/pizza-in-china-q33084088/pizza-in-china-q33084088-2.jpg",
+    "images/pizza-in-china-q33084088/pizza-in-china-q33084088-3.jpg",
+    "images/pizza-in-china-q33084088/pizza-in-china-q33084088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q33084088",
+    "themealdb": null
+  }
+}

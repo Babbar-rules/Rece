@@ -1,0 +1,20 @@
+{
+  "id": "Q3278369",
+  "name": "Antwerps Handje",
+  "description": "cookie from Antwerp, Belgium",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/antwerps-handje-q3278369/antwerps-handje-q3278369-1.jpg",
+    "images/antwerps-handje-q3278369/antwerps-handje-q3278369-2.jpg",
+    "images/antwerps-handje-q3278369/antwerps-handje-q3278369-3.jpg",
+    "images/antwerps-handje-q3278369/antwerps-handje-q3278369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3278369",
+    "themealdb": null
+  }
+}

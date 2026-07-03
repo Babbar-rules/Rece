@@ -1,0 +1,20 @@
+{
+  "id": "Q3246340",
+  "name": "sweet potato pie",
+  "description": "traditional side dish in the southern United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-potato-pie-q3246340/sweet-potato-pie-q3246340-1.jpg",
+    "images/sweet-potato-pie-q3246340/sweet-potato-pie-q3246340-2.jpg",
+    "images/sweet-potato-pie-q3246340/sweet-potato-pie-q3246340-3.jpg",
+    "images/sweet-potato-pie-q3246340/sweet-potato-pie-q3246340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3246340",
+    "themealdb": null
+  }
+}

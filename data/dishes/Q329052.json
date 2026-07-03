@@ -1,0 +1,18 @@
+{
+  "id": "Q329052",
+  "name": "elderberry soup",
+  "description": "",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/elderberry-soup-q329052/elderberry-soup-q329052-1.jpg",
+    "images/elderberry-soup-q329052/elderberry-soup-q329052-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q329052",
+    "themealdb": null
+  }
+}

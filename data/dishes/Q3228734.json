@@ -1,0 +1,20 @@
+{
+  "id": "Q3228734",
+  "name": "Lechona",
+  "description": "stuffed roast pig in Colombian cuisine",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lechona-q3228734/lechona-q3228734-1.jpg",
+    "images/lechona-q3228734/lechona-q3228734-2.jpg",
+    "images/lechona-q3228734/lechona-q3228734-3.jpg",
+    "images/lechona-q3228734/lechona-q3228734-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3228734",
+    "themealdb": null
+  }
+}

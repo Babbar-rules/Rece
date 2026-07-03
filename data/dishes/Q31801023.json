@@ -1,0 +1,20 @@
+{
+  "id": "Q31801023",
+  "name": "Gaintha",
+  "description": "Odia cuisine",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gaintha-q31801023/gaintha-q31801023-1.jpg",
+    "images/gaintha-q31801023/gaintha-q31801023-2.jpg",
+    "images/gaintha-q31801023/gaintha-q31801023-3.jpg",
+    "images/gaintha-q31801023/gaintha-q31801023-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31801023",
+    "themealdb": null
+  }
+}

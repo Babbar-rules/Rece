@@ -1,0 +1,20 @@
+{
+  "id": "Q3297247",
+  "name": "Masgouf",
+  "description": "Iraqi national dish",
+  "nationality": [
+    "Iraq"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/masgouf-q3297247/masgouf-q3297247-1.jpg",
+    "images/masgouf-q3297247/masgouf-q3297247-2.jpg",
+    "images/masgouf-q3297247/masgouf-q3297247-3.jpg",
+    "images/masgouf-q3297247/masgouf-q3297247-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3297247",
+    "themealdb": null
+  }
+}

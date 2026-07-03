@@ -1,0 +1,21 @@
+{
+  "id": "Q3273854",
+  "name": "sachima",
+  "description": "Manchurian pastry made of fluffy strands of fried batter bound together with a stiff sugar syrup",
+  "nationality": [
+    "People's Republic of China",
+    "Manchuria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sachima-q3273854/sachima-q3273854-1.jpg",
+    "images/sachima-q3273854/sachima-q3273854-2.jpg",
+    "images/sachima-q3273854/sachima-q3273854-3.jpg",
+    "images/sachima-q3273854/sachima-q3273854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3273854",
+    "themealdb": null
+  }
+}

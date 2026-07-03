@@ -1,0 +1,17 @@
+{
+  "id": "Q32996302",
+  "name": "melekouni",
+  "description": "sesame seed treat",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/melekouni-q32996302/melekouni-q32996302-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q32996302",
+    "themealdb": null
+  }
+}

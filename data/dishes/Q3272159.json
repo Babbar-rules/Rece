@@ -1,0 +1,18 @@
+{
+  "id": "Q3272159",
+  "name": "mithai",
+  "description": "confectionery and desserts of the Indian subcontinent",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mithai-q3272159/mithai-q3272159-1.jpg",
+    "images/mithai-q3272159/mithai-q3272159-2.jpg",
+    "images/mithai-q3272159/mithai-q3272159-3.jpg",
+    "images/mithai-q3272159/mithai-q3272159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3272159",
+    "themealdb": null
+  }
+}

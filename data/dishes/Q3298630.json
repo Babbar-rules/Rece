@@ -1,0 +1,20 @@
+{
+  "id": "Q3298630",
+  "name": "crab rangoon",
+  "description": "dumpling appetizer typically filled with cream cheese, crab meat, and other flavorings",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-rangoon-q3298630/crab-rangoon-q3298630-1.jpg",
+    "images/crab-rangoon-q3298630/crab-rangoon-q3298630-2.jpg",
+    "images/crab-rangoon-q3298630/crab-rangoon-q3298630-3.jpg",
+    "images/crab-rangoon-q3298630/crab-rangoon-q3298630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3298630",
+    "themealdb": null
+  }
+}

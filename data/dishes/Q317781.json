@@ -1,0 +1,24 @@
+{
+  "id": "Q317781",
+  "name": "pease pudding",
+  "description": "North English savoury pudding of boiled legumes (e.g. split yellow peas) with water, salt, and spices, often cooked with bacon or ham",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "Polish cuisine",
+    "Turks and Caicos Islands"
+  ],
+  "images": [
+    "images/pease-pudding-q317781/pease-pudding-q317781-1.jpg",
+    "images/pease-pudding-q317781/pease-pudding-q317781-2.jpg",
+    "images/pease-pudding-q317781/pease-pudding-q317781-3.png",
+    "images/pease-pudding-q317781/pease-pudding-q317781-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q317781",
+    "themealdb": null
+  }
+}

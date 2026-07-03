@@ -1,0 +1,18 @@
+{
+  "id": "Q3314757",
+  "name": "Mince and tatties",
+  "description": "Scottish dish made from beef and potato",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mince-and-tatties-q3314757/mince-and-tatties-q3314757-1.jpg",
+    "images/mince-and-tatties-q3314757/mince-and-tatties-q3314757-2.jpg",
+    "images/mince-and-tatties-q3314757/mince-and-tatties-q3314757-3.jpg",
+    "images/mince-and-tatties-q3314757/mince-and-tatties-q3314757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3314757",
+    "themealdb": null
+  }
+}

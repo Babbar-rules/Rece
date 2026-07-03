@@ -1,0 +1,17 @@
+{
+  "id": "Q3270725",
+  "name": "Fryske dúmkes",
+  "description": "Dutch cookies",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fryske-dumkes-q3270725/fryske-dumkes-q3270725-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3270725",
+    "themealdb": null
+  }
+}

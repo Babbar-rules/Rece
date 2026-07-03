@@ -1,0 +1,20 @@
+{
+  "id": "Q3180338",
+  "name": "Joffre cake",
+  "description": "chocolate buttermilk layer cake filled with chocolate ganache and frosted with chocolate buttercream",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/joffre-cake-q3180338/joffre-cake-q3180338-1.jpg",
+    "images/joffre-cake-q3180338/joffre-cake-q3180338-2.jpg",
+    "images/joffre-cake-q3180338/joffre-cake-q3180338-3.jpg",
+    "images/joffre-cake-q3180338/joffre-cake-q3180338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3180338",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q321356",
+  "name": "ričet",
+  "description": "stew from Bavaria, Austria and Slovenia",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ricet-q321356/ricet-q321356-1.jpg",
+    "images/ricet-q321356/ricet-q321356-2.jpg",
+    "images/ricet-q321356/ricet-q321356-3.jpg",
+    "images/ricet-q321356/ricet-q321356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q321356",
+    "themealdb": null
+  }
+}

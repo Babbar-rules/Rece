@@ -1,0 +1,18 @@
+{
+  "id": "Q3301328",
+  "name": "sugar cookie",
+  "description": "plain, sweet cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugar-cookie-q3301328/sugar-cookie-q3301328-1.jpg",
+    "images/sugar-cookie-q3301328/sugar-cookie-q3301328-2.jpg",
+    "images/sugar-cookie-q3301328/sugar-cookie-q3301328-3.jpg",
+    "images/sugar-cookie-q3301328/sugar-cookie-q3301328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3301328",
+    "themealdb": null
+  }
+}

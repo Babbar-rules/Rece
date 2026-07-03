@@ -1,0 +1,18 @@
+{
+  "id": "Q3234952",
+  "name": "Lion's head",
+  "description": "Huaiyang dish, consisting of large pork meatballs stewed with vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lions-head-q3234952/lions-head-q3234952-1.jpg",
+    "images/lions-head-q3234952/lions-head-q3234952-2.jpg",
+    "images/lions-head-q3234952/lions-head-q3234952-3.jpg",
+    "images/lions-head-q3234952/lions-head-q3234952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3234952",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q316244",
+  "name": "pickert",
+  "description": "potato dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pickert-q316244/pickert-q316244-1.jpg",
+    "images/pickert-q316244/pickert-q316244-2.jpg",
+    "images/pickert-q316244/pickert-q316244-3.jpg",
+    "images/pickert-q316244/pickert-q316244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q316244",
+    "themealdb": null
+  }
+}
