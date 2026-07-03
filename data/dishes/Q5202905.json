@@ -1,0 +1,22 @@
+{
+  "id": "Q5202905",
+  "name": "Sopa wantan",
+  "description": "",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [
+    "Chifa"
+  ],
+  "images": [
+    "images/sopa-wantan-q5202905/sopa-wantan-q5202905-1.jpg",
+    "images/sopa-wantan-q5202905/sopa-wantan-q5202905-2.jpg",
+    "images/sopa-wantan-q5202905/sopa-wantan-q5202905-3.jpg",
+    "images/sopa-wantan-q5202905/sopa-wantan-q5202905-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5202905",
+    "themealdb": null
+  }
+}

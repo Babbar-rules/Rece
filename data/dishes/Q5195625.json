@@ -1,0 +1,20 @@
+{
+  "id": "Q5195625",
+  "name": "Curtido",
+  "description": "type of lightly fermented cabbage relish from Central America",
+  "nationality": [
+    "El Salvador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curtido-q5195625/curtido-q5195625-1.jpg",
+    "images/curtido-q5195625/curtido-q5195625-2.jpg",
+    "images/curtido-q5195625/curtido-q5195625-3.jpg",
+    "images/curtido-q5195625/curtido-q5195625-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5195625",
+    "themealdb": null
+  }
+}

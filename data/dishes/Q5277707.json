@@ -1,0 +1,26 @@
+{
+  "id": "Q5277707",
+  "name": "Dymdama",
+  "description": "A stew of the peoples of Central Asia",
+  "nationality": [
+    "Kazakhstan",
+    "Uzbekistan",
+    "Kyrgyzstan"
+  ],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Cuisine of Uzbekistan",
+    "Kazakh cuisine"
+  ],
+  "images": [
+    "images/dymdama-q5277707/dymdama-q5277707-1.jpg",
+    "images/dymdama-q5277707/dymdama-q5277707-2.jpg",
+    "images/dymdama-q5277707/dymdama-q5277707-3.jpg",
+    "images/dymdama-q5277707/dymdama-q5277707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5277707",
+    "themealdb": null
+  }
+}

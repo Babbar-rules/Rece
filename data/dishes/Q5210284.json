@@ -1,0 +1,20 @@
+{
+  "id": "Q5210284",
+  "name": "Dalcha",
+  "description": "Indian culinary dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dalcha-q5210284/dalcha-q5210284-1.jpg",
+    "images/dalcha-q5210284/dalcha-q5210284-2.jpg",
+    "images/dalcha-q5210284/dalcha-q5210284-3.jpg",
+    "images/dalcha-q5210284/dalcha-q5210284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5210284",
+    "themealdb": null
+  }
+}

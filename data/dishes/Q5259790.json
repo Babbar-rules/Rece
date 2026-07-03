@@ -1,0 +1,20 @@
+{
+  "id": "Q5259790",
+  "name": "sausage bun",
+  "description": "type of pastry",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sausage-bun-q5259790/sausage-bun-q5259790-1.jpg",
+    "images/sausage-bun-q5259790/sausage-bun-q5259790-2.jpg",
+    "images/sausage-bun-q5259790/sausage-bun-q5259790-3.jpg",
+    "images/sausage-bun-q5259790/sausage-bun-q5259790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5259790",
+    "themealdb": null
+  }
+}

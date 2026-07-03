@@ -1,0 +1,18 @@
+{
+  "id": "Q5309356",
+  "name": "drunken chicken",
+  "description": "chicken dish originated from Zhejiang",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/drunken-chicken-q5309356/drunken-chicken-q5309356-1.jpg",
+    "images/drunken-chicken-q5309356/drunken-chicken-q5309356-2.jpg",
+    "images/drunken-chicken-q5309356/drunken-chicken-q5309356-3.jpg",
+    "images/drunken-chicken-q5309356/drunken-chicken-q5309356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5309356",
+    "themealdb": null
+  }
+}

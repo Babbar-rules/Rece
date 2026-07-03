@@ -1,0 +1,18 @@
+{
+  "id": "Q5190099",
+  "name": "Crunchie",
+  "description": "Chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crunchie-q5190099/crunchie-q5190099-1.jpg",
+    "images/crunchie-q5190099/crunchie-q5190099-2.jpg",
+    "images/crunchie-q5190099/crunchie-q5190099-3.jpg",
+    "images/crunchie-q5190099/crunchie-q5190099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5190099",
+    "themealdb": null
+  }
+}

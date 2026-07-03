@@ -1,0 +1,17 @@
+{
+  "id": "Q5194921",
+  "name": "Fabes con almejas",
+  "description": "Stew originating in northwest Spain",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fabes-con-almejas-q5194921/fabes-con-almejas-q5194921-1.jpg",
+    "images/fabes-con-almejas-q5194921/fabes-con-almejas-q5194921-2.jpg",
+    "images/fabes-con-almejas-q5194921/fabes-con-almejas-q5194921-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5194921",
+    "themealdb": null
+  }
+}

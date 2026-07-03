@@ -1,0 +1,20 @@
+{
+  "id": "Q5192112",
+  "name": "Cuban pastry",
+  "description": "Cuban dessert dish",
+  "nationality": [
+    "Cuba"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cuban-pastry-q5192112/cuban-pastry-q5192112-1.jpg",
+    "images/cuban-pastry-q5192112/cuban-pastry-q5192112-2.jpg",
+    "images/cuban-pastry-q5192112/cuban-pastry-q5192112-3.jpg",
+    "images/cuban-pastry-q5192112/cuban-pastry-q5192112-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5192112",
+    "themealdb": null
+  }
+}

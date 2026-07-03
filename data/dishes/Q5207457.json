@@ -1,0 +1,20 @@
+{
+  "id": "Q5207457",
+  "name": "Dabeli",
+  "description": "snack food of India, originating in the Kutch or Kachchh region of Gujarat",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dabeli-q5207457/dabeli-q5207457-1.jpg",
+    "images/dabeli-q5207457/dabeli-q5207457-2.jpg",
+    "images/dabeli-q5207457/dabeli-q5207457-3.jpg",
+    "images/dabeli-q5207457/dabeli-q5207457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5207457",
+    "themealdb": null
+  }
+}

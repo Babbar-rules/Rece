@@ -1,0 +1,20 @@
+{
+  "id": "Q5265837",
+  "name": "Detroit-style pizza",
+  "description": "style of pizza developed in Detroit, Michigan; square pizza with thick deep-dish crisp crust",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/detroit-style-pizza-q5265837/detroit-style-pizza-q5265837-1.jpg",
+    "images/detroit-style-pizza-q5265837/detroit-style-pizza-q5265837-2.jpg",
+    "images/detroit-style-pizza-q5265837/detroit-style-pizza-q5265837-3.jpg",
+    "images/detroit-style-pizza-q5265837/detroit-style-pizza-q5265837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5265837",
+    "themealdb": null
+  }
+}

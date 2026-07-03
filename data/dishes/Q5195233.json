@@ -1,0 +1,20 @@
+{
+  "id": "Q5195233",
+  "name": "curry pie",
+  "description": "variety of savoury pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curry-pie-q5195233/curry-pie-q5195233-1.jpg",
+    "images/curry-pie-q5195233/curry-pie-q5195233-2.jpg",
+    "images/curry-pie-q5195233/curry-pie-q5195233-3.jpg",
+    "images/curry-pie-q5195233/curry-pie-q5195233-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5195233",
+    "themealdb": null
+  }
+}

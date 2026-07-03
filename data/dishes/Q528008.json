@@ -1,0 +1,20 @@
+{
+  "id": "Q528008",
+  "name": "obara",
+  "description": "food",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/obara-q528008/obara-q528008-1.jpg",
+    "images/obara-q528008/obara-q528008-2.jpg",
+    "images/obara-q528008/obara-q528008-3.jpg",
+    "images/obara-q528008/obara-q528008-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q528008",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5194897",
+  "name": "Curly Wurly",
+  "description": "Brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/curly-wurly-q5194897/curly-wurly-q5194897-1.jpg",
+    "images/curly-wurly-q5194897/curly-wurly-q5194897-2.jpg",
+    "images/curly-wurly-q5194897/curly-wurly-q5194897-3.jpg",
+    "images/curly-wurly-q5194897/curly-wurly-q5194897-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5194897",
+    "themealdb": null
+  }
+}

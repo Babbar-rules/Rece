@@ -1,0 +1,18 @@
+{
+  "id": "Q5253850",
+  "name": "Deli Choices",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/deli-choices-q5253850/deli-choices-q5253850-1.jpg",
+    "images/deli-choices-q5253850/deli-choices-q5253850-2.jpg",
+    "images/deli-choices-q5253850/deli-choices-q5253850-3.jpg",
+    "images/deli-choices-q5253850/deli-choices-q5253850-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5253850",
+    "themealdb": null
+  }
+}

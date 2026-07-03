@@ -1,0 +1,20 @@
+{
+  "id": "Q5300145",
+  "name": "doubles",
+  "description": "sandwich originating from Trinidad and Tobago",
+  "nationality": [
+    "Trinidad and Tobago"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doubles-q5300145/doubles-q5300145-1.jpg",
+    "images/doubles-q5300145/doubles-q5300145-2.jpg",
+    "images/doubles-q5300145/doubles-q5300145-3.jpg",
+    "images/doubles-q5300145/doubles-q5300145-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5300145",
+    "themealdb": null
+  }
+}

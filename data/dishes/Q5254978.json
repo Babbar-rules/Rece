@@ -1,0 +1,18 @@
+{
+  "id": "Q5254978",
+  "name": "mint",
+  "description": "confectionery flavoured with mint",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mint-q5254978/mint-q5254978-1.jpg",
+    "images/mint-q5254978/mint-q5254978-2.jpg",
+    "images/mint-q5254978/mint-q5254978-3.jpg",
+    "images/mint-q5254978/mint-q5254978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5254978",
+    "themealdb": null
+  }
+}

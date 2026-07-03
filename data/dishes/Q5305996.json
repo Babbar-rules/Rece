@@ -1,0 +1,22 @@
+{
+  "id": "Q5305996",
+  "name": "draw soup",
+  "description": "Nigerian okra soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [
+    "Yoruba cuisine"
+  ],
+  "images": [
+    "images/draw-soup-q5305996/draw-soup-q5305996-1.jpg",
+    "images/draw-soup-q5305996/draw-soup-q5305996-2.jpg",
+    "images/draw-soup-q5305996/draw-soup-q5305996-3.jpg",
+    "images/draw-soup-q5305996/draw-soup-q5305996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5305996",
+    "themealdb": null
+  }
+}

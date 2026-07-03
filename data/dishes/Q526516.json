@@ -1,0 +1,20 @@
+{
+  "id": "Q526516",
+  "name": "Ferrero Rocher",
+  "description": "Italian confectionery",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ferrero-rocher-q526516/ferrero-rocher-q526516-1.jpg",
+    "images/ferrero-rocher-q526516/ferrero-rocher-q526516-2.jpg",
+    "images/ferrero-rocher-q526516/ferrero-rocher-q526516-3.jpg",
+    "images/ferrero-rocher-q526516/ferrero-rocher-q526516-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q526516",
+    "themealdb": null
+  }
+}

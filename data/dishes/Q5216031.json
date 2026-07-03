@@ -1,0 +1,20 @@
+{
+  "id": "Q5216031",
+  "name": "danger dog",
+  "description": "method of cooking and serving a \"hot dog\" style of sausage",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/danger-dog-q5216031/danger-dog-q5216031-1.jpg",
+    "images/danger-dog-q5216031/danger-dog-q5216031-2.jpg",
+    "images/danger-dog-q5216031/danger-dog-q5216031-3.jpg",
+    "images/danger-dog-q5216031/danger-dog-q5216031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5216031",
+    "themealdb": null
+  }
+}

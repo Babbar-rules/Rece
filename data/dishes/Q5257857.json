@@ -1,0 +1,22 @@
+{
+  "id": "Q5257857",
+  "name": "kolak",
+  "description": "Indonesian dessert",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kolak-q5257857/kolak-q5257857-1.jpg",
+    "images/kolak-q5257857/kolak-q5257857-2.jpg",
+    "images/kolak-q5257857/kolak-q5257857-3.jpg",
+    "images/kolak-q5257857/kolak-q5257857-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5257857",
+    "themealdb": null
+  }
+}

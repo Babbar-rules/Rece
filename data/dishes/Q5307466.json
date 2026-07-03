@@ -1,0 +1,20 @@
+{
+  "id": "Q5307466",
+  "name": "Drifter",
+  "description": "English chocolate bar",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/drifter-q5307466/drifter-q5307466-1.jpg",
+    "images/drifter-q5307466/drifter-q5307466-2.jpg",
+    "images/drifter-q5307466/drifter-q5307466-3.jpg",
+    "images/drifter-q5307466/drifter-q5307466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5307466",
+    "themealdb": null
+  }
+}

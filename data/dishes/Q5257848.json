@@ -1,0 +1,20 @@
+{
+  "id": "Q5257848",
+  "name": "boiled noodles",
+  "description": "Johorean noodle soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boiled-noodles-q5257848/boiled-noodles-q5257848-1.jpg",
+    "images/boiled-noodles-q5257848/boiled-noodles-q5257848-2.jpg",
+    "images/boiled-noodles-q5257848/boiled-noodles-q5257848-3.jpg",
+    "images/boiled-noodles-q5257848/boiled-noodles-q5257848-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5257848",
+    "themealdb": null
+  }
+}

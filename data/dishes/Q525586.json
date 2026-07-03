@@ -1,0 +1,20 @@
+{
+  "id": "Q525586",
+  "name": "Twinkie",
+  "description": "snack cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/twinkie-q525586/twinkie-q525586-1.jpg",
+    "images/twinkie-q525586/twinkie-q525586-2.jpg",
+    "images/twinkie-q525586/twinkie-q525586-3.jpg",
+    "images/twinkie-q525586/twinkie-q525586-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q525586",
+    "themealdb": null
+  }
+}

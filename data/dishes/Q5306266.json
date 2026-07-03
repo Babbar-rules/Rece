@@ -1,0 +1,18 @@
+{
+  "id": "Q5306266",
+  "name": "Dream",
+  "description": "brand of white chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dream-q5306266/dream-q5306266-1.jpg",
+    "images/dream-q5306266/dream-q5306266-2.jpg",
+    "images/dream-q5306266/dream-q5306266-3.png",
+    "images/dream-q5306266/dream-q5306266-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5306266",
+    "themealdb": null
+  }
+}

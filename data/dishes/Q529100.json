@@ -1,0 +1,20 @@
+{
+  "id": "Q529100",
+  "name": "anellini",
+  "description": "type of pasta; smaller version of anelli",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anellini-q529100/anellini-q529100-1.jpg",
+    "images/anellini-q529100/anellini-q529100-2.jpg",
+    "images/anellini-q529100/anellini-q529100-3.jpg",
+    "images/anellini-q529100/anellini-q529100-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q529100",
+    "themealdb": null
+  }
+}

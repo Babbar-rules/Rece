@@ -1,0 +1,22 @@
+{
+  "id": "Q5208692",
+  "name": "Dagwood sandwich",
+  "description": "tall, multilayered sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/dagwood-sandwich-q5208692/dagwood-sandwich-q5208692-1.jpg",
+    "images/dagwood-sandwich-q5208692/dagwood-sandwich-q5208692-2.jpg",
+    "images/dagwood-sandwich-q5208692/dagwood-sandwich-q5208692-3.jpg",
+    "images/dagwood-sandwich-q5208692/dagwood-sandwich-q5208692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5208692",
+    "themealdb": null
+  }
+}

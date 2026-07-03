@@ -1,0 +1,18 @@
+{
+  "id": "Q5192125",
+  "name": "Cuban sandwich",
+  "description": "variation of a ham and cheese sandwich of Cuban-American",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cuban-sandwich-q5192125/cuban-sandwich-q5192125-1.jpg",
+    "images/cuban-sandwich-q5192125/cuban-sandwich-q5192125-2.png",
+    "images/cuban-sandwich-q5192125/cuban-sandwich-q5192125-3.jpg",
+    "images/cuban-sandwich-q5192125/cuban-sandwich-q5192125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5192125",
+    "themealdb": null
+  }
+}

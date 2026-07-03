@@ -1,0 +1,18 @@
+{
+  "id": "Q523224",
+  "name": "cooked rice",
+  "description": "rice that has been cooked either by steaming or boiling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cooked-rice-q523224/cooked-rice-q523224-1.jpg",
+    "images/cooked-rice-q523224/cooked-rice-q523224-2.jpg",
+    "images/cooked-rice-q523224/cooked-rice-q523224-3.jpg",
+    "images/cooked-rice-q523224/cooked-rice-q523224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q523224",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5227816",
+  "name": "Daube glacé",
+  "description": "jellied stew appetizer in New Orleans cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/daube-glace-q5227816/daube-glace-q5227816-1.jpg",
+    "images/daube-glace-q5227816/daube-glace-q5227816-2.jpg",
+    "images/daube-glace-q5227816/daube-glace-q5227816-3.png",
+    "images/daube-glace-q5227816/daube-glace-q5227816-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5227816",
+    "themealdb": null
+  }
+}

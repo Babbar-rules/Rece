@@ -1,0 +1,20 @@
+{
+  "id": "Q5311489",
+  "name": "duck blood and vermicelli soup",
+  "description": "traditional delicacy of Nanjing, containing duck blood, vermicelli, dried fried tofu, dried small shrimp, duck gizzards, duck intestines, duck livers, shallots, ginger, sesame oil, and caraway",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duck-blood-and-vermicelli-soup-q5311489/duck-blood-and-vermicelli-soup-q5311489-1.jpg",
+    "images/duck-blood-and-vermicelli-soup-q5311489/duck-blood-and-vermicelli-soup-q5311489-2.jpg",
+    "images/duck-blood-and-vermicelli-soup-q5311489/duck-blood-and-vermicelli-soup-q5311489-3.jpg",
+    "images/duck-blood-and-vermicelli-soup-q5311489/duck-blood-and-vermicelli-soup-q5311489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5311489",
+    "themealdb": null
+  }
+}

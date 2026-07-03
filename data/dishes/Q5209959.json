@@ -1,0 +1,20 @@
+{
+  "id": "Q5209959",
+  "name": "dakjuk",
+  "description": "Korean chicken porridge dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dakjuk-q5209959/dakjuk-q5209959-1.jpg",
+    "images/dakjuk-q5209959/dakjuk-q5209959-2.jpg",
+    "images/dakjuk-q5209959/dakjuk-q5209959-3.jpg",
+    "images/dakjuk-q5209959/dakjuk-q5209959-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5209959",
+    "themealdb": null
+  }
+}

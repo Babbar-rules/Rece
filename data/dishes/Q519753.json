@@ -1,0 +1,21 @@
+{
+  "id": "Q519753",
+  "name": "Buuz",
+  "description": "Mongolian steamed dumpling",
+  "nationality": [],
+  "region_cuisine": [
+    "Buryat cuisine",
+    "Mongolian cuisine"
+  ],
+  "images": [
+    "images/buuz-q519753/buuz-q519753-1.jpg",
+    "images/buuz-q519753/buuz-q519753-2.jpg",
+    "images/buuz-q519753/buuz-q519753-3.jpg",
+    "images/buuz-q519753/buuz-q519753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q519753",
+    "themealdb": null
+  }
+}

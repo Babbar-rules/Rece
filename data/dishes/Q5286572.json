@@ -1,0 +1,20 @@
+{
+  "id": "Q5286572",
+  "name": "doberge cake",
+  "description": "layered dessert originating in New Orleans, Louisiana",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doberge-cake-q5286572/doberge-cake-q5286572-1.jpg",
+    "images/doberge-cake-q5286572/doberge-cake-q5286572-2.jpg",
+    "images/doberge-cake-q5286572/doberge-cake-q5286572-3.jpg",
+    "images/doberge-cake-q5286572/doberge-cake-q5286572-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5286572",
+    "themealdb": null
+  }
+}

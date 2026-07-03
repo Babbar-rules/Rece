@@ -1,0 +1,18 @@
+{
+  "id": "Q5190246",
+  "name": "pie crust",
+  "description": "hard shell of a pie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pie-crust-q5190246/pie-crust-q5190246-1.jpg",
+    "images/pie-crust-q5190246/pie-crust-q5190246-2.png",
+    "images/pie-crust-q5190246/pie-crust-q5190246-3.jpg",
+    "images/pie-crust-q5190246/pie-crust-q5190246-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5190246",
+    "themealdb": null
+  }
+}

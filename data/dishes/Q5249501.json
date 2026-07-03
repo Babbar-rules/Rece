@@ -1,0 +1,17 @@
+{
+  "id": "Q5249501",
+  "name": "Declawing of crabs",
+  "description": "removal of a live crab's claws",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/declawing-of-crabs-q5249501/declawing-of-crabs-q5249501-1.jpg",
+    "images/declawing-of-crabs-q5249501/declawing-of-crabs-q5249501-2.jpg",
+    "images/declawing-of-crabs-q5249501/declawing-of-crabs-q5249501-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5249501",
+    "themealdb": null
+  }
+}

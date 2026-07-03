@@ -1,0 +1,22 @@
+{
+  "id": "Q5188689",
+  "name": "Guoqiao Mixian",
+  "description": "Chinese Cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Yunnan cuisine"
+  ],
+  "images": [
+    "images/guoqiao-mixian-q5188689/guoqiao-mixian-q5188689-1.jpg",
+    "images/guoqiao-mixian-q5188689/guoqiao-mixian-q5188689-2.jpg",
+    "images/guoqiao-mixian-q5188689/guoqiao-mixian-q5188689-3.jpg",
+    "images/guoqiao-mixian-q5188689/guoqiao-mixian-q5188689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5188689",
+    "themealdb": null
+  }
+}

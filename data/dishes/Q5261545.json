@@ -1,0 +1,20 @@
+{
+  "id": "Q5261545",
+  "name": "derby pie",
+  "description": "American pie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/derby-pie-q5261545/derby-pie-q5261545-1.jpg",
+    "images/derby-pie-q5261545/derby-pie-q5261545-2.jpg",
+    "images/derby-pie-q5261545/derby-pie-q5261545-3.jpg",
+    "images/derby-pie-q5261545/derby-pie-q5261545-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5261545",
+    "themealdb": null
+  }
+}

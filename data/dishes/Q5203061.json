@@ -1,0 +1,20 @@
+{
+  "id": "Q5203061",
+  "name": "mazamorra morada",
+  "description": "Peruvian purple corn pudding",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mazamorra-morada-q5203061/mazamorra-morada-q5203061-1.jpg",
+    "images/mazamorra-morada-q5203061/mazamorra-morada-q5203061-2.jpg",
+    "images/mazamorra-morada-q5203061/mazamorra-morada-q5203061-3.jpg",
+    "images/mazamorra-morada-q5203061/mazamorra-morada-q5203061-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5203061",
+    "themealdb": null
+  }
+}

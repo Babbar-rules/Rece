@@ -1,0 +1,18 @@
+{
+  "id": "Q5190021",
+  "name": "cruller",
+  "description": "fried pastry food item",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cruller-q5190021/cruller-q5190021-1.jpg",
+    "images/cruller-q5190021/cruller-q5190021-2.jpg",
+    "images/cruller-q5190021/cruller-q5190021-3.jpg",
+    "images/cruller-q5190021/cruller-q5190021-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5190021",
+    "themealdb": null
+  }
+}

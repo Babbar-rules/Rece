@@ -1,0 +1,20 @@
+{
+  "id": "Q5300142",
+  "name": "Doublemint",
+  "description": "brand of chewing gum",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doublemint-q5300142/doublemint-q5300142-1.jpg",
+    "images/doublemint-q5300142/doublemint-q5300142-2.jpg",
+    "images/doublemint-q5300142/doublemint-q5300142-3.jpg",
+    "images/doublemint-q5300142/doublemint-q5300142-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5300142",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5202964",
+  "name": "Cơm tấm",
+  "description": "Vietnamese dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/com-tam-q5202964/com-tam-q5202964-1.jpg",
+    "images/com-tam-q5202964/com-tam-q5202964-2.jpg",
+    "images/com-tam-q5202964/com-tam-q5202964-3.jpg",
+    "images/com-tam-q5202964/com-tam-q5202964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5202964",
+    "themealdb": null
+  }
+}

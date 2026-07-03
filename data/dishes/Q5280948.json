@@ -1,0 +1,20 @@
+{
+  "id": "Q5280948",
+  "name": "dirt cake",
+  "description": "type of American desert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dirt-cake-q5280948/dirt-cake-q5280948-1.jpg",
+    "images/dirt-cake-q5280948/dirt-cake-q5280948-2.jpg",
+    "images/dirt-cake-q5280948/dirt-cake-q5280948-3.jpg",
+    "images/dirt-cake-q5280948/dirt-cake-q5280948-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5280948",
+    "themealdb": null
+  }
+}

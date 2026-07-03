@@ -1,0 +1,20 @@
+{
+  "id": "Q5287909",
+  "name": "Dodger Dog",
+  "description": "hot dog served by the Los Angeles Dodgers",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dodger-dog-q5287909/dodger-dog-q5287909-1.jpg",
+    "images/dodger-dog-q5287909/dodger-dog-q5287909-2.jpg",
+    "images/dodger-dog-q5287909/dodger-dog-q5287909-3.jpg",
+    "images/dodger-dog-q5287909/dodger-dog-q5287909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5287909",
+    "themealdb": null
+  }
+}

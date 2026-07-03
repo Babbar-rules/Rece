@@ -1,0 +1,18 @@
+{
+  "id": "Q5254291",
+  "name": "Delmonico steak",
+  "description": "particular preparation of a cut of beef originated by Delmonico's restaurant in New York City",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/delmonico-steak-q5254291/delmonico-steak-q5254291-1.jpg",
+    "images/delmonico-steak-q5254291/delmonico-steak-q5254291-2.jpg",
+    "images/delmonico-steak-q5254291/delmonico-steak-q5254291-3.jpg",
+    "images/delmonico-steak-q5254291/delmonico-steak-q5254291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5254291",
+    "themealdb": null
+  }
+}

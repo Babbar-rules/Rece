@@ -1,0 +1,18 @@
+{
+  "id": "Q5190257",
+  "name": "crustless bread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crustless-bread-q5190257/crustless-bread-q5190257-1.jpg",
+    "images/crustless-bread-q5190257/crustless-bread-q5190257-2.jpg",
+    "images/crustless-bread-q5190257/crustless-bread-q5190257-3.jpg",
+    "images/crustless-bread-q5190257/crustless-bread-q5190257-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5190257",
+    "themealdb": null
+  }
+}

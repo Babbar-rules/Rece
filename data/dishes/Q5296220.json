@@ -1,0 +1,22 @@
+{
+  "id": "Q5296220",
+  "name": "donkey burger",
+  "description": "sandwich in Hebei, China, made of chopped or shredded donkey meat in a roasted, semi-flaky bread pocket",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/donkey-burger-q5296220/donkey-burger-q5296220-1.jpg",
+    "images/donkey-burger-q5296220/donkey-burger-q5296220-2.jpg",
+    "images/donkey-burger-q5296220/donkey-burger-q5296220-3.jpg",
+    "images/donkey-burger-q5296220/donkey-burger-q5296220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5296220",
+    "themealdb": null
+  }
+}

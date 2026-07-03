@@ -1,0 +1,16 @@
+{
+  "id": "Q51882025",
+  "name": "x caboquinho",
+  "description": "Brazilian sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/x-caboquinho-q51882025/x-caboquinho-q51882025-1.png",
+    "images/x-caboquinho-q51882025/x-caboquinho-q51882025-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q51882025",
+    "themealdb": null
+  }
+}

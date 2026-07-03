@@ -1,0 +1,18 @@
+{
+  "id": "Q5299741",
+  "name": "Double Down",
+  "description": "sandwich offered by Kentucky Fried Chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/double-down-q5299741/double-down-q5299741-1.jpg",
+    "images/double-down-q5299741/double-down-q5299741-2.jpg",
+    "images/double-down-q5299741/double-down-q5299741-3.jpg",
+    "images/double-down-q5299741/double-down-q5299741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5299741",
+    "themealdb": null
+  }
+}

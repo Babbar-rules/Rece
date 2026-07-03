@@ -1,0 +1,20 @@
+{
+  "id": "Q5302392",
+  "name": "Dove Bar",
+  "description": "Ice cream",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dove-bar-q5302392/dove-bar-q5302392-1.jpg",
+    "images/dove-bar-q5302392/dove-bar-q5302392-2.jpg",
+    "images/dove-bar-q5302392/dove-bar-q5302392-3.jpg",
+    "images/dove-bar-q5302392/dove-bar-q5302392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5302392",
+    "themealdb": null
+  }
+}

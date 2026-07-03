@@ -1,0 +1,18 @@
+{
+  "id": "Q5194699",
+  "name": "cured salmon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cured-salmon-q5194699/cured-salmon-q5194699-1.jpg",
+    "images/cured-salmon-q5194699/cured-salmon-q5194699-2.jpeg",
+    "images/cured-salmon-q5194699/cured-salmon-q5194699-3.jpeg",
+    "images/cured-salmon-q5194699/cured-salmon-q5194699-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5194699",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5305336",
+  "name": "Dragon tiger phoenix",
+  "description": "Chinese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dragon-tiger-phoenix-q5305336/dragon-tiger-phoenix-q5305336-1.jpg",
+    "images/dragon-tiger-phoenix-q5305336/dragon-tiger-phoenix-q5305336-2.jpg",
+    "images/dragon-tiger-phoenix-q5305336/dragon-tiger-phoenix-q5305336-3.jpg",
+    "images/dragon-tiger-phoenix-q5305336/dragon-tiger-phoenix-q5305336-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5305336",
+    "themealdb": null
+  }
+}

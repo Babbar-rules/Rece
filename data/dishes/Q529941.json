@@ -1,0 +1,20 @@
+{
+  "id": "Q529941",
+  "name": "bocadillo",
+  "description": "hispanic American confection made with guava pulp and panela",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bocadillo-q529941/bocadillo-q529941-1.jpg",
+    "images/bocadillo-q529941/bocadillo-q529941-2.jpg",
+    "images/bocadillo-q529941/bocadillo-q529941-3.jpg",
+    "images/bocadillo-q529941/bocadillo-q529941-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q529941",
+    "themealdb": null
+  }
+}

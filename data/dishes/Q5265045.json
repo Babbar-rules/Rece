@@ -1,0 +1,20 @@
+{
+  "id": "Q5265045",
+  "name": "dessert bar",
+  "description": "layered dessert, cut into bar shapes",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dessert-bar-q5265045/dessert-bar-q5265045-1.jpg",
+    "images/dessert-bar-q5265045/dessert-bar-q5265045-2.jpg",
+    "images/dessert-bar-q5265045/dessert-bar-q5265045-3.jpg",
+    "images/dessert-bar-q5265045/dessert-bar-q5265045-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5265045",
+    "themealdb": null
+  }
+}

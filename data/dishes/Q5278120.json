@@ -1,0 +1,18 @@
+{
+  "id": "Q5278120",
+  "name": "Ding Dong",
+  "description": "small chocolate cake similar in shape and size to a hockey puck",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ding-dong-q5278120/ding-dong-q5278120-1.jpg",
+    "images/ding-dong-q5278120/ding-dong-q5278120-2.jpg",
+    "images/ding-dong-q5278120/ding-dong-q5278120-3.jpg",
+    "images/ding-dong-q5278120/ding-dong-q5278120-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5278120",
+    "themealdb": null
+  }
+}

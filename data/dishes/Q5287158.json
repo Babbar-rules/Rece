@@ -1,0 +1,20 @@
+{
+  "id": "Q5287158",
+  "name": "Docang",
+  "description": "Indonesian traditional dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/docang-q5287158/docang-q5287158-1.jpg",
+    "images/docang-q5287158/docang-q5287158-2.jpg",
+    "images/docang-q5287158/docang-q5287158-3.jpg",
+    "images/docang-q5287158/docang-q5287158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5287158",
+    "themealdb": null
+  }
+}

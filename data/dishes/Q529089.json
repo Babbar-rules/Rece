@@ -1,0 +1,20 @@
+{
+  "id": "Q529089",
+  "name": "anelli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anelli-q529089/anelli-q529089-1.jpg",
+    "images/anelli-q529089/anelli-q529089-2.jpg",
+    "images/anelli-q529089/anelli-q529089-3.jpg",
+    "images/anelli-q529089/anelli-q529089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q529089",
+    "themealdb": null
+  }
+}

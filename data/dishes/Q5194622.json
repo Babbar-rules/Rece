@@ -1,0 +1,20 @@
+{
+  "id": "Q5194622",
+  "name": "curau",
+  "description": "Brazilian dessert",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curau-q5194622/curau-q5194622-1.jpg",
+    "images/curau-q5194622/curau-q5194622-2.jpg",
+    "images/curau-q5194622/curau-q5194622-3.jpg",
+    "images/curau-q5194622/curau-q5194622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5194622",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q527321",
+  "name": "Coca de recapte",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coca-de-recapte-q527321/coca-de-recapte-q527321-1.jpg",
+    "images/coca-de-recapte-q527321/coca-de-recapte-q527321-2.jpg",
+    "images/coca-de-recapte-q527321/coca-de-recapte-q527321-3.jpg",
+    "images/coca-de-recapte-q527321/coca-de-recapte-q527321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q527321",
+    "themealdb": null
+  }
+}

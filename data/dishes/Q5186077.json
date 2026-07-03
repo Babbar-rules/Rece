@@ -1,0 +1,20 @@
+{
+  "id": "Q5186077",
+  "name": "crispy fried chicken",
+  "description": "Chinese dish of fried chicken",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crispy-fried-chicken-q5186077/crispy-fried-chicken-q5186077-1.jpg",
+    "images/crispy-fried-chicken-q5186077/crispy-fried-chicken-q5186077-2.jpg",
+    "images/crispy-fried-chicken-q5186077/crispy-fried-chicken-q5186077-3.jpg",
+    "images/crispy-fried-chicken-q5186077/crispy-fried-chicken-q5186077-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5186077",
+    "themealdb": null
+  }
+}

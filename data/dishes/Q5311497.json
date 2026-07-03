@@ -1,0 +1,20 @@
+{
+  "id": "Q5311497",
+  "name": "duck soup noodles",
+  "description": "Malaysian dish; consists of duck meat in hot soup with mixed herbs and mee-sua (slim white noodles)",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duck-soup-noodles-q5311497/duck-soup-noodles-q5311497-1.jpg",
+    "images/duck-soup-noodles-q5311497/duck-soup-noodles-q5311497-2.jpg",
+    "images/duck-soup-noodles-q5311497/duck-soup-noodles-q5311497-3.jpg",
+    "images/duck-soup-noodles-q5311497/duck-soup-noodles-q5311497-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5311497",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5256658",
+  "name": "dendeng",
+  "description": "Indonesian dish originating from West Sumatra in Sumatra island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dendeng-q5256658/dendeng-q5256658-1.jpg",
+    "images/dendeng-q5256658/dendeng-q5256658-2.jpg",
+    "images/dendeng-q5256658/dendeng-q5256658-3.jpg",
+    "images/dendeng-q5256658/dendeng-q5256658-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5256658",
+    "themealdb": null
+  }
+}

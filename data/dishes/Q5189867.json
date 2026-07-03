@@ -1,0 +1,20 @@
+{
+  "id": "Q5189867",
+  "name": "Crudos",
+  "description": "German-Chilean dish with raw beef and bread",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crudos-q5189867/crudos-q5189867-1.jpg",
+    "images/crudos-q5189867/crudos-q5189867-2.jpg",
+    "images/crudos-q5189867/crudos-q5189867-3.jpg",
+    "images/crudos-q5189867/crudos-q5189867-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5189867",
+    "themealdb": null
+  }
+}

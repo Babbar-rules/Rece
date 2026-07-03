@@ -1,0 +1,20 @@
+{
+  "id": "Q5186076",
+  "name": "crispy pata",
+  "description": "Filipino dish (food)",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crispy-pata-q5186076/crispy-pata-q5186076-1.jpg",
+    "images/crispy-pata-q5186076/crispy-pata-q5186076-2.jpg",
+    "images/crispy-pata-q5186076/crispy-pata-q5186076-3.jpg",
+    "images/crispy-pata-q5186076/crispy-pata-q5186076-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5186076",
+    "themealdb": null
+  }
+}

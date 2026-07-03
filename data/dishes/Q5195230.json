@@ -1,0 +1,88 @@
+{
+  "id": "Q5195230",
+  "name": "curry goat",
+  "description": "spicy stew",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Goat"
+  ],
+  "images": [
+    "images/curry-goat-q5195230/curry-goat-q5195230-1.jpg",
+    "images/curry-goat-q5195230/curry-goat-q5195230-2.jpg",
+    "images/curry-goat-q5195230/curry-goat-q5195230-3.jpg",
+    "images/curry-goat-q5195230/curry-goat-q5195230-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53354",
+    "category": "Goat",
+    "area": "Jamaican",
+    "instructions": "Equipment\r\n\r\n6QT Pressure cooker\r\n\r\nInstructions\r\n \r\nRinse goat meat with vinegar and water.\r\nSeason goat meat with 1 ½ tablespoon curry powder, all-purpose seasoning, ground ginger, allspice, onion, garlic cloves, and thyme. Marinate for at least 4 hours or up to overnight.\r\nRemove onion and garlic from goat and set aside.\r\nSet an electric pressure cooker, like an Instant Pot, on high sauté and add oil. Add goat meat and brown, about 2-3 minutes per side. Remove goat from insert and add 1 tablespoon oil and remaining curry powder and sauté for about 10 seconds. Then add onions and garlic and sauté until softened. About 4 minutes. If the onions look dry, add a little water and continue to sauté.\r\nAdd goat and water to the pressure cooker and cover the pressure cooker. Cook for 40 minutes on high pressure. Allow to naturally release for 10 minutes, then release the remaining pressure.\r\nOnce all the pressure has been released, open the pressure cooker. Place on sauté for 10-15 minutes, add potatoes and a whole scotch bonnet pepper. Cook until potatoes have softened. Remove scotch bonnet pepper.",
+    "ingredients": [
+      {
+        "ingredient": "Goat Meat",
+        "measure": "3 Lbs"
+      },
+      {
+        "ingredient": "Jamaican Curry Powder",
+        "measure": "2.5 tbsp"
+      },
+      {
+        "ingredient": "Ground Ginger",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "All-purpose Seasoning",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Allspice",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "6 cloves sliced"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "3 sprigs"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 1/4 cup"
+      },
+      {
+        "ingredient": "Scotch Bonnet",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Russet Potato",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=SrX2KMsWbF4",
+    "thumb": "https://www.themealdb.com/images/media/meals/uc9qp11764796575.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5195230",
+    "themealdb": "53354"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q5289177",
+  "name": "Kalduny",
+  "description": "type of dumplings in Balto-Slavic cuisines",
+  "nationality": [
+    "Belarus",
+    "Grand Duchy of Lithuania"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine"
+  ],
+  "images": [
+    "images/kalduny-q5289177/kalduny-q5289177-1.jpg",
+    "images/kalduny-q5289177/kalduny-q5289177-2.jpg",
+    "images/kalduny-q5289177/kalduny-q5289177-3.jpg",
+    "images/kalduny-q5289177/kalduny-q5289177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5289177",
+    "themealdb": null
+  }
+}

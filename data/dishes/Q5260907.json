@@ -1,0 +1,20 @@
+{
+  "id": "Q5260907",
+  "name": "depression cake",
+  "description": "type of cake commonly made during the Great Depression",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/depression-cake-q5260907/depression-cake-q5260907-1.jpg",
+    "images/depression-cake-q5260907/depression-cake-q5260907-2.jpg",
+    "images/depression-cake-q5260907/depression-cake-q5260907-3.jpg",
+    "images/depression-cake-q5260907/depression-cake-q5260907-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5260907",
+    "themealdb": null
+  }
+}

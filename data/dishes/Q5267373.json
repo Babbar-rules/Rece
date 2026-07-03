@@ -1,0 +1,20 @@
+{
+  "id": "Q5267373",
+  "name": "Devilled kidneys",
+  "description": "dish based on kidneys",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/devilled-kidneys-q5267373/devilled-kidneys-q5267373-1.jpg",
+    "images/devilled-kidneys-q5267373/devilled-kidneys-q5267373-2.jpg",
+    "images/devilled-kidneys-q5267373/devilled-kidneys-q5267373-3.jpg",
+    "images/devilled-kidneys-q5267373/devilled-kidneys-q5267373-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5267373",
+    "themealdb": null
+  }
+}

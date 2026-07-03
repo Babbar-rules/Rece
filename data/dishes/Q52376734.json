@@ -1,0 +1,18 @@
+{
+  "id": "Q52376734",
+  "name": "Engadiner Torte",
+  "description": "",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/engadiner-torte-q52376734/engadiner-torte-q52376734-1.jpg",
+    "images/engadiner-torte-q52376734/engadiner-torte-q52376734-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q52376734",
+    "themealdb": null
+  }
+}

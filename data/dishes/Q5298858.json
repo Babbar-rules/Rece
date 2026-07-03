@@ -1,0 +1,20 @@
+{
+  "id": "Q5298858",
+  "name": "Dorset knob",
+  "description": "hard dry savoury biscuit from Dorset, England",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dorset-knob-q5298858/dorset-knob-q5298858-1.jpg",
+    "images/dorset-knob-q5298858/dorset-knob-q5298858-2.jpg",
+    "images/dorset-knob-q5298858/dorset-knob-q5298858-3.jpg",
+    "images/dorset-knob-q5298858/dorset-knob-q5298858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5298858",
+    "themealdb": null
+  }
+}

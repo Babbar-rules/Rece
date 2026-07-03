@@ -1,0 +1,15 @@
+{
+  "id": "Q5189136",
+  "name": "crow stew",
+  "description": "stew made primarily from the meat of a crow",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crow-stew-q5189136/crow-stew-q5189136-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5189136",
+    "themealdb": null
+  }
+}

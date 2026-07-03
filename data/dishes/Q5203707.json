@@ -1,0 +1,18 @@
+{
+  "id": "Q5203707",
+  "name": "chupe de camarones",
+  "description": "Shrimp chowder",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chupe-de-camarones-q5203707/chupe-de-camarones-q5203707-1.jpg",
+    "images/chupe-de-camarones-q5203707/chupe-de-camarones-q5203707-2.jpg",
+    "images/chupe-de-camarones-q5203707/chupe-de-camarones-q5203707-3.jpg",
+    "images/chupe-de-camarones-q5203707/chupe-de-camarones-q5203707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5203707",
+    "themealdb": null
+  }
+}

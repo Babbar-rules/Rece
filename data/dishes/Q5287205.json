@@ -1,0 +1,20 @@
+{
+  "id": "Q5287205",
+  "name": "Dock pudding",
+  "description": "savoury dish",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dock-pudding-q5287205/dock-pudding-q5287205-1.jpg",
+    "images/dock-pudding-q5287205/dock-pudding-q5287205-2.jpg",
+    "images/dock-pudding-q5287205/dock-pudding-q5287205-3.jpg",
+    "images/dock-pudding-q5287205/dock-pudding-q5287205-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5287205",
+    "themealdb": null
+  }
+}

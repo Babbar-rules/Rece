@@ -1,0 +1,20 @@
+{
+  "id": "Q5202958",
+  "name": "Cơm lam",
+  "description": "",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/com-lam-q5202958/com-lam-q5202958-1.jpg",
+    "images/com-lam-q5202958/com-lam-q5202958-2.jpg",
+    "images/com-lam-q5202958/com-lam-q5202958-3.jpg",
+    "images/com-lam-q5202958/com-lam-q5202958-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5202958",
+    "themealdb": null
+  }
+}

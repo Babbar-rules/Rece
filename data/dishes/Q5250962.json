@@ -1,0 +1,21 @@
+{
+  "id": "Q5250962",
+  "name": "Nasi Kerabu",
+  "description": "Mixed rice dish from southern Thailand and Malaysia with herbs and vegetables",
+  "nationality": [
+    "Malaysia",
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-kerabu-q5250962/nasi-kerabu-q5250962-1.jpg",
+    "images/nasi-kerabu-q5250962/nasi-kerabu-q5250962-2.jpg",
+    "images/nasi-kerabu-q5250962/nasi-kerabu-q5250962-3.jpg",
+    "images/nasi-kerabu-q5250962/nasi-kerabu-q5250962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5250962",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5191461",
+  "name": "Crème Ninon",
+  "description": "French soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creme-ninon-q5191461/creme-ninon-q5191461-1.jpg",
+    "images/creme-ninon-q5191461/creme-ninon-q5191461-2.jpg",
+    "images/creme-ninon-q5191461/creme-ninon-q5191461-3.jpg",
+    "images/creme-ninon-q5191461/creme-ninon-q5191461-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5191461",
+    "themealdb": null
+  }
+}

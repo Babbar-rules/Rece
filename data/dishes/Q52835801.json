@@ -1,0 +1,20 @@
+{
+  "id": "Q52835801",
+  "name": "rieska",
+  "description": "Finnish bread",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rieska-q52835801/rieska-q52835801-1.jpg",
+    "images/rieska-q52835801/rieska-q52835801-2.jpg",
+    "images/rieska-q52835801/rieska-q52835801-3.jpg",
+    "images/rieska-q52835801/rieska-q52835801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q52835801",
+    "themealdb": null
+  }
+}

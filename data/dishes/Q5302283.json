@@ -1,0 +1,18 @@
+{
+  "id": "Q5302283",
+  "name": "Doupi",
+  "description": "breakfast dish from Wuhan, China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doupi-q5302283/doupi-q5302283-1.jpg",
+    "images/doupi-q5302283/doupi-q5302283-2.jpg",
+    "images/doupi-q5302283/doupi-q5302283-3.jpeg",
+    "images/doupi-q5302283/doupi-q5302283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5302283",
+    "themealdb": null
+  }
+}

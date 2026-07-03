@@ -1,0 +1,18 @@
+{
+  "id": "Q5269476",
+  "name": "dhebra",
+  "description": "Gujarati bread made of pearl millet flour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dhebra-q5269476/dhebra-q5269476-1.jpg",
+    "images/dhebra-q5269476/dhebra-q5269476-2.jpg",
+    "images/dhebra-q5269476/dhebra-q5269476-3.webp",
+    "images/dhebra-q5269476/dhebra-q5269476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5269476",
+    "themealdb": null
+  }
+}

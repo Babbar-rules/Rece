@@ -1,0 +1,20 @@
+{
+  "id": "Q528827",
+  "name": "timballo",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/timballo-q528827/timballo-q528827-1.jpg",
+    "images/timballo-q528827/timballo-q528827-2.jpg",
+    "images/timballo-q528827/timballo-q528827-3.jpg",
+    "images/timballo-q528827/timballo-q528827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q528827",
+    "themealdb": null
+  }
+}
