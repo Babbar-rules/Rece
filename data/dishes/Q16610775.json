@@ -1,0 +1,20 @@
+{
+  "id": "Q16610775",
+  "name": "Naranjas picadas",
+  "description": "chopped sweet orange without skin, olive oil ..",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/naranjas-picadas-q16610775/naranjas-picadas-q16610775-1.jpg",
+    "images/naranjas-picadas-q16610775/naranjas-picadas-q16610775-2.jpg",
+    "images/naranjas-picadas-q16610775/naranjas-picadas-q16610775-3.jpg",
+    "images/naranjas-picadas-q16610775/naranjas-picadas-q16610775-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16610775",
+    "themealdb": null
+  }
+}

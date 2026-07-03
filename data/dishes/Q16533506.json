@@ -1,0 +1,20 @@
+{
+  "id": "Q16533506",
+  "name": "bouchee a la reine",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bouchee-a-la-reine-q16533506/bouchee-a-la-reine-q16533506-1.jpg",
+    "images/bouchee-a-la-reine-q16533506/bouchee-a-la-reine-q16533506-2.jpg",
+    "images/bouchee-a-la-reine-q16533506/bouchee-a-la-reine-q16533506-3.jpg",
+    "images/bouchee-a-la-reine-q16533506/bouchee-a-la-reine-q16533506-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16533506",
+    "themealdb": null
+  }
+}

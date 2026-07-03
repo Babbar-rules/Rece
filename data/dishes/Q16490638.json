@@ -1,0 +1,18 @@
+{
+  "id": "Q16490638",
+  "name": "angu",
+  "description": "Brazilian food item",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/angu-q16490638/angu-q16490638-1.jpg",
+    "images/angu-q16490638/angu-q16490638-2.jpg",
+    "images/angu-q16490638/angu-q16490638-3.jpg",
+    "images/angu-q16490638/angu-q16490638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16490638",
+    "themealdb": null
+  }
+}

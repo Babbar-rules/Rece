@@ -1,0 +1,18 @@
+{
+  "id": "Q16724480",
+  "name": "prawn cake",
+  "description": "deep-fried dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prawn-cake-q16724480/prawn-cake-q16724480-1.jpg",
+    "images/prawn-cake-q16724480/prawn-cake-q16724480-2.jpg",
+    "images/prawn-cake-q16724480/prawn-cake-q16724480-3.jpg",
+    "images/prawn-cake-q16724480/prawn-cake-q16724480-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16724480",
+    "themealdb": null
+  }
+}

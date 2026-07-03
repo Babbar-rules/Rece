@@ -1,0 +1,20 @@
+{
+  "id": "Q16686834",
+  "name": "polędwica",
+  "description": "Polish pork product",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poledwica-q16686834/poledwica-q16686834-1.jpg",
+    "images/poledwica-q16686834/poledwica-q16686834-2.jpg",
+    "images/poledwica-q16686834/poledwica-q16686834-3.jpg",
+    "images/poledwica-q16686834/poledwica-q16686834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16686834",
+    "themealdb": null
+  }
+}

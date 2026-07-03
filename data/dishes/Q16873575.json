@@ -1,0 +1,18 @@
+{
+  "id": "Q16873575",
+  "name": "De-Thuk",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/de-thuk-q16873575/de-thuk-q16873575-1.png",
+    "images/de-thuk-q16873575/de-thuk-q16873575-2.jpg",
+    "images/de-thuk-q16873575/de-thuk-q16873575-3.jpg",
+    "images/de-thuk-q16873575/de-thuk-q16873575-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16873575",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16590111",
+  "name": "lentils with chorizo",
+  "description": "stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lentils-with-chorizo-q16590111/lentils-with-chorizo-q16590111-1.jpg",
+    "images/lentils-with-chorizo-q16590111/lentils-with-chorizo-q16590111-2.jpg",
+    "images/lentils-with-chorizo-q16590111/lentils-with-chorizo-q16590111-3.jpg",
+    "images/lentils-with-chorizo-q16590111/lentils-with-chorizo-q16590111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16590111",
+    "themealdb": null
+  }
+}

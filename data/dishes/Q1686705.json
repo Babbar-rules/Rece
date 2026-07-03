@@ -1,0 +1,20 @@
+{
+  "id": "Q1686705",
+  "name": "Jell-O",
+  "description": "gelatin dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jell-o-q1686705/jell-o-q1686705-1.jpg",
+    "images/jell-o-q1686705/jell-o-q1686705-2.jpg",
+    "images/jell-o-q1686705/jell-o-q1686705-3.png",
+    "images/jell-o-q1686705/jell-o-q1686705-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1686705",
+    "themealdb": null
+  }
+}

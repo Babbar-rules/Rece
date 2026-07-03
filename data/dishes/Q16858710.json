@@ -1,0 +1,18 @@
+{
+  "id": "Q16858710",
+  "name": "Krofne",
+  "description": "Balkan pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krofne-q16858710/krofne-q16858710-1.jpg",
+    "images/krofne-q16858710/krofne-q16858710-2.jpg",
+    "images/krofne-q16858710/krofne-q16858710-3.jpg",
+    "images/krofne-q16858710/krofne-q16858710-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16858710",
+    "themealdb": null
+  }
+}

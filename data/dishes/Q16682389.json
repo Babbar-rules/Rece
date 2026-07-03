@@ -1,0 +1,18 @@
+{
+  "id": "Q16682389",
+  "name": "oatmeal cookie",
+  "description": "drop cookie with oatmeal and raisins mixed into the dough",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oatmeal-cookie-q16682389/oatmeal-cookie-q16682389-1.jpg",
+    "images/oatmeal-cookie-q16682389/oatmeal-cookie-q16682389-2.jpg",
+    "images/oatmeal-cookie-q16682389/oatmeal-cookie-q16682389-3.jpg",
+    "images/oatmeal-cookie-q16682389/oatmeal-cookie-q16682389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16682389",
+    "themealdb": null
+  }
+}

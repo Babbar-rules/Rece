@@ -1,0 +1,22 @@
+{
+  "id": "Q1684997",
+  "name": "lemang",
+  "description": "Indonesian and Malaysian traditional food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lemang-q1684997/lemang-q1684997-1.jpg",
+    "images/lemang-q1684997/lemang-q1684997-2.jpg",
+    "images/lemang-q1684997/lemang-q1684997-3.jpg",
+    "images/lemang-q1684997/lemang-q1684997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1684997",
+    "themealdb": null
+  }
+}

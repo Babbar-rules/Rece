@@ -1,0 +1,18 @@
+{
+  "id": "Q16550306",
+  "name": "Easter cake",
+  "description": "cakes prepared for Easter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/easter-cake-q16550306/easter-cake-q16550306-1.jpg",
+    "images/easter-cake-q16550306/easter-cake-q16550306-2.jpg",
+    "images/easter-cake-q16550306/easter-cake-q16550306-3.jpg",
+    "images/easter-cake-q16550306/easter-cake-q16550306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16550306",
+    "themealdb": null
+  }
+}

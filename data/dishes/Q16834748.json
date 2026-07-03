@@ -1,0 +1,15 @@
+{
+  "id": "Q16834748",
+  "name": "eggplant papoutsaki",
+  "description": "an eggplant dish from the Turkish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eggplant-papoutsaki-q16834748/eggplant-papoutsaki-q16834748-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16834748",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q16847884",
+  "name": "spicy porridge",
+  "description": "Indonesian porridge dish from Sambas",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/spicy-porridge-q16847884/spicy-porridge-q16847884-1.jpg",
+    "images/spicy-porridge-q16847884/spicy-porridge-q16847884-2.jpg",
+    "images/spicy-porridge-q16847884/spicy-porridge-q16847884-3.jpg",
+    "images/spicy-porridge-q16847884/spicy-porridge-q16847884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16847884",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16844050",
+  "name": "Bogeo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bogeo-q16844050/bogeo-q16844050-1.jpg",
+    "images/bogeo-q16844050/bogeo-q16844050-2.jpg",
+    "images/bogeo-q16844050/bogeo-q16844050-3.jpg",
+    "images/bogeo-q16844050/bogeo-q16844050-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16844050",
+    "themealdb": null
+  }
+}

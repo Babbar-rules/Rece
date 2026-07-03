@@ -1,0 +1,20 @@
+{
+  "id": "Q16726460",
+  "name": "Buldak Ramen",
+  "description": "instant dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buldak-ramen-q16726460/buldak-ramen-q16726460-1.jpg",
+    "images/buldak-ramen-q16726460/buldak-ramen-q16726460-2.jpg",
+    "images/buldak-ramen-q16726460/buldak-ramen-q16726460-3.jpg",
+    "images/buldak-ramen-q16726460/buldak-ramen-q16726460-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16726460",
+    "themealdb": null
+  }
+}

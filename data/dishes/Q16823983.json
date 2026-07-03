@@ -1,0 +1,20 @@
+{
+  "id": "Q16823983",
+  "name": "50/50 burger",
+  "description": "Hamburger patty",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/5050-burger-q16823983/5050-burger-q16823983-1.jpg",
+    "images/5050-burger-q16823983/5050-burger-q16823983-2.jpg",
+    "images/5050-burger-q16823983/5050-burger-q16823983-3.jpg",
+    "images/5050-burger-q16823983/5050-burger-q16823983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16823983",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16586408",
+  "name": "Kaviar",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kaviar-q16586408/kaviar-q16586408-1.jpg",
+    "images/kaviar-q16586408/kaviar-q16586408-2.jpg",
+    "images/kaviar-q16586408/kaviar-q16586408-3.jpg",
+    "images/kaviar-q16586408/kaviar-q16586408-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16586408",
+    "themealdb": null
+  }
+}

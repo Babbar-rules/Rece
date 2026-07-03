@@ -1,0 +1,18 @@
+{
+  "id": "Q1660010",
+  "name": "Christmas cookies",
+  "description": "sweet pastries that are eaten during the Christmas season",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-cookies-q1660010/christmas-cookies-q1660010-1.jpg",
+    "images/christmas-cookies-q1660010/christmas-cookies-q1660010-2.jpg",
+    "images/christmas-cookies-q1660010/christmas-cookies-q1660010-3.jpg",
+    "images/christmas-cookies-q1660010/christmas-cookies-q1660010-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1660010",
+    "themealdb": null
+  }
+}

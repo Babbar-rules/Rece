@@ -1,0 +1,19 @@
+{
+  "id": "Q16802048",
+  "name": "Mouskoutchou",
+  "description": "cake from Algeria",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mouskoutchou-q16802048/mouskoutchou-q16802048-1.jpg",
+    "images/mouskoutchou-q16802048/mouskoutchou-q16802048-2.jpg",
+    "images/mouskoutchou-q16802048/mouskoutchou-q16802048-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16802048",
+    "themealdb": null
+  }
+}

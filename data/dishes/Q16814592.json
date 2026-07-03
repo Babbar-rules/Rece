@@ -1,0 +1,18 @@
+{
+  "id": "Q16814592",
+  "name": "Oyster stew",
+  "description": "stew made with oyster",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oyster-stew-q16814592/oyster-stew-q16814592-1.jpg",
+    "images/oyster-stew-q16814592/oyster-stew-q16814592-2.jpg",
+    "images/oyster-stew-q16814592/oyster-stew-q16814592-3.jpg",
+    "images/oyster-stew-q16814592/oyster-stew-q16814592-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16814592",
+    "themealdb": null
+  }
+}

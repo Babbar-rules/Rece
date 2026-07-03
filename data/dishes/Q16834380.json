@@ -1,0 +1,18 @@
+{
+  "id": "Q16834380",
+  "name": "Aseed",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aseed-q16834380/aseed-q16834380-1.jpg",
+    "images/aseed-q16834380/aseed-q16834380-2.jpg",
+    "images/aseed-q16834380/aseed-q16834380-3.jpg",
+    "images/aseed-q16834380/aseed-q16834380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16834380",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q16570609",
+  "name": "gambas à la plancha",
+  "description": "Spanish shrimp dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gambas-a-la-plancha-q16570609/gambas-a-la-plancha-q16570609-1.jpg",
+    "images/gambas-a-la-plancha-q16570609/gambas-a-la-plancha-q16570609-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16570609",
+    "themealdb": null
+  }
+}

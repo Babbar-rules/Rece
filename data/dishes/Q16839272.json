@@ -1,0 +1,18 @@
+{
+  "id": "Q16839272",
+  "name": "Glasswort salad",
+  "description": "a salad made commonly in Turkey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/glasswort-salad-q16839272/glasswort-salad-q16839272-1.jpg",
+    "images/glasswort-salad-q16839272/glasswort-salad-q16839272-2.jpg",
+    "images/glasswort-salad-q16839272/glasswort-salad-q16839272-3.jpg",
+    "images/glasswort-salad-q16839272/glasswort-salad-q16839272-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16839272",
+    "themealdb": null
+  }
+}

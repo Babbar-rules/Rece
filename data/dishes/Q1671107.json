@@ -1,0 +1,18 @@
+{
+  "id": "Q1671107",
+  "name": "mad honey",
+  "description": "psychoactive type of honey containing grayanotoxins",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mad-honey-q1671107/mad-honey-q1671107-1.jpg",
+    "images/mad-honey-q1671107/mad-honey-q1671107-2.jpg",
+    "images/mad-honey-q1671107/mad-honey-q1671107-3.jpg",
+    "images/mad-honey-q1671107/mad-honey-q1671107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1671107",
+    "themealdb": null
+  }
+}

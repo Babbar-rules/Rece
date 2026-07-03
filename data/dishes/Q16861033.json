@@ -1,0 +1,20 @@
+{
+  "id": "Q16861033",
+  "name": "triple-cooked chips",
+  "description": "type of chips or deep-fried potato",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/triple-cooked-chips-q16861033/triple-cooked-chips-q16861033-1.jpg",
+    "images/triple-cooked-chips-q16861033/triple-cooked-chips-q16861033-2.jpg",
+    "images/triple-cooked-chips-q16861033/triple-cooked-chips-q16861033-3.jpg",
+    "images/triple-cooked-chips-q16861033/triple-cooked-chips-q16861033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16861033",
+    "themealdb": null
+  }
+}

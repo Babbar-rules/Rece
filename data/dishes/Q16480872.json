@@ -1,0 +1,20 @@
+{
+  "id": "Q16480872",
+  "name": "Thit Kho Tau",
+  "description": "southeast Asian dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thit-kho-tau-q16480872/thit-kho-tau-q16480872-1.jpg",
+    "images/thit-kho-tau-q16480872/thit-kho-tau-q16480872-2.jpg",
+    "images/thit-kho-tau-q16480872/thit-kho-tau-q16480872-3.jpg",
+    "images/thit-kho-tau-q16480872/thit-kho-tau-q16480872-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16480872",
+    "themealdb": null
+  }
+}

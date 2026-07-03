@@ -1,0 +1,18 @@
+{
+  "id": "Q16868423",
+  "name": "Sha Phaley",
+  "description": "Tibetan dish made of bread, beef, and vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sha-phaley-q16868423/sha-phaley-q16868423-1.jpg",
+    "images/sha-phaley-q16868423/sha-phaley-q16868423-2.jpg",
+    "images/sha-phaley-q16868423/sha-phaley-q16868423-3.jpg",
+    "images/sha-phaley-q16868423/sha-phaley-q16868423-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16868423",
+    "themealdb": null
+  }
+}

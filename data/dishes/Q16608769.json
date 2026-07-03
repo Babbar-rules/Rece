@@ -1,0 +1,20 @@
+{
+  "id": "Q16608769",
+  "name": "szpajza",
+  "description": "Polish dessert",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Pomeranian cuisine",
+    "Silesian cuisine"
+  ],
+  "images": [
+    "images/szpajza-q16608769/szpajza-q16608769-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16608769",
+    "themealdb": null
+  }
+}

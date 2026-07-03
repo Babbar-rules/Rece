@@ -1,0 +1,20 @@
+{
+  "id": "Q16536473",
+  "name": "Castel",
+  "description": "Cake of Algeria",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/castel-q16536473/castel-q16536473-1.jpg",
+    "images/castel-q16536473/castel-q16536473-2.jpg",
+    "images/castel-q16536473/castel-q16536473-3.jpg",
+    "images/castel-q16536473/castel-q16536473-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16536473",
+    "themealdb": null
+  }
+}

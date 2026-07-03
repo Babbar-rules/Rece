@@ -1,0 +1,20 @@
+{
+  "id": "Q16493207",
+  "name": "Arabu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/arabu-q16493207/arabu-q16493207-1.jpg",
+    "images/arabu-q16493207/arabu-q16493207-2.png",
+    "images/arabu-q16493207/arabu-q16493207-3.jpg",
+    "images/arabu-q16493207/arabu-q16493207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16493207",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1683302",
+  "name": "Japanese rice dish",
+  "description": "overview of the various rice dishes in Japanese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/japanese-rice-dish-q1683302/japanese-rice-dish-q1683302-1.jpg",
+    "images/japanese-rice-dish-q1683302/japanese-rice-dish-q1683302-2.jpg",
+    "images/japanese-rice-dish-q1683302/japanese-rice-dish-q1683302-3.jpg",
+    "images/japanese-rice-dish-q1683302/japanese-rice-dish-q1683302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1683302",
+    "themealdb": null
+  }
+}

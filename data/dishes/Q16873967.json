@@ -1,0 +1,20 @@
+{
+  "id": "Q16873967",
+  "name": "The Dodol Depok",
+  "description": "Indonesian rice cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/the-dodol-depok-q16873967/the-dodol-depok-q16873967-1.jpg",
+    "images/the-dodol-depok-q16873967/the-dodol-depok-q16873967-2.jpg",
+    "images/the-dodol-depok-q16873967/the-dodol-depok-q16873967-3.jpg",
+    "images/the-dodol-depok-q16873967/the-dodol-depok-q16873967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16873967",
+    "themealdb": null
+  }
+}

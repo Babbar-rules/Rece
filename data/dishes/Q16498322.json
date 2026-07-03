@@ -1,0 +1,18 @@
+{
+  "id": "Q16498322",
+  "name": "Biju",
+  "description": "Brazilian biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/biju-q16498322/biju-q16498322-1.jpg",
+    "images/biju-q16498322/biju-q16498322-2.jpg",
+    "images/biju-q16498322/biju-q16498322-3.jpg",
+    "images/biju-q16498322/biju-q16498322-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16498322",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q16836245",
+  "name": "Ayam goreng",
+  "description": "Indonesian and Malaysian fried chicken",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ayam-goreng-q16836245/ayam-goreng-q16836245-1.jpg",
+    "images/ayam-goreng-q16836245/ayam-goreng-q16836245-2.jpg",
+    "images/ayam-goreng-q16836245/ayam-goreng-q16836245-3.jpg",
+    "images/ayam-goreng-q16836245/ayam-goreng-q16836245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16836245",
+    "themealdb": null
+  }
+}

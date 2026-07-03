@@ -1,0 +1,20 @@
+{
+  "id": "Q16860991",
+  "name": "disanxian",
+  "description": "Chinese dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Northeastern Chinese cuisine"
+  ],
+  "images": [
+    "images/disanxian-q16860991/disanxian-q16860991-1.jpg",
+    "images/disanxian-q16860991/disanxian-q16860991-2.jpg",
+    "images/disanxian-q16860991/disanxian-q16860991-3.jpg",
+    "images/disanxian-q16860991/disanxian-q16860991-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16860991",
+    "themealdb": null
+  }
+}

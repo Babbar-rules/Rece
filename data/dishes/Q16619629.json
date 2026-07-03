@@ -1,0 +1,18 @@
+{
+  "id": "Q16619629",
+  "name": "plato alpujarreño",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plato-alpujarreno-q16619629/plato-alpujarreno-q16619629-1.jpg",
+    "images/plato-alpujarreno-q16619629/plato-alpujarreno-q16619629-2.jpg",
+    "images/plato-alpujarreno-q16619629/plato-alpujarreno-q16619629-3.jpg",
+    "images/plato-alpujarreno-q16619629/plato-alpujarreno-q16619629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16619629",
+    "themealdb": null
+  }
+}

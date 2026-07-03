@@ -1,0 +1,20 @@
+{
+  "id": "Q16826630",
+  "name": "Chocolate-covered prune",
+  "description": "Polish confectionery",
+  "nationality": [
+    "Eastern Europe"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-covered-prune-q16826630/chocolate-covered-prune-q16826630-1.jpg",
+    "images/chocolate-covered-prune-q16826630/chocolate-covered-prune-q16826630-2.jpg",
+    "images/chocolate-covered-prune-q16826630/chocolate-covered-prune-q16826630-3.jpg",
+    "images/chocolate-covered-prune-q16826630/chocolate-covered-prune-q16826630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16826630",
+    "themealdb": null
+  }
+}

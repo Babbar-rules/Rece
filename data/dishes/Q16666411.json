@@ -1,0 +1,18 @@
+{
+  "id": "Q16666411",
+  "name": "ngalakh",
+  "description": "Senegalese millet porridge",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ngalakh-q16666411/ngalakh-q16666411-1.jpg",
+    "images/ngalakh-q16666411/ngalakh-q16666411-2.jpg",
+    "images/ngalakh-q16666411/ngalakh-q16666411-3.jpg",
+    "images/ngalakh-q16666411/ngalakh-q16666411-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16666411",
+    "themealdb": null
+  }
+}

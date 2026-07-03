@@ -1,0 +1,22 @@
+{
+  "id": "Q16706914",
+  "name": "Mett",
+  "description": "preparation of minced raw pork",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/mett-q16706914/mett-q16706914-1.jpg",
+    "images/mett-q16706914/mett-q16706914-2.png",
+    "images/mett-q16706914/mett-q16706914-3.jpg",
+    "images/mett-q16706914/mett-q16706914-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16706914",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16533458",
+  "name": "botamochi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/botamochi-q16533458/botamochi-q16533458-1.jpg",
+    "images/botamochi-q16533458/botamochi-q16533458-2.jpg",
+    "images/botamochi-q16533458/botamochi-q16533458-3.jpg",
+    "images/botamochi-q16533458/botamochi-q16533458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16533458",
+    "themealdb": null
+  }
+}

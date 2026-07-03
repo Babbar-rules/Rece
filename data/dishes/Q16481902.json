@@ -1,0 +1,20 @@
+{
+  "id": "Q16481902",
+  "name": "pepita con tasajo",
+  "description": "Mexican beef dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pepita-con-tasajo-q16481902/pepita-con-tasajo-q16481902-1.jpg",
+    "images/pepita-con-tasajo-q16481902/pepita-con-tasajo-q16481902-2.jpg",
+    "images/pepita-con-tasajo-q16481902/pepita-con-tasajo-q16481902-3.jpg",
+    "images/pepita-con-tasajo-q16481902/pepita-con-tasajo-q16481902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16481902",
+    "themealdb": null
+  }
+}

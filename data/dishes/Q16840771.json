@@ -1,0 +1,20 @@
+{
+  "id": "Q16840771",
+  "name": "Berwick cockle",
+  "description": "British confection",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/berwick-cockle-q16840771/berwick-cockle-q16840771-1.jpg",
+    "images/berwick-cockle-q16840771/berwick-cockle-q16840771-2.jpg",
+    "images/berwick-cockle-q16840771/berwick-cockle-q16840771-3.jpg",
+    "images/berwick-cockle-q16840771/berwick-cockle-q16840771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16840771",
+    "themealdb": null
+  }
+}

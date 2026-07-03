@@ -1,0 +1,18 @@
+{
+  "id": "Q166128",
+  "name": "picadillo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/picadillo-q166128/picadillo-q166128-1.jpg",
+    "images/picadillo-q166128/picadillo-q166128-2.jpg",
+    "images/picadillo-q166128/picadillo-q166128-3.jpg",
+    "images/picadillo-q166128/picadillo-q166128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q166128",
+    "themealdb": null
+  }
+}

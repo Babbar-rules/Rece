@@ -1,0 +1,20 @@
+{
+  "id": "Q16882435",
+  "name": "Mực rang muối",
+  "description": "Vietnamese five-spice squid dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muc-rang-muoi-q16882435/muc-rang-muoi-q16882435-1.jpg",
+    "images/muc-rang-muoi-q16882435/muc-rang-muoi-q16882435-2.png",
+    "images/muc-rang-muoi-q16882435/muc-rang-muoi-q16882435-3.jpg",
+    "images/muc-rang-muoi-q16882435/muc-rang-muoi-q16882435-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16882435",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q16773140",
+  "name": "Putri salju cake",
+  "description": "Indonesian traditional cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/putri-salju-cake-q16773140/putri-salju-cake-q16773140-1.jpg",
+    "images/putri-salju-cake-q16773140/putri-salju-cake-q16773140-2.jpg",
+    "images/putri-salju-cake-q16773140/putri-salju-cake-q16773140-3.jpg",
+    "images/putri-salju-cake-q16773140/putri-salju-cake-q16773140-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16773140",
+    "themealdb": null
+  }
+}

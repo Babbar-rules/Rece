@@ -1,0 +1,20 @@
+{
+  "id": "Q16596895",
+  "name": "Risotto al nero di seppia",
+  "description": "",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/risotto-al-nero-di-seppia-q16596895/risotto-al-nero-di-seppia-q16596895-1.jpg",
+    "images/risotto-al-nero-di-seppia-q16596895/risotto-al-nero-di-seppia-q16596895-2.jpg",
+    "images/risotto-al-nero-di-seppia-q16596895/risotto-al-nero-di-seppia-q16596895-3.jpg",
+    "images/risotto-al-nero-di-seppia-q16596895/risotto-al-nero-di-seppia-q16596895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16596895",
+    "themealdb": null
+  }
+}

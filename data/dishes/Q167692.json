@@ -1,0 +1,20 @@
+{
+  "id": "Q167692",
+  "name": "monjayaki",
+  "description": "Japanese savory pancake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/monjayaki-q167692/monjayaki-q167692-1.jpg",
+    "images/monjayaki-q167692/monjayaki-q167692-2.jpg",
+    "images/monjayaki-q167692/monjayaki-q167692-3.jpg",
+    "images/monjayaki-q167692/monjayaki-q167692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167692",
+    "themealdb": null
+  }
+}

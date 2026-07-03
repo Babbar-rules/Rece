@@ -1,0 +1,20 @@
+{
+  "id": "Q16481294",
+  "name": "xôi gấc",
+  "description": "Vietnamese rice dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xoi-gac-q16481294/xoi-gac-q16481294-1.jpg",
+    "images/xoi-gac-q16481294/xoi-gac-q16481294-2.jpg",
+    "images/xoi-gac-q16481294/xoi-gac-q16481294-3.jpg",
+    "images/xoi-gac-q16481294/xoi-gac-q16481294-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16481294",
+    "themealdb": null
+  }
+}

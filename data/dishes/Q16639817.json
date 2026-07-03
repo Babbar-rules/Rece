@@ -1,0 +1,23 @@
+{
+  "id": "Q16639817",
+  "name": "Grands-pères",
+  "description": "Traditional pastry in Québécois cuisine",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [
+    "cuisine of Quebec",
+    "Acadian cuisine"
+  ],
+  "images": [
+    "images/grands-peres-q16639817/grands-peres-q16639817-1.jpg",
+    "images/grands-peres-q16639817/grands-peres-q16639817-2.jpg",
+    "images/grands-peres-q16639817/grands-peres-q16639817-3.jpg",
+    "images/grands-peres-q16639817/grands-peres-q16639817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16639817",
+    "themealdb": null
+  }
+}

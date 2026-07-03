@@ -1,0 +1,20 @@
+{
+  "id": "Q16545592",
+  "name": "Cri cri",
+  "description": "Traditional Italian chocolate confection",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cri-cri-q16545592/cri-cri-q16545592-1.jpg",
+    "images/cri-cri-q16545592/cri-cri-q16545592-2.jpg",
+    "images/cri-cri-q16545592/cri-cri-q16545592-3.jpg",
+    "images/cri-cri-q16545592/cri-cri-q16545592-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16545592",
+    "themealdb": null
+  }
+}

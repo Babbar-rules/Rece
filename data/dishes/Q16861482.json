@@ -1,0 +1,20 @@
+{
+  "id": "Q16861482",
+  "name": "potée",
+  "description": "preparation historically cooked in an earthenware pot",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potee-q16861482/potee-q16861482-1.jpg",
+    "images/potee-q16861482/potee-q16861482-2.jpg",
+    "images/potee-q16861482/potee-q16861482-3.jpg",
+    "images/potee-q16861482/potee-q16861482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16861482",
+    "themealdb": null
+  }
+}

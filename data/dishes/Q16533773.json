@@ -1,0 +1,20 @@
+{
+  "id": "Q16533773",
+  "name": "brioscia",
+  "description": "brioche of Sicily",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brioscia-q16533773/brioscia-q16533773-1.jpg",
+    "images/brioscia-q16533773/brioscia-q16533773-2.jpg",
+    "images/brioscia-q16533773/brioscia-q16533773-3.jpg",
+    "images/brioscia-q16533773/brioscia-q16533773-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16533773",
+    "themealdb": null
+  }
+}

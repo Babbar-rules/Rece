@@ -1,0 +1,20 @@
+{
+  "id": "Q16491100",
+  "name": "Cochito",
+  "description": "traditional dish from Chiapas",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cochito-q16491100/cochito-q16491100-1.jpg",
+    "images/cochito-q16491100/cochito-q16491100-2.jpg",
+    "images/cochito-q16491100/cochito-q16491100-3.png",
+    "images/cochito-q16491100/cochito-q16491100-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16491100",
+    "themealdb": null
+  }
+}

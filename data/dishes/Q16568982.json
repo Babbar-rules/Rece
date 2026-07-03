@@ -1,0 +1,18 @@
+{
+  "id": "Q16568982",
+  "name": "Kinder Schokobon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-schokobon-q16568982/kinder-schokobon-q16568982-1.jpg",
+    "images/kinder-schokobon-q16568982/kinder-schokobon-q16568982-2.jpg",
+    "images/kinder-schokobon-q16568982/kinder-schokobon-q16568982-3.jpg",
+    "images/kinder-schokobon-q16568982/kinder-schokobon-q16568982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16568982",
+    "themealdb": null
+  }
+}

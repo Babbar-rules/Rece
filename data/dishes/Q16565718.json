@@ -1,0 +1,18 @@
+{
+  "id": "Q16565718",
+  "name": "Karpatka",
+  "description": "Polish cream pie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/karpatka-q16565718/karpatka-q16565718-1.jpg",
+    "images/karpatka-q16565718/karpatka-q16565718-2.jpg",
+    "images/karpatka-q16565718/karpatka-q16565718-3.jpg",
+    "images/karpatka-q16565718/karpatka-q16565718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16565718",
+    "themealdb": null
+  }
+}

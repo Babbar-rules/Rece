@@ -1,0 +1,18 @@
+{
+  "id": "Q16495993",
+  "name": "baba-de-moça",
+  "description": "Brazilian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baba-de-moca-q16495993/baba-de-moca-q16495993-1.jpg",
+    "images/baba-de-moca-q16495993/baba-de-moca-q16495993-2.jpg",
+    "images/baba-de-moca-q16495993/baba-de-moca-q16495993-3.jpg",
+    "images/baba-de-moca-q16495993/baba-de-moca-q16495993-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16495993",
+    "themealdb": null
+  }
+}

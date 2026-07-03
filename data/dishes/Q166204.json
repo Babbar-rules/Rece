@@ -1,0 +1,22 @@
+{
+  "id": "Q166204",
+  "name": "kamaboko",
+  "description": "Japanese fish cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/kamaboko-q166204/kamaboko-q166204-1.jpg",
+    "images/kamaboko-q166204/kamaboko-q166204-2.jpg",
+    "images/kamaboko-q166204/kamaboko-q166204-3.jpg",
+    "images/kamaboko-q166204/kamaboko-q166204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q166204",
+    "themealdb": null
+  }
+}

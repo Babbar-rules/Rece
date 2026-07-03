@@ -1,0 +1,18 @@
+{
+  "id": "Q16761486",
+  "name": "hurmašica",
+  "description": "pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hurmasica-q16761486/hurmasica-q16761486-1.jpg",
+    "images/hurmasica-q16761486/hurmasica-q16761486-2.jpg",
+    "images/hurmasica-q16761486/hurmasica-q16761486-3.jpg",
+    "images/hurmasica-q16761486/hurmasica-q16761486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16761486",
+    "themealdb": null
+  }
+}

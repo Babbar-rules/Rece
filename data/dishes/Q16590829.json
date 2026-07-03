@@ -1,0 +1,20 @@
+{
+  "id": "Q16590829",
+  "name": "Pissarei e fasö",
+  "description": "Tipical Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pissarei-e-faso-q16590829/pissarei-e-faso-q16590829-1.jpg",
+    "images/pissarei-e-faso-q16590829/pissarei-e-faso-q16590829-2.jpg",
+    "images/pissarei-e-faso-q16590829/pissarei-e-faso-q16590829-3.jpg",
+    "images/pissarei-e-faso-q16590829/pissarei-e-faso-q16590829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16590829",
+    "themealdb": null
+  }
+}

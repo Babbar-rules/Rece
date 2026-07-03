@@ -1,0 +1,20 @@
+{
+  "id": "Q1683716",
+  "name": "lontong",
+  "description": "Indonesian traditional rice cake originally from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lontong-q1683716/lontong-q1683716-1.jpg",
+    "images/lontong-q1683716/lontong-q1683716-2.jpg",
+    "images/lontong-q1683716/lontong-q1683716-3.jpg",
+    "images/lontong-q1683716/lontong-q1683716-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1683716",
+    "themealdb": null
+  }
+}

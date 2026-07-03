@@ -1,0 +1,18 @@
+{
+  "id": "Q16864399",
+  "name": "Georgian bread",
+  "description": "Bread from the country of Georgia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/georgian-bread-q16864399/georgian-bread-q16864399-1.jpg",
+    "images/georgian-bread-q16864399/georgian-bread-q16864399-2.jpg",
+    "images/georgian-bread-q16864399/georgian-bread-q16864399-3.jpg",
+    "images/georgian-bread-q16864399/georgian-bread-q16864399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16864399",
+    "themealdb": null
+  }
+}

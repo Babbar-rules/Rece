@@ -1,0 +1,19 @@
+{
+  "id": "Q16556351",
+  "name": "Focaccia di Susa",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/focaccia-di-susa-q16556351/focaccia-di-susa-q16556351-1.jpg",
+    "images/focaccia-di-susa-q16556351/focaccia-di-susa-q16556351-2.jpg",
+    "images/focaccia-di-susa-q16556351/focaccia-di-susa-q16556351-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16556351",
+    "themealdb": null
+  }
+}

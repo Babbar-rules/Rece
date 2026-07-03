@@ -1,0 +1,20 @@
+{
+  "id": "Q16845173",
+  "name": "Houska",
+  "description": "traditional Czech bread roll",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/houska-q16845173/houska-q16845173-1.jpg",
+    "images/houska-q16845173/houska-q16845173-2.jpg",
+    "images/houska-q16845173/houska-q16845173-3.jpg",
+    "images/houska-q16845173/houska-q16845173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16845173",
+    "themealdb": null
+  }
+}

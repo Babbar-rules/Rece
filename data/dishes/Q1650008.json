@@ -1,0 +1,15 @@
+{
+  "id": "Q1650008",
+  "name": "quarkspeise",
+  "description": "German trifle dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/quarkspeise-q1650008/quarkspeise-q1650008-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1650008",
+    "themealdb": null
+  }
+}

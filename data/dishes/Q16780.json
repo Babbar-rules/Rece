@@ -1,0 +1,18 @@
+{
+  "id": "Q16780",
+  "name": "Sicilian orange salad",
+  "description": "salad dish of orange slices with olive oil, salt and black pepper",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sicilian-orange-salad-q16780/sicilian-orange-salad-q16780-1.jpg",
+    "images/sicilian-orange-salad-q16780/sicilian-orange-salad-q16780-2.jpg",
+    "images/sicilian-orange-salad-q16780/sicilian-orange-salad-q16780-3.jpg",
+    "images/sicilian-orange-salad-q16780/sicilian-orange-salad-q16780-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16780",
+    "themealdb": null
+  }
+}

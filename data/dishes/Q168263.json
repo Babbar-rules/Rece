@@ -1,0 +1,20 @@
+{
+  "id": "Q168263",
+  "name": "Tortell",
+  "description": "Catalan/Occitan O-shaped pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortell-q168263/tortell-q168263-1.jpg",
+    "images/tortell-q168263/tortell-q168263-2.jpg",
+    "images/tortell-q168263/tortell-q168263-3.jpg",
+    "images/tortell-q168263/tortell-q168263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q168263",
+    "themealdb": null
+  }
+}

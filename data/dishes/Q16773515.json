@@ -1,0 +1,22 @@
+{
+  "id": "Q16773515",
+  "name": "Bubur ketan hitam",
+  "description": "Indonesian dessert",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bubur-ketan-hitam-q16773515/bubur-ketan-hitam-q16773515-1.jpg",
+    "images/bubur-ketan-hitam-q16773515/bubur-ketan-hitam-q16773515-2.jpg",
+    "images/bubur-ketan-hitam-q16773515/bubur-ketan-hitam-q16773515-3.jpg",
+    "images/bubur-ketan-hitam-q16773515/bubur-ketan-hitam-q16773515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16773515",
+    "themealdb": null
+  }
+}

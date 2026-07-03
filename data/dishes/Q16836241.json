@@ -1,0 +1,20 @@
+{
+  "id": "Q16836241",
+  "name": "grilled chicken",
+  "description": "chicken dish prepared by grilling",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-chicken-q16836241/grilled-chicken-q16836241-1.jpg",
+    "images/grilled-chicken-q16836241/grilled-chicken-q16836241-2.jpg",
+    "images/grilled-chicken-q16836241/grilled-chicken-q16836241-3.jpg",
+    "images/grilled-chicken-q16836241/grilled-chicken-q16836241-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16836241",
+    "themealdb": null
+  }
+}

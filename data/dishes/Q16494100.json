@@ -1,0 +1,20 @@
+{
+  "id": "Q16494100",
+  "name": "arrumadinho",
+  "description": "Brazilian dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arrumadinho-q16494100/arrumadinho-q16494100-1.jpg",
+    "images/arrumadinho-q16494100/arrumadinho-q16494100-2.jpg",
+    "images/arrumadinho-q16494100/arrumadinho-q16494100-3.jpg",
+    "images/arrumadinho-q16494100/arrumadinho-q16494100-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16494100",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16834113",
+  "name": "dürüm",
+  "description": "Turkish cuisine fast food, similar to \"wrap\"",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/durum-q16834113/durum-q16834113-1.jpg",
+    "images/durum-q16834113/durum-q16834113-2.jpg",
+    "images/durum-q16834113/durum-q16834113-3.jpg",
+    "images/durum-q16834113/durum-q16834113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16834113",
+    "themealdb": null
+  }
+}

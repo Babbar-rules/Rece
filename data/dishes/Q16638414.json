@@ -1,0 +1,18 @@
+{
+  "id": "Q16638414",
+  "name": "Charente galette",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/charente-galette-q16638414/charente-galette-q16638414-1.jpg",
+    "images/charente-galette-q16638414/charente-galette-q16638414-2.jpg",
+    "images/charente-galette-q16638414/charente-galette-q16638414-3.png",
+    "images/charente-galette-q16638414/charente-galette-q16638414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16638414",
+    "themealdb": null
+  }
+}

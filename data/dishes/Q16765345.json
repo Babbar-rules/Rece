@@ -1,0 +1,22 @@
+{
+  "id": "Q16765345",
+  "name": "mie ayam",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/mie-ayam-q16765345/mie-ayam-q16765345-1.jpg",
+    "images/mie-ayam-q16765345/mie-ayam-q16765345-2.jpg",
+    "images/mie-ayam-q16765345/mie-ayam-q16765345-3.jpg",
+    "images/mie-ayam-q16765345/mie-ayam-q16765345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16765345",
+    "themealdb": null
+  }
+}

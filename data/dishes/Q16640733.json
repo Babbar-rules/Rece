@@ -1,0 +1,18 @@
+{
+  "id": "Q16640733",
+  "name": "gâteau breton",
+  "description": "cake from Brittany",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-breton-q16640733/gateau-breton-q16640733-1.jpg",
+    "images/gateau-breton-q16640733/gateau-breton-q16640733-2.jpg",
+    "images/gateau-breton-q16640733/gateau-breton-q16640733-3.jpg",
+    "images/gateau-breton-q16640733/gateau-breton-q16640733-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16640733",
+    "themealdb": null
+  }
+}

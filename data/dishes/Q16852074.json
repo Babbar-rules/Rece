@@ -1,0 +1,21 @@
+{
+  "id": "Q16852074",
+  "name": "Ka'ak",
+  "description": "cake from Arab World",
+  "nationality": [
+    "Middle East",
+    "North Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaak-q16852074/kaak-q16852074-1.jpg",
+    "images/kaak-q16852074/kaak-q16852074-2.jpg",
+    "images/kaak-q16852074/kaak-q16852074-3.jpg",
+    "images/kaak-q16852074/kaak-q16852074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16852074",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16498295",
+  "name": "Bife à parmegiana",
+  "description": "Brazilian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bife-a-parmegiana-q16498295/bife-a-parmegiana-q16498295-1.jpg",
+    "images/bife-a-parmegiana-q16498295/bife-a-parmegiana-q16498295-2.jpg",
+    "images/bife-a-parmegiana-q16498295/bife-a-parmegiana-q16498295-3.jpg",
+    "images/bife-a-parmegiana-q16498295/bife-a-parmegiana-q16498295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16498295",
+    "themealdb": null
+  }
+}

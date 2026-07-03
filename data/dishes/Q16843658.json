@@ -1,0 +1,22 @@
+{
+  "id": "Q16843658",
+  "name": "Shaking beef",
+  "description": "French-inspired Vietnamese dish",
+  "nationality": [
+    "French Indochina"
+  ],
+  "region_cuisine": [
+    "Vietnamese cuisine"
+  ],
+  "images": [
+    "images/shaking-beef-q16843658/shaking-beef-q16843658-1.jpg",
+    "images/shaking-beef-q16843658/shaking-beef-q16843658-2.jpg",
+    "images/shaking-beef-q16843658/shaking-beef-q16843658-3.jpg",
+    "images/shaking-beef-q16843658/shaking-beef-q16843658-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16843658",
+    "themealdb": null
+  }
+}

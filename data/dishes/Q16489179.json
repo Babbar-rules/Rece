@@ -1,0 +1,18 @@
+{
+  "id": "Q16489179",
+  "name": "Sand tuna",
+  "description": "tuna recipe from Alicante",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sand-tuna-q16489179/sand-tuna-q16489179-1.jpg",
+    "images/sand-tuna-q16489179/sand-tuna-q16489179-2.jpg",
+    "images/sand-tuna-q16489179/sand-tuna-q16489179-3.jpg",
+    "images/sand-tuna-q16489179/sand-tuna-q16489179-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16489179",
+    "themealdb": null
+  }
+}

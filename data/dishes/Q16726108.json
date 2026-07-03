@@ -1,0 +1,20 @@
+{
+  "id": "Q16726108",
+  "name": "pastrami on rye",
+  "description": "classic sandwich made famous in the Jewish kosher delicatessens of New York City",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastrami-on-rye-q16726108/pastrami-on-rye-q16726108-1.jpg",
+    "images/pastrami-on-rye-q16726108/pastrami-on-rye-q16726108-2.jpg",
+    "images/pastrami-on-rye-q16726108/pastrami-on-rye-q16726108-3.jpg",
+    "images/pastrami-on-rye-q16726108/pastrami-on-rye-q16726108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16726108",
+    "themealdb": null
+  }
+}

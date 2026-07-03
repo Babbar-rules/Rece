@@ -1,0 +1,18 @@
+{
+  "id": "Q16693052",
+  "name": "oat kissel",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oat-kissel-q16693052/oat-kissel-q16693052-1.jpg",
+    "images/oat-kissel-q16693052/oat-kissel-q16693052-2.jpg",
+    "images/oat-kissel-q16693052/oat-kissel-q16693052-3.jpg",
+    "images/oat-kissel-q16693052/oat-kissel-q16693052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16693052",
+    "themealdb": null
+  }
+}

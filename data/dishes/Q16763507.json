@@ -1,0 +1,17 @@
+{
+  "id": "Q16763507",
+  "name": "feiersténgszalot",
+  "description": "Luxembourgish meat salad",
+  "nationality": [
+    "Luxembourg"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/feierstengszalot-q16763507/feierstengszalot-q16763507-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16763507",
+    "themealdb": null
+  }
+}

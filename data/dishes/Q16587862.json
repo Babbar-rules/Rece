@@ -1,0 +1,20 @@
+{
+  "id": "Q16587862",
+  "name": "peposo",
+  "description": "Tuscan meat stew",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peposo-q16587862/peposo-q16587862-1.jpg",
+    "images/peposo-q16587862/peposo-q16587862-2.jpg",
+    "images/peposo-q16587862/peposo-q16587862-3.jpg",
+    "images/peposo-q16587862/peposo-q16587862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16587862",
+    "themealdb": null
+  }
+}

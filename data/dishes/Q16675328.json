@@ -1,0 +1,18 @@
+{
+  "id": "Q16675328",
+  "name": "California salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/california-salad-q16675328/california-salad-q16675328-1.jpg",
+    "images/california-salad-q16675328/california-salad-q16675328-2.jpg",
+    "images/california-salad-q16675328/california-salad-q16675328-3.jpg",
+    "images/california-salad-q16675328/california-salad-q16675328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16675328",
+    "themealdb": null
+  }
+}

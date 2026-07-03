@@ -1,0 +1,20 @@
+{
+  "id": "Q16612124",
+  "name": "nochebueno",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nochebueno-q16612124/nochebueno-q16612124-1.jpg",
+    "images/nochebueno-q16612124/nochebueno-q16612124-2.jpg",
+    "images/nochebueno-q16612124/nochebueno-q16612124-3.jpg",
+    "images/nochebueno-q16612124/nochebueno-q16612124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16612124",
+    "themealdb": null
+  }
+}

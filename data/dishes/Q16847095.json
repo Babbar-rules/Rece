@@ -1,0 +1,18 @@
+{
+  "id": "Q16847095",
+  "name": "broccoli slaw",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/broccoli-slaw-q16847095/broccoli-slaw-q16847095-1.jpg",
+    "images/broccoli-slaw-q16847095/broccoli-slaw-q16847095-2.jpg",
+    "images/broccoli-slaw-q16847095/broccoli-slaw-q16847095-3.jpg",
+    "images/broccoli-slaw-q16847095/broccoli-slaw-q16847095-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16847095",
+    "themealdb": null
+  }
+}

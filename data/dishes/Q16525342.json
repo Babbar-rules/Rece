@@ -1,0 +1,19 @@
+{
+  "id": "Q16525342",
+  "name": "aemono",
+  "description": "Dressed dishes in Japanese cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aemono-q16525342/aemono-q16525342-1.jpg",
+    "images/aemono-q16525342/aemono-q16525342-2.jpg",
+    "images/aemono-q16525342/aemono-q16525342-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16525342",
+    "themealdb": null
+  }
+}

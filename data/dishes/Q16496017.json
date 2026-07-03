@@ -1,0 +1,20 @@
+{
+  "id": "Q16496017",
+  "name": "bacalhau à lagareiro",
+  "description": "Portuguese fish dish",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalhau-a-lagareiro-q16496017/bacalhau-a-lagareiro-q16496017-1.jpg",
+    "images/bacalhau-a-lagareiro-q16496017/bacalhau-a-lagareiro-q16496017-2.jpg",
+    "images/bacalhau-a-lagareiro-q16496017/bacalhau-a-lagareiro-q16496017-3.jpg",
+    "images/bacalhau-a-lagareiro-q16496017/bacalhau-a-lagareiro-q16496017-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16496017",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16480251",
+  "name": "bo ne",
+  "description": "",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bo-ne-q16480251/bo-ne-q16480251-1.jpg",
+    "images/bo-ne-q16480251/bo-ne-q16480251-2.jpg",
+    "images/bo-ne-q16480251/bo-ne-q16480251-3.jpg",
+    "images/bo-ne-q16480251/bo-ne-q16480251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16480251",
+    "themealdb": null
+  }
+}

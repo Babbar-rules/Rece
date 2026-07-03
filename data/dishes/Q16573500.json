@@ -1,0 +1,22 @@
+{
+  "id": "Q16573500",
+  "name": "Gushtab",
+  "description": "Meat balls dish of Kashmir",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Kashmiri cuisine"
+  ],
+  "images": [
+    "images/gushtab-q16573500/gushtab-q16573500-1.jpg",
+    "images/gushtab-q16573500/gushtab-q16573500-2.jpg",
+    "images/gushtab-q16573500/gushtab-q16573500-3.jpg",
+    "images/gushtab-q16573500/gushtab-q16573500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16573500",
+    "themealdb": null
+  }
+}
