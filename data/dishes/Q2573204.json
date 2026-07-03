@@ -1,0 +1,20 @@
+{
+  "id": "Q2573204",
+  "name": "sfiha",
+  "description": "pizza-like dish topped with mutton mince, originating from the Levant",
+  "nationality": [
+    "Bilad al-Sham"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sfiha-q2573204/sfiha-q2573204-1.jpg",
+    "images/sfiha-q2573204/sfiha-q2573204-2.jpg",
+    "images/sfiha-q2573204/sfiha-q2573204-3.jpg",
+    "images/sfiha-q2573204/sfiha-q2573204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2573204",
+    "themealdb": null
+  }
+}

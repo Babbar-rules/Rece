@@ -1,0 +1,20 @@
+{
+  "id": "Q2669274",
+  "name": "tandoor bread",
+  "description": "bread made in a tandoor",
+  "nationality": [
+    "Iraq"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tandoor-bread-q2669274/tandoor-bread-q2669274-1.jpg",
+    "images/tandoor-bread-q2669274/tandoor-bread-q2669274-2.jpg",
+    "images/tandoor-bread-q2669274/tandoor-bread-q2669274-3.jpg",
+    "images/tandoor-bread-q2669274/tandoor-bread-q2669274-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2669274",
+    "themealdb": null
+  }
+}

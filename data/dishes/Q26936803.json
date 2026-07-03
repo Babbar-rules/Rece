@@ -1,0 +1,18 @@
+{
+  "id": "Q26936803",
+  "name": "Shukto",
+  "description": "One kind of Bengali Cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shukto-q26936803/shukto-q26936803-1.jpg",
+    "images/shukto-q26936803/shukto-q26936803-2.jpg",
+    "images/shukto-q26936803/shukto-q26936803-3.jpg",
+    "images/shukto-q26936803/shukto-q26936803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26936803",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2601766",
+  "name": "yufka bread",
+  "description": "flatbread made with dough leaves",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yufka-bread-q2601766/yufka-bread-q2601766-1.jpg",
+    "images/yufka-bread-q2601766/yufka-bread-q2601766-2.jpg",
+    "images/yufka-bread-q2601766/yufka-bread-q2601766-3.jpg",
+    "images/yufka-bread-q2601766/yufka-bread-q2601766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2601766",
+    "themealdb": null
+  }
+}

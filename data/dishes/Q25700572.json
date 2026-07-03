@@ -1,0 +1,20 @@
+{
+  "id": "Q25700572",
+  "name": "arroz caldo",
+  "description": "Filipino rice and chicken gruel",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-caldo-q25700572/arroz-caldo-q25700572-1.jpg",
+    "images/arroz-caldo-q25700572/arroz-caldo-q25700572-2.jpg",
+    "images/arroz-caldo-q25700572/arroz-caldo-q25700572-3.jpg",
+    "images/arroz-caldo-q25700572/arroz-caldo-q25700572-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25700572",
+    "themealdb": null
+  }
+}

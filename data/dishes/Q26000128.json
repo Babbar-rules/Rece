@@ -1,0 +1,16 @@
+{
+  "id": "Q26000128",
+  "name": "stuffed chicken wings",
+  "description": "chicken wing dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-chicken-wings-q26000128/stuffed-chicken-wings-q26000128-1.jpg",
+    "images/stuffed-chicken-wings-q26000128/stuffed-chicken-wings-q26000128-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26000128",
+    "themealdb": null
+  }
+}

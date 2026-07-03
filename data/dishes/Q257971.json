@@ -1,0 +1,18 @@
+{
+  "id": "Q257971",
+  "name": "semolina pudding",
+  "description": "porridge-type pudding made from semolina",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/semolina-pudding-q257971/semolina-pudding-q257971-1.jpeg",
+    "images/semolina-pudding-q257971/semolina-pudding-q257971-2.png",
+    "images/semolina-pudding-q257971/semolina-pudding-q257971-3.jpg",
+    "images/semolina-pudding-q257971/semolina-pudding-q257971-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q257971",
+    "themealdb": null
+  }
+}

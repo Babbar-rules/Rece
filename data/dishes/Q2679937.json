@@ -1,0 +1,21 @@
+{
+  "id": "Q2679937",
+  "name": "pelmeni",
+  "description": "Russian dumplings",
+  "nationality": [],
+  "region_cuisine": [
+    "Soviet cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/pelmeni-q2679937/pelmeni-q2679937-1.jpg",
+    "images/pelmeni-q2679937/pelmeni-q2679937-2.jpg",
+    "images/pelmeni-q2679937/pelmeni-q2679937-3.jpg",
+    "images/pelmeni-q2679937/pelmeni-q2679937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2679937",
+    "themealdb": null
+  }
+}

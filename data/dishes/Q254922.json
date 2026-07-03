@@ -1,0 +1,24 @@
+{
+  "id": "Q254922",
+  "name": "Liptauer",
+  "description": "central European cheese-based spread",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [
+    "Slovak cuisine",
+    "Hungarian cuisine",
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/liptauer-q254922/liptauer-q254922-1.jpg",
+    "images/liptauer-q254922/liptauer-q254922-2.jpg",
+    "images/liptauer-q254922/liptauer-q254922-3.jpg",
+    "images/liptauer-q254922/liptauer-q254922-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q254922",
+    "themealdb": null
+  }
+}

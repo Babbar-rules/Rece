@@ -1,0 +1,22 @@
+{
+  "id": "Q2662315",
+  "name": "meatball sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/meatball-sandwich-q2662315/meatball-sandwich-q2662315-1.jpg",
+    "images/meatball-sandwich-q2662315/meatball-sandwich-q2662315-2.jpg",
+    "images/meatball-sandwich-q2662315/meatball-sandwich-q2662315-3.jpg",
+    "images/meatball-sandwich-q2662315/meatball-sandwich-q2662315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2662315",
+    "themealdb": null
+  }
+}

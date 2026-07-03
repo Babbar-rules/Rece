@@ -1,0 +1,20 @@
+{
+  "id": "Q2595324",
+  "name": "Wurstbrot",
+  "description": "A Wurstbrot is a slice of bread spread with slices of lunch meat or sausage.",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wurstbrot-q2595324/wurstbrot-q2595324-1.jpg",
+    "images/wurstbrot-q2595324/wurstbrot-q2595324-2.jpg",
+    "images/wurstbrot-q2595324/wurstbrot-q2595324-3.jpg",
+    "images/wurstbrot-q2595324/wurstbrot-q2595324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2595324",
+    "themealdb": null
+  }
+}

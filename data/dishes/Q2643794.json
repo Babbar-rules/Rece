@@ -1,0 +1,18 @@
+{
+  "id": "Q2643794",
+  "name": "tushonka",
+  "description": "Soviet canned meat product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tushonka-q2643794/tushonka-q2643794-1.jpg",
+    "images/tushonka-q2643794/tushonka-q2643794-2.jpg",
+    "images/tushonka-q2643794/tushonka-q2643794-3.jpg",
+    "images/tushonka-q2643794/tushonka-q2643794-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2643794",
+    "themealdb": null
+  }
+}

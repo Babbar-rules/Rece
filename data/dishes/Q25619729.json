@@ -1,0 +1,18 @@
+{
+  "id": "Q25619729",
+  "name": "Wet Tha Dote Htoe",
+  "description": "Burmese street food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wet-tha-dote-htoe-q25619729/wet-tha-dote-htoe-q25619729-1.jpg",
+    "images/wet-tha-dote-htoe-q25619729/wet-tha-dote-htoe-q25619729-2.jpg",
+    "images/wet-tha-dote-htoe-q25619729/wet-tha-dote-htoe-q25619729-3.jpg",
+    "images/wet-tha-dote-htoe-q25619729/wet-tha-dote-htoe-q25619729-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25619729",
+    "themealdb": null
+  }
+}

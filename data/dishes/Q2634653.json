@@ -1,0 +1,22 @@
+{
+  "id": "Q2634653",
+  "name": "coxinha",
+  "description": "popular food in Brazil",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/coxinha-q2634653/coxinha-q2634653-1.jpg",
+    "images/coxinha-q2634653/coxinha-q2634653-2.jpg",
+    "images/coxinha-q2634653/coxinha-q2634653-3.jpg",
+    "images/coxinha-q2634653/coxinha-q2634653-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2634653",
+    "themealdb": null
+  }
+}

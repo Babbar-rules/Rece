@@ -1,0 +1,20 @@
+{
+  "id": "Q2625025",
+  "name": "Zosui",
+  "description": "Japanese rice and vegetable soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zosui-q2625025/zosui-q2625025-1.jpg",
+    "images/zosui-q2625025/zosui-q2625025-2.jpg",
+    "images/zosui-q2625025/zosui-q2625025-3.jpg",
+    "images/zosui-q2625025/zosui-q2625025-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2625025",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2548408",
+  "name": "chicken tikka",
+  "description": "boneless chicken pieces cooked in a tandoor",
+  "nationality": [
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-tikka-q2548408/chicken-tikka-q2548408-1.jpg",
+    "images/chicken-tikka-q2548408/chicken-tikka-q2548408-2.jpg",
+    "images/chicken-tikka-q2548408/chicken-tikka-q2548408-3.jpg",
+    "images/chicken-tikka-q2548408/chicken-tikka-q2548408-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2548408",
+    "themealdb": null
+  }
+}

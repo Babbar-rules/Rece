@@ -1,0 +1,20 @@
+{
+  "id": "Q26693028",
+  "name": "Nazook",
+  "description": "Armenian pastry",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nazook-q26693028/nazook-q26693028-1.jpg",
+    "images/nazook-q26693028/nazook-q26693028-2.jpg",
+    "images/nazook-q26693028/nazook-q26693028-3.jpg",
+    "images/nazook-q26693028/nazook-q26693028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26693028",
+    "themealdb": null
+  }
+}

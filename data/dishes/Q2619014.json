@@ -1,0 +1,20 @@
+{
+  "id": "Q2619014",
+  "name": "Stip",
+  "description": "Dutch dish",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stip-q2619014/stip-q2619014-1.jpg",
+    "images/stip-q2619014/stip-q2619014-2.jpg",
+    "images/stip-q2619014/stip-q2619014-3.jpg",
+    "images/stip-q2619014/stip-q2619014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2619014",
+    "themealdb": null
+  }
+}

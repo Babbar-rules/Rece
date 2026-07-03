@@ -1,0 +1,19 @@
+{
+  "id": "Q25543169",
+  "name": "Nam phrik long ruea",
+  "description": "Thai dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nam-phrik-long-ruea-q25543169/nam-phrik-long-ruea-q25543169-1.jpg",
+    "images/nam-phrik-long-ruea-q25543169/nam-phrik-long-ruea-q25543169-2.jpg",
+    "images/nam-phrik-long-ruea-q25543169/nam-phrik-long-ruea-q25543169-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25543169",
+    "themealdb": null
+  }
+}

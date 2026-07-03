@@ -1,0 +1,21 @@
+{
+  "id": "Q261387",
+  "name": "apple strudel",
+  "description": "apple-filled pastry",
+  "nationality": [
+    "Italy",
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-strudel-q261387/apple-strudel-q261387-1.jpg",
+    "images/apple-strudel-q261387/apple-strudel-q261387-2.png",
+    "images/apple-strudel-q261387/apple-strudel-q261387-3.jpg",
+    "images/apple-strudel-q261387/apple-strudel-q261387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q261387",
+    "themealdb": null
+  }
+}

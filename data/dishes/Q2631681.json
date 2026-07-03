@@ -1,0 +1,23 @@
+{
+  "id": "Q2631681",
+  "name": "dressed herring",
+  "description": "Russian layered salad",
+  "nationality": [
+    "Soviet Union"
+  ],
+  "region_cuisine": [
+    "Soviet cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/dressed-herring-q2631681/dressed-herring-q2631681-1.jpg",
+    "images/dressed-herring-q2631681/dressed-herring-q2631681-2.jpg",
+    "images/dressed-herring-q2631681/dressed-herring-q2631681-3.jpg",
+    "images/dressed-herring-q2631681/dressed-herring-q2631681-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2631681",
+    "themealdb": null
+  }
+}

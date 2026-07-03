@@ -1,0 +1,20 @@
+{
+  "id": "Q25581115",
+  "name": "bakwan Malang",
+  "description": "Indonesian meatball soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bakwan-malang-q25581115/bakwan-malang-q25581115-1.jpg",
+    "images/bakwan-malang-q25581115/bakwan-malang-q25581115-2.png",
+    "images/bakwan-malang-q25581115/bakwan-malang-q25581115-3.jpg",
+    "images/bakwan-malang-q25581115/bakwan-malang-q25581115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25581115",
+    "themealdb": null
+  }
+}

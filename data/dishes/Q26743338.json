@@ -1,0 +1,20 @@
+{
+  "id": "Q26743338",
+  "name": "Hertzoggie",
+  "description": "jam-filled cookie",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [
+    "South African cuisine"
+  ],
+  "images": [
+    "images/hertzoggie-q26743338/hertzoggie-q26743338-1.jpg",
+    "images/hertzoggie-q26743338/hertzoggie-q26743338-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26743338",
+    "themealdb": null
+  }
+}

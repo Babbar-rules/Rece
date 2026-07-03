@@ -1,0 +1,20 @@
+{
+  "id": "Q255048",
+  "name": "tunnbröd",
+  "description": "bread",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tunnbrod-q255048/tunnbrod-q255048-1.jpg",
+    "images/tunnbrod-q255048/tunnbrod-q255048-2.jpg",
+    "images/tunnbrod-q255048/tunnbrod-q255048-3.jpg",
+    "images/tunnbrod-q255048/tunnbrod-q255048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q255048",
+    "themealdb": null
+  }
+}

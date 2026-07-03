@@ -1,0 +1,20 @@
+{
+  "id": "Q263675",
+  "name": "Punschkrapfen",
+  "description": "Austrian confection",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/punschkrapfen-q263675/punschkrapfen-q263675-1.jpg",
+    "images/punschkrapfen-q263675/punschkrapfen-q263675-2.jpg",
+    "images/punschkrapfen-q263675/punschkrapfen-q263675-3.jpg",
+    "images/punschkrapfen-q263675/punschkrapfen-q263675-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263675",
+    "themealdb": null
+  }
+}

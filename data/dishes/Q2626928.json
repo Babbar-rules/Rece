@@ -1,0 +1,20 @@
+{
+  "id": "Q2626928",
+  "name": "Calavera",
+  "description": "Mexican skull model made out of sugar or clay",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calavera-q2626928/calavera-q2626928-1.jpg",
+    "images/calavera-q2626928/calavera-q2626928-2.jpg",
+    "images/calavera-q2626928/calavera-q2626928-3.jpg",
+    "images/calavera-q2626928/calavera-q2626928-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2626928",
+    "themealdb": null
+  }
+}

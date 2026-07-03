@@ -1,0 +1,22 @@
+{
+  "id": "Q2563471",
+  "name": "Alheira",
+  "description": "type of Portuguese sausage",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/alheira-q2563471/alheira-q2563471-1.jpg",
+    "images/alheira-q2563471/alheira-q2563471-2.jpg",
+    "images/alheira-q2563471/alheira-q2563471-3.jpg",
+    "images/alheira-q2563471/alheira-q2563471-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2563471",
+    "themealdb": null
+  }
+}

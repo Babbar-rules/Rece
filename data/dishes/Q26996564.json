@@ -1,0 +1,18 @@
+{
+  "id": "Q26996564",
+  "name": "Bread and bakery products, others",
+  "description": "category of food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-and-bakery-products-others-q26996564/bread-and-bakery-products-others-q26996564-1.jpg",
+    "images/bread-and-bakery-products-others-q26996564/bread-and-bakery-products-others-q26996564-2.jpg",
+    "images/bread-and-bakery-products-others-q26996564/bread-and-bakery-products-others-q26996564-3.jpg",
+    "images/bread-and-bakery-products-others-q26996564/bread-and-bakery-products-others-q26996564-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26996564",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q25679249",
+  "name": "lingonberry pie",
+  "description": "type of pie filled with lingonberry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lingonberry-pie-q25679249/lingonberry-pie-q25679249-1.jpg",
+    "images/lingonberry-pie-q25679249/lingonberry-pie-q25679249-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25679249",
+    "themealdb": null
+  }
+}

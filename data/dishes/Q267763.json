@@ -1,0 +1,21 @@
+{
+  "id": "Q267763",
+  "name": "apple horseradish",
+  "description": "apple and horseradish sauce",
+  "nationality": [
+    "Austria",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-horseradish-q267763/apple-horseradish-q267763-1.jpg",
+    "images/apple-horseradish-q267763/apple-horseradish-q267763-2.jpg",
+    "images/apple-horseradish-q267763/apple-horseradish-q267763-3.jpg",
+    "images/apple-horseradish-q267763/apple-horseradish-q267763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q267763",
+    "themealdb": null
+  }
+}

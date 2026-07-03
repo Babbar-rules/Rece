@@ -1,0 +1,20 @@
+{
+  "id": "Q2595950",
+  "name": "wähe",
+  "description": "Swiss custard-filled tart",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/wahe-q2595950/wahe-q2595950-1.jpg",
+    "images/wahe-q2595950/wahe-q2595950-2.jpg",
+    "images/wahe-q2595950/wahe-q2595950-3.jpg",
+    "images/wahe-q2595950/wahe-q2595950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2595950",
+    "themealdb": null
+  }
+}

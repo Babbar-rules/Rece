@@ -1,0 +1,23 @@
+{
+  "id": "Q2666603",
+  "name": "chimichanga",
+  "description": "Mexican or Southwestern American dish consisting of a deep-fried burrito",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/chimichanga-q2666603/chimichanga-q2666603-1.jpg",
+    "images/chimichanga-q2666603/chimichanga-q2666603-2.jpg",
+    "images/chimichanga-q2666603/chimichanga-q2666603-3.jpg",
+    "images/chimichanga-q2666603/chimichanga-q2666603-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2666603",
+    "themealdb": null
+  }
+}

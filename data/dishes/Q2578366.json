@@ -1,0 +1,20 @@
+{
+  "id": "Q2578366",
+  "name": "cavatappi",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cavatappi-q2578366/cavatappi-q2578366-1.jpg",
+    "images/cavatappi-q2578366/cavatappi-q2578366-2.jpg",
+    "images/cavatappi-q2578366/cavatappi-q2578366-3.jpg",
+    "images/cavatappi-q2578366/cavatappi-q2578366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2578366",
+    "themealdb": null
+  }
+}

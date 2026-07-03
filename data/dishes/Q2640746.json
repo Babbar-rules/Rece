@@ -1,0 +1,20 @@
+{
+  "id": "Q2640746",
+  "name": "azu",
+  "description": "traditional Tatar dish",
+  "nationality": [
+    "Tatarstan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/azu-q2640746/azu-q2640746-1.jpg",
+    "images/azu-q2640746/azu-q2640746-2.jpg",
+    "images/azu-q2640746/azu-q2640746-3.jpg",
+    "images/azu-q2640746/azu-q2640746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2640746",
+    "themealdb": null
+  }
+}

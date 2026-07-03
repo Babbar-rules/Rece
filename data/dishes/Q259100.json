@@ -1,0 +1,20 @@
+{
+  "id": "Q259100",
+  "name": "trippa alla fiorentina",
+  "description": "Tuscan tripe dish from the Florence area",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trippa-alla-fiorentina-q259100/trippa-alla-fiorentina-q259100-1.png",
+    "images/trippa-alla-fiorentina-q259100/trippa-alla-fiorentina-q259100-2.png",
+    "images/trippa-alla-fiorentina-q259100/trippa-alla-fiorentina-q259100-3.jpg",
+    "images/trippa-alla-fiorentina-q259100/trippa-alla-fiorentina-q259100-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q259100",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q259148",
+  "name": "Schweinsbraten",
+  "description": "roasted pork, popular dish in Germany, Austria and Czech Republic",
+  "nationality": [
+    "Germanic people"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schweinsbraten-q259148/schweinsbraten-q259148-1.jpg",
+    "images/schweinsbraten-q259148/schweinsbraten-q259148-2.jpg",
+    "images/schweinsbraten-q259148/schweinsbraten-q259148-3.jpg",
+    "images/schweinsbraten-q259148/schweinsbraten-q259148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q259148",
+    "themealdb": null
+  }
+}

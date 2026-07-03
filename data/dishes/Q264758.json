@@ -1,0 +1,21 @@
+{
+  "id": "Q264758",
+  "name": "Mohnnudel",
+  "description": "potato dish",
+  "nationality": [
+    "Austria",
+    "Bohemia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mohnnudel-q264758/mohnnudel-q264758-1.jpg",
+    "images/mohnnudel-q264758/mohnnudel-q264758-2.jpg",
+    "images/mohnnudel-q264758/mohnnudel-q264758-3.jpg",
+    "images/mohnnudel-q264758/mohnnudel-q264758-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q264758",
+    "themealdb": null
+  }
+}

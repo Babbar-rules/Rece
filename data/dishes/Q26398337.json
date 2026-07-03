@@ -1,0 +1,20 @@
+{
+  "id": "Q26398337",
+  "name": "Iranian pizza",
+  "description": "style of pizza served in Iran and the Iranian diaspora",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iranian-pizza-q26398337/iranian-pizza-q26398337-1.jpg",
+    "images/iranian-pizza-q26398337/iranian-pizza-q26398337-2.jpg",
+    "images/iranian-pizza-q26398337/iranian-pizza-q26398337-3.jpg",
+    "images/iranian-pizza-q26398337/iranian-pizza-q26398337-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26398337",
+    "themealdb": null
+  }
+}

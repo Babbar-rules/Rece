@@ -1,0 +1,18 @@
+{
+  "id": "Q2579351",
+  "name": "Couque de Dinant",
+  "description": "very hard biscuit from the Belgian city of Dinant",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/couque-de-dinant-q2579351/couque-de-dinant-q2579351-1.jpg",
+    "images/couque-de-dinant-q2579351/couque-de-dinant-q2579351-2.png",
+    "images/couque-de-dinant-q2579351/couque-de-dinant-q2579351-3.png",
+    "images/couque-de-dinant-q2579351/couque-de-dinant-q2579351-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2579351",
+    "themealdb": null
+  }
+}

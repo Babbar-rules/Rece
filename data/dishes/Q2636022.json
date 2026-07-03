@@ -1,0 +1,20 @@
+{
+  "id": "Q2636022",
+  "name": "manakish",
+  "description": "Levantine flatbread dish",
+  "nationality": [
+    "Lebanon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/manakish-q2636022/manakish-q2636022-1.jpg",
+    "images/manakish-q2636022/manakish-q2636022-2.jpg",
+    "images/manakish-q2636022/manakish-q2636022-3.jpg",
+    "images/manakish-q2636022/manakish-q2636022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2636022",
+    "themealdb": null
+  }
+}

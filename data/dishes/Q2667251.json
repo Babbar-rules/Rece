@@ -1,0 +1,20 @@
+{
+  "id": "Q2667251",
+  "name": "rosette",
+  "description": "thin, cookie-like deep-fried pastry of Scandinavian origin",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosette-q2667251/rosette-q2667251-1.jpg",
+    "images/rosette-q2667251/rosette-q2667251-2.jpg",
+    "images/rosette-q2667251/rosette-q2667251-3.jpg",
+    "images/rosette-q2667251/rosette-q2667251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2667251",
+    "themealdb": null
+  }
+}

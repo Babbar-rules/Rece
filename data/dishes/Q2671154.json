@@ -1,0 +1,21 @@
+{
+  "id": "Q2671154",
+  "name": "Kitfo",
+  "description": "Ethiopian plate: marinated raw beef meat",
+  "nationality": [
+    "Ethiopia",
+    "Eritrea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kitfo-q2671154/kitfo-q2671154-1.jpg",
+    "images/kitfo-q2671154/kitfo-q2671154-2.jpg",
+    "images/kitfo-q2671154/kitfo-q2671154-3.jpg",
+    "images/kitfo-q2671154/kitfo-q2671154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2671154",
+    "themealdb": null
+  }
+}

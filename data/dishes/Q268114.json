@@ -1,0 +1,20 @@
+{
+  "id": "Q268114",
+  "name": "fisherman's soup",
+  "description": "Hungarian fish soup",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fishermans-soup-q268114/fishermans-soup-q268114-1.jpg",
+    "images/fishermans-soup-q268114/fishermans-soup-q268114-2.jpg",
+    "images/fishermans-soup-q268114/fishermans-soup-q268114-3.png",
+    "images/fishermans-soup-q268114/fishermans-soup-q268114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q268114",
+    "themealdb": null
+  }
+}

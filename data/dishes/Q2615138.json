@@ -1,0 +1,20 @@
+{
+  "id": "Q2615138",
+  "name": "shirred eggs",
+  "description": "eggs that have been baked in a flat-bottomed dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shirred-eggs-q2615138/shirred-eggs-q2615138-1.jpg",
+    "images/shirred-eggs-q2615138/shirred-eggs-q2615138-2.jpg",
+    "images/shirred-eggs-q2615138/shirred-eggs-q2615138-3.jpg",
+    "images/shirred-eggs-q2615138/shirred-eggs-q2615138-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2615138",
+    "themealdb": null
+  }
+}

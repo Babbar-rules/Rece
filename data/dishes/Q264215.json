@@ -1,0 +1,20 @@
+{
+  "id": "Q264215",
+  "name": "Salzburger Nockerl",
+  "description": "Austrian sweet soufflé",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salzburger-nockerl-q264215/salzburger-nockerl-q264215-1.jpg",
+    "images/salzburger-nockerl-q264215/salzburger-nockerl-q264215-2.jpg",
+    "images/salzburger-nockerl-q264215/salzburger-nockerl-q264215-3.jpg",
+    "images/salzburger-nockerl-q264215/salzburger-nockerl-q264215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q264215",
+    "themealdb": null
+  }
+}

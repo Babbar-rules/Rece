@@ -1,0 +1,22 @@
+{
+  "id": "Q2555488",
+  "name": "Christmas carp",
+  "description": "traditional fish dish",
+  "nationality": [
+    "Austria",
+    "Germany",
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-carp-q2555488/christmas-carp-q2555488-1.jpg",
+    "images/christmas-carp-q2555488/christmas-carp-q2555488-2.jpg",
+    "images/christmas-carp-q2555488/christmas-carp-q2555488-3.jpg",
+    "images/christmas-carp-q2555488/christmas-carp-q2555488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2555488",
+    "themealdb": null
+  }
+}

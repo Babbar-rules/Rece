@@ -1,0 +1,20 @@
+{
+  "id": "Q26212501",
+  "name": "Turkish style semolina dessert",
+  "description": "Turkish cuisine dessert, generally served with ice cream, sometimes in the hollow inside",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turkish-style-semolina-dessert-q26212501/turkish-style-semolina-dessert-q26212501-1.jpg",
+    "images/turkish-style-semolina-dessert-q26212501/turkish-style-semolina-dessert-q26212501-2.jpg",
+    "images/turkish-style-semolina-dessert-q26212501/turkish-style-semolina-dessert-q26212501-3.jpg",
+    "images/turkish-style-semolina-dessert-q26212501/turkish-style-semolina-dessert-q26212501-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26212501",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2669352",
+  "name": "medisterpølse",
+  "description": "type of Scandinavian sausage",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/medisterplse-q2669352/medisterplse-q2669352-1.jpg",
+    "images/medisterplse-q2669352/medisterplse-q2669352-2.jpg",
+    "images/medisterplse-q2669352/medisterplse-q2669352-3.jpg",
+    "images/medisterplse-q2669352/medisterplse-q2669352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2669352",
+    "themealdb": null
+  }
+}

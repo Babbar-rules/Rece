@@ -1,0 +1,20 @@
+{
+  "id": "Q25579358",
+  "name": "Tempe Bacem",
+  "description": "Traditional food of Indoensia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tempe-bacem-q25579358/tempe-bacem-q25579358-1.jpg",
+    "images/tempe-bacem-q25579358/tempe-bacem-q25579358-2.jpg",
+    "images/tempe-bacem-q25579358/tempe-bacem-q25579358-3.jpg",
+    "images/tempe-bacem-q25579358/tempe-bacem-q25579358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25579358",
+    "themealdb": null
+  }
+}

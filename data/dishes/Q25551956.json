@@ -1,0 +1,18 @@
+{
+  "id": "Q25551956",
+  "name": "Adai",
+  "description": "South Indian rice based tiffin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/adai-q25551956/adai-q25551956-1.jpg",
+    "images/adai-q25551956/adai-q25551956-2.jpg",
+    "images/adai-q25551956/adai-q25551956-3.png",
+    "images/adai-q25551956/adai-q25551956-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25551956",
+    "themealdb": null
+  }
+}

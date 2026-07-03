@@ -1,0 +1,22 @@
+{
+  "id": "Q267497",
+  "name": "Eintopf",
+  "description": "traditional German pot-stew",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/eintopf-q267497/eintopf-q267497-1.jpg",
+    "images/eintopf-q267497/eintopf-q267497-2.jpg",
+    "images/eintopf-q267497/eintopf-q267497-3.jpg",
+    "images/eintopf-q267497/eintopf-q267497-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q267497",
+    "themealdb": null
+  }
+}

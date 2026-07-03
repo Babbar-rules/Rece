@@ -1,0 +1,18 @@
+{
+  "id": "Q2631911",
+  "name": "Msemmen",
+  "description": "traditional flatbread from North Africa",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/msemmen-q2631911/msemmen-q2631911-1.jpg",
+    "images/msemmen-q2631911/msemmen-q2631911-2.jpg",
+    "images/msemmen-q2631911/msemmen-q2631911-3.jpg",
+    "images/msemmen-q2631911/msemmen-q2631911-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2631911",
+    "themealdb": null
+  }
+}

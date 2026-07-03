@@ -1,0 +1,18 @@
+{
+  "id": "Q2643588",
+  "name": "Hong Kong cream bun",
+  "description": "Chinese bun",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hong-kong-cream-bun-q2643588/hong-kong-cream-bun-q2643588-1.jpg",
+    "images/hong-kong-cream-bun-q2643588/hong-kong-cream-bun-q2643588-2.jpg",
+    "images/hong-kong-cream-bun-q2643588/hong-kong-cream-bun-q2643588-3.jpg",
+    "images/hong-kong-cream-bun-q2643588/hong-kong-cream-bun-q2643588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2643588",
+    "themealdb": null
+  }
+}

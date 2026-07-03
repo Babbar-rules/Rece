@@ -1,0 +1,20 @@
+{
+  "id": "Q262796",
+  "name": "manti",
+  "description": "dish",
+  "nationality": [
+    "Xinjiang"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/manti-q262796/manti-q262796-1.jpg",
+    "images/manti-q262796/manti-q262796-2.jpg",
+    "images/manti-q262796/manti-q262796-3.jpg",
+    "images/manti-q262796/manti-q262796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q262796",
+    "themealdb": null
+  }
+}

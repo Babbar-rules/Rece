@@ -1,0 +1,18 @@
+{
+  "id": "Q2572122",
+  "name": "pryanik",
+  "description": "Traditional Eastern European cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pryanik-q2572122/pryanik-q2572122-1.jpg",
+    "images/pryanik-q2572122/pryanik-q2572122-2.jpg",
+    "images/pryanik-q2572122/pryanik-q2572122-3.jpg",
+    "images/pryanik-q2572122/pryanik-q2572122-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2572122",
+    "themealdb": null
+  }
+}

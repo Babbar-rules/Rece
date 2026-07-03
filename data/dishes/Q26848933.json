@@ -1,0 +1,20 @@
+{
+  "id": "Q26848933",
+  "name": "military biscuit",
+  "description": "biscuit issued in the Swiss military",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/military-biscuit-q26848933/military-biscuit-q26848933-1.jpg",
+    "images/military-biscuit-q26848933/military-biscuit-q26848933-2.jpg",
+    "images/military-biscuit-q26848933/military-biscuit-q26848933-3.jpg",
+    "images/military-biscuit-q26848933/military-biscuit-q26848933-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26848933",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q263351",
+  "name": "Iekei Ramen",
+  "description": "type of ramen containing pork marrow, soy sauce broth and thick, straight noodles",
+  "nationality": [],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/iekei-ramen-q263351/iekei-ramen-q263351-1.jpg",
+    "images/iekei-ramen-q263351/iekei-ramen-q263351-2.jpg",
+    "images/iekei-ramen-q263351/iekei-ramen-q263351-3.jpg",
+    "images/iekei-ramen-q263351/iekei-ramen-q263351-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263351",
+    "themealdb": null
+  }
+}

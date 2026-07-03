@@ -1,0 +1,18 @@
+{
+  "id": "Q2598611",
+  "name": "Celebrations",
+  "description": "confectionery brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/celebrations-q2598611/celebrations-q2598611-1.jpg",
+    "images/celebrations-q2598611/celebrations-q2598611-2.jpg",
+    "images/celebrations-q2598611/celebrations-q2598611-3.jpg",
+    "images/celebrations-q2598611/celebrations-q2598611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2598611",
+    "themealdb": null
+  }
+}

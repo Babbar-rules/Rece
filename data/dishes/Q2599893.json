@@ -1,0 +1,22 @@
+{
+  "id": "Q2599893",
+  "name": "sufganiyah",
+  "description": "Round Hanukkah jelly doughnut",
+  "nationality": [
+    "Pale of Settlement"
+  ],
+  "region_cuisine": [
+    "Israeli cuisine"
+  ],
+  "images": [
+    "images/sufganiyah-q2599893/sufganiyah-q2599893-1.jpg",
+    "images/sufganiyah-q2599893/sufganiyah-q2599893-2.jpg",
+    "images/sufganiyah-q2599893/sufganiyah-q2599893-3.jpg",
+    "images/sufganiyah-q2599893/sufganiyah-q2599893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2599893",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2659824",
+  "name": "Papa rellena",
+  "description": "traditional dish in Peruvian cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papa-rellena-q2659824/papa-rellena-q2659824-1.jpg",
+    "images/papa-rellena-q2659824/papa-rellena-q2659824-2.jpg",
+    "images/papa-rellena-q2659824/papa-rellena-q2659824-3.png",
+    "images/papa-rellena-q2659824/papa-rellena-q2659824-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2659824",
+    "themealdb": null
+  }
+}

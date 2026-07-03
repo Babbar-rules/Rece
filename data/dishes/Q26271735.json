@@ -1,0 +1,18 @@
+{
+  "id": "Q26271735",
+  "name": "Granatsplitter",
+  "description": "sweet pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/granatsplitter-q26271735/granatsplitter-q26271735-1.jpg",
+    "images/granatsplitter-q26271735/granatsplitter-q26271735-2.jpg",
+    "images/granatsplitter-q26271735/granatsplitter-q26271735-3.jpg",
+    "images/granatsplitter-q26271735/granatsplitter-q26271735-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26271735",
+    "themealdb": null
+  }
+}

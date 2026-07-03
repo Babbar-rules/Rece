@@ -1,0 +1,20 @@
+{
+  "id": "Q2563305",
+  "name": "smultring",
+  "description": "Norwegian doughnut",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smultring-q2563305/smultring-q2563305-1.jpg",
+    "images/smultring-q2563305/smultring-q2563305-2.jpg",
+    "images/smultring-q2563305/smultring-q2563305-3.jpg",
+    "images/smultring-q2563305/smultring-q2563305-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2563305",
+    "themealdb": null
+  }
+}

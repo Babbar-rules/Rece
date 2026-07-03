@@ -1,0 +1,20 @@
+{
+  "id": "Q26706802",
+  "name": "Kilor",
+  "description": "Type of bread",
+  "nationality": [],
+  "region_cuisine": [
+    "Kurdish cuisine"
+  ],
+  "images": [
+    "images/kilor-q26706802/kilor-q26706802-1.jpg",
+    "images/kilor-q26706802/kilor-q26706802-2.jpg",
+    "images/kilor-q26706802/kilor-q26706802-3.jpg",
+    "images/kilor-q26706802/kilor-q26706802-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26706802",
+    "themealdb": null
+  }
+}

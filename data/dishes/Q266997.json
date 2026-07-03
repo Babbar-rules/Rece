@@ -1,0 +1,20 @@
+{
+  "id": "Q266997",
+  "name": "egg in the basket",
+  "description": "egg fried in a hole in a slice of bread",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/egg-in-the-basket-q266997/egg-in-the-basket-q266997-1.jpg",
+    "images/egg-in-the-basket-q266997/egg-in-the-basket-q266997-2.jpg",
+    "images/egg-in-the-basket-q266997/egg-in-the-basket-q266997-3.jpg",
+    "images/egg-in-the-basket-q266997/egg-in-the-basket-q266997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q266997",
+    "themealdb": null
+  }
+}

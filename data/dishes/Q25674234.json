@@ -1,0 +1,21 @@
+{
+  "id": "Q25674234",
+  "name": "Guthuk",
+  "description": "A traditional celebration involving preparation of Thukpa, a broth-based soup, with 9 ingredients on the 29th lunar day of the last month of the year.",
+  "nationality": [
+    "Tibet"
+  ],
+  "region_cuisine": [
+    "Tibetan cuisine"
+  ],
+  "images": [
+    "images/guthuk-q25674234/guthuk-q25674234-1.jpg",
+    "images/guthuk-q25674234/guthuk-q25674234-2.jpg",
+    "images/guthuk-q25674234/guthuk-q25674234-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25674234",
+    "themealdb": null
+  }
+}

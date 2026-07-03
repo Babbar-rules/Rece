@@ -1,0 +1,21 @@
+{
+  "id": "Q256622",
+  "name": "powidl",
+  "description": "zwetschgen spread",
+  "nationality": [
+    "Poland",
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/powidl-q256622/powidl-q256622-1.png",
+    "images/powidl-q256622/powidl-q256622-2.jpg",
+    "images/powidl-q256622/powidl-q256622-3.png",
+    "images/powidl-q256622/powidl-q256622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q256622",
+    "themealdb": null
+  }
+}

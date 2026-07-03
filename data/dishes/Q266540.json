@@ -1,0 +1,20 @@
+{
+  "id": "Q266540",
+  "name": "Kaiserschmarrn",
+  "description": "sweet Austrian dish, similar to a shredded pancake",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaiserschmarrn-q266540/kaiserschmarrn-q266540-1.jpg",
+    "images/kaiserschmarrn-q266540/kaiserschmarrn-q266540-2.jpg",
+    "images/kaiserschmarrn-q266540/kaiserschmarrn-q266540-3.jpg",
+    "images/kaiserschmarrn-q266540/kaiserschmarrn-q266540-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q266540",
+    "themealdb": null
+  }
+}

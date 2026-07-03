@@ -1,0 +1,20 @@
+{
+  "id": "Q2591051",
+  "name": "Tiết canh",
+  "description": "traditional dish of raw blood (commonly pork or duck) pudding served with cooked meat in northern Vietnamese cuisine",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiet-canh-q2591051/tiet-canh-q2591051-1.jpg",
+    "images/tiet-canh-q2591051/tiet-canh-q2591051-2.jpg",
+    "images/tiet-canh-q2591051/tiet-canh-q2591051-3.jpg",
+    "images/tiet-canh-q2591051/tiet-canh-q2591051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2591051",
+    "themealdb": null
+  }
+}

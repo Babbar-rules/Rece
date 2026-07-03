@@ -1,0 +1,18 @@
+{
+  "id": "Q26791887",
+  "name": "sweet pie",
+  "description": "pie which is not salty",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-pie-q26791887/sweet-pie-q26791887-1.jpg",
+    "images/sweet-pie-q26791887/sweet-pie-q26791887-2.jpg",
+    "images/sweet-pie-q26791887/sweet-pie-q26791887-3.jpg",
+    "images/sweet-pie-q26791887/sweet-pie-q26791887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26791887",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q25496702",
+  "name": "Šimtalapis",
+  "description": "type of pastry in the cuisine of Polish-Lithuanian Tatars",
+  "nationality": [
+    "Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/simtalapis-q25496702/simtalapis-q25496702-1.jpg",
+    "images/simtalapis-q25496702/simtalapis-q25496702-2.jpg",
+    "images/simtalapis-q25496702/simtalapis-q25496702-3.jpg",
+    "images/simtalapis-q25496702/simtalapis-q25496702-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25496702",
+    "themealdb": null
+  }
+}

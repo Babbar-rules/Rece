@@ -1,0 +1,20 @@
+{
+  "id": "Q260929",
+  "name": "St. Lucia bun",
+  "description": "Scandinavian dessert traditionally eaten on Saint Lucy's Day (13 Dec.), containing saffron and raisins, often in the form of a reversed S shape",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/st-lucia-bun-q260929/st-lucia-bun-q260929-1.jpg",
+    "images/st-lucia-bun-q260929/st-lucia-bun-q260929-2.jpg",
+    "images/st-lucia-bun-q260929/st-lucia-bun-q260929-3.jpg",
+    "images/st-lucia-bun-q260929/st-lucia-bun-q260929-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q260929",
+    "themealdb": null
+  }
+}

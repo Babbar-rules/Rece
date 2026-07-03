@@ -1,0 +1,27 @@
+{
+  "id": "Q2571599",
+  "name": "qatayef",
+  "description": "Middle Eastern dessert in the form of small pancakes stuffed with sweet filling",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Syrian cuisine",
+    "Jordanian cuisine",
+    "Egyptian cuisine",
+    "Palestinian cuisine",
+    "Lebanese cuisine",
+    "Levantine cuisine"
+  ],
+  "images": [
+    "images/qatayef-q2571599/qatayef-q2571599-1.jpg",
+    "images/qatayef-q2571599/qatayef-q2571599-2.jpg",
+    "images/qatayef-q2571599/qatayef-q2571599-3.jpg",
+    "images/qatayef-q2571599/qatayef-q2571599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2571599",
+    "themealdb": null
+  }
+}

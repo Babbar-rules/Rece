@@ -1,0 +1,18 @@
+{
+  "id": "Q2641090",
+  "name": "red caviar",
+  "description": "caviar made from the roe of salmon, trout, or cod",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/red-caviar-q2641090/red-caviar-q2641090-1.jpg",
+    "images/red-caviar-q2641090/red-caviar-q2641090-2.jpg",
+    "images/red-caviar-q2641090/red-caviar-q2641090-3.jpg",
+    "images/red-caviar-q2641090/red-caviar-q2641090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2641090",
+    "themealdb": null
+  }
+}

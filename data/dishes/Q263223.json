@@ -1,0 +1,20 @@
+{
+  "id": "Q263223",
+  "name": "Mozartkugel",
+  "description": "chocolate-covered filled confection invented in Salzburg, named after Mozart",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mozartkugel-q263223/mozartkugel-q263223-1.jpg",
+    "images/mozartkugel-q263223/mozartkugel-q263223-2.jpg",
+    "images/mozartkugel-q263223/mozartkugel-q263223-3.jpg",
+    "images/mozartkugel-q263223/mozartkugel-q263223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263223",
+    "themealdb": null
+  }
+}

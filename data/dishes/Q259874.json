@@ -1,0 +1,20 @@
+{
+  "id": "Q259874",
+  "name": "curry puff",
+  "description": "snack pie",
+  "nationality": [
+    "Malay Peninsula"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curry-puff-q259874/curry-puff-q259874-1.jpg",
+    "images/curry-puff-q259874/curry-puff-q259874-2.jpg",
+    "images/curry-puff-q259874/curry-puff-q259874-3.png",
+    "images/curry-puff-q259874/curry-puff-q259874-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q259874",
+    "themealdb": null
+  }
+}

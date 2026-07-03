@@ -1,0 +1,20 @@
+{
+  "id": "Q2580945",
+  "name": "warabimochi",
+  "description": "Japanese jelly-like confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/warabimochi-q2580945/warabimochi-q2580945-1.jpg",
+    "images/warabimochi-q2580945/warabimochi-q2580945-2.jpg",
+    "images/warabimochi-q2580945/warabimochi-q2580945-3.jpg",
+    "images/warabimochi-q2580945/warabimochi-q2580945-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2580945",
+    "themealdb": null
+  }
+}

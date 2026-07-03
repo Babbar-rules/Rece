@@ -1,0 +1,21 @@
+{
+  "id": "Q2663815",
+  "name": "mujadara",
+  "description": "dish of Levantine cuisine",
+  "nationality": [
+    "Palestine",
+    "Levant"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mujadara-q2663815/mujadara-q2663815-1.jpg",
+    "images/mujadara-q2663815/mujadara-q2663815-2.jpg",
+    "images/mujadara-q2663815/mujadara-q2663815-3.jpg",
+    "images/mujadara-q2663815/mujadara-q2663815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2663815",
+    "themealdb": null
+  }
+}

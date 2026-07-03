@@ -1,0 +1,20 @@
+{
+  "id": "Q263948",
+  "name": "žemlovka",
+  "description": "food",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zemlovka-q263948/zemlovka-q263948-1.jpg",
+    "images/zemlovka-q263948/zemlovka-q263948-2.jpg",
+    "images/zemlovka-q263948/zemlovka-q263948-3.jpg",
+    "images/zemlovka-q263948/zemlovka-q263948-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263948",
+    "themealdb": null
+  }
+}

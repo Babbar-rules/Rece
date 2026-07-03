@@ -1,0 +1,20 @@
+{
+  "id": "Q258279",
+  "name": "pancake soup",
+  "description": "food",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pancake-soup-q258279/pancake-soup-q258279-1.jpg",
+    "images/pancake-soup-q258279/pancake-soup-q258279-2.jpg",
+    "images/pancake-soup-q258279/pancake-soup-q258279-3.jpg",
+    "images/pancake-soup-q258279/pancake-soup-q258279-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q258279",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q2687127",
+  "name": "beijinho",
+  "description": "Brazilian birthday party candy",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/beijinho-q2687127/beijinho-q2687127-1.jpg",
+    "images/beijinho-q2687127/beijinho-q2687127-2.jpg",
+    "images/beijinho-q2687127/beijinho-q2687127-3.jpg",
+    "images/beijinho-q2687127/beijinho-q2687127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2687127",
+    "themealdb": null
+  }
+}

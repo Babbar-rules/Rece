@@ -1,0 +1,22 @@
+{
+  "id": "Q26081",
+  "name": "Shark Fin Soup",
+  "description": "Soup's item of Chinese cuisine",
+  "nationality": [
+    "Ming dynasty"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/shark-fin-soup-q26081/shark-fin-soup-q26081-1.jpg",
+    "images/shark-fin-soup-q26081/shark-fin-soup-q26081-2.jpg",
+    "images/shark-fin-soup-q26081/shark-fin-soup-q26081-3.jpg",
+    "images/shark-fin-soup-q26081/shark-fin-soup-q26081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26081",
+    "themealdb": null
+  }
+}

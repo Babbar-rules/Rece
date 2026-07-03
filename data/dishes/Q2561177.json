@@ -1,0 +1,22 @@
+{
+  "id": "Q2561177",
+  "name": "lūʻau",
+  "description": "native Hawaiian cuisine dish",
+  "nationality": [
+    "Polynesia"
+  ],
+  "region_cuisine": [
+    "Polynesian cuisine"
+  ],
+  "images": [
+    "images/luau-q2561177/luau-q2561177-1.jpg",
+    "images/luau-q2561177/luau-q2561177-2.jpg",
+    "images/luau-q2561177/luau-q2561177-3.jpg",
+    "images/luau-q2561177/luau-q2561177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2561177",
+    "themealdb": null
+  }
+}

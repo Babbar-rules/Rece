@@ -1,0 +1,22 @@
+{
+  "id": "Q2604496",
+  "name": "Matnakash",
+  "description": "Armenian bread",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/matnakash-q2604496/matnakash-q2604496-1.jpg",
+    "images/matnakash-q2604496/matnakash-q2604496-2.jpg",
+    "images/matnakash-q2604496/matnakash-q2604496-3.jpg",
+    "images/matnakash-q2604496/matnakash-q2604496-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2604496",
+    "themealdb": null
+  }
+}

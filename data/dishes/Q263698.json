@@ -1,0 +1,20 @@
+{
+  "id": "Q263698",
+  "name": "milk-cream strudel",
+  "description": "food",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-cream-strudel-q263698/milk-cream-strudel-q263698-1.jpg",
+    "images/milk-cream-strudel-q263698/milk-cream-strudel-q263698-2.jpg",
+    "images/milk-cream-strudel-q263698/milk-cream-strudel-q263698-3.jpg",
+    "images/milk-cream-strudel-q263698/milk-cream-strudel-q263698-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q263698",
+    "themealdb": null
+  }
+}

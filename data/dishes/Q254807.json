@@ -1,0 +1,22 @@
+{
+  "id": "Q254807",
+  "name": "Älplermagronen",
+  "description": "dish from the Swiss Alps",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/alplermagronen-q254807/alplermagronen-q254807-1.jpg",
+    "images/alplermagronen-q254807/alplermagronen-q254807-2.jpg",
+    "images/alplermagronen-q254807/alplermagronen-q254807-3.jpg",
+    "images/alplermagronen-q254807/alplermagronen-q254807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q254807",
+    "themealdb": null
+  }
+}

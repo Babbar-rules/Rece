@@ -1,0 +1,20 @@
+{
+  "id": "Q2632589",
+  "name": "lazanki",
+  "description": "type of pasta and dishes made with it in Polish, Lithuanian, Belarusian, Russian, Ukrainian cuisine",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lazanki-q2632589/lazanki-q2632589-1.jpg",
+    "images/lazanki-q2632589/lazanki-q2632589-2.jpg",
+    "images/lazanki-q2632589/lazanki-q2632589-3.jpg",
+    "images/lazanki-q2632589/lazanki-q2632589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2632589",
+    "themealdb": null
+  }
+}

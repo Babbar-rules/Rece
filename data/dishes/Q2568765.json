@@ -1,0 +1,23 @@
+{
+  "id": "Q2568765",
+  "name": "Maldive fish",
+  "description": "cured tuna traditionally produced in Maldives",
+  "nationality": [
+    "Maldives"
+  ],
+  "region_cuisine": [
+    "Maldivian cuisine",
+    "Sri Lankan cuisine"
+  ],
+  "images": [
+    "images/maldive-fish-q2568765/maldive-fish-q2568765-1.jpg",
+    "images/maldive-fish-q2568765/maldive-fish-q2568765-2.jpg",
+    "images/maldive-fish-q2568765/maldive-fish-q2568765-3.jpg",
+    "images/maldive-fish-q2568765/maldive-fish-q2568765-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2568765",
+    "themealdb": null
+  }
+}

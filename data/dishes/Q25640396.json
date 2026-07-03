@@ -1,0 +1,18 @@
+{
+  "id": "Q25640396",
+  "name": "chicken ragout",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-ragout-q25640396/chicken-ragout-q25640396-1.jpg",
+    "images/chicken-ragout-q25640396/chicken-ragout-q25640396-2.jpg",
+    "images/chicken-ragout-q25640396/chicken-ragout-q25640396-3.jpg",
+    "images/chicken-ragout-q25640396/chicken-ragout-q25640396-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25640396",
+    "themealdb": null
+  }
+}

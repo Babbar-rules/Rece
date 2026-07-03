@@ -1,0 +1,22 @@
+{
+  "id": "Q2622030",
+  "name": "kharcho",
+  "description": "soup",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/kharcho-q2622030/kharcho-q2622030-1.jpg",
+    "images/kharcho-q2622030/kharcho-q2622030-2.jpg",
+    "images/kharcho-q2622030/kharcho-q2622030-3.png",
+    "images/kharcho-q2622030/kharcho-q2622030-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2622030",
+    "themealdb": null
+  }
+}

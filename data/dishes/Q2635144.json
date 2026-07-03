@@ -1,0 +1,26 @@
+{
+  "id": "Q2635144",
+  "name": "sorrel soup",
+  "description": "Eastern European dish",
+  "nationality": [
+    "Eastern Europe"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "Jewish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/sorrel-soup-q2635144/sorrel-soup-q2635144-1.jpg",
+    "images/sorrel-soup-q2635144/sorrel-soup-q2635144-2.jpg",
+    "images/sorrel-soup-q2635144/sorrel-soup-q2635144-3.jpg",
+    "images/sorrel-soup-q2635144/sorrel-soup-q2635144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2635144",
+    "themealdb": null
+  }
+}

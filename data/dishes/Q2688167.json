@@ -1,0 +1,18 @@
+{
+  "id": "Q2688167",
+  "name": "Indian bread",
+  "description": "type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/indian-bread-q2688167/indian-bread-q2688167-1.jpg",
+    "images/indian-bread-q2688167/indian-bread-q2688167-2.jpg",
+    "images/indian-bread-q2688167/indian-bread-q2688167-3.jpg",
+    "images/indian-bread-q2688167/indian-bread-q2688167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2688167",
+    "themealdb": null
+  }
+}

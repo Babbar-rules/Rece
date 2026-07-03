@@ -1,0 +1,16 @@
+{
+  "id": "Q2674820",
+  "name": "Hubertus bread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hubertus-bread-q2674820/hubertus-bread-q2674820-1.png",
+    "images/hubertus-bread-q2674820/hubertus-bread-q2674820-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2674820",
+    "themealdb": null
+  }
+}

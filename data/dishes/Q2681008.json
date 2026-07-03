@@ -1,0 +1,22 @@
+{
+  "id": "Q2681008",
+  "name": "huevos rancheros",
+  "description": "Mexican breakfast dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/huevos-rancheros-q2681008/huevos-rancheros-q2681008-1.jpg",
+    "images/huevos-rancheros-q2681008/huevos-rancheros-q2681008-2.jpg",
+    "images/huevos-rancheros-q2681008/huevos-rancheros-q2681008-3.jpg",
+    "images/huevos-rancheros-q2681008/huevos-rancheros-q2681008-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2681008",
+    "themealdb": null
+  }
+}

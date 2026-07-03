@@ -1,0 +1,18 @@
+{
+  "id": "Q2596286",
+  "name": "Burger King chicken nuggets",
+  "description": "type of chicken product sold by the international fast food restaurant chain Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-chicken-nuggets-q2596286/burger-king-chicken-nuggets-q2596286-1.jpg",
+    "images/burger-king-chicken-nuggets-q2596286/burger-king-chicken-nuggets-q2596286-2.jpg",
+    "images/burger-king-chicken-nuggets-q2596286/burger-king-chicken-nuggets-q2596286-3.jpg",
+    "images/burger-king-chicken-nuggets-q2596286/burger-king-chicken-nuggets-q2596286-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2596286",
+    "themealdb": null
+  }
+}

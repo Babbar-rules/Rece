@@ -1,0 +1,18 @@
+{
+  "id": "Q2585262",
+  "name": "Swedish white bread",
+  "description": "Dutch bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/swedish-white-bread-q2585262/swedish-white-bread-q2585262-1.jpg",
+    "images/swedish-white-bread-q2585262/swedish-white-bread-q2585262-2.jpg",
+    "images/swedish-white-bread-q2585262/swedish-white-bread-q2585262-3.jpg",
+    "images/swedish-white-bread-q2585262/swedish-white-bread-q2585262-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2585262",
+    "themealdb": null
+  }
+}

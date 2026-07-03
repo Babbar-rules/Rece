@@ -1,0 +1,20 @@
+{
+  "id": "Q2564638",
+  "name": "bananas Foster",
+  "description": "fried dessert made from bananas, dough, a buttery sauce, and ice cream",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bananas-foster-q2564638/bananas-foster-q2564638-1.jpg",
+    "images/bananas-foster-q2564638/bananas-foster-q2564638-2.jpg",
+    "images/bananas-foster-q2564638/bananas-foster-q2564638-3.jpg",
+    "images/bananas-foster-q2564638/bananas-foster-q2564638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2564638",
+    "themealdb": null
+  }
+}

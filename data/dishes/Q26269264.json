@@ -1,0 +1,18 @@
+{
+  "id": "Q26269264",
+  "name": "Pförtchen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pfortchen-q26269264/pfortchen-q26269264-1.jpg",
+    "images/pfortchen-q26269264/pfortchen-q26269264-2.jpg",
+    "images/pfortchen-q26269264/pfortchen-q26269264-3.jpg",
+    "images/pfortchen-q26269264/pfortchen-q26269264-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26269264",
+    "themealdb": null
+  }
+}

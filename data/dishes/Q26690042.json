@@ -1,0 +1,22 @@
+{
+  "id": "Q26690042",
+  "name": "Confetti di Sulmona",
+  "description": "candy-coated almonds",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Abruzzese cuisine"
+  ],
+  "images": [
+    "images/confetti-di-sulmona-q26690042/confetti-di-sulmona-q26690042-1.jpg",
+    "images/confetti-di-sulmona-q26690042/confetti-di-sulmona-q26690042-2.jpg",
+    "images/confetti-di-sulmona-q26690042/confetti-di-sulmona-q26690042-3.jpg",
+    "images/confetti-di-sulmona-q26690042/confetti-di-sulmona-q26690042-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26690042",
+    "themealdb": null
+  }
+}

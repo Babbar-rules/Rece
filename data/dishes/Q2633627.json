@@ -1,0 +1,24 @@
+{
+  "id": "Q2633627",
+  "name": "Puchero",
+  "description": "Spanish and South American stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Uruguayan cuisine",
+    "Colombian cuisine",
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/puchero-q2633627/puchero-q2633627-1.jpg",
+    "images/puchero-q2633627/puchero-q2633627-2.jpg",
+    "images/puchero-q2633627/puchero-q2633627-3.jpg",
+    "images/puchero-q2633627/puchero-q2633627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2633627",
+    "themealdb": null
+  }
+}

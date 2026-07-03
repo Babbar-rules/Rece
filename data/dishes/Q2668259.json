@@ -1,0 +1,20 @@
+{
+  "id": "Q2668259",
+  "name": "popara",
+  "description": "bread and broth dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/popara-q2668259/popara-q2668259-1.jpg",
+    "images/popara-q2668259/popara-q2668259-2.jpg",
+    "images/popara-q2668259/popara-q2668259-3.jpg",
+    "images/popara-q2668259/popara-q2668259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2668259",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q25631239",
+  "name": "bantan",
+  "description": "Mongolian soup",
+  "nationality": [
+    "Mongolia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bantan-q25631239/bantan-q25631239-1.jpg",
+    "images/bantan-q25631239/bantan-q25631239-2.jpg",
+    "images/bantan-q25631239/bantan-q25631239-3.jpg",
+    "images/bantan-q25631239/bantan-q25631239-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25631239",
+    "themealdb": null
+  }
+}

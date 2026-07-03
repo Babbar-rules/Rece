@@ -1,0 +1,21 @@
+{
+  "id": "Q2631692",
+  "name": "almond paste",
+  "description": "sweet food",
+  "nationality": [
+    "Italy",
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/almond-paste-q2631692/almond-paste-q2631692-1.jpg",
+    "images/almond-paste-q2631692/almond-paste-q2631692-2.jpg",
+    "images/almond-paste-q2631692/almond-paste-q2631692-3.jpg",
+    "images/almond-paste-q2631692/almond-paste-q2631692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2631692",
+    "themealdb": null
+  }
+}

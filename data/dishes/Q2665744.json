@@ -1,0 +1,18 @@
+{
+  "id": "Q2665744",
+  "name": "humita",
+  "description": "dish prepared in Chile, Perú, Argentina, Bolivia, Ecuador and Colombia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/humita-q2665744/humita-q2665744-1.jpg",
+    "images/humita-q2665744/humita-q2665744-2.jpg",
+    "images/humita-q2665744/humita-q2665744-3.jpg",
+    "images/humita-q2665744/humita-q2665744-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2665744",
+    "themealdb": null
+  }
+}

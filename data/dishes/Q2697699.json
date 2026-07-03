@@ -1,0 +1,21 @@
+{
+  "id": "Q2697699",
+  "name": "Escalivada",
+  "description": "traditional food from Eastern Spain and southern France",
+  "nationality": [
+    "Spain",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/escalivada-q2697699/escalivada-q2697699-1.jpg",
+    "images/escalivada-q2697699/escalivada-q2697699-2.jpg",
+    "images/escalivada-q2697699/escalivada-q2697699-3.jpg",
+    "images/escalivada-q2697699/escalivada-q2697699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2697699",
+    "themealdb": null
+  }
+}

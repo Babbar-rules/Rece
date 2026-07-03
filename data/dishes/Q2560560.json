@@ -1,0 +1,21 @@
+{
+  "id": "Q2560560",
+  "name": "Blodpalt",
+  "description": "Northern Finnish dumplings made with flour and blood",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [
+    "Latvian cuisine",
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/blodpalt-q2560560/blodpalt-q2560560-1.jpg",
+    "images/blodpalt-q2560560/blodpalt-q2560560-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2560560",
+    "themealdb": null
+  }
+}
