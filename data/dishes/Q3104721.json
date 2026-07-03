@@ -1,0 +1,23 @@
+{
+  "id": "Q3104721",
+  "name": "Cioppino",
+  "description": "fish stew originating in San Francisco",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Italian cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/cioppino-q3104721/cioppino-q3104721-1.jpg",
+    "images/cioppino-q3104721/cioppino-q3104721-2.jpg",
+    "images/cioppino-q3104721/cioppino-q3104721-3.jpg",
+    "images/cioppino-q3104721/cioppino-q3104721-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3104721",
+    "themealdb": null
+  }
+}

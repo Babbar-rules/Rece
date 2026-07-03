@@ -1,0 +1,18 @@
+{
+  "id": "Q3122808",
+  "name": "Gâteau de Saint-Genix",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-de-saint-genix-q3122808/gateau-de-saint-genix-q3122808-1.jpg",
+    "images/gateau-de-saint-genix-q3122808/gateau-de-saint-genix-q3122808-2.jpg",
+    "images/gateau-de-saint-genix-q3122808/gateau-de-saint-genix-q3122808-3.jpg",
+    "images/gateau-de-saint-genix-q3122808/gateau-de-saint-genix-q3122808-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3122808",
+    "themealdb": null
+  }
+}

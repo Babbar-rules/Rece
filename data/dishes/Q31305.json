@@ -1,0 +1,21 @@
+{
+  "id": "Q31305",
+  "name": "Mars",
+  "description": "chocolate bar brand",
+  "nationality": [
+    "United States",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mars-q31305/mars-q31305-1.jpg",
+    "images/mars-q31305/mars-q31305-2.jpg",
+    "images/mars-q31305/mars-q31305-3.jpg",
+    "images/mars-q31305/mars-q31305-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31305",
+    "themealdb": null
+  }
+}

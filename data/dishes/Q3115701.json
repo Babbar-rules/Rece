@@ -1,0 +1,18 @@
+{
+  "id": "Q3115701",
+  "name": "Gratin savoyard",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gratin-savoyard-q3115701/gratin-savoyard-q3115701-1.jpg",
+    "images/gratin-savoyard-q3115701/gratin-savoyard-q3115701-2.jpg",
+    "images/gratin-savoyard-q3115701/gratin-savoyard-q3115701-3.jpg",
+    "images/gratin-savoyard-q3115701/gratin-savoyard-q3115701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3115701",
+    "themealdb": null
+  }
+}

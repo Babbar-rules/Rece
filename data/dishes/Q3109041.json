@@ -1,0 +1,20 @@
+{
+  "id": "Q3109041",
+  "name": "Kaki no tane",
+  "description": "Japanese snack food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaki-no-tane-q3109041/kaki-no-tane-q3109041-1.jpg",
+    "images/kaki-no-tane-q3109041/kaki-no-tane-q3109041-2.jpg",
+    "images/kaki-no-tane-q3109041/kaki-no-tane-q3109041-3.jpeg",
+    "images/kaki-no-tane-q3109041/kaki-no-tane-q3109041-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3109041",
+    "themealdb": null
+  }
+}

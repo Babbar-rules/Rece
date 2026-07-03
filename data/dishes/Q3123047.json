@@ -1,0 +1,25 @@
+{
+  "id": "Q3123047",
+  "name": "Smörgåstårta",
+  "description": "Swedish dish made of bread and creamy fillings",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Estonian cuisine",
+    "Icelandic cuisine",
+    "Swedish cuisine",
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/smorgastarta-q3123047/smorgastarta-q3123047-1.jpg",
+    "images/smorgastarta-q3123047/smorgastarta-q3123047-2.jpg",
+    "images/smorgastarta-q3123047/smorgastarta-q3123047-3.jpg",
+    "images/smorgastarta-q3123047/smorgastarta-q3123047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3123047",
+    "themealdb": null
+  }
+}

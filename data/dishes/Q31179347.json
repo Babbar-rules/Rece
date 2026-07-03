@@ -1,0 +1,22 @@
+{
+  "id": "Q31179347",
+  "name": "Yangnyeom chicken",
+  "description": "Korean fried chicken with spicy sauce",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/yangnyeom-chicken-q31179347/yangnyeom-chicken-q31179347-1.jpg",
+    "images/yangnyeom-chicken-q31179347/yangnyeom-chicken-q31179347-2.jpg",
+    "images/yangnyeom-chicken-q31179347/yangnyeom-chicken-q31179347-3.jpg",
+    "images/yangnyeom-chicken-q31179347/yangnyeom-chicken-q31179347-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31179347",
+    "themealdb": null
+  }
+}

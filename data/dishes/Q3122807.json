@@ -1,0 +1,18 @@
+{
+  "id": "Q3122807",
+  "name": "Gâteau battu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-battu-q3122807/gateau-battu-q3122807-1.jpg",
+    "images/gateau-battu-q3122807/gateau-battu-q3122807-2.jpg",
+    "images/gateau-battu-q3122807/gateau-battu-q3122807-3.jpg",
+    "images/gateau-battu-q3122807/gateau-battu-q3122807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3122807",
+    "themealdb": null
+  }
+}

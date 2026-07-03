@@ -1,0 +1,20 @@
+{
+  "id": "Q3104777",
+  "name": "Ghapama",
+  "description": "Armenian stuffed pumpkin dish",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ghapama-q3104777/ghapama-q3104777-1.jpg",
+    "images/ghapama-q3104777/ghapama-q3104777-2.jpg",
+    "images/ghapama-q3104777/ghapama-q3104777-3.jpg",
+    "images/ghapama-q3104777/ghapama-q3104777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3104777",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3108258",
+  "name": "Hawaian shave ice",
+  "description": "Ice-based dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hawaian-shave-ice-q3108258/hawaian-shave-ice-q3108258-1.jpg",
+    "images/hawaian-shave-ice-q3108258/hawaian-shave-ice-q3108258-2.jpg",
+    "images/hawaian-shave-ice-q3108258/hawaian-shave-ice-q3108258-3.jpg",
+    "images/hawaian-shave-ice-q3108258/hawaian-shave-ice-q3108258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3108258",
+    "themealdb": null
+  }
+}

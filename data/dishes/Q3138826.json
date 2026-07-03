@@ -1,0 +1,20 @@
+{
+  "id": "Q3138826",
+  "name": "Hmiss",
+  "description": "Algerian salad of peppers",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hmiss-q3138826/hmiss-q3138826-1.jpg",
+    "images/hmiss-q3138826/hmiss-q3138826-2.jpg",
+    "images/hmiss-q3138826/hmiss-q3138826-3.jpg",
+    "images/hmiss-q3138826/hmiss-q3138826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3138826",
+    "themealdb": null
+  }
+}

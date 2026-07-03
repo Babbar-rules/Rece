@@ -1,0 +1,20 @@
+{
+  "id": "Q3108252",
+  "name": "Plombières",
+  "description": "style of ice cream",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/plombieres-q3108252/plombieres-q3108252-1.jpg",
+    "images/plombieres-q3108252/plombieres-q3108252-2.jpg",
+    "images/plombieres-q3108252/plombieres-q3108252-3.jpg",
+    "images/plombieres-q3108252/plombieres-q3108252-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3108252",
+    "themealdb": null
+  }
+}

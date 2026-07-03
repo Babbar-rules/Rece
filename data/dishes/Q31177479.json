@@ -1,0 +1,20 @@
+{
+  "id": "Q31177479",
+  "name": "saeng-yukhoe",
+  "description": "",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saeng-yukhoe-q31177479/saeng-yukhoe-q31177479-1.jpg",
+    "images/saeng-yukhoe-q31177479/saeng-yukhoe-q31177479-2.jpg",
+    "images/saeng-yukhoe-q31177479/saeng-yukhoe-q31177479-3.jpg",
+    "images/saeng-yukhoe-q31177479/saeng-yukhoe-q31177479-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31177479",
+    "themealdb": null
+  }
+}

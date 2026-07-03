@@ -1,0 +1,22 @@
+{
+  "id": "Q314612",
+  "name": "Schläsches Himmelreich",
+  "description": "",
+  "nationality": [
+    "Silesia"
+  ],
+  "region_cuisine": [
+    "Silesian cuisine"
+  ],
+  "images": [
+    "images/schlasches-himmelreich-q314612/schlasches-himmelreich-q314612-1.jpg",
+    "images/schlasches-himmelreich-q314612/schlasches-himmelreich-q314612-2.jpg",
+    "images/schlasches-himmelreich-q314612/schlasches-himmelreich-q314612-3.jpg",
+    "images/schlasches-himmelreich-q314612/schlasches-himmelreich-q314612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q314612",
+    "themealdb": null
+  }
+}

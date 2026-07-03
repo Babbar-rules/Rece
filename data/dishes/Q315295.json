@@ -1,0 +1,21 @@
+{
+  "id": "Q315295",
+  "name": "Eierschecke",
+  "description": "confectionery speciality from Saxony and Thuringia",
+  "nationality": [
+    "Saxony",
+    "Thuringia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eierschecke-q315295/eierschecke-q315295-1.jpg",
+    "images/eierschecke-q315295/eierschecke-q315295-2.jpg",
+    "images/eierschecke-q315295/eierschecke-q315295-3.jpg",
+    "images/eierschecke-q315295/eierschecke-q315295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q315295",
+    "themealdb": null
+  }
+}

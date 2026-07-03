@@ -1,0 +1,20 @@
+{
+  "id": "Q3094707",
+  "name": "Tarte Bressane",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-bressane-q3094707/tarte-bressane-q3094707-1.jpg",
+    "images/tarte-bressane-q3094707/tarte-bressane-q3094707-2.jpg",
+    "images/tarte-bressane-q3094707/tarte-bressane-q3094707-3.jpg",
+    "images/tarte-bressane-q3094707/tarte-bressane-q3094707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3094707",
+    "themealdb": null
+  }
+}

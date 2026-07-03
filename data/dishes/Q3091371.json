@@ -1,0 +1,18 @@
+{
+  "id": "Q3091371",
+  "name": "fèves au lard",
+  "description": "traditional Québécois dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/feves-au-lard-q3091371/feves-au-lard-q3091371-1.jpg",
+    "images/feves-au-lard-q3091371/feves-au-lard-q3091371-2.jpg",
+    "images/feves-au-lard-q3091371/feves-au-lard-q3091371-3.jpg",
+    "images/feves-au-lard-q3091371/feves-au-lard-q3091371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3091371",
+    "themealdb": null
+  }
+}

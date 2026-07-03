@@ -1,0 +1,22 @@
+{
+  "id": "Q3108889",
+  "name": "Kusa mochi",
+  "description": "type of mochi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/kusa-mochi-q3108889/kusa-mochi-q3108889-1.jpg",
+    "images/kusa-mochi-q3108889/kusa-mochi-q3108889-2.jpg",
+    "images/kusa-mochi-q3108889/kusa-mochi-q3108889-3.jpg",
+    "images/kusa-mochi-q3108889/kusa-mochi-q3108889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3108889",
+    "themealdb": null
+  }
+}

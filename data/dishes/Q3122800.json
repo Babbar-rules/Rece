@@ -1,0 +1,18 @@
+{
+  "id": "Q3122800",
+  "name": "White wine cookies",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-wine-cookies-q3122800/white-wine-cookies-q3122800-1.jpg",
+    "images/white-wine-cookies-q3122800/white-wine-cookies-q3122800-2.jpg",
+    "images/white-wine-cookies-q3122800/white-wine-cookies-q3122800-3.jpg",
+    "images/white-wine-cookies-q3122800/white-wine-cookies-q3122800-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3122800",
+    "themealdb": null
+  }
+}

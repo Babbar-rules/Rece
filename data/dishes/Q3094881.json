@@ -1,0 +1,20 @@
+{
+  "id": "Q3094881",
+  "name": "Hachee",
+  "description": "Dutch stew",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hachee-q3094881/hachee-q3094881-1.jpeg",
+    "images/hachee-q3094881/hachee-q3094881-2.jpeg",
+    "images/hachee-q3094881/hachee-q3094881-3.jpg",
+    "images/hachee-q3094881/hachee-q3094881-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3094881",
+    "themealdb": null
+  }
+}

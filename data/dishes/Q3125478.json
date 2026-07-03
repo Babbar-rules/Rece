@@ -1,0 +1,20 @@
+{
+  "id": "Q3125478",
+  "name": "Jodenkoek",
+  "description": "Dutch big, flat, round shortbread cookie",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jodenkoek-q3125478/jodenkoek-q3125478-1.jpg",
+    "images/jodenkoek-q3125478/jodenkoek-q3125478-2.jpg",
+    "images/jodenkoek-q3125478/jodenkoek-q3125478-3.jpg",
+    "images/jodenkoek-q3125478/jodenkoek-q3125478-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3125478",
+    "themealdb": null
+  }
+}

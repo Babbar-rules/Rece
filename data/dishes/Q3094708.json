@@ -1,0 +1,18 @@
+{
+  "id": "Q3094708",
+  "name": "Galette comtoise",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galette-comtoise-q3094708/galette-comtoise-q3094708-1.jpg",
+    "images/galette-comtoise-q3094708/galette-comtoise-q3094708-2.jpg",
+    "images/galette-comtoise-q3094708/galette-comtoise-q3094708-3.jpg",
+    "images/galette-comtoise-q3094708/galette-comtoise-q3094708-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3094708",
+    "themealdb": null
+  }
+}

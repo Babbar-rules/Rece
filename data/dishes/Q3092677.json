@@ -1,0 +1,20 @@
+{
+  "id": "Q3092677",
+  "name": "popiah",
+  "description": "A Chinese food often eaten at Ching Ming Festival; known as lumpia in the Philippines and Indonesia",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/popiah-q3092677/popiah-q3092677-1.jpg",
+    "images/popiah-q3092677/popiah-q3092677-2.jpg",
+    "images/popiah-q3092677/popiah-q3092677-3.jpg",
+    "images/popiah-q3092677/popiah-q3092677-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3092677",
+    "themealdb": null
+  }
+}

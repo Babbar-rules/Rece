@@ -1,0 +1,18 @@
+{
+  "id": "Q3141360",
+  "name": "kashiwa mochi",
+  "description": "mochi wrapped in kashiwa (Japanese emperor oak, Quercus dentata) leaves",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kashiwa-mochi-q3141360/kashiwa-mochi-q3141360-1.jpg",
+    "images/kashiwa-mochi-q3141360/kashiwa-mochi-q3141360-2.jpg",
+    "images/kashiwa-mochi-q3141360/kashiwa-mochi-q3141360-3.jpg",
+    "images/kashiwa-mochi-q3141360/kashiwa-mochi-q3141360-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3141360",
+    "themealdb": null
+  }
+}

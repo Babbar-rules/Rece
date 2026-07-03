@@ -1,0 +1,20 @@
+{
+  "id": "Q3122937",
+  "name": "kakuni",
+  "description": "Japanese braised pork dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kakuni-q3122937/kakuni-q3122937-1.jpg",
+    "images/kakuni-q3122937/kakuni-q3122937-2.jpg",
+    "images/kakuni-q3122937/kakuni-q3122937-3.jpg",
+    "images/kakuni-q3122937/kakuni-q3122937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3122937",
+    "themealdb": null
+  }
+}

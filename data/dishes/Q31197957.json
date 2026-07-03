@@ -1,0 +1,20 @@
+{
+  "id": "Q31197957",
+  "name": "Ta'ami",
+  "description": "chocolate bar",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taami-q31197957/taami-q31197957-1.jpg",
+    "images/taami-q31197957/taami-q31197957-2.jpg",
+    "images/taami-q31197957/taami-q31197957-3.jpg",
+    "images/taami-q31197957/taami-q31197957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31197957",
+    "themealdb": null
+  }
+}

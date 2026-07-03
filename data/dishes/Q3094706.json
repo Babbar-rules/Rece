@@ -1,0 +1,20 @@
+{
+  "id": "Q3094706",
+  "name": "Tarte au sucre de Pérouges",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-au-sucre-de-perouges-q3094706/tarte-au-sucre-de-perouges-q3094706-1.jpg",
+    "images/tarte-au-sucre-de-perouges-q3094706/tarte-au-sucre-de-perouges-q3094706-2.jpg",
+    "images/tarte-au-sucre-de-perouges-q3094706/tarte-au-sucre-de-perouges-q3094706-3.jpg",
+    "images/tarte-au-sucre-de-perouges-q3094706/tarte-au-sucre-de-perouges-q3094706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3094706",
+    "themealdb": null
+  }
+}

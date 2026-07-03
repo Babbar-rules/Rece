@@ -1,0 +1,18 @@
+{
+  "id": "Q3099408",
+  "name": "gaufre aux fruits",
+  "description": "style of waffle from Liège, Belgium",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gaufre-aux-fruits-q3099408/gaufre-aux-fruits-q3099408-1.jpg",
+    "images/gaufre-aux-fruits-q3099408/gaufre-aux-fruits-q3099408-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3099408",
+    "themealdb": null
+  }
+}

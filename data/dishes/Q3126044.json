@@ -1,0 +1,18 @@
+{
+  "id": "Q3126044",
+  "name": "boiled sweet",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boiled-sweet-q3126044/boiled-sweet-q3126044-1.jpg",
+    "images/boiled-sweet-q3126044/boiled-sweet-q3126044-2.png",
+    "images/boiled-sweet-q3126044/boiled-sweet-q3126044-3.png",
+    "images/boiled-sweet-q3126044/boiled-sweet-q3126044-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3126044",
+    "themealdb": null
+  }
+}

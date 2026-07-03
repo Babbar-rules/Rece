@@ -1,0 +1,18 @@
+{
+  "id": "Q3106401",
+  "name": "Tripoux",
+  "description": "French sheep tripe dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tripoux-q3106401/tripoux-q3106401-1.jpg",
+    "images/tripoux-q3106401/tripoux-q3106401-2.jpg",
+    "images/tripoux-q3106401/tripoux-q3106401-3.jpg",
+    "images/tripoux-q3106401/tripoux-q3106401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3106401",
+    "themealdb": null
+  }
+}

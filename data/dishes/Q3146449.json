@@ -1,0 +1,20 @@
+{
+  "id": "Q3146449",
+  "name": "steak au poivre",
+  "description": "French dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-au-poivre-q3146449/steak-au-poivre-q3146449-1.jpg",
+    "images/steak-au-poivre-q3146449/steak-au-poivre-q3146449-2.jpg",
+    "images/steak-au-poivre-q3146449/steak-au-poivre-q3146449-3.jpg",
+    "images/steak-au-poivre-q3146449/steak-au-poivre-q3146449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3146449",
+    "themealdb": null
+  }
+}

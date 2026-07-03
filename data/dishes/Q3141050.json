@@ -1,0 +1,22 @@
+{
+  "id": "Q3141050",
+  "name": "Chicago-style hot dog",
+  "description": "regional variation of hot dog",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/chicago-style-hot-dog-q3141050/chicago-style-hot-dog-q3141050-1.jpg",
+    "images/chicago-style-hot-dog-q3141050/chicago-style-hot-dog-q3141050-2.jpg",
+    "images/chicago-style-hot-dog-q3141050/chicago-style-hot-dog-q3141050-3.jpg",
+    "images/chicago-style-hot-dog-q3141050/chicago-style-hot-dog-q3141050-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3141050",
+    "themealdb": null
+  }
+}

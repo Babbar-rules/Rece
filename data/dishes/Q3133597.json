@@ -1,0 +1,20 @@
+{
+  "id": "Q3133597",
+  "name": "Sosatie",
+  "description": "traditional South African dish of meat cooked on skewers",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sosatie-q3133597/sosatie-q3133597-1.jpg",
+    "images/sosatie-q3133597/sosatie-q3133597-2.jpg",
+    "images/sosatie-q3133597/sosatie-q3133597-3.jpg",
+    "images/sosatie-q3133597/sosatie-q3133597-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3133597",
+    "themealdb": null
+  }
+}

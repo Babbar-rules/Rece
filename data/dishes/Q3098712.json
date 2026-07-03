@@ -1,0 +1,19 @@
+{
+  "id": "Q3098712",
+  "name": "Gazpachos extremeños",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Extremaduran cuisine"
+  ],
+  "images": [
+    "images/gazpachos-extremenos-q3098712/gazpachos-extremenos-q3098712-1.jpg",
+    "images/gazpachos-extremenos-q3098712/gazpachos-extremenos-q3098712-2.jpg",
+    "images/gazpachos-extremenos-q3098712/gazpachos-extremenos-q3098712-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3098712",
+    "themealdb": null
+  }
+}

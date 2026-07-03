@@ -1,0 +1,18 @@
+{
+  "id": "Q3099553",
+  "name": "Mrouzia",
+  "description": "Sweet and salty dish of meat tajine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mrouzia-q3099553/mrouzia-q3099553-1.jpg",
+    "images/mrouzia-q3099553/mrouzia-q3099553-2.jpg",
+    "images/mrouzia-q3099553/mrouzia-q3099553-3.jpg",
+    "images/mrouzia-q3099553/mrouzia-q3099553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3099553",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3099247",
+  "name": "sole-cake",
+  "description": "traditional Mongolian biscuit",
+  "nationality": [
+    "Mongolia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sole-cake-q3099247/sole-cake-q3099247-1.jpg",
+    "images/sole-cake-q3099247/sole-cake-q3099247-2.jpg",
+    "images/sole-cake-q3099247/sole-cake-q3099247-3.jpg",
+    "images/sole-cake-q3099247/sole-cake-q3099247-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3099247",
+    "themealdb": null
+  }
+}

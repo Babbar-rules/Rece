@@ -1,0 +1,20 @@
+{
+  "id": "Q3122402",
+  "name": "lobster roll",
+  "description": "Made of lobster meat served on a grilled hot dog-style bun. The filling may also contain butter, lemon juice, salt, black pepper, mayonnaise, diced celery or scallion.",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobster-roll-q3122402/lobster-roll-q3122402-1.jpg",
+    "images/lobster-roll-q3122402/lobster-roll-q3122402-2.jpg",
+    "images/lobster-roll-q3122402/lobster-roll-q3122402-3.jpg",
+    "images/lobster-roll-q3122402/lobster-roll-q3122402-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3122402",
+    "themealdb": null
+  }
+}

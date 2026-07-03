@@ -1,0 +1,20 @@
+{
+  "id": "Q3122813",
+  "name": "gâteau de ménage",
+  "description": "simple French cake",
+  "nationality": [
+    "Kingdom of France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-de-menage-q3122813/gateau-de-menage-q3122813-1.jpg",
+    "images/gateau-de-menage-q3122813/gateau-de-menage-q3122813-2.jpg",
+    "images/gateau-de-menage-q3122813/gateau-de-menage-q3122813-3.jpg",
+    "images/gateau-de-menage-q3122813/gateau-de-menage-q3122813-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3122813",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3133335",
+  "name": "Tombet",
+  "description": "vegetable dish from Majorca",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tombet-q3133335/tombet-q3133335-1.jpg",
+    "images/tombet-q3133335/tombet-q3133335-2.jpg",
+    "images/tombet-q3133335/tombet-q3133335-3.jpg",
+    "images/tombet-q3133335/tombet-q3133335-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3133335",
+    "themealdb": null
+  }
+}

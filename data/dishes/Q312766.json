@@ -1,0 +1,20 @@
+{
+  "id": "Q312766",
+  "name": "Alaskan ice cream",
+  "description": "Athabaskan dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alaskan-ice-cream-q312766/alaskan-ice-cream-q312766-1.jpg",
+    "images/alaskan-ice-cream-q312766/alaskan-ice-cream-q312766-2.jpg",
+    "images/alaskan-ice-cream-q312766/alaskan-ice-cream-q312766-3.jpg",
+    "images/alaskan-ice-cream-q312766/alaskan-ice-cream-q312766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q312766",
+    "themealdb": null
+  }
+}

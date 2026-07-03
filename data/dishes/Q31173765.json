@@ -1,0 +1,22 @@
+{
+  "id": "Q31173765",
+  "name": "Tauto Pekalongan",
+  "description": "Type of soto dish with a tauco mixture",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tauto-pekalongan-q31173765/tauto-pekalongan-q31173765-1.jpg",
+    "images/tauto-pekalongan-q31173765/tauto-pekalongan-q31173765-2.jpg",
+    "images/tauto-pekalongan-q31173765/tauto-pekalongan-q31173765-3.jpg",
+    "images/tauto-pekalongan-q31173765/tauto-pekalongan-q31173765-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31173765",
+    "themealdb": null
+  }
+}

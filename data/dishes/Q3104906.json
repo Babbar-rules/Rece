@@ -1,0 +1,20 @@
+{
+  "id": "Q3104906",
+  "name": "ghiveci",
+  "description": "Romanian vegetable stew",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ghiveci-q3104906/ghiveci-q3104906-1.jpg",
+    "images/ghiveci-q3104906/ghiveci-q3104906-2.jpg",
+    "images/ghiveci-q3104906/ghiveci-q3104906-3.jpg",
+    "images/ghiveci-q3104906/ghiveci-q3104906-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3104906",
+    "themealdb": null
+  }
+}

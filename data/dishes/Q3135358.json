@@ -1,0 +1,20 @@
+{
+  "id": "Q3135358",
+  "name": "black sesame soup",
+  "description": "Chinese dessert",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-sesame-soup-q3135358/black-sesame-soup-q3135358-1.jpg",
+    "images/black-sesame-soup-q3135358/black-sesame-soup-q3135358-2.jpg",
+    "images/black-sesame-soup-q3135358/black-sesame-soup-q3135358-3.jpg",
+    "images/black-sesame-soup-q3135358/black-sesame-soup-q3135358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3135358",
+    "themealdb": null
+  }
+}

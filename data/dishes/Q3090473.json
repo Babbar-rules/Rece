@@ -1,0 +1,20 @@
+{
+  "id": "Q3090473",
+  "name": "ftira",
+  "description": "small sourdough bread integral to Maltese culture",
+  "nationality": [
+    "Malta"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ftira-q3090473/ftira-q3090473-1.jpg",
+    "images/ftira-q3090473/ftira-q3090473-2.jpg",
+    "images/ftira-q3090473/ftira-q3090473-3.jpg",
+    "images/ftira-q3090473/ftira-q3090473-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3090473",
+    "themealdb": null
+  }
+}

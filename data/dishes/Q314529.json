@@ -1,0 +1,20 @@
+{
+  "id": "Q314529",
+  "name": "Hasenpfeffer",
+  "description": "stew of hare with blood",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hasenpfeffer-q314529/hasenpfeffer-q314529-1.jpg",
+    "images/hasenpfeffer-q314529/hasenpfeffer-q314529-2.jpg",
+    "images/hasenpfeffer-q314529/hasenpfeffer-q314529-3.jpg",
+    "images/hasenpfeffer-q314529/hasenpfeffer-q314529-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q314529",
+    "themealdb": null
+  }
+}

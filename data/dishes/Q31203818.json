@@ -1,0 +1,23 @@
+{
+  "id": "Q31203818",
+  "name": "Bhoi",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bhoi-q31203818/bhoi-q31203818-1.jpg",
+    "images/bhoi-q31203818/bhoi-q31203818-2.jpg",
+    "images/bhoi-q31203818/bhoi-q31203818-3.jpg",
+    "images/bhoi-q31203818/bhoi-q31203818-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31203818",
+    "themealdb": null
+  }
+}

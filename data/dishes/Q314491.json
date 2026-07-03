@@ -1,0 +1,20 @@
+{
+  "id": "Q314491",
+  "name": "Franzbrötchen",
+  "description": "food",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/franzbrotchen-q314491/franzbrotchen-q314491-1.jpg",
+    "images/franzbrotchen-q314491/franzbrotchen-q314491-2.jpg",
+    "images/franzbrotchen-q314491/franzbrotchen-q314491-3.jpg",
+    "images/franzbrotchen-q314491/franzbrotchen-q314491-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q314491",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q315508",
+  "name": "Wurstsalat",
+  "description": "sausage salad",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wurstsalat-q315508/wurstsalat-q315508-1.jpg",
+    "images/wurstsalat-q315508/wurstsalat-q315508-2.jpg",
+    "images/wurstsalat-q315508/wurstsalat-q315508-3.jpg",
+    "images/wurstsalat-q315508/wurstsalat-q315508-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q315508",
+    "themealdb": null
+  }
+}

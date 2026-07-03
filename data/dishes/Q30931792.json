@@ -1,0 +1,20 @@
+{
+  "id": "Q30931792",
+  "name": "sunomono",
+  "description": "Japanese cucumber salad",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sunomono-q30931792/sunomono-q30931792-1.jpg",
+    "images/sunomono-q30931792/sunomono-q30931792-2.jpg",
+    "images/sunomono-q30931792/sunomono-q30931792-3.jpg",
+    "images/sunomono-q30931792/sunomono-q30931792-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30931792",
+    "themealdb": null
+  }
+}

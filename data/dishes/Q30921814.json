@@ -1,0 +1,22 @@
+{
+  "id": "Q30921814",
+  "name": "Xiaorou",
+  "description": "",
+  "nationality": [
+    "Zhenjiang"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/xiaorou-q30921814/xiaorou-q30921814-1.png",
+    "images/xiaorou-q30921814/xiaorou-q30921814-2.png",
+    "images/xiaorou-q30921814/xiaorou-q30921814-3.png",
+    "images/xiaorou-q30921814/xiaorou-q30921814-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30921814",
+    "themealdb": null
+  }
+}

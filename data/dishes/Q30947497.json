@@ -1,0 +1,17 @@
+{
+  "id": "Q30947497",
+  "name": "Goubangzi smoked chicken",
+  "description": "chicken dish originated from Goubangzi, Beizhen, Jinzhou, Liaoning, China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goubangzi-smoked-chicken-q30947497/goubangzi-smoked-chicken-q30947497-1.jpg",
+    "images/goubangzi-smoked-chicken-q30947497/goubangzi-smoked-chicken-q30947497-2.jpg",
+    "images/goubangzi-smoked-chicken-q30947497/goubangzi-smoked-chicken-q30947497-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30947497",
+    "themealdb": null
+  }
+}

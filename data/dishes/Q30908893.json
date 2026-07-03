@@ -1,0 +1,18 @@
+{
+  "id": "Q30908893",
+  "name": "carrot gingerbread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carrot-gingerbread-q30908893/carrot-gingerbread-q30908893-1.jpg",
+    "images/carrot-gingerbread-q30908893/carrot-gingerbread-q30908893-2.jpg",
+    "images/carrot-gingerbread-q30908893/carrot-gingerbread-q30908893-3.jpg",
+    "images/carrot-gingerbread-q30908893/carrot-gingerbread-q30908893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30908893",
+    "themealdb": null
+  }
+}

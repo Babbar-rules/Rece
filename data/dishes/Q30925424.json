@@ -1,0 +1,16 @@
+{
+  "id": "Q30925424",
+  "name": "Kameyama ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kameyama-ramen-q30925424/kameyama-ramen-q30925424-1.jpg",
+    "images/kameyama-ramen-q30925424/kameyama-ramen-q30925424-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30925424",
+    "themealdb": null
+  }
+}

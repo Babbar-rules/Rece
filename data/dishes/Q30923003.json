@@ -1,0 +1,18 @@
+{
+  "id": "Q30923003",
+  "name": "shark burger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shark-burger-q30923003/shark-burger-q30923003-1.jpg",
+    "images/shark-burger-q30923003/shark-burger-q30923003-2.jpg",
+    "images/shark-burger-q30923003/shark-burger-q30923003-3.jpg",
+    "images/shark-burger-q30923003/shark-burger-q30923003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30923003",
+    "themealdb": null
+  }
+}

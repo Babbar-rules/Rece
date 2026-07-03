@@ -1,0 +1,18 @@
+{
+  "id": "Q3099412",
+  "name": "Lille filled waffle",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lille-filled-waffle-q3099412/lille-filled-waffle-q3099412-1.jpg",
+    "images/lille-filled-waffle-q3099412/lille-filled-waffle-q3099412-2.jpg",
+    "images/lille-filled-waffle-q3099412/lille-filled-waffle-q3099412-3.jpg",
+    "images/lille-filled-waffle-q3099412/lille-filled-waffle-q3099412-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3099412",
+    "themealdb": null
+  }
+}

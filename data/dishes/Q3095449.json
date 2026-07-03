@@ -1,0 +1,20 @@
+{
+  "id": "Q3095449",
+  "name": "Gardiane de taureau",
+  "description": "dish from Camargue",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gardiane-de-taureau-q3095449/gardiane-de-taureau-q3095449-1.jpg",
+    "images/gardiane-de-taureau-q3095449/gardiane-de-taureau-q3095449-2.jpg",
+    "images/gardiane-de-taureau-q3095449/gardiane-de-taureau-q3095449-3.jpg",
+    "images/gardiane-de-taureau-q3095449/gardiane-de-taureau-q3095449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3095449",
+    "themealdb": null
+  }
+}

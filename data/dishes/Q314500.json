@@ -1,0 +1,20 @@
+{
+  "id": "Q314500",
+  "name": "ragout fin",
+  "description": "food",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ragout-fin-q314500/ragout-fin-q314500-1.jpg",
+    "images/ragout-fin-q314500/ragout-fin-q314500-2.jpg",
+    "images/ragout-fin-q314500/ragout-fin-q314500-3.jpg",
+    "images/ragout-fin-q314500/ragout-fin-q314500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q314500",
+    "themealdb": null
+  }
+}

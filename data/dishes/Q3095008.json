@@ -1,0 +1,20 @@
+{
+  "id": "Q3095008",
+  "name": "gamja-ongsimi",
+  "description": "Korean dough soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gamja-ongsimi-q3095008/gamja-ongsimi-q3095008-1.jpg",
+    "images/gamja-ongsimi-q3095008/gamja-ongsimi-q3095008-2.jpg",
+    "images/gamja-ongsimi-q3095008/gamja-ongsimi-q3095008-3.jpg",
+    "images/gamja-ongsimi-q3095008/gamja-ongsimi-q3095008-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3095008",
+    "themealdb": null
+  }
+}

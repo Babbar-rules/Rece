@@ -1,0 +1,18 @@
+{
+  "id": "Q3129784",
+  "name": "salchipapa",
+  "description": "fast food from Sur América",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salchipapa-q3129784/salchipapa-q3129784-1.jpg",
+    "images/salchipapa-q3129784/salchipapa-q3129784-2.jpg",
+    "images/salchipapa-q3129784/salchipapa-q3129784-3.jpg",
+    "images/salchipapa-q3129784/salchipapa-q3129784-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3129784",
+    "themealdb": null
+  }
+}

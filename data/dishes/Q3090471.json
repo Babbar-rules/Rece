@@ -1,0 +1,18 @@
+{
+  "id": "Q3090471",
+  "name": "Sfenj",
+  "description": "bakery Product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sfenj-q3090471/sfenj-q3090471-1.jpg",
+    "images/sfenj-q3090471/sfenj-q3090471-2.jpg",
+    "images/sfenj-q3090471/sfenj-q3090471-3.jpg",
+    "images/sfenj-q3090471/sfenj-q3090471-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3090471",
+    "themealdb": null
+  }
+}

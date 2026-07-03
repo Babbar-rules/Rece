@@ -1,0 +1,20 @@
+{
+  "id": "Q31352561",
+  "name": "tom yum kung",
+  "description": "Thai soup cooked with prawn",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tom-yum-kung-q31352561/tom-yum-kung-q31352561-1.jpg",
+    "images/tom-yum-kung-q31352561/tom-yum-kung-q31352561-2.jpg",
+    "images/tom-yum-kung-q31352561/tom-yum-kung-q31352561-3.jpg",
+    "images/tom-yum-kung-q31352561/tom-yum-kung-q31352561-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q31352561",
+    "themealdb": null
+  }
+}

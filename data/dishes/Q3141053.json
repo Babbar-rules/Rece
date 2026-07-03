@@ -1,0 +1,20 @@
+{
+  "id": "Q3141053",
+  "name": "Michigan hot dog",
+  "description": "steamed beef hot dog on a steamed bun topped with a meaty sauce, originating from Plattsburgh, New York, US",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/michigan-hot-dog-q3141053/michigan-hot-dog-q3141053-1.jpg",
+    "images/michigan-hot-dog-q3141053/michigan-hot-dog-q3141053-2.jpg",
+    "images/michigan-hot-dog-q3141053/michigan-hot-dog-q3141053-3.jpg",
+    "images/michigan-hot-dog-q3141053/michigan-hot-dog-q3141053-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3141053",
+    "themealdb": null
+  }
+}
