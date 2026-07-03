@@ -1,0 +1,19 @@
+{
+  "id": "Q25450904",
+  "name": "Blunkett salad",
+  "description": "Tunisian dish",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blunkett-salad-q25450904/blunkett-salad-q25450904-1.jpg",
+    "images/blunkett-salad-q25450904/blunkett-salad-q25450904-2.jpg",
+    "images/blunkett-salad-q25450904/blunkett-salad-q25450904-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25450904",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q251265",
+  "name": "frikadeller",
+  "description": "fried meatball",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frikadeller-q251265/frikadeller-q251265-1.jpg",
+    "images/frikadeller-q251265/frikadeller-q251265-2.jpg",
+    "images/frikadeller-q251265/frikadeller-q251265-3.jpg",
+    "images/frikadeller-q251265/frikadeller-q251265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q251265",
+    "themealdb": null
+  }
+}

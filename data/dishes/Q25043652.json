@@ -1,0 +1,18 @@
+{
+  "id": "Q25043652",
+  "name": "Nocciolini di Canzo",
+  "description": "Italian cookies",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nocciolini-di-canzo-q25043652/nocciolini-di-canzo-q25043652-1.jpg",
+    "images/nocciolini-di-canzo-q25043652/nocciolini-di-canzo-q25043652-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25043652",
+    "themealdb": null
+  }
+}

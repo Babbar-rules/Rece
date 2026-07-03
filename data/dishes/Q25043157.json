@@ -1,0 +1,17 @@
+{
+  "id": "Q25043157",
+  "name": "Kuku Paka",
+  "description": "African chicken dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuku-paka-q25043157/kuku-paka-q25043157-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25043157",
+    "themealdb": null
+  }
+}

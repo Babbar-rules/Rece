@@ -1,0 +1,20 @@
+{
+  "id": "Q251113",
+  "name": "julmust",
+  "description": "Swedish soft drink",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/julmust-q251113/julmust-q251113-1.jpg",
+    "images/julmust-q251113/julmust-q251113-2.jpg",
+    "images/julmust-q251113/julmust-q251113-3.jpg",
+    "images/julmust-q251113/julmust-q251113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q251113",
+    "themealdb": null
+  }
+}

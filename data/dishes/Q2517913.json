@@ -1,0 +1,18 @@
+{
+  "id": "Q2517913",
+  "name": "Tilslørte bondepiker",
+  "description": "scandinavian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tilslrte-bondepiker-q2517913/tilslrte-bondepiker-q2517913-1.jpg",
+    "images/tilslrte-bondepiker-q2517913/tilslrte-bondepiker-q2517913-2.jpg",
+    "images/tilslrte-bondepiker-q2517913/tilslrte-bondepiker-q2517913-3.jpg",
+    "images/tilslrte-bondepiker-q2517913/tilslrte-bondepiker-q2517913-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2517913",
+    "themealdb": null
+  }
+}

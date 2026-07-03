@@ -1,0 +1,22 @@
+{
+  "id": "Q25466948",
+  "name": "Bolang-baling",
+  "description": "Fried bread with a crispy outer crust",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bolang-baling-q25466948/bolang-baling-q25466948-1.jpg",
+    "images/bolang-baling-q25466948/bolang-baling-q25466948-2.jpg",
+    "images/bolang-baling-q25466948/bolang-baling-q25466948-3.jpg",
+    "images/bolang-baling-q25466948/bolang-baling-q25466948-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25466948",
+    "themealdb": null
+  }
+}

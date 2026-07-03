@@ -1,0 +1,20 @@
+{
+  "id": "Q25223099",
+  "name": "chāhan",
+  "description": "Japanese fried rice",
+  "nationality": [],
+  "region_cuisine": [
+    "Japanese Chinese cuisine"
+  ],
+  "images": [
+    "images/chahan-q25223099/chahan-q25223099-1.jpg",
+    "images/chahan-q25223099/chahan-q25223099-2.jpg",
+    "images/chahan-q25223099/chahan-q25223099-3.jpg",
+    "images/chahan-q25223099/chahan-q25223099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25223099",
+    "themealdb": null
+  }
+}

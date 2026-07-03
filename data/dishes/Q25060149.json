@@ -1,0 +1,20 @@
+{
+  "id": "Q25060149",
+  "name": "Pollo al disco",
+  "description": "Argentine chicken dish",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pollo-al-disco-q25060149/pollo-al-disco-q25060149-1.jpg",
+    "images/pollo-al-disco-q25060149/pollo-al-disco-q25060149-2.jpg",
+    "images/pollo-al-disco-q25060149/pollo-al-disco-q25060149-3.jpg",
+    "images/pollo-al-disco-q25060149/pollo-al-disco-q25060149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25060149",
+    "themealdb": null
+  }
+}

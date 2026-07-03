@@ -1,0 +1,20 @@
+{
+  "id": "Q25395624",
+  "name": "marjolaine",
+  "description": "pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marjolaine-q25395624/marjolaine-q25395624-1.jpg",
+    "images/marjolaine-q25395624/marjolaine-q25395624-2.jpg",
+    "images/marjolaine-q25395624/marjolaine-q25395624-3.jpg",
+    "images/marjolaine-q25395624/marjolaine-q25395624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25395624",
+    "themealdb": null
+  }
+}

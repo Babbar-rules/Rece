@@ -1,0 +1,20 @@
+{
+  "id": "Q2524291",
+  "name": "Prekmurska gibanica",
+  "description": "Slovenian layered pastry",
+  "nationality": [
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prekmurska-gibanica-q2524291/prekmurska-gibanica-q2524291-1.jpg",
+    "images/prekmurska-gibanica-q2524291/prekmurska-gibanica-q2524291-2.jpg",
+    "images/prekmurska-gibanica-q2524291/prekmurska-gibanica-q2524291-3.jpg",
+    "images/prekmurska-gibanica-q2524291/prekmurska-gibanica-q2524291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2524291",
+    "themealdb": null
+  }
+}

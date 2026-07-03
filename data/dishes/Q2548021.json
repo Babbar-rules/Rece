@@ -1,0 +1,21 @@
+{
+  "id": "Q2548021",
+  "name": "appam",
+  "description": "South Indian and Sri Lankan pancake made with fermented rice batter and coconut milk",
+  "nationality": [
+    "India",
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/appam-q2548021/appam-q2548021-1.jpg",
+    "images/appam-q2548021/appam-q2548021-2.jpg",
+    "images/appam-q2548021/appam-q2548021-3.jpg",
+    "images/appam-q2548021/appam-q2548021-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2548021",
+    "themealdb": null
+  }
+}

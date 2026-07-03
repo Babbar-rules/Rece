@@ -1,0 +1,21 @@
+{
+  "id": "Q252630",
+  "name": "gravlax",
+  "description": "Nordic dish consisting of raw salmon, cured in salt, sugar, and dill",
+  "nationality": [
+    "Sweden",
+    "Scandinavia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gravlax-q252630/gravlax-q252630-1.jpg",
+    "images/gravlax-q252630/gravlax-q252630-2.jpg",
+    "images/gravlax-q252630/gravlax-q252630-3.png",
+    "images/gravlax-q252630/gravlax-q252630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q252630",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2511137",
+  "name": "Vasina torta",
+  "description": "Serbian chocolate cake",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vasina-torta-q2511137/vasina-torta-q2511137-1.jpg",
+    "images/vasina-torta-q2511137/vasina-torta-q2511137-2.jpg",
+    "images/vasina-torta-q2511137/vasina-torta-q2511137-3.jpg",
+    "images/vasina-torta-q2511137/vasina-torta-q2511137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2511137",
+    "themealdb": null
+  }
+}

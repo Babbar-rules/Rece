@@ -1,0 +1,20 @@
+{
+  "id": "Q25448938",
+  "name": "poulet fafa",
+  "description": "Tahitian chicken dish",
+  "nationality": [
+    "Tahiti"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poulet-fafa-q25448938/poulet-fafa-q25448938-1.jpg",
+    "images/poulet-fafa-q25448938/poulet-fafa-q25448938-2.jpg",
+    "images/poulet-fafa-q25448938/poulet-fafa-q25448938-3.jpg",
+    "images/poulet-fafa-q25448938/poulet-fafa-q25448938-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25448938",
+    "themealdb": null
+  }
+}

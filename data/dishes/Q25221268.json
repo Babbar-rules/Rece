@@ -1,0 +1,18 @@
+{
+  "id": "Q25221268",
+  "name": "chlebíček",
+  "description": "open-faced sandwich originating from the Czech Republic",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chlebicek-q25221268/chlebicek-q25221268-1.jpg",
+    "images/chlebicek-q25221268/chlebicek-q25221268-2.jpg",
+    "images/chlebicek-q25221268/chlebicek-q25221268-3.jpg",
+    "images/chlebicek-q25221268/chlebicek-q25221268-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25221268",
+    "themealdb": null
+  }
+}

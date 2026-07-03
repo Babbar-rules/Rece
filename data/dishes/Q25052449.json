@@ -1,0 +1,18 @@
+{
+  "id": "Q25052449",
+  "name": "khao piak sen",
+  "description": "southeast Asian noodle soup originating from Laos",
+  "nationality": [
+    "Laos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khao-piak-sen-q25052449/khao-piak-sen-q25052449-1.jpg",
+    "images/khao-piak-sen-q25052449/khao-piak-sen-q25052449-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25052449",
+    "themealdb": null
+  }
+}

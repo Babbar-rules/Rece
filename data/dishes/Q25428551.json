@@ -1,0 +1,19 @@
+{
+  "id": "Q25428551",
+  "name": "bonecas de massa",
+  "description": "edibe puppets typical of Madeira",
+  "nationality": [
+    "Madeira"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bonecas-de-massa-q25428551/bonecas-de-massa-q25428551-1.jpg",
+    "images/bonecas-de-massa-q25428551/bonecas-de-massa-q25428551-2.jpg",
+    "images/bonecas-de-massa-q25428551/bonecas-de-massa-q25428551-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25428551",
+    "themealdb": null
+  }
+}

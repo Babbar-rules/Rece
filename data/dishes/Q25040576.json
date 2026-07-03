@@ -1,0 +1,20 @@
+{
+  "id": "Q25040576",
+  "name": "Gnudi",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gnudi-q25040576/gnudi-q25040576-1.jpg",
+    "images/gnudi-q25040576/gnudi-q25040576-2.jpg",
+    "images/gnudi-q25040576/gnudi-q25040576-3.jpg",
+    "images/gnudi-q25040576/gnudi-q25040576-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25040576",
+    "themealdb": null
+  }
+}

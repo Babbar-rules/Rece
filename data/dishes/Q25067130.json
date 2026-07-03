@@ -1,0 +1,20 @@
+{
+  "id": "Q25067130",
+  "name": "pizzetta",
+  "description": "small personal-sized pizza",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizzetta-q25067130/pizzetta-q25067130-1.jpg",
+    "images/pizzetta-q25067130/pizzetta-q25067130-2.png",
+    "images/pizzetta-q25067130/pizzetta-q25067130-3.jpg",
+    "images/pizzetta-q25067130/pizzetta-q25067130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25067130",
+    "themealdb": null
+  }
+}

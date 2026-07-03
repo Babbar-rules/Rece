@@ -1,0 +1,18 @@
+{
+  "id": "Q25039790",
+  "name": "spice cake",
+  "description": "cake flavored with a mixture of spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spice-cake-q25039790/spice-cake-q25039790-1.jpg",
+    "images/spice-cake-q25039790/spice-cake-q25039790-2.jpg",
+    "images/spice-cake-q25039790/spice-cake-q25039790-3.jpg",
+    "images/spice-cake-q25039790/spice-cake-q25039790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25039790",
+    "themealdb": null
+  }
+}

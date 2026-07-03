@@ -1,0 +1,20 @@
+{
+  "id": "Q25042801",
+  "name": "kongnamul-bulgogi",
+  "description": "Korean dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kongnamul-bulgogi-q25042801/kongnamul-bulgogi-q25042801-1.jpg",
+    "images/kongnamul-bulgogi-q25042801/kongnamul-bulgogi-q25042801-2.jpg",
+    "images/kongnamul-bulgogi-q25042801/kongnamul-bulgogi-q25042801-3.jpg",
+    "images/kongnamul-bulgogi-q25042801/kongnamul-bulgogi-q25042801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25042801",
+    "themealdb": null
+  }
+}

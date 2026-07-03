@@ -1,0 +1,16 @@
+{
+  "id": "Q25111404",
+  "name": "boba ice cream bar",
+  "description": "ice cream dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boba-ice-cream-bar-q25111404/boba-ice-cream-bar-q25111404-1.jpg",
+    "images/boba-ice-cream-bar-q25111404/boba-ice-cream-bar-q25111404-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25111404",
+    "themealdb": null
+  }
+}

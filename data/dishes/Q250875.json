@@ -1,0 +1,72 @@
+{
+  "id": "Q250875",
+  "name": "Tafelspitz",
+  "description": "dish made of boiled meat in Viennese cuisine",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/tafelspitz-q250875/tafelspitz-q250875-1.jpg",
+    "images/tafelspitz-q250875/tafelspitz-q250875-2.jpg",
+    "images/tafelspitz-q250875/tafelspitz-q250875-3.jpg",
+    "images/tafelspitz-q250875/tafelspitz-q250875-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53447",
+    "category": "Beef",
+    "area": null,
+    "instructions": "Step 1\r\nSlice the unpeeled onion in half widthways and fry off the cut surfaces without fat until fairly well browned.\r\n\r\nStep 2\r\nPut around 3 litres of water into a large saucepan. Add the root vegetables, leek, halves of onion, bay leaves, and peppercorns and bring to a boil. Add the washed meat and bones and, depending on the type of meat, allow to cook until softened in gently simmering water, which will take around 2 1⁄2 – 3 hours. Add more water as required and skim off any foam from the surface. \r\n\r\nStep 3\r\nSeason well with salt, but only after a good 2 hours.\r\n\r\nStep 4\r\nOnce the meat has softened, remove it from the pan and keep it warm in some of the liquid from the soup. Season the remainder of the soup again with salt to taste, and strain it (optional). Serve with semolina dumplings or \"Frittaten\" (sliced pancakes - a traditional Austrian soup garnish) and freshly chopped chives as a starter. Afterwards, slice the boiled beef by cutting on the bias and arrange it on pre-heated plates, or serve in the hot soup in a decorative soup tureen.\r\n\r\nStep 5\r\nServe with roast potatoes, a bread and horseradish mix, green beans in a dill sauce, or creamed spinach and chive sauce. If the root vegetables are to be served at the same time, cook some of them separately to be served al dente.",
+    "ingredients": [
+      {
+        "ingredient": "Beef Brisket",
+        "measure": "1.5kg"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "1  bunch"
+      },
+      {
+        "ingredient": "Celeriac",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Parsnips",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Sprigs of fresh"
+      },
+      {
+        "ingredient": "Leek",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Peppercorns",
+        "measure": "5"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/svf3d01780298321.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q250875",
+    "themealdb": "53447"
+  }
+}

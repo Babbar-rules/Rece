@@ -1,0 +1,20 @@
+{
+  "id": "Q254234",
+  "name": "Marillenknödel",
+  "description": "food",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marillenknodel-q254234/marillenknodel-q254234-1.jpg",
+    "images/marillenknodel-q254234/marillenknodel-q254234-2.jpg",
+    "images/marillenknodel-q254234/marillenknodel-q254234-3.jpg",
+    "images/marillenknodel-q254234/marillenknodel-q254234-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q254234",
+    "themealdb": null
+  }
+}

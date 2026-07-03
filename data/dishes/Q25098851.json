@@ -1,0 +1,20 @@
+{
+  "id": "Q25098851",
+  "name": "bogobe jwa lerotse",
+  "description": "type of porridge eaten in Botswana",
+  "nationality": [
+    "Botswana"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bogobe-jwa-lerotse-q25098851/bogobe-jwa-lerotse-q25098851-1.jpg",
+    "images/bogobe-jwa-lerotse-q25098851/bogobe-jwa-lerotse-q25098851-2.jpg",
+    "images/bogobe-jwa-lerotse-q25098851/bogobe-jwa-lerotse-q25098851-3.jpg",
+    "images/bogobe-jwa-lerotse-q25098851/bogobe-jwa-lerotse-q25098851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25098851",
+    "themealdb": null
+  }
+}

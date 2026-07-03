@@ -1,0 +1,18 @@
+{
+  "id": "Q25141669",
+  "name": "clam juice",
+  "description": "broth obtained from clams",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clam-juice-q25141669/clam-juice-q25141669-1.jpg",
+    "images/clam-juice-q25141669/clam-juice-q25141669-2.jpg",
+    "images/clam-juice-q25141669/clam-juice-q25141669-3.jpg",
+    "images/clam-juice-q25141669/clam-juice-q25141669-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25141669",
+    "themealdb": null
+  }
+}

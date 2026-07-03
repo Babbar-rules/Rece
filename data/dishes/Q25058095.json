@@ -1,0 +1,19 @@
+{
+  "id": "Q25058095",
+  "name": "Osam bulgogi",
+  "description": "Korean dish made from squid and pork belly",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/osam-bulgogi-q25058095/osam-bulgogi-q25058095-1.jpg",
+    "images/osam-bulgogi-q25058095/osam-bulgogi-q25058095-2.jpg",
+    "images/osam-bulgogi-q25058095/osam-bulgogi-q25058095-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25058095",
+    "themealdb": null
+  }
+}

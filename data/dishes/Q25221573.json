@@ -1,0 +1,18 @@
+{
+  "id": "Q25221573",
+  "name": "Tom khlong",
+  "description": "Thai soup",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tom-khlong-q25221573/tom-khlong-q25221573-1.jpg",
+    "images/tom-khlong-q25221573/tom-khlong-q25221573-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25221573",
+    "themealdb": null
+  }
+}

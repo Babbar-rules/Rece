@@ -1,0 +1,21 @@
+{
+  "id": "Q25055787",
+  "name": "Ttongppang",
+  "description": "South Korean feces-shaped bread",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/ttongppang-q25055787/ttongppang-q25055787-1.jpg",
+    "images/ttongppang-q25055787/ttongppang-q25055787-2.jpg",
+    "images/ttongppang-q25055787/ttongppang-q25055787-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25055787",
+    "themealdb": null
+  }
+}

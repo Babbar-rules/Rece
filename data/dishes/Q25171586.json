@@ -1,0 +1,18 @@
+{
+  "id": "Q25171586",
+  "name": "Mortis",
+  "description": "sweet chicken pâté of Elizabethan times",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mortis-q25171586/mortis-q25171586-1.jpg",
+    "images/mortis-q25171586/mortis-q25171586-2.jpg",
+    "images/mortis-q25171586/mortis-q25171586-3.jpg",
+    "images/mortis-q25171586/mortis-q25171586-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25171586",
+    "themealdb": null
+  }
+}

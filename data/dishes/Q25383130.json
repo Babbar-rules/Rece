@@ -1,0 +1,18 @@
+{
+  "id": "Q25383130",
+  "name": "Soupou Kandja",
+  "description": "Senegalese okra soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soupou-kandja-q25383130/soupou-kandja-q25383130-1.jpg",
+    "images/soupou-kandja-q25383130/soupou-kandja-q25383130-2.jpg",
+    "images/soupou-kandja-q25383130/soupou-kandja-q25383130-3.jpg",
+    "images/soupou-kandja-q25383130/soupou-kandja-q25383130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25383130",
+    "themealdb": null
+  }
+}

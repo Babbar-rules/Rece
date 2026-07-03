@@ -1,0 +1,22 @@
+{
+  "id": "Q250966",
+  "name": "Supplì",
+  "description": "dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/suppli-q250966/suppli-q250966-1.jpg",
+    "images/suppli-q250966/suppli-q250966-2.jpg",
+    "images/suppli-q250966/suppli-q250966-3.jpg",
+    "images/suppli-q250966/suppli-q250966-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q250966",
+    "themealdb": null
+  }
+}

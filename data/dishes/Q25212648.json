@@ -1,0 +1,18 @@
+{
+  "id": "Q25212648",
+  "name": "Kapana",
+  "description": "grilled beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kapana-q25212648/kapana-q25212648-1.jpg",
+    "images/kapana-q25212648/kapana-q25212648-2.jpg",
+    "images/kapana-q25212648/kapana-q25212648-3.jpg",
+    "images/kapana-q25212648/kapana-q25212648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25212648",
+    "themealdb": null
+  }
+}

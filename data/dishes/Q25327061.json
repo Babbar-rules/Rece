@@ -1,0 +1,20 @@
+{
+  "id": "Q25327061",
+  "name": "Xuanwei ham",
+  "description": "Chinese dry-cured ham",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xuanwei-ham-q25327061/xuanwei-ham-q25327061-1.jpg",
+    "images/xuanwei-ham-q25327061/xuanwei-ham-q25327061-2.jpg",
+    "images/xuanwei-ham-q25327061/xuanwei-ham-q25327061-3.jpg",
+    "images/xuanwei-ham-q25327061/xuanwei-ham-q25327061-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25327061",
+    "themealdb": null
+  }
+}

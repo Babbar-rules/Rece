@@ -1,0 +1,18 @@
+{
+  "id": "Q25377559",
+  "name": "granola bar",
+  "description": "confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/granola-bar-q25377559/granola-bar-q25377559-1.jpg",
+    "images/granola-bar-q25377559/granola-bar-q25377559-2.jpg",
+    "images/granola-bar-q25377559/granola-bar-q25377559-3.jpg",
+    "images/granola-bar-q25377559/granola-bar-q25377559-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25377559",
+    "themealdb": null
+  }
+}

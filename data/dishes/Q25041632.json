@@ -1,0 +1,20 @@
+{
+  "id": "Q25041632",
+  "name": "peppersoup",
+  "description": "spicy West African soup with meats, chili peppers and nutmeg as the primary ingredients",
+  "nationality": [
+    "West Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peppersoup-q25041632/peppersoup-q25041632-1.jpg",
+    "images/peppersoup-q25041632/peppersoup-q25041632-2.jpg",
+    "images/peppersoup-q25041632/peppersoup-q25041632-3.jpg",
+    "images/peppersoup-q25041632/peppersoup-q25041632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25041632",
+    "themealdb": null
+  }
+}

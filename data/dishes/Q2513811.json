@@ -1,0 +1,18 @@
+{
+  "id": "Q2513811",
+  "name": "cream puff",
+  "description": "choux pastry filled with whipped cream or pastry cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-puff-q2513811/cream-puff-q2513811-1.jpg",
+    "images/cream-puff-q2513811/cream-puff-q2513811-2.jpg",
+    "images/cream-puff-q2513811/cream-puff-q2513811-3.jpg",
+    "images/cream-puff-q2513811/cream-puff-q2513811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2513811",
+    "themealdb": null
+  }
+}

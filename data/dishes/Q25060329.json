@@ -1,0 +1,20 @@
+{
+  "id": "Q25060329",
+  "name": "Deep fried Oreo",
+  "description": "Deep fried chocolate sandwich cookie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-oreo-q25060329/deep-fried-oreo-q25060329-1.jpg",
+    "images/deep-fried-oreo-q25060329/deep-fried-oreo-q25060329-2.jpg",
+    "images/deep-fried-oreo-q25060329/deep-fried-oreo-q25060329-3.jpg",
+    "images/deep-fried-oreo-q25060329/deep-fried-oreo-q25060329-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25060329",
+    "themealdb": null
+  }
+}

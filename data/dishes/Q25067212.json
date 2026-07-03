@@ -1,0 +1,20 @@
+{
+  "id": "Q25067212",
+  "name": "Chicken Picasso",
+  "description": "chicken dish named after Pablo Picasso",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-picasso-q25067212/chicken-picasso-q25067212-1.jpg",
+    "images/chicken-picasso-q25067212/chicken-picasso-q25067212-2.jpg",
+    "images/chicken-picasso-q25067212/chicken-picasso-q25067212-3.jpg",
+    "images/chicken-picasso-q25067212/chicken-picasso-q25067212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25067212",
+    "themealdb": null
+  }
+}

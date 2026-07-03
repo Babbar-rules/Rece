@@ -1,0 +1,18 @@
+{
+  "id": "Q25105721",
+  "name": "fried pork",
+  "description": "pork dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-pork-q25105721/fried-pork-q25105721-1.jpg",
+    "images/fried-pork-q25105721/fried-pork-q25105721-2.jpg",
+    "images/fried-pork-q25105721/fried-pork-q25105721-3.jpg",
+    "images/fried-pork-q25105721/fried-pork-q25105721-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25105721",
+    "themealdb": null
+  }
+}

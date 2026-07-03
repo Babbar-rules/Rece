@@ -1,0 +1,20 @@
+{
+  "id": "Q25466936",
+  "name": "Javanese doughnut",
+  "description": "Javanese traditional doughnut",
+  "nationality": [],
+  "region_cuisine": [
+    "Javanese cuisine"
+  ],
+  "images": [
+    "images/javanese-doughnut-q25466936/javanese-doughnut-q25466936-1.jpg",
+    "images/javanese-doughnut-q25466936/javanese-doughnut-q25466936-2.jpg",
+    "images/javanese-doughnut-q25466936/javanese-doughnut-q25466936-3.jpg",
+    "images/javanese-doughnut-q25466936/javanese-doughnut-q25466936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25466936",
+    "themealdb": null
+  }
+}

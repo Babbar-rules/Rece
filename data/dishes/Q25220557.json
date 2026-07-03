@@ -1,0 +1,18 @@
+{
+  "id": "Q25220557",
+  "name": "tomato sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tomato-sandwich-q25220557/tomato-sandwich-q25220557-1.jpg",
+    "images/tomato-sandwich-q25220557/tomato-sandwich-q25220557-2.jpg",
+    "images/tomato-sandwich-q25220557/tomato-sandwich-q25220557-3.jpg",
+    "images/tomato-sandwich-q25220557/tomato-sandwich-q25220557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25220557",
+    "themealdb": null
+  }
+}

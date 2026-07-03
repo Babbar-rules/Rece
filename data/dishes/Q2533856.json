@@ -1,0 +1,19 @@
+{
+  "id": "Q2533856",
+  "name": "Voressen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/voressen-q2533856/voressen-q2533856-1.jpg",
+    "images/voressen-q2533856/voressen-q2533856-2.jpg",
+    "images/voressen-q2533856/voressen-q2533856-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2533856",
+    "themealdb": null
+  }
+}

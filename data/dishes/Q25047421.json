@@ -1,0 +1,20 @@
+{
+  "id": "Q25047421",
+  "name": "Casarecce",
+  "description": "type of pasta that has a free shape",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/casarecce-q25047421/casarecce-q25047421-1.jpg",
+    "images/casarecce-q25047421/casarecce-q25047421-2.jpg",
+    "images/casarecce-q25047421/casarecce-q25047421-3.jpg",
+    "images/casarecce-q25047421/casarecce-q25047421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25047421",
+    "themealdb": null
+  }
+}

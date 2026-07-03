@@ -1,0 +1,21 @@
+{
+  "id": "Q25055866",
+  "name": "Karydopita",
+  "description": "Greek dessert cake",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [
+    "Greek cuisine"
+  ],
+  "images": [
+    "images/karydopita-q25055866/karydopita-q25055866-1.jpg",
+    "images/karydopita-q25055866/karydopita-q25055866-2.jpg",
+    "images/karydopita-q25055866/karydopita-q25055866-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25055866",
+    "themealdb": null
+  }
+}

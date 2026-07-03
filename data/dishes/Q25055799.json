@@ -1,0 +1,20 @@
+{
+  "id": "Q25055799",
+  "name": "Afghan salad",
+  "description": "Afghan cuisine",
+  "nationality": [
+    "Afghanistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/afghan-salad-q25055799/afghan-salad-q25055799-1.jpg",
+    "images/afghan-salad-q25055799/afghan-salad-q25055799-2.jpg",
+    "images/afghan-salad-q25055799/afghan-salad-q25055799-3.jpg",
+    "images/afghan-salad-q25055799/afghan-salad-q25055799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25055799",
+    "themealdb": null
+  }
+}

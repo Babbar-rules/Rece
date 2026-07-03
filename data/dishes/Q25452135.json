@@ -1,0 +1,19 @@
+{
+  "id": "Q25452135",
+  "name": "Masmouta salad",
+  "description": "Tunisian dish",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/masmouta-salad-q25452135/masmouta-salad-q25452135-1.jpg",
+    "images/masmouta-salad-q25452135/masmouta-salad-q25452135-2.jpg",
+    "images/masmouta-salad-q25452135/masmouta-salad-q25452135-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25452135",
+    "themealdb": null
+  }
+}

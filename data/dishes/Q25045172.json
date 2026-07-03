@@ -1,0 +1,18 @@
+{
+  "id": "Q25045172",
+  "name": "kimchi burger",
+  "description": "hamburger that includes kimchi in its preparation",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kimchi-burger-q25045172/kimchi-burger-q25045172-1.jpg",
+    "images/kimchi-burger-q25045172/kimchi-burger-q25045172-2.jpg",
+    "images/kimchi-burger-q25045172/kimchi-burger-q25045172-3.jpg",
+    "images/kimchi-burger-q25045172/kimchi-burger-q25045172-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25045172",
+    "themealdb": null
+  }
+}

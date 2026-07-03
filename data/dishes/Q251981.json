@@ -1,0 +1,21 @@
+{
+  "id": "Q251981",
+  "name": "crispbread",
+  "description": "flat and dry type of bread or cracker",
+  "nationality": [
+    "Sweden",
+    "Scandinavia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crispbread-q251981/crispbread-q251981-1.jpg",
+    "images/crispbread-q251981/crispbread-q251981-2.jpg",
+    "images/crispbread-q251981/crispbread-q251981-3.jpg",
+    "images/crispbread-q251981/crispbread-q251981-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q251981",
+    "themealdb": null
+  }
+}

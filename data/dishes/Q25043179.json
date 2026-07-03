@@ -1,0 +1,18 @@
+{
+  "id": "Q25043179",
+  "name": "hoagie roll",
+  "description": "long flat roll used to prepare hoagie sandwiches",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hoagie-roll-q25043179/hoagie-roll-q25043179-1.jpg",
+    "images/hoagie-roll-q25043179/hoagie-roll-q25043179-2.jpg",
+    "images/hoagie-roll-q25043179/hoagie-roll-q25043179-3.jpg",
+    "images/hoagie-roll-q25043179/hoagie-roll-q25043179-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25043179",
+    "themealdb": null
+  }
+}

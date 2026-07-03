@@ -1,0 +1,18 @@
+{
+  "id": "Q25111357",
+  "name": "Sukhothai noodles",
+  "description": "Thai rice noodle dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sukhothai-noodles-q25111357/sukhothai-noodles-q25111357-1.jpg",
+    "images/sukhothai-noodles-q25111357/sukhothai-noodles-q25111357-2.jpg",
+    "images/sukhothai-noodles-q25111357/sukhothai-noodles-q25111357-3.jpg",
+    "images/sukhothai-noodles-q25111357/sukhothai-noodles-q25111357-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25111357",
+    "themealdb": null
+  }
+}

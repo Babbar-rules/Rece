@@ -1,0 +1,20 @@
+{
+  "id": "Q2545009",
+  "name": "liquorice allsorts",
+  "description": "sweet",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/liquorice-allsorts-q2545009/liquorice-allsorts-q2545009-1.jpg",
+    "images/liquorice-allsorts-q2545009/liquorice-allsorts-q2545009-2.jpg",
+    "images/liquorice-allsorts-q2545009/liquorice-allsorts-q2545009-3.jpg",
+    "images/liquorice-allsorts-q2545009/liquorice-allsorts-q2545009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2545009",
+    "themealdb": null
+  }
+}

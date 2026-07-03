@@ -1,0 +1,20 @@
+{
+  "id": "Q252334",
+  "name": "barreado",
+  "description": "Brazilian dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barreado-q252334/barreado-q252334-1.jpg",
+    "images/barreado-q252334/barreado-q252334-2.jpg",
+    "images/barreado-q252334/barreado-q252334-3.jpg",
+    "images/barreado-q252334/barreado-q252334-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q252334",
+    "themealdb": null
+  }
+}

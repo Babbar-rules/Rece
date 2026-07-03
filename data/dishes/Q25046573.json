@@ -1,0 +1,18 @@
+{
+  "id": "Q25046573",
+  "name": "fruit whip",
+  "description": "dessert made of puréed fruit and whipped egg whites",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-whip-q25046573/fruit-whip-q25046573-1.jpg",
+    "images/fruit-whip-q25046573/fruit-whip-q25046573-2.jpg",
+    "images/fruit-whip-q25046573/fruit-whip-q25046573-3.jpg",
+    "images/fruit-whip-q25046573/fruit-whip-q25046573-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25046573",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q25464887",
+  "name": "nasi guri",
+  "description": "kind of rice dishes from Aceh, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-guri-q25464887/nasi-guri-q25464887-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25464887",
+    "themealdb": null
+  }
+}

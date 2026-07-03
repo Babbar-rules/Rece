@@ -1,0 +1,21 @@
+{
+  "id": "Q25458340",
+  "name": "Manuk labakh",
+  "description": "Southeastern Acehnese Cuisine from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/manuk-labakh-q25458340/manuk-labakh-q25458340-1.jpg",
+    "images/manuk-labakh-q25458340/manuk-labakh-q25458340-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25458340",
+    "themealdb": null
+  }
+}

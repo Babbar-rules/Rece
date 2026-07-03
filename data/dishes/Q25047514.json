@@ -1,0 +1,20 @@
+{
+  "id": "Q25047514",
+  "name": "goat water",
+  "description": "Montserrat stew",
+  "nationality": [
+    "Montserrat"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-water-q25047514/goat-water-q25047514-1.jpg",
+    "images/goat-water-q25047514/goat-water-q25047514-2.jpg",
+    "images/goat-water-q25047514/goat-water-q25047514-3.jpg",
+    "images/goat-water-q25047514/goat-water-q25047514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25047514",
+    "themealdb": null
+  }
+}

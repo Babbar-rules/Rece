@@ -1,0 +1,18 @@
+{
+  "id": "Q25220562",
+  "name": "cheese and tomato sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-and-tomato-sandwich-q25220562/cheese-and-tomato-sandwich-q25220562-1.jpg",
+    "images/cheese-and-tomato-sandwich-q25220562/cheese-and-tomato-sandwich-q25220562-2.jpg",
+    "images/cheese-and-tomato-sandwich-q25220562/cheese-and-tomato-sandwich-q25220562-3.jpg",
+    "images/cheese-and-tomato-sandwich-q25220562/cheese-and-tomato-sandwich-q25220562-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25220562",
+    "themealdb": null
+  }
+}

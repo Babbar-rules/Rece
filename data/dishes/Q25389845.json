@@ -1,0 +1,18 @@
+{
+  "id": "Q25389845",
+  "name": "grenki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grenki-q25389845/grenki-q25389845-1.jpg",
+    "images/grenki-q25389845/grenki-q25389845-2.jpg",
+    "images/grenki-q25389845/grenki-q25389845-3.jpg",
+    "images/grenki-q25389845/grenki-q25389845-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25389845",
+    "themealdb": null
+  }
+}

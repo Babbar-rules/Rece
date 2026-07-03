@@ -1,0 +1,18 @@
+{
+  "id": "Q25401378",
+  "name": "half-meat dish",
+  "description": "dish in which meat is not the main ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/half-meat-dish-q25401378/half-meat-dish-q25401378-1.jpg",
+    "images/half-meat-dish-q25401378/half-meat-dish-q25401378-2.jpg",
+    "images/half-meat-dish-q25401378/half-meat-dish-q25401378-3.jpg",
+    "images/half-meat-dish-q25401378/half-meat-dish-q25401378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25401378",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q25220535",
+  "name": "goat meat pepper soup",
+  "description": "spicy Nigerian soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-meat-pepper-soup-q25220535/goat-meat-pepper-soup-q25220535-1.jpg",
+    "images/goat-meat-pepper-soup-q25220535/goat-meat-pepper-soup-q25220535-2.jpg",
+    "images/goat-meat-pepper-soup-q25220535/goat-meat-pepper-soup-q25220535-3.jpg",
+    "images/goat-meat-pepper-soup-q25220535/goat-meat-pepper-soup-q25220535-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25220535",
+    "themealdb": null
+  }
+}

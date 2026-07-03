@@ -1,0 +1,18 @@
+{
+  "id": "Q25452130",
+  "name": "pulled oats",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pulled-oats-q25452130/pulled-oats-q25452130-1.jpg",
+    "images/pulled-oats-q25452130/pulled-oats-q25452130-2.jpg",
+    "images/pulled-oats-q25452130/pulled-oats-q25452130-3.jpg",
+    "images/pulled-oats-q25452130/pulled-oats-q25452130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25452130",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q25468949",
+  "name": "Gabus pucung",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/gabus-pucung-q25468949/gabus-pucung-q25468949-1.jpg",
+    "images/gabus-pucung-q25468949/gabus-pucung-q25468949-2.jpg",
+    "images/gabus-pucung-q25468949/gabus-pucung-q25468949-3.jpg",
+    "images/gabus-pucung-q25468949/gabus-pucung-q25468949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25468949",
+    "themealdb": null
+  }
+}

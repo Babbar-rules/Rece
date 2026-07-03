@@ -1,0 +1,18 @@
+{
+  "id": "Q25220878",
+  "name": "melon soup",
+  "description": "soup prepared using melons as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/melon-soup-q25220878/melon-soup-q25220878-1.jpg",
+    "images/melon-soup-q25220878/melon-soup-q25220878-2.jpg",
+    "images/melon-soup-q25220878/melon-soup-q25220878-3.jpg",
+    "images/melon-soup-q25220878/melon-soup-q25220878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25220878",
+    "themealdb": null
+  }
+}

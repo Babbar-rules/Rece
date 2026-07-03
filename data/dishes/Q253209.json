@@ -1,0 +1,22 @@
+{
+  "id": "Q253209",
+  "name": "Esterházy torte",
+  "description": "type of layer cake",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/esterhazy-torte-q253209/esterhazy-torte-q253209-1.jpg",
+    "images/esterhazy-torte-q253209/esterhazy-torte-q253209-2.jpg",
+    "images/esterhazy-torte-q253209/esterhazy-torte-q253209-3.jpg",
+    "images/esterhazy-torte-q253209/esterhazy-torte-q253209-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q253209",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2511331",
+  "name": "Tula gingerbread",
+  "description": "famous type of imprinted Russian pryanik",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tula-gingerbread-q2511331/tula-gingerbread-q2511331-1.jpg",
+    "images/tula-gingerbread-q2511331/tula-gingerbread-q2511331-2.jpg",
+    "images/tula-gingerbread-q2511331/tula-gingerbread-q2511331-3.jpg",
+    "images/tula-gingerbread-q2511331/tula-gingerbread-q2511331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2511331",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q25324560",
+  "name": "miniature food",
+  "description": "small-scale food item, either edible or an inedible decoration",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miniature-food-q25324560/miniature-food-q25324560-1.jpg",
+    "images/miniature-food-q25324560/miniature-food-q25324560-2.jpg",
+    "images/miniature-food-q25324560/miniature-food-q25324560-3.jpg",
+    "images/miniature-food-q25324560/miniature-food-q25324560-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25324560",
+    "themealdb": null
+  }
+}

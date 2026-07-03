@@ -1,0 +1,18 @@
+{
+  "id": "Q25098594",
+  "name": "cookie cake",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cookie-cake-q25098594/cookie-cake-q25098594-1.jpg",
+    "images/cookie-cake-q25098594/cookie-cake-q25098594-2.jpg",
+    "images/cookie-cake-q25098594/cookie-cake-q25098594-3.jpg",
+    "images/cookie-cake-q25098594/cookie-cake-q25098594-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25098594",
+    "themealdb": null
+  }
+}

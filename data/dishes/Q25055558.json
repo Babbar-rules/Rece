@@ -1,0 +1,18 @@
+{
+  "id": "Q25055558",
+  "name": "barbine",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barbine-q25055558/barbine-q25055558-1.jpg",
+    "images/barbine-q25055558/barbine-q25055558-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25055558",
+    "themealdb": null
+  }
+}

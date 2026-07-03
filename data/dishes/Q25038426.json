@@ -1,0 +1,20 @@
+{
+  "id": "Q25038426",
+  "name": "Chocolate pizza",
+  "description": "pizza prepared using chocolate",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-pizza-q25038426/chocolate-pizza-q25038426-1.jpg",
+    "images/chocolate-pizza-q25038426/chocolate-pizza-q25038426-2.jpg",
+    "images/chocolate-pizza-q25038426/chocolate-pizza-q25038426-3.jpg",
+    "images/chocolate-pizza-q25038426/chocolate-pizza-q25038426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25038426",
+    "themealdb": null
+  }
+}

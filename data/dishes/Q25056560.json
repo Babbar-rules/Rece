@@ -1,0 +1,20 @@
+{
+  "id": "Q25056560",
+  "name": "Brazil nut cake",
+  "description": "popular South American confection",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brazil-nut-cake-q25056560/brazil-nut-cake-q25056560-1.jpg",
+    "images/brazil-nut-cake-q25056560/brazil-nut-cake-q25056560-2.jpg",
+    "images/brazil-nut-cake-q25056560/brazil-nut-cake-q25056560-3.png",
+    "images/brazil-nut-cake-q25056560/brazil-nut-cake-q25056560-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25056560",
+    "themealdb": null
+  }
+}

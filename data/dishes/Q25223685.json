@@ -1,0 +1,20 @@
+{
+  "id": "Q25223685",
+  "name": "Puls",
+  "description": "staple dish of Ancient Rome",
+  "nationality": [
+    "Ancient Rome"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puls-q25223685/puls-q25223685-1.jpg",
+    "images/puls-q25223685/puls-q25223685-2.jpg",
+    "images/puls-q25223685/puls-q25223685-3.png",
+    "images/puls-q25223685/puls-q25223685-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25223685",
+    "themealdb": null
+  }
+}

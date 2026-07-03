@@ -1,0 +1,20 @@
+{
+  "id": "Q25043246",
+  "name": "Efo riro",
+  "description": "rich Nigeria vegetable stew that is native to the yorubas of the Western Nigeria",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/efo-riro-q25043246/efo-riro-q25043246-1.jpg",
+    "images/efo-riro-q25043246/efo-riro-q25043246-2.jpg",
+    "images/efo-riro-q25043246/efo-riro-q25043246-3.jpg",
+    "images/efo-riro-q25043246/efo-riro-q25043246-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25043246",
+    "themealdb": null
+  }
+}

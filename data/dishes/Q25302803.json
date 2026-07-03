@@ -1,0 +1,20 @@
+{
+  "id": "Q25302803",
+  "name": "medu vada",
+  "description": "South Indian breakfast snack made from black gram",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/medu-vada-q25302803/medu-vada-q25302803-1.jpg",
+    "images/medu-vada-q25302803/medu-vada-q25302803-2.jpg",
+    "images/medu-vada-q25302803/medu-vada-q25302803-3.jpg",
+    "images/medu-vada-q25302803/medu-vada-q25302803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25302803",
+    "themealdb": null
+  }
+}

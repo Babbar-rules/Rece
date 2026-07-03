@@ -1,0 +1,20 @@
+{
+  "id": "Q25060346",
+  "name": "Misérable cake",
+  "description": "traditional Belgian almond sponge cake",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miserable-cake-q25060346/miserable-cake-q25060346-1.jpg",
+    "images/miserable-cake-q25060346/miserable-cake-q25060346-2.jpg",
+    "images/miserable-cake-q25060346/miserable-cake-q25060346-3.jpg",
+    "images/miserable-cake-q25060346/miserable-cake-q25060346-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25060346",
+    "themealdb": null
+  }
+}

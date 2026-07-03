@@ -1,0 +1,18 @@
+{
+  "id": "Q25431007",
+  "name": "Pão no bafo",
+  "description": "typical dish from Palmeira, Paraná",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pao-no-bafo-q25431007/pao-no-bafo-q25431007-1.jpg",
+    "images/pao-no-bafo-q25431007/pao-no-bafo-q25431007-2.jpg",
+    "images/pao-no-bafo-q25431007/pao-no-bafo-q25431007-3.jpg",
+    "images/pao-no-bafo-q25431007/pao-no-bafo-q25431007-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25431007",
+    "themealdb": null
+  }
+}

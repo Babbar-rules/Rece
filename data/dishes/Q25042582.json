@@ -1,0 +1,18 @@
+{
+  "id": "Q25042582",
+  "name": "Paximathia",
+  "description": "type of rusk eaten in Greece",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paximathia-q25042582/paximathia-q25042582-1.jpg",
+    "images/paximathia-q25042582/paximathia-q25042582-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25042582",
+    "themealdb": null
+  }
+}

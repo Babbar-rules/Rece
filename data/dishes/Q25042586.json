@@ -1,0 +1,18 @@
+{
+  "id": "Q25042586",
+  "name": "carrot bread",
+  "description": "Bread featuring carrots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carrot-bread-q25042586/carrot-bread-q25042586-1.jpg",
+    "images/carrot-bread-q25042586/carrot-bread-q25042586-2.jpg",
+    "images/carrot-bread-q25042586/carrot-bread-q25042586-3.jpg",
+    "images/carrot-bread-q25042586/carrot-bread-q25042586-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25042586",
+    "themealdb": null
+  }
+}
