@@ -1,0 +1,18 @@
+{
+  "id": "Q4959186",
+  "name": "bread bowl",
+  "description": "filled bread dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-bowl-q4959186/bread-bowl-q4959186-1.jpg",
+    "images/bread-bowl-q4959186/bread-bowl-q4959186-2.jpg",
+    "images/bread-bowl-q4959186/bread-bowl-q4959186-3.jpg",
+    "images/bread-bowl-q4959186/bread-bowl-q4959186-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4959186",
+    "themealdb": null
+  }
+}

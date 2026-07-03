@@ -1,0 +1,20 @@
+{
+  "id": "Q4879746",
+  "name": "Beef Manhattan",
+  "description": "Dish consisting of roast beef and gravy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-manhattan-q4879746/beef-manhattan-q4879746-1.jpg",
+    "images/beef-manhattan-q4879746/beef-manhattan-q4879746-2.jpg",
+    "images/beef-manhattan-q4879746/beef-manhattan-q4879746-3.jpg",
+    "images/beef-manhattan-q4879746/beef-manhattan-q4879746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4879746",
+    "themealdb": null
+  }
+}

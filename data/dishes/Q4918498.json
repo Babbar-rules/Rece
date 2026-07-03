@@ -1,0 +1,64 @@
+{
+  "id": "Q4918498",
+  "name": "Bistek",
+  "description": "Spanish dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/bistek-q4918498/bistek-q4918498-1.jpg",
+    "images/bistek-q4918498/bistek-q4918498-2.jpg",
+    "images/bistek-q4918498/bistek-q4918498-3.jpg",
+    "images/bistek-q4918498/bistek-q4918498-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53069",
+    "category": "Beef",
+    "area": "Filipino",
+    "instructions": "0.\tMarinate beef in soy sauce, lemon (or calamansi), and ground black pepper for at least 1 hour. Note: marinate overnight for best result\r\n1.\tHeat the cooking oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside\r\n2.\tDrain the marinade from the beef. Set it aside. Pan-fry the beef on the same pan where the onions were fried for 1 minute per side. Remove from the pan. Set aside\r\n3.\tAdd more oil if needed. Saute garlic and remaining raw onions until onion softens.\r\n4.\tPour the remaining marinade and water. Bring to a boil.\r\n5.\tAdd beef. Cover the pan and simmer until the meat is tender. Note: Add water as needed.\r\n6.\tSeason with ground black pepper and salt as needed. Top with pan-fried onions.\r\n7.\tTransfer to a serving plate. Serve hot. Share and Enjoy!",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "1 lb"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "5 tablespoons"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "3 cloves"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "3 parts"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "4 tbs"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 pinch"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=xOQON5_S7as",
+    "thumb": "https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4918498",
+    "themealdb": "53069"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q48767872",
+  "name": "onion cake",
+  "description": "savory or sweet cake prepared using onion as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/onion-cake-q48767872/onion-cake-q48767872-1.jpg",
+    "images/onion-cake-q48767872/onion-cake-q48767872-2.jpg",
+    "images/onion-cake-q48767872/onion-cake-q48767872-3.jpg",
+    "images/onion-cake-q48767872/onion-cake-q48767872-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48767872",
+    "themealdb": null
+  }
+}

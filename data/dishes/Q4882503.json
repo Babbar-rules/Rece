@@ -1,0 +1,18 @@
+{
+  "id": "Q4882503",
+  "name": "Belgian bun",
+  "description": "Sweet bun with sultanas and icing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/belgian-bun-q4882503/belgian-bun-q4882503-1.jpg",
+    "images/belgian-bun-q4882503/belgian-bun-q4882503-2.jpg",
+    "images/belgian-bun-q4882503/belgian-bun-q4882503-3.jpg",
+    "images/belgian-bun-q4882503/belgian-bun-q4882503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4882503",
+    "themealdb": null
+  }
+}

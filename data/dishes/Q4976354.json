@@ -1,0 +1,17 @@
+{
+  "id": "Q4976354",
+  "name": "brown Windsor soup",
+  "description": "British soup",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [
+    "English cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4976354",
+    "themealdb": null
+  }
+}

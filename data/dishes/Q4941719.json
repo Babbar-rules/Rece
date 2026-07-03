@@ -1,0 +1,18 @@
+{
+  "id": "Q4941719",
+  "name": "Boneless Fish",
+  "description": "fish that has been scaled, gutted and deboned before being reassembled to look like a dressed fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boneless-fish-q4941719/boneless-fish-q4941719-1.jpg",
+    "images/boneless-fish-q4941719/boneless-fish-q4941719-2.jpg",
+    "images/boneless-fish-q4941719/boneless-fish-q4941719-3.jpeg",
+    "images/boneless-fish-q4941719/boneless-fish-q4941719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4941719",
+    "themealdb": null
+  }
+}

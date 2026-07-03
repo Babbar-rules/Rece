@@ -1,0 +1,22 @@
+{
+  "id": "Q48852218",
+  "name": "Busiate",
+  "description": "type of pasta",
+  "nationality": [
+    "Sicily"
+  ],
+  "region_cuisine": [
+    "Sicilian cuisine"
+  ],
+  "images": [
+    "images/busiate-q48852218/busiate-q48852218-1.jpg",
+    "images/busiate-q48852218/busiate-q48852218-2.jpg",
+    "images/busiate-q48852218/busiate-q48852218-3.jpg",
+    "images/busiate-q48852218/busiate-q48852218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48852218",
+    "themealdb": null
+  }
+}

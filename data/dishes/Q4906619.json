@@ -1,0 +1,20 @@
+{
+  "id": "Q4906619",
+  "name": "Big Turk",
+  "description": "Brand of chocolate bar by Nestle",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/big-turk-q4906619/big-turk-q4906619-1.jpg",
+    "images/big-turk-q4906619/big-turk-q4906619-2.png",
+    "images/big-turk-q4906619/big-turk-q4906619-3.jpg",
+    "images/big-turk-q4906619/big-turk-q4906619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4906619",
+    "themealdb": null
+  }
+}

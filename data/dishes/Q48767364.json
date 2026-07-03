@@ -1,0 +1,20 @@
+{
+  "id": "Q48767364",
+  "name": "stuffed crust pizza",
+  "description": "pizza with cheese or other toppings added into the crust",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-crust-pizza-q48767364/stuffed-crust-pizza-q48767364-1.jpg",
+    "images/stuffed-crust-pizza-q48767364/stuffed-crust-pizza-q48767364-2.jpg",
+    "images/stuffed-crust-pizza-q48767364/stuffed-crust-pizza-q48767364-3.jpg",
+    "images/stuffed-crust-pizza-q48767364/stuffed-crust-pizza-q48767364-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48767364",
+    "themealdb": null
+  }
+}

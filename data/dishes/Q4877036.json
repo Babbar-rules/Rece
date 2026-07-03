@@ -1,0 +1,20 @@
+{
+  "id": "Q4877036",
+  "name": "beaten biscuit",
+  "description": "type of biscuit",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beaten-biscuit-q4877036/beaten-biscuit-q4877036-1.jpg",
+    "images/beaten-biscuit-q4877036/beaten-biscuit-q4877036-2.jpg",
+    "images/beaten-biscuit-q4877036/beaten-biscuit-q4877036-3.jpg",
+    "images/beaten-biscuit-q4877036/beaten-biscuit-q4877036-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4877036",
+    "themealdb": null
+  }
+}

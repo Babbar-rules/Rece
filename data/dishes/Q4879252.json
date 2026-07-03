@@ -1,0 +1,20 @@
+{
+  "id": "Q4879252",
+  "name": "Bedfordshire clanger",
+  "description": "suet pastry",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bedfordshire-clanger-q4879252/bedfordshire-clanger-q4879252-1.jpg",
+    "images/bedfordshire-clanger-q4879252/bedfordshire-clanger-q4879252-2.jpg",
+    "images/bedfordshire-clanger-q4879252/bedfordshire-clanger-q4879252-3.jpg",
+    "images/bedfordshire-clanger-q4879252/bedfordshire-clanger-q4879252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4879252",
+    "themealdb": null
+  }
+}

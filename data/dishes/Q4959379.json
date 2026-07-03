@@ -1,0 +1,20 @@
+{
+  "id": "Q4959379",
+  "name": "Breakaway",
+  "description": "brand of chocolate-covered digestive biscuit from Nestlé",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/breakaway-q4959379/breakaway-q4959379-1.jpg",
+    "images/breakaway-q4959379/breakaway-q4959379-2.jpg",
+    "images/breakaway-q4959379/breakaway-q4959379-3.jpg",
+    "images/breakaway-q4959379/breakaway-q4959379-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4959379",
+    "themealdb": null
+  }
+}

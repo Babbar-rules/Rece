@@ -1,0 +1,18 @@
+{
+  "id": "Q4979804",
+  "name": "Brussels cookies",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/brussels-cookies-q4979804/brussels-cookies-q4979804-1.jpg",
+    "images/brussels-cookies-q4979804/brussels-cookies-q4979804-2.jpg",
+    "images/brussels-cookies-q4979804/brussels-cookies-q4979804-3.jpg",
+    "images/brussels-cookies-q4979804/brussels-cookies-q4979804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4979804",
+    "themealdb": null
+  }
+}

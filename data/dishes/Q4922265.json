@@ -1,0 +1,18 @@
+{
+  "id": "Q4922265",
+  "name": "black bean paste",
+  "description": "type of sweet bean paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-bean-paste-q4922265/black-bean-paste-q4922265-1.jpg",
+    "images/black-bean-paste-q4922265/black-bean-paste-q4922265-2.jpg",
+    "images/black-bean-paste-q4922265/black-bean-paste-q4922265-3.jpg",
+    "images/black-bean-paste-q4922265/black-bean-paste-q4922265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4922265",
+    "themealdb": null
+  }
+}

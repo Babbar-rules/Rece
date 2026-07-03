@@ -1,0 +1,22 @@
+{
+  "id": "Q4976066",
+  "name": "Brown Betty",
+  "description": "dessert typically made with apples",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/brown-betty-q4976066/brown-betty-q4976066-1.jpg",
+    "images/brown-betty-q4976066/brown-betty-q4976066-2.jpg",
+    "images/brown-betty-q4976066/brown-betty-q4976066-3.jpg",
+    "images/brown-betty-q4976066/brown-betty-q4976066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4976066",
+    "themealdb": null
+  }
+}

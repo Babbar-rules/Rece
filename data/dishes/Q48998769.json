@@ -1,0 +1,20 @@
+{
+  "id": "Q48998769",
+  "name": "stuffed bitter melon soup",
+  "description": "Vietnamese soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-bitter-melon-soup-q48998769/stuffed-bitter-melon-soup-q48998769-1.jpg",
+    "images/stuffed-bitter-melon-soup-q48998769/stuffed-bitter-melon-soup-q48998769-2.jpg",
+    "images/stuffed-bitter-melon-soup-q48998769/stuffed-bitter-melon-soup-q48998769-3.jpg",
+    "images/stuffed-bitter-melon-soup-q48998769/stuffed-bitter-melon-soup-q48998769-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48998769",
+    "themealdb": null
+  }
+}

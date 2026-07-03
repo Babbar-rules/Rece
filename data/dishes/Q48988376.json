@@ -1,0 +1,18 @@
+{
+  "id": "Q48988376",
+  "name": "cheese cracker",
+  "description": "type of cracker",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-cracker-q48988376/cheese-cracker-q48988376-1.jpg",
+    "images/cheese-cracker-q48988376/cheese-cracker-q48988376-2.jpeg",
+    "images/cheese-cracker-q48988376/cheese-cracker-q48988376-3.jpg",
+    "images/cheese-cracker-q48988376/cheese-cracker-q48988376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48988376",
+    "themealdb": null
+  }
+}

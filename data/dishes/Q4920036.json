@@ -1,0 +1,20 @@
+{
+  "id": "Q4920036",
+  "name": "Blachindla",
+  "description": "",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blachindla-q4920036/blachindla-q4920036-1.jpg",
+    "images/blachindla-q4920036/blachindla-q4920036-2.jpg",
+    "images/blachindla-q4920036/blachindla-q4920036-3.jpg",
+    "images/blachindla-q4920036/blachindla-q4920036-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4920036",
+    "themealdb": null
+  }
+}

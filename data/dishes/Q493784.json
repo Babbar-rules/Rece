@@ -1,0 +1,20 @@
+{
+  "id": "Q493784",
+  "name": "bingsu",
+  "description": "Korean shaved ice dessert with sweet toppings",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bingsu-q493784/bingsu-q493784-1.jpg",
+    "images/bingsu-q493784/bingsu-q493784-2.jpg",
+    "images/bingsu-q493784/bingsu-q493784-3.jpg",
+    "images/bingsu-q493784/bingsu-q493784-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q493784",
+    "themealdb": null
+  }
+}

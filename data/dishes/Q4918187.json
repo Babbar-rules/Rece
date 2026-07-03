@@ -1,0 +1,20 @@
+{
+  "id": "Q4918187",
+  "name": "biskotso",
+  "description": "type of Filipino twice-baked bread",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biskotso-q4918187/biskotso-q4918187-1.jpg",
+    "images/biskotso-q4918187/biskotso-q4918187-2.jpg",
+    "images/biskotso-q4918187/biskotso-q4918187-3.jpg",
+    "images/biskotso-q4918187/biskotso-q4918187-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4918187",
+    "themealdb": null
+  }
+}

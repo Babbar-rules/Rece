@@ -1,0 +1,18 @@
+{
+  "id": "Q4891863",
+  "name": "sancoche",
+  "description": "traditional soup in several Latin American cuisines",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sancoche-q4891863/sancoche-q4891863-1.jpg",
+    "images/sancoche-q4891863/sancoche-q4891863-2.jpg",
+    "images/sancoche-q4891863/sancoche-q4891863-3.jpg",
+    "images/sancoche-q4891863/sancoche-q4891863-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4891863",
+    "themealdb": null
+  }
+}

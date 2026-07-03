@@ -1,0 +1,18 @@
+{
+  "id": "Q4927898",
+  "name": "blood soup",
+  "description": "soup that uses blood as a principal ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blood-soup-q4927898/blood-soup-q4927898-1.jpg",
+    "images/blood-soup-q4927898/blood-soup-q4927898-2.jpg",
+    "images/blood-soup-q4927898/blood-soup-q4927898-3.jpg",
+    "images/blood-soup-q4927898/blood-soup-q4927898-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4927898",
+    "themealdb": null
+  }
+}

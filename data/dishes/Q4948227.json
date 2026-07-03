@@ -1,0 +1,20 @@
+{
+  "id": "Q4948227",
+  "name": "Boston baked beans",
+  "description": "culinary dish with cultural origin around Boston",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of New England"
+  ],
+  "images": [
+    "images/boston-baked-beans-q4948227/boston-baked-beans-q4948227-1.jpg",
+    "images/boston-baked-beans-q4948227/boston-baked-beans-q4948227-2.jpg",
+    "images/boston-baked-beans-q4948227/boston-baked-beans-q4948227-3.jpg",
+    "images/boston-baked-beans-q4948227/boston-baked-beans-q4948227-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4948227",
+    "themealdb": null
+  }
+}

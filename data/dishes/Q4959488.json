@@ -1,0 +1,18 @@
+{
+  "id": "Q4959488",
+  "name": "breakfast roll",
+  "description": "Irish sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/breakfast-roll-q4959488/breakfast-roll-q4959488-1.jpg",
+    "images/breakfast-roll-q4959488/breakfast-roll-q4959488-2.jpg",
+    "images/breakfast-roll-q4959488/breakfast-roll-q4959488-3.jpg",
+    "images/breakfast-roll-q4959488/breakfast-roll-q4959488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4959488",
+    "themealdb": null
+  }
+}

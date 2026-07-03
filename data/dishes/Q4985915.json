@@ -1,0 +1,18 @@
+{
+  "id": "Q4985915",
+  "name": "buffalo burger",
+  "description": "hamburgers made with meat from the American bison",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buffalo-burger-q4985915/buffalo-burger-q4985915-1.jpg",
+    "images/buffalo-burger-q4985915/buffalo-burger-q4985915-2.jpg",
+    "images/buffalo-burger-q4985915/buffalo-burger-q4985915-3.jpg",
+    "images/buffalo-burger-q4985915/buffalo-burger-q4985915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4985915",
+    "themealdb": null
+  }
+}

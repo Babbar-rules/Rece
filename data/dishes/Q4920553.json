@@ -1,0 +1,22 @@
+{
+  "id": "Q4920553",
+  "name": "Nasi ulam",
+  "description": "Indonesian and Malaysian rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-ulam-q4920553/nasi-ulam-q4920553-1.jpg",
+    "images/nasi-ulam-q4920553/nasi-ulam-q4920553-2.jpg",
+    "images/nasi-ulam-q4920553/nasi-ulam-q4920553-3.jpg",
+    "images/nasi-ulam-q4920553/nasi-ulam-q4920553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4920553",
+    "themealdb": null
+  }
+}

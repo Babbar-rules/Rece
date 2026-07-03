@@ -1,0 +1,16 @@
+{
+  "id": "Q4891611",
+  "name": "Berger Cookies",
+  "description": "german-American cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/berger-cookies-q4891611/berger-cookies-q4891611-1.jpg",
+    "images/berger-cookies-q4891611/berger-cookies-q4891611-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4891611",
+    "themealdb": null
+  }
+}

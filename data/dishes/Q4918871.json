@@ -1,0 +1,20 @@
+{
+  "id": "Q4918871",
+  "name": "Budu",
+  "description": "Fish sauce originating from Kelantan",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/budu-q4918871/budu-q4918871-1.jpg",
+    "images/budu-q4918871/budu-q4918871-2.jpg",
+    "images/budu-q4918871/budu-q4918871-3.jpg",
+    "images/budu-q4918871/budu-q4918871-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4918871",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q492642",
+  "name": "kai yang",
+  "description": "grilled chicken",
+  "nationality": [
+    "Laos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kai-yang-q492642/kai-yang-q492642-1.jpg",
+    "images/kai-yang-q492642/kai-yang-q492642-2.jpg",
+    "images/kai-yang-q492642/kai-yang-q492642-3.jpg",
+    "images/kai-yang-q492642/kai-yang-q492642-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q492642",
+    "themealdb": null
+  }
+}

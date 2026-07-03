@@ -1,0 +1,20 @@
+{
+  "id": "Q4939431",
+  "name": "Boliche",
+  "description": "Stuffed pot roast from Cuban cuisine",
+  "nationality": [
+    "Cuba"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boliche-q4939431/boliche-q4939431-1.jpg",
+    "images/boliche-q4939431/boliche-q4939431-2.jpg",
+    "images/boliche-q4939431/boliche-q4939431-3.jpg",
+    "images/boliche-q4939431/boliche-q4939431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4939431",
+    "themealdb": null
+  }
+}

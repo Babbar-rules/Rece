@@ -1,0 +1,18 @@
+{
+  "id": "Q4929458",
+  "name": "blue moon",
+  "description": "ice cream flavor",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blue-moon-q4929458/blue-moon-q4929458-1.jpg",
+    "images/blue-moon-q4929458/blue-moon-q4929458-2.jpg",
+    "images/blue-moon-q4929458/blue-moon-q4929458-3.jpg",
+    "images/blue-moon-q4929458/blue-moon-q4929458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4929458",
+    "themealdb": null
+  }
+}

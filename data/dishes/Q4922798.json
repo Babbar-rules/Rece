@@ -1,0 +1,18 @@
+{
+  "id": "Q4922798",
+  "name": "blackening",
+  "description": "cooking technique",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blackening-q4922798/blackening-q4922798-1.jpg",
+    "images/blackening-q4922798/blackening-q4922798-2.jpg",
+    "images/blackening-q4922798/blackening-q4922798-3.jpg",
+    "images/blackening-q4922798/blackening-q4922798-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4922798",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4892972",
+  "name": "gyūtan",
+  "description": "Japanese dish made from beef tongue",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyutan-q4892972/gyutan-q4892972-1.jpg",
+    "images/gyutan-q4892972/gyutan-q4892972-2.jpg",
+    "images/gyutan-q4892972/gyutan-q4892972-3.jpg",
+    "images/gyutan-q4892972/gyutan-q4892972-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4892972",
+    "themealdb": null
+  }
+}

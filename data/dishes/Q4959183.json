@@ -1,0 +1,68 @@
+{
+  "id": "Q4959183",
+  "name": "bread and butter pudding",
+  "description": "Traditional sweet British pudding",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/bread-and-butter-pudding-q4959183/bread-and-butter-pudding-q4959183-1.jpg",
+    "images/bread-and-butter-pudding-q4959183/bread-and-butter-pudding-q4959183-2.jpg",
+    "images/bread-and-butter-pudding-q4959183/bread-and-butter-pudding-q4959183-3.jpg",
+    "images/bread-and-butter-pudding-q4959183/bread-and-butter-pudding-q4959183-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52792",
+    "category": "Dessert",
+    "area": "British",
+    "instructions": "Grease a 1 litre/2 pint pie dish with butter.\r\nCut the crusts off the bread. Spread each slice with on one side with butter, then cut into triangles.\r\nArrange a layer of bread, buttered-side up, in the bottom of the dish, then add a layer of sultanas. Sprinkle with a little cinnamon, then repeat the layers of bread and sultanas, sprinkling with cinnamon, until you have used up all of the bread. Finish with a layer of bread, then set aside.\r\nGently warm the milk and cream in a pan over a low heat to scalding point. Don't let it boil.\r\nCrack the eggs into a bowl, add three quarters of the sugar and lightly whisk until pale.\r\nAdd the warm milk and cream mixture and stir well, then strain the custard into a bowl.\r\nPour the custard over the prepared bread layers and sprinkle with nutmeg and the remaining sugar and leave to stand for 30 minutes.\r\nPreheat the oven to 180C/355F/Gas 4.\r\nPlace the dish into the oven and bake for 30-40 minutes, or until the custard has set and the top is golden-brown.",
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "measure": "25g/1oz"
+      },
+      {
+        "ingredient": "bread",
+        "measure": "8 thin slices"
+      },
+      {
+        "ingredient": "sultanas",
+        "measure": "50g/2oz"
+      },
+      {
+        "ingredient": "cinnamon",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "milk",
+        "measure": "350ml/12fl"
+      },
+      {
+        "ingredient": "double cream",
+        "measure": "50ml/2fl oz"
+      },
+      {
+        "ingredient": "eggs",
+        "measure": "2 free-range"
+      },
+      {
+        "ingredient": "sugar",
+        "measure": "25g/1oz"
+      },
+      {
+        "ingredient": "nutmeg",
+        "measure": "grated, to taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=Vz5W1-BmOE4",
+    "thumb": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4959183",
+    "themealdb": "52792"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4905802",
+  "name": "Big Hardee",
+  "description": "hamburger made by Hardee's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-hardee-q4905802/big-hardee-q4905802-1.jpg",
+    "images/big-hardee-q4905802/big-hardee-q4905802-2.jpg",
+    "images/big-hardee-q4905802/big-hardee-q4905802-3.png",
+    "images/big-hardee-q4905802/big-hardee-q4905802-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4905802",
+    "themealdb": null
+  }
+}

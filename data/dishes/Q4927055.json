@@ -1,0 +1,18 @@
+{
+  "id": "Q4927055",
+  "name": "bloater",
+  "description": "whole herring, lightly salted and briefly smoked",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bloater-q4927055/bloater-q4927055-1.jpg",
+    "images/bloater-q4927055/bloater-q4927055-2.jpg",
+    "images/bloater-q4927055/bloater-q4927055-3.jpeg",
+    "images/bloater-q4927055/bloater-q4927055-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4927055",
+    "themealdb": null
+  }
+}

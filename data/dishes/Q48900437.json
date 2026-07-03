@@ -1,0 +1,22 @@
+{
+  "id": "Q48900437",
+  "name": "braised chicken",
+  "description": "dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/braised-chicken-q48900437/braised-chicken-q48900437-1.jpg",
+    "images/braised-chicken-q48900437/braised-chicken-q48900437-2.jpg",
+    "images/braised-chicken-q48900437/braised-chicken-q48900437-3.jpg",
+    "images/braised-chicken-q48900437/braised-chicken-q48900437-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48900437",
+    "themealdb": null
+  }
+}

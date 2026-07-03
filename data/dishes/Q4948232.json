@@ -1,0 +1,20 @@
+{
+  "id": "Q4948232",
+  "name": "Boston bun",
+  "description": "Sweet roll woth spices and thick icing",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boston-bun-q4948232/boston-bun-q4948232-1.jpg",
+    "images/boston-bun-q4948232/boston-bun-q4948232-2.jpg",
+    "images/boston-bun-q4948232/boston-bun-q4948232-3.jpg",
+    "images/boston-bun-q4948232/boston-bun-q4948232-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4948232",
+    "themealdb": null
+  }
+}

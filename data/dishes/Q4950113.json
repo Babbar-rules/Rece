@@ -1,0 +1,20 @@
+{
+  "id": "Q4950113",
+  "name": "Bourbon chicken",
+  "description": "dish made with bourbon whiskey",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bourbon-chicken-q4950113/bourbon-chicken-q4950113-1.jpg",
+    "images/bourbon-chicken-q4950113/bourbon-chicken-q4950113-2.jpg",
+    "images/bourbon-chicken-q4950113/bourbon-chicken-q4950113-3.jpg",
+    "images/bourbon-chicken-q4950113/bourbon-chicken-q4950113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4950113",
+    "themealdb": null
+  }
+}

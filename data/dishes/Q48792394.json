@@ -1,0 +1,88 @@
+{
+  "id": "Q48792394",
+  "name": "tartlet",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/tartlet-q48792394/tartlet-q48792394-1.jpg",
+    "images/tartlet-q48792394/tartlet-q48792394-2.jpg",
+    "images/tartlet-q48792394/tartlet-q48792394-3.jpg",
+    "images/tartlet-q48792394/tartlet-q48792394-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53132",
+    "category": "Dessert",
+    "area": "Norway",
+    "instructions": "Shells\r\n▢\r\nCombine the flour and powdered sugar in a food processor. Add the butter and pulse until it's evenly distributed. Add the egg and pulse until the dough comes together.\r\n▢\r\nRoll out the dough on a floured surface. Cut the dough in circles with a large mug. Press the circles down into a greased muffin pan. Put the pan of shells in the fridge while you prepare the almond filling.\r\nAlmond filling\r\n▢\r\nPreheat oven to 355°F (180°C).\r\n▢\r\nWhisk the egg and powdered sugar together until thick and airy. Melt the butter and stir it into the egg mixture. Stir in the vanilla, flour, and almond extract. Stir in the almond flour.\r\n▢\r\nPipe or spoon the almond filling onto the shells, filling the shells about 3/4 full.\r\n▢\r\nBake the mazariner for 20 – 25 minutes, until light golden brown. Cool on a wire rack.\r\nGlaze\r\n▢\r\nMix together the powdered sugar and liquid until you get a spreadable glaze. Spread the glaze on top of the mazariner and if you wish, decorate with sprinkles, or anything you like.",
+    "ingredients": [
+      {
+        "ingredient": "Flour",
+        "measure": "3 Cups"
+      },
+      {
+        "ingredient": "Powdered Sugar",
+        "measure": "1 1/4 cup"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Powdered Sugar",
+        "measure": "1 1/4 cup"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "2 teaspoons"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "2 tblsp"
+      },
+      {
+        "ingredient": "Almond Flour",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Almond Extract",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Powdered Sugar",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Heavy Cream",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Almond Extract",
+        "measure": "1/4 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ZpZ_8mcmNLI",
+    "thumb": "https://www.themealdb.com/images/media/meals/uh1n5u1763075545.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48792394",
+    "themealdb": "53132"
+  }
+}

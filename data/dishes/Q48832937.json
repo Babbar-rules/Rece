@@ -1,0 +1,20 @@
+{
+  "id": "Q48832937",
+  "name": "Mantecados de Estepa",
+  "description": "Spanish cake",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mantecados-de-estepa-q48832937/mantecados-de-estepa-q48832937-1.jpg",
+    "images/mantecados-de-estepa-q48832937/mantecados-de-estepa-q48832937-2.jpg",
+    "images/mantecados-de-estepa-q48832937/mantecados-de-estepa-q48832937-3.jpg",
+    "images/mantecados-de-estepa-q48832937/mantecados-de-estepa-q48832937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48832937",
+    "themealdb": null
+  }
+}

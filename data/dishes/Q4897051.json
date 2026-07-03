@@ -1,0 +1,18 @@
+{
+  "id": "Q4897051",
+  "name": "Croquants",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/croquants-q4897051/croquants-q4897051-1.jpg",
+    "images/croquants-q4897051/croquants-q4897051-2.jpg",
+    "images/croquants-q4897051/croquants-q4897051-3.jpg",
+    "images/croquants-q4897051/croquants-q4897051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4897051",
+    "themealdb": null
+  }
+}

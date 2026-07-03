@@ -1,0 +1,18 @@
+{
+  "id": "Q4947090",
+  "name": "Borş de burechiuşe",
+  "description": "Romanian and Moldovan dish",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bors-de-burechiuse-q4947090/bors-de-burechiuse-q4947090-1.jpg",
+    "images/bors-de-burechiuse-q4947090/bors-de-burechiuse-q4947090-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4947090",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4903057",
+  "name": "Bibingka",
+  "description": "baked rice cake from Indonesia and Philippines",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bibingka-q4903057/bibingka-q4903057-1.jpg",
+    "images/bibingka-q4903057/bibingka-q4903057-2.jpg",
+    "images/bibingka-q4903057/bibingka-q4903057-3.jpg",
+    "images/bibingka-q4903057/bibingka-q4903057-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4903057",
+    "themealdb": null
+  }
+}

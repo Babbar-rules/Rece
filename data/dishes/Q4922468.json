@@ -1,0 +1,20 @@
+{
+  "id": "Q4922468",
+  "name": "black sesame rice cake",
+  "description": "Chinese traditional cake",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-sesame-rice-cake-q4922468/black-sesame-rice-cake-q4922468-1.jpg",
+    "images/black-sesame-rice-cake-q4922468/black-sesame-rice-cake-q4922468-2.jpg",
+    "images/black-sesame-rice-cake-q4922468/black-sesame-rice-cake-q4922468-3.jpg",
+    "images/black-sesame-rice-cake-q4922468/black-sesame-rice-cake-q4922468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4922468",
+    "themealdb": null
+  }
+}

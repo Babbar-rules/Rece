@@ -1,0 +1,18 @@
+{
+  "id": "Q4921064",
+  "name": "Black Jack",
+  "description": "confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-jack-q4921064/black-jack-q4921064-1.jpg",
+    "images/black-jack-q4921064/black-jack-q4921064-2.jpg",
+    "images/black-jack-q4921064/black-jack-q4921064-3.png",
+    "images/black-jack-q4921064/black-jack-q4921064-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4921064",
+    "themealdb": null
+  }
+}

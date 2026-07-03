@@ -1,0 +1,20 @@
+{
+  "id": "Q4983108",
+  "name": "buckeye candy",
+  "description": "chocolate-covered peanut butter candy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buckeye-candy-q4983108/buckeye-candy-q4983108-1.jpg",
+    "images/buckeye-candy-q4983108/buckeye-candy-q4983108-2.jpg",
+    "images/buckeye-candy-q4983108/buckeye-candy-q4983108-3.jpg",
+    "images/buckeye-candy-q4983108/buckeye-candy-q4983108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4983108",
+    "themealdb": null
+  }
+}

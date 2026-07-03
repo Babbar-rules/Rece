@@ -1,0 +1,20 @@
+{
+  "id": "Q4968516",
+  "name": "Briouat",
+  "description": "Moroccan traditional pastry",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/briouat-q4968516/briouat-q4968516-1.jpg",
+    "images/briouat-q4968516/briouat-q4968516-2.jpg",
+    "images/briouat-q4968516/briouat-q4968516-3.jpg",
+    "images/briouat-q4968516/briouat-q4968516-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4968516",
+    "themealdb": null
+  }
+}

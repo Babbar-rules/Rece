@@ -1,0 +1,20 @@
+{
+  "id": "Q48880901",
+  "name": "bánh đậu xanh",
+  "description": "Vietnamese and Chinese pastry",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-au-xanh-q48880901/banh-au-xanh-q48880901-1.jpg",
+    "images/banh-au-xanh-q48880901/banh-au-xanh-q48880901-2.jpg",
+    "images/banh-au-xanh-q48880901/banh-au-xanh-q48880901-3.jpg",
+    "images/banh-au-xanh-q48880901/banh-au-xanh-q48880901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48880901",
+    "themealdb": null
+  }
+}

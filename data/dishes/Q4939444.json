@@ -1,0 +1,20 @@
+{
+  "id": "Q4939444",
+  "name": "bolillo",
+  "description": "small baguette-like bread from Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolillo-q4939444/bolillo-q4939444-1.jpg",
+    "images/bolillo-q4939444/bolillo-q4939444-2.jpg",
+    "images/bolillo-q4939444/bolillo-q4939444-3.jpg",
+    "images/bolillo-q4939444/bolillo-q4939444-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4939444",
+    "themealdb": null
+  }
+}

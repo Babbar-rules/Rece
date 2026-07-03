@@ -1,0 +1,22 @@
+{
+  "id": "Q4940768",
+  "name": "bombolone",
+  "description": "Italian filled doughnut",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/bombolone-q4940768/bombolone-q4940768-1.jpg",
+    "images/bombolone-q4940768/bombolone-q4940768-2.jpg",
+    "images/bombolone-q4940768/bombolone-q4940768-3.jpg",
+    "images/bombolone-q4940768/bombolone-q4940768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4940768",
+    "themealdb": null
+  }
+}

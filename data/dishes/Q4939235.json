@@ -1,0 +1,72 @@
+{
+  "id": "Q4939235",
+  "name": "noodle soup",
+  "description": "soup with noodles as main ingredient",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Seafood"
+  ],
+  "images": [
+    "images/noodle-soup-q4939235/noodle-soup-q4939235-1.jpg",
+    "images/noodle-soup-q4939235/noodle-soup-q4939235-2.jpg",
+    "images/noodle-soup-q4939235/noodle-soup-q4939235-3.jpg",
+    "images/noodle-soup-q4939235/noodle-soup-q4939235-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53234",
+    "category": "Seafood",
+    "area": "Vietnamese",
+    "instructions": "step 1\r\nPour the stock into a large pan, bring to the boil, then stir in the curry paste. Add the noodles and cook for 8 mins. Tip in the mushrooms and corn and cook for 2 mins more.\r\n\r\nstep 2\r\nAdd the salmon to the pan and cook for 3 mins or until cooked through. Remove from the heat and stir in the lime juice, soy sauce and a pinch of sugar. Ladle into 4 bowls and sprinkle over the coriander just before you serve.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "1 L"
+      },
+      {
+        "ingredient": "Thai Red Curry Paste",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Rice Noodles",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Shiitake Mushrooms",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Sweetcorn",
+        "measure": "125g"
+      },
+      {
+        "ingredient": "Salmon",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "Juice of 2"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Brown Sugar",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "Bunch"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=__Kh1sizUAM",
+    "thumb": "https://www.themealdb.com/images/media/meals/ikizdm1763760862.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4939235",
+    "themealdb": "53234"
+  }
+}

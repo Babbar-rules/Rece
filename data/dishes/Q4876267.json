@@ -1,0 +1,18 @@
+{
+  "id": "Q4876267",
+  "name": "bean salad",
+  "description": "salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bean-salad-q4876267/bean-salad-q4876267-1.jpg",
+    "images/bean-salad-q4876267/bean-salad-q4876267-2.jpg",
+    "images/bean-salad-q4876267/bean-salad-q4876267-3.jpg",
+    "images/bean-salad-q4876267/bean-salad-q4876267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4876267",
+    "themealdb": null
+  }
+}

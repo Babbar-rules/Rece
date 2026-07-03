@@ -1,0 +1,18 @@
+{
+  "id": "Q4902207",
+  "name": "Bhurta",
+  "description": "fried mixture of mashed vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bhurta-q4902207/bhurta-q4902207-1.jpg",
+    "images/bhurta-q4902207/bhurta-q4902207-2.jpg",
+    "images/bhurta-q4902207/bhurta-q4902207-3.jpg",
+    "images/bhurta-q4902207/bhurta-q4902207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4902207",
+    "themealdb": null
+  }
+}

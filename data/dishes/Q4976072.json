@@ -1,0 +1,20 @@
+{
+  "id": "Q4976072",
+  "name": "Brown Bobby",
+  "description": "type of donut",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brown-bobby-q4976072/brown-bobby-q4976072-1.jpg",
+    "images/brown-bobby-q4976072/brown-bobby-q4976072-2.jpg",
+    "images/brown-bobby-q4976072/brown-bobby-q4976072-3.jpg",
+    "images/brown-bobby-q4976072/brown-bobby-q4976072-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4976072",
+    "themealdb": null
+  }
+}

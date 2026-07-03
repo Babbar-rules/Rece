@@ -1,0 +1,22 @@
+{
+  "id": "Q4922950",
+  "name": "khao soi",
+  "description": "Thai noodle soup",
+  "nationality": [],
+  "region_cuisine": [
+    "Burmese cuisine",
+    "Lao cuisine",
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/khao-soi-q4922950/khao-soi-q4922950-1.jpg",
+    "images/khao-soi-q4922950/khao-soi-q4922950-2.jpg",
+    "images/khao-soi-q4922950/khao-soi-q4922950-3.jpg",
+    "images/khao-soi-q4922950/khao-soi-q4922950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4922950",
+    "themealdb": null
+  }
+}

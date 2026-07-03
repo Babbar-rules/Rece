@@ -1,0 +1,18 @@
+{
+  "id": "Q4936074",
+  "name": "Boca Burger",
+  "description": "Veggie burger by Kraft Heinz",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boca-burger-q4936074/boca-burger-q4936074-1.jpg",
+    "images/boca-burger-q4936074/boca-burger-q4936074-2.jpg",
+    "images/boca-burger-q4936074/boca-burger-q4936074-3.jpg",
+    "images/boca-burger-q4936074/boca-burger-q4936074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4936074",
+    "themealdb": null
+  }
+}

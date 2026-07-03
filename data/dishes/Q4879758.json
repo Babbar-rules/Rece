@@ -1,0 +1,20 @@
+{
+  "id": "Q4879758",
+  "name": "beef on weck",
+  "description": "roast beef sandwich on a kummelweck roll",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-on-weck-q4879758/beef-on-weck-q4879758-1.jpg",
+    "images/beef-on-weck-q4879758/beef-on-weck-q4879758-2.jpg",
+    "images/beef-on-weck-q4879758/beef-on-weck-q4879758-3.jpg",
+    "images/beef-on-weck-q4879758/beef-on-weck-q4879758-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4879758",
+    "themealdb": null
+  }
+}

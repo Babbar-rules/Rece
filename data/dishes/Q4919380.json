@@ -1,0 +1,18 @@
+{
+  "id": "Q4919380",
+  "name": "bizcocho (pastry)",
+  "description": "pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bizcocho-pastry-q4919380/bizcocho-pastry-q4919380-1.jpg",
+    "images/bizcocho-pastry-q4919380/bizcocho-pastry-q4919380-2.jpg",
+    "images/bizcocho-pastry-q4919380/bizcocho-pastry-q4919380-3.png",
+    "images/bizcocho-pastry-q4919380/bizcocho-pastry-q4919380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4919380",
+    "themealdb": null
+  }
+}

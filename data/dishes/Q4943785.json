@@ -1,0 +1,18 @@
+{
+  "id": "Q4943785",
+  "name": "Boost",
+  "description": "brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boost-q4943785/boost-q4943785-1.jpg",
+    "images/boost-q4943785/boost-q4943785-2.png",
+    "images/boost-q4943785/boost-q4943785-3.jpg",
+    "images/boost-q4943785/boost-q4943785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4943785",
+    "themealdb": null
+  }
+}

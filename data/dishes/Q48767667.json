@@ -1,0 +1,20 @@
+{
+  "id": "Q48767667",
+  "name": "pan pizza",
+  "description": "pizza baked in a pan",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-pizza-q48767667/pan-pizza-q48767667-1.jpg",
+    "images/pan-pizza-q48767667/pan-pizza-q48767667-2.jpg",
+    "images/pan-pizza-q48767667/pan-pizza-q48767667-3.jpg",
+    "images/pan-pizza-q48767667/pan-pizza-q48767667-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48767667",
+    "themealdb": null
+  }
+}

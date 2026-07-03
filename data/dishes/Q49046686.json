@@ -1,0 +1,20 @@
+{
+  "id": "Q49046686",
+  "name": "Goroke",
+  "description": "Korean style Croquette",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goroke-q49046686/goroke-q49046686-1.jpg",
+    "images/goroke-q49046686/goroke-q49046686-2.jpg",
+    "images/goroke-q49046686/goroke-q49046686-3.jpg",
+    "images/goroke-q49046686/goroke-q49046686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q49046686",
+    "themealdb": null
+  }
+}

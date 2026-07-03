@@ -1,0 +1,18 @@
+{
+  "id": "Q49077107",
+  "name": "futomaki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/futomaki-q49077107/futomaki-q49077107-1.jpg",
+    "images/futomaki-q49077107/futomaki-q49077107-2.jpg",
+    "images/futomaki-q49077107/futomaki-q49077107-3.jpg",
+    "images/futomaki-q49077107/futomaki-q49077107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q49077107",
+    "themealdb": null
+  }
+}

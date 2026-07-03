@@ -1,0 +1,20 @@
+{
+  "id": "Q4948413",
+  "name": "Botan Rice Candy",
+  "description": "Japanese lemon-orange flavored candy with an outer layer of rice paper",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/botan-rice-candy-q4948413/botan-rice-candy-q4948413-1.jpg",
+    "images/botan-rice-candy-q4948413/botan-rice-candy-q4948413-2.jpg",
+    "images/botan-rice-candy-q4948413/botan-rice-candy-q4948413-3.jpg",
+    "images/botan-rice-candy-q4948413/botan-rice-candy-q4948413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4948413",
+    "themealdb": null
+  }
+}

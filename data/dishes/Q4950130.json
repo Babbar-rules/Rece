@@ -1,0 +1,18 @@
+{
+  "id": "Q4950130",
+  "name": "Bourdeto",
+  "description": "fish dish from Corfu",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bourdeto-q4950130/bourdeto-q4950130-1.jpg",
+    "images/bourdeto-q4950130/bourdeto-q4950130-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4950130",
+    "themealdb": null
+  }
+}

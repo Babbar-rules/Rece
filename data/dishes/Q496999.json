@@ -1,0 +1,22 @@
+{
+  "id": "Q496999",
+  "name": "hotteok",
+  "description": "Korean snack food",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean Chinese cuisine"
+  ],
+  "images": [
+    "images/hotteok-q496999/hotteok-q496999-1.jpg",
+    "images/hotteok-q496999/hotteok-q496999-2.jpg",
+    "images/hotteok-q496999/hotteok-q496999-3.jpg",
+    "images/hotteok-q496999/hotteok-q496999-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q496999",
+    "themealdb": null
+  }
+}

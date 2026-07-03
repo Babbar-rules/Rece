@@ -1,0 +1,20 @@
+{
+  "id": "Q489266",
+  "name": "Anchoïade",
+  "description": "French dipping sauce",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of Provence"
+  ],
+  "images": [
+    "images/anchoiade-q489266/anchoiade-q489266-1.jpg",
+    "images/anchoiade-q489266/anchoiade-q489266-2.jpg",
+    "images/anchoiade-q489266/anchoiade-q489266-3.jpg",
+    "images/anchoiade-q489266/anchoiade-q489266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q489266",
+    "themealdb": null
+  }
+}

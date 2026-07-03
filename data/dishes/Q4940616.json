@@ -1,0 +1,19 @@
+{
+  "id": "Q4940616",
+  "name": "bombe glacée",
+  "description": "type of French ice cream dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bombe-glacee-q4940616/bombe-glacee-q4940616-1.png",
+    "images/bombe-glacee-q4940616/bombe-glacee-q4940616-2.png",
+    "images/bombe-glacee-q4940616/bombe-glacee-q4940616-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4940616",
+    "themealdb": null
+  }
+}

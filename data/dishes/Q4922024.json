@@ -1,0 +1,18 @@
+{
+  "id": "Q4922024",
+  "name": "Black Thunder",
+  "description": "Japanese chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-thunder-q4922024/black-thunder-q4922024-1.jpg",
+    "images/black-thunder-q4922024/black-thunder-q4922024-2.jpg",
+    "images/black-thunder-q4922024/black-thunder-q4922024-3.jpg",
+    "images/black-thunder-q4922024/black-thunder-q4922024-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4922024",
+    "themealdb": null
+  }
+}

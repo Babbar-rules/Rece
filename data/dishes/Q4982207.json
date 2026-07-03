@@ -1,0 +1,20 @@
+{
+  "id": "Q4982207",
+  "name": "Bubble O' Bill",
+  "description": "ice cream",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubble-o-bill-q4982207/bubble-o-bill-q4982207-1.png",
+    "images/bubble-o-bill-q4982207/bubble-o-bill-q4982207-2.png",
+    "images/bubble-o-bill-q4982207/bubble-o-bill-q4982207-3.jpg",
+    "images/bubble-o-bill-q4982207/bubble-o-bill-q4982207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4982207",
+    "themealdb": null
+  }
+}

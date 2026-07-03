@@ -1,0 +1,24 @@
+{
+  "id": "Q493749",
+  "name": "rødgrød",
+  "description": "Danish/German dessert",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [
+    "German cuisine",
+    "Danish cuisine",
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/rdgrd-q493749/rdgrd-q493749-1.jpg",
+    "images/rdgrd-q493749/rdgrd-q493749-2.jpg",
+    "images/rdgrd-q493749/rdgrd-q493749-3.jpg",
+    "images/rdgrd-q493749/rdgrd-q493749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q493749",
+    "themealdb": null
+  }
+}

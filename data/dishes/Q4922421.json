@@ -1,0 +1,20 @@
+{
+  "id": "Q4922421",
+  "name": "black pepper crab",
+  "description": "Singaporean dish consisting of crab fried with black pepper",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-pepper-crab-q4922421/black-pepper-crab-q4922421-1.jpg",
+    "images/black-pepper-crab-q4922421/black-pepper-crab-q4922421-2.jpg",
+    "images/black-pepper-crab-q4922421/black-pepper-crab-q4922421-3.jpg",
+    "images/black-pepper-crab-q4922421/black-pepper-crab-q4922421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4922421",
+    "themealdb": null
+  }
+}

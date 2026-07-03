@@ -1,0 +1,20 @@
+{
+  "id": "Q48852221",
+  "name": "sedani",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sedani-q48852221/sedani-q48852221-1.png",
+    "images/sedani-q48852221/sedani-q48852221-2.jpg",
+    "images/sedani-q48852221/sedani-q48852221-3.jpg",
+    "images/sedani-q48852221/sedani-q48852221-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48852221",
+    "themealdb": null
+  }
+}

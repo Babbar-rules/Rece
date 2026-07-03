@@ -1,0 +1,18 @@
+{
+  "id": "Q4904727",
+  "name": "bife a cavalo",
+  "description": "traditional dish in Portugal and Brazil, consisting of a grilled, sometimes deep fried steak, with fried eggs on top",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bife-a-cavalo-q4904727/bife-a-cavalo-q4904727-1.jpg",
+    "images/bife-a-cavalo-q4904727/bife-a-cavalo-q4904727-2.jpg",
+    "images/bife-a-cavalo-q4904727/bife-a-cavalo-q4904727-3.jpg",
+    "images/bife-a-cavalo-q4904727/bife-a-cavalo-q4904727-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4904727",
+    "themealdb": null
+  }
+}

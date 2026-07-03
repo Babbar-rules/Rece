@@ -1,0 +1,20 @@
+{
+  "id": "Q4944137",
+  "name": "booza",
+  "description": "ice cream, commonly found in the Levant, known for its elastic texture and resistance to melting, made with orchid tuber flour (salep/sahlab)",
+  "nationality": [
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/booza-q4944137/booza-q4944137-1.jpg",
+    "images/booza-q4944137/booza-q4944137-2.png",
+    "images/booza-q4944137/booza-q4944137-3.jpg",
+    "images/booza-q4944137/booza-q4944137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4944137",
+    "themealdb": null
+  }
+}

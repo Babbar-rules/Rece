@@ -1,0 +1,18 @@
+{
+  "id": "Q48762320",
+  "name": "bara-zushi",
+  "description": "form of sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bara-zushi-q48762320/bara-zushi-q48762320-1.jpg",
+    "images/bara-zushi-q48762320/bara-zushi-q48762320-2.jpg",
+    "images/bara-zushi-q48762320/bara-zushi-q48762320-3.jpg",
+    "images/bara-zushi-q48762320/bara-zushi-q48762320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48762320",
+    "themealdb": null
+  }
+}

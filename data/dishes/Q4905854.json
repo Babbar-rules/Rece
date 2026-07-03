@@ -1,0 +1,18 @@
+{
+  "id": "Q4905854",
+  "name": "Big Hunk",
+  "description": "Candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-hunk-q4905854/big-hunk-q4905854-1.jpg",
+    "images/big-hunk-q4905854/big-hunk-q4905854-2.jpg",
+    "images/big-hunk-q4905854/big-hunk-q4905854-3.jpg",
+    "images/big-hunk-q4905854/big-hunk-q4905854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4905854",
+    "themealdb": null
+  }
+}

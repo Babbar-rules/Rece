@@ -1,0 +1,20 @@
+{
+  "id": "Q4938329",
+  "name": "boiled beef",
+  "description": "traditional English dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boiled-beef-q4938329/boiled-beef-q4938329-1.jpg",
+    "images/boiled-beef-q4938329/boiled-beef-q4938329-2.jpg",
+    "images/boiled-beef-q4938329/boiled-beef-q4938329-3.jpg",
+    "images/boiled-beef-q4938329/boiled-beef-q4938329-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4938329",
+    "themealdb": null
+  }
+}

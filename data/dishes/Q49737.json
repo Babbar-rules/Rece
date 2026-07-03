@@ -1,0 +1,18 @@
+{
+  "id": "Q49737",
+  "name": "cotton candy",
+  "description": "confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cotton-candy-q49737/cotton-candy-q49737-1.jpg",
+    "images/cotton-candy-q49737/cotton-candy-q49737-2.jpg",
+    "images/cotton-candy-q49737/cotton-candy-q49737-3.jpg",
+    "images/cotton-candy-q49737/cotton-candy-q49737-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q49737",
+    "themealdb": null
+  }
+}

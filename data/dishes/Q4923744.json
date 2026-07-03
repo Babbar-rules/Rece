@@ -1,0 +1,20 @@
+{
+  "id": "Q4923744",
+  "name": "nasi goreng pattaya",
+  "description": "Thailand rice dish",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-goreng-pattaya-q4923744/nasi-goreng-pattaya-q4923744-1.jpg",
+    "images/nasi-goreng-pattaya-q4923744/nasi-goreng-pattaya-q4923744-2.jpg",
+    "images/nasi-goreng-pattaya-q4923744/nasi-goreng-pattaya-q4923744-3.png",
+    "images/nasi-goreng-pattaya-q4923744/nasi-goreng-pattaya-q4923744-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4923744",
+    "themealdb": null
+  }
+}

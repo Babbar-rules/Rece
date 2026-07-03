@@ -1,0 +1,20 @@
+{
+  "id": "Q4939975",
+  "name": "Bologna sandwich",
+  "description": "North American sandwich variety",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bologna-sandwich-q4939975/bologna-sandwich-q4939975-1.jpg",
+    "images/bologna-sandwich-q4939975/bologna-sandwich-q4939975-2.jpg",
+    "images/bologna-sandwich-q4939975/bologna-sandwich-q4939975-3.jpg",
+    "images/bologna-sandwich-q4939975/bologna-sandwich-q4939975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4939975",
+    "themealdb": null
+  }
+}

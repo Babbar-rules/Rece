@@ -1,0 +1,24 @@
+{
+  "id": "Q489703",
+  "name": "Red beans and rice",
+  "description": "dish characteristic of Louisiana Creole cuisine",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Cuisine of New Orleans",
+    "Louisiana Creole cuisine",
+    "soul food"
+  ],
+  "images": [
+    "images/red-beans-and-rice-q489703/red-beans-and-rice-q489703-1.jpg",
+    "images/red-beans-and-rice-q489703/red-beans-and-rice-q489703-2.jpg",
+    "images/red-beans-and-rice-q489703/red-beans-and-rice-q489703-3.jpg",
+    "images/red-beans-and-rice-q489703/red-beans-and-rice-q489703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q489703",
+    "themealdb": null
+  }
+}

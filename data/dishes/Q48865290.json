@@ -1,0 +1,18 @@
+{
+  "id": "Q48865290",
+  "name": "coal-fired pizza",
+  "description": "pizza cooked in a coal-fired pizza ovens reacing up to 482 °C, cooked for only 2–5 minutes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coal-fired-pizza-q48865290/coal-fired-pizza-q48865290-1.jpg",
+    "images/coal-fired-pizza-q48865290/coal-fired-pizza-q48865290-2.jpg",
+    "images/coal-fired-pizza-q48865290/coal-fired-pizza-q48865290-3.jpg",
+    "images/coal-fired-pizza-q48865290/coal-fired-pizza-q48865290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48865290",
+    "themealdb": null
+  }
+}

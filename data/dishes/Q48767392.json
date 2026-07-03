@@ -1,0 +1,20 @@
+{
+  "id": "Q48767392",
+  "name": "pain de mie",
+  "description": "sandwich bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pain-de-mie-q48767392/pain-de-mie-q48767392-1.jpg",
+    "images/pain-de-mie-q48767392/pain-de-mie-q48767392-2.jpg",
+    "images/pain-de-mie-q48767392/pain-de-mie-q48767392-3.jpg",
+    "images/pain-de-mie-q48767392/pain-de-mie-q48767392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48767392",
+    "themealdb": null
+  }
+}

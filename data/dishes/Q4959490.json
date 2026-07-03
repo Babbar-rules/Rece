@@ -1,0 +1,20 @@
+{
+  "id": "Q4959490",
+  "name": "breakfast sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/breakfast-sandwich-q4959490/breakfast-sandwich-q4959490-1.jpg",
+    "images/breakfast-sandwich-q4959490/breakfast-sandwich-q4959490-2.jpg",
+    "images/breakfast-sandwich-q4959490/breakfast-sandwich-q4959490-3.jpg",
+    "images/breakfast-sandwich-q4959490/breakfast-sandwich-q4959490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4959490",
+    "themealdb": null
+  }
+}

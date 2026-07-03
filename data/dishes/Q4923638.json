@@ -1,0 +1,21 @@
+{
+  "id": "Q4923638",
+  "name": "nam tok",
+  "description": "Southeast Asian soup or meat salad",
+  "nationality": [],
+  "region_cuisine": [
+    "Lao cuisine",
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/nam-tok-q4923638/nam-tok-q4923638-1.jpg",
+    "images/nam-tok-q4923638/nam-tok-q4923638-2.jpg",
+    "images/nam-tok-q4923638/nam-tok-q4923638-3.jpg",
+    "images/nam-tok-q4923638/nam-tok-q4923638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4923638",
+    "themealdb": null
+  }
+}

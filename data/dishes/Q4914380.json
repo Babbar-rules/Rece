@@ -1,0 +1,20 @@
+{
+  "id": "Q4914380",
+  "name": "Binignit",
+  "description": "Visayan dessert soup",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/binignit-q4914380/binignit-q4914380-1.jpg",
+    "images/binignit-q4914380/binignit-q4914380-2.jpg",
+    "images/binignit-q4914380/binignit-q4914380-3.jpg",
+    "images/binignit-q4914380/binignit-q4914380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4914380",
+    "themealdb": null
+  }
+}

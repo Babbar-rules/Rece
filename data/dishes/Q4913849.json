@@ -1,0 +1,20 @@
+{
+  "id": "Q4913849",
+  "name": "Binalot",
+  "description": "technique in Filipino cuisine",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/binalot-q4913849/binalot-q4913849-1.jpg",
+    "images/binalot-q4913849/binalot-q4913849-2.jpg",
+    "images/binalot-q4913849/binalot-q4913849-3.jpg",
+    "images/binalot-q4913849/binalot-q4913849-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4913849",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q48816551",
+  "name": "pizza by the slice",
+  "description": "prepared slice of pizza",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-by-the-slice-q48816551/pizza-by-the-slice-q48816551-1.jpg",
+    "images/pizza-by-the-slice-q48816551/pizza-by-the-slice-q48816551-2.jpg",
+    "images/pizza-by-the-slice-q48816551/pizza-by-the-slice-q48816551-3.jpg",
+    "images/pizza-by-the-slice-q48816551/pizza-by-the-slice-q48816551-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48816551",
+    "themealdb": null
+  }
+}

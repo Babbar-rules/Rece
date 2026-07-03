@@ -1,0 +1,22 @@
+{
+  "id": "Q48780108",
+  "name": "cipera",
+  "description": "Indonesian traditional dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/cipera-q48780108/cipera-q48780108-1.jpg",
+    "images/cipera-q48780108/cipera-q48780108-2.jpg",
+    "images/cipera-q48780108/cipera-q48780108-3.jpg",
+    "images/cipera-q48780108/cipera-q48780108-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48780108",
+    "themealdb": null
+  }
+}

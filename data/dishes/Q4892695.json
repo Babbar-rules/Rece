@@ -1,0 +1,18 @@
+{
+  "id": "Q4892695",
+  "name": "Bermuda fish chowder",
+  "description": "Bermuda chowder soup",
+  "nationality": [
+    "Bermuda"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bermuda-fish-chowder-q4892695/bermuda-fish-chowder-q4892695-1.jpg",
+    "images/bermuda-fish-chowder-q4892695/bermuda-fish-chowder-q4892695-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4892695",
+    "themealdb": null
+  }
+}

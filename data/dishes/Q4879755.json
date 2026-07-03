@@ -1,0 +1,20 @@
+{
+  "id": "Q4879755",
+  "name": "beef bun",
+  "description": "bun with beef filling",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-bun-q4879755/beef-bun-q4879755-1.jpg",
+    "images/beef-bun-q4879755/beef-bun-q4879755-2.jpg",
+    "images/beef-bun-q4879755/beef-bun-q4879755-3.jpg",
+    "images/beef-bun-q4879755/beef-bun-q4879755-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4879755",
+    "themealdb": null
+  }
+}

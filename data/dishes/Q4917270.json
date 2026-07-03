@@ -1,0 +1,20 @@
+{
+  "id": "Q4917270",
+  "name": "Biscuit Tortoni",
+  "description": "Italian frozen dairy dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biscuit-tortoni-q4917270/biscuit-tortoni-q4917270-1.jpg",
+    "images/biscuit-tortoni-q4917270/biscuit-tortoni-q4917270-2.jpg",
+    "images/biscuit-tortoni-q4917270/biscuit-tortoni-q4917270-3.jpg",
+    "images/biscuit-tortoni-q4917270/biscuit-tortoni-q4917270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4917270",
+    "themealdb": null
+  }
+}

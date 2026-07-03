@@ -1,0 +1,20 @@
+{
+  "id": "Q4924455",
+  "name": "Dodol",
+  "description": "Indonesian sweet toffee",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dodol-q4924455/dodol-q4924455-1.jpg",
+    "images/dodol-q4924455/dodol-q4924455-2.jpg",
+    "images/dodol-q4924455/dodol-q4924455-3.jpg",
+    "images/dodol-q4924455/dodol-q4924455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4924455",
+    "themealdb": null
+  }
+}

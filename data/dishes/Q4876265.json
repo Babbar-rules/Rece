@@ -1,0 +1,22 @@
+{
+  "id": "Q4876265",
+  "name": "bean pie",
+  "description": "sweet custard and bean pie; associated with African-American Muslim culture",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "African-American Muslim cuisine"
+  ],
+  "images": [
+    "images/bean-pie-q4876265/bean-pie-q4876265-1.jpg",
+    "images/bean-pie-q4876265/bean-pie-q4876265-2.jpg",
+    "images/bean-pie-q4876265/bean-pie-q4876265-3.jpg",
+    "images/bean-pie-q4876265/bean-pie-q4876265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4876265",
+    "themealdb": null
+  }
+}

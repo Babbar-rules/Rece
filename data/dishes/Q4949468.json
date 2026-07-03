@@ -1,0 +1,20 @@
+{
+  "id": "Q4949468",
+  "name": "Bouillon",
+  "description": "Haitian soup",
+  "nationality": [
+    "Haiti"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bouillon-q4949468/bouillon-q4949468-1.jpg",
+    "images/bouillon-q4949468/bouillon-q4949468-2.png",
+    "images/bouillon-q4949468/bouillon-q4949468-3.jpg",
+    "images/bouillon-q4949468/bouillon-q4949468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4949468",
+    "themealdb": null
+  }
+}

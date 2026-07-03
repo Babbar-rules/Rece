@@ -1,0 +1,20 @@
+{
+  "id": "Q4916959",
+  "name": "birria",
+  "description": "dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/birria-q4916959/birria-q4916959-1.jpg",
+    "images/birria-q4916959/birria-q4916959-2.jpg",
+    "images/birria-q4916959/birria-q4916959-3.jpg",
+    "images/birria-q4916959/birria-q4916959-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4916959",
+    "themealdb": null
+  }
+}

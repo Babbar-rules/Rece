@@ -1,0 +1,20 @@
+{
+  "id": "Q48965290",
+  "name": "Swabian Spätzle",
+  "description": "swabian or Alemannic pasta",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/swabian-spatzle-q48965290/swabian-spatzle-q48965290-1.jpg",
+    "images/swabian-spatzle-q48965290/swabian-spatzle-q48965290-2.jpg",
+    "images/swabian-spatzle-q48965290/swabian-spatzle-q48965290-3.jpg",
+    "images/swabian-spatzle-q48965290/swabian-spatzle-q48965290-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48965290",
+    "themealdb": null
+  }
+}

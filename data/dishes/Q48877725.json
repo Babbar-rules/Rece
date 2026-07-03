@@ -1,0 +1,21 @@
+{
+  "id": "Q48877725",
+  "name": "cuzcuz Paulista",
+  "description": "Brazilian dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Caipira cuisine",
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/cuzcuz-paulista-q48877725/cuzcuz-paulista-q48877725-1.jpg",
+    "images/cuzcuz-paulista-q48877725/cuzcuz-paulista-q48877725-2.jpg",
+    "images/cuzcuz-paulista-q48877725/cuzcuz-paulista-q48877725-3.jpg",
+    "images/cuzcuz-paulista-q48877725/cuzcuz-paulista-q48877725-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48877725",
+    "themealdb": null
+  }
+}

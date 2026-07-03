@@ -1,0 +1,20 @@
+{
+  "id": "Q4938791",
+  "name": "Bokkoms",
+  "description": "whole, salted and dried mullet",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bokkoms-q4938791/bokkoms-q4938791-1.jpg",
+    "images/bokkoms-q4938791/bokkoms-q4938791-2.jpg",
+    "images/bokkoms-q4938791/bokkoms-q4938791-3.jpg",
+    "images/bokkoms-q4938791/bokkoms-q4938791-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4938791",
+    "themealdb": null
+  }
+}

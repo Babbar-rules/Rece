@@ -1,0 +1,20 @@
+{
+  "id": "Q4886748",
+  "name": "lobster stew",
+  "description": "Menorcan dish of lobster, sofrito, onions, tomatoes, garlic and parsley",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobster-stew-q4886748/lobster-stew-q4886748-1.jpg",
+    "images/lobster-stew-q4886748/lobster-stew-q4886748-2.jpg",
+    "images/lobster-stew-q4886748/lobster-stew-q4886748-3.jpg",
+    "images/lobster-stew-q4886748/lobster-stew-q4886748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4886748",
+    "themealdb": null
+  }
+}

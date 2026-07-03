@@ -1,0 +1,20 @@
+{
+  "id": "Q4960557",
+  "name": "Bremer Klaben",
+  "description": "type of dried fruit filled bread from Bremen, Germany",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bremer-klaben-q4960557/bremer-klaben-q4960557-1.jpg",
+    "images/bremer-klaben-q4960557/bremer-klaben-q4960557-2.jpg",
+    "images/bremer-klaben-q4960557/bremer-klaben-q4960557-3.jpg",
+    "images/bremer-klaben-q4960557/bremer-klaben-q4960557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4960557",
+    "themealdb": null
+  }
+}

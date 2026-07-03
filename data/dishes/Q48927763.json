@@ -1,0 +1,18 @@
+{
+  "id": "Q48927763",
+  "name": "Shrimp rice",
+  "description": "Taiwanese shrimp rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-rice-q48927763/shrimp-rice-q48927763-1.jpg",
+    "images/shrimp-rice-q48927763/shrimp-rice-q48927763-2.jpg",
+    "images/shrimp-rice-q48927763/shrimp-rice-q48927763-3.jpg",
+    "images/shrimp-rice-q48927763/shrimp-rice-q48927763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48927763",
+    "themealdb": null
+  }
+}

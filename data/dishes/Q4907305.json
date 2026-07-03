@@ -1,0 +1,22 @@
+{
+  "id": "Q4907305",
+  "name": "Bika Ambon",
+  "description": "traditional Indonesian cake originating from Medan made from tapioca flour",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bika-ambon-q4907305/bika-ambon-q4907305-1.jpg",
+    "images/bika-ambon-q4907305/bika-ambon-q4907305-2.jpg",
+    "images/bika-ambon-q4907305/bika-ambon-q4907305-3.jpg",
+    "images/bika-ambon-q4907305/bika-ambon-q4907305-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4907305",
+    "themealdb": null
+  }
+}

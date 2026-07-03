@@ -1,0 +1,20 @@
+{
+  "id": "Q4881235",
+  "name": "Beika",
+  "description": "dry confectionery made out of rice",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beika-q4881235/beika-q4881235-1.jpg",
+    "images/beika-q4881235/beika-q4881235-2.jpg",
+    "images/beika-q4881235/beika-q4881235-3.jpg",
+    "images/beika-q4881235/beika-q4881235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4881235",
+    "themealdb": null
+  }
+}

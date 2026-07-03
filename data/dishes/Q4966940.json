@@ -1,0 +1,20 @@
+{
+  "id": "Q4966940",
+  "name": "Bridie",
+  "description": "Scottish meat pastry",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bridie-q4966940/bridie-q4966940-1.jpg",
+    "images/bridie-q4966940/bridie-q4966940-2.jpg",
+    "images/bridie-q4966940/bridie-q4966940-3.jpg",
+    "images/bridie-q4966940/bridie-q4966940-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4966940",
+    "themealdb": null
+  }
+}

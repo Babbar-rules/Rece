@@ -1,0 +1,18 @@
+{
+  "id": "Q4876256",
+  "name": "Bean Sprouts Chicken",
+  "description": "Chicken dish with bean sprouts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bean-sprouts-chicken-q4876256/bean-sprouts-chicken-q4876256-1.jpg",
+    "images/bean-sprouts-chicken-q4876256/bean-sprouts-chicken-q4876256-2.jpg",
+    "images/bean-sprouts-chicken-q4876256/bean-sprouts-chicken-q4876256-3.jpg",
+    "images/bean-sprouts-chicken-q4876256/bean-sprouts-chicken-q4876256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4876256",
+    "themealdb": null
+  }
+}

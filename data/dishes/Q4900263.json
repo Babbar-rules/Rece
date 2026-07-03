@@ -1,0 +1,18 @@
+{
+  "id": "Q4900263",
+  "name": "Beyti",
+  "description": "Turkish meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beyti-q4900263/beyti-q4900263-1.jpg",
+    "images/beyti-q4900263/beyti-q4900263-2.jpg",
+    "images/beyti-q4900263/beyti-q4900263-3.jpg",
+    "images/beyti-q4900263/beyti-q4900263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4900263",
+    "themealdb": null
+  }
+}
