@@ -1,0 +1,18 @@
+{
+  "id": "Q5770216",
+  "name": "chenjeh kabab",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chenjeh-kabab-q5770216/chenjeh-kabab-q5770216-1.jpg",
+    "images/chenjeh-kabab-q5770216/chenjeh-kabab-q5770216-2.jpg",
+    "images/chenjeh-kabab-q5770216/chenjeh-kabab-q5770216-3.jpg",
+    "images/chenjeh-kabab-q5770216/chenjeh-kabab-q5770216-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5770216",
+    "themealdb": null
+  }
+}

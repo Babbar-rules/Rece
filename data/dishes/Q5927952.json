@@ -1,0 +1,20 @@
+{
+  "id": "Q5927952",
+  "name": "Seattle roll",
+  "description": "sushi roll originating in Seattle, Washington, U.S",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seattle-roll-q5927952/seattle-roll-q5927952-1.jpg",
+    "images/seattle-roll-q5927952/seattle-roll-q5927952-2.jpg",
+    "images/seattle-roll-q5927952/seattle-roll-q5927952-3.jpg",
+    "images/seattle-roll-q5927952/seattle-roll-q5927952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5927952",
+    "themealdb": null
+  }
+}

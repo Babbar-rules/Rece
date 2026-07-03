@@ -1,0 +1,22 @@
+{
+  "id": "Q5766389",
+  "name": "Chilenitos",
+  "description": "",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [
+    "Chilean cuisine"
+  ],
+  "images": [
+    "images/chilenitos-q5766389/chilenitos-q5766389-1.jpg",
+    "images/chilenitos-q5766389/chilenitos-q5766389-2.jpg",
+    "images/chilenitos-q5766389/chilenitos-q5766389-3.jpg",
+    "images/chilenitos-q5766389/chilenitos-q5766389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5766389",
+    "themealdb": null
+  }
+}

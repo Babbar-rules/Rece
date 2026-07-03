@@ -1,0 +1,20 @@
+{
+  "id": "Q5834964",
+  "name": "marmalade",
+  "description": "preserve made from the juice and peel of citrus fruits",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marmalade-q5834964/marmalade-q5834964-1.jpg",
+    "images/marmalade-q5834964/marmalade-q5834964-2.jpg",
+    "images/marmalade-q5834964/marmalade-q5834964-3.jpg",
+    "images/marmalade-q5834964/marmalade-q5834964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5834964",
+    "themealdb": null
+  }
+}

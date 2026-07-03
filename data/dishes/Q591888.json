@@ -1,0 +1,20 @@
+{
+  "id": "Q591888",
+  "name": "fartons",
+  "description": "confectionery sweets typical of the Valencian town of Alboraya, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fartons-q591888/fartons-q591888-1.jpg",
+    "images/fartons-q591888/fartons-q591888-2.jpg",
+    "images/fartons-q591888/fartons-q591888-3.jpg",
+    "images/fartons-q591888/fartons-q591888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q591888",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q59260812",
+  "name": "picada",
+  "description": "hors d'oeuvre from Argentinian and Uruguayan cuisine",
+  "nationality": [
+    "Uruguay",
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/picada-q59260812/picada-q59260812-1.jpg",
+    "images/picada-q59260812/picada-q59260812-2.jpg",
+    "images/picada-q59260812/picada-q59260812-3.jpg",
+    "images/picada-q59260812/picada-q59260812-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59260812",
+    "themealdb": null
+  }
+}

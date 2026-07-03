@@ -1,0 +1,18 @@
+{
+  "id": "Q58898059",
+  "name": "fedelini",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fedelini-q58898059/fedelini-q58898059-1.jpg",
+    "images/fedelini-q58898059/fedelini-q58898059-2.jpg",
+    "images/fedelini-q58898059/fedelini-q58898059-3.jpg",
+    "images/fedelini-q58898059/fedelini-q58898059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58898059",
+    "themealdb": null
+  }
+}

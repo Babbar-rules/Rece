@@ -1,0 +1,20 @@
+{
+  "id": "Q5768439",
+  "name": "Chula",
+  "description": "Spanish dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chula-q5768439/chula-q5768439-1.jpg",
+    "images/chula-q5768439/chula-q5768439-2.png",
+    "images/chula-q5768439/chula-q5768439-3.jpg",
+    "images/chula-q5768439/chula-q5768439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5768439",
+    "themealdb": null
+  }
+}

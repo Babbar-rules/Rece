@@ -1,0 +1,19 @@
+{
+  "id": "Q584035",
+  "name": "Anelletti al forno",
+  "description": "baked pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anelletti-al-forno-q584035/anelletti-al-forno-q584035-1.jpg",
+    "images/anelletti-al-forno-q584035/anelletti-al-forno-q584035-2.jpg",
+    "images/anelletti-al-forno-q584035/anelletti-al-forno-q584035-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q584035",
+    "themealdb": null
+  }
+}

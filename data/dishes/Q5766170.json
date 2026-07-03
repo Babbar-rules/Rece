@@ -1,0 +1,18 @@
+{
+  "id": "Q5766170",
+  "name": "chifrijo",
+  "description": "Costa Rican dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chifrijo-q5766170/chifrijo-q5766170-1.jpg",
+    "images/chifrijo-q5766170/chifrijo-q5766170-2.jpg",
+    "images/chifrijo-q5766170/chifrijo-q5766170-3.png",
+    "images/chifrijo-q5766170/chifrijo-q5766170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5766170",
+    "themealdb": null
+  }
+}

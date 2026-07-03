@@ -1,0 +1,20 @@
+{
+  "id": "Q5910723",
+  "name": "hot hamburger plate",
+  "description": "",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-hamburger-plate-q5910723/hot-hamburger-plate-q5910723-1.jpg",
+    "images/hot-hamburger-plate-q5910723/hot-hamburger-plate-q5910723-2.jpg",
+    "images/hot-hamburger-plate-q5910723/hot-hamburger-plate-q5910723-3.jpg",
+    "images/hot-hamburger-plate-q5910723/hot-hamburger-plate-q5910723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5910723",
+    "themealdb": null
+  }
+}

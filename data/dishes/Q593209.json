@@ -1,0 +1,20 @@
+{
+  "id": "Q593209",
+  "name": "leche frita",
+  "description": "traditional Spanish dessert, Spanish sweet typical of northern Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/leche-frita-q593209/leche-frita-q593209-1.jpg",
+    "images/leche-frita-q593209/leche-frita-q593209-2.jpg",
+    "images/leche-frita-q593209/leche-frita-q593209-3.jpg",
+    "images/leche-frita-q593209/leche-frita-q593209-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q593209",
+    "themealdb": null
+  }
+}

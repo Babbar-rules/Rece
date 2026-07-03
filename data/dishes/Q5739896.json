@@ -1,0 +1,20 @@
+{
+  "id": "Q5739896",
+  "name": "Caldo de bolas",
+  "description": "",
+  "nationality": [
+    "Ecuador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-de-bolas-q5739896/caldo-de-bolas-q5739896-1.jpg",
+    "images/caldo-de-bolas-q5739896/caldo-de-bolas-q5739896-2.png",
+    "images/caldo-de-bolas-q5739896/caldo-de-bolas-q5739896-3.jpg",
+    "images/caldo-de-bolas-q5739896/caldo-de-bolas-q5739896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5739896",
+    "themealdb": null
+  }
+}

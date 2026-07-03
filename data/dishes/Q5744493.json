@@ -1,0 +1,18 @@
+{
+  "id": "Q5744493",
+  "name": "Hershey's Special Dark",
+  "description": "Dark chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hersheys-special-dark-q5744493/hersheys-special-dark-q5744493-1.jpg",
+    "images/hersheys-special-dark-q5744493/hersheys-special-dark-q5744493-2.jpg",
+    "images/hersheys-special-dark-q5744493/hersheys-special-dark-q5744493-3.jpg",
+    "images/hersheys-special-dark-q5744493/hersheys-special-dark-q5744493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5744493",
+    "themealdb": null
+  }
+}

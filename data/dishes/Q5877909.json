@@ -1,0 +1,22 @@
+{
+  "id": "Q5877909",
+  "name": "hojuela",
+  "description": "Spanish dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/hojuela-q5877909/hojuela-q5877909-1.jpg",
+    "images/hojuela-q5877909/hojuela-q5877909-2.jpg",
+    "images/hojuela-q5877909/hojuela-q5877909-3.jpg",
+    "images/hojuela-q5877909/hojuela-q5877909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5877909",
+    "themealdb": null
+  }
+}

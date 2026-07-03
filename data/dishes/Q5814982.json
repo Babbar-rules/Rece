@@ -1,0 +1,22 @@
+{
+  "id": "Q5814982",
+  "name": "Mexican candies",
+  "description": "gastronomy of Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/mexican-candies-q5814982/mexican-candies-q5814982-1.jpg",
+    "images/mexican-candies-q5814982/mexican-candies-q5814982-2.jpg",
+    "images/mexican-candies-q5814982/mexican-candies-q5814982-3.jpg",
+    "images/mexican-candies-q5814982/mexican-candies-q5814982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5814982",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5910768",
+  "name": "hot milk cake",
+  "description": "American sponge cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-milk-cake-q5910768/hot-milk-cake-q5910768-1.jpg",
+    "images/hot-milk-cake-q5910768/hot-milk-cake-q5910768-2.jpg",
+    "images/hot-milk-cake-q5910768/hot-milk-cake-q5910768-3.jpg",
+    "images/hot-milk-cake-q5910768/hot-milk-cake-q5910768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5910768",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q58610",
+  "name": "Dal makhani",
+  "description": "dish originating from the Indian subcontinent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/dal-makhani-q58610/dal-makhani-q58610-1.jpg",
+    "images/dal-makhani-q58610/dal-makhani-q58610-2.jpg",
+    "images/dal-makhani-q58610/dal-makhani-q58610-3.jpg",
+    "images/dal-makhani-q58610/dal-makhani-q58610-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58610",
+    "themealdb": null
+  }
+}

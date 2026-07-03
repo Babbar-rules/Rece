@@ -1,0 +1,20 @@
+{
+  "id": "Q590739",
+  "name": "smažený sýr",
+  "description": "Czech and Slovak dish of cheese, about 1.5 cm thick, breaded with flour, egg, and bread crumbs and then fried, served with tartar sauce or mayonnaise and a side salad or potatoes",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smazeny-syr-q590739/smazeny-syr-q590739-1.jpg",
+    "images/smazeny-syr-q590739/smazeny-syr-q590739-2.jpg",
+    "images/smazeny-syr-q590739/smazeny-syr-q590739-3.jpg",
+    "images/smazeny-syr-q590739/smazeny-syr-q590739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q590739",
+    "themealdb": null
+  }
+}

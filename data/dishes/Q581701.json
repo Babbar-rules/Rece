@@ -1,0 +1,18 @@
+{
+  "id": "Q581701",
+  "name": "Cocido lebaniego",
+  "description": "food",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cocido-lebaniego-q581701/cocido-lebaniego-q581701-1.jpg",
+    "images/cocido-lebaniego-q581701/cocido-lebaniego-q581701-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q581701",
+    "themealdb": null
+  }
+}

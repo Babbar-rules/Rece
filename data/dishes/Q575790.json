@@ -1,0 +1,20 @@
+{
+  "id": "Q575790",
+  "name": "lángos",
+  "description": "Hungarian snack",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/langos-q575790/langos-q575790-1.jpg",
+    "images/langos-q575790/langos-q575790-2.jpg",
+    "images/langos-q575790/langos-q575790-3.jpg",
+    "images/langos-q575790/langos-q575790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q575790",
+    "themealdb": null
+  }
+}

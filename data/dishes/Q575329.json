@@ -1,0 +1,18 @@
+{
+  "id": "Q575329",
+  "name": "kaminari-okoshi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kaminari-okoshi-q575329/kaminari-okoshi-q575329-1.jpg",
+    "images/kaminari-okoshi-q575329/kaminari-okoshi-q575329-2.jpg",
+    "images/kaminari-okoshi-q575329/kaminari-okoshi-q575329-3.jpg",
+    "images/kaminari-okoshi-q575329/kaminari-okoshi-q575329-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q575329",
+    "themealdb": null
+  }
+}

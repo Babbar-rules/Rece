@@ -1,0 +1,18 @@
+{
+  "id": "Q5910228",
+  "name": "Hot Pockets",
+  "description": "American brand of microwaveable food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-pockets-q5910228/hot-pockets-q5910228-1.jpg",
+    "images/hot-pockets-q5910228/hot-pockets-q5910228-2.jpeg",
+    "images/hot-pockets-q5910228/hot-pockets-q5910228-3.jpg",
+    "images/hot-pockets-q5910228/hot-pockets-q5910228-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5910228",
+    "themealdb": null
+  }
+}

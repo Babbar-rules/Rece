@@ -1,0 +1,30 @@
+{
+  "id": "Q5878377",
+  "name": "Cabrito",
+  "description": "Spanish and Portuguese for roast goat kid",
+  "nationality": [
+    "Spain",
+    "Italy",
+    "Greece",
+    "Portugal",
+    "Uruguay",
+    "Mexico",
+    "Brazil",
+    "Chile",
+    "Peru",
+    "Argentina",
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cabrito-q5878377/cabrito-q5878377-1.jpg",
+    "images/cabrito-q5878377/cabrito-q5878377-2.jpg",
+    "images/cabrito-q5878377/cabrito-q5878377-3.jpg",
+    "images/cabrito-q5878377/cabrito-q5878377-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5878377",
+    "themealdb": null
+  }
+}

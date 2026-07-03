@@ -1,0 +1,19 @@
+{
+  "id": "Q58090327",
+  "name": "Komoh",
+  "description": "traditional pork soup from Bali",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/komoh-q58090327/komoh-q58090327-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58090327",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5925956",
+  "name": "Jabugo ham",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jabugo-ham-q5925956/jabugo-ham-q5925956-1.jpg",
+    "images/jabugo-ham-q5925956/jabugo-ham-q5925956-2.jpg",
+    "images/jabugo-ham-q5925956/jabugo-ham-q5925956-3.jpg",
+    "images/jabugo-ham-q5925956/jabugo-ham-q5925956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5925956",
+    "themealdb": null
+  }
+}

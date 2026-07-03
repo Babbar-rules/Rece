@@ -1,0 +1,22 @@
+{
+  "id": "Q57981532",
+  "name": "jipang",
+  "description": "Indonesia traditional snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/jipang-q57981532/jipang-q57981532-1.jpg",
+    "images/jipang-q57981532/jipang-q57981532-2.jpg",
+    "images/jipang-q57981532/jipang-q57981532-3.jpg",
+    "images/jipang-q57981532/jipang-q57981532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57981532",
+    "themealdb": null
+  }
+}

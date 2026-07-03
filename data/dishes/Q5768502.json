@@ -1,0 +1,18 @@
+{
+  "id": "Q5768502",
+  "name": "Chumbeque",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chumbeque-q5768502/chumbeque-q5768502-1.jpg",
+    "images/chumbeque-q5768502/chumbeque-q5768502-2.jpg",
+    "images/chumbeque-q5768502/chumbeque-q5768502-3.jpg",
+    "images/chumbeque-q5768502/chumbeque-q5768502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5768502",
+    "themealdb": null
+  }
+}

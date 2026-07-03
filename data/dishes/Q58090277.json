@@ -1,0 +1,22 @@
+{
+  "id": "Q58090277",
+  "name": "bikang",
+  "description": "traditional food made of rice flour, wheat flour, and tapioca",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bikang-q58090277/bikang-q58090277-1.jpg",
+    "images/bikang-q58090277/bikang-q58090277-2.jpg",
+    "images/bikang-q58090277/bikang-q58090277-3.jpg",
+    "images/bikang-q58090277/bikang-q58090277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58090277",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5892267",
+  "name": "harcha",
+  "description": "Moroccon semolina flatbread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/harcha-q5892267/harcha-q5892267-1.jpg",
+    "images/harcha-q5892267/harcha-q5892267-2.jpg",
+    "images/harcha-q5892267/harcha-q5892267-3.jpg",
+    "images/harcha-q5892267/harcha-q5892267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5892267",
+    "themealdb": null
+  }
+}

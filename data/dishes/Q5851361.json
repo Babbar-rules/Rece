@@ -1,0 +1,20 @@
+{
+  "id": "Q5851361",
+  "name": "Mbaipy",
+  "description": "",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mbaipy-q5851361/mbaipy-q5851361-1.jpg",
+    "images/mbaipy-q5851361/mbaipy-q5851361-2.jpg",
+    "images/mbaipy-q5851361/mbaipy-q5851361-3.jpg",
+    "images/mbaipy-q5851361/mbaipy-q5851361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5851361",
+    "themealdb": null
+  }
+}

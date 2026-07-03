@@ -1,0 +1,24 @@
+{
+  "id": "Q590686",
+  "name": "Chistorra",
+  "description": "Type of sausage from Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Aragonese cuisine",
+    "cuisine of Navarre",
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/chistorra-q590686/chistorra-q590686-1.jpg",
+    "images/chistorra-q590686/chistorra-q590686-2.jpg",
+    "images/chistorra-q590686/chistorra-q590686-3.jpg",
+    "images/chistorra-q590686/chistorra-q590686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q590686",
+    "themealdb": null
+  }
+}

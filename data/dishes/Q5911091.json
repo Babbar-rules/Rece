@@ -1,0 +1,20 @@
+{
+  "id": "Q5911091",
+  "name": "hotdish",
+  "description": "type of casserole common to Minnesota and other Midwest American states",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hotdish-q5911091/hotdish-q5911091-1.jpg",
+    "images/hotdish-q5911091/hotdish-q5911091-2.png",
+    "images/hotdish-q5911091/hotdish-q5911091-3.jpg",
+    "images/hotdish-q5911091/hotdish-q5911091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5911091",
+    "themealdb": null
+  }
+}

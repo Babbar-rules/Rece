@@ -1,0 +1,18 @@
+{
+  "id": "Q5876127",
+  "name": "Christmas food",
+  "description": "food that is served during Christmas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-food-q5876127/christmas-food-q5876127-1.jpg",
+    "images/christmas-food-q5876127/christmas-food-q5876127-2.jpg",
+    "images/christmas-food-q5876127/christmas-food-q5876127-3.jpg",
+    "images/christmas-food-q5876127/christmas-food-q5876127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5876127",
+    "themealdb": null
+  }
+}

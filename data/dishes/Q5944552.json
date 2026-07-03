@@ -1,0 +1,21 @@
+{
+  "id": "Q5944552",
+  "name": "Kaak",
+  "description": "native pastry of the Kermanshah of Iran",
+  "nationality": [
+    "Iran",
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaak-q5944552/kaak-q5944552-1.png",
+    "images/kaak-q5944552/kaak-q5944552-2.jpg",
+    "images/kaak-q5944552/kaak-q5944552-3.jpg",
+    "images/kaak-q5944552/kaak-q5944552-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5944552",
+    "themealdb": null
+  }
+}

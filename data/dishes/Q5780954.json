@@ -1,0 +1,22 @@
+{
+  "id": "Q5780954",
+  "name": "concha",
+  "description": "Mexican sweetbread",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/concha-q5780954/concha-q5780954-1.jpg",
+    "images/concha-q5780954/concha-q5780954-2.jpg",
+    "images/concha-q5780954/concha-q5780954-3.jpg",
+    "images/concha-q5780954/concha-q5780954-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5780954",
+    "themealdb": null
+  }
+}

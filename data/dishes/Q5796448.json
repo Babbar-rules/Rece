@@ -1,0 +1,20 @@
+{
+  "id": "Q5796448",
+  "name": "mute",
+  "description": "Colombian soup",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mute-q5796448/mute-q5796448-1.jpg",
+    "images/mute-q5796448/mute-q5796448-2.jpg",
+    "images/mute-q5796448/mute-q5796448-3.jpg",
+    "images/mute-q5796448/mute-q5796448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5796448",
+    "themealdb": null
+  }
+}

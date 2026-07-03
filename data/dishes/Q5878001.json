@@ -1,0 +1,20 @@
+{
+  "id": "Q5878001",
+  "name": "Hokey pokey",
+  "description": "iconic New Zealand flavour of ice cream",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hokey-pokey-q5878001/hokey-pokey-q5878001-1.jpg",
+    "images/hokey-pokey-q5878001/hokey-pokey-q5878001-2.jpg",
+    "images/hokey-pokey-q5878001/hokey-pokey-q5878001-3.jpg",
+    "images/hokey-pokey-q5878001/hokey-pokey-q5878001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5878001",
+    "themealdb": null
+  }
+}

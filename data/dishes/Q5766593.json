@@ -1,0 +1,18 @@
+{
+  "id": "Q5766593",
+  "name": "chinguirito",
+  "description": "type of ceviche made with dried guitarfish",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chinguirito-q5766593/chinguirito-q5766593-1.jpg",
+    "images/chinguirito-q5766593/chinguirito-q5766593-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5766593",
+    "themealdb": null
+  }
+}

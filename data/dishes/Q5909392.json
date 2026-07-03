@@ -1,0 +1,18 @@
+{
+  "id": "Q5909392",
+  "name": "Hostess CupCake",
+  "description": "snack cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hostess-cupcake-q5909392/hostess-cupcake-q5909392-1.jpg",
+    "images/hostess-cupcake-q5909392/hostess-cupcake-q5909392-2.jpg",
+    "images/hostess-cupcake-q5909392/hostess-cupcake-q5909392-3.jpg",
+    "images/hostess-cupcake-q5909392/hostess-cupcake-q5909392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5909392",
+    "themealdb": null
+  }
+}

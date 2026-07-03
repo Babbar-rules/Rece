@@ -1,0 +1,18 @@
+{
+  "id": "Q58212664",
+  "name": "Spitzbuben",
+  "description": "Swiss christmas cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spitzbuben-q58212664/spitzbuben-q58212664-1.jpg",
+    "images/spitzbuben-q58212664/spitzbuben-q58212664-2.jpg",
+    "images/spitzbuben-q58212664/spitzbuben-q58212664-3.jpg",
+    "images/spitzbuben-q58212664/spitzbuben-q58212664-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58212664",
+    "themealdb": null
+  }
+}

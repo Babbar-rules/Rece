@@ -1,0 +1,18 @@
+{
+  "id": "Q59187583",
+  "name": "Meatloaf Stephania",
+  "description": "type of meatloaf",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meatloaf-stephania-q59187583/meatloaf-stephania-q59187583-1.jpg",
+    "images/meatloaf-stephania-q59187583/meatloaf-stephania-q59187583-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59187583",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Q59170",
+  "name": "strudel",
+  "description": "type of layered pastry",
+  "nationality": [
+    "Hungary",
+    "Austria"
+  ],
+  "region_cuisine": [
+    "Czech cuisine",
+    "German cuisine",
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/strudel-q59170/strudel-q59170-1.jpg",
+    "images/strudel-q59170/strudel-q59170-2.jpg",
+    "images/strudel-q59170/strudel-q59170-3.jpg",
+    "images/strudel-q59170/strudel-q59170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59170",
+    "themealdb": null
+  }
+}

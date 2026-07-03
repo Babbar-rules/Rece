@@ -1,0 +1,68 @@
+{
+  "id": "Q584564",
+  "name": "spotted dick",
+  "description": "British steamed pudding made with suet and dried fruit",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/spotted-dick-q584564/spotted-dick-q584564-1.jpg",
+    "images/spotted-dick-q584564/spotted-dick-q584564-2.jpg",
+    "images/spotted-dick-q584564/spotted-dick-q584564-3.jpg",
+    "images/spotted-dick-q584564/spotted-dick-q584564-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52886",
+    "category": "Dessert",
+    "area": "British",
+    "instructions": "Put the flour and salt in a bowl. Add the suet, currants, sugar, lemon and orange zest.\r\nPour in 150ml milk and mix to a firm but moist dough, adding the extra milk if necessary.\r\nShape into a fat roll about 20cm long. Place on a large rectangle of baking parchment. Wrap loosely to allow for the pudding to rise and tie the ends with string like a Christmas cracker.\r\nPlace a steamer over a large pan of boiling water, add the pudding to the steamer, cover and steam for 1 1/2 hours. Top up the pan with water from time to time.\r\nRemove from the steamer and allow to cool slightly before unwrapping. Serve sliced with custard.",
+    "ingredients": [
+      {
+        "ingredient": "Self-raising Flour",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Suet",
+        "measure": "125g"
+      },
+      {
+        "ingredient": "Currants",
+        "measure": "175g"
+      },
+      {
+        "ingredient": "Caster Sugar",
+        "measure": "80g"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Zest of 1"
+      },
+      {
+        "ingredient": "Orange",
+        "measure": "Zest of 1"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "150ml"
+      },
+      {
+        "ingredient": "Custard",
+        "measure": "to serve"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=fu15XOF-ros",
+    "thumb": "https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q584564",
+    "themealdb": "52886"
+  }
+}

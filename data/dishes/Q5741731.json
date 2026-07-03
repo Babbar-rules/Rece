@@ -1,0 +1,19 @@
+{
+  "id": "Q5741731",
+  "name": "camarones el mojo de ajo",
+  "description": "Mexican shrimp dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/camarones-el-mojo-de-ajo-q5741731/camarones-el-mojo-de-ajo-q5741731-1.jpg",
+    "images/camarones-el-mojo-de-ajo-q5741731/camarones-el-mojo-de-ajo-q5741731-2.jpg",
+    "images/camarones-el-mojo-de-ajo-q5741731/camarones-el-mojo-de-ajo-q5741731-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5741731",
+    "themealdb": null
+  }
+}

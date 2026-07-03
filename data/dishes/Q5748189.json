@@ -1,0 +1,20 @@
+{
+  "id": "Q5748189",
+  "name": "heugimja-juk",
+  "description": "Korean porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/heugimja-juk-q5748189/heugimja-juk-q5748189-1.jpg",
+    "images/heugimja-juk-q5748189/heugimja-juk-q5748189-2.jpg",
+    "images/heugimja-juk-q5748189/heugimja-juk-q5748189-3.jpg",
+    "images/heugimja-juk-q5748189/heugimja-juk-q5748189-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5748189",
+    "themealdb": null
+  }
+}

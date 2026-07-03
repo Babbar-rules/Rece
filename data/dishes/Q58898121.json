@@ -1,0 +1,15 @@
+{
+  "id": "Q58898121",
+  "name": "matriciani",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/matriciani-q58898121/matriciani-q58898121-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58898121",
+    "themealdb": null
+  }
+}

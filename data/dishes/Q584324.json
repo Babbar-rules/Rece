@@ -1,0 +1,20 @@
+{
+  "id": "Q584324",
+  "name": "Serrano ham",
+  "description": "type of dry-cured Spanish ham",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/serrano-ham-q584324/serrano-ham-q584324-1.jpg",
+    "images/serrano-ham-q584324/serrano-ham-q584324-2.jpg",
+    "images/serrano-ham-q584324/serrano-ham-q584324-3.jpg",
+    "images/serrano-ham-q584324/serrano-ham-q584324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q584324",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5741634",
+  "name": "calzón roto",
+  "description": "Chilean sweet",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calzon-roto-q5741634/calzon-roto-q5741634-1.jpg",
+    "images/calzon-roto-q5741634/calzon-roto-q5741634-2.jpg",
+    "images/calzon-roto-q5741634/calzon-roto-q5741634-3.jpg",
+    "images/calzon-roto-q5741634/calzon-roto-q5741634-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5741634",
+    "themealdb": null
+  }
+}

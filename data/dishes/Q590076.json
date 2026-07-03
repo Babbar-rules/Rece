@@ -1,0 +1,20 @@
+{
+  "id": "Q590076",
+  "name": "Hawaiian pizza",
+  "description": "pizza variety, usually topped with pineapple pieces and ham",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hawaiian-pizza-q590076/hawaiian-pizza-q590076-1.jpg",
+    "images/hawaiian-pizza-q590076/hawaiian-pizza-q590076-2.jpg",
+    "images/hawaiian-pizza-q590076/hawaiian-pizza-q590076-3.jpg",
+    "images/hawaiian-pizza-q590076/hawaiian-pizza-q590076-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q590076",
+    "themealdb": null
+  }
+}

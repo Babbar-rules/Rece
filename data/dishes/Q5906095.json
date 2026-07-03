@@ -1,0 +1,20 @@
+{
+  "id": "Q5906095",
+  "name": "horseshoe sandwich",
+  "description": "open-faced sandwich originating in Springfield, Illinois, U.S.; consists of thick-sliced toasted bread, a hamburger patty, French fries, and a cheese sauce",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/horseshoe-sandwich-q5906095/horseshoe-sandwich-q5906095-1.jpg",
+    "images/horseshoe-sandwich-q5906095/horseshoe-sandwich-q5906095-2.jpg",
+    "images/horseshoe-sandwich-q5906095/horseshoe-sandwich-q5906095-3.jpg",
+    "images/horseshoe-sandwich-q5906095/horseshoe-sandwich-q5906095-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5906095",
+    "themealdb": null
+  }
+}

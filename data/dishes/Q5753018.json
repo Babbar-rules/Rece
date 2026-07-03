@@ -1,0 +1,18 @@
+{
+  "id": "Q5753018",
+  "name": "carne en su jugo",
+  "description": "dish from the state of Jalisco, Mexico",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-en-su-jugo-q5753018/carne-en-su-jugo-q5753018-1.jpg",
+    "images/carne-en-su-jugo-q5753018/carne-en-su-jugo-q5753018-2.jpg",
+    "images/carne-en-su-jugo-q5753018/carne-en-su-jugo-q5753018-3.jpg",
+    "images/carne-en-su-jugo-q5753018/carne-en-su-jugo-q5753018-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5753018",
+    "themealdb": null
+  }
+}

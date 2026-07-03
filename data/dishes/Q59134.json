@@ -1,0 +1,20 @@
+{
+  "id": "Q59134",
+  "name": "kheer",
+  "description": "rice dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kheer-q59134/kheer-q59134-1.jpg",
+    "images/kheer-q59134/kheer-q59134-2.jpg",
+    "images/kheer-q59134/kheer-q59134-3.jpg",
+    "images/kheer-q59134/kheer-q59134-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59134",
+    "themealdb": null
+  }
+}

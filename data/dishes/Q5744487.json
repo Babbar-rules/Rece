@@ -1,0 +1,17 @@
+{
+  "id": "Q5744487",
+  "name": "Hershey's Cookies 'n' Creme",
+  "description": "American/Canadian candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hersheys-cookies-n-creme-q5744487/hersheys-cookies-n-creme-q5744487-1.jpg",
+    "images/hersheys-cookies-n-creme-q5744487/hersheys-cookies-n-creme-q5744487-2.jpg",
+    "images/hersheys-cookies-n-creme-q5744487/hersheys-cookies-n-creme-q5744487-3.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5744487",
+    "themealdb": null
+  }
+}

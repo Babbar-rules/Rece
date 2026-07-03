@@ -1,0 +1,18 @@
+{
+  "id": "Q5874068",
+  "name": "Ho Hos",
+  "description": "American snack cake brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ho-hos-q5874068/ho-hos-q5874068-1.jpg",
+    "images/ho-hos-q5874068/ho-hos-q5874068-2.jpg",
+    "images/ho-hos-q5874068/ho-hos-q5874068-3.jpg",
+    "images/ho-hos-q5874068/ho-hos-q5874068-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5874068",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q5814975",
+  "name": "dulce de lechosa",
+  "description": "traditional confection from Venezuela",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dulce-de-lechosa-q5814975/dulce-de-lechosa-q5814975-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5814975",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5935553",
+  "name": "hulatang",
+  "description": "soup originated from Henan, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hulatang-q5935553/hulatang-q5935553-1.jpg",
+    "images/hulatang-q5935553/hulatang-q5935553-2.jpg",
+    "images/hulatang-q5935553/hulatang-q5935553-3.jpg",
+    "images/hulatang-q5935553/hulatang-q5935553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5935553",
+    "themealdb": null
+  }
+}

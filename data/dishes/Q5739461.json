@@ -1,0 +1,22 @@
+{
+  "id": "Q5739461",
+  "name": "makizushi",
+  "description": "rolled sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/makizushi-q5739461/makizushi-q5739461-1.jpg",
+    "images/makizushi-q5739461/makizushi-q5739461-2.jpg",
+    "images/makizushi-q5739461/makizushi-q5739461-3.jpg",
+    "images/makizushi-q5739461/makizushi-q5739461-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5739461",
+    "themealdb": null
+  }
+}

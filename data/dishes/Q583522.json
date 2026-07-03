@@ -1,0 +1,18 @@
+{
+  "id": "Q583522",
+  "name": "Pirulín",
+  "description": "type of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pirulin-q583522/pirulin-q583522-1.jpg",
+    "images/pirulin-q583522/pirulin-q583522-2.jpg",
+    "images/pirulin-q583522/pirulin-q583522-3.jpg",
+    "images/pirulin-q583522/pirulin-q583522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q583522",
+    "themealdb": null
+  }
+}

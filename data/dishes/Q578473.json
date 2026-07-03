@@ -1,0 +1,64 @@
+{
+  "id": "Q578473",
+  "name": "kapsalon",
+  "description": "Dutch fast food dish named after a hair salon",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Lamb"
+  ],
+  "images": [
+    "images/kapsalon-q578473/kapsalon-q578473-1.jpg",
+    "images/kapsalon-q578473/kapsalon-q578473-2.jpg",
+    "images/kapsalon-q578473/kapsalon-q578473-3.jpg",
+    "images/kapsalon-q578473/kapsalon-q578473-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52769",
+    "category": "Lamb",
+    "area": "Netherlands",
+    "instructions": "Cut the meat into strips. Heat oil in a pan and fry the strips for 6 minutes until it's ready.\r\nBake the fries until golden brown in a deep fryrer. When ready transfer to a backing dish. Make sure the fries are spread over the whole dish.\r\nCover the fries with a new layer of meat and spread evenly.\r\nAdd a layer of cheese over the meat. You can also use grated cheese. When done put in the oven for a few minutes until the cheese is melted.\r\nChop the lettuce, tomato and cucumber in small pieces and mix together. for a basic salad. As extra you can add olives jalapenos and a red union.\r\nDived the salad over the dish and Serve with garlicsauce and hot sauce",
+    "ingredients": [
+      {
+        "ingredient": "Fries",
+        "measure": "250 Grams"
+      },
+      {
+        "ingredient": "Doner Meat",
+        "measure": "500 Grams"
+      },
+      {
+        "ingredient": "Garlic sauce",
+        "measure": "Topping"
+      },
+      {
+        "ingredient": "Hotsauce",
+        "measure": "Topping"
+      },
+      {
+        "ingredient": "Lettuce",
+        "measure": "1 Bulb"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "3rd"
+      },
+      {
+        "ingredient": "Gouda cheese",
+        "measure": "100 Grams"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=UIcuiU1kV8I",
+    "thumb": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q578473",
+    "themealdb": "52769"
+  }
+}

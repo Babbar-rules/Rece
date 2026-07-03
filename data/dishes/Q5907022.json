@@ -1,0 +1,22 @@
+{
+  "id": "Q5907022",
+  "name": "horumonyaki",
+  "description": "Japanese dish made from beef or pork offal",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/horumonyaki-q5907022/horumonyaki-q5907022-1.jpg",
+    "images/horumonyaki-q5907022/horumonyaki-q5907022-2.jpg",
+    "images/horumonyaki-q5907022/horumonyaki-q5907022-3.jpg",
+    "images/horumonyaki-q5907022/horumonyaki-q5907022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5907022",
+    "themealdb": null
+  }
+}

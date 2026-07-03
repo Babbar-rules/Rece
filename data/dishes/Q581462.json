@@ -1,0 +1,21 @@
+{
+  "id": "Q581462",
+  "name": "minestrone",
+  "description": "thick soup of Italian origin made with vegetables, often with pasta or rice",
+  "nationality": [
+    "Italy",
+    "Ancient Rome"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/minestrone-q581462/minestrone-q581462-1.jpg",
+    "images/minestrone-q581462/minestrone-q581462-2.jpg",
+    "images/minestrone-q581462/minestrone-q581462-3.jpg",
+    "images/minestrone-q581462/minestrone-q581462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q581462",
+    "themealdb": null
+  }
+}

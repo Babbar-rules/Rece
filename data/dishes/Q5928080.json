@@ -1,0 +1,18 @@
+{
+  "id": "Q5928080",
+  "name": "huckabuck",
+  "description": "homemade frozen dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huckabuck-q5928080/huckabuck-q5928080-1.jpg",
+    "images/huckabuck-q5928080/huckabuck-q5928080-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5928080",
+    "themealdb": null
+  }
+}

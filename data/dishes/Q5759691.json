@@ -1,0 +1,18 @@
+{
+  "id": "Q5759691",
+  "name": "Ceviche de chochos",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ceviche-de-chochos-q5759691/ceviche-de-chochos-q5759691-1.jpg",
+    "images/ceviche-de-chochos-q5759691/ceviche-de-chochos-q5759691-2.jpg",
+    "images/ceviche-de-chochos-q5759691/ceviche-de-chochos-q5759691-3.jpg",
+    "images/ceviche-de-chochos-q5759691/ceviche-de-chochos-q5759691-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5759691",
+    "themealdb": null
+  }
+}

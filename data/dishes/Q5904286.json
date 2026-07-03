@@ -1,0 +1,17 @@
+{
+  "id": "Q5904286",
+  "name": "Huevas aliñás",
+  "description": "hake roe salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/huevas-alinas-q5904286/huevas-alinas-q5904286-1.jpg",
+    "images/huevas-alinas-q5904286/huevas-alinas-q5904286-2.jpg",
+    "images/huevas-alinas-q5904286/huevas-alinas-q5904286-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5904286",
+    "themealdb": null
+  }
+}

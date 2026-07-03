@@ -1,0 +1,20 @@
+{
+  "id": "Q58424037",
+  "name": "Marzipan",
+  "description": "Bulgarian surrogate chocolate",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marzipan-q58424037/marzipan-q58424037-1.jpg",
+    "images/marzipan-q58424037/marzipan-q58424037-2.jpg",
+    "images/marzipan-q58424037/marzipan-q58424037-3.jpg",
+    "images/marzipan-q58424037/marzipan-q58424037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58424037",
+    "themealdb": null
+  }
+}

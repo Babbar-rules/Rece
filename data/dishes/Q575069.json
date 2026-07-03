@@ -1,0 +1,18 @@
+{
+  "id": "Q575069",
+  "name": "blessed bread",
+  "description": "Eucharistic bread that has been blessed but not consecrated",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blessed-bread-q575069/blessed-bread-q575069-1.jpg",
+    "images/blessed-bread-q575069/blessed-bread-q575069-2.jpg",
+    "images/blessed-bread-q575069/blessed-bread-q575069-3.jpg",
+    "images/blessed-bread-q575069/blessed-bread-q575069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q575069",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q57656613",
+  "name": "dark chocolate chips",
+  "description": "chocolate chips made of dark chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dark-chocolate-chips-q57656613/dark-chocolate-chips-q57656613-1.jpg",
+    "images/dark-chocolate-chips-q57656613/dark-chocolate-chips-q57656613-2.jpg",
+    "images/dark-chocolate-chips-q57656613/dark-chocolate-chips-q57656613-3.jpg",
+    "images/dark-chocolate-chips-q57656613/dark-chocolate-chips-q57656613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57656613",
+    "themealdb": null
+  }
+}

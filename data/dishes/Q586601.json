@@ -1,0 +1,19 @@
+{
+  "id": "Q586601",
+  "name": "Kalb-el-louz",
+  "description": "Algerian baked dessert",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalb-el-louz-q586601/kalb-el-louz-q586601-1.jpg",
+    "images/kalb-el-louz-q586601/kalb-el-louz-q586601-2.jpg",
+    "images/kalb-el-louz-q586601/kalb-el-louz-q586601-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q586601",
+    "themealdb": null
+  }
+}

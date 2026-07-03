@@ -1,0 +1,20 @@
+{
+  "id": "Q5940500",
+  "name": "Humbug",
+  "description": "peppermint flavoured boiled sweet",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/humbug-q5940500/humbug-q5940500-1.jpg",
+    "images/humbug-q5940500/humbug-q5940500-2.jpeg",
+    "images/humbug-q5940500/humbug-q5940500-3.jpg",
+    "images/humbug-q5940500/humbug-q5940500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5940500",
+    "themealdb": null
+  }
+}

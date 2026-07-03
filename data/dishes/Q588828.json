@@ -1,0 +1,20 @@
+{
+  "id": "Q588828",
+  "name": "cochinillo de Segovia",
+  "description": "a food cataloged by the Junta de Castilla y León as a Guarantee Mark",
+  "nationality": [],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/cochinillo-de-segovia-q588828/cochinillo-de-segovia-q588828-1.jpg",
+    "images/cochinillo-de-segovia-q588828/cochinillo-de-segovia-q588828-2.jpg",
+    "images/cochinillo-de-segovia-q588828/cochinillo-de-segovia-q588828-3.jpg",
+    "images/cochinillo-de-segovia-q588828/cochinillo-de-segovia-q588828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q588828",
+    "themealdb": null
+  }
+}

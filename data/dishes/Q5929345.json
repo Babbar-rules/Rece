@@ -1,0 +1,20 @@
+{
+  "id": "Q5929345",
+  "name": "Huevos motuleños",
+  "description": "Yucatán breakfast dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huevos-motulenos-q5929345/huevos-motulenos-q5929345-1.jpg",
+    "images/huevos-motulenos-q5929345/huevos-motulenos-q5929345-2.jpg",
+    "images/huevos-motulenos-q5929345/huevos-motulenos-q5929345-3.jpg",
+    "images/huevos-motulenos-q5929345/huevos-motulenos-q5929345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5929345",
+    "themealdb": null
+  }
+}

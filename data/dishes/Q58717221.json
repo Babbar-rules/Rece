@@ -1,0 +1,18 @@
+{
+  "id": "Q58717221",
+  "name": "plat de relevé",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plat-de-releve-q58717221/plat-de-releve-q58717221-1.jpg",
+    "images/plat-de-releve-q58717221/plat-de-releve-q58717221-2.jpg",
+    "images/plat-de-releve-q58717221/plat-de-releve-q58717221-3.jpg",
+    "images/plat-de-releve-q58717221/plat-de-releve-q58717221-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58717221",
+    "themealdb": null
+  }
+}

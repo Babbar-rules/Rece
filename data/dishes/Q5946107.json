@@ -1,0 +1,20 @@
+{
+  "id": "Q5946107",
+  "name": "Mexican rice",
+  "description": "rice dish with spices and red color from tomatoes",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mexican-rice-q5946107/mexican-rice-q5946107-1.jpg",
+    "images/mexican-rice-q5946107/mexican-rice-q5946107-2.jpg",
+    "images/mexican-rice-q5946107/mexican-rice-q5946107-3.jpg",
+    "images/mexican-rice-q5946107/mexican-rice-q5946107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5946107",
+    "themealdb": null
+  }
+}

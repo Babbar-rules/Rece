@@ -1,0 +1,20 @@
+{
+  "id": "Q588378",
+  "name": "financier",
+  "description": "small French almond cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/financier-q588378/financier-q588378-1.jpg",
+    "images/financier-q588378/financier-q588378-2.jpg",
+    "images/financier-q588378/financier-q588378-3.jpg",
+    "images/financier-q588378/financier-q588378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q588378",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q58898267",
+  "name": "rombi",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rombi-q58898267/rombi-q58898267-1.jpg",
+    "images/rombi-q58898267/rombi-q58898267-2.png",
+    "images/rombi-q58898267/rombi-q58898267-3.jpg",
+    "images/rombi-q58898267/rombi-q58898267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58898267",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5831687",
+  "name": "empolvado",
+  "description": "Chilean sweet",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/empolvado-q5831687/empolvado-q5831687-1.jpg",
+    "images/empolvado-q5831687/empolvado-q5831687-2.jpg",
+    "images/empolvado-q5831687/empolvado-q5831687-3.jpg",
+    "images/empolvado-q5831687/empolvado-q5831687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5831687",
+    "themealdb": null
+  }
+}

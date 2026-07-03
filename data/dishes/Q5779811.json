@@ -1,0 +1,17 @@
+{
+  "id": "Q5779811",
+  "name": "Nargesi",
+  "description": "Iranian spinach omelette",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nargesi-q5779811/nargesi-q5779811-1.jpg",
+    "images/nargesi-q5779811/nargesi-q5779811-2.jpg",
+    "images/nargesi-q5779811/nargesi-q5779811-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5779811",
+    "themealdb": null
+  }
+}

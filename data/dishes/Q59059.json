@@ -1,0 +1,18 @@
+{
+  "id": "Q59059",
+  "name": "affogato",
+  "description": "Italian coffee-based dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/affogato-q59059/affogato-q59059-1.jpg",
+    "images/affogato-q59059/affogato-q59059-2.jpg",
+    "images/affogato-q59059/affogato-q59059-3.jpg",
+    "images/affogato-q59059/affogato-q59059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59059",
+    "themealdb": null
+  }
+}

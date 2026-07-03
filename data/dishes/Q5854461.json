@@ -1,0 +1,18 @@
+{
+  "id": "Q5854461",
+  "name": "Facturas",
+  "description": "Variety of sweet pastries in Argentina",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/facturas-q5854461/facturas-q5854461-1.jpg",
+    "images/facturas-q5854461/facturas-q5854461-2.jpg",
+    "images/facturas-q5854461/facturas-q5854461-3.jpg",
+    "images/facturas-q5854461/facturas-q5854461-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5854461",
+    "themealdb": null
+  }
+}

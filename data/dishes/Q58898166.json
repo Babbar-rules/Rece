@@ -1,0 +1,18 @@
+{
+  "id": "Q58898166",
+  "name": "fazzoletti",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fazzoletti-q58898166/fazzoletti-q58898166-1.jpg",
+    "images/fazzoletti-q58898166/fazzoletti-q58898166-2.jpg",
+    "images/fazzoletti-q58898166/fazzoletti-q58898166-3.jpg",
+    "images/fazzoletti-q58898166/fazzoletti-q58898166-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58898166",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5925953",
+  "name": "Ham of Guijuelo",
+  "description": "Ham with the Designation of Origin, Guijuelo, Salamanca, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-of-guijuelo-q5925953/ham-of-guijuelo-q5925953-1.jpg",
+    "images/ham-of-guijuelo-q5925953/ham-of-guijuelo-q5925953-2.jpg",
+    "images/ham-of-guijuelo-q5925953/ham-of-guijuelo-q5925953-3.jpg",
+    "images/ham-of-guijuelo-q5925953/ham-of-guijuelo-q5925953-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5925953",
+    "themealdb": null
+  }
+}

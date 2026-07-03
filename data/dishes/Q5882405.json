@@ -1,0 +1,20 @@
+{
+  "id": "Q5882405",
+  "name": "golfeado",
+  "description": "Venezuelan cinnamon roll",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/golfeado-q5882405/golfeado-q5882405-1.jpg",
+    "images/golfeado-q5882405/golfeado-q5882405-2.jpg",
+    "images/golfeado-q5882405/golfeado-q5882405-3.jpg",
+    "images/golfeado-q5882405/golfeado-q5882405-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5882405",
+    "themealdb": null
+  }
+}

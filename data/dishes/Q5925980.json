@@ -1,0 +1,20 @@
+{
+  "id": "Q5925980",
+  "name": "jamón del país",
+  "description": "garlic-infused peppery ham",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jamon-del-pais-q5925980/jamon-del-pais-q5925980-1.jpg",
+    "images/jamon-del-pais-q5925980/jamon-del-pais-q5925980-2.jpg",
+    "images/jamon-del-pais-q5925980/jamon-del-pais-q5925980-3.jpg",
+    "images/jamon-del-pais-q5925980/jamon-del-pais-q5925980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5925980",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q5880655",
+  "name": "Holishkes",
+  "description": "Jewish dish of cabbage rolls",
+  "nationality": [
+    "Eastern Europe"
+  ],
+  "region_cuisine": [
+    "Jewish cuisine"
+  ],
+  "images": [
+    "images/holishkes-q5880655/holishkes-q5880655-1.jpg",
+    "images/holishkes-q5880655/holishkes-q5880655-2.jpg",
+    "images/holishkes-q5880655/holishkes-q5880655-3.jpg",
+    "images/holishkes-q5880655/holishkes-q5880655-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5880655",
+    "themealdb": null
+  }
+}

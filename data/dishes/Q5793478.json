@@ -1,0 +1,20 @@
+{
+  "id": "Q5793478",
+  "name": "cubanito",
+  "description": "",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cubanito-q5793478/cubanito-q5793478-1.jpg",
+    "images/cubanito-q5793478/cubanito-q5793478-2.jpg",
+    "images/cubanito-q5793478/cubanito-q5793478-3.jpg",
+    "images/cubanito-q5793478/cubanito-q5793478-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5793478",
+    "themealdb": null
+  }
+}

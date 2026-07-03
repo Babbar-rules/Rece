@@ -1,0 +1,23 @@
+{
+  "id": "Q5790855",
+  "name": "crespillo",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "cuisine of Cartagena, Spain",
+    "cuisine of the Region of Murcia"
+  ],
+  "images": [
+    "images/crespillo-q5790855/crespillo-q5790855-1.jpg",
+    "images/crespillo-q5790855/crespillo-q5790855-2.jpg",
+    "images/crespillo-q5790855/crespillo-q5790855-3.jpg",
+    "images/crespillo-q5790855/crespillo-q5790855-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5790855",
+    "themealdb": null
+  }
+}

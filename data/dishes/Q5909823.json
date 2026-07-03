@@ -1,0 +1,20 @@
+{
+  "id": "Q5909823",
+  "name": "Hot Brown",
+  "description": "open-faced hot sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-brown-q5909823/hot-brown-q5909823-1.jpg",
+    "images/hot-brown-q5909823/hot-brown-q5909823-2.jpg",
+    "images/hot-brown-q5909823/hot-brown-q5909823-3.jpg",
+    "images/hot-brown-q5909823/hot-brown-q5909823-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5909823",
+    "themealdb": null
+  }
+}

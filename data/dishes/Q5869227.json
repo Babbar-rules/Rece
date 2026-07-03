@@ -1,0 +1,20 @@
+{
+  "id": "Q5869227",
+  "name": "Frejol colado",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frejol-colado-q5869227/frejol-colado-q5869227-1.jpg",
+    "images/frejol-colado-q5869227/frejol-colado-q5869227-2.jpg",
+    "images/frejol-colado-q5869227/frejol-colado-q5869227-3.jpg",
+    "images/frejol-colado-q5869227/frejol-colado-q5869227-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5869227",
+    "themealdb": null
+  }
+}

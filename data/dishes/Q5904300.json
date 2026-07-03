@@ -1,0 +1,20 @@
+{
+  "id": "Q5904300",
+  "name": "Huevos a la mexicana",
+  "description": "Mexican breakfast dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huevos-a-la-mexicana-q5904300/huevos-a-la-mexicana-q5904300-1.png",
+    "images/huevos-a-la-mexicana-q5904300/huevos-a-la-mexicana-q5904300-2.jpg",
+    "images/huevos-a-la-mexicana-q5904300/huevos-a-la-mexicana-q5904300-3.png",
+    "images/huevos-a-la-mexicana-q5904300/huevos-a-la-mexicana-q5904300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5904300",
+    "themealdb": null
+  }
+}

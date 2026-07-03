@@ -1,0 +1,20 @@
+{
+  "id": "Q592399",
+  "name": "Galician empanada",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Galician cuisine"
+  ],
+  "images": [
+    "images/galician-empanada-q592399/galician-empanada-q592399-1.jpg",
+    "images/galician-empanada-q592399/galician-empanada-q592399-2.jpg",
+    "images/galician-empanada-q592399/galician-empanada-q592399-3.jpg",
+    "images/galician-empanada-q592399/galician-empanada-q592399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q592399",
+    "themealdb": null
+  }
+}

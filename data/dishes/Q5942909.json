@@ -1,0 +1,18 @@
+{
+  "id": "Q5942909",
+  "name": "tava kebab",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tava-kebab-q5942909/tava-kebab-q5942909-1.jpg",
+    "images/tava-kebab-q5942909/tava-kebab-q5942909-2.jpg",
+    "images/tava-kebab-q5942909/tava-kebab-q5942909-3.jpg",
+    "images/tava-kebab-q5942909/tava-kebab-q5942909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5942909",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q58034470",
+  "name": "Willisauer Ringli",
+  "description": "Swiss regional cookie specialty",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/willisauer-ringli-q58034470/willisauer-ringli-q58034470-1.png",
+    "images/willisauer-ringli-q58034470/willisauer-ringli-q58034470-2.jpeg",
+    "images/willisauer-ringli-q58034470/willisauer-ringli-q58034470-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q58034470",
+    "themealdb": null
+  }
+}

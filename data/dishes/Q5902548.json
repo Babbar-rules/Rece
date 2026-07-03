@@ -1,0 +1,18 @@
+{
+  "id": "Q5902548",
+  "name": "Horalky",
+  "description": "Slovak wafer biscuit sold in Central Europe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/horalky-q5902548/horalky-q5902548-1.jpg",
+    "images/horalky-q5902548/horalky-q5902548-2.jpg",
+    "images/horalky-q5902548/horalky-q5902548-3.jpg",
+    "images/horalky-q5902548/horalky-q5902548-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5902548",
+    "themealdb": null
+  }
+}

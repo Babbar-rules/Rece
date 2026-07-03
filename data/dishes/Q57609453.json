@@ -1,0 +1,24 @@
+{
+  "id": "Q57609453",
+  "name": "tripe chorba",
+  "description": "",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Macedonian cuisine",
+    "Bulgarian cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/tripe-chorba-q57609453/tripe-chorba-q57609453-1.jpg",
+    "images/tripe-chorba-q57609453/tripe-chorba-q57609453-2.jpg",
+    "images/tripe-chorba-q57609453/tripe-chorba-q57609453-3.jpg",
+    "images/tripe-chorba-q57609453/tripe-chorba-q57609453-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57609453",
+    "themealdb": null
+  }
+}
