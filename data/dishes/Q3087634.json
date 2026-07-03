@@ -1,0 +1,22 @@
+{
+  "id": "Q3087634",
+  "name": "mud pie",
+  "description": "chocolate-based dessert pie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the Southern United States"
+  ],
+  "images": [
+    "images/mud-pie-q3087634/mud-pie-q3087634-1.jpg",
+    "images/mud-pie-q3087634/mud-pie-q3087634-2.jpg",
+    "images/mud-pie-q3087634/mud-pie-q3087634-3.jpg",
+    "images/mud-pie-q3087634/mud-pie-q3087634-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3087634",
+    "themealdb": null
+  }
+}

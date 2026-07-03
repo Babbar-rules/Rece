@@ -1,0 +1,15 @@
+{
+  "id": "Q30888235",
+  "name": "coniglio all’ischitana",
+  "description": "Italian rabbit dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30888235",
+    "themealdb": null
+  }
+}

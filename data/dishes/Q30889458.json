@@ -1,0 +1,17 @@
+{
+  "id": "Q30889458",
+  "name": "torta di fioretto",
+  "description": "Italian dessert flavored with fioretto",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Valtellina"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30889458",
+    "themealdb": null
+  }
+}

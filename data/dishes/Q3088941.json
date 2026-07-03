@@ -1,0 +1,20 @@
+{
+  "id": "Q3088941",
+  "name": "tiropita",
+  "description": "Greek layered pastry food",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiropita-q3088941/tiropita-q3088941-1.jpg",
+    "images/tiropita-q3088941/tiropita-q3088941-2.jpg",
+    "images/tiropita-q3088941/tiropita-q3088941-3.jpg",
+    "images/tiropita-q3088941/tiropita-q3088941-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3088941",
+    "themealdb": null
+  }
+}

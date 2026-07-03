@@ -1,0 +1,22 @@
+{
+  "id": "Q3083513",
+  "name": "Garbure",
+  "description": "regional dish from Gascony, France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/garbure-q3083513/garbure-q3083513-1.jpg",
+    "images/garbure-q3083513/garbure-q3083513-2.jpg",
+    "images/garbure-q3083513/garbure-q3083513-3.jpg",
+    "images/garbure-q3083513/garbure-q3083513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3083513",
+    "themealdb": null
+  }
+}

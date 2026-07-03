@@ -1,0 +1,18 @@
+{
+  "id": "Q30897054",
+  "name": "dragée",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dragee-q30897054/dragee-q30897054-1.png",
+    "images/dragee-q30897054/dragee-q30897054-2.jpg",
+    "images/dragee-q30897054/dragee-q30897054-3.jpg",
+    "images/dragee-q30897054/dragee-q30897054-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30897054",
+    "themealdb": null
+  }
+}

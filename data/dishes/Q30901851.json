@@ -1,0 +1,20 @@
+{
+  "id": "Q30901851",
+  "name": "Campero malagueño",
+  "description": "food",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/campero-malagueno-q30901851/campero-malagueno-q30901851-1.jpg",
+    "images/campero-malagueno-q30901851/campero-malagueno-q30901851-2.png",
+    "images/campero-malagueno-q30901851/campero-malagueno-q30901851-3.jpg",
+    "images/campero-malagueno-q30901851/campero-malagueno-q30901851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30901851",
+    "themealdb": null
+  }
+}
