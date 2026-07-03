@@ -1,0 +1,18 @@
+{
+  "id": "Q67871306",
+  "name": "Käsewähe",
+  "description": "savory Swiss cheese tart",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kasewahe-q67871306/kasewahe-q67871306-1.jpg",
+    "images/kasewahe-q67871306/kasewahe-q67871306-2.jpg",
+    "images/kasewahe-q67871306/kasewahe-q67871306-3.jpg",
+    "images/kasewahe-q67871306/kasewahe-q67871306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67871306",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6919154",
+  "name": "Mounds",
+  "description": "Candy bar by Hershey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mounds-q6919154/mounds-q6919154-1.jpg",
+    "images/mounds-q6919154/mounds-q6919154-2.jpg",
+    "images/mounds-q6919154/mounds-q6919154-3.jpg",
+    "images/mounds-q6919154/mounds-q6919154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6919154",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6883975",
+  "name": "mixed grill",
+  "description": "meal with grilled meats",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mixed-grill-q6883975/mixed-grill-q6883975-1.jpg",
+    "images/mixed-grill-q6883975/mixed-grill-q6883975-2.jpg",
+    "images/mixed-grill-q6883975/mixed-grill-q6883975-3.jpg",
+    "images/mixed-grill-q6883975/mixed-grill-q6883975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6883975",
+    "themealdb": null
+  }
+}

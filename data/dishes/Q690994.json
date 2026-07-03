@@ -1,0 +1,20 @@
+{
+  "id": "Q690994",
+  "name": "fritto misto alla piemontese",
+  "description": "Italian deep-fried dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fritto-misto-alla-piemontese-q690994/fritto-misto-alla-piemontese-q690994-1.jpg",
+    "images/fritto-misto-alla-piemontese-q690994/fritto-misto-alla-piemontese-q690994-2.jpg",
+    "images/fritto-misto-alla-piemontese-q690994/fritto-misto-alla-piemontese-q690994-3.jpg",
+    "images/fritto-misto-alla-piemontese-q690994/fritto-misto-alla-piemontese-q690994-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q690994",
+    "themealdb": null
+  }
+}

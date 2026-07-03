@@ -1,0 +1,18 @@
+{
+  "id": "Q67873453",
+  "name": "redcurrant jam",
+  "description": "jam made from redcurrants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/redcurrant-jam-q67873453/redcurrant-jam-q67873453-1.jpg",
+    "images/redcurrant-jam-q67873453/redcurrant-jam-q67873453-2.jpg",
+    "images/redcurrant-jam-q67873453/redcurrant-jam-q67873453-3.jpg",
+    "images/redcurrant-jam-q67873453/redcurrant-jam-q67873453-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67873453",
+    "themealdb": null
+  }
+}

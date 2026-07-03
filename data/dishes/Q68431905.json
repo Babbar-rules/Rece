@@ -1,0 +1,18 @@
+{
+  "id": "Q68431905",
+  "name": "roulades meat",
+  "description": "meat to prepare roulade dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roulades-meat-q68431905/roulades-meat-q68431905-1.jpg",
+    "images/roulades-meat-q68431905/roulades-meat-q68431905-2.jpg",
+    "images/roulades-meat-q68431905/roulades-meat-q68431905-3.jpg",
+    "images/roulades-meat-q68431905/roulades-meat-q68431905-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68431905",
+    "themealdb": null
+  }
+}

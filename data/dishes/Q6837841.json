@@ -1,0 +1,20 @@
+{
+  "id": "Q6837841",
+  "name": "Michigan salad",
+  "description": "variety of green salad",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/michigan-salad-q6837841/michigan-salad-q6837841-1.jpg",
+    "images/michigan-salad-q6837841/michigan-salad-q6837841-2.jpg",
+    "images/michigan-salad-q6837841/michigan-salad-q6837841-3.jpg",
+    "images/michigan-salad-q6837841/michigan-salad-q6837841-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6837841",
+    "themealdb": null
+  }
+}

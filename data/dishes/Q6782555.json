@@ -1,0 +1,20 @@
+{
+  "id": "Q6782555",
+  "name": "Masan",
+  "description": "Tibetan pastry made with tsampa, dry cubic or curd cheese, yak butter, brown sugar and water",
+  "nationality": [
+    "Tibet"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/masan-q6782555/masan-q6782555-1.png",
+    "images/masan-q6782555/masan-q6782555-2.jpg",
+    "images/masan-q6782555/masan-q6782555-3.jpg",
+    "images/masan-q6782555/masan-q6782555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6782555",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6827079",
+  "name": "Mi san dao",
+  "description": "fried cake glazed in malt sugar",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mi-san-dao-q6827079/mi-san-dao-q6827079-1.jpg",
+    "images/mi-san-dao-q6827079/mi-san-dao-q6827079-2.jpg",
+    "images/mi-san-dao-q6827079/mi-san-dao-q6827079-3.jpg",
+    "images/mi-san-dao-q6827079/mi-san-dao-q6827079-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6827079",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6796608",
+  "name": "Mae West",
+  "description": "Canadian dessert cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mae-west-q6796608/mae-west-q6796608-1.jpg",
+    "images/mae-west-q6796608/mae-west-q6796608-2.jpg",
+    "images/mae-west-q6796608/mae-west-q6796608-3.jpg",
+    "images/mae-west-q6796608/mae-west-q6796608-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6796608",
+    "themealdb": null
+  }
+}

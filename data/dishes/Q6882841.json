@@ -1,0 +1,22 @@
+{
+  "id": "Q6882841",
+  "name": "šakotis",
+  "description": "traditional Polish-Lithuanian cake",
+  "nationality": [],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Belarusian cuisine",
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/sakotis-q6882841/sakotis-q6882841-1.jpg",
+    "images/sakotis-q6882841/sakotis-q6882841-2.jpg",
+    "images/sakotis-q6882841/sakotis-q6882841-3.jpg",
+    "images/sakotis-q6882841/sakotis-q6882841-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6882841",
+    "themealdb": null
+  }
+}

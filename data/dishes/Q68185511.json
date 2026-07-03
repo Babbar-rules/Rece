@@ -1,0 +1,18 @@
+{
+  "id": "Q68185511",
+  "name": "pickled tomato",
+  "description": "normally dried tomatoes pickled in olive oil",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-tomato-q68185511/pickled-tomato-q68185511-1.jpg",
+    "images/pickled-tomato-q68185511/pickled-tomato-q68185511-2.jpg",
+    "images/pickled-tomato-q68185511/pickled-tomato-q68185511-3.jpg",
+    "images/pickled-tomato-q68185511/pickled-tomato-q68185511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68185511",
+    "themealdb": null
+  }
+}

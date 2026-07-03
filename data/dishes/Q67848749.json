@@ -1,0 +1,18 @@
+{
+  "id": "Q67848749",
+  "name": "sweet potato haupia pie",
+  "description": "Hawaiian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-potato-haupia-pie-q67848749/sweet-potato-haupia-pie-q67848749-1.jpg",
+    "images/sweet-potato-haupia-pie-q67848749/sweet-potato-haupia-pie-q67848749-2.jpg",
+    "images/sweet-potato-haupia-pie-q67848749/sweet-potato-haupia-pie-q67848749-3.jpg",
+    "images/sweet-potato-haupia-pie-q67848749/sweet-potato-haupia-pie-q67848749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67848749",
+    "themealdb": null
+  }
+}

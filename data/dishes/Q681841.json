@@ -1,0 +1,23 @@
+{
+  "id": "Q681841",
+  "name": "Leberkäse",
+  "description": "baked loaf of finely minced sausage meat",
+  "nationality": [],
+  "region_cuisine": [
+    "Bavarian cuisine",
+    "German cuisine",
+    "Austrian cuisine",
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/leberkase-q681841/leberkase-q681841-1.jpg",
+    "images/leberkase-q681841/leberkase-q681841-2.jpg",
+    "images/leberkase-q681841/leberkase-q681841-3.jpg",
+    "images/leberkase-q681841/leberkase-q681841-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q681841",
+    "themealdb": null
+  }
+}

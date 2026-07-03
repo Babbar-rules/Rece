@@ -1,0 +1,18 @@
+{
+  "id": "Q67591158",
+  "name": "tortellini filled with cheese",
+  "description": "type of tortellini",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tortellini-filled-with-cheese-q67591158/tortellini-filled-with-cheese-q67591158-1.jpg",
+    "images/tortellini-filled-with-cheese-q67591158/tortellini-filled-with-cheese-q67591158-2.jpg",
+    "images/tortellini-filled-with-cheese-q67591158/tortellini-filled-with-cheese-q67591158-3.jpg",
+    "images/tortellini-filled-with-cheese-q67591158/tortellini-filled-with-cheese-q67591158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67591158",
+    "themealdb": null
+  }
+}

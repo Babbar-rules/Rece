@@ -1,0 +1,16 @@
+{
+  "id": "Q67590842",
+  "name": "millerighe",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/millerighe-q67590842/millerighe-q67590842-1.jpg",
+    "images/millerighe-q67590842/millerighe-q67590842-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67590842",
+    "themealdb": null
+  }
+}

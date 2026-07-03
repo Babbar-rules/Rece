@@ -1,0 +1,20 @@
+{
+  "id": "Q68594050",
+  "name": "Turkish mantı",
+  "description": "food from Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turkish-mant-q68594050/turkish-mant-q68594050-1.jpg",
+    "images/turkish-mant-q68594050/turkish-mant-q68594050-2.jpg",
+    "images/turkish-mant-q68594050/turkish-mant-q68594050-3.jpg",
+    "images/turkish-mant-q68594050/turkish-mant-q68594050-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68594050",
+    "themealdb": null
+  }
+}

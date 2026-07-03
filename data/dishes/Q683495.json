@@ -1,0 +1,21 @@
+{
+  "id": "Q683495",
+  "name": "gâteau Basque",
+  "description": "Basque cake",
+  "nationality": [],
+  "region_cuisine": [
+    "Basque cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/gateau-basque-q683495/gateau-basque-q683495-1.jpg",
+    "images/gateau-basque-q683495/gateau-basque-q683495-2.jpg",
+    "images/gateau-basque-q683495/gateau-basque-q683495-3.jpg",
+    "images/gateau-basque-q683495/gateau-basque-q683495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q683495",
+    "themealdb": null
+  }
+}

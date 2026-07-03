@@ -1,0 +1,16 @@
+{
+  "id": "Q67589074",
+  "name": "passionfruit jam",
+  "description": "marmelade made of passionfruits",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/passionfruit-jam-q67589074/passionfruit-jam-q67589074-1.jpg",
+    "images/passionfruit-jam-q67589074/passionfruit-jam-q67589074-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67589074",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q68493668",
+  "name": "wholemeal pasta",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wholemeal-pasta-q68493668/wholemeal-pasta-q68493668-1.jpg",
+    "images/wholemeal-pasta-q68493668/wholemeal-pasta-q68493668-2.jpg",
+    "images/wholemeal-pasta-q68493668/wholemeal-pasta-q68493668-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68493668",
+    "themealdb": null
+  }
+}

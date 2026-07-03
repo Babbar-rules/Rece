@@ -1,0 +1,18 @@
+{
+  "id": "Q67888145",
+  "name": "chestnut puree",
+  "description": "puree made of chestnuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chestnut-puree-q67888145/chestnut-puree-q67888145-1.jpg",
+    "images/chestnut-puree-q67888145/chestnut-puree-q67888145-2.jpg",
+    "images/chestnut-puree-q67888145/chestnut-puree-q67888145-3.jpg",
+    "images/chestnut-puree-q67888145/chestnut-puree-q67888145-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67888145",
+    "themealdb": null
+  }
+}

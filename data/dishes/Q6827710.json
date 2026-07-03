@@ -1,0 +1,23 @@
+{
+  "id": "Q6827710",
+  "name": "Mianwo",
+  "description": "Chinese donut",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Hubei cuisine"
+  ],
+  "images": [
+    "images/mianwo-q6827710/mianwo-q6827710-1.jpg",
+    "images/mianwo-q6827710/mianwo-q6827710-2.jpg",
+    "images/mianwo-q6827710/mianwo-q6827710-3.jpg",
+    "images/mianwo-q6827710/mianwo-q6827710-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6827710",
+    "themealdb": null
+  }
+}

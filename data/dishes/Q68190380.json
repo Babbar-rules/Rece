@@ -1,0 +1,18 @@
+{
+  "id": "Q68190380",
+  "name": "smoked trout",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-trout-q68190380/smoked-trout-q68190380-1.jpg",
+    "images/smoked-trout-q68190380/smoked-trout-q68190380-2.jpg",
+    "images/smoked-trout-q68190380/smoked-trout-q68190380-3.jpg",
+    "images/smoked-trout-q68190380/smoked-trout-q68190380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68190380",
+    "themealdb": null
+  }
+}

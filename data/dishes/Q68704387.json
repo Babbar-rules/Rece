@@ -1,0 +1,20 @@
+{
+  "id": "Q68704387",
+  "name": "Mandelfisch",
+  "description": "Swiss almond-filled shortcrust pastry in the shape of a fish",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mandelfisch-q68704387/mandelfisch-q68704387-1.jpg",
+    "images/mandelfisch-q68704387/mandelfisch-q68704387-2.jpg",
+    "images/mandelfisch-q68704387/mandelfisch-q68704387-3.jpg",
+    "images/mandelfisch-q68704387/mandelfisch-q68704387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68704387",
+    "themealdb": null
+  }
+}

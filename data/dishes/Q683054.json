@@ -1,0 +1,18 @@
+{
+  "id": "Q683054",
+  "name": "gâteau du Vully",
+  "description": "Swiss cake",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gateau-du-vully-q683054/gateau-du-vully-q683054-1.jpg",
+    "images/gateau-du-vully-q683054/gateau-du-vully-q683054-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q683054",
+    "themealdb": null
+  }
+}

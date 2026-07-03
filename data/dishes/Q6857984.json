@@ -1,0 +1,18 @@
+{
+  "id": "Q6857984",
+  "name": "Milk Duds",
+  "description": "Caramel and cocoa candy produced since 1926",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-duds-q6857984/milk-duds-q6857984-1.jpg",
+    "images/milk-duds-q6857984/milk-duds-q6857984-2.jpg",
+    "images/milk-duds-q6857984/milk-duds-q6857984-3.jpg",
+    "images/milk-duds-q6857984/milk-duds-q6857984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6857984",
+    "themealdb": null
+  }
+}

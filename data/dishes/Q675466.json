@@ -1,0 +1,22 @@
+{
+  "id": "Q675466",
+  "name": "bosintang",
+  "description": "Korean soup of dog meat",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/bosintang-q675466/bosintang-q675466-1.jpg",
+    "images/bosintang-q675466/bosintang-q675466-2.jpg",
+    "images/bosintang-q675466/bosintang-q675466-3.jpg",
+    "images/bosintang-q675466/bosintang-q675466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q675466",
+    "themealdb": null
+  }
+}

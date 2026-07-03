@@ -1,0 +1,18 @@
+{
+  "id": "Q68495119",
+  "name": "smoked chicken",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-chicken-q68495119/smoked-chicken-q68495119-1.jpg",
+    "images/smoked-chicken-q68495119/smoked-chicken-q68495119-2.jpg",
+    "images/smoked-chicken-q68495119/smoked-chicken-q68495119-3.jpg",
+    "images/smoked-chicken-q68495119/smoked-chicken-q68495119-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68495119",
+    "themealdb": null
+  }
+}

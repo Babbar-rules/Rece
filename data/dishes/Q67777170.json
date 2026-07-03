@@ -1,0 +1,18 @@
+{
+  "id": "Q67777170",
+  "name": "venison goulash",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/venison-goulash-q67777170/venison-goulash-q67777170-1.jpg",
+    "images/venison-goulash-q67777170/venison-goulash-q67777170-2.jpg",
+    "images/venison-goulash-q67777170/venison-goulash-q67777170-3.jpg",
+    "images/venison-goulash-q67777170/venison-goulash-q67777170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67777170",
+    "themealdb": null
+  }
+}

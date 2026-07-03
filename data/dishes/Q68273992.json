@@ -1,0 +1,18 @@
+{
+  "id": "Q68273992",
+  "name": "smoked eel",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-eel-q68273992/smoked-eel-q68273992-1.jpg",
+    "images/smoked-eel-q68273992/smoked-eel-q68273992-2.jpg",
+    "images/smoked-eel-q68273992/smoked-eel-q68273992-3.jpg",
+    "images/smoked-eel-q68273992/smoked-eel-q68273992-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68273992",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q6804256",
+  "name": "Meat and potato pie",
+  "description": "English pie dish",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-and-potato-pie-q6804256/meat-and-potato-pie-q6804256-1.jpg",
+    "images/meat-and-potato-pie-q6804256/meat-and-potato-pie-q6804256-2.jpg",
+    "images/meat-and-potato-pie-q6804256/meat-and-potato-pie-q6804256-3.jpg",
+    "images/meat-and-potato-pie-q6804256/meat-and-potato-pie-q6804256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6804256",
+    "themealdb": null
+  }
+}

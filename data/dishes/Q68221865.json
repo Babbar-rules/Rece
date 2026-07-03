@@ -1,0 +1,18 @@
+{
+  "id": "Q68221865",
+  "name": "peach jam",
+  "description": "jam made from peachs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peach-jam-q68221865/peach-jam-q68221865-1.jpg",
+    "images/peach-jam-q68221865/peach-jam-q68221865-2.jpg",
+    "images/peach-jam-q68221865/peach-jam-q68221865-3.jpg",
+    "images/peach-jam-q68221865/peach-jam-q68221865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68221865",
+    "themealdb": null
+  }
+}

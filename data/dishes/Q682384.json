@@ -1,0 +1,20 @@
+{
+  "id": "Q682384",
+  "name": "Galbi",
+  "description": "grilled beef or pork ribs in Korean cuisine",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galbi-q682384/galbi-q682384-1.jpg",
+    "images/galbi-q682384/galbi-q682384-2.jpg",
+    "images/galbi-q682384/galbi-q682384-3.jpg",
+    "images/galbi-q682384/galbi-q682384-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q682384",
+    "themealdb": null
+  }
+}

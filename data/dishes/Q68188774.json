@@ -1,0 +1,18 @@
+{
+  "id": "Q68188774",
+  "name": "stuffed olive",
+  "description": "olives filled with something",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-olive-q68188774/stuffed-olive-q68188774-1.jpg",
+    "images/stuffed-olive-q68188774/stuffed-olive-q68188774-2.jpg",
+    "images/stuffed-olive-q68188774/stuffed-olive-q68188774-3.jpg",
+    "images/stuffed-olive-q68188774/stuffed-olive-q68188774-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68188774",
+    "themealdb": null
+  }
+}

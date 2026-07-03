@@ -1,0 +1,20 @@
+{
+  "id": "Q6843519",
+  "name": "Mie kering",
+  "description": "Indonesian type of noodle",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mie-kering-q6843519/mie-kering-q6843519-1.jpg",
+    "images/mie-kering-q6843519/mie-kering-q6843519-2.jpg",
+    "images/mie-kering-q6843519/mie-kering-q6843519-3.jpg",
+    "images/mie-kering-q6843519/mie-kering-q6843519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6843519",
+    "themealdb": null
+  }
+}

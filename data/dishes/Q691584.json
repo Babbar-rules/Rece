@@ -1,0 +1,20 @@
+{
+  "id": "Q691584",
+  "name": "Halls",
+  "description": "brand of cough drops",
+  "nationality": [
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/halls-q691584/halls-q691584-1.jpg",
+    "images/halls-q691584/halls-q691584-2.jpg",
+    "images/halls-q691584/halls-q691584-3.jpg",
+    "images/halls-q691584/halls-q691584-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q691584",
+    "themealdb": null
+  }
+}

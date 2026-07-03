@@ -1,0 +1,18 @@
+{
+  "id": "Q67864248",
+  "name": "graved salmon",
+  "description": "salmon preparation type",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/graved-salmon-q67864248/graved-salmon-q67864248-1.jpg",
+    "images/graved-salmon-q67864248/graved-salmon-q67864248-2.jpg",
+    "images/graved-salmon-q67864248/graved-salmon-q67864248-3.jpg",
+    "images/graved-salmon-q67864248/graved-salmon-q67864248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67864248",
+    "themealdb": null
+  }
+}

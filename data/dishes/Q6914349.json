@@ -1,0 +1,20 @@
+{
+  "id": "Q6914349",
+  "name": "mortadella sandwich",
+  "description": "Brazilian sandwich",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mortadella-sandwich-q6914349/mortadella-sandwich-q6914349-1.jpg",
+    "images/mortadella-sandwich-q6914349/mortadella-sandwich-q6914349-2.jpg",
+    "images/mortadella-sandwich-q6914349/mortadella-sandwich-q6914349-3.jpg",
+    "images/mortadella-sandwich-q6914349/mortadella-sandwich-q6914349-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6914349",
+    "themealdb": null
+  }
+}

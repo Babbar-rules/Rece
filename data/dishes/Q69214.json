@@ -1,0 +1,18 @@
+{
+  "id": "Q69214",
+  "name": "Caragols a la llauna",
+  "description": "Grilled or baked land snails from Catalonia, Spain",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caragols-a-la-llauna-q69214/caragols-a-la-llauna-q69214-1.jpg",
+    "images/caragols-a-la-llauna-q69214/caragols-a-la-llauna-q69214-2.jpg",
+    "images/caragols-a-la-llauna-q69214/caragols-a-la-llauna-q69214-3.jpg",
+    "images/caragols-a-la-llauna-q69214/caragols-a-la-llauna-q69214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q69214",
+    "themealdb": null
+  }
+}

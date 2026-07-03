@@ -1,0 +1,20 @@
+{
+  "id": "Q6904753",
+  "name": "Monte Cristo sandwich",
+  "description": "fried ham and cheese sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/monte-cristo-sandwich-q6904753/monte-cristo-sandwich-q6904753-1.jpg",
+    "images/monte-cristo-sandwich-q6904753/monte-cristo-sandwich-q6904753-2.jpg",
+    "images/monte-cristo-sandwich-q6904753/monte-cristo-sandwich-q6904753-3.jpg",
+    "images/monte-cristo-sandwich-q6904753/monte-cristo-sandwich-q6904753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6904753",
+    "themealdb": null
+  }
+}

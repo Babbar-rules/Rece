@@ -1,0 +1,20 @@
+{
+  "id": "Q6826082",
+  "name": "Mexican pizza",
+  "description": "",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mexican-pizza-q6826082/mexican-pizza-q6826082-1.jpg",
+    "images/mexican-pizza-q6826082/mexican-pizza-q6826082-2.jpg",
+    "images/mexican-pizza-q6826082/mexican-pizza-q6826082-3.jpg",
+    "images/mexican-pizza-q6826082/mexican-pizza-q6826082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6826082",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6817673",
+  "name": "Menudo",
+  "description": "Philippine stew",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/menudo-q6817673/menudo-q6817673-1.jpg",
+    "images/menudo-q6817673/menudo-q6817673-2.jpg",
+    "images/menudo-q6817673/menudo-q6817673-3.jpg",
+    "images/menudo-q6817673/menudo-q6817673-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6817673",
+    "themealdb": null
+  }
+}

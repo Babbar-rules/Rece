@@ -1,0 +1,18 @@
+{
+  "id": "Q68495399",
+  "name": "smoked halibut",
+  "description": "smoked fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-halibut-q68495399/smoked-halibut-q68495399-1.jpeg",
+    "images/smoked-halibut-q68495399/smoked-halibut-q68495399-2.jpg",
+    "images/smoked-halibut-q68495399/smoked-halibut-q68495399-3.jpg",
+    "images/smoked-halibut-q68495399/smoked-halibut-q68495399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68495399",
+    "themealdb": null
+  }
+}

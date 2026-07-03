@@ -1,0 +1,20 @@
+{
+  "id": "Q691755",
+  "name": "steamed curry",
+  "description": "Southeast Asian type of curry steam-cooked in banana leaves",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-curry-q691755/steamed-curry-q691755-1.jpg",
+    "images/steamed-curry-q691755/steamed-curry-q691755-2.jpg",
+    "images/steamed-curry-q691755/steamed-curry-q691755-3.jpg",
+    "images/steamed-curry-q691755/steamed-curry-q691755-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q691755",
+    "themealdb": null
+  }
+}

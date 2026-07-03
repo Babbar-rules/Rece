@@ -1,0 +1,22 @@
+{
+  "id": "Q689416",
+  "name": "Basler Läckerli",
+  "description": "hard spice biscuit originating from Basel, Switzerland",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/basler-lackerli-q689416/basler-lackerli-q689416-1.jpeg",
+    "images/basler-lackerli-q689416/basler-lackerli-q689416-2.jpeg",
+    "images/basler-lackerli-q689416/basler-lackerli-q689416-3.jpeg",
+    "images/basler-lackerli-q689416/basler-lackerli-q689416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q689416",
+    "themealdb": null
+  }
+}

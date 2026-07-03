@@ -1,0 +1,19 @@
+{
+  "id": "Q68631373",
+  "name": "Nộm hoa chuối",
+  "description": "Vietnamise salad",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nom-hoa-chuoi-q68631373/nom-hoa-chuoi-q68631373-1.png",
+    "images/nom-hoa-chuoi-q68631373/nom-hoa-chuoi-q68631373-2.png",
+    "images/nom-hoa-chuoi-q68631373/nom-hoa-chuoi-q68631373-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68631373",
+    "themealdb": null
+  }
+}

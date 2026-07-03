@@ -1,0 +1,22 @@
+{
+  "id": "Q689950",
+  "name": "naan",
+  "description": "Asian flatbread",
+  "nationality": [
+    "Indian subcontinent"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/naan-q689950/naan-q689950-1.jpg",
+    "images/naan-q689950/naan-q689950-2.jpg",
+    "images/naan-q689950/naan-q689950-3.jpg",
+    "images/naan-q689950/naan-q689950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q689950",
+    "themealdb": null
+  }
+}

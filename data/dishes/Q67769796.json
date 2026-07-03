@@ -1,0 +1,20 @@
+{
+  "id": "Q67769796",
+  "name": "Natillas de Piura",
+  "description": "Peruvian candy",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/natillas-de-piura-q67769796/natillas-de-piura-q67769796-1.jpg",
+    "images/natillas-de-piura-q67769796/natillas-de-piura-q67769796-2.jpg",
+    "images/natillas-de-piura-q67769796/natillas-de-piura-q67769796-3.jpg",
+    "images/natillas-de-piura-q67769796/natillas-de-piura-q67769796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67769796",
+    "themealdb": null
+  }
+}

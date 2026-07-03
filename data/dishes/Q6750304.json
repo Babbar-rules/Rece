@@ -1,0 +1,20 @@
+{
+  "id": "Q6750304",
+  "name": "Maniçoba",
+  "description": "Brazilian pork dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/manicoba-q6750304/manicoba-q6750304-1.jpg",
+    "images/manicoba-q6750304/manicoba-q6750304-2.jpg",
+    "images/manicoba-q6750304/manicoba-q6750304-3.jpg",
+    "images/manicoba-q6750304/manicoba-q6750304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6750304",
+    "themealdb": null
+  }
+}

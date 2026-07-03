@@ -1,0 +1,20 @@
+{
+  "id": "Q6903124",
+  "name": "Mont di",
+  "description": "Burmese dishes with thin-rice noodles",
+  "nationality": [
+    "Myanmar"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mont-di-q6903124/mont-di-q6903124-1.jpg",
+    "images/mont-di-q6903124/mont-di-q6903124-2.jpg",
+    "images/mont-di-q6903124/mont-di-q6903124-3.jpg",
+    "images/mont-di-q6903124/mont-di-q6903124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6903124",
+    "themealdb": null
+  }
+}

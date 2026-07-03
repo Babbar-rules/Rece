@@ -1,0 +1,18 @@
+{
+  "id": "Q6923643",
+  "name": "Rice with spinach",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-with-spinach-q6923643/rice-with-spinach-q6923643-1.jpg",
+    "images/rice-with-spinach-q6923643/rice-with-spinach-q6923643-2.jpg",
+    "images/rice-with-spinach-q6923643/rice-with-spinach-q6923643-3.jpg",
+    "images/rice-with-spinach-q6923643/rice-with-spinach-q6923643-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6923643",
+    "themealdb": null
+  }
+}

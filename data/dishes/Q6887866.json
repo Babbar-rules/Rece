@@ -1,0 +1,20 @@
+{
+  "id": "Q6887866",
+  "name": "cow's feet soup",
+  "description": "hearty broth made from cow's feet, served as a snack or meal",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cows-feet-soup-q6887866/cows-feet-soup-q6887866-1.jpg",
+    "images/cows-feet-soup-q6887866/cows-feet-soup-q6887866-2.jpg",
+    "images/cows-feet-soup-q6887866/cows-feet-soup-q6887866-3.jpg",
+    "images/cows-feet-soup-q6887866/cows-feet-soup-q6887866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6887866",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q67881839",
+  "name": "veal escalope",
+  "description": "veal schnitzel",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veal-escalope-q67881839/veal-escalope-q67881839-1.jpg",
+    "images/veal-escalope-q67881839/veal-escalope-q67881839-2.jpg",
+    "images/veal-escalope-q67881839/veal-escalope-q67881839-3.png",
+    "images/veal-escalope-q67881839/veal-escalope-q67881839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67881839",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q68497532",
+  "name": "mango ice cream",
+  "description": "fruit ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mango-ice-cream-q68497532/mango-ice-cream-q68497532-1.jpg",
+    "images/mango-ice-cream-q68497532/mango-ice-cream-q68497532-2.jpg",
+    "images/mango-ice-cream-q68497532/mango-ice-cream-q68497532-3.jpg",
+    "images/mango-ice-cream-q68497532/mango-ice-cream-q68497532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68497532",
+    "themealdb": null
+  }
+}

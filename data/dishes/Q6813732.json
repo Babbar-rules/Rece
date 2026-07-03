@@ -1,0 +1,20 @@
+{
+  "id": "Q6813732",
+  "name": "melt sandwich",
+  "description": "type of cheese sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/melt-sandwich-q6813732/melt-sandwich-q6813732-1.jpg",
+    "images/melt-sandwich-q6813732/melt-sandwich-q6813732-2.jpg",
+    "images/melt-sandwich-q6813732/melt-sandwich-q6813732-3.jpg",
+    "images/melt-sandwich-q6813732/melt-sandwich-q6813732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6813732",
+    "themealdb": null
+  }
+}

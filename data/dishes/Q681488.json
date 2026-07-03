@@ -1,0 +1,20 @@
+{
+  "id": "Q681488",
+  "name": "Bossche bol",
+  "description": "food",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bossche-bol-q681488/bossche-bol-q681488-1.jpg",
+    "images/bossche-bol-q681488/bossche-bol-q681488-2.jpg",
+    "images/bossche-bol-q681488/bossche-bol-q681488-3.jpg",
+    "images/bossche-bol-q681488/bossche-bol-q681488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q681488",
+    "themealdb": null
+  }
+}

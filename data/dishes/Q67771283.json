@@ -1,0 +1,16 @@
+{
+  "id": "Q67771283",
+  "name": "hazelnut brittle",
+  "description": "brittle made with hazelnuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hazelnut-brittle-q67771283/hazelnut-brittle-q67771283-1.jpg",
+    "images/hazelnut-brittle-q67771283/hazelnut-brittle-q67771283-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67771283",
+    "themealdb": null
+  }
+}

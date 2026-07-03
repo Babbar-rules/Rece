@@ -1,0 +1,18 @@
+{
+  "id": "Q675987",
+  "name": "fruitcake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruitcake-q675987/fruitcake-q675987-1.jpg",
+    "images/fruitcake-q675987/fruitcake-q675987-2.jpg",
+    "images/fruitcake-q675987/fruitcake-q675987-3.jpg",
+    "images/fruitcake-q675987/fruitcake-q675987-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q675987",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q678388",
+  "name": "Ritter Sport",
+  "description": "brand of chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ritter-sport-q678388/ritter-sport-q678388-1.png",
+    "images/ritter-sport-q678388/ritter-sport-q678388-2.jpg",
+    "images/ritter-sport-q678388/ritter-sport-q678388-3.png",
+    "images/ritter-sport-q678388/ritter-sport-q678388-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q678388",
+    "themealdb": null
+  }
+}

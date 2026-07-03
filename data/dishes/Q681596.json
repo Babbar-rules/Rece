@@ -1,0 +1,20 @@
+{
+  "id": "Q681596",
+  "name": "gyros",
+  "description": "Greek food made with slices of spiced lamb or other meat cooked on a vertical spit, served with salad in pitta bread",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyros-q681596/gyros-q681596-1.jpg",
+    "images/gyros-q681596/gyros-q681596-2.jpg",
+    "images/gyros-q681596/gyros-q681596-3.jpg",
+    "images/gyros-q681596/gyros-q681596-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q681596",
+    "themealdb": null
+  }
+}

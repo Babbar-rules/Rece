@@ -1,0 +1,22 @@
+{
+  "id": "Q6816534",
+  "name": "menchi-katsu",
+  "description": "Japanese breaded and deep-fried ground meat patty",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/menchi-katsu-q6816534/menchi-katsu-q6816534-1.jpg",
+    "images/menchi-katsu-q6816534/menchi-katsu-q6816534-2.jpg",
+    "images/menchi-katsu-q6816534/menchi-katsu-q6816534-3.jpg",
+    "images/menchi-katsu-q6816534/menchi-katsu-q6816534-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6816534",
+    "themealdb": null
+  }
+}

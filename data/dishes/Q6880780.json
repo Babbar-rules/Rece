@@ -1,0 +1,20 @@
+{
+  "id": "Q6880780",
+  "name": "mitarashi dango",
+  "description": "shouyu (soy sauce) dango",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mitarashi-dango-q6880780/mitarashi-dango-q6880780-1.jpg",
+    "images/mitarashi-dango-q6880780/mitarashi-dango-q6880780-2.jpg",
+    "images/mitarashi-dango-q6880780/mitarashi-dango-q6880780-3.jpg",
+    "images/mitarashi-dango-q6880780/mitarashi-dango-q6880780-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6880780",
+    "themealdb": null
+  }
+}

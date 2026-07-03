@@ -1,0 +1,18 @@
+{
+  "id": "Q6855605",
+  "name": "quince jam",
+  "description": "jam made from quinces",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/quince-jam-q6855605/quince-jam-q6855605-1.jpg",
+    "images/quince-jam-q6855605/quince-jam-q6855605-2.jpg",
+    "images/quince-jam-q6855605/quince-jam-q6855605-3.jpg",
+    "images/quince-jam-q6855605/quince-jam-q6855605-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6855605",
+    "themealdb": null
+  }
+}

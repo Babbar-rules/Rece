@@ -1,0 +1,18 @@
+{
+  "id": "Q680242",
+  "name": "bhaji",
+  "description": "spicy snack",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bhaji-q680242/bhaji-q680242-1.jpg",
+    "images/bhaji-q680242/bhaji-q680242-2.jpg",
+    "images/bhaji-q680242/bhaji-q680242-3.jpg",
+    "images/bhaji-q680242/bhaji-q680242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q680242",
+    "themealdb": null
+  }
+}

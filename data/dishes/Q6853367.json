@@ -1,0 +1,20 @@
+{
+  "id": "Q6853367",
+  "name": "Padaek",
+  "description": "traditional Lao condiment made from pickled or fermented fish that has been cured",
+  "nationality": [
+    "Laos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/padaek-q6853367/padaek-q6853367-1.jpg",
+    "images/padaek-q6853367/padaek-q6853367-2.jpg",
+    "images/padaek-q6853367/padaek-q6853367-3.jpg",
+    "images/padaek-q6853367/padaek-q6853367-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6853367",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6907058",
+  "name": "Moo goo gai pan",
+  "description": "Americanized version of a Cantonese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/moo-goo-gai-pan-q6907058/moo-goo-gai-pan-q6907058-1.jpg",
+    "images/moo-goo-gai-pan-q6907058/moo-goo-gai-pan-q6907058-2.jpg",
+    "images/moo-goo-gai-pan-q6907058/moo-goo-gai-pan-q6907058-3.jpg",
+    "images/moo-goo-gai-pan-q6907058/moo-goo-gai-pan-q6907058-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6907058",
+    "themealdb": null
+  }
+}

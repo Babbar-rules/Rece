@@ -1,0 +1,22 @@
+{
+  "id": "Q6894609",
+  "name": "moin moin",
+  "description": "traditional Nigerian food",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [
+    "Nigerian cuisine"
+  ],
+  "images": [
+    "images/moin-moin-q6894609/moin-moin-q6894609-1.jpg",
+    "images/moin-moin-q6894609/moin-moin-q6894609-2.jpg",
+    "images/moin-moin-q6894609/moin-moin-q6894609-3.jpg",
+    "images/moin-moin-q6894609/moin-moin-q6894609-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6894609",
+    "themealdb": null
+  }
+}

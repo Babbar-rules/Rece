@@ -1,0 +1,18 @@
+{
+  "id": "Q6782232",
+  "name": "Mas huni",
+  "description": "Maldivian dish",
+  "nationality": [
+    "Maldives"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mas-huni-q6782232/mas-huni-q6782232-1.jpg",
+    "images/mas-huni-q6782232/mas-huni-q6782232-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6782232",
+    "themealdb": null
+  }
+}

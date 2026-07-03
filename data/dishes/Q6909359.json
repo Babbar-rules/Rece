@@ -1,0 +1,19 @@
+{
+  "id": "Q6909359",
+  "name": "Moravian spice cookies",
+  "description": "Traditional kind of cookie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moravian-spice-cookies-q6909359/moravian-spice-cookies-q6909359-1.png",
+    "images/moravian-spice-cookies-q6909359/moravian-spice-cookies-q6909359-2.png",
+    "images/moravian-spice-cookies-q6909359/moravian-spice-cookies-q6909359-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6909359",
+    "themealdb": null
+  }
+}

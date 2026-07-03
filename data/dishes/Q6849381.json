@@ -1,0 +1,18 @@
+{
+  "id": "Q6849381",
+  "name": "Mike and Ike",
+  "description": "brand of candies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mike-and-ike-q6849381/mike-and-ike-q6849381-1.jpg",
+    "images/mike-and-ike-q6849381/mike-and-ike-q6849381-2.jpg",
+    "images/mike-and-ike-q6849381/mike-and-ike-q6849381-3.jpg",
+    "images/mike-and-ike-q6849381/mike-and-ike-q6849381-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6849381",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q68487716",
+  "name": "beef goulash",
+  "description": "cut of beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-goulash-q68487716/beef-goulash-q68487716-1.jpg",
+    "images/beef-goulash-q68487716/beef-goulash-q68487716-2.jpg",
+    "images/beef-goulash-q68487716/beef-goulash-q68487716-3.jpg",
+    "images/beef-goulash-q68487716/beef-goulash-q68487716-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68487716",
+    "themealdb": null
+  }
+}

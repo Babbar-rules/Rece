@@ -1,0 +1,20 @@
+{
+  "id": "Q6815190",
+  "name": "Memela",
+  "description": "Masa cake in Mexican cuisine",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/memela-q6815190/memela-q6815190-1.jpg",
+    "images/memela-q6815190/memela-q6815190-2.jpg",
+    "images/memela-q6815190/memela-q6815190-3.jpg",
+    "images/memela-q6815190/memela-q6815190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6815190",
+    "themealdb": null
+  }
+}

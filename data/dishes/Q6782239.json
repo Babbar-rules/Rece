@@ -1,0 +1,18 @@
+{
+  "id": "Q6782239",
+  "name": "Mas riha",
+  "description": "Maldivian dish",
+  "nationality": [
+    "Maldives"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mas-riha-q6782239/mas-riha-q6782239-1.jpg",
+    "images/mas-riha-q6782239/mas-riha-q6782239-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6782239",
+    "themealdb": null
+  }
+}

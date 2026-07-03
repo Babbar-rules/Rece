@@ -1,0 +1,17 @@
+{
+  "id": "Q67597080",
+  "name": "Bündner Torte",
+  "description": "",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bundner-torte-q67597080/bundner-torte-q67597080-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67597080",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q68693765",
+  "name": "Lacta",
+  "description": "Greek chocolate brand name",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lacta-q68693765/lacta-q68693765-1.jpg",
+    "images/lacta-q68693765/lacta-q68693765-2.jpg",
+    "images/lacta-q68693765/lacta-q68693765-3.jpg",
+    "images/lacta-q68693765/lacta-q68693765-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68693765",
+    "themealdb": null
+  }
+}

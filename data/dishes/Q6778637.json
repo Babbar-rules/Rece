@@ -1,0 +1,23 @@
+{
+  "id": "Q6778637",
+  "name": "stuffed tomatoes",
+  "description": "tomato dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Balkan cuisine",
+    "Turkish cuisine",
+    "French cuisine",
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/stuffed-tomatoes-q6778637/stuffed-tomatoes-q6778637-1.jpg",
+    "images/stuffed-tomatoes-q6778637/stuffed-tomatoes-q6778637-2.jpg",
+    "images/stuffed-tomatoes-q6778637/stuffed-tomatoes-q6778637-3.jpg",
+    "images/stuffed-tomatoes-q6778637/stuffed-tomatoes-q6778637-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6778637",
+    "themealdb": null
+  }
+}

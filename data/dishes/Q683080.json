@@ -1,0 +1,20 @@
+{
+  "id": "Q683080",
+  "name": "Fischbrötchen",
+  "description": "food: bread & fish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fischbrotchen-q683080/fischbrotchen-q683080-1.jpg",
+    "images/fischbrotchen-q683080/fischbrotchen-q683080-2.jpg",
+    "images/fischbrotchen-q683080/fischbrotchen-q683080-3.jpg",
+    "images/fischbrotchen-q683080/fischbrotchen-q683080-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q683080",
+    "themealdb": null
+  }
+}

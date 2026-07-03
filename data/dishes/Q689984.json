@@ -1,0 +1,23 @@
+{
+  "id": "Q689984",
+  "name": "Papanași",
+  "description": "Romanian and Moldovan traditional fried or boiled pastry",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [
+    "Moldovan cuisine",
+    "Romanian cuisine"
+  ],
+  "images": [
+    "images/papanasi-q689984/papanasi-q689984-1.jpg",
+    "images/papanasi-q689984/papanasi-q689984-2.jpg",
+    "images/papanasi-q689984/papanasi-q689984-3.jpg",
+    "images/papanasi-q689984/papanasi-q689984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q689984",
+    "themealdb": null
+  }
+}

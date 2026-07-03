@@ -1,0 +1,20 @@
+{
+  "id": "Q685352",
+  "name": "tteokguk",
+  "description": "food",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tteokguk-q685352/tteokguk-q685352-1.jpg",
+    "images/tteokguk-q685352/tteokguk-q685352-2.jpg",
+    "images/tteokguk-q685352/tteokguk-q685352-3.jpg",
+    "images/tteokguk-q685352/tteokguk-q685352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q685352",
+    "themealdb": null
+  }
+}

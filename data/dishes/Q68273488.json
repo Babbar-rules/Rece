@@ -1,0 +1,18 @@
+{
+  "id": "Q68273488",
+  "name": "creamed spinach",
+  "description": "spinach dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creamed-spinach-q68273488/creamed-spinach-q68273488-1.jpg",
+    "images/creamed-spinach-q68273488/creamed-spinach-q68273488-2.jpg",
+    "images/creamed-spinach-q68273488/creamed-spinach-q68273488-3.jpg",
+    "images/creamed-spinach-q68273488/creamed-spinach-q68273488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68273488",
+    "themealdb": null
+  }
+}

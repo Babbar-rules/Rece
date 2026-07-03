@@ -1,0 +1,20 @@
+{
+  "id": "Q690048",
+  "name": "turtle soup",
+  "description": "soup or stew made from the flesh of the turtle",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turtle-soup-q690048/turtle-soup-q690048-1.jpg",
+    "images/turtle-soup-q690048/turtle-soup-q690048-2.jpg",
+    "images/turtle-soup-q690048/turtle-soup-q690048-3.jpg",
+    "images/turtle-soup-q690048/turtle-soup-q690048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q690048",
+    "themealdb": null
+  }
+}

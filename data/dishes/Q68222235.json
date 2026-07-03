@@ -1,0 +1,18 @@
+{
+  "id": "Q68222235",
+  "name": "plum compote",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plum-compote-q68222235/plum-compote-q68222235-1.jpg",
+    "images/plum-compote-q68222235/plum-compote-q68222235-2.jpg",
+    "images/plum-compote-q68222235/plum-compote-q68222235-3.jpg",
+    "images/plum-compote-q68222235/plum-compote-q68222235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68222235",
+    "themealdb": null
+  }
+}

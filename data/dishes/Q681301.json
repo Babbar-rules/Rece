@@ -1,0 +1,18 @@
+{
+  "id": "Q681301",
+  "name": "papet Vaudois",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papet-vaudois-q681301/papet-vaudois-q681301-1.jpg",
+    "images/papet-vaudois-q681301/papet-vaudois-q681301-2.jpg",
+    "images/papet-vaudois-q681301/papet-vaudois-q681301-3.jpg",
+    "images/papet-vaudois-q681301/papet-vaudois-q681301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q681301",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6906362",
+  "name": "Montreal hot dog",
+  "description": "type of hot dog",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/montreal-hot-dog-q6906362/montreal-hot-dog-q6906362-1.jpg",
+    "images/montreal-hot-dog-q6906362/montreal-hot-dog-q6906362-2.jpg",
+    "images/montreal-hot-dog-q6906362/montreal-hot-dog-q6906362-3.jpg",
+    "images/montreal-hot-dog-q6906362/montreal-hot-dog-q6906362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6906362",
+    "themealdb": null
+  }
+}

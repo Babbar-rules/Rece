@@ -1,0 +1,20 @@
+{
+  "id": "Q6810615",
+  "name": "Mekupelet",
+  "description": "chocolate confection made in Israel, labelled \"Chocolate log\" in English",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mekupelet-q6810615/mekupelet-q6810615-1.jpg",
+    "images/mekupelet-q6810615/mekupelet-q6810615-2.jpg",
+    "images/mekupelet-q6810615/mekupelet-q6810615-3.jpg",
+    "images/mekupelet-q6810615/mekupelet-q6810615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6810615",
+    "themealdb": null
+  }
+}

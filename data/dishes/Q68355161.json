@@ -1,0 +1,18 @@
+{
+  "id": "Q68355161",
+  "name": "goat liver",
+  "description": "liver of a goat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-liver-q68355161/goat-liver-q68355161-1.jpg",
+    "images/goat-liver-q68355161/goat-liver-q68355161-2.jpg",
+    "images/goat-liver-q68355161/goat-liver-q68355161-3.jpg",
+    "images/goat-liver-q68355161/goat-liver-q68355161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68355161",
+    "themealdb": null
+  }
+}

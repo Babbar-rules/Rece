@@ -1,0 +1,18 @@
+{
+  "id": "Q68493141",
+  "name": "spring roll pastry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spring-roll-pastry-q68493141/spring-roll-pastry-q68493141-1.jpg",
+    "images/spring-roll-pastry-q68493141/spring-roll-pastry-q68493141-2.jpg",
+    "images/spring-roll-pastry-q68493141/spring-roll-pastry-q68493141-3.jpg",
+    "images/spring-roll-pastry-q68493141/spring-roll-pastry-q68493141-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q68493141",
+    "themealdb": null
+  }
+}

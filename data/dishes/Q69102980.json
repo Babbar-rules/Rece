@@ -1,0 +1,18 @@
+{
+  "id": "Q69102980",
+  "name": "pandan waffle",
+  "description": "Vietnamese waffle made of batter flavored by pandan and coconut milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pandan-waffle-q69102980/pandan-waffle-q69102980-1.jpg",
+    "images/pandan-waffle-q69102980/pandan-waffle-q69102980-2.jpg",
+    "images/pandan-waffle-q69102980/pandan-waffle-q69102980-3.jpg",
+    "images/pandan-waffle-q69102980/pandan-waffle-q69102980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q69102980",
+    "themealdb": null
+  }
+}
