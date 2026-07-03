@@ -1,0 +1,22 @@
+{
+  "id": "Q28224446",
+  "name": "Osmanthus cake",
+  "description": "Chinese pastry",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/osmanthus-cake-q28224446/osmanthus-cake-q28224446-1.jpg",
+    "images/osmanthus-cake-q28224446/osmanthus-cake-q28224446-2.jpg",
+    "images/osmanthus-cake-q28224446/osmanthus-cake-q28224446-3.jpg",
+    "images/osmanthus-cake-q28224446/osmanthus-cake-q28224446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28224446",
+    "themealdb": null
+  }
+}

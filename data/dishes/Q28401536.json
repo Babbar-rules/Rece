@@ -1,0 +1,22 @@
+{
+  "id": "Q28401536",
+  "name": "Chicago-style relish",
+  "description": "condiment",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the Midwestern United States"
+  ],
+  "images": [
+    "images/chicago-style-relish-q28401536/chicago-style-relish-q28401536-1.jpg",
+    "images/chicago-style-relish-q28401536/chicago-style-relish-q28401536-2.jpg",
+    "images/chicago-style-relish-q28401536/chicago-style-relish-q28401536-3.jpg",
+    "images/chicago-style-relish-q28401536/chicago-style-relish-q28401536-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28401536",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2845330",
+  "name": "Lotus seed bun",
+  "description": "Chinese sweet bun",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lotus-seed-bun-q2845330/lotus-seed-bun-q2845330-1.jpg",
+    "images/lotus-seed-bun-q2845330/lotus-seed-bun-q2845330-2.jpg",
+    "images/lotus-seed-bun-q2845330/lotus-seed-bun-q2845330-3.jpg",
+    "images/lotus-seed-bun-q2845330/lotus-seed-bun-q2845330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2845330",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2878791",
+  "name": "changua",
+  "description": "traditional Colombian dish",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/changua-q2878791/changua-q2878791-1.jpg",
+    "images/changua-q2878791/changua-q2878791-2.jpg",
+    "images/changua-q2878791/changua-q2878791-3.jpg",
+    "images/changua-q2878791/changua-q2878791-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2878791",
+    "themealdb": null
+  }
+}

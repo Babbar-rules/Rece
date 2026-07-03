@@ -1,0 +1,20 @@
+{
+  "id": "Q28407625",
+  "name": "blackout cake",
+  "description": "chocolate cake filled with chocolate pudding and topped with chocolate cake crumbs; invented during World War II by a Brooklyn bakery chain named Ebinger's and named in recognition of the mandatory blackouts to protect the Brooklyn Navy Yard",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blackout-cake-q28407625/blackout-cake-q28407625-1.jpg",
+    "images/blackout-cake-q28407625/blackout-cake-q28407625-2.jpg",
+    "images/blackout-cake-q28407625/blackout-cake-q28407625-3.jpg",
+    "images/blackout-cake-q28407625/blackout-cake-q28407625-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28407625",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q28501338",
+  "name": "Bizcocho Chancay",
+  "description": "typical sweet roll from Chancay, Peru",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bizcocho-chancay-q28501338/bizcocho-chancay-q28501338-1.jpg",
+    "images/bizcocho-chancay-q28501338/bizcocho-chancay-q28501338-2.jpg",
+    "images/bizcocho-chancay-q28501338/bizcocho-chancay-q28501338-3.jpg",
+    "images/bizcocho-chancay-q28501338/bizcocho-chancay-q28501338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28501338",
+    "themealdb": null
+  }
+}

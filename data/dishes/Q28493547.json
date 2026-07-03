@@ -1,0 +1,19 @@
+{
+  "id": "Q28493547",
+  "name": "Fries-omelet sandwich",
+  "description": "Sandwiches",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fries-omelet-sandwich-q28493547/fries-omelet-sandwich-q28493547-1.jpg",
+    "images/fries-omelet-sandwich-q28493547/fries-omelet-sandwich-q28493547-2.jpg",
+    "images/fries-omelet-sandwich-q28493547/fries-omelet-sandwich-q28493547-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28493547",
+    "themealdb": null
+  }
+}

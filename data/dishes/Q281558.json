@@ -1,0 +1,20 @@
+{
+  "id": "Q281558",
+  "name": "hot chicken",
+  "description": "chicken dish from Nashville, Tennessee, US; bone-in chicken pieces, marinated in a water-based blend of seasoning, floured, fried, sauced using a paste with cayenne pepper, served on slices of white bread with pickle chips",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-chicken-q281558/hot-chicken-q281558-1.jpg",
+    "images/hot-chicken-q281558/hot-chicken-q281558-2.jpg",
+    "images/hot-chicken-q281558/hot-chicken-q281558-3.jpg",
+    "images/hot-chicken-q281558/hot-chicken-q281558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q281558",
+    "themealdb": null
+  }
+}

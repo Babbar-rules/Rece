@@ -1,0 +1,18 @@
+{
+  "id": "Q28100907",
+  "name": "shrimp dish",
+  "description": "food preparation based on shrimp",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-dish-q28100907/shrimp-dish-q28100907-1.jpg",
+    "images/shrimp-dish-q28100907/shrimp-dish-q28100907-2.jpg",
+    "images/shrimp-dish-q28100907/shrimp-dish-q28100907-3.jpg",
+    "images/shrimp-dish-q28100907/shrimp-dish-q28100907-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100907",
+    "themealdb": null
+  }
+}

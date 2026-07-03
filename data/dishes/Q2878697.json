@@ -1,0 +1,66 @@
+{
+  "id": "Q2878697",
+  "name": "liver pâté",
+  "description": "pâté and meat spread popular in northern and eastern Europe",
+  "nationality": [],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/liver-pate-q2878697/liver-pate-q2878697-1.jpg",
+    "images/liver-pate-q2878697/liver-pate-q2878697-2.jpg",
+    "images/liver-pate-q2878697/liver-pate-q2878697-3.jpg",
+    "images/liver-pate-q2878697/liver-pate-q2878697-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53455",
+    "category": "Chicken",
+    "area": null,
+    "instructions": "Clean livers of sinews and gall.\r\nPut into a fireproof casserole with all other ingredients roughly chopped.\r\nSeason and cover with milk.\r\nPut the lid on the casserole and cook in a slow oven (300ºF) for 2 hours.\r\nLiquidize in a blender.\r\nAdjust seasoning.\r\nAdd sherry or brandy.\r\nPut in a dish and cover with melted butte",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Liver",
+        "measure": "1lb"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "1/2 lb"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "1 clove"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Ground Mustard",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "Splash"
+      },
+      {
+        "ingredient": "Sherry",
+        "measure": "1 tablespoon"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/hob03q1780264260.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2878697",
+    "themealdb": "53455"
+  }
+}

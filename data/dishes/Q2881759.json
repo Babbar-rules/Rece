@@ -1,0 +1,20 @@
+{
+  "id": "Q2881759",
+  "name": "Bambalouni",
+  "description": "Tunisian donut",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bambalouni-q2881759/bambalouni-q2881759-1.jpg",
+    "images/bambalouni-q2881759/bambalouni-q2881759-2.jpg",
+    "images/bambalouni-q2881759/bambalouni-q2881759-3.jpg",
+    "images/bambalouni-q2881759/bambalouni-q2881759-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2881759",
+    "themealdb": null
+  }
+}

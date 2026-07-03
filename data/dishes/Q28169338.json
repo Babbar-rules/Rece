@@ -1,0 +1,18 @@
+{
+  "id": "Q28169338",
+  "name": "Sai bhaji",
+  "description": "Sindhi curry dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sai-bhaji-q28169338/sai-bhaji-q28169338-1.jpg",
+    "images/sai-bhaji-q28169338/sai-bhaji-q28169338-2.jpg",
+    "images/sai-bhaji-q28169338/sai-bhaji-q28169338-3.jpg",
+    "images/sai-bhaji-q28169338/sai-bhaji-q28169338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28169338",
+    "themealdb": null
+  }
+}

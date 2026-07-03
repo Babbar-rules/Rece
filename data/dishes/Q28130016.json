@@ -1,0 +1,18 @@
+{
+  "id": "Q28130016",
+  "name": "bamia",
+  "description": "regional stew prepared using lamb, okra and tomatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bamia-q28130016/bamia-q28130016-1.jpg",
+    "images/bamia-q28130016/bamia-q28130016-2.jpg",
+    "images/bamia-q28130016/bamia-q28130016-3.jpg",
+    "images/bamia-q28130016/bamia-q28130016-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28130016",
+    "themealdb": null
+  }
+}

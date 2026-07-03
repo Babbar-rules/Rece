@@ -1,0 +1,22 @@
+{
+  "id": "Q2881895",
+  "name": "Andrajos",
+  "description": "stew from Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/andrajos-q2881895/andrajos-q2881895-1.jpg",
+    "images/andrajos-q2881895/andrajos-q2881895-2.jpg",
+    "images/andrajos-q2881895/andrajos-q2881895-3.png",
+    "images/andrajos-q2881895/andrajos-q2881895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2881895",
+    "themealdb": null
+  }
+}

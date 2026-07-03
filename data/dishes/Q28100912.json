@@ -1,0 +1,18 @@
+{
+  "id": "Q28100912",
+  "name": "oyster dish",
+  "description": "food preparation based on oysters",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oyster-dish-q28100912/oyster-dish-q28100912-1.jpg",
+    "images/oyster-dish-q28100912/oyster-dish-q28100912-2.jpg",
+    "images/oyster-dish-q28100912/oyster-dish-q28100912-3.jpg",
+    "images/oyster-dish-q28100912/oyster-dish-q28100912-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100912",
+    "themealdb": null
+  }
+}

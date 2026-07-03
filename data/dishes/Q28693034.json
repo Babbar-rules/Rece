@@ -1,0 +1,18 @@
+{
+  "id": "Q28693034",
+  "name": "Yamagata ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yamagata-ramen-q28693034/yamagata-ramen-q28693034-1.jpg",
+    "images/yamagata-ramen-q28693034/yamagata-ramen-q28693034-2.jpg",
+    "images/yamagata-ramen-q28693034/yamagata-ramen-q28693034-3.jpg",
+    "images/yamagata-ramen-q28693034/yamagata-ramen-q28693034-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28693034",
+    "themealdb": null
+  }
+}

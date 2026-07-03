@@ -1,0 +1,18 @@
+{
+  "id": "Q28136385",
+  "name": "Kawlata",
+  "description": "Maltese soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kawlata-q28136385/kawlata-q28136385-1.jpg",
+    "images/kawlata-q28136385/kawlata-q28136385-2.jpg",
+    "images/kawlata-q28136385/kawlata-q28136385-3.jpg",
+    "images/kawlata-q28136385/kawlata-q28136385-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28136385",
+    "themealdb": null
+  }
+}

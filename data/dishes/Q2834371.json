@@ -1,0 +1,22 @@
+{
+  "id": "Q2834371",
+  "name": "Tequeño",
+  "description": "Latin American snack.",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [
+    "Venezuelan cuisine"
+  ],
+  "images": [
+    "images/tequeno-q2834371/tequeno-q2834371-1.jpg",
+    "images/tequeno-q2834371/tequeno-q2834371-2.jpg",
+    "images/tequeno-q2834371/tequeno-q2834371-3.jpg",
+    "images/tequeno-q2834371/tequeno-q2834371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2834371",
+    "themealdb": null
+  }
+}

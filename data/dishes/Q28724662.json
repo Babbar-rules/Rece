@@ -1,0 +1,20 @@
+{
+  "id": "Q28724662",
+  "name": "tahu bulat",
+  "description": "fried tofu with round shape",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tahu-bulat-q28724662/tahu-bulat-q28724662-1.jpg",
+    "images/tahu-bulat-q28724662/tahu-bulat-q28724662-2.jpg",
+    "images/tahu-bulat-q28724662/tahu-bulat-q28724662-3.jpg",
+    "images/tahu-bulat-q28724662/tahu-bulat-q28724662-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28724662",
+    "themealdb": null
+  }
+}

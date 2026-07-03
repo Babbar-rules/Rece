@@ -1,0 +1,20 @@
+{
+  "id": "Q284983",
+  "name": "mandu",
+  "description": "Korean dumplings",
+  "nationality": [
+    "Goryeo"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mandu-q284983/mandu-q284983-1.jpg",
+    "images/mandu-q284983/mandu-q284983-2.jpg",
+    "images/mandu-q284983/mandu-q284983-3.jpg",
+    "images/mandu-q284983/mandu-q284983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q284983",
+    "themealdb": null
+  }
+}

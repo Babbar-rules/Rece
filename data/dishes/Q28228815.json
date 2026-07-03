@@ -1,0 +1,20 @@
+{
+  "id": "Q28228815",
+  "name": "troccoli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/troccoli-q28228815/troccoli-q28228815-1.jpg",
+    "images/troccoli-q28228815/troccoli-q28228815-2.jpg",
+    "images/troccoli-q28228815/troccoli-q28228815-3.jpg",
+    "images/troccoli-q28228815/troccoli-q28228815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28228815",
+    "themealdb": null
+  }
+}

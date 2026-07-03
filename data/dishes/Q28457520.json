@@ -1,0 +1,20 @@
+{
+  "id": "Q28457520",
+  "name": "Rolex",
+  "description": "Ugandan street food made by rolling eggs and vegetables In chapatti",
+  "nationality": [
+    "Uganda"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rolex-q28457520/rolex-q28457520-1.jpg",
+    "images/rolex-q28457520/rolex-q28457520-2.jpg",
+    "images/rolex-q28457520/rolex-q28457520-3.png",
+    "images/rolex-q28457520/rolex-q28457520-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28457520",
+    "themealdb": null
+  }
+}

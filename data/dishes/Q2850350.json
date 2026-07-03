@@ -1,0 +1,20 @@
+{
+  "id": "Q2850350",
+  "name": "ankimo",
+  "description": "Japanese monkfish liver dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ankimo-q2850350/ankimo-q2850350-1.jpg",
+    "images/ankimo-q2850350/ankimo-q2850350-2.jpg",
+    "images/ankimo-q2850350/ankimo-q2850350-3.jpg",
+    "images/ankimo-q2850350/ankimo-q2850350-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2850350",
+    "themealdb": null
+  }
+}

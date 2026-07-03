@@ -1,0 +1,20 @@
+{
+  "id": "Q28134524",
+  "name": "Trancapecho",
+  "description": "Bolivian Sandwich",
+  "nationality": [
+    "Cochabamba"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trancapecho-q28134524/trancapecho-q28134524-1.jpg",
+    "images/trancapecho-q28134524/trancapecho-q28134524-2.jpg",
+    "images/trancapecho-q28134524/trancapecho-q28134524-3.jpg",
+    "images/trancapecho-q28134524/trancapecho-q28134524-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28134524",
+    "themealdb": null
+  }
+}

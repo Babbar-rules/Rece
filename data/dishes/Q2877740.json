@@ -1,0 +1,18 @@
+{
+  "id": "Q2877740",
+  "name": "Dole Whip",
+  "description": "soft serve frozen dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dole-whip-q2877740/dole-whip-q2877740-1.jpg",
+    "images/dole-whip-q2877740/dole-whip-q2877740-2.jpg",
+    "images/dole-whip-q2877740/dole-whip-q2877740-3.jpg",
+    "images/dole-whip-q2877740/dole-whip-q2877740-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2877740",
+    "themealdb": null
+  }
+}

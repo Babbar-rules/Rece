@@ -1,0 +1,20 @@
+{
+  "id": "Q28169436",
+  "name": "chapli kebab",
+  "description": "Pashtun-style minced kebab",
+  "nationality": [
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chapli-kebab-q28169436/chapli-kebab-q28169436-1.jpg",
+    "images/chapli-kebab-q28169436/chapli-kebab-q28169436-2.jpg",
+    "images/chapli-kebab-q28169436/chapli-kebab-q28169436-3.jpg",
+    "images/chapli-kebab-q28169436/chapli-kebab-q28169436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28169436",
+    "themealdb": null
+  }
+}

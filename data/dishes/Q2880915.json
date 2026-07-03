@@ -1,0 +1,22 @@
+{
+  "id": "Q2880915",
+  "name": "Bacalhau à minhota",
+  "description": "traditional codfish dish from Alto Minho, Portugal",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/bacalhau-a-minhota-q2880915/bacalhau-a-minhota-q2880915-1.jpg",
+    "images/bacalhau-a-minhota-q2880915/bacalhau-a-minhota-q2880915-2.jpg",
+    "images/bacalhau-a-minhota-q2880915/bacalhau-a-minhota-q2880915-3.jpg",
+    "images/bacalhau-a-minhota-q2880915/bacalhau-a-minhota-q2880915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2880915",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q28197100",
+  "name": "jijimi",
+  "description": "Korean stew category",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/jijimi-q28197100/jijimi-q28197100-1.jpg",
+    "images/jijimi-q28197100/jijimi-q28197100-2.jpg",
+    "images/jijimi-q28197100/jijimi-q28197100-3.jpg",
+    "images/jijimi-q28197100/jijimi-q28197100-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28197100",
+    "themealdb": null
+  }
+}

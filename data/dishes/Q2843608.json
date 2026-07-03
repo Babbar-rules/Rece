@@ -1,0 +1,18 @@
+{
+  "id": "Q2843608",
+  "name": "Amlu",
+  "description": "Moroccan spread of almonds, oil, honey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/amlu-q2843608/amlu-q2843608-1.jpg",
+    "images/amlu-q2843608/amlu-q2843608-2.jpg",
+    "images/amlu-q2843608/amlu-q2843608-3.jpg",
+    "images/amlu-q2843608/amlu-q2843608-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2843608",
+    "themealdb": null
+  }
+}

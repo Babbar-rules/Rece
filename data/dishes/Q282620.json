@@ -1,0 +1,20 @@
+{
+  "id": "Q282620",
+  "name": "vetkoek",
+  "description": "food",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vetkoek-q282620/vetkoek-q282620-1.jpg",
+    "images/vetkoek-q282620/vetkoek-q282620-2.jpeg",
+    "images/vetkoek-q282620/vetkoek-q282620-3.jpeg",
+    "images/vetkoek-q282620/vetkoek-q282620-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q282620",
+    "themealdb": null
+  }
+}

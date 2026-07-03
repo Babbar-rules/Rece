@@ -1,0 +1,20 @@
+{
+  "id": "Q28445822",
+  "name": "Cham-ggae Ramyeon",
+  "description": "Brand of ramyeon sold by Ottogi",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cham-ggae-ramyeon-q28445822/cham-ggae-ramyeon-q28445822-1.jpg",
+    "images/cham-ggae-ramyeon-q28445822/cham-ggae-ramyeon-q28445822-2.jpg",
+    "images/cham-ggae-ramyeon-q28445822/cham-ggae-ramyeon-q28445822-3.jpg",
+    "images/cham-ggae-ramyeon-q28445822/cham-ggae-ramyeon-q28445822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28445822",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q28402504",
+  "name": "New England-style hot dog bun",
+  "description": "regional bread roll",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/new-england-style-hot-dog-bun-q28402504/new-england-style-hot-dog-bun-q28402504-1.jpg",
+    "images/new-england-style-hot-dog-bun-q28402504/new-england-style-hot-dog-bun-q28402504-2.jpg",
+    "images/new-england-style-hot-dog-bun-q28402504/new-england-style-hot-dog-bun-q28402504-3.jpg",
+    "images/new-england-style-hot-dog-bun-q28402504/new-england-style-hot-dog-bun-q28402504-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28402504",
+    "themealdb": null
+  }
+}

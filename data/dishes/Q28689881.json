@@ -1,0 +1,18 @@
+{
+  "id": "Q28689881",
+  "name": "Akayu ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/akayu-ramen-q28689881/akayu-ramen-q28689881-1.jpg",
+    "images/akayu-ramen-q28689881/akayu-ramen-q28689881-2.jpg",
+    "images/akayu-ramen-q28689881/akayu-ramen-q28689881-3.jpg",
+    "images/akayu-ramen-q28689881/akayu-ramen-q28689881-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28689881",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q28686826",
+  "name": "Sekitan Zangi",
+  "description": "Chicken karaage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sekitan-zangi-q28686826/sekitan-zangi-q28686826-1.jpg",
+    "images/sekitan-zangi-q28686826/sekitan-zangi-q28686826-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28686826",
+    "themealdb": null
+  }
+}

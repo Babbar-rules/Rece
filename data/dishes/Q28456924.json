@@ -1,0 +1,18 @@
+{
+  "id": "Q28456924",
+  "name": "rabbit stew",
+  "description": "rabbit meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rabbit-stew-q28456924/rabbit-stew-q28456924-1.jpg",
+    "images/rabbit-stew-q28456924/rabbit-stew-q28456924-2.jpg",
+    "images/rabbit-stew-q28456924/rabbit-stew-q28456924-3.jpg",
+    "images/rabbit-stew-q28456924/rabbit-stew-q28456924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28456924",
+    "themealdb": null
+  }
+}

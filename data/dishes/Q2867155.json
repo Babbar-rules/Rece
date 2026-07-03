@@ -1,0 +1,20 @@
+{
+  "id": "Q2867155",
+  "name": "Assidat zgougou",
+  "description": "Tunisian dessert",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/assidat-zgougou-q2867155/assidat-zgougou-q2867155-1.jpg",
+    "images/assidat-zgougou-q2867155/assidat-zgougou-q2867155-2.jpg",
+    "images/assidat-zgougou-q2867155/assidat-zgougou-q2867155-3.jpg",
+    "images/assidat-zgougou-q2867155/assidat-zgougou-q2867155-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2867155",
+    "themealdb": null
+  }
+}

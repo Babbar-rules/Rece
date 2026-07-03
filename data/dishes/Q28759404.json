@@ -1,0 +1,20 @@
+{
+  "id": "Q28759404",
+  "name": "Cornish pasty",
+  "description": "pasty made in Cornwall",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cornish-pasty-q28759404/cornish-pasty-q28759404-1.jpeg",
+    "images/cornish-pasty-q28759404/cornish-pasty-q28759404-2.jpeg",
+    "images/cornish-pasty-q28759404/cornish-pasty-q28759404-3.jpg",
+    "images/cornish-pasty-q28759404/cornish-pasty-q28759404-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28759404",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2840947",
+  "name": "albanian stew",
+  "description": "",
+  "nationality": [
+    "Albania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/albanian-stew-q2840947/albanian-stew-q2840947-1.jpg",
+    "images/albanian-stew-q2840947/albanian-stew-q2840947-2.jpg",
+    "images/albanian-stew-q2840947/albanian-stew-q2840947-3.jpg",
+    "images/albanian-stew-q2840947/albanian-stew-q2840947-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2840947",
+    "themealdb": null
+  }
+}

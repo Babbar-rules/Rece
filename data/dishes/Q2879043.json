@@ -1,0 +1,20 @@
+{
+  "id": "Q2879043",
+  "name": "Baghrir",
+  "description": "Pancake consumed in the Maghreb region",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baghrir-q2879043/baghrir-q2879043-1.jpg",
+    "images/baghrir-q2879043/baghrir-q2879043-2.jpg",
+    "images/baghrir-q2879043/baghrir-q2879043-3.jpg",
+    "images/baghrir-q2879043/baghrir-q2879043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2879043",
+    "themealdb": null
+  }
+}

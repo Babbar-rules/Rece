@@ -1,0 +1,20 @@
+{
+  "id": "Q28126631",
+  "name": "Bar One",
+  "description": "Brand of South African chocolate bar",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bar-one-q28126631/bar-one-q28126631-1.jpg",
+    "images/bar-one-q28126631/bar-one-q28126631-2.jpg",
+    "images/bar-one-q28126631/bar-one-q28126631-3.jpg",
+    "images/bar-one-q28126631/bar-one-q28126631-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28126631",
+    "themealdb": null
+  }
+}

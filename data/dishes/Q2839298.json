@@ -1,0 +1,22 @@
+{
+  "id": "Q2839298",
+  "name": "aloo paratha",
+  "description": "a type of bread, consist of unleavened dough stuffed with a spiced mixture of mashed potato",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/aloo-paratha-q2839298/aloo-paratha-q2839298-1.jpg",
+    "images/aloo-paratha-q2839298/aloo-paratha-q2839298-2.jpg",
+    "images/aloo-paratha-q2839298/aloo-paratha-q2839298-3.jpg",
+    "images/aloo-paratha-q2839298/aloo-paratha-q2839298-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2839298",
+    "themealdb": null
+  }
+}

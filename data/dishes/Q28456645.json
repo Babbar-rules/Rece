@@ -1,0 +1,18 @@
+{
+  "id": "Q28456645",
+  "name": "soup and sandwich",
+  "description": "combo meal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soup-and-sandwich-q28456645/soup-and-sandwich-q28456645-1.jpg",
+    "images/soup-and-sandwich-q28456645/soup-and-sandwich-q28456645-2.jpg",
+    "images/soup-and-sandwich-q28456645/soup-and-sandwich-q28456645-3.jpg",
+    "images/soup-and-sandwich-q28456645/soup-and-sandwich-q28456645-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28456645",
+    "themealdb": null
+  }
+}

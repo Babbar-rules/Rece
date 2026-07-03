@@ -1,0 +1,16 @@
+{
+  "id": "Q28673045",
+  "name": "Kopalnioki",
+  "description": "candy from Silesia, Poland",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kopalnioki-q28673045/kopalnioki-q28673045-1.jpg",
+    "images/kopalnioki-q28673045/kopalnioki-q28673045-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28673045",
+    "themealdb": null
+  }
+}

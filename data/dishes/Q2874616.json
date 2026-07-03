@@ -1,0 +1,17 @@
+{
+  "id": "Q2874616",
+  "name": "Avruga caviar",
+  "description": "caviar substitute made from herring and squid ink, made without any fish roe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/avruga-caviar-q2874616/avruga-caviar-q2874616-1.jpg",
+    "images/avruga-caviar-q2874616/avruga-caviar-q2874616-2.jpg",
+    "images/avruga-caviar-q2874616/avruga-caviar-q2874616-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2874616",
+    "themealdb": null
+  }
+}

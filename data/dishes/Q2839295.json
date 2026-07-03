@@ -1,0 +1,20 @@
+{
+  "id": "Q2839295",
+  "name": "alu chat",
+  "description": "Indian snack",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alu-chat-q2839295/alu-chat-q2839295-1.jpg",
+    "images/alu-chat-q2839295/alu-chat-q2839295-2.jpg",
+    "images/alu-chat-q2839295/alu-chat-q2839295-3.jpg",
+    "images/alu-chat-q2839295/alu-chat-q2839295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2839295",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q284738",
+  "name": "Spritzgebäck",
+  "description": "German biscuit",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spritzgeback-q284738/spritzgeback-q284738-1.jpg",
+    "images/spritzgeback-q284738/spritzgeback-q284738-2.jpg",
+    "images/spritzgeback-q284738/spritzgeback-q284738-3.jpg",
+    "images/spritzgeback-q284738/spritzgeback-q284738-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q284738",
+    "themealdb": null
+  }
+}

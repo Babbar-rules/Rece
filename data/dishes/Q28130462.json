@@ -1,0 +1,16 @@
+{
+  "id": "Q28130462",
+  "name": "Mixmole de pescado",
+  "description": "dish in Mexican cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mixmole-de-pescado-q28130462/mixmole-de-pescado-q28130462-1.jpg",
+    "images/mixmole-de-pescado-q28130462/mixmole-de-pescado-q28130462-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28130462",
+    "themealdb": null
+  }
+}

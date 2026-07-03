@@ -1,0 +1,20 @@
+{
+  "id": "Q2864214",
+  "name": "arrop i talladetes",
+  "description": "Valencian dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arrop-i-talladetes-q2864214/arrop-i-talladetes-q2864214-1.jpg",
+    "images/arrop-i-talladetes-q2864214/arrop-i-talladetes-q2864214-2.jpg",
+    "images/arrop-i-talladetes-q2864214/arrop-i-talladetes-q2864214-3.jpg",
+    "images/arrop-i-talladetes-q2864214/arrop-i-talladetes-q2864214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2864214",
+    "themealdb": null
+  }
+}

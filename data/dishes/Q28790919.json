@@ -1,0 +1,18 @@
+{
+  "id": "Q28790919",
+  "name": "spinach lasagne",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spinach-lasagne-q28790919/spinach-lasagne-q28790919-1.jpg",
+    "images/spinach-lasagne-q28790919/spinach-lasagne-q28790919-2.jpg",
+    "images/spinach-lasagne-q28790919/spinach-lasagne-q28790919-3.jpeg",
+    "images/spinach-lasagne-q28790919/spinach-lasagne-q28790919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28790919",
+    "themealdb": null
+  }
+}

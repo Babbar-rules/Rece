@@ -1,0 +1,20 @@
+{
+  "id": "Q28197119",
+  "name": "sinangag",
+  "description": "Filipino fried rice dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sinangag-q28197119/sinangag-q28197119-1.jpg",
+    "images/sinangag-q28197119/sinangag-q28197119-2.jpg",
+    "images/sinangag-q28197119/sinangag-q28197119-3.jpg",
+    "images/sinangag-q28197119/sinangag-q28197119-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28197119",
+    "themealdb": null
+  }
+}

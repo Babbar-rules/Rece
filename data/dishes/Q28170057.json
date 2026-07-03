@@ -1,0 +1,18 @@
+{
+  "id": "Q28170057",
+  "name": "Kabiraji",
+  "description": "Indian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kabiraji-q28170057/kabiraji-q28170057-1.jpg",
+    "images/kabiraji-q28170057/kabiraji-q28170057-2.jpg",
+    "images/kabiraji-q28170057/kabiraji-q28170057-3.jpg",
+    "images/kabiraji-q28170057/kabiraji-q28170057-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28170057",
+    "themealdb": null
+  }
+}

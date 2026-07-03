@@ -1,0 +1,20 @@
+{
+  "id": "Q28134486",
+  "name": "baranki",
+  "description": "class of products including bubliki, baranki and sushki breads",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baranki-q28134486/baranki-q28134486-1.png",
+    "images/baranki-q28134486/baranki-q28134486-2.png",
+    "images/baranki-q28134486/baranki-q28134486-3.jpg",
+    "images/baranki-q28134486/baranki-q28134486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28134486",
+    "themealdb": null
+  }
+}

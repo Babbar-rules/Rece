@@ -1,0 +1,18 @@
+{
+  "id": "Q28684378",
+  "name": "Levain",
+  "description": "Craicker",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/levain-q28684378/levain-q28684378-1.jpg",
+    "images/levain-q28684378/levain-q28684378-2.jpg",
+    "images/levain-q28684378/levain-q28684378-3.jpg",
+    "images/levain-q28684378/levain-q28684378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28684378",
+    "themealdb": null
+  }
+}

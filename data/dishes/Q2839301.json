@@ -1,0 +1,22 @@
+{
+  "id": "Q2839301",
+  "name": "Aloo pie",
+  "description": "Trinidadian fast food dish",
+  "nationality": [
+    "Trinidad and Tobago"
+  ],
+  "region_cuisine": [
+    "Caribbean cuisine"
+  ],
+  "images": [
+    "images/aloo-pie-q2839301/aloo-pie-q2839301-1.jpg",
+    "images/aloo-pie-q2839301/aloo-pie-q2839301-2.jpg",
+    "images/aloo-pie-q2839301/aloo-pie-q2839301-3.jpg",
+    "images/aloo-pie-q2839301/aloo-pie-q2839301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2839301",
+    "themealdb": null
+  }
+}

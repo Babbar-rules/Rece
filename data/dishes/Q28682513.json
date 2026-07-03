@@ -1,0 +1,18 @@
+{
+  "id": "Q28682513",
+  "name": "minazuki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/minazuki-q28682513/minazuki-q28682513-1.jpg",
+    "images/minazuki-q28682513/minazuki-q28682513-2.jpg",
+    "images/minazuki-q28682513/minazuki-q28682513-3.jpg",
+    "images/minazuki-q28682513/minazuki-q28682513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28682513",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q28187073",
+  "name": "Lok-lok",
+  "description": "Malaysian street food",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lok-lok-q28187073/lok-lok-q28187073-1.jpg",
+    "images/lok-lok-q28187073/lok-lok-q28187073-2.jpg",
+    "images/lok-lok-q28187073/lok-lok-q28187073-3.jpg",
+    "images/lok-lok-q28187073/lok-lok-q28187073-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28187073",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q286189",
+  "name": "kosereva",
+  "description": "type of traditional Paraguayan jam",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kosereva-q286189/kosereva-q286189-1.jpg",
+    "images/kosereva-q286189/kosereva-q286189-2.png",
+    "images/kosereva-q286189/kosereva-q286189-3.jpg",
+    "images/kosereva-q286189/kosereva-q286189-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q286189",
+    "themealdb": null
+  }
+}

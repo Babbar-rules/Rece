@@ -1,0 +1,18 @@
+{
+  "id": "Q28163307",
+  "name": "curly fries",
+  "description": "French fries that are curly",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/curly-fries-q28163307/curly-fries-q28163307-1.jpg",
+    "images/curly-fries-q28163307/curly-fries-q28163307-2.jpg",
+    "images/curly-fries-q28163307/curly-fries-q28163307-3.jpg",
+    "images/curly-fries-q28163307/curly-fries-q28163307-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28163307",
+    "themealdb": null
+  }
+}

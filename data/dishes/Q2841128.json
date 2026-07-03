@@ -1,0 +1,18 @@
+{
+  "id": "Q2841128",
+  "name": "Water chestnut cake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/water-chestnut-cake-q2841128/water-chestnut-cake-q2841128-1.jpg",
+    "images/water-chestnut-cake-q2841128/water-chestnut-cake-q2841128-2.jpg",
+    "images/water-chestnut-cake-q2841128/water-chestnut-cake-q2841128-3.jpg",
+    "images/water-chestnut-cake-q2841128/water-chestnut-cake-q2841128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2841128",
+    "themealdb": null
+  }
+}

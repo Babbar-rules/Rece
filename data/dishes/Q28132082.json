@@ -1,0 +1,20 @@
+{
+  "id": "Q28132082",
+  "name": "Gyeongdan",
+  "description": "boiled rice cake balls",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyeongdan-q28132082/gyeongdan-q28132082-1.jpg",
+    "images/gyeongdan-q28132082/gyeongdan-q28132082-2.jpg",
+    "images/gyeongdan-q28132082/gyeongdan-q28132082-3.jpg",
+    "images/gyeongdan-q28132082/gyeongdan-q28132082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28132082",
+    "themealdb": null
+  }
+}

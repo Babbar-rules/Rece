@@ -1,0 +1,18 @@
+{
+  "id": "Q28454459",
+  "name": "Lucky Me!",
+  "description": "Filipino instant noodle brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lucky-me-q28454459/lucky-me-q28454459-1.jpg",
+    "images/lucky-me-q28454459/lucky-me-q28454459-2.jpg",
+    "images/lucky-me-q28454459/lucky-me-q28454459-3.jpg",
+    "images/lucky-me-q28454459/lucky-me-q28454459-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28454459",
+    "themealdb": null
+  }
+}

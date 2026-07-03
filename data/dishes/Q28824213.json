@@ -1,0 +1,20 @@
+{
+  "id": "Q28824213",
+  "name": "siron",
+  "description": "a plate from the Black Sea Region of Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/siron-q28824213/siron-q28824213-1.jpg",
+    "images/siron-q28824213/siron-q28824213-2.jpg",
+    "images/siron-q28824213/siron-q28824213-3.jpg",
+    "images/siron-q28824213/siron-q28824213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28824213",
+    "themealdb": null
+  }
+}

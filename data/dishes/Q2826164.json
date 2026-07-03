@@ -1,0 +1,20 @@
+{
+  "id": "Q2826164",
+  "name": "Africain",
+  "description": "pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/africain-q2826164/africain-q2826164-1.png",
+    "images/africain-q2826164/africain-q2826164-2.png",
+    "images/africain-q2826164/africain-q2826164-3.jpg",
+    "images/africain-q2826164/africain-q2826164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2826164",
+    "themealdb": null
+  }
+}

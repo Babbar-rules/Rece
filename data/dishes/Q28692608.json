@@ -1,0 +1,20 @@
+{
+  "id": "Q28692608",
+  "name": "hamukatsu",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hamukatsu-q28692608/hamukatsu-q28692608-1.jpg",
+    "images/hamukatsu-q28692608/hamukatsu-q28692608-2.jpg",
+    "images/hamukatsu-q28692608/hamukatsu-q28692608-3.jpg",
+    "images/hamukatsu-q28692608/hamukatsu-q28692608-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28692608",
+    "themealdb": null
+  }
+}

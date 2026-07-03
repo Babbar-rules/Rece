@@ -1,0 +1,20 @@
+{
+  "id": "Q2838339",
+  "name": "Hachis Parmentier",
+  "description": "French variant of shepherd's pie",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hachis-parmentier-q2838339/hachis-parmentier-q2838339-1.jpg",
+    "images/hachis-parmentier-q2838339/hachis-parmentier-q2838339-2.jpg",
+    "images/hachis-parmentier-q2838339/hachis-parmentier-q2838339-3.jpg",
+    "images/hachis-parmentier-q2838339/hachis-parmentier-q2838339-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2838339",
+    "themealdb": null
+  }
+}

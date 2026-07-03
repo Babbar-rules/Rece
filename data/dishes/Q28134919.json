@@ -1,0 +1,20 @@
+{
+  "id": "Q28134919",
+  "name": "Cachitos",
+  "description": "type of bread from Venezuela",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cachitos-q28134919/cachitos-q28134919-1.jpg",
+    "images/cachitos-q28134919/cachitos-q28134919-2.jpg",
+    "images/cachitos-q28134919/cachitos-q28134919-3.jpg",
+    "images/cachitos-q28134919/cachitos-q28134919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28134919",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q28155493",
+  "name": "Lime soup",
+  "description": "Mexican soup",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/lime-soup-q28155493/lime-soup-q28155493-1.jpg",
+    "images/lime-soup-q28155493/lime-soup-q28155493-2.jpg",
+    "images/lime-soup-q28155493/lime-soup-q28155493-3.jpg",
+    "images/lime-soup-q28155493/lime-soup-q28155493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28155493",
+    "themealdb": null
+  }
+}

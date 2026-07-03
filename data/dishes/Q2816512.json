@@ -1,0 +1,18 @@
+{
+  "id": "Q2816512",
+  "name": "3 Musketeers",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/3-musketeers-q2816512/3-musketeers-q2816512-1.jpg",
+    "images/3-musketeers-q2816512/3-musketeers-q2816512-2.jpg",
+    "images/3-musketeers-q2816512/3-musketeers-q2816512-3.jpg",
+    "images/3-musketeers-q2816512/3-musketeers-q2816512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2816512",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2882983",
+  "name": "Yemas de Santa Teresa",
+  "description": "Sweet made with egg yolk and sugar exclusively",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yemas-de-santa-teresa-q2882983/yemas-de-santa-teresa-q2882983-1.jpeg",
+    "images/yemas-de-santa-teresa-q2882983/yemas-de-santa-teresa-q2882983-2.jpg",
+    "images/yemas-de-santa-teresa-q2882983/yemas-de-santa-teresa-q2882983-3.png",
+    "images/yemas-de-santa-teresa-q2882983/yemas-de-santa-teresa-q2882983-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2882983",
+    "themealdb": null
+  }
+}

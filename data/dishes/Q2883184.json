@@ -1,0 +1,17 @@
+{
+  "id": "Q2883184",
+  "name": "Patatas a la importancia",
+  "description": "potatoes breaded with flour and egg",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/patatas-a-la-importancia-q2883184/patatas-a-la-importancia-q2883184-1.jpg",
+    "images/patatas-a-la-importancia-q2883184/patatas-a-la-importancia-q2883184-2.jpg",
+    "images/patatas-a-la-importancia-q2883184/patatas-a-la-importancia-q2883184-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2883184",
+    "themealdb": null
+  }
+}

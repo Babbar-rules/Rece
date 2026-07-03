@@ -1,0 +1,20 @@
+{
+  "id": "Q2881969",
+  "name": "Cuchuflí",
+  "description": "Chilean biscuit roll",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cuchufli-q2881969/cuchufli-q2881969-1.jpg",
+    "images/cuchufli-q2881969/cuchufli-q2881969-2.jpg",
+    "images/cuchufli-q2881969/cuchufli-q2881969-3.jpg",
+    "images/cuchufli-q2881969/cuchufli-q2881969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2881969",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q28414546",
+  "name": "pidong",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/pidong-q28414546/pidong-q28414546-1.jpg",
+    "images/pidong-q28414546/pidong-q28414546-2.jpg",
+    "images/pidong-q28414546/pidong-q28414546-3.jpg",
+    "images/pidong-q28414546/pidong-q28414546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28414546",
+    "themealdb": null
+  }
+}

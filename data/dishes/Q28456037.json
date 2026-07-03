@@ -1,0 +1,18 @@
+{
+  "id": "Q28456037",
+  "name": "Khao phat tom yam",
+  "description": "type of fried rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/khao-phat-tom-yam-q28456037/khao-phat-tom-yam-q28456037-1.jpg",
+    "images/khao-phat-tom-yam-q28456037/khao-phat-tom-yam-q28456037-2.jpg",
+    "images/khao-phat-tom-yam-q28456037/khao-phat-tom-yam-q28456037-3.jpg",
+    "images/khao-phat-tom-yam-q28456037/khao-phat-tom-yam-q28456037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28456037",
+    "themealdb": null
+  }
+}

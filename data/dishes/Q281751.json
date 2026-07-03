@@ -1,0 +1,22 @@
+{
+  "id": "Q281751",
+  "name": "Spanish omelette",
+  "description": "egg, potato and onion dish .",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/spanish-omelette-q281751/spanish-omelette-q281751-1.jpg",
+    "images/spanish-omelette-q281751/spanish-omelette-q281751-2.jpg",
+    "images/spanish-omelette-q281751/spanish-omelette-q281751-3.jpg",
+    "images/spanish-omelette-q281751/spanish-omelette-q281751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q281751",
+    "themealdb": null
+  }
+}

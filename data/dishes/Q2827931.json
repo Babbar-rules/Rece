@@ -1,0 +1,18 @@
+{
+  "id": "Q2827931",
+  "name": "black garlic",
+  "description": "aged garlic",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-garlic-q2827931/black-garlic-q2827931-1.jpg",
+    "images/black-garlic-q2827931/black-garlic-q2827931-2.jpg",
+    "images/black-garlic-q2827931/black-garlic-q2827931-3.jpg",
+    "images/black-garlic-q2827931/black-garlic-q2827931-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2827931",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q28197096",
+  "name": "Daing",
+  "description": "fish preserved by drying, as a staple of Philippine cuisine",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/daing-q28197096/daing-q28197096-1.jpg",
+    "images/daing-q28197096/daing-q28197096-2.jpg",
+    "images/daing-q28197096/daing-q28197096-3.jpg",
+    "images/daing-q28197096/daing-q28197096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28197096",
+    "themealdb": null
+  }
+}

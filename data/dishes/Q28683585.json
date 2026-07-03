@@ -1,0 +1,18 @@
+{
+  "id": "Q28683585",
+  "name": "Kinuta",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kinuta-q28683585/kinuta-q28683585-1.jpg",
+    "images/kinuta-q28683585/kinuta-q28683585-2.jpg",
+    "images/kinuta-q28683585/kinuta-q28683585-3.jpg",
+    "images/kinuta-q28683585/kinuta-q28683585-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28683585",
+    "themealdb": null
+  }
+}

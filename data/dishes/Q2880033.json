@@ -1,0 +1,20 @@
+{
+  "id": "Q2880033",
+  "name": "Bajadera",
+  "description": "Balkan nougat food",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bajadera-q2880033/bajadera-q2880033-1.jpg",
+    "images/bajadera-q2880033/bajadera-q2880033-2.jpg",
+    "images/bajadera-q2880033/bajadera-q2880033-3.jpg",
+    "images/bajadera-q2880033/bajadera-q2880033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2880033",
+    "themealdb": null
+  }
+}

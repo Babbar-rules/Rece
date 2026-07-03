@@ -1,0 +1,20 @@
+{
+  "id": "Q28715991",
+  "name": "Tamina",
+  "description": "Algerian dessert",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamina-q28715991/tamina-q28715991-1.jpg",
+    "images/tamina-q28715991/tamina-q28715991-2.jpg",
+    "images/tamina-q28715991/tamina-q28715991-3.jpg",
+    "images/tamina-q28715991/tamina-q28715991-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28715991",
+    "themealdb": null
+  }
+}

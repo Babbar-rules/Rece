@@ -1,0 +1,18 @@
+{
+  "id": "Q28101001",
+  "name": "clam dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clam-dish-q28101001/clam-dish-q28101001-1.jpg",
+    "images/clam-dish-q28101001/clam-dish-q28101001-2.jpg",
+    "images/clam-dish-q28101001/clam-dish-q28101001-3.jpg",
+    "images/clam-dish-q28101001/clam-dish-q28101001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28101001",
+    "themealdb": null
+  }
+}

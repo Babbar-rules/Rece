@@ -1,0 +1,19 @@
+{
+  "id": "Q2839297",
+  "name": "Aloo gosht",
+  "description": "Curry with meat and potatoes",
+  "nationality": [
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aloo-gosht-q2839297/aloo-gosht-q2839297-1.jpg",
+    "images/aloo-gosht-q2839297/aloo-gosht-q2839297-2.jpg",
+    "images/aloo-gosht-q2839297/aloo-gosht-q2839297-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2839297",
+    "themealdb": null
+  }
+}

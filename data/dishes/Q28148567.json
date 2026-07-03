@@ -1,0 +1,20 @@
+{
+  "id": "Q28148567",
+  "name": "miel de Liébana",
+  "description": "honey from the region of Liébana",
+  "nationality": [
+    "Spain",
+    "Liébana"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miel-de-liebana-q28148567/miel-de-liebana-q28148567-1.jpg",
+    "images/miel-de-liebana-q28148567/miel-de-liebana-q28148567-2.jpg",
+    "images/miel-de-liebana-q28148567/miel-de-liebana-q28148567-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28148567",
+    "themealdb": null
+  }
+}

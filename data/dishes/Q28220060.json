@@ -1,0 +1,18 @@
+{
+  "id": "Q28220060",
+  "name": "sausage and peppers",
+  "description": "sausage dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sausage-and-peppers-q28220060/sausage-and-peppers-q28220060-1.jpg",
+    "images/sausage-and-peppers-q28220060/sausage-and-peppers-q28220060-2.jpg",
+    "images/sausage-and-peppers-q28220060/sausage-and-peppers-q28220060-3.jpg",
+    "images/sausage-and-peppers-q28220060/sausage-and-peppers-q28220060-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28220060",
+    "themealdb": null
+  }
+}

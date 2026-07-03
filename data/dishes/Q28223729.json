@@ -1,0 +1,20 @@
+{
+  "id": "Q28223729",
+  "name": "Black Magic",
+  "description": "British brand of chocolate",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-magic-q28223729/black-magic-q28223729-1.jpg",
+    "images/black-magic-q28223729/black-magic-q28223729-2.png",
+    "images/black-magic-q28223729/black-magic-q28223729-3.jpg",
+    "images/black-magic-q28223729/black-magic-q28223729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28223729",
+    "themealdb": null
+  }
+}

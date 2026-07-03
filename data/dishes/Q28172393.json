@@ -1,0 +1,20 @@
+{
+  "id": "Q28172393",
+  "name": "Paneer makhani",
+  "description": "dish of paneer, butter and masala",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paneer-makhani-q28172393/paneer-makhani-q28172393-1.jpg",
+    "images/paneer-makhani-q28172393/paneer-makhani-q28172393-2.jpg",
+    "images/paneer-makhani-q28172393/paneer-makhani-q28172393-3.jpg",
+    "images/paneer-makhani-q28172393/paneer-makhani-q28172393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28172393",
+    "themealdb": null
+  }
+}

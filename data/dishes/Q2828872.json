@@ -1,0 +1,18 @@
+{
+  "id": "Q2828872",
+  "name": "Ajoarriero",
+  "description": "made from potatoes, garlic, egg and oil",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ajoarriero-q2828872/ajoarriero-q2828872-1.jpg",
+    "images/ajoarriero-q2828872/ajoarriero-q2828872-2.jpg",
+    "images/ajoarriero-q2828872/ajoarriero-q2828872-3.jpg",
+    "images/ajoarriero-q2828872/ajoarriero-q2828872-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2828872",
+    "themealdb": null
+  }
+}

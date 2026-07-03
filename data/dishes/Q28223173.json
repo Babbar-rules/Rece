@@ -1,0 +1,16 @@
+{
+  "id": "Q28223173",
+  "name": "ostrich stew",
+  "description": "South African stew made with ostrich meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ostrich-stew-q28223173/ostrich-stew-q28223173-1.jpg",
+    "images/ostrich-stew-q28223173/ostrich-stew-q28223173-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28223173",
+    "themealdb": null
+  }
+}

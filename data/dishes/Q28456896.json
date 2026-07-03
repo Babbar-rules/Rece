@@ -1,0 +1,22 @@
+{
+  "id": "Q28456896",
+  "name": "Mofo gasy",
+  "description": "Malagasy traditional recipe",
+  "nationality": [
+    "Madagascar"
+  ],
+  "region_cuisine": [
+    "Malagasy cuisine"
+  ],
+  "images": [
+    "images/mofo-gasy-q28456896/mofo-gasy-q28456896-1.jpg",
+    "images/mofo-gasy-q28456896/mofo-gasy-q28456896-2.jpg",
+    "images/mofo-gasy-q28456896/mofo-gasy-q28456896-3.jpg",
+    "images/mofo-gasy-q28456896/mofo-gasy-q28456896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28456896",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q28812188",
+  "name": "Laz böreği",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laz-boregi-q28812188/laz-boregi-q28812188-1.jpg",
+    "images/laz-boregi-q28812188/laz-boregi-q28812188-2.jpg",
+    "images/laz-boregi-q28812188/laz-boregi-q28812188-3.jpg",
+    "images/laz-boregi-q28812188/laz-boregi-q28812188-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28812188",
+    "themealdb": null
+  }
+}

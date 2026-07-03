@@ -1,0 +1,18 @@
+{
+  "id": "Q28836677",
+  "name": "soy food",
+  "description": "food made from soybeans",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-food-q28836677/soy-food-q28836677-1.jpg",
+    "images/soy-food-q28836677/soy-food-q28836677-2.jpg",
+    "images/soy-food-q28836677/soy-food-q28836677-3.jpg",
+    "images/soy-food-q28836677/soy-food-q28836677-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28836677",
+    "themealdb": null
+  }
+}
