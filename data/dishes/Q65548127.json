@@ -1,0 +1,18 @@
+{
+  "id": "Q65548127",
+  "name": "pulled chicken",
+  "description": "method of cooking chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pulled-chicken-q65548127/pulled-chicken-q65548127-1.jpg",
+    "images/pulled-chicken-q65548127/pulled-chicken-q65548127-2.jpg",
+    "images/pulled-chicken-q65548127/pulled-chicken-q65548127-3.jpg",
+    "images/pulled-chicken-q65548127/pulled-chicken-q65548127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65548127",
+    "themealdb": null
+  }
+}

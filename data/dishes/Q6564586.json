@@ -1,0 +1,18 @@
+{
+  "id": "Q6564586",
+  "name": "ka'ak al-Quds",
+  "description": "Israeli bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kaak-al-quds-q6564586/kaak-al-quds-q6564586-1.jpg",
+    "images/kaak-al-quds-q6564586/kaak-al-quds-q6564586-2.jpg",
+    "images/kaak-al-quds-q6564586/kaak-al-quds-q6564586-3.png",
+    "images/kaak-al-quds-q6564586/kaak-al-quds-q6564586-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6564586",
+    "themealdb": null
+  }
+}

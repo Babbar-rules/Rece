@@ -1,0 +1,18 @@
+{
+  "id": "Q65548270",
+  "name": "browned Brussels sprouts",
+  "description": "dish of cooked Brussels sprouts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/browned-brussels-sprouts-q65548270/browned-brussels-sprouts-q65548270-1.jpg",
+    "images/browned-brussels-sprouts-q65548270/browned-brussels-sprouts-q65548270-2.jpg",
+    "images/browned-brussels-sprouts-q65548270/browned-brussels-sprouts-q65548270-3.jpg",
+    "images/browned-brussels-sprouts-q65548270/browned-brussels-sprouts-q65548270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65548270",
+    "themealdb": null
+  }
+}

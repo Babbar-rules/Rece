@@ -1,0 +1,20 @@
+{
+  "id": "Q6744641",
+  "name": "malt loaf",
+  "description": "type of sweet leavened bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malt-loaf-q6744641/malt-loaf-q6744641-1.jpeg",
+    "images/malt-loaf-q6744641/malt-loaf-q6744641-2.jpeg",
+    "images/malt-loaf-q6744641/malt-loaf-q6744641-3.jpg",
+    "images/malt-loaf-q6744641/malt-loaf-q6744641-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6744641",
+    "themealdb": null
+  }
+}

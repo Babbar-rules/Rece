@@ -1,0 +1,20 @@
+{
+  "id": "Q6593562",
+  "name": "urnebes",
+  "description": "spicy Serbian salad dish",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/urnebes-q6593562/urnebes-q6593562-1.jpg",
+    "images/urnebes-q6593562/urnebes-q6593562-2.jpg",
+    "images/urnebes-q6593562/urnebes-q6593562-3.jpg",
+    "images/urnebes-q6593562/urnebes-q6593562-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6593562",
+    "themealdb": null
+  }
+}

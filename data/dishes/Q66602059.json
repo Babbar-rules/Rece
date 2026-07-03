@@ -1,0 +1,18 @@
+{
+  "id": "Q66602059",
+  "name": "fish ragout",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-ragout-q66602059/fish-ragout-q66602059-1.jpg",
+    "images/fish-ragout-q66602059/fish-ragout-q66602059-2.jpg",
+    "images/fish-ragout-q66602059/fish-ragout-q66602059-3.jpg",
+    "images/fish-ragout-q66602059/fish-ragout-q66602059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66602059",
+    "themealdb": null
+  }
+}

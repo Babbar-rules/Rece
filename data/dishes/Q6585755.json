@@ -1,0 +1,20 @@
+{
+  "id": "Q6585755",
+  "name": "mercimek köftesi",
+  "description": "Turkish cold dish (or meze) of \"balls\" of boiled red lentils, bulgur, green onions etc",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mercimek-koftesi-q6585755/mercimek-koftesi-q6585755-1.jpg",
+    "images/mercimek-koftesi-q6585755/mercimek-koftesi-q6585755-2.jpg",
+    "images/mercimek-koftesi-q6585755/mercimek-koftesi-q6585755-3.jpg",
+    "images/mercimek-koftesi-q6585755/mercimek-koftesi-q6585755-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6585755",
+    "themealdb": null
+  }
+}

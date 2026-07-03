@@ -1,0 +1,18 @@
+{
+  "id": "Q66425668",
+  "name": "Sanguito",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sanguito-q66425668/sanguito-q66425668-1.jpg",
+    "images/sanguito-q66425668/sanguito-q66425668-2.jpg",
+    "images/sanguito-q66425668/sanguito-q66425668-3.jpg",
+    "images/sanguito-q66425668/sanguito-q66425668-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66425668",
+    "themealdb": null
+  }
+}

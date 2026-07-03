@@ -1,0 +1,18 @@
+{
+  "id": "Q65994712",
+  "name": "Pepitos de crema",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pepitos-de-crema-q65994712/pepitos-de-crema-q65994712-1.jpg",
+    "images/pepitos-de-crema-q65994712/pepitos-de-crema-q65994712-2.jpg",
+    "images/pepitos-de-crema-q65994712/pepitos-de-crema-q65994712-3.jpg",
+    "images/pepitos-de-crema-q65994712/pepitos-de-crema-q65994712-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65994712",
+    "themealdb": null
+  }
+}

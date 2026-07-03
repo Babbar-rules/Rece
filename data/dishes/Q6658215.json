@@ -1,0 +1,20 @@
+{
+  "id": "Q6658215",
+  "name": "Liver soup",
+  "description": "Chinese cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/liver-soup-q6658215/liver-soup-q6658215-1.jpg",
+    "images/liver-soup-q6658215/liver-soup-q6658215-2.jpg",
+    "images/liver-soup-q6658215/liver-soup-q6658215-3.jpg",
+    "images/liver-soup-q6658215/liver-soup-q6658215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6658215",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q667478",
+  "name": "cheeseburger",
+  "description": "hamburger topped with cheese",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheeseburger-q667478/cheeseburger-q667478-1.jpg",
+    "images/cheeseburger-q667478/cheeseburger-q667478-2.jpg",
+    "images/cheeseburger-q667478/cheeseburger-q667478-3.jpg",
+    "images/cheeseburger-q667478/cheeseburger-q667478-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q667478",
+    "themealdb": null
+  }
+}

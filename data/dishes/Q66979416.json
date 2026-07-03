@@ -1,0 +1,20 @@
+{
+  "id": "Q66979416",
+  "name": "yassı kadayıf",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yass-kadayf-q66979416/yass-kadayf-q66979416-1.jpg",
+    "images/yass-kadayf-q66979416/yass-kadayf-q66979416-2.jpg",
+    "images/yass-kadayf-q66979416/yass-kadayf-q66979416-3.jpg",
+    "images/yass-kadayf-q66979416/yass-kadayf-q66979416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66979416",
+    "themealdb": null
+  }
+}

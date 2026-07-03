@@ -1,0 +1,25 @@
+{
+  "id": "Q664137",
+  "name": "Pastilla",
+  "description": "traditional north african dish in the form of a sweet, savory meat pie or spicy seafood pie with werqa",
+  "nationality": [
+    "Morocco",
+    "Andalusia",
+    "Regency of Algiers"
+  ],
+  "region_cuisine": [
+    "Algerian cuisine",
+    "Moroccan cuisine"
+  ],
+  "images": [
+    "images/pastilla-q664137/pastilla-q664137-1.jpg",
+    "images/pastilla-q664137/pastilla-q664137-2.jpg",
+    "images/pastilla-q664137/pastilla-q664137-3.jpg",
+    "images/pastilla-q664137/pastilla-q664137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q664137",
+    "themealdb": null
+  }
+}

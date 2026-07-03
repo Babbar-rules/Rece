@@ -1,0 +1,21 @@
+{
+  "id": "Q669996",
+  "name": "kuku",
+  "description": "genre of Persian food, made with egg as a binder and another ingredient",
+  "nationality": [
+    "Azerbaijan",
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuku-q669996/kuku-q669996-1.jpg",
+    "images/kuku-q669996/kuku-q669996-2.jpg",
+    "images/kuku-q669996/kuku-q669996-3.jpg",
+    "images/kuku-q669996/kuku-q669996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q669996",
+    "themealdb": null
+  }
+}

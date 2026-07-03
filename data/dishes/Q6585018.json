@@ -1,0 +1,23 @@
+{
+  "id": "Q6585018",
+  "name": "Mafrum",
+  "description": "Libyan-Jewish and Tunisian-Jewish meat dish",
+  "nationality": [
+    "Tunisia",
+    "Libya"
+  ],
+  "region_cuisine": [
+    "Libyan cuisine",
+    "Tunisian cuisine",
+    "Jewish cuisine"
+  ],
+  "images": [
+    "images/mafrum-q6585018/mafrum-q6585018-1.jpg",
+    "images/mafrum-q6585018/mafrum-q6585018-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6585018",
+    "themealdb": null
+  }
+}

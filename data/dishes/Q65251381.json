@@ -1,0 +1,22 @@
+{
+  "id": "Q65251381",
+  "name": "bubur kampiun",
+  "description": "Indonesia traditional food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bubur-kampiun-q65251381/bubur-kampiun-q65251381-1.jpg",
+    "images/bubur-kampiun-q65251381/bubur-kampiun-q65251381-2.jpg",
+    "images/bubur-kampiun-q65251381/bubur-kampiun-q65251381-3.jpg",
+    "images/bubur-kampiun-q65251381/bubur-kampiun-q65251381-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65251381",
+    "themealdb": null
+  }
+}

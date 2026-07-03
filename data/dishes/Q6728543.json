@@ -1,0 +1,20 @@
+{
+  "id": "Q6728543",
+  "name": "Madras curry",
+  "description": "Indian curry dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/madras-curry-q6728543/madras-curry-q6728543-1.jpg",
+    "images/madras-curry-q6728543/madras-curry-q6728543-2.jpg",
+    "images/madras-curry-q6728543/madras-curry-q6728543-3.jpg",
+    "images/madras-curry-q6728543/madras-curry-q6728543-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6728543",
+    "themealdb": null
+  }
+}

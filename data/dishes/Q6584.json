@@ -1,0 +1,18 @@
+{
+  "id": "Q6584",
+  "name": "mulled wine",
+  "description": "red wine along with various spices and perhaps fruit or raisins",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mulled-wine-q6584/mulled-wine-q6584-1.jpg",
+    "images/mulled-wine-q6584/mulled-wine-q6584-2.jpg",
+    "images/mulled-wine-q6584/mulled-wine-q6584-3.jpg",
+    "images/mulled-wine-q6584/mulled-wine-q6584-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6584",
+    "themealdb": null
+  }
+}

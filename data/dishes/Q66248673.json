@@ -1,0 +1,18 @@
+{
+  "id": "Q66248673",
+  "name": "venison dish",
+  "description": "meat dish using venison",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/venison-dish-q66248673/venison-dish-q66248673-1.jpg",
+    "images/venison-dish-q66248673/venison-dish-q66248673-2.jpg",
+    "images/venison-dish-q66248673/venison-dish-q66248673-3.jpg",
+    "images/venison-dish-q66248673/venison-dish-q66248673-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66248673",
+    "themealdb": null
+  }
+}

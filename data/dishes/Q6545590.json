@@ -1,0 +1,18 @@
+{
+  "id": "Q6545590",
+  "name": "entrée",
+  "description": "dish served before the main course of a meal; either the first dish or following a soup or other small dish or dishes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/entree-q6545590/entree-q6545590-1.jpg",
+    "images/entree-q6545590/entree-q6545590-2.jpg",
+    "images/entree-q6545590/entree-q6545590-3.jpg",
+    "images/entree-q6545590/entree-q6545590-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6545590",
+    "themealdb": null
+  }
+}

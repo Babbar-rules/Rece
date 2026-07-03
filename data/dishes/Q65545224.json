@@ -1,0 +1,18 @@
+{
+  "id": "Q65545224",
+  "name": "fig jam",
+  "description": "jam made from figs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fig-jam-q65545224/fig-jam-q65545224-1.jpg",
+    "images/fig-jam-q65545224/fig-jam-q65545224-2.jpg",
+    "images/fig-jam-q65545224/fig-jam-q65545224-3.jpg",
+    "images/fig-jam-q65545224/fig-jam-q65545224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65545224",
+    "themealdb": null
+  }
+}

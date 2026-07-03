@@ -1,0 +1,18 @@
+{
+  "id": "Q6747205",
+  "name": "Manchamanteles",
+  "description": "Mexican stew",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/manchamanteles-q6747205/manchamanteles-q6747205-1.jpg",
+    "images/manchamanteles-q6747205/manchamanteles-q6747205-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6747205",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6669461",
+  "name": "Lomi",
+  "description": "type of noodle soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lomi-q6669461/lomi-q6669461-1.jpg",
+    "images/lomi-q6669461/lomi-q6669461-2.jpg",
+    "images/lomi-q6669461/lomi-q6669461-3.jpg",
+    "images/lomi-q6669461/lomi-q6669461-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6669461",
+    "themealdb": null
+  }
+}

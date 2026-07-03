@@ -1,0 +1,20 @@
+{
+  "id": "Q6684912",
+  "name": "Ghana Chocolate",
+  "description": "brand of chocolate",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ghana-chocolate-q6684912/ghana-chocolate-q6684912-1.jpg",
+    "images/ghana-chocolate-q6684912/ghana-chocolate-q6684912-2.jpg",
+    "images/ghana-chocolate-q6684912/ghana-chocolate-q6684912-3.jpg",
+    "images/ghana-chocolate-q6684912/ghana-chocolate-q6684912-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6684912",
+    "themealdb": null
+  }
+}

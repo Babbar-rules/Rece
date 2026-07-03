@@ -1,0 +1,22 @@
+{
+  "id": "Q6591",
+  "name": "speculaas biscuit",
+  "description": "traditional spiced biscuit from Northwestern Europe",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dutch cuisine"
+  ],
+  "images": [
+    "images/speculaas-biscuit-q6591/speculaas-biscuit-q6591-1.jpg",
+    "images/speculaas-biscuit-q6591/speculaas-biscuit-q6591-2.jpg",
+    "images/speculaas-biscuit-q6591/speculaas-biscuit-q6591-3.jpg",
+    "images/speculaas-biscuit-q6591/speculaas-biscuit-q6591-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6591",
+    "themealdb": null
+  }
+}

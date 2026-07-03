@@ -1,0 +1,19 @@
+{
+  "id": "Q6551020",
+  "name": "tutmaç soup",
+  "description": "traditional Turkish cuisine dish (soup)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tutmac-soup-q6551020/tutmac-soup-q6551020-1.jpg",
+    "images/tutmac-soup-q6551020/tutmac-soup-q6551020-2.jpg",
+    "images/tutmac-soup-q6551020/tutmac-soup-q6551020-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6551020",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6578151",
+  "name": "orange soup",
+  "description": "soup based on orange vegetables such as pumpkin, carrot, yam",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/orange-soup-q6578151/orange-soup-q6578151-1.jpg",
+    "images/orange-soup-q6578151/orange-soup-q6578151-2.jpg",
+    "images/orange-soup-q6578151/orange-soup-q6578151-3.jpg",
+    "images/orange-soup-q6578151/orange-soup-q6578151-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6578151",
+    "themealdb": null
+  }
+}

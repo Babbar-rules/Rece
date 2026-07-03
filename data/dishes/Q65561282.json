@@ -1,0 +1,17 @@
+{
+  "id": "Q65561282",
+  "name": "artichoke creme",
+  "description": "creme with artichoke",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/artichoke-creme-q65561282/artichoke-creme-q65561282-1.jpg",
+    "images/artichoke-creme-q65561282/artichoke-creme-q65561282-2.jpg",
+    "images/artichoke-creme-q65561282/artichoke-creme-q65561282-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65561282",
+    "themealdb": null
+  }
+}

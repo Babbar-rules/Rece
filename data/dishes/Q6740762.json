@@ -1,0 +1,20 @@
+{
+  "id": "Q6740762",
+  "name": "Malabar matthi curry",
+  "description": "south Indian fish curry",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malabar-matthi-curry-q6740762/malabar-matthi-curry-q6740762-1.jpg",
+    "images/malabar-matthi-curry-q6740762/malabar-matthi-curry-q6740762-2.jpg",
+    "images/malabar-matthi-curry-q6740762/malabar-matthi-curry-q6740762-3.jpg",
+    "images/malabar-matthi-curry-q6740762/malabar-matthi-curry-q6740762-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6740762",
+    "themealdb": null
+  }
+}

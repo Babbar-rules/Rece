@@ -1,0 +1,22 @@
+{
+  "id": "Q6745014",
+  "name": "Malva pudding",
+  "description": "South African sweet pudding",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [
+    "South African cuisine"
+  ],
+  "images": [
+    "images/malva-pudding-q6745014/malva-pudding-q6745014-1.jpg",
+    "images/malva-pudding-q6745014/malva-pudding-q6745014-2.jpg",
+    "images/malva-pudding-q6745014/malva-pudding-q6745014-3.jpg",
+    "images/malva-pudding-q6745014/malva-pudding-q6745014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6745014",
+    "themealdb": null
+  }
+}

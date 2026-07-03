@@ -1,0 +1,18 @@
+{
+  "id": "Q6724547",
+  "name": "Mackintosh's Toffee",
+  "description": "Toffee brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mackintoshs-toffee-q6724547/mackintoshs-toffee-q6724547-1.jpg",
+    "images/mackintoshs-toffee-q6724547/mackintoshs-toffee-q6724547-2.jpg",
+    "images/mackintoshs-toffee-q6724547/mackintoshs-toffee-q6724547-3.jpg",
+    "images/mackintoshs-toffee-q6724547/mackintoshs-toffee-q6724547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6724547",
+    "themealdb": null
+  }
+}

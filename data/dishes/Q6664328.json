@@ -1,0 +1,18 @@
+{
+  "id": "Q6664328",
+  "name": "teriyaki burger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/teriyaki-burger-q6664328/teriyaki-burger-q6664328-1.jpg",
+    "images/teriyaki-burger-q6664328/teriyaki-burger-q6664328-2.jpg",
+    "images/teriyaki-burger-q6664328/teriyaki-burger-q6664328-3.jpg",
+    "images/teriyaki-burger-q6664328/teriyaki-burger-q6664328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6664328",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6747588",
+  "name": "Manchester tart",
+  "description": "English baked tart",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "English cuisine"
+  ],
+  "images": [
+    "images/manchester-tart-q6747588/manchester-tart-q6747588-1.jpg",
+    "images/manchester-tart-q6747588/manchester-tart-q6747588-2.jpg",
+    "images/manchester-tart-q6747588/manchester-tart-q6747588-3.jpg",
+    "images/manchester-tart-q6747588/manchester-tart-q6747588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6747588",
+    "themealdb": null
+  }
+}

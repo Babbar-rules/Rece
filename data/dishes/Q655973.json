@@ -1,0 +1,20 @@
+{
+  "id": "Q655973",
+  "name": "gougère",
+  "description": "confection made from cheesy choux pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gougere-q655973/gougere-q655973-1.jpg",
+    "images/gougere-q655973/gougere-q655973-2.jpg",
+    "images/gougere-q655973/gougere-q655973-3.jpg",
+    "images/gougere-q655973/gougere-q655973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q655973",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q65248056",
+  "name": "Aakkoset",
+  "description": "candy brand of Cloetta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aakkoset-q65248056/aakkoset-q65248056-1.jpg",
+    "images/aakkoset-q65248056/aakkoset-q65248056-2.jpg",
+    "images/aakkoset-q65248056/aakkoset-q65248056-3.jpg",
+    "images/aakkoset-q65248056/aakkoset-q65248056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65248056",
+    "themealdb": null
+  }
+}

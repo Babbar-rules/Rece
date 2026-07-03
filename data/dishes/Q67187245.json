@@ -1,0 +1,18 @@
+{
+  "id": "Q67187245",
+  "name": "cooked ham",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cooked-ham-q67187245/cooked-ham-q67187245-1.jpg",
+    "images/cooked-ham-q67187245/cooked-ham-q67187245-2.jpg",
+    "images/cooked-ham-q67187245/cooked-ham-q67187245-3.jpg",
+    "images/cooked-ham-q67187245/cooked-ham-q67187245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67187245",
+    "themealdb": null
+  }
+}

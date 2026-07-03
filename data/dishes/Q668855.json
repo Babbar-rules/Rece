@@ -1,0 +1,18 @@
+{
+  "id": "Q668855",
+  "name": "scrambled eggs",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/scrambled-eggs-q668855/scrambled-eggs-q668855-1.jpg",
+    "images/scrambled-eggs-q668855/scrambled-eggs-q668855-2.jpg",
+    "images/scrambled-eggs-q668855/scrambled-eggs-q668855-3.jpg",
+    "images/scrambled-eggs-q668855/scrambled-eggs-q668855-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q668855",
+    "themealdb": null
+  }
+}

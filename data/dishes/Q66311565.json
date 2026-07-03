@@ -1,0 +1,20 @@
+{
+  "id": "Q66311565",
+  "name": "Revani",
+  "description": "Turkish cuisine dessert",
+  "nationality": [
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/revani-q66311565/revani-q66311565-1.jpg",
+    "images/revani-q66311565/revani-q66311565-2.jpg",
+    "images/revani-q66311565/revani-q66311565-3.jpg",
+    "images/revani-q66311565/revani-q66311565-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66311565",
+    "themealdb": null
+  }
+}

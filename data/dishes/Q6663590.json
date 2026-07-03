@@ -1,0 +1,18 @@
+{
+  "id": "Q6663590",
+  "name": "lobby",
+  "description": "type of stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lobby-q6663590/lobby-q6663590-1.jpg",
+    "images/lobby-q6663590/lobby-q6663590-2.jpg",
+    "images/lobby-q6663590/lobby-q6663590-3.jpg",
+    "images/lobby-q6663590/lobby-q6663590-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6663590",
+    "themealdb": null
+  }
+}

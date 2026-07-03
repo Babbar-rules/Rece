@@ -1,0 +1,20 @@
+{
+  "id": "Q6689683",
+  "name": "Lountza",
+  "description": "Cypriot meat delicacy",
+  "nationality": [
+    "Italy",
+    "Cyprus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lountza-q6689683/lountza-q6689683-1.jpg",
+    "images/lountza-q6689683/lountza-q6689683-2.jpg",
+    "images/lountza-q6689683/lountza-q6689683-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6689683",
+    "themealdb": null
+  }
+}

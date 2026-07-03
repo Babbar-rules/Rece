@@ -1,0 +1,23 @@
+{
+  "id": "Q6663",
+  "name": "hamburger",
+  "description": "American sandwich of ground beef patty",
+  "nationality": [
+    "United States",
+    "Germany"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/hamburger-q6663/hamburger-q6663-1.jpg",
+    "images/hamburger-q6663/hamburger-q6663-2.jpg",
+    "images/hamburger-q6663/hamburger-q6663-3.jpg",
+    "images/hamburger-q6663/hamburger-q6663-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6663",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q65548218",
+  "name": "seed cracker",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seed-cracker-q65548218/seed-cracker-q65548218-1.jpg",
+    "images/seed-cracker-q65548218/seed-cracker-q65548218-2.jpg",
+    "images/seed-cracker-q65548218/seed-cracker-q65548218-3.jpg",
+    "images/seed-cracker-q65548218/seed-cracker-q65548218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65548218",
+    "themealdb": null
+  }
+}

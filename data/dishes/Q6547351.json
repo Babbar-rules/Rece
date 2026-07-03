@@ -1,0 +1,20 @@
+{
+  "id": "Q6547351",
+  "name": "Likëngë",
+  "description": "Italian sausage",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/likenge-q6547351/likenge-q6547351-1.jpg",
+    "images/likenge-q6547351/likenge-q6547351-2.jpg",
+    "images/likenge-q6547351/likenge-q6547351-3.jpg",
+    "images/likenge-q6547351/likenge-q6547351-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6547351",
+    "themealdb": null
+  }
+}

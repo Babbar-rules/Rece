@@ -1,0 +1,22 @@
+{
+  "id": "Q6685108",
+  "name": "phat si io",
+  "description": "Asian stir fried noodle dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/phat-si-io-q6685108/phat-si-io-q6685108-1.jpg",
+    "images/phat-si-io-q6685108/phat-si-io-q6685108-2.jpg",
+    "images/phat-si-io-q6685108/phat-si-io-q6685108-3.jpg",
+    "images/phat-si-io-q6685108/phat-si-io-q6685108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6685108",
+    "themealdb": null
+  }
+}

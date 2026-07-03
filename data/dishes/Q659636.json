@@ -1,0 +1,18 @@
+{
+  "id": "Q659636",
+  "name": "Chocolate con churros",
+  "description": "Spanish sweet dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-con-churros-q659636/chocolate-con-churros-q659636-1.jpg",
+    "images/chocolate-con-churros-q659636/chocolate-con-churros-q659636-2.jpg",
+    "images/chocolate-con-churros-q659636/chocolate-con-churros-q659636-3.jpg",
+    "images/chocolate-con-churros-q659636/chocolate-con-churros-q659636-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q659636",
+    "themealdb": null
+  }
+}

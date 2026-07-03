@@ -1,0 +1,60 @@
+{
+  "id": "Q65769686",
+  "name": "beetroot soup",
+  "description": "",
+  "nationality": [
+    "Ukrainian"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/beetroot-soup-q65769686/beetroot-soup-q65769686-1.jpg",
+    "images/beetroot-soup-q65769686/beetroot-soup-q65769686-2.jpg",
+    "images/beetroot-soup-q65769686/beetroot-soup-q65769686-3.jpg",
+    "images/beetroot-soup-q65769686/beetroot-soup-q65769686-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53078",
+    "category": "Vegetarian",
+    "area": "Ukrainian",
+    "instructions": "Chop the beetroot, add water and stock cube and cook for 15mins. Add the other ingredients and boil until soft. Finally add the beans and cook for 5mins. Serve in the soup pot.",
+    "ingredients": [
+      {
+        "ingredient": "Beetroot",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "4 tbs"
+      },
+      {
+        "ingredient": "Chicken Stock Cube",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "6 cups"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Cannellini Beans",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "Dill",
+        "measure": "Garnish"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=6CXgPVw_-0g",
+    "thumb": "https://www.themealdb.com/images/media/meals/zadvgb1699012544.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65769686",
+    "themealdb": "53078"
+  }
+}

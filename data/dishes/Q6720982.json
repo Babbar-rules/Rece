@@ -1,0 +1,18 @@
+{
+  "id": "Q6720982",
+  "name": "Maachha Bihana",
+  "description": "Indian curry dish with fish roe",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maachha-bihana-q6720982/maachha-bihana-q6720982-1.jpg",
+    "images/maachha-bihana-q6720982/maachha-bihana-q6720982-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6720982",
+    "themealdb": null
+  }
+}

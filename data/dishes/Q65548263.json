@@ -1,0 +1,18 @@
+{
+  "id": "Q65548263",
+  "name": "lentil salad",
+  "description": "salad made with lentils",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lentil-salad-q65548263/lentil-salad-q65548263-1.jpg",
+    "images/lentil-salad-q65548263/lentil-salad-q65548263-2.jpg",
+    "images/lentil-salad-q65548263/lentil-salad-q65548263-3.jpg",
+    "images/lentil-salad-q65548263/lentil-salad-q65548263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65548263",
+    "themealdb": null
+  }
+}

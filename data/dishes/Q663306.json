@@ -1,0 +1,27 @@
+{
+  "id": "Q663306",
+  "name": "beşbarmaq",
+  "description": "Turkic lamb dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Uyghur cuisine",
+    "Karakalpak cuisine",
+    "Bashkir cuisine",
+    "Tatarstan cuisine",
+    "Turkmen cuisine",
+    "Cuisine of Uzbekistan",
+    "Kazakh cuisine"
+  ],
+  "images": [
+    "images/besbarmaq-q663306/besbarmaq-q663306-1.jpg",
+    "images/besbarmaq-q663306/besbarmaq-q663306-2.jpg",
+    "images/besbarmaq-q663306/besbarmaq-q663306-3.jpg",
+    "images/besbarmaq-q663306/besbarmaq-q663306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q663306",
+    "themealdb": null
+  }
+}

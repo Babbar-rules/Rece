@@ -1,0 +1,18 @@
+{
+  "id": "Q65554137",
+  "name": "raw ball",
+  "description": "raw food confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raw-ball-q65554137/raw-ball-q65554137-1.jpg",
+    "images/raw-ball-q65554137/raw-ball-q65554137-2.jpg",
+    "images/raw-ball-q65554137/raw-ball-q65554137-3.jpg",
+    "images/raw-ball-q65554137/raw-ball-q65554137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65554137",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q65619874",
+  "name": "beetroot salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beetroot-salad-q65619874/beetroot-salad-q65619874-1.jpg",
+    "images/beetroot-salad-q65619874/beetroot-salad-q65619874-2.jpg",
+    "images/beetroot-salad-q65619874/beetroot-salad-q65619874-3.jpg",
+    "images/beetroot-salad-q65619874/beetroot-salad-q65619874-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65619874",
+    "themealdb": null
+  }
+}

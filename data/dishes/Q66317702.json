@@ -1,0 +1,18 @@
+{
+  "id": "Q66317702",
+  "name": "New England clam chowder",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/new-england-clam-chowder-q66317702/new-england-clam-chowder-q66317702-1.jpg",
+    "images/new-england-clam-chowder-q66317702/new-england-clam-chowder-q66317702-2.jpg",
+    "images/new-england-clam-chowder-q66317702/new-england-clam-chowder-q66317702-3.jpg",
+    "images/new-england-clam-chowder-q66317702/new-england-clam-chowder-q66317702-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66317702",
+    "themealdb": null
+  }
+}

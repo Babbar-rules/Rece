@@ -1,0 +1,18 @@
+{
+  "id": "Q66246606",
+  "name": "pickled fish",
+  "description": "fish dish prepared by marinating any of various sorts of fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-fish-q66246606/pickled-fish-q66246606-1.jpg",
+    "images/pickled-fish-q66246606/pickled-fish-q66246606-2.jpg",
+    "images/pickled-fish-q66246606/pickled-fish-q66246606-3.jpg",
+    "images/pickled-fish-q66246606/pickled-fish-q66246606-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66246606",
+    "themealdb": null
+  }
+}

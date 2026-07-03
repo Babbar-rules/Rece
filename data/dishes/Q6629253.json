@@ -1,0 +1,20 @@
+{
+  "id": "Q6629253",
+  "name": "Karsambaç",
+  "description": "snow and pekmez or syrup (or honey) dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/karsambac-q6629253/karsambac-q6629253-1.jpg",
+    "images/karsambac-q6629253/karsambac-q6629253-2.jpg",
+    "images/karsambac-q6629253/karsambac-q6629253-3.jpg",
+    "images/karsambac-q6629253/karsambac-q6629253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6629253",
+    "themealdb": null
+  }
+}

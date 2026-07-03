@@ -1,0 +1,18 @@
+{
+  "id": "Q6672749",
+  "name": "Long John",
+  "description": "American pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/long-john-q6672749/long-john-q6672749-1.jpg",
+    "images/long-john-q6672749/long-john-q6672749-2.png",
+    "images/long-john-q6672749/long-john-q6672749-3.jpg",
+    "images/long-john-q6672749/long-john-q6672749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6672749",
+    "themealdb": null
+  }
+}

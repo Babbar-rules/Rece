@@ -1,0 +1,18 @@
+{
+  "id": "Q65547303",
+  "name": "sourdough baguette",
+  "description": "bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sourdough-baguette-q65547303/sourdough-baguette-q65547303-1.jpg",
+    "images/sourdough-baguette-q65547303/sourdough-baguette-q65547303-2.jpg",
+    "images/sourdough-baguette-q65547303/sourdough-baguette-q65547303-3.jpg",
+    "images/sourdough-baguette-q65547303/sourdough-baguette-q65547303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65547303",
+    "themealdb": null
+  }
+}

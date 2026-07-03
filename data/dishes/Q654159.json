@@ -1,0 +1,21 @@
+{
+  "id": "Q654159",
+  "name": "chicken tikka masala",
+  "description": "Indian curry",
+  "nationality": [
+    "United Kingdom",
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-tikka-masala-q654159/chicken-tikka-masala-q654159-1.jpg",
+    "images/chicken-tikka-masala-q654159/chicken-tikka-masala-q654159-2.jpg",
+    "images/chicken-tikka-masala-q654159/chicken-tikka-masala-q654159-3.jpg",
+    "images/chicken-tikka-masala-q654159/chicken-tikka-masala-q654159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q654159",
+    "themealdb": null
+  }
+}

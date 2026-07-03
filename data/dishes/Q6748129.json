@@ -1,0 +1,20 @@
+{
+  "id": "Q6748129",
+  "name": "Mandoca",
+  "description": "Venezuelan fried dough dessert",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mandoca-q6748129/mandoca-q6748129-1.jpg",
+    "images/mandoca-q6748129/mandoca-q6748129-2.jpg",
+    "images/mandoca-q6748129/mandoca-q6748129-3.png",
+    "images/mandoca-q6748129/mandoca-q6748129-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6748129",
+    "themealdb": null
+  }
+}

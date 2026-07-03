@@ -1,0 +1,20 @@
+{
+  "id": "Q6581424",
+  "name": "paçanga",
+  "description": "Turkish börek type",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pacanga-q6581424/pacanga-q6581424-1.jpg",
+    "images/pacanga-q6581424/pacanga-q6581424-2.jpg",
+    "images/pacanga-q6581424/pacanga-q6581424-3.jpg",
+    "images/pacanga-q6581424/pacanga-q6581424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6581424",
+    "themealdb": null
+  }
+}

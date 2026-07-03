@@ -1,0 +1,20 @@
+{
+  "id": "Q6574446",
+  "name": "su böreği",
+  "description": "food",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/su-boregi-q6574446/su-boregi-q6574446-1.jpg",
+    "images/su-boregi-q6574446/su-boregi-q6574446-2.jpg",
+    "images/su-boregi-q6574446/su-boregi-q6574446-3.jpg",
+    "images/su-boregi-q6574446/su-boregi-q6574446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6574446",
+    "themealdb": null
+  }
+}

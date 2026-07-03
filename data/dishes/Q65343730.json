@@ -1,0 +1,19 @@
+{
+  "id": "Q65343730",
+  "name": "Mustofa Potatoes",
+  "description": "dry dish consisting of thinly sliced potatoes",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/mustofa-potatoes-q65343730/mustofa-potatoes-q65343730-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65343730",
+    "themealdb": null
+  }
+}

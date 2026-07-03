@@ -1,0 +1,18 @@
+{
+  "id": "Q6559431",
+  "name": "open sandwich",
+  "description": "single slice of bread with food items on top",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/open-sandwich-q6559431/open-sandwich-q6559431-1.jpg",
+    "images/open-sandwich-q6559431/open-sandwich-q6559431-2.jpg",
+    "images/open-sandwich-q6559431/open-sandwich-q6559431-3.jpg",
+    "images/open-sandwich-q6559431/open-sandwich-q6559431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6559431",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6744505",
+  "name": "Etli ekmek",
+  "description": "Turkish \"pide\" from the city and province of Konya",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/etli-ekmek-q6744505/etli-ekmek-q6744505-1.jpg",
+    "images/etli-ekmek-q6744505/etli-ekmek-q6744505-2.jpg",
+    "images/etli-ekmek-q6744505/etli-ekmek-q6744505-3.jpg",
+    "images/etli-ekmek-q6744505/etli-ekmek-q6744505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6744505",
+    "themealdb": null
+  }
+}

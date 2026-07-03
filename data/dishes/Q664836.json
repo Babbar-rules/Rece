@@ -1,0 +1,18 @@
+{
+  "id": "Q664836",
+  "name": "Bricelet",
+  "description": "Swiss wafer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bricelet-q664836/bricelet-q664836-1.jpg",
+    "images/bricelet-q664836/bricelet-q664836-2.jpg",
+    "images/bricelet-q664836/bricelet-q664836-3.jpg",
+    "images/bricelet-q664836/bricelet-q664836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q664836",
+    "themealdb": null
+  }
+}

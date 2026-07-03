@@ -1,0 +1,18 @@
+{
+  "id": "Q674980",
+  "name": "Luxemburgerli",
+  "description": "confectionery made in Switzerland",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/luxemburgerli-q674980/luxemburgerli-q674980-1.jpg",
+    "images/luxemburgerli-q674980/luxemburgerli-q674980-2.jpg",
+    "images/luxemburgerli-q674980/luxemburgerli-q674980-3.jpg",
+    "images/luxemburgerli-q674980/luxemburgerli-q674980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q674980",
+    "themealdb": null
+  }
+}

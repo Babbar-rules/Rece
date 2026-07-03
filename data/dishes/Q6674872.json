@@ -1,0 +1,20 @@
+{
+  "id": "Q6674872",
+  "name": "Lontong Cap Go Meh",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lontong-cap-go-meh-q6674872/lontong-cap-go-meh-q6674872-1.jpg",
+    "images/lontong-cap-go-meh-q6674872/lontong-cap-go-meh-q6674872-2.jpg",
+    "images/lontong-cap-go-meh-q6674872/lontong-cap-go-meh-q6674872-3.jpg",
+    "images/lontong-cap-go-meh-q6674872/lontong-cap-go-meh-q6674872-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6674872",
+    "themealdb": null
+  }
+}

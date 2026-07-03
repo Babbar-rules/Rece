@@ -1,0 +1,20 @@
+{
+  "id": "Q6593882",
+  "name": "kazandibi",
+  "description": "Turkish dessert (sort of milk pudding)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kazandibi-q6593882/kazandibi-q6593882-1.jpg",
+    "images/kazandibi-q6593882/kazandibi-q6593882-2.jpg",
+    "images/kazandibi-q6593882/kazandibi-q6593882-3.jpg",
+    "images/kazandibi-q6593882/kazandibi-q6593882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6593882",
+    "themealdb": null
+  }
+}

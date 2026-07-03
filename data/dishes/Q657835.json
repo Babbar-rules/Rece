@@ -1,0 +1,20 @@
+{
+  "id": "Q657835",
+  "name": "pincho moruno",
+  "description": "meat skewer",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pincho-moruno-q657835/pincho-moruno-q657835-1.jpg",
+    "images/pincho-moruno-q657835/pincho-moruno-q657835-2.jpg",
+    "images/pincho-moruno-q657835/pincho-moruno-q657835-3.jpg",
+    "images/pincho-moruno-q657835/pincho-moruno-q657835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q657835",
+    "themealdb": null
+  }
+}

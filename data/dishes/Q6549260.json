@@ -1,0 +1,18 @@
+{
+  "id": "Q6549260",
+  "name": "Limerick Ham",
+  "description": "method of preparing a joint of bacon within the cuisine of Ireland",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/limerick-ham-q6549260/limerick-ham-q6549260-1.jpg",
+    "images/limerick-ham-q6549260/limerick-ham-q6549260-2.jpg",
+    "images/limerick-ham-q6549260/limerick-ham-q6549260-3.jpg",
+    "images/limerick-ham-q6549260/limerick-ham-q6549260-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6549260",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q67448569",
+  "name": "conchigliette",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/conchigliette-q67448569/conchigliette-q67448569-1.png",
+    "images/conchigliette-q67448569/conchigliette-q67448569-2.jpg",
+    "images/conchigliette-q67448569/conchigliette-q67448569-3.jpg",
+    "images/conchigliette-q67448569/conchigliette-q67448569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67448569",
+    "themealdb": null
+  }
+}

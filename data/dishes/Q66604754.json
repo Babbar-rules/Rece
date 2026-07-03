@@ -1,0 +1,18 @@
+{
+  "id": "Q66604754",
+  "name": "Menestron",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/menestron-q66604754/menestron-q66604754-1.jpg",
+    "images/menestron-q66604754/menestron-q66604754-2.jpg",
+    "images/menestron-q66604754/menestron-q66604754-3.jpg",
+    "images/menestron-q66604754/menestron-q66604754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66604754",
+    "themealdb": null
+  }
+}

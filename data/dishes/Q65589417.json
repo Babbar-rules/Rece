@@ -1,0 +1,20 @@
+{
+  "id": "Q65589417",
+  "name": "warm goat cheese salad",
+  "description": "French dish, consisting of Chèvre cheese served hot",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/warm-goat-cheese-salad-q65589417/warm-goat-cheese-salad-q65589417-1.jpg",
+    "images/warm-goat-cheese-salad-q65589417/warm-goat-cheese-salad-q65589417-2.jpg",
+    "images/warm-goat-cheese-salad-q65589417/warm-goat-cheese-salad-q65589417-3.jpg",
+    "images/warm-goat-cheese-salad-q65589417/warm-goat-cheese-salad-q65589417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65589417",
+    "themealdb": null
+  }
+}

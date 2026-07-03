@@ -1,0 +1,18 @@
+{
+  "id": "Q66317711",
+  "name": "Manhattan Clam Chowder",
+  "description": "Clam chowder with red, tomato-based broth, without milk or cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/manhattan-clam-chowder-q66317711/manhattan-clam-chowder-q66317711-1.jpg",
+    "images/manhattan-clam-chowder-q66317711/manhattan-clam-chowder-q66317711-2.jpg",
+    "images/manhattan-clam-chowder-q66317711/manhattan-clam-chowder-q66317711-3.jpg",
+    "images/manhattan-clam-chowder-q66317711/manhattan-clam-chowder-q66317711-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66317711",
+    "themealdb": null
+  }
+}

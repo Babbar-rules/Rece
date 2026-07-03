@@ -1,0 +1,20 @@
+{
+  "id": "Q6588272",
+  "name": "Kubaneh",
+  "description": "traditional food from Yemeni cuisine",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kubaneh-q6588272/kubaneh-q6588272-1.jpg",
+    "images/kubaneh-q6588272/kubaneh-q6588272-2.jpg",
+    "images/kubaneh-q6588272/kubaneh-q6588272-3.jpg",
+    "images/kubaneh-q6588272/kubaneh-q6588272-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6588272",
+    "themealdb": null
+  }
+}

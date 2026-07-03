@@ -1,0 +1,22 @@
+{
+  "id": "Q65343519",
+  "name": "cangkaruk",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/cangkaruk-q65343519/cangkaruk-q65343519-1.jpg",
+    "images/cangkaruk-q65343519/cangkaruk-q65343519-2.jpg",
+    "images/cangkaruk-q65343519/cangkaruk-q65343519-3.jpg",
+    "images/cangkaruk-q65343519/cangkaruk-q65343519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65343519",
+    "themealdb": null
+  }
+}

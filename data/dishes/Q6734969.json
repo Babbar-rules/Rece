@@ -1,0 +1,20 @@
+{
+  "id": "Q6734969",
+  "name": "mahua",
+  "description": "Chinese dough twist that is fried in peanut oil",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mahua-q6734969/mahua-q6734969-1.jpg",
+    "images/mahua-q6734969/mahua-q6734969-2.jpg",
+    "images/mahua-q6734969/mahua-q6734969-3.jpg",
+    "images/mahua-q6734969/mahua-q6734969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6734969",
+    "themealdb": null
+  }
+}

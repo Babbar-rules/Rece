@@ -1,0 +1,20 @@
+{
+  "id": "Q673154",
+  "name": "Cervelat",
+  "description": "Swiss pork sausage",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/cervelat-q673154/cervelat-q673154-1.jpg",
+    "images/cervelat-q673154/cervelat-q673154-2.jpg",
+    "images/cervelat-q673154/cervelat-q673154-3.jpg",
+    "images/cervelat-q673154/cervelat-q673154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q673154",
+    "themealdb": null
+  }
+}

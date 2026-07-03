@@ -1,0 +1,18 @@
+{
+  "id": "Q658413",
+  "name": "bread crumbs",
+  "description": "small pieces of dried bread used as a culinary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-crumbs-q658413/bread-crumbs-q658413-1.jpg",
+    "images/bread-crumbs-q658413/bread-crumbs-q658413-2.jpg",
+    "images/bread-crumbs-q658413/bread-crumbs-q658413-3.jpg",
+    "images/bread-crumbs-q658413/bread-crumbs-q658413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q658413",
+    "themealdb": null
+  }
+}

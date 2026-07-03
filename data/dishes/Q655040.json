@@ -1,0 +1,22 @@
+{
+  "id": "Q655040",
+  "name": "oden",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/oden-q655040/oden-q655040-1.jpg",
+    "images/oden-q655040/oden-q655040-2.jpg",
+    "images/oden-q655040/oden-q655040-3.jpg",
+    "images/oden-q655040/oden-q655040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q655040",
+    "themealdb": null
+  }
+}

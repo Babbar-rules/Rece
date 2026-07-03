@@ -1,0 +1,20 @@
+{
+  "id": "Q65737686",
+  "name": "lashka",
+  "description": "national dish of Mari El",
+  "nationality": [],
+  "region_cuisine": [
+    "Mari cuisine"
+  ],
+  "images": [
+    "images/lashka-q65737686/lashka-q65737686-1.png",
+    "images/lashka-q65737686/lashka-q65737686-2.jpg",
+    "images/lashka-q65737686/lashka-q65737686-3.jpg",
+    "images/lashka-q65737686/lashka-q65737686-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65737686",
+    "themealdb": null
+  }
+}

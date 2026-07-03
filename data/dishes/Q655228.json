@@ -1,0 +1,20 @@
+{
+  "id": "Q655228",
+  "name": "Toast Hawaii",
+  "description": "German open sandwich consisting of a slice of toast with ham and cheese, and a maraschino cherry in the middle of a pineapple slice",
+  "nationality": [
+    "West Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toast-hawaii-q655228/toast-hawaii-q655228-1.jpg",
+    "images/toast-hawaii-q655228/toast-hawaii-q655228-2.jpg",
+    "images/toast-hawaii-q655228/toast-hawaii-q655228-3.jpg",
+    "images/toast-hawaii-q655228/toast-hawaii-q655228-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q655228",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6671090",
+  "name": "London broil",
+  "description": "North American beef dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/london-broil-q6671090/london-broil-q6671090-1.jpg",
+    "images/london-broil-q6671090/london-broil-q6671090-2.jpg",
+    "images/london-broil-q6671090/london-broil-q6671090-3.jpg",
+    "images/london-broil-q6671090/london-broil-q6671090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6671090",
+    "themealdb": null
+  }
+}

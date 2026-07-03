@@ -1,0 +1,18 @@
+{
+  "id": "Q6708220",
+  "name": "Lymonnyk",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lymonnyk-q6708220/lymonnyk-q6708220-1.jpg",
+    "images/lymonnyk-q6708220/lymonnyk-q6708220-2.jpg",
+    "images/lymonnyk-q6708220/lymonnyk-q6708220-3.jpg",
+    "images/lymonnyk-q6708220/lymonnyk-q6708220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6708220",
+    "themealdb": null
+  }
+}

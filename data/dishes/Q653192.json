@@ -1,0 +1,20 @@
+{
+  "id": "Q653192",
+  "name": "frangipane",
+  "description": "pastry cream",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frangipane-q653192/frangipane-q653192-1.jpg",
+    "images/frangipane-q653192/frangipane-q653192-2.jpg",
+    "images/frangipane-q653192/frangipane-q653192-3.jpg",
+    "images/frangipane-q653192/frangipane-q653192-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q653192",
+    "themealdb": null
+  }
+}

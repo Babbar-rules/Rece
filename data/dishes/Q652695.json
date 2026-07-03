@@ -1,0 +1,20 @@
+{
+  "id": "Q652695",
+  "name": "shortbread",
+  "description": "Scottish biscuit",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shortbread-q652695/shortbread-q652695-1.jpg",
+    "images/shortbread-q652695/shortbread-q652695-2.jpg",
+    "images/shortbread-q652695/shortbread-q652695-3.jpg",
+    "images/shortbread-q652695/shortbread-q652695-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q652695",
+    "themealdb": null
+  }
+}

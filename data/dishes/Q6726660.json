@@ -1,0 +1,18 @@
+{
+  "id": "Q6726660",
+  "name": "Maddur vada",
+  "description": "savoury fritter-type snack from South India",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/maddur-vada-q6726660/maddur-vada-q6726660-1.jpg",
+    "images/maddur-vada-q6726660/maddur-vada-q6726660-2.jpg",
+    "images/maddur-vada-q6726660/maddur-vada-q6726660-3.jpg",
+    "images/maddur-vada-q6726660/maddur-vada-q6726660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6726660",
+    "themealdb": null
+  }
+}

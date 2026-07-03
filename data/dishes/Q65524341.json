@@ -1,0 +1,18 @@
+{
+  "id": "Q65524341",
+  "name": "cloudberry jam",
+  "description": "jam of cloudberries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cloudberry-jam-q65524341/cloudberry-jam-q65524341-1.jpg",
+    "images/cloudberry-jam-q65524341/cloudberry-jam-q65524341-2.jpg",
+    "images/cloudberry-jam-q65524341/cloudberry-jam-q65524341-3.jpg",
+    "images/cloudberry-jam-q65524341/cloudberry-jam-q65524341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65524341",
+    "themealdb": null
+  }
+}

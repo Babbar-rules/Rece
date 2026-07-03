@@ -1,0 +1,18 @@
+{
+  "id": "Q6724837",
+  "name": "Macon",
+  "description": "bacon substitute",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/macon-q6724837/macon-q6724837-1.jpg",
+    "images/macon-q6724837/macon-q6724837-2.jpg",
+    "images/macon-q6724837/macon-q6724837-3.jpg",
+    "images/macon-q6724837/macon-q6724837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6724837",
+    "themealdb": null
+  }
+}

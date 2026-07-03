@@ -1,0 +1,22 @@
+{
+  "id": "Q6540048",
+  "name": "liangpi",
+  "description": "noodle-like dish made from wheat or rice flour, originating from Shaanxi, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Shaanxi cuisine"
+  ],
+  "images": [
+    "images/liangpi-q6540048/liangpi-q6540048-1.jpg",
+    "images/liangpi-q6540048/liangpi-q6540048-2.jpg",
+    "images/liangpi-q6540048/liangpi-q6540048-3.jpg",
+    "images/liangpi-q6540048/liangpi-q6540048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6540048",
+    "themealdb": null
+  }
+}

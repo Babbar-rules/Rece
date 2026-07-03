@@ -1,0 +1,22 @@
+{
+  "id": "Q6748208",
+  "name": "Limpa bread",
+  "description": "scandinavian rye bread flavored with caraway and orange peel",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/limpa-bread-q6748208/limpa-bread-q6748208-1.jpg",
+    "images/limpa-bread-q6748208/limpa-bread-q6748208-2.jpg",
+    "images/limpa-bread-q6748208/limpa-bread-q6748208-3.jpg",
+    "images/limpa-bread-q6748208/limpa-bread-q6748208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6748208",
+    "themealdb": null
+  }
+}

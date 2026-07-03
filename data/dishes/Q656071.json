@@ -1,0 +1,81 @@
+{
+  "id": "Q656071",
+  "name": "carrot cake",
+  "description": "sweet cake that contains grated carrots as an ingredient",
+  "nationality": [
+    "Switzerland",
+    "France"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/carrot-cake-q656071/carrot-cake-q656071-1.jpg",
+    "images/carrot-cake-q656071/carrot-cake-q656071-2.jpg",
+    "images/carrot-cake-q656071/carrot-cake-q656071-3.jpg",
+    "images/carrot-cake-q656071/carrot-cake-q656071-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52897",
+    "category": "Dessert",
+    "area": "British",
+    "instructions": "For the carrot cake, preheat the oven to 160C/325F/Gas 3. Grease and line a 26cm/10in springform cake tin.\r\nMix all of the ingredients for the carrot cake, except the carrots and walnuts, together in a bowl until well combined. Stir in the carrots and walnuts.\r\nSpoon the mixture into the cake tin and bake for 1 hour 15 minutes, or until a skewer inserted into the middle comes out clean. Remove the cake from the oven and set aside to cool for 10 minutes, then carefully remove the cake from the tin and set aside to cool completely on a cooling rack.\r\nMeanwhile, for the icing, beat the cream cheese, caster sugar and butter together in a bowl until fluffy. Spread the icing over the top of the cake with a palette knife.",
+    "ingredients": [
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "450ml"
+      },
+      {
+        "ingredient": "Plain Flour",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Bicarbonate Of Soda",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "550ml"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "5"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "½ tsp"
+      },
+      {
+        "ingredient": "Cinnamon",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "500g grated"
+      },
+      {
+        "ingredient": "Walnuts",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Cream Cheese",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Caster Sugar",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "100g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=asjZ7iTrGKA",
+    "thumb": "https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q656071",
+    "themealdb": "52897"
+  }
+}

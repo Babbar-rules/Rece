@@ -1,0 +1,18 @@
+{
+  "id": "Q65242446",
+  "name": "Hole in One",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hole-in-one-q65242446/hole-in-one-q65242446-1.jpg",
+    "images/hole-in-one-q65242446/hole-in-one-q65242446-2.jpg",
+    "images/hole-in-one-q65242446/hole-in-one-q65242446-3.jpg",
+    "images/hole-in-one-q65242446/hole-in-one-q65242446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65242446",
+    "themealdb": null
+  }
+}

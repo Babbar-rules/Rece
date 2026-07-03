@@ -1,0 +1,17 @@
+{
+  "id": "Q66364496",
+  "name": "Mücendra pilavı",
+  "description": "dish from the Turkish Cypriot cuisine",
+  "nationality": [
+    "Northern Cyprus"
+  ],
+  "region_cuisine": [
+    "cuisine of Northern Cyprus"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66364496",
+    "themealdb": null
+  }
+}

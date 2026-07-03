@@ -1,0 +1,18 @@
+{
+  "id": "Q6744769",
+  "name": "Malted milk",
+  "description": "biscuit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/malted-milk-q6744769/malted-milk-q6744769-1.png",
+    "images/malted-milk-q6744769/malted-milk-q6744769-2.jpg",
+    "images/malted-milk-q6744769/malted-milk-q6744769-3.jpg",
+    "images/malted-milk-q6744769/malted-milk-q6744769-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6744769",
+    "themealdb": null
+  }
+}

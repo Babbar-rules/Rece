@@ -1,0 +1,18 @@
+{
+  "id": "Q67445556",
+  "name": "grated chocolate",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grated-chocolate-q67445556/grated-chocolate-q67445556-1.jpg",
+    "images/grated-chocolate-q67445556/grated-chocolate-q67445556-2.jpg",
+    "images/grated-chocolate-q67445556/grated-chocolate-q67445556-3.jpg",
+    "images/grated-chocolate-q67445556/grated-chocolate-q67445556-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67445556",
+    "themealdb": null
+  }
+}

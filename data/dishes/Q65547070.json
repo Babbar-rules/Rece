@@ -1,0 +1,18 @@
+{
+  "id": "Q65547070",
+  "name": "glass noodle salad",
+  "description": "salad made with glass noodles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/glass-noodle-salad-q65547070/glass-noodle-salad-q65547070-1.jpg",
+    "images/glass-noodle-salad-q65547070/glass-noodle-salad-q65547070-2.jpg",
+    "images/glass-noodle-salad-q65547070/glass-noodle-salad-q65547070-3.jpg",
+    "images/glass-noodle-salad-q65547070/glass-noodle-salad-q65547070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65547070",
+    "themealdb": null
+  }
+}

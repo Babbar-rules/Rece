@@ -1,0 +1,20 @@
+{
+  "id": "Q66330986",
+  "name": "guargüero",
+  "description": "Peruvian fried dessert",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guarguero-q66330986/guarguero-q66330986-1.jpg",
+    "images/guarguero-q66330986/guarguero-q66330986-2.jpg",
+    "images/guarguero-q66330986/guarguero-q66330986-3.jpg",
+    "images/guarguero-q66330986/guarguero-q66330986-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q66330986",
+    "themealdb": null
+  }
+}

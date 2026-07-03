@@ -1,0 +1,17 @@
+{
+  "id": "Q6748240",
+  "name": "mandu-gwa",
+  "description": "Korean dessert",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mandu-gwa-q6748240/mandu-gwa-q6748240-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6748240",
+    "themealdb": null
+  }
+}

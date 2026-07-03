@@ -1,0 +1,17 @@
+{
+  "id": "Q6658276",
+  "name": "livermush",
+  "description": "American pork and cornmeal dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/livermush-q6658276/livermush-q6658276-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6658276",
+    "themealdb": null
+  }
+}

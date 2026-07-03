@@ -1,0 +1,18 @@
+{
+  "id": "Q67187258",
+  "name": "smoked ham",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-ham-q67187258/smoked-ham-q67187258-1.jpg",
+    "images/smoked-ham-q67187258/smoked-ham-q67187258-2.jpg",
+    "images/smoked-ham-q67187258/smoked-ham-q67187258-3.jpg",
+    "images/smoked-ham-q67187258/smoked-ham-q67187258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q67187258",
+    "themealdb": null
+  }
+}

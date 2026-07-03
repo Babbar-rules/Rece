@@ -1,0 +1,18 @@
+{
+  "id": "Q65236098",
+  "name": "miso katsu ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-katsu-ramen-q65236098/miso-katsu-ramen-q65236098-1.jpg",
+    "images/miso-katsu-ramen-q65236098/miso-katsu-ramen-q65236098-2.jpg",
+    "images/miso-katsu-ramen-q65236098/miso-katsu-ramen-q65236098-3.jpg",
+    "images/miso-katsu-ramen-q65236098/miso-katsu-ramen-q65236098-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65236098",
+    "themealdb": null
+  }
+}
