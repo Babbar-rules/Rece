@@ -1,0 +1,20 @@
+{
+  "id": "Q2778993",
+  "name": "ocopa",
+  "description": "Peruvian food dish",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ocopa-q2778993/ocopa-q2778993-1.jpg",
+    "images/ocopa-q2778993/ocopa-q2778993-2.jpg",
+    "images/ocopa-q2778993/ocopa-q2778993-3.jpg",
+    "images/ocopa-q2778993/ocopa-q2778993-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2778993",
+    "themealdb": null
+  }
+}

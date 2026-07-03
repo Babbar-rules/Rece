@@ -1,0 +1,20 @@
+{
+  "id": "Q28017924",
+  "name": "myeongnan-jeot",
+  "description": "",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/myeongnan-jeot-q28017924/myeongnan-jeot-q28017924-1.jpg",
+    "images/myeongnan-jeot-q28017924/myeongnan-jeot-q28017924-2.jpg",
+    "images/myeongnan-jeot-q28017924/myeongnan-jeot-q28017924-3.jpg",
+    "images/myeongnan-jeot-q28017924/myeongnan-jeot-q28017924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28017924",
+    "themealdb": null
+  }
+}

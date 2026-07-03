@@ -1,0 +1,20 @@
+{
+  "id": "Q28057383",
+  "name": "cardinal slice",
+  "description": "layered meringue cake",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cardinal-slice-q28057383/cardinal-slice-q28057383-1.jpg",
+    "images/cardinal-slice-q28057383/cardinal-slice-q28057383-2.jpg",
+    "images/cardinal-slice-q28057383/cardinal-slice-q28057383-3.jpg",
+    "images/cardinal-slice-q28057383/cardinal-slice-q28057383-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28057383",
+    "themealdb": null
+  }
+}

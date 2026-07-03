@@ -1,0 +1,20 @@
+{
+  "id": "Q2752019",
+  "name": "česnica",
+  "description": "Serbian ceremonial, round loaf of bread",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cesnica-q2752019/cesnica-q2752019-1.jpg",
+    "images/cesnica-q2752019/cesnica-q2752019-2.jpg",
+    "images/cesnica-q2752019/cesnica-q2752019-3.jpg",
+    "images/cesnica-q2752019/cesnica-q2752019-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2752019",
+    "themealdb": null
+  }
+}

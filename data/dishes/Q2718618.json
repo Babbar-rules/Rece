@@ -1,0 +1,20 @@
+{
+  "id": "Q2718618",
+  "name": "kamameshi",
+  "description": "one-pot Japanese rice dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kamameshi-q2718618/kamameshi-q2718618-1.jpg",
+    "images/kamameshi-q2718618/kamameshi-q2718618-2.jpg",
+    "images/kamameshi-q2718618/kamameshi-q2718618-3.jpg",
+    "images/kamameshi-q2718618/kamameshi-q2718618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2718618",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2751128",
+  "name": "fougasse",
+  "description": "bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fougasse-q2751128/fougasse-q2751128-1.jpg",
+    "images/fougasse-q2751128/fougasse-q2751128-2.jpg",
+    "images/fougasse-q2751128/fougasse-q2751128-3.jpg",
+    "images/fougasse-q2751128/fougasse-q2751128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2751128",
+    "themealdb": null
+  }
+}

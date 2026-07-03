@@ -1,0 +1,22 @@
+{
+  "id": "Q2723965",
+  "name": "Dhansak",
+  "description": "Indian dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Parsi cuisine"
+  ],
+  "images": [
+    "images/dhansak-q2723965/dhansak-q2723965-1.jpg",
+    "images/dhansak-q2723965/dhansak-q2723965-2.jpg",
+    "images/dhansak-q2723965/dhansak-q2723965-3.jpg",
+    "images/dhansak-q2723965/dhansak-q2723965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2723965",
+    "themealdb": null
+  }
+}

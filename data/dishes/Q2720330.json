@@ -1,0 +1,20 @@
+{
+  "id": "Q2720330",
+  "name": "Korban Pesach",
+  "description": "The sacrifice that the Torah mandates the Israelites to ritually slaughter and eat on the first night of Pesach",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/korban-pesach-q2720330/korban-pesach-q2720330-1.jpg",
+    "images/korban-pesach-q2720330/korban-pesach-q2720330-2.jpg",
+    "images/korban-pesach-q2720330/korban-pesach-q2720330-3.jpg",
+    "images/korban-pesach-q2720330/korban-pesach-q2720330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2720330",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q27612968",
+  "name": "putra",
+  "description": "Latvian dish",
+  "nationality": [
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/putra-q27612968/putra-q27612968-1.jpg",
+    "images/putra-q27612968/putra-q27612968-2.jpg",
+    "images/putra-q27612968/putra-q27612968-3.jpg",
+    "images/putra-q27612968/putra-q27612968-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27612968",
+    "themealdb": null
+  }
+}

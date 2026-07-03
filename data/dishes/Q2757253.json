@@ -1,0 +1,18 @@
+{
+  "id": "Q2757253",
+  "name": "cream soup",
+  "description": "soup made with cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-soup-q2757253/cream-soup-q2757253-1.jpg",
+    "images/cream-soup-q2757253/cream-soup-q2757253-2.jpg",
+    "images/cream-soup-q2757253/cream-soup-q2757253-3.jpg",
+    "images/cream-soup-q2757253/cream-soup-q2757253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2757253",
+    "themealdb": null
+  }
+}

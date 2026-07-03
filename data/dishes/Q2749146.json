@@ -1,0 +1,20 @@
+{
+  "id": "Q2749146",
+  "name": "Karintō",
+  "description": "traditional Japanese snack food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/karinto-q2749146/karinto-q2749146-1.jpg",
+    "images/karinto-q2749146/karinto-q2749146-2.jpg",
+    "images/karinto-q2749146/karinto-q2749146-3.jpg",
+    "images/karinto-q2749146/karinto-q2749146-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2749146",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2700600",
+  "name": "amanattō",
+  "description": "Japanese traditional confectionery",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amanatto-q2700600/amanatto-q2700600-1.jpg",
+    "images/amanatto-q2700600/amanatto-q2700600-2.jpg",
+    "images/amanatto-q2700600/amanatto-q2700600-3.jpg",
+    "images/amanatto-q2700600/amanatto-q2700600-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2700600",
+    "themealdb": null
+  }
+}

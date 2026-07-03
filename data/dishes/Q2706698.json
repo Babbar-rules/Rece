@@ -1,0 +1,18 @@
+{
+  "id": "Q2706698",
+  "name": "chip butty",
+  "description": "sandwich made with French fries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chip-butty-q2706698/chip-butty-q2706698-1.jpg",
+    "images/chip-butty-q2706698/chip-butty-q2706698-2.jpg",
+    "images/chip-butty-q2706698/chip-butty-q2706698-3.jpg",
+    "images/chip-butty-q2706698/chip-butty-q2706698-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2706698",
+    "themealdb": null
+  }
+}

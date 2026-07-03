@@ -1,0 +1,20 @@
+{
+  "id": "Q2725639",
+  "name": "McChicken",
+  "description": "chicken sandwich sold by McDonald's",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mcchicken-q2725639/mcchicken-q2725639-1.jpg",
+    "images/mcchicken-q2725639/mcchicken-q2725639-2.png",
+    "images/mcchicken-q2725639/mcchicken-q2725639-3.jpg",
+    "images/mcchicken-q2725639/mcchicken-q2725639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2725639",
+    "themealdb": null
+  }
+}

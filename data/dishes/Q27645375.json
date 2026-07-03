@@ -1,0 +1,18 @@
+{
+  "id": "Q27645375",
+  "name": "sliced bread",
+  "description": "loaf of bread that has been pre-sliced with a machine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sliced-bread-q27645375/sliced-bread-q27645375-1.jpg",
+    "images/sliced-bread-q27645375/sliced-bread-q27645375-2.jpg",
+    "images/sliced-bread-q27645375/sliced-bread-q27645375-3.jpg",
+    "images/sliced-bread-q27645375/sliced-bread-q27645375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27645375",
+    "themealdb": null
+  }
+}

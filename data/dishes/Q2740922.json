@@ -1,0 +1,18 @@
+{
+  "id": "Q2740922",
+  "name": "Cougnou",
+  "description": "Bread baked during Christmas time",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cougnou-q2740922/cougnou-q2740922-1.jpg",
+    "images/cougnou-q2740922/cougnou-q2740922-2.jpg",
+    "images/cougnou-q2740922/cougnou-q2740922-3.jpg",
+    "images/cougnou-q2740922/cougnou-q2740922-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2740922",
+    "themealdb": null
+  }
+}

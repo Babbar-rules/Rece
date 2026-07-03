@@ -1,0 +1,18 @@
+{
+  "id": "Q2766289",
+  "name": "banana custard",
+  "description": "vanilla custard with banana extract or mashed banana",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-custard-q2766289/banana-custard-q2766289-1.jpg",
+    "images/banana-custard-q2766289/banana-custard-q2766289-2.jpg",
+    "images/banana-custard-q2766289/banana-custard-q2766289-3.jpg",
+    "images/banana-custard-q2766289/banana-custard-q2766289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2766289",
+    "themealdb": null
+  }
+}

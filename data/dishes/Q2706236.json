@@ -1,0 +1,20 @@
+{
+  "id": "Q2706236",
+  "name": "natillas",
+  "description": "custard dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/natillas-q2706236/natillas-q2706236-1.jpg",
+    "images/natillas-q2706236/natillas-q2706236-2.jpg",
+    "images/natillas-q2706236/natillas-q2706236-3.jpg",
+    "images/natillas-q2706236/natillas-q2706236-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2706236",
+    "themealdb": null
+  }
+}

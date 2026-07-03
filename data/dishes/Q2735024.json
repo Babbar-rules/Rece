@@ -1,0 +1,25 @@
+{
+  "id": "Q2735024",
+  "name": "anticucho",
+  "description": "popular and inexpensive dish that originated in the Andean region",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [
+    "Bolivian cuisine",
+    "Chilean cuisine",
+    "Peruvian cuisine",
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/anticucho-q2735024/anticucho-q2735024-1.jpg",
+    "images/anticucho-q2735024/anticucho-q2735024-2.jpg",
+    "images/anticucho-q2735024/anticucho-q2735024-3.jpg",
+    "images/anticucho-q2735024/anticucho-q2735024-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2735024",
+    "themealdb": null
+  }
+}

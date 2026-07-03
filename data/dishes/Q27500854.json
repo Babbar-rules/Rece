@@ -1,0 +1,22 @@
+{
+  "id": "Q27500854",
+  "name": "Peruvian ceviche",
+  "description": "traditional dish widely eaten in Peru",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [
+    "Peruvian cuisine"
+  ],
+  "images": [
+    "images/peruvian-ceviche-q27500854/peruvian-ceviche-q27500854-1.jpg",
+    "images/peruvian-ceviche-q27500854/peruvian-ceviche-q27500854-2.jpg",
+    "images/peruvian-ceviche-q27500854/peruvian-ceviche-q27500854-3.jpg",
+    "images/peruvian-ceviche-q27500854/peruvian-ceviche-q27500854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27500854",
+    "themealdb": null
+  }
+}

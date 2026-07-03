@@ -1,0 +1,20 @@
+{
+  "id": "Q2779348",
+  "name": "kerststol",
+  "description": "Dutch oval-shaped fruited Christmas bread",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kerststol-q2779348/kerststol-q2779348-1.jpg",
+    "images/kerststol-q2779348/kerststol-q2779348-2.jpg",
+    "images/kerststol-q2779348/kerststol-q2779348-3.jpg",
+    "images/kerststol-q2779348/kerststol-q2779348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2779348",
+    "themealdb": null
+  }
+}

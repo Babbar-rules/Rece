@@ -1,0 +1,18 @@
+{
+  "id": "Q27554971",
+  "name": "short macaroni products",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/short-macaroni-products-q27554971/short-macaroni-products-q27554971-1.jpg",
+    "images/short-macaroni-products-q27554971/short-macaroni-products-q27554971-2.jpg",
+    "images/short-macaroni-products-q27554971/short-macaroni-products-q27554971-3.jpg",
+    "images/short-macaroni-products-q27554971/short-macaroni-products-q27554971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27554971",
+    "themealdb": null
+  }
+}

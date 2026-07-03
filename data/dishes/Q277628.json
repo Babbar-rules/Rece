@@ -1,0 +1,18 @@
+{
+  "id": "Q277628",
+  "name": "dark chocolate",
+  "description": "chocolate with high cocoa percentages",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dark-chocolate-q277628/dark-chocolate-q277628-1.jpg",
+    "images/dark-chocolate-q277628/dark-chocolate-q277628-2.jpg",
+    "images/dark-chocolate-q277628/dark-chocolate-q277628-3.jpg",
+    "images/dark-chocolate-q277628/dark-chocolate-q277628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q277628",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q27960436",
+  "name": "Eucalyptus honey",
+  "description": "type of honey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eucalyptus-honey-q27960436/eucalyptus-honey-q27960436-1.jpg",
+    "images/eucalyptus-honey-q27960436/eucalyptus-honey-q27960436-2.jpg",
+    "images/eucalyptus-honey-q27960436/eucalyptus-honey-q27960436-3.jpg",
+    "images/eucalyptus-honey-q27960436/eucalyptus-honey-q27960436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27960436",
+    "themealdb": null
+  }
+}

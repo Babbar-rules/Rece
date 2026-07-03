@@ -1,0 +1,18 @@
+{
+  "id": "Q27572221",
+  "name": "durum wheat pasta",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/durum-wheat-pasta-q27572221/durum-wheat-pasta-q27572221-1.jpg",
+    "images/durum-wheat-pasta-q27572221/durum-wheat-pasta-q27572221-2.jpg",
+    "images/durum-wheat-pasta-q27572221/durum-wheat-pasta-q27572221-3.jpg",
+    "images/durum-wheat-pasta-q27572221/durum-wheat-pasta-q27572221-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27572221",
+    "themealdb": null
+  }
+}

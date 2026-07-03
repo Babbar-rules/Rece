@@ -1,0 +1,18 @@
+{
+  "id": "Q270997",
+  "name": "rum ball",
+  "description": "truffle-like confection of cookie butter flavored with chocolate and rum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rum-ball-q270997/rum-ball-q270997-1.jpg",
+    "images/rum-ball-q270997/rum-ball-q270997-2.jpg",
+    "images/rum-ball-q270997/rum-ball-q270997-3.jpg",
+    "images/rum-ball-q270997/rum-ball-q270997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q270997",
+    "themealdb": null
+  }
+}

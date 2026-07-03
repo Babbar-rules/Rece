@@ -1,0 +1,18 @@
+{
+  "id": "Q27643555",
+  "name": "fruit preserved by sugar",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-preserved-by-sugar-q27643555/fruit-preserved-by-sugar-q27643555-1.jpg",
+    "images/fruit-preserved-by-sugar-q27643555/fruit-preserved-by-sugar-q27643555-2.jpg",
+    "images/fruit-preserved-by-sugar-q27643555/fruit-preserved-by-sugar-q27643555-3.jpg",
+    "images/fruit-preserved-by-sugar-q27643555/fruit-preserved-by-sugar-q27643555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27643555",
+    "themealdb": null
+  }
+}

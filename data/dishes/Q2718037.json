@@ -1,0 +1,20 @@
+{
+  "id": "Q2718037",
+  "name": "Navarin",
+  "description": "French lamb or mutton stew",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/navarin-q2718037/navarin-q2718037-1.jpg",
+    "images/navarin-q2718037/navarin-q2718037-2.jpg",
+    "images/navarin-q2718037/navarin-q2718037-3.jpg",
+    "images/navarin-q2718037/navarin-q2718037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2718037",
+    "themealdb": null
+  }
+}

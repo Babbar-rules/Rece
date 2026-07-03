@@ -1,0 +1,20 @@
+{
+  "id": "Q2723706",
+  "name": "Pongal",
+  "description": "popular rice dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pongal-q2723706/pongal-q2723706-1.jpg",
+    "images/pongal-q2723706/pongal-q2723706-2.jpg",
+    "images/pongal-q2723706/pongal-q2723706-3.jpg",
+    "images/pongal-q2723706/pongal-q2723706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2723706",
+    "themealdb": null
+  }
+}

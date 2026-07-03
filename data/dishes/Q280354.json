@@ -1,0 +1,21 @@
+{
+  "id": "Q280354",
+  "name": "Semmelknödel",
+  "description": "food",
+  "nationality": [
+    "Italy",
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/semmelknodel-q280354/semmelknodel-q280354-1.jpg",
+    "images/semmelknodel-q280354/semmelknodel-q280354-2.jpg",
+    "images/semmelknodel-q280354/semmelknodel-q280354-3.jpg",
+    "images/semmelknodel-q280354/semmelknodel-q280354-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q280354",
+    "themealdb": null
+  }
+}

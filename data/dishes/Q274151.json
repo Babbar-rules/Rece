@@ -1,0 +1,18 @@
+{
+  "id": "Q274151",
+  "name": "fried egg",
+  "description": "fresh eggs fried whole with minimal accompaniment",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-egg-q274151/fried-egg-q274151-1.jpg",
+    "images/fried-egg-q274151/fried-egg-q274151-2.jpg",
+    "images/fried-egg-q274151/fried-egg-q274151-3.jpg",
+    "images/fried-egg-q274151/fried-egg-q274151-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q274151",
+    "themealdb": null
+  }
+}

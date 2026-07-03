@@ -1,0 +1,20 @@
+{
+  "id": "Q27958662",
+  "name": "Prdelačka",
+  "description": "Czech pork blood soup made during the pig slaughter season",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prdelacka-q27958662/prdelacka-q27958662-1.jpg",
+    "images/prdelacka-q27958662/prdelacka-q27958662-2.jpg",
+    "images/prdelacka-q27958662/prdelacka-q27958662-3.jpg",
+    "images/prdelacka-q27958662/prdelacka-q27958662-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27958662",
+    "themealdb": null
+  }
+}

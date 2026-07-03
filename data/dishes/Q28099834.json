@@ -1,0 +1,20 @@
+{
+  "id": "Q28099834",
+  "name": "Indian curry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/indian-curry-q28099834/indian-curry-q28099834-1.jpg",
+    "images/indian-curry-q28099834/indian-curry-q28099834-2.jpg",
+    "images/indian-curry-q28099834/indian-curry-q28099834-3.jpg",
+    "images/indian-curry-q28099834/indian-curry-q28099834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28099834",
+    "themealdb": null
+  }
+}

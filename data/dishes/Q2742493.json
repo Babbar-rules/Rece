@@ -1,0 +1,20 @@
+{
+  "id": "Q2742493",
+  "name": "Bonda",
+  "description": "Indian Food",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bonda-q2742493/bonda-q2742493-1.jpg",
+    "images/bonda-q2742493/bonda-q2742493-2.jpg",
+    "images/bonda-q2742493/bonda-q2742493-3.jpg",
+    "images/bonda-q2742493/bonda-q2742493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2742493",
+    "themealdb": null
+  }
+}

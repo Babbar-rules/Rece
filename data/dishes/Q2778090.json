@@ -1,0 +1,20 @@
+{
+  "id": "Q2778090",
+  "name": "Koulourakia",
+  "description": "Greek Easter cookie",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koulourakia-q2778090/koulourakia-q2778090-1.jpg",
+    "images/koulourakia-q2778090/koulourakia-q2778090-2.jpg",
+    "images/koulourakia-q2778090/koulourakia-q2778090-3.jpg",
+    "images/koulourakia-q2778090/koulourakia-q2778090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2778090",
+    "themealdb": null
+  }
+}

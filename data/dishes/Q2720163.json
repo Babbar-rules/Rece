@@ -1,0 +1,20 @@
+{
+  "id": "Q2720163",
+  "name": "pan de muerto",
+  "description": "type of sweet roll traditionally baked in Mexico during the weeks leading up to the Día de Muertos",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-de-muerto-q2720163/pan-de-muerto-q2720163-1.jpg",
+    "images/pan-de-muerto-q2720163/pan-de-muerto-q2720163-2.jpg",
+    "images/pan-de-muerto-q2720163/pan-de-muerto-q2720163-3.jpg",
+    "images/pan-de-muerto-q2720163/pan-de-muerto-q2720163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2720163",
+    "themealdb": null
+  }
+}

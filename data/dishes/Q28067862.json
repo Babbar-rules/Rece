@@ -1,0 +1,18 @@
+{
+  "id": "Q28067862",
+  "name": "Piyorin",
+  "description": "Chick-shaped cake sold in Nagoya, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/piyorin-q28067862/piyorin-q28067862-1.jpg",
+    "images/piyorin-q28067862/piyorin-q28067862-2.jpg",
+    "images/piyorin-q28067862/piyorin-q28067862-3.jpg",
+    "images/piyorin-q28067862/piyorin-q28067862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28067862",
+    "themealdb": null
+  }
+}

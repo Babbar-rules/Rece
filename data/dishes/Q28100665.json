@@ -1,0 +1,18 @@
+{
+  "id": "Q28100665",
+  "name": "veal dish",
+  "description": "food preparation based on veal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veal-dish-q28100665/veal-dish-q28100665-1.jpg",
+    "images/veal-dish-q28100665/veal-dish-q28100665-2.jpg",
+    "images/veal-dish-q28100665/veal-dish-q28100665-3.jpg",
+    "images/veal-dish-q28100665/veal-dish-q28100665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100665",
+    "themealdb": null
+  }
+}

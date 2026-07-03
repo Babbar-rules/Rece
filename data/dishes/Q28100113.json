@@ -1,0 +1,18 @@
+{
+  "id": "Q28100113",
+  "name": "tuna dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tuna-dish-q28100113/tuna-dish-q28100113-1.jpg",
+    "images/tuna-dish-q28100113/tuna-dish-q28100113-2.jpg",
+    "images/tuna-dish-q28100113/tuna-dish-q28100113-3.jpg",
+    "images/tuna-dish-q28100113/tuna-dish-q28100113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100113",
+    "themealdb": null
+  }
+}

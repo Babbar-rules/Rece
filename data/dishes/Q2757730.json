@@ -1,0 +1,20 @@
+{
+  "id": "Q2757730",
+  "name": "namasu",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/namasu-q2757730/namasu-q2757730-1.jpg",
+    "images/namasu-q2757730/namasu-q2757730-2.jpg",
+    "images/namasu-q2757730/namasu-q2757730-3.jpg",
+    "images/namasu-q2757730/namasu-q2757730-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2757730",
+    "themealdb": null
+  }
+}

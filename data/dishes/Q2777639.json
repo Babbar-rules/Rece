@@ -1,0 +1,20 @@
+{
+  "id": "Q2777639",
+  "name": "Mofletta",
+  "description": "Maghrebi Jewish pancake",
+  "nationality": [
+    "North Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mofletta-q2777639/mofletta-q2777639-1.jpg",
+    "images/mofletta-q2777639/mofletta-q2777639-2.jpg",
+    "images/mofletta-q2777639/mofletta-q2777639-3.jpg",
+    "images/mofletta-q2777639/mofletta-q2777639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2777639",
+    "themealdb": null
+  }
+}

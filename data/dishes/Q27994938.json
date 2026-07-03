@@ -1,0 +1,18 @@
+{
+  "id": "Q27994938",
+  "name": "cabbage dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabbage-dish-q27994938/cabbage-dish-q27994938-1.jpg",
+    "images/cabbage-dish-q27994938/cabbage-dish-q27994938-2.jpg",
+    "images/cabbage-dish-q27994938/cabbage-dish-q27994938-3.jpg",
+    "images/cabbage-dish-q27994938/cabbage-dish-q27994938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27994938",
+    "themealdb": null
+  }
+}

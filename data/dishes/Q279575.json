@@ -1,0 +1,20 @@
+{
+  "id": "Q279575",
+  "name": "khachapuri",
+  "description": "traditional Georgian dish of cheese-filled bread",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khachapuri-q279575/khachapuri-q279575-1.jpg",
+    "images/khachapuri-q279575/khachapuri-q279575-2.jpg",
+    "images/khachapuri-q279575/khachapuri-q279575-3.jpg",
+    "images/khachapuri-q279575/khachapuri-q279575-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q279575",
+    "themealdb": null
+  }
+}

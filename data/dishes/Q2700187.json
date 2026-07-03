@@ -1,0 +1,18 @@
+{
+  "id": "Q2700187",
+  "name": "Cup-a-Soup",
+  "description": "Instant soup product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cup-a-soup-q2700187/cup-a-soup-q2700187-1.jpg",
+    "images/cup-a-soup-q2700187/cup-a-soup-q2700187-2.jpg",
+    "images/cup-a-soup-q2700187/cup-a-soup-q2700187-3.jpg",
+    "images/cup-a-soup-q2700187/cup-a-soup-q2700187-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2700187",
+    "themealdb": null
+  }
+}

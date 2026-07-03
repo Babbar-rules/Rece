@@ -1,0 +1,18 @@
+{
+  "id": "Q2739210",
+  "name": "Thirteen desserts",
+  "description": "traditional Christmas of Provence.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/thirteen-desserts-q2739210/thirteen-desserts-q2739210-1.jpg",
+    "images/thirteen-desserts-q2739210/thirteen-desserts-q2739210-2.jpg",
+    "images/thirteen-desserts-q2739210/thirteen-desserts-q2739210-3.jpg",
+    "images/thirteen-desserts-q2739210/thirteen-desserts-q2739210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2739210",
+    "themealdb": null
+  }
+}

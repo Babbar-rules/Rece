@@ -1,0 +1,20 @@
+{
+  "id": "Q2740122",
+  "name": "lebkuchen",
+  "description": "honey-sweetened German cookie",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lebkuchen-q2740122/lebkuchen-q2740122-1.jpg",
+    "images/lebkuchen-q2740122/lebkuchen-q2740122-2.jpg",
+    "images/lebkuchen-q2740122/lebkuchen-q2740122-3.jpg",
+    "images/lebkuchen-q2740122/lebkuchen-q2740122-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2740122",
+    "themealdb": null
+  }
+}

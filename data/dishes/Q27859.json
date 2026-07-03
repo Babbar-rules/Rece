@@ -1,0 +1,22 @@
+{
+  "id": "Q27859",
+  "name": "Indomie",
+  "description": "instant noodles product line",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "noodle"
+  ],
+  "images": [
+    "images/indomie-q27859/indomie-q27859-1.jpg",
+    "images/indomie-q27859/indomie-q27859-2.jpg",
+    "images/indomie-q27859/indomie-q27859-3.jpg",
+    "images/indomie-q27859/indomie-q27859-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27859",
+    "themealdb": null
+  }
+}

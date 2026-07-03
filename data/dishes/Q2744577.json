@@ -1,0 +1,18 @@
+{
+  "id": "Q2744577",
+  "name": "koliva",
+  "description": "ritual food in the Eastern Orthodox Church",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/koliva-q2744577/koliva-q2744577-1.jpg",
+    "images/koliva-q2744577/koliva-q2744577-2.jpg",
+    "images/koliva-q2744577/koliva-q2744577-3.jpg",
+    "images/koliva-q2744577/koliva-q2744577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2744577",
+    "themealdb": null
+  }
+}

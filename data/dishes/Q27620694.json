@@ -1,0 +1,20 @@
+{
+  "id": "Q27620694",
+  "name": "Koshinoyuki",
+  "description": "candy shop in Nagaoka, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koshinoyuki-q27620694/koshinoyuki-q27620694-1.jpg",
+    "images/koshinoyuki-q27620694/koshinoyuki-q27620694-2.jpg",
+    "images/koshinoyuki-q27620694/koshinoyuki-q27620694-3.jpg",
+    "images/koshinoyuki-q27620694/koshinoyuki-q27620694-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27620694",
+    "themealdb": null
+  }
+}

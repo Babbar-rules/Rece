@@ -1,0 +1,22 @@
+{
+  "id": "Q27963899",
+  "name": "Pecel Pitik",
+  "description": "chicken rice dish from Indonesian",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pecel-pitik-q27963899/pecel-pitik-q27963899-1.jpg",
+    "images/pecel-pitik-q27963899/pecel-pitik-q27963899-2.jpg",
+    "images/pecel-pitik-q27963899/pecel-pitik-q27963899-3.jpg",
+    "images/pecel-pitik-q27963899/pecel-pitik-q27963899-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27963899",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q27994927",
+  "name": "Yogurt-based dishes",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yogurt-based-dishes-q27994927/yogurt-based-dishes-q27994927-1.jpg",
+    "images/yogurt-based-dishes-q27994927/yogurt-based-dishes-q27994927-2.jpg",
+    "images/yogurt-based-dishes-q27994927/yogurt-based-dishes-q27994927-3.jpg",
+    "images/yogurt-based-dishes-q27994927/yogurt-based-dishes-q27994927-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27994927",
+    "themealdb": null
+  }
+}

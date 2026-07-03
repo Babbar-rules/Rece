@@ -1,0 +1,44 @@
+{
+  "id": "Q2713498",
+  "name": "choripán",
+  "description": "type of South American sandwich",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Pork"
+  ],
+  "images": [
+    "images/choripan-q2713498/choripan-q2713498-1.jpg",
+    "images/choripan-q2713498/choripan-q2713498-2.jpg",
+    "images/choripan-q2713498/choripan-q2713498-3.jpg",
+    "images/choripan-q2713498/choripan-q2713498-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53136",
+    "category": "Pork",
+    "area": "Argentina",
+    "instructions": "Grill the Chorizos: Cook the chorizos on a grill or pan until fully cooked, about 10-15 minutes.\r\nPrepare the Rolls: Slice the rolls and toast them lightly on the grill or in a pan.\r\nAssemble: Slice each chorizo lengthwise and place in a roll. Top with a generous amount of chimichurri sauce.\r\nServe: Enjoy immediately while hot.\r\nPro Tips:\r\n\r\nGrill the chorizo slowly on medium heat to prevent the skin from bursting and to ensure it cooks evenly throughout.\r\nToast the bread on the grill to absorb some of the chorizo's flavors.",
+    "ingredients": [
+      {
+        "ingredient": "Chorizo",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Crusty Bread",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Chimichurri sauce",
+        "measure": "Drizzle"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=FNrU5mQKFOE",
+    "thumb": "https://www.themealdb.com/images/media/meals/5i25sg1763075353.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2713498",
+    "themealdb": "53136"
+  }
+}

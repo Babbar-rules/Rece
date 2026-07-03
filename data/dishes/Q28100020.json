@@ -1,0 +1,18 @@
+{
+  "id": "Q28100020",
+  "name": "pork dish",
+  "description": "food preparation based on pork",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-dish-q28100020/pork-dish-q28100020-1.jpg",
+    "images/pork-dish-q28100020/pork-dish-q28100020-2.jpg",
+    "images/pork-dish-q28100020/pork-dish-q28100020-3.jpg",
+    "images/pork-dish-q28100020/pork-dish-q28100020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100020",
+    "themealdb": null
+  }
+}

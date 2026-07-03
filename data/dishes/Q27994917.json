@@ -1,0 +1,18 @@
+{
+  "id": "Q27994917",
+  "name": "chicken dish",
+  "description": "food preparation based on chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-dish-q27994917/chicken-dish-q27994917-1.jpg",
+    "images/chicken-dish-q27994917/chicken-dish-q27994917-2.jpg",
+    "images/chicken-dish-q27994917/chicken-dish-q27994917-3.jpg",
+    "images/chicken-dish-q27994917/chicken-dish-q27994917-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27994917",
+    "themealdb": null
+  }
+}

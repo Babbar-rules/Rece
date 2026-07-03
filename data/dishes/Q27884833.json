@@ -1,0 +1,17 @@
+{
+  "id": "Q27884833",
+  "name": "gingerbread confectionary",
+  "description": "food like Russian pryaniki and kovrizhki",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gingerbread-confectionary-q27884833/gingerbread-confectionary-q27884833-1.jpg",
+    "images/gingerbread-confectionary-q27884833/gingerbread-confectionary-q27884833-2.jpg",
+    "images/gingerbread-confectionary-q27884833/gingerbread-confectionary-q27884833-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27884833",
+    "themealdb": null
+  }
+}

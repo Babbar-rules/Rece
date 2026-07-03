@@ -1,0 +1,20 @@
+{
+  "id": "Q2705946",
+  "name": "Filet-O-Fish",
+  "description": "fish sandwich from McDonald's",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/filet-o-fish-q2705946/filet-o-fish-q2705946-1.jpg",
+    "images/filet-o-fish-q2705946/filet-o-fish-q2705946-2.png",
+    "images/filet-o-fish-q2705946/filet-o-fish-q2705946-3.jpg",
+    "images/filet-o-fish-q2705946/filet-o-fish-q2705946-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2705946",
+    "themealdb": null
+  }
+}

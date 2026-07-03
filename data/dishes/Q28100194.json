@@ -1,0 +1,18 @@
+{
+  "id": "Q28100194",
+  "name": "egg dish",
+  "description": "food preparation based on eggs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-dish-q28100194/egg-dish-q28100194-1.jpg",
+    "images/egg-dish-q28100194/egg-dish-q28100194-2.jpg",
+    "images/egg-dish-q28100194/egg-dish-q28100194-3.jpg",
+    "images/egg-dish-q28100194/egg-dish-q28100194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100194",
+    "themealdb": null
+  }
+}

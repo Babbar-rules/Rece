@@ -1,0 +1,17 @@
+{
+  "id": "Q27576302",
+  "name": "gesztenyepüré",
+  "description": "chestnut dessert",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gesztenyepure-q27576302/gesztenyepure-q27576302-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27576302",
+    "themealdb": null
+  }
+}

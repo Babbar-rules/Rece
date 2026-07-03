@@ -1,0 +1,22 @@
+{
+  "id": "Q275540",
+  "name": "rich tea",
+  "description": "type of sweet biscuit",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/rich-tea-q275540/rich-tea-q275540-1.jpg",
+    "images/rich-tea-q275540/rich-tea-q275540-2.jpg",
+    "images/rich-tea-q275540/rich-tea-q275540-3.jpg",
+    "images/rich-tea-q275540/rich-tea-q275540-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q275540",
+    "themealdb": null
+  }
+}

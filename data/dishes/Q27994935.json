@@ -1,0 +1,18 @@
+{
+  "id": "Q27994935",
+  "name": "bread dish",
+  "description": "food preparation based on bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-dish-q27994935/bread-dish-q27994935-1.jpg",
+    "images/bread-dish-q27994935/bread-dish-q27994935-2.jpg",
+    "images/bread-dish-q27994935/bread-dish-q27994935-3.jpg",
+    "images/bread-dish-q27994935/bread-dish-q27994935-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27994935",
+    "themealdb": null
+  }
+}

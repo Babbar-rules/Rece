@@ -1,0 +1,20 @@
+{
+  "id": "Q27961089",
+  "name": "pasticcio di maccheroni",
+  "description": "Italian macaroni pie",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasticcio-di-maccheroni-q27961089/pasticcio-di-maccheroni-q27961089-1.jpg",
+    "images/pasticcio-di-maccheroni-q27961089/pasticcio-di-maccheroni-q27961089-2.jpg",
+    "images/pasticcio-di-maccheroni-q27961089/pasticcio-di-maccheroni-q27961089-3.jpg",
+    "images/pasticcio-di-maccheroni-q27961089/pasticcio-di-maccheroni-q27961089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27961089",
+    "themealdb": null
+  }
+}

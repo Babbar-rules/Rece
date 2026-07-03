@@ -1,0 +1,20 @@
+{
+  "id": "Q2746948",
+  "name": "Oreilles de crisse",
+  "description": "quebec dish (food)",
+  "nationality": [
+    "Quebec"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oreilles-de-crisse-q2746948/oreilles-de-crisse-q2746948-1.jpg",
+    "images/oreilles-de-crisse-q2746948/oreilles-de-crisse-q2746948-2.jpg",
+    "images/oreilles-de-crisse-q2746948/oreilles-de-crisse-q2746948-3.jpg",
+    "images/oreilles-de-crisse-q2746948/oreilles-de-crisse-q2746948-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2746948",
+    "themealdb": null
+  }
+}

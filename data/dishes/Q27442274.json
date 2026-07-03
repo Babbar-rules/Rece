@@ -1,0 +1,18 @@
+{
+  "id": "Q27442274",
+  "name": "Countess (shortbread)",
+  "description": "Guianan shortbread cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/countess-shortbread-q27442274/countess-shortbread-q27442274-1.jpg",
+    "images/countess-shortbread-q27442274/countess-shortbread-q27442274-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27442274",
+    "themealdb": null
+  }
+}

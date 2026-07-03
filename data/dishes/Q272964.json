@@ -1,0 +1,18 @@
+{
+  "id": "Q272964",
+  "name": "çäkçäk",
+  "description": "deep-fried sweet dough",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cakcak-q272964/cakcak-q272964-1.jpg",
+    "images/cakcak-q272964/cakcak-q272964-2.jpg",
+    "images/cakcak-q272964/cakcak-q272964-3.jpg",
+    "images/cakcak-q272964/cakcak-q272964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q272964",
+    "themealdb": null
+  }
+}

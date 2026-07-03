@@ -1,0 +1,17 @@
+{
+  "id": "Q27962923",
+  "name": "Taktouka",
+  "description": "a dish similar to Shakshuka, without the eggs",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [
+    "Moroccan cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27962923",
+    "themealdb": null
+  }
+}

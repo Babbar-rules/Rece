@@ -1,0 +1,20 @@
+{
+  "id": "Q2712621",
+  "name": "hōtō",
+  "description": "Japanese soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hoto-q2712621/hoto-q2712621-1.jpg",
+    "images/hoto-q2712621/hoto-q2712621-2.jpg",
+    "images/hoto-q2712621/hoto-q2712621-3.jpg",
+    "images/hoto-q2712621/hoto-q2712621-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2712621",
+    "themealdb": null
+  }
+}

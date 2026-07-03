@@ -1,0 +1,18 @@
+{
+  "id": "Q27994930",
+  "name": "banana dish",
+  "description": "dish prepared with bananas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-dish-q27994930/banana-dish-q27994930-1.jpg",
+    "images/banana-dish-q27994930/banana-dish-q27994930-2.jpg",
+    "images/banana-dish-q27994930/banana-dish-q27994930-3.jpg",
+    "images/banana-dish-q27994930/banana-dish-q27994930-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27994930",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2785975",
+  "name": "dagobert",
+  "description": "sandwich from Belgium",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dagobert-q2785975/dagobert-q2785975-1.jpg",
+    "images/dagobert-q2785975/dagobert-q2785975-2.png",
+    "images/dagobert-q2785975/dagobert-q2785975-3.jpg",
+    "images/dagobert-q2785975/dagobert-q2785975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2785975",
+    "themealdb": null
+  }
+}

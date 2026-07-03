@@ -1,0 +1,20 @@
+{
+  "id": "Q2721957",
+  "name": "Khaja",
+  "description": "Indian pastry",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khaja-q2721957/khaja-q2721957-1.jpg",
+    "images/khaja-q2721957/khaja-q2721957-2.jpg",
+    "images/khaja-q2721957/khaja-q2721957-3.jpg",
+    "images/khaja-q2721957/khaja-q2721957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2721957",
+    "themealdb": null
+  }
+}

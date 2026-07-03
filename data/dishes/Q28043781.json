@@ -1,0 +1,18 @@
+{
+  "id": "Q28043781",
+  "name": "jumbo slice",
+  "description": "Variety of pizza made popular in Washington, D.C. and New York City",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jumbo-slice-q28043781/jumbo-slice-q28043781-1.jpg",
+    "images/jumbo-slice-q28043781/jumbo-slice-q28043781-2.jpg",
+    "images/jumbo-slice-q28043781/jumbo-slice-q28043781-3.jpg",
+    "images/jumbo-slice-q28043781/jumbo-slice-q28043781-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28043781",
+    "themealdb": null
+  }
+}

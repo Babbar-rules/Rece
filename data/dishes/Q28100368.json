@@ -1,0 +1,18 @@
+{
+  "id": "Q28100368",
+  "name": "beef dish",
+  "description": "food preparation based on beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-dish-q28100368/beef-dish-q28100368-1.jpg",
+    "images/beef-dish-q28100368/beef-dish-q28100368-2.jpg",
+    "images/beef-dish-q28100368/beef-dish-q28100368-3.jpg",
+    "images/beef-dish-q28100368/beef-dish-q28100368-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100368",
+    "themealdb": null
+  }
+}

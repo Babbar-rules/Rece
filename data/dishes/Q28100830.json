@@ -1,0 +1,18 @@
+{
+  "id": "Q28100830",
+  "name": "goat meat dish",
+  "description": "culinary dish prepared primarily with goat meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-meat-dish-q28100830/goat-meat-dish-q28100830-1.jpg",
+    "images/goat-meat-dish-q28100830/goat-meat-dish-q28100830-2.jpg",
+    "images/goat-meat-dish-q28100830/goat-meat-dish-q28100830-3.jpg",
+    "images/goat-meat-dish-q28100830/goat-meat-dish-q28100830-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28100830",
+    "themealdb": null
+  }
+}

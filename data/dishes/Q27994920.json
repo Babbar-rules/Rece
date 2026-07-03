@@ -1,0 +1,18 @@
+{
+  "id": "Q27994920",
+  "name": "duck dish",
+  "description": "dish containing duck meat as a principal ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/duck-dish-q27994920/duck-dish-q27994920-1.jpg",
+    "images/duck-dish-q27994920/duck-dish-q27994920-2.jpg",
+    "images/duck-dish-q27994920/duck-dish-q27994920-3.jpg",
+    "images/duck-dish-q27994920/duck-dish-q27994920-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27994920",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q275273",
+  "name": "loimukala",
+  "description": "Finnish fish dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/loimukala-q275273/loimukala-q275273-1.jpg",
+    "images/loimukala-q275273/loimukala-q275273-2.jpg",
+    "images/loimukala-q275273/loimukala-q275273-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q275273",
+    "themealdb": null
+  }
+}

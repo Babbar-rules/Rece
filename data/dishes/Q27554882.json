@@ -1,0 +1,18 @@
+{
+  "id": "Q27554882",
+  "name": "long macaroni products",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/long-macaroni-products-q27554882/long-macaroni-products-q27554882-1.jpg",
+    "images/long-macaroni-products-q27554882/long-macaroni-products-q27554882-2.jpg",
+    "images/long-macaroni-products-q27554882/long-macaroni-products-q27554882-3.jpg",
+    "images/long-macaroni-products-q27554882/long-macaroni-products-q27554882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27554882",
+    "themealdb": null
+  }
+}

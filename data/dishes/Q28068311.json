@@ -1,0 +1,20 @@
+{
+  "id": "Q28068311",
+  "name": "funamori",
+  "description": "sashimi on a boat-like platform",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/funamori-q28068311/funamori-q28068311-1.jpg",
+    "images/funamori-q28068311/funamori-q28068311-2.jpg",
+    "images/funamori-q28068311/funamori-q28068311-3.jpg",
+    "images/funamori-q28068311/funamori-q28068311-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28068311",
+    "themealdb": null
+  }
+}

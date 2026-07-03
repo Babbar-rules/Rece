@@ -1,0 +1,20 @@
+{
+  "id": "Q2798667",
+  "name": "claypot rice",
+  "description": "Asian rice dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/claypot-rice-q2798667/claypot-rice-q2798667-1.jpg",
+    "images/claypot-rice-q2798667/claypot-rice-q2798667-2.jpg",
+    "images/claypot-rice-q2798667/claypot-rice-q2798667-3.jpg",
+    "images/claypot-rice-q2798667/claypot-rice-q2798667-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2798667",
+    "themealdb": null
+  }
+}

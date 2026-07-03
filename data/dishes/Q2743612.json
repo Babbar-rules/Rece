@@ -1,0 +1,18 @@
+{
+  "id": "Q2743612",
+  "name": "Big N' Tasty",
+  "description": "hamburger sold by McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-n-tasty-q2743612/big-n-tasty-q2743612-1.jpg",
+    "images/big-n-tasty-q2743612/big-n-tasty-q2743612-2.jpg",
+    "images/big-n-tasty-q2743612/big-n-tasty-q2743612-3.jpg",
+    "images/big-n-tasty-q2743612/big-n-tasty-q2743612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2743612",
+    "themealdb": null
+  }
+}

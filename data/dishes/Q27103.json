@@ -1,0 +1,20 @@
+{
+  "id": "Q27103",
+  "name": "hangwa",
+  "description": "traditional Korean confectionery",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hangwa-q27103/hangwa-q27103-1.jpg",
+    "images/hangwa-q27103/hangwa-q27103-2.jpg",
+    "images/hangwa-q27103/hangwa-q27103-3.jpg",
+    "images/hangwa-q27103/hangwa-q27103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27103",
+    "themealdb": null
+  }
+}

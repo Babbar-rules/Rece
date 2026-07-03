@@ -1,0 +1,20 @@
+{
+  "id": "Q2782605",
+  "name": "pistolet",
+  "description": "Belgian round bun",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pistolet-q2782605/pistolet-q2782605-1.jpg",
+    "images/pistolet-q2782605/pistolet-q2782605-2.jpg",
+    "images/pistolet-q2782605/pistolet-q2782605-3.jpg",
+    "images/pistolet-q2782605/pistolet-q2782605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2782605",
+    "themealdb": null
+  }
+}

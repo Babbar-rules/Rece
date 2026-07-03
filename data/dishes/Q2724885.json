@@ -1,0 +1,20 @@
+{
+  "id": "Q2724885",
+  "name": "Aligot",
+  "description": "culinary preparation with a very elastic texture that mixes a particular cheese (Tomme d'Aligot) and mashed potatoes",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aligot-q2724885/aligot-q2724885-1.jpg",
+    "images/aligot-q2724885/aligot-q2724885-2.jpg",
+    "images/aligot-q2724885/aligot-q2724885-3.jpg",
+    "images/aligot-q2724885/aligot-q2724885-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2724885",
+    "themealdb": null
+  }
+}

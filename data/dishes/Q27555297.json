@@ -1,0 +1,18 @@
+{
+  "id": "Q27555297",
+  "name": "string-like macaroni products",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/string-like-macaroni-products-q27555297/string-like-macaroni-products-q27555297-1.jpg",
+    "images/string-like-macaroni-products-q27555297/string-like-macaroni-products-q27555297-2.jpg",
+    "images/string-like-macaroni-products-q27555297/string-like-macaroni-products-q27555297-3.jpg",
+    "images/string-like-macaroni-products-q27555297/string-like-macaroni-products-q27555297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27555297",
+    "themealdb": null
+  }
+}

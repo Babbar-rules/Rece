@@ -1,0 +1,24 @@
+{
+  "id": "Q272502",
+  "name": "bagel",
+  "description": "torus-shaped bread product",
+  "nationality": [
+    "Poland",
+    "Grand Duchy of Lithuania"
+  ],
+  "region_cuisine": [
+    "Jewish cuisine",
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/bagel-q272502/bagel-q272502-1.jpg",
+    "images/bagel-q272502/bagel-q272502-2.jpg",
+    "images/bagel-q272502/bagel-q272502-3.jpg",
+    "images/bagel-q272502/bagel-q272502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q272502",
+    "themealdb": null
+  }
+}

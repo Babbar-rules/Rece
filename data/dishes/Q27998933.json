@@ -1,0 +1,22 @@
+{
+  "id": "Q27998933",
+  "name": "alani",
+  "description": "traditional Armenian sweet",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/alani-q27998933/alani-q27998933-1.jpg",
+    "images/alani-q27998933/alani-q27998933-2.jpg",
+    "images/alani-q27998933/alani-q27998933-3.jpg",
+    "images/alani-q27998933/alani-q27998933-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27998933",
+    "themealdb": null
+  }
+}

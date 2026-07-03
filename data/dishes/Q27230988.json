@@ -1,0 +1,18 @@
+{
+  "id": "Q27230988",
+  "name": "dry biscuits",
+  "description": "biscuits and crackers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dry-biscuits-q27230988/dry-biscuits-q27230988-1.jpg",
+    "images/dry-biscuits-q27230988/dry-biscuits-q27230988-2.jpg",
+    "images/dry-biscuits-q27230988/dry-biscuits-q27230988-3.jpg",
+    "images/dry-biscuits-q27230988/dry-biscuits-q27230988-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27230988",
+    "themealdb": null
+  }
+}

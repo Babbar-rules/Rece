@@ -1,0 +1,18 @@
+{
+  "id": "Q27230949",
+  "name": "flour confectionery products",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/flour-confectionery-products-q27230949/flour-confectionery-products-q27230949-1.jpg",
+    "images/flour-confectionery-products-q27230949/flour-confectionery-products-q27230949-2.jpg",
+    "images/flour-confectionery-products-q27230949/flour-confectionery-products-q27230949-3.jpg",
+    "images/flour-confectionery-products-q27230949/flour-confectionery-products-q27230949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27230949",
+    "themealdb": null
+  }
+}

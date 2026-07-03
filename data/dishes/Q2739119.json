@@ -1,0 +1,22 @@
+{
+  "id": "Q2739119",
+  "name": "Colomba di Pasqua",
+  "description": "Italian traditional Easter cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/colomba-di-pasqua-q2739119/colomba-di-pasqua-q2739119-1.jpg",
+    "images/colomba-di-pasqua-q2739119/colomba-di-pasqua-q2739119-2.jpg",
+    "images/colomba-di-pasqua-q2739119/colomba-di-pasqua-q2739119-3.jpg",
+    "images/colomba-di-pasqua-q2739119/colomba-di-pasqua-q2739119-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2739119",
+    "themealdb": null
+  }
+}

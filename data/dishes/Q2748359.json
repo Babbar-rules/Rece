@@ -1,0 +1,20 @@
+{
+  "id": "Q2748359",
+  "name": "saag",
+  "description": "Indian Food",
+  "nationality": [
+    "Punjab"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saag-q2748359/saag-q2748359-1.jpg",
+    "images/saag-q2748359/saag-q2748359-2.jpg",
+    "images/saag-q2748359/saag-q2748359-3.jpg",
+    "images/saag-q2748359/saag-q2748359-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2748359",
+    "themealdb": null
+  }
+}

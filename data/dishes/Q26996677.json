@@ -1,0 +1,15 @@
+{
+  "id": "Q26996677",
+  "name": "Pizzas, casseroles",
+  "description": "class of food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizzas-casseroles-q26996677/pizzas-casseroles-q26996677-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26996677",
+    "themealdb": null
+  }
+}

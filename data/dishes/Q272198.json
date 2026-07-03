@@ -1,0 +1,20 @@
+{
+  "id": "Q272198",
+  "name": "marshmallow",
+  "description": "sugar-based confection",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marshmallow-q272198/marshmallow-q272198-1.jpg",
+    "images/marshmallow-q272198/marshmallow-q272198-2.jpg",
+    "images/marshmallow-q272198/marshmallow-q272198-3.jpg",
+    "images/marshmallow-q272198/marshmallow-q272198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q272198",
+    "themealdb": null
+  }
+}

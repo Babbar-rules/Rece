@@ -1,0 +1,18 @@
+{
+  "id": "Q2743088",
+  "name": "chocolate coins",
+  "description": "gold foil covered chocolates in the shape of coins",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-coins-q2743088/chocolate-coins-q2743088-1.jpg",
+    "images/chocolate-coins-q2743088/chocolate-coins-q2743088-2.jpg",
+    "images/chocolate-coins-q2743088/chocolate-coins-q2743088-3.jpg",
+    "images/chocolate-coins-q2743088/chocolate-coins-q2743088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2743088",
+    "themealdb": null
+  }
+}

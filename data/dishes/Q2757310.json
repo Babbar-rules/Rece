@@ -1,0 +1,18 @@
+{
+  "id": "Q2757310",
+  "name": "Altoids",
+  "description": "brand of breath mints",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/altoids-q2757310/altoids-q2757310-1.jpg",
+    "images/altoids-q2757310/altoids-q2757310-2.jpg",
+    "images/altoids-q2757310/altoids-q2757310-3.jpg",
+    "images/altoids-q2757310/altoids-q2757310-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2757310",
+    "themealdb": null
+  }
+}

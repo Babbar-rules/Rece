@@ -1,0 +1,20 @@
+{
+  "id": "Q273426",
+  "name": "éclair",
+  "description": "oblong pastry made with choux dough filled with a cream and topped with icing",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eclair-q273426/eclair-q273426-1.jpg",
+    "images/eclair-q273426/eclair-q273426-2.jpg",
+    "images/eclair-q273426/eclair-q273426-3.jpg",
+    "images/eclair-q273426/eclair-q273426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q273426",
+    "themealdb": null
+  }
+}

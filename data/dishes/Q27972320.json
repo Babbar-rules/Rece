@@ -1,0 +1,18 @@
+{
+  "id": "Q27972320",
+  "name": "kuai tiao",
+  "description": "Thai noodle dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kuai-tiao-q27972320/kuai-tiao-q27972320-1.jpg",
+    "images/kuai-tiao-q27972320/kuai-tiao-q27972320-2.jpg",
+    "images/kuai-tiao-q27972320/kuai-tiao-q27972320-3.jpg",
+    "images/kuai-tiao-q27972320/kuai-tiao-q27972320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27972320",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q276276",
+  "name": "meringue",
+  "description": "sugar confectionery made from whipped egg whites and sugar",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/meringue-q276276/meringue-q276276-1.jpg",
+    "images/meringue-q276276/meringue-q276276-2.jpg",
+    "images/meringue-q276276/meringue-q276276-3.jpg",
+    "images/meringue-q276276/meringue-q276276-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q276276",
+    "themealdb": null
+  }
+}

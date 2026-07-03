@@ -1,0 +1,22 @@
+{
+  "id": "Q2746599",
+  "name": "tumpeng",
+  "description": "Indonesian rice dish molded into a mountain shape and served with various side dishes originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tumpeng-q2746599/tumpeng-q2746599-1.jpg",
+    "images/tumpeng-q2746599/tumpeng-q2746599-2.jpg",
+    "images/tumpeng-q2746599/tumpeng-q2746599-3.jpg",
+    "images/tumpeng-q2746599/tumpeng-q2746599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2746599",
+    "themealdb": null
+  }
+}

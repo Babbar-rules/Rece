@@ -1,0 +1,20 @@
+{
+  "id": "Q2709619",
+  "name": "Lo mai gai",
+  "description": "Cantonese leaf-wrapped dim sum",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lo-mai-gai-q2709619/lo-mai-gai-q2709619-1.jpg",
+    "images/lo-mai-gai-q2709619/lo-mai-gai-q2709619-2.jpg",
+    "images/lo-mai-gai-q2709619/lo-mai-gai-q2709619-3.jpg",
+    "images/lo-mai-gai-q2709619/lo-mai-gai-q2709619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2709619",
+    "themealdb": null
+  }
+}

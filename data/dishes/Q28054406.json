@@ -1,0 +1,18 @@
+{
+  "id": "Q28054406",
+  "name": "ham chim peng",
+  "description": "Chinese fried snack",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-chim-peng-q28054406/ham-chim-peng-q28054406-1.jpg",
+    "images/ham-chim-peng-q28054406/ham-chim-peng-q28054406-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28054406",
+    "themealdb": null
+  }
+}

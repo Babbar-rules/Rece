@@ -1,0 +1,22 @@
+{
+  "id": "Q2739539",
+  "name": "Baccalà alla vicentina",
+  "description": "venetian food dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Venetian cuisine"
+  ],
+  "images": [
+    "images/baccala-alla-vicentina-q2739539/baccala-alla-vicentina-q2739539-1.jpg",
+    "images/baccala-alla-vicentina-q2739539/baccala-alla-vicentina-q2739539-2.jpg",
+    "images/baccala-alla-vicentina-q2739539/baccala-alla-vicentina-q2739539-3.jpg",
+    "images/baccala-alla-vicentina-q2739539/baccala-alla-vicentina-q2739539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2739539",
+    "themealdb": null
+  }
+}

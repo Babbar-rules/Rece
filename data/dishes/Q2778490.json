@@ -1,0 +1,20 @@
+{
+  "id": "Q2778490",
+  "name": "Brabants worstenbroodje",
+  "description": "Dutch snack",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brabants-worstenbroodje-q2778490/brabants-worstenbroodje-q2778490-1.jpg",
+    "images/brabants-worstenbroodje-q2778490/brabants-worstenbroodje-q2778490-2.jpg",
+    "images/brabants-worstenbroodje-q2778490/brabants-worstenbroodje-q2778490-3.jpg",
+    "images/brabants-worstenbroodje-q2778490/brabants-worstenbroodje-q2778490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2778490",
+    "themealdb": null
+  }
+}

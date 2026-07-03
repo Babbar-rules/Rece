@@ -1,0 +1,20 @@
+{
+  "id": "Q27493928",
+  "name": "winter ice cream",
+  "description": "Hungarian confectionary",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/winter-ice-cream-q27493928/winter-ice-cream-q27493928-1.jpg",
+    "images/winter-ice-cream-q27493928/winter-ice-cream-q27493928-2.jpg",
+    "images/winter-ice-cream-q27493928/winter-ice-cream-q27493928-3.jpg",
+    "images/winter-ice-cream-q27493928/winter-ice-cream-q27493928-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27493928",
+    "themealdb": null
+  }
+}

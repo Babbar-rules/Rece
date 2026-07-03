@@ -1,0 +1,18 @@
+{
+  "id": "Q27032819",
+  "name": "Pinup",
+  "description": "ice cream flavour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pinup-q27032819/pinup-q27032819-1.jpg",
+    "images/pinup-q27032819/pinup-q27032819-2.jpg",
+    "images/pinup-q27032819/pinup-q27032819-3.jpg",
+    "images/pinup-q27032819/pinup-q27032819-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27032819",
+    "themealdb": null
+  }
+}

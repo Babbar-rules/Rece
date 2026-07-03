@@ -1,0 +1,18 @@
+{
+  "id": "Q27238206",
+  "name": "cookies, biscuits, crackers",
+  "description": "grouping of types of products in OKP (91 3031)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cookies-biscuits-crackers-q27238206/cookies-biscuits-crackers-q27238206-1.jpg",
+    "images/cookies-biscuits-crackers-q27238206/cookies-biscuits-crackers-q27238206-2.jpg",
+    "images/cookies-biscuits-crackers-q27238206/cookies-biscuits-crackers-q27238206-3.jpg",
+    "images/cookies-biscuits-crackers-q27238206/cookies-biscuits-crackers-q27238206-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27238206",
+    "themealdb": null
+  }
+}

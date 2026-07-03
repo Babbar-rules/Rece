@@ -1,0 +1,18 @@
+{
+  "id": "Q27642822",
+  "name": "chocolate and sugar confectionery",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-and-sugar-confectionery-q27642822/chocolate-and-sugar-confectionery-q27642822-1.jpg",
+    "images/chocolate-and-sugar-confectionery-q27642822/chocolate-and-sugar-confectionery-q27642822-2.jpg",
+    "images/chocolate-and-sugar-confectionery-q27642822/chocolate-and-sugar-confectionery-q27642822-3.jpg",
+    "images/chocolate-and-sugar-confectionery-q27642822/chocolate-and-sugar-confectionery-q27642822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q27642822",
+    "themealdb": null
+  }
+}
