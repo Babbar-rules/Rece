@@ -1,0 +1,18 @@
+{
+  "id": "Q24893927",
+  "name": "nikomi udon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nikomi-udon-q24893927/nikomi-udon-q24893927-1.jpg",
+    "images/nikomi-udon-q24893927/nikomi-udon-q24893927-2.jpg",
+    "images/nikomi-udon-q24893927/nikomi-udon-q24893927-3.jpg",
+    "images/nikomi-udon-q24893927/nikomi-udon-q24893927-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24893927",
+    "themealdb": null
+  }
+}

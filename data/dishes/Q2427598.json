@@ -1,0 +1,18 @@
+{
+  "id": "Q2427598",
+  "name": "Beguni",
+  "description": "Bengal region brinjal dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beguni-q2427598/beguni-q2427598-1.jpg",
+    "images/beguni-q2427598/beguni-q2427598-2.jpg",
+    "images/beguni-q2427598/beguni-q2427598-3.jpg",
+    "images/beguni-q2427598/beguni-q2427598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2427598",
+    "themealdb": null
+  }
+}

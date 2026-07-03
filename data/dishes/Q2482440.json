@@ -1,0 +1,20 @@
+{
+  "id": "Q2482440",
+  "name": "fit-fit",
+  "description": "Ethiopian food",
+  "nationality": [
+    "Ethiopia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fit-fit-q2482440/fit-fit-q2482440-1.jpg",
+    "images/fit-fit-q2482440/fit-fit-q2482440-2.jpg",
+    "images/fit-fit-q2482440/fit-fit-q2482440-3.jpg",
+    "images/fit-fit-q2482440/fit-fit-q2482440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2482440",
+    "themealdb": null
+  }
+}

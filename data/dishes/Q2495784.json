@@ -1,0 +1,20 @@
+{
+  "id": "Q2495784",
+  "name": "frog cake",
+  "description": "type of cake from Australia",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frog-cake-q2495784/frog-cake-q2495784-1.jpg",
+    "images/frog-cake-q2495784/frog-cake-q2495784-2.jpg",
+    "images/frog-cake-q2495784/frog-cake-q2495784-3.jpg",
+    "images/frog-cake-q2495784/frog-cake-q2495784-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2495784",
+    "themealdb": null
+  }
+}

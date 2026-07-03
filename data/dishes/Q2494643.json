@@ -1,0 +1,18 @@
+{
+  "id": "Q2494643",
+  "name": "Balep korkun",
+  "description": "Tibetan flatbread",
+  "nationality": [
+    "Tibet"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balep-korkun-q2494643/balep-korkun-q2494643-1.jpg",
+    "images/balep-korkun-q2494643/balep-korkun-q2494643-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2494643",
+    "themealdb": null
+  }
+}

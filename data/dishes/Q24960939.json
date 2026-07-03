@@ -1,0 +1,20 @@
+{
+  "id": "Q24960939",
+  "name": "marquesote",
+  "description": "Mexican bread",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marquesote-q24960939/marquesote-q24960939-1.jpg",
+    "images/marquesote-q24960939/marquesote-q24960939-2.jpg",
+    "images/marquesote-q24960939/marquesote-q24960939-3.jpg",
+    "images/marquesote-q24960939/marquesote-q24960939-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24960939",
+    "themealdb": null
+  }
+}

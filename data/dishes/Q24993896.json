@@ -1,0 +1,18 @@
+{
+  "id": "Q24993896",
+  "name": "Queen Elizabeth cake",
+  "description": "cake with coconut topping",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/queen-elizabeth-cake-q24993896/queen-elizabeth-cake-q24993896-1.jpg",
+    "images/queen-elizabeth-cake-q24993896/queen-elizabeth-cake-q24993896-2.jpg",
+    "images/queen-elizabeth-cake-q24993896/queen-elizabeth-cake-q24993896-3.jpg",
+    "images/queen-elizabeth-cake-q24993896/queen-elizabeth-cake-q24993896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24993896",
+    "themealdb": null
+  }
+}

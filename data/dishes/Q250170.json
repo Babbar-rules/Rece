@@ -1,0 +1,18 @@
+{
+  "id": "Q250170",
+  "name": "poğaça",
+  "description": "Ottoman pastry that is known under similar names all around the Southeast and Central Europe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pogaca-q250170/pogaca-q250170-1.jpg",
+    "images/pogaca-q250170/pogaca-q250170-2.jpg",
+    "images/pogaca-q250170/pogaca-q250170-3.jpg",
+    "images/pogaca-q250170/pogaca-q250170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q250170",
+    "themealdb": null
+  }
+}

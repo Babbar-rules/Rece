@@ -1,0 +1,18 @@
+{
+  "id": "Q24732220",
+  "name": "soba manjū",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soba-manju-q24732220/soba-manju-q24732220-1.jpg",
+    "images/soba-manju-q24732220/soba-manju-q24732220-2.jpg",
+    "images/soba-manju-q24732220/soba-manju-q24732220-3.jpg",
+    "images/soba-manju-q24732220/soba-manju-q24732220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24732220",
+    "themealdb": null
+  }
+}

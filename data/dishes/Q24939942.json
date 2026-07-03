@@ -1,0 +1,22 @@
+{
+  "id": "Q24939942",
+  "name": "fegato alla Veneziana",
+  "description": "Venetian traditional dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Venetian cuisine"
+  ],
+  "images": [
+    "images/fegato-alla-veneziana-q24939942/fegato-alla-veneziana-q24939942-1.jpg",
+    "images/fegato-alla-veneziana-q24939942/fegato-alla-veneziana-q24939942-2.jpg",
+    "images/fegato-alla-veneziana-q24939942/fegato-alla-veneziana-q24939942-3.jpg",
+    "images/fegato-alla-veneziana-q24939942/fegato-alla-veneziana-q24939942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24939942",
+    "themealdb": null
+  }
+}

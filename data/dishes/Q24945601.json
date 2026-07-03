@@ -1,0 +1,19 @@
+{
+  "id": "Q24945601",
+  "name": "Lonavala chikki",
+  "description": "Chikki originating from Lonavala",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lonavala-chikki-q24945601/lonavala-chikki-q24945601-1.jpg",
+    "images/lonavala-chikki-q24945601/lonavala-chikki-q24945601-2.jpg",
+    "images/lonavala-chikki-q24945601/lonavala-chikki-q24945601-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24945601",
+    "themealdb": null
+  }
+}

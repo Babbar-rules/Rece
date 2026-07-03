@@ -1,0 +1,20 @@
+{
+  "id": "Q2423291",
+  "name": "Hot snack",
+  "description": "spicy meat snack from Netherlands",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-snack-q2423291/hot-snack-q2423291-1.jpg",
+    "images/hot-snack-q2423291/hot-snack-q2423291-2.jpg",
+    "images/hot-snack-q2423291/hot-snack-q2423291-3.jpg",
+    "images/hot-snack-q2423291/hot-snack-q2423291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2423291",
+    "themealdb": null
+  }
+}

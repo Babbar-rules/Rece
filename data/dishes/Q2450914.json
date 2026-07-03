@@ -1,0 +1,20 @@
+{
+  "id": "Q2450914",
+  "name": "Chicken 65",
+  "description": "spicy, deep-fried chicken dish from India, usually served with onion and lemon garnish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-65-q2450914/chicken-65-q2450914-1.jpg",
+    "images/chicken-65-q2450914/chicken-65-q2450914-2.jpg",
+    "images/chicken-65-q2450914/chicken-65-q2450914-3.jpg",
+    "images/chicken-65-q2450914/chicken-65-q2450914-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2450914",
+    "themealdb": null
+  }
+}

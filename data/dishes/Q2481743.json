@@ -1,0 +1,20 @@
+{
+  "id": "Q2481743",
+  "name": "honmei choco",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/honmei-choco-q2481743/honmei-choco-q2481743-1.jpg",
+    "images/honmei-choco-q2481743/honmei-choco-q2481743-2.jpg",
+    "images/honmei-choco-q2481743/honmei-choco-q2481743-3.jpg",
+    "images/honmei-choco-q2481743/honmei-choco-q2481743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2481743",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2436674",
+  "name": "Bath Oliver",
+  "description": "a hard, dry biscuit or cracker",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bath-oliver-q2436674/bath-oliver-q2436674-1.jpg",
+    "images/bath-oliver-q2436674/bath-oliver-q2436674-2.jpg",
+    "images/bath-oliver-q2436674/bath-oliver-q2436674-3.jpg",
+    "images/bath-oliver-q2436674/bath-oliver-q2436674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2436674",
+    "themealdb": null
+  }
+}

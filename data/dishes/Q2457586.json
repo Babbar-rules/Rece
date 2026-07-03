@@ -1,0 +1,76 @@
+{
+  "id": "Q2457586",
+  "name": "Patatas bravas",
+  "description": "potato dish native to Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/patatas-bravas-q2457586/patatas-bravas-q2457586-1.jpg",
+    "images/patatas-bravas-q2457586/patatas-bravas-q2457586-2.jpg",
+    "images/patatas-bravas-q2457586/patatas-bravas-q2457586-3.jpg",
+    "images/patatas-bravas-q2457586/patatas-bravas-q2457586-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53172",
+    "category": "Vegetarian",
+    "area": "Spanish",
+    "instructions": "step 1\r\nHeat the oil in a pan and fry the onion for about 5 mins until softened. Add the garlic, chopped tomatoes, tomato purée, sweet paprika, chilli powder, sugar and a pinch of salt, then bring to the boil, stirring occasionally. Lower to a simmer and cook for 10 mins until pulpy. Can be kept chilled for up to 24 hrs.\r\n\r\nstep 2\r\nHeat oven to 200C/180C fan/gas 6. Pat the potatoes dry with kitchen paper, then tip into a roasting tin and toss in the olive oil and some seasoning. Roast for 40-50 mins until crisp and golden. Tip the potatoes into serving dishes and spoon over the tomato sauce. Sprinkle with some fresh parsley to serve.",
+    "ingredients": [
+      {
+        "ingredient": "Olive Oil",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 small finely diced"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves chopped"
+      },
+      {
+        "ingredient": "Tinned Tomatos",
+        "measure": "225g"
+      },
+      {
+        "ingredient": "Tomato Puree",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "2 teaspoon"
+      },
+      {
+        "ingredient": "Chilli Powder",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Chopped"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "900g"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=2Hup2nypG2w",
+    "thumb": "https://www.themealdb.com/images/media/meals/bvg8sn1763298713.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2457586",
+    "themealdb": "53172"
+  }
+}

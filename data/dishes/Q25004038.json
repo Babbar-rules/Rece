@@ -1,0 +1,18 @@
+{
+  "id": "Q25004038",
+  "name": "Italian sandwich",
+  "description": "Italian-American submarine sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-sandwich-q25004038/italian-sandwich-q25004038-1.jpg",
+    "images/italian-sandwich-q25004038/italian-sandwich-q25004038-2.jpg",
+    "images/italian-sandwich-q25004038/italian-sandwich-q25004038-3.jpg",
+    "images/italian-sandwich-q25004038/italian-sandwich-q25004038-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004038",
+    "themealdb": null
+  }
+}

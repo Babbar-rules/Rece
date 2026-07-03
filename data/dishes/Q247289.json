@@ -1,0 +1,18 @@
+{
+  "id": "Q247289",
+  "name": "socca",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/socca-q247289/socca-q247289-1.jpg",
+    "images/socca-q247289/socca-q247289-2.jpg",
+    "images/socca-q247289/socca-q247289-3.jpg",
+    "images/socca-q247289/socca-q247289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247289",
+    "themealdb": null
+  }
+}

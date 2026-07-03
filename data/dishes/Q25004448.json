@@ -1,0 +1,20 @@
+{
+  "id": "Q25004448",
+  "name": "chiffon pie",
+  "description": "type of dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chiffon-pie-q25004448/chiffon-pie-q25004448-1.jpg",
+    "images/chiffon-pie-q25004448/chiffon-pie-q25004448-2.jpg",
+    "images/chiffon-pie-q25004448/chiffon-pie-q25004448-3.jpg",
+    "images/chiffon-pie-q25004448/chiffon-pie-q25004448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004448",
+    "themealdb": null
+  }
+}

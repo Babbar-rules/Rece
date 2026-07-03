@@ -1,0 +1,20 @@
+{
+  "id": "Q2461918",
+  "name": "Pamonha",
+  "description": "traditional Brazilian food",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pamonha-q2461918/pamonha-q2461918-1.jpg",
+    "images/pamonha-q2461918/pamonha-q2461918-2.jpg",
+    "images/pamonha-q2461918/pamonha-q2461918-3.jpg",
+    "images/pamonha-q2461918/pamonha-q2461918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2461918",
+    "themealdb": null
+  }
+}

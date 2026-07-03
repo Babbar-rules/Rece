@@ -1,0 +1,18 @@
+{
+  "id": "Q24948875",
+  "name": "bamboo chicken",
+  "description": "South Asian chicken curry prepared by stuffing chicken in bamboo segments",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bamboo-chicken-q24948875/bamboo-chicken-q24948875-1.jpg",
+    "images/bamboo-chicken-q24948875/bamboo-chicken-q24948875-2.jpg",
+    "images/bamboo-chicken-q24948875/bamboo-chicken-q24948875-3.jpg",
+    "images/bamboo-chicken-q24948875/bamboo-chicken-q24948875-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24948875",
+    "themealdb": null
+  }
+}

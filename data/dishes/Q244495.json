@@ -1,0 +1,25 @@
+{
+  "id": "Q244495",
+  "name": "Zwetschkenknödel",
+  "description": "Plum dumplings",
+  "nationality": [
+    "Austria–Hungary"
+  ],
+  "region_cuisine": [
+    "Czech cuisine",
+    "Hungarian cuisine",
+    "Romanian cuisine",
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/zwetschkenknodel-q244495/zwetschkenknodel-q244495-1.jpg",
+    "images/zwetschkenknodel-q244495/zwetschkenknodel-q244495-2.jpg",
+    "images/zwetschkenknodel-q244495/zwetschkenknodel-q244495-3.jpg",
+    "images/zwetschkenknodel-q244495/zwetschkenknodel-q244495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244495",
+    "themealdb": null
+  }
+}

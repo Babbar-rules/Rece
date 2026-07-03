@@ -1,0 +1,20 @@
+{
+  "id": "Q2427282",
+  "name": "spekkoek",
+  "description": "Indonesian layered cake originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spekkoek-q2427282/spekkoek-q2427282-1.jpg",
+    "images/spekkoek-q2427282/spekkoek-q2427282-2.jpg",
+    "images/spekkoek-q2427282/spekkoek-q2427282-3.jpg",
+    "images/spekkoek-q2427282/spekkoek-q2427282-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2427282",
+    "themealdb": null
+  }
+}

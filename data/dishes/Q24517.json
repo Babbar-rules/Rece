@@ -1,0 +1,18 @@
+{
+  "id": "Q24517",
+  "name": "Alfeñique",
+  "description": "figure made from molded sugar paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alfenique-q24517/alfenique-q24517-1.jpg",
+    "images/alfenique-q24517/alfenique-q24517-2.jpg",
+    "images/alfenique-q24517/alfenique-q24517-3.jpg",
+    "images/alfenique-q24517/alfenique-q24517-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24517",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2424605",
+  "name": "Croquignoles",
+  "description": "French dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/croquignoles-q2424605/croquignoles-q2424605-1.jpg",
+    "images/croquignoles-q2424605/croquignoles-q2424605-2.jpg",
+    "images/croquignoles-q2424605/croquignoles-q2424605-3.jpg",
+    "images/croquignoles-q2424605/croquignoles-q2424605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2424605",
+    "themealdb": null
+  }
+}

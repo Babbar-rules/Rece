@@ -1,0 +1,20 @@
+{
+  "id": "Q24869486",
+  "name": "Gesoten",
+  "description": "tempura of squid arms",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gesoten-q24869486/gesoten-q24869486-1.jpg",
+    "images/gesoten-q24869486/gesoten-q24869486-2.jpg",
+    "images/gesoten-q24869486/gesoten-q24869486-3.jpg",
+    "images/gesoten-q24869486/gesoten-q24869486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24869486",
+    "themealdb": null
+  }
+}

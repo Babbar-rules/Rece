@@ -1,0 +1,21 @@
+{
+  "id": "Q2479287",
+  "name": "potato babka",
+  "description": "savoury Belarusian and Polish dish made from potato",
+  "nationality": [
+    "Poland",
+    "Belarus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-babka-q2479287/potato-babka-q2479287-1.jpg",
+    "images/potato-babka-q2479287/potato-babka-q2479287-2.jpg",
+    "images/potato-babka-q2479287/potato-babka-q2479287-3.jpg",
+    "images/potato-babka-q2479287/potato-babka-q2479287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2479287",
+    "themealdb": null
+  }
+}

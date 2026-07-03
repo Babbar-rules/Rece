@@ -1,0 +1,20 @@
+{
+  "id": "Q249169",
+  "name": "zōni",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zoni-q249169/zoni-q249169-1.jpg",
+    "images/zoni-q249169/zoni-q249169-2.jpg",
+    "images/zoni-q249169/zoni-q249169-3.jpg",
+    "images/zoni-q249169/zoni-q249169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q249169",
+    "themealdb": null
+  }
+}

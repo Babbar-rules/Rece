@@ -1,0 +1,20 @@
+{
+  "id": "Q2451463",
+  "name": "Chole bhature",
+  "description": "dish notable in Indian and Pakistani cuisine, consisting of poori bread with chana masala. it is considered as heavy lunch or dinner meal option.",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chole-bhature-q2451463/chole-bhature-q2451463-1.jpg",
+    "images/chole-bhature-q2451463/chole-bhature-q2451463-2.jpg",
+    "images/chole-bhature-q2451463/chole-bhature-q2451463-3.jpg",
+    "images/chole-bhature-q2451463/chole-bhature-q2451463-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2451463",
+    "themealdb": null
+  }
+}

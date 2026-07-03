@@ -1,0 +1,76 @@
+{
+  "id": "Q245436",
+  "name": "5",
+  "description": "brand of sugar-free gum",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/5-q245436/5-q245436-1.jpg",
+    "images/5-q245436/5-q245436-2.jpg",
+    "images/5-q245436/5-q245436-3.jpg",
+    "images/5-q245436/5-q245436-4.png"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53085",
+    "category": "Chicken",
+    "area": "United States",
+    "instructions": "STEP 1\r\n\r\nPut the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.\r\n\r\nSTEP 2\r\n\r\nIf you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.\r\n\r\nSTEP 3\r\n\r\nIf you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.\r\nSTEP 4\r\n\r\nWhile the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.\r\n\r\nSTEP 5\r\n\r\nSpoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Breasts",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Hotsauce",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "½"
+      },
+      {
+        "ingredient": "Buns",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Cheese",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Cabbage",
+        "measure": "¼"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Sour Cream",
+        "measure": "4 tbsp"
+      },
+      {
+        "ingredient": "Lettuce",
+        "measure": "4 leaves"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "2"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=k9Ez0bUbXKc",
+    "thumb": "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q245436",
+    "themealdb": "53085"
+  }
+}

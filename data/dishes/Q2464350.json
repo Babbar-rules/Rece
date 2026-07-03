@@ -1,0 +1,23 @@
+{
+  "id": "Q2464350",
+  "name": "echpochmak",
+  "description": "Tatar and Bashkir national dish",
+  "nationality": [
+    "Tatarstan"
+  ],
+  "region_cuisine": [
+    "Tatarstan cuisine",
+    "Bashkir cuisine"
+  ],
+  "images": [
+    "images/echpochmak-q2464350/echpochmak-q2464350-1.jpg",
+    "images/echpochmak-q2464350/echpochmak-q2464350-2.jpg",
+    "images/echpochmak-q2464350/echpochmak-q2464350-3.jpg",
+    "images/echpochmak-q2464350/echpochmak-q2464350-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2464350",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2421871",
+  "name": "Satsuma-age",
+  "description": "Fried fishcake from Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/satsuma-age-q2421871/satsuma-age-q2421871-1.jpg",
+    "images/satsuma-age-q2421871/satsuma-age-q2421871-2.jpg",
+    "images/satsuma-age-q2421871/satsuma-age-q2421871-3.jpg",
+    "images/satsuma-age-q2421871/satsuma-age-q2421871-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2421871",
+    "themealdb": null
+  }
+}

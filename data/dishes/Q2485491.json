@@ -1,0 +1,20 @@
+{
+  "id": "Q2485491",
+  "name": "mitraillette",
+  "description": "Belgian snack bar dish",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mitraillette-q2485491/mitraillette-q2485491-1.jpg",
+    "images/mitraillette-q2485491/mitraillette-q2485491-2.jpg",
+    "images/mitraillette-q2485491/mitraillette-q2485491-3.jpg",
+    "images/mitraillette-q2485491/mitraillette-q2485491-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2485491",
+    "themealdb": null
+  }
+}

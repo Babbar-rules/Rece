@@ -1,0 +1,18 @@
+{
+  "id": "Q2461000",
+  "name": "apple turnover",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-turnover-q2461000/apple-turnover-q2461000-1.jpg",
+    "images/apple-turnover-q2461000/apple-turnover-q2461000-2.jpg",
+    "images/apple-turnover-q2461000/apple-turnover-q2461000-3.jpg",
+    "images/apple-turnover-q2461000/apple-turnover-q2461000-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2461000",
+    "themealdb": null
+  }
+}

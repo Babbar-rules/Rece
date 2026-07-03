@@ -1,0 +1,18 @@
+{
+  "id": "Q24460908",
+  "name": "fig cake",
+  "description": "cake made with figs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fig-cake-q24460908/fig-cake-q24460908-1.jpg",
+    "images/fig-cake-q24460908/fig-cake-q24460908-2.jpg",
+    "images/fig-cake-q24460908/fig-cake-q24460908-3.jpg",
+    "images/fig-cake-q24460908/fig-cake-q24460908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24460908",
+    "themealdb": null
+  }
+}

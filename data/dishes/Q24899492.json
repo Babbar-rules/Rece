@@ -1,0 +1,17 @@
+{
+  "id": "Q24899492",
+  "name": "udon-suki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/udon-suki-q24899492/udon-suki-q24899492-1.jpg",
+    "images/udon-suki-q24899492/udon-suki-q24899492-2.jpg",
+    "images/udon-suki-q24899492/udon-suki-q24899492-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24899492",
+    "themealdb": null
+  }
+}

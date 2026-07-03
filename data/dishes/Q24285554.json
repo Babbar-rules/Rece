@@ -1,0 +1,18 @@
+{
+  "id": "Q24285554",
+  "name": "roast beef sandwich",
+  "description": "sandwich made from roast beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roast-beef-sandwich-q24285554/roast-beef-sandwich-q24285554-1.jpg",
+    "images/roast-beef-sandwich-q24285554/roast-beef-sandwich-q24285554-2.jpg",
+    "images/roast-beef-sandwich-q24285554/roast-beef-sandwich-q24285554-3.jpg",
+    "images/roast-beef-sandwich-q24285554/roast-beef-sandwich-q24285554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24285554",
+    "themealdb": null
+  }
+}

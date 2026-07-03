@@ -1,0 +1,22 @@
+{
+  "id": "Q2428787",
+  "name": "ayam Taliwang",
+  "description": "Indonesian roasted chicken dish from Lombok",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ayam-taliwang-q2428787/ayam-taliwang-q2428787-1.jpg",
+    "images/ayam-taliwang-q2428787/ayam-taliwang-q2428787-2.jpg",
+    "images/ayam-taliwang-q2428787/ayam-taliwang-q2428787-3.jpg",
+    "images/ayam-taliwang-q2428787/ayam-taliwang-q2428787-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2428787",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q24568658",
+  "name": "fried cheese",
+  "description": "cheese dish fried in oil",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-cheese-q24568658/fried-cheese-q24568658-1.jpg",
+    "images/fried-cheese-q24568658/fried-cheese-q24568658-2.jpg",
+    "images/fried-cheese-q24568658/fried-cheese-q24568658-3.jpg",
+    "images/fried-cheese-q24568658/fried-cheese-q24568658-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24568658",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q244611",
+  "name": "onion ring",
+  "description": "deep fried onion slices dipped in batter",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/onion-ring-q244611/onion-ring-q244611-1.jpg",
+    "images/onion-ring-q244611/onion-ring-q244611-2.jpg",
+    "images/onion-ring-q244611/onion-ring-q244611-3.jpg",
+    "images/onion-ring-q244611/onion-ring-q244611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q244611",
+    "themealdb": null
+  }
+}

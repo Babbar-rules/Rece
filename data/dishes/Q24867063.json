@@ -1,0 +1,18 @@
+{
+  "id": "Q24867063",
+  "name": "fugashi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fugashi-q24867063/fugashi-q24867063-1.jpg",
+    "images/fugashi-q24867063/fugashi-q24867063-2.jpg",
+    "images/fugashi-q24867063/fugashi-q24867063-3.jpeg",
+    "images/fugashi-q24867063/fugashi-q24867063-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24867063",
+    "themealdb": null
+  }
+}

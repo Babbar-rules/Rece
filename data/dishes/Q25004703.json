@@ -1,0 +1,21 @@
+{
+  "id": "Q25004703",
+  "name": "Lady Baltimore cake",
+  "description": "Dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/lady-baltimore-cake-q25004703/lady-baltimore-cake-q25004703-1.jpg",
+    "images/lady-baltimore-cake-q25004703/lady-baltimore-cake-q25004703-2.jpg",
+    "images/lady-baltimore-cake-q25004703/lady-baltimore-cake-q25004703-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004703",
+    "themealdb": null
+  }
+}

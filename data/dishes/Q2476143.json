@@ -1,0 +1,76 @@
+{
+  "id": "Q2476143",
+  "name": "Zeeuwse bolus",
+  "description": "sweet pastry",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/zeeuwse-bolus-q2476143/zeeuwse-bolus-q2476143-1.jpg",
+    "images/zeeuwse-bolus-q2476143/zeeuwse-bolus-q2476143-2.jpg",
+    "images/zeeuwse-bolus-q2476143/zeeuwse-bolus-q2476143-3.jpg",
+    "images/zeeuwse-bolus-q2476143/zeeuwse-bolus-q2476143-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53394",
+    "category": "Dessert",
+    "area": null,
+    "instructions": "Place the dried yeast, milk and sugar in the bowl of your food processor. Mix and let stand for a few minutes until it begins to foam.\r\nThen add the flour, egg, butter, salt, 1 tsp of cinnamon and cardamom and process until smooth.\r\nForm the dough into a ball, cover the bowl and let it rise for 1 hour or until it has doubled in size.\r\nMix the caster sugar with 1 tablespoon of cinnamon, pour over the dough and roll it in.\r\nForm 10 equal balls (about 75 grams each) and let them “sweat” for a while. The sugar will dissolve a little. When you roll them again later, the rest of the dough will absorb the sugar better.\r\nThen roll the ball into a strand about 35-40 centimeters long while rolling through the powdered sugar.\r\nFold the strand around one end and tuck the other end under the bolus. Push something between the roll to secure the end.\r\nPlace on a baking sheet lined with a baking sheet, cover with plastic wrap and let them rise for ½-1 hour.\r\nMeanwhile, preheat the oven to 250 degrees Celsius/480 Fahrenheit top and bottom heat\r\nBake the Zeeland Boluses for about 8 minutes until done. Be careful – if you bake them too long, they will get dry and you will want something sticky 😉 .\r\nLet them cool out of the oven for 1 minute, then turn them over and let them cool further (on a wire rack if necessary). Enjoy!",
+    "ingredients": [
+      {
+        "ingredient": "Yeast",
+        "measure": "10g"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1 medium"
+      },
+      {
+        "ingredient": "Unsalted Butter",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Cinnamon",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Brown Sugar",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Brown Sugar",
+        "measure": "250g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ypXGr9NdMZU",
+    "thumb": "https://www.themealdb.com/images/media/meals/qawvoy1777627952.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2476143",
+    "themealdb": "53394"
+  }
+}

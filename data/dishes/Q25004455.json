@@ -1,0 +1,20 @@
+{
+  "id": "Q25004455",
+  "name": "Sonoran hot dog",
+  "description": "Mexican-style hot dog",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sonoran-hot-dog-q25004455/sonoran-hot-dog-q25004455-1.jpg",
+    "images/sonoran-hot-dog-q25004455/sonoran-hot-dog-q25004455-2.jpg",
+    "images/sonoran-hot-dog-q25004455/sonoran-hot-dog-q25004455-3.jpg",
+    "images/sonoran-hot-dog-q25004455/sonoran-hot-dog-q25004455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004455",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2457455",
+  "name": "sayur asem",
+  "description": "Indonesian vegetable soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sayur-asem-q2457455/sayur-asem-q2457455-1.jpg",
+    "images/sayur-asem-q2457455/sayur-asem-q2457455-2.jpg",
+    "images/sayur-asem-q2457455/sayur-asem-q2457455-3.jpg",
+    "images/sayur-asem-q2457455/sayur-asem-q2457455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2457455",
+    "themealdb": null
+  }
+}

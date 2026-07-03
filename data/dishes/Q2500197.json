@@ -1,0 +1,23 @@
+{
+  "id": "Q2500197",
+  "name": "dovga",
+  "description": "national meal of Azerbaijani cuisine",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [
+    "Cuisine of Uzbekistan",
+    "Azerbaijani cuisine"
+  ],
+  "images": [
+    "images/dovga-q2500197/dovga-q2500197-1.jpg",
+    "images/dovga-q2500197/dovga-q2500197-2.jpg",
+    "images/dovga-q2500197/dovga-q2500197-3.jpg",
+    "images/dovga-q2500197/dovga-q2500197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2500197",
+    "themealdb": null
+  }
+}

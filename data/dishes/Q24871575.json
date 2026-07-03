@@ -1,0 +1,18 @@
+{
+  "id": "Q24871575",
+  "name": "kingyo-meshi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kingyo-meshi-q24871575/kingyo-meshi-q24871575-1.jpg",
+    "images/kingyo-meshi-q24871575/kingyo-meshi-q24871575-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24871575",
+    "themealdb": null
+  }
+}

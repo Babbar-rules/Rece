@@ -1,0 +1,20 @@
+{
+  "id": "Q24257106",
+  "name": "tauge goreng",
+  "description": "Indonesian savoury vegetarian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tauge-goreng-q24257106/tauge-goreng-q24257106-1.jpg",
+    "images/tauge-goreng-q24257106/tauge-goreng-q24257106-2.jpg",
+    "images/tauge-goreng-q24257106/tauge-goreng-q24257106-3.jpg",
+    "images/tauge-goreng-q24257106/tauge-goreng-q24257106-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24257106",
+    "themealdb": null
+  }
+}

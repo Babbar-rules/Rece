@@ -1,0 +1,22 @@
+{
+  "id": "Q246703",
+  "name": "ciabatta",
+  "description": "Italian white bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/ciabatta-q246703/ciabatta-q246703-1.jpg",
+    "images/ciabatta-q246703/ciabatta-q246703-2.jpg",
+    "images/ciabatta-q246703/ciabatta-q246703-3.jpg",
+    "images/ciabatta-q246703/ciabatta-q246703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q246703",
+    "themealdb": null
+  }
+}

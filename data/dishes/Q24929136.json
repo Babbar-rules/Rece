@@ -1,0 +1,18 @@
+{
+  "id": "Q24929136",
+  "name": "jambon de Lacaune",
+  "description": "brand of ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-de-lacaune-q24929136/jambon-de-lacaune-q24929136-1.jpg",
+    "images/jambon-de-lacaune-q24929136/jambon-de-lacaune-q24929136-2.jpg",
+    "images/jambon-de-lacaune-q24929136/jambon-de-lacaune-q24929136-3.jpg",
+    "images/jambon-de-lacaune-q24929136/jambon-de-lacaune-q24929136-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24929136",
+    "themealdb": null
+  }
+}

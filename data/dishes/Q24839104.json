@@ -1,0 +1,20 @@
+{
+  "id": "Q24839104",
+  "name": "Apple Bread",
+  "description": "Taiwanese aromatic bread",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/apple-bread-q24839104/apple-bread-q24839104-1.jpg",
+    "images/apple-bread-q24839104/apple-bread-q24839104-2.jpg",
+    "images/apple-bread-q24839104/apple-bread-q24839104-3.jpg",
+    "images/apple-bread-q24839104/apple-bread-q24839104-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24839104",
+    "themealdb": null
+  }
+}

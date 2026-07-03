@@ -1,0 +1,18 @@
+{
+  "id": "Q2451334",
+  "name": "white soup",
+  "description": "soup of chicken bouillon, well known in the Netherlands, originating from France",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/white-soup-q2451334/white-soup-q2451334-1.jpg",
+    "images/white-soup-q2451334/white-soup-q2451334-2.jpg",
+    "images/white-soup-q2451334/white-soup-q2451334-3.jpg",
+    "images/white-soup-q2451334/white-soup-q2451334-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2451334",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2461856",
+  "name": "tutti frutti",
+  "description": "confectionery containing candied fruits",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tutti-frutti-q2461856/tutti-frutti-q2461856-1.jpg",
+    "images/tutti-frutti-q2461856/tutti-frutti-q2461856-2.jpg",
+    "images/tutti-frutti-q2461856/tutti-frutti-q2461856-3.jpg",
+    "images/tutti-frutti-q2461856/tutti-frutti-q2461856-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2461856",
+    "themealdb": null
+  }
+}

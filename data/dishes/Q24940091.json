@@ -1,0 +1,18 @@
+{
+  "id": "Q24940091",
+  "name": "Mostaccino",
+  "description": "Spicy biscuit made in Crema",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mostaccino-q24940091/mostaccino-q24940091-1.jpg",
+    "images/mostaccino-q24940091/mostaccino-q24940091-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24940091",
+    "themealdb": null
+  }
+}

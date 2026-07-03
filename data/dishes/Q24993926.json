@@ -1,0 +1,20 @@
+{
+  "id": "Q24993926",
+  "name": "Battalia pie",
+  "description": "large game pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/battalia-pie-q24993926/battalia-pie-q24993926-1.png",
+    "images/battalia-pie-q24993926/battalia-pie-q24993926-2.jpg",
+    "images/battalia-pie-q24993926/battalia-pie-q24993926-3.jpg",
+    "images/battalia-pie-q24993926/battalia-pie-q24993926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24993926",
+    "themealdb": null
+  }
+}

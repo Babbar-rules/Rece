@@ -1,0 +1,18 @@
+{
+  "id": "Q25006844",
+  "name": "spaghetti sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-sandwich-q25006844/spaghetti-sandwich-q25006844-1.jpg",
+    "images/spaghetti-sandwich-q25006844/spaghetti-sandwich-q25006844-2.jpg",
+    "images/spaghetti-sandwich-q25006844/spaghetti-sandwich-q25006844-3.jpg",
+    "images/spaghetti-sandwich-q25006844/spaghetti-sandwich-q25006844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25006844",
+    "themealdb": null
+  }
+}

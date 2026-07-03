@@ -1,0 +1,21 @@
+{
+  "id": "Q24249983",
+  "name": "bola de Berlim",
+  "description": "Portuguese variant of the Berliner",
+  "nationality": [
+    "Portugal",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bola-de-berlim-q24249983/bola-de-berlim-q24249983-1.jpg",
+    "images/bola-de-berlim-q24249983/bola-de-berlim-q24249983-2.jpg",
+    "images/bola-de-berlim-q24249983/bola-de-berlim-q24249983-3.jpg",
+    "images/bola-de-berlim-q24249983/bola-de-berlim-q24249983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24249983",
+    "themealdb": null
+  }
+}

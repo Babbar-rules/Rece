@@ -1,0 +1,16 @@
+{
+  "id": "Q24885714",
+  "name": "Yoglet",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yoglet-q24885714/yoglet-q24885714-1.jpg",
+    "images/yoglet-q24885714/yoglet-q24885714-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24885714",
+    "themealdb": null
+  }
+}

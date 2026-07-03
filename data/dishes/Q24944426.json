@@ -1,0 +1,18 @@
+{
+  "id": "Q24944426",
+  "name": "Vegetarian bee hoon",
+  "description": "Singaporean noodle dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vegetarian-bee-hoon-q24944426/vegetarian-bee-hoon-q24944426-1.jpg",
+    "images/vegetarian-bee-hoon-q24944426/vegetarian-bee-hoon-q24944426-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24944426",
+    "themealdb": null
+  }
+}

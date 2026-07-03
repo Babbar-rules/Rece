@@ -1,0 +1,16 @@
+{
+  "id": "Q24902716",
+  "name": "Saiki ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/saiki-ramen-q24902716/saiki-ramen-q24902716-1.jpg",
+    "images/saiki-ramen-q24902716/saiki-ramen-q24902716-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24902716",
+    "themealdb": null
+  }
+}

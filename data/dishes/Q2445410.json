@@ -1,0 +1,18 @@
+{
+  "id": "Q2445410",
+  "name": "Hyderabadi biryani",
+  "description": "form of biryani, from Hyderabad, India",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hyderabadi-biryani-q2445410/hyderabadi-biryani-q2445410-1.jpg",
+    "images/hyderabadi-biryani-q2445410/hyderabadi-biryani-q2445410-2.jpg",
+    "images/hyderabadi-biryani-q2445410/hyderabadi-biryani-q2445410-3.jpg",
+    "images/hyderabadi-biryani-q2445410/hyderabadi-biryani-q2445410-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2445410",
+    "themealdb": null
+  }
+}

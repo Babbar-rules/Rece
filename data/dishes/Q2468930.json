@@ -1,0 +1,20 @@
+{
+  "id": "Q2468930",
+  "name": "banket",
+  "description": "almond filled pastry",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banket-q2468930/banket-q2468930-1.jpg",
+    "images/banket-q2468930/banket-q2468930-2.jpg",
+    "images/banket-q2468930/banket-q2468930-3.jpg",
+    "images/banket-q2468930/banket-q2468930-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2468930",
+    "themealdb": null
+  }
+}

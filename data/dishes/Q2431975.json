@@ -1,0 +1,20 @@
+{
+  "id": "Q2431975",
+  "name": "yakiniku",
+  "description": "Japanese term meaning grilled meat",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yakiniku-q2431975/yakiniku-q2431975-1.jpg",
+    "images/yakiniku-q2431975/yakiniku-q2431975-2.jpg",
+    "images/yakiniku-q2431975/yakiniku-q2431975-3.jpg",
+    "images/yakiniku-q2431975/yakiniku-q2431975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2431975",
+    "themealdb": null
+  }
+}

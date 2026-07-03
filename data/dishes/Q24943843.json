@@ -1,0 +1,20 @@
+{
+  "id": "Q24943843",
+  "name": "Afghani burger",
+  "description": "Afghan food",
+  "nationality": [
+    "Afghanistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/afghani-burger-q24943843/afghani-burger-q24943843-1.jpg",
+    "images/afghani-burger-q24943843/afghani-burger-q24943843-2.jpg",
+    "images/afghani-burger-q24943843/afghani-burger-q24943843-3.jpg",
+    "images/afghani-burger-q24943843/afghani-burger-q24943843-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24943843",
+    "themealdb": null
+  }
+}

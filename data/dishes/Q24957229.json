@@ -1,0 +1,20 @@
+{
+  "id": "Q24957229",
+  "name": "bánh nướng",
+  "description": "",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-nuong-q24957229/banh-nuong-q24957229-1.jpg",
+    "images/banh-nuong-q24957229/banh-nuong-q24957229-2.jpg",
+    "images/banh-nuong-q24957229/banh-nuong-q24957229-3.jpg",
+    "images/banh-nuong-q24957229/banh-nuong-q24957229-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24957229",
+    "themealdb": null
+  }
+}

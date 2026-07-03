@@ -1,0 +1,20 @@
+{
+  "id": "Q24906665",
+  "name": "Bhendi fry",
+  "description": "Stir fried okra dish",
+  "nationality": [
+    "Indian subcontinent"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bhendi-fry-q24906665/bhendi-fry-q24906665-1.jpg",
+    "images/bhendi-fry-q24906665/bhendi-fry-q24906665-2.jpg",
+    "images/bhendi-fry-q24906665/bhendi-fry-q24906665-3.jpg",
+    "images/bhendi-fry-q24906665/bhendi-fry-q24906665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24906665",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2441329",
+  "name": "dikke koek",
+  "description": "Dutch sweet bread",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dikke-koek-q2441329/dikke-koek-q2441329-1.jpg",
+    "images/dikke-koek-q2441329/dikke-koek-q2441329-2.jpg",
+    "images/dikke-koek-q2441329/dikke-koek-q2441329-3.jpg",
+    "images/dikke-koek-q2441329/dikke-koek-q2441329-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2441329",
+    "themealdb": null
+  }
+}

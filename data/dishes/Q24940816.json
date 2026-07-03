@@ -1,0 +1,20 @@
+{
+  "id": "Q24940816",
+  "name": "pasta e ceci",
+  "description": "Italian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-e-ceci-q24940816/pasta-e-ceci-q24940816-1.jpg",
+    "images/pasta-e-ceci-q24940816/pasta-e-ceci-q24940816-2.jpg",
+    "images/pasta-e-ceci-q24940816/pasta-e-ceci-q24940816-3.jpg",
+    "images/pasta-e-ceci-q24940816/pasta-e-ceci-q24940816-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24940816",
+    "themealdb": null
+  }
+}

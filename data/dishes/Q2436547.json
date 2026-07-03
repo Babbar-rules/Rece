@@ -1,0 +1,20 @@
+{
+  "id": "Q2436547",
+  "name": "Cơm rượu",
+  "description": "Traditional Vietnamese dessert made from glutinous rice",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/com-ruou-q2436547/com-ruou-q2436547-1.jpg",
+    "images/com-ruou-q2436547/com-ruou-q2436547-2.jpg",
+    "images/com-ruou-q2436547/com-ruou-q2436547-3.jpg",
+    "images/com-ruou-q2436547/com-ruou-q2436547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2436547",
+    "themealdb": null
+  }
+}

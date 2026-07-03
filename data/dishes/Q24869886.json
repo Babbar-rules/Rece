@@ -1,0 +1,18 @@
+{
+  "id": "Q24869886",
+  "name": "Saga ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/saga-ramen-q24869886/saga-ramen-q24869886-1.jpg",
+    "images/saga-ramen-q24869886/saga-ramen-q24869886-2.jpg",
+    "images/saga-ramen-q24869886/saga-ramen-q24869886-3.jpg",
+    "images/saga-ramen-q24869886/saga-ramen-q24869886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24869886",
+    "themealdb": null
+  }
+}

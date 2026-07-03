@@ -1,0 +1,18 @@
+{
+  "id": "Q2501196",
+  "name": "shortbread (general)",
+  "description": "pastry made of one part white sugar, two parts butter and three to four parts plain wheat flour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shortbread-general-q2501196/shortbread-general-q2501196-1.jpg",
+    "images/shortbread-general-q2501196/shortbread-general-q2501196-2.jpg",
+    "images/shortbread-general-q2501196/shortbread-general-q2501196-3.jpg",
+    "images/shortbread-general-q2501196/shortbread-general-q2501196-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2501196",
+    "themealdb": null
+  }
+}

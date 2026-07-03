@@ -1,0 +1,18 @@
+{
+  "id": "Q24898518",
+  "name": "shimadōfu",
+  "description": "Type of tofu from Okinawa",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shimadofu-q24898518/shimadofu-q24898518-1.jpg",
+    "images/shimadofu-q24898518/shimadofu-q24898518-2.jpg",
+    "images/shimadofu-q24898518/shimadofu-q24898518-3.jpg",
+    "images/shimadofu-q24898518/shimadofu-q24898518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24898518",
+    "themealdb": null
+  }
+}

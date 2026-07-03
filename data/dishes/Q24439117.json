@@ -1,0 +1,20 @@
+{
+  "id": "Q24439117",
+  "name": "BK Stacker",
+  "description": "family of hamburgers sold by Burger King",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bk-stacker-q24439117/bk-stacker-q24439117-1.jpg",
+    "images/bk-stacker-q24439117/bk-stacker-q24439117-2.jpg",
+    "images/bk-stacker-q24439117/bk-stacker-q24439117-3.png",
+    "images/bk-stacker-q24439117/bk-stacker-q24439117-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24439117",
+    "themealdb": null
+  }
+}

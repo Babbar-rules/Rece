@@ -1,0 +1,22 @@
+{
+  "id": "Q2425845",
+  "name": "sate kambing",
+  "description": "Indonesian goat meat dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/sate-kambing-q2425845/sate-kambing-q2425845-1.jpg",
+    "images/sate-kambing-q2425845/sate-kambing-q2425845-2.jpg",
+    "images/sate-kambing-q2425845/sate-kambing-q2425845-3.jpg",
+    "images/sate-kambing-q2425845/sate-kambing-q2425845-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2425845",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q25004816",
+  "name": "Cornell bread",
+  "description": "",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cornell-bread-q25004816/cornell-bread-q25004816-1.jpg",
+    "images/cornell-bread-q25004816/cornell-bread-q25004816-2.jpg",
+    "images/cornell-bread-q25004816/cornell-bread-q25004816-3.jpg",
+    "images/cornell-bread-q25004816/cornell-bread-q25004816-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004816",
+    "themealdb": null
+  }
+}

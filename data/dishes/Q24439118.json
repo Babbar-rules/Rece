@@ -1,0 +1,18 @@
+{
+  "id": "Q24439118",
+  "name": "Kuro Burger",
+  "description": "black hamburger sold by Burger King Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kuro-burger-q24439118/kuro-burger-q24439118-1.jpg",
+    "images/kuro-burger-q24439118/kuro-burger-q24439118-2.jpg",
+    "images/kuro-burger-q24439118/kuro-burger-q24439118-3.jpg",
+    "images/kuro-burger-q24439118/kuro-burger-q24439118-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24439118",
+    "themealdb": null
+  }
+}

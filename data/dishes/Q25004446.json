@@ -1,0 +1,20 @@
+{
+  "id": "Q25004446",
+  "name": "breakfast burrito",
+  "description": "breakfast entree",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/breakfast-burrito-q25004446/breakfast-burrito-q25004446-1.jpg",
+    "images/breakfast-burrito-q25004446/breakfast-burrito-q25004446-2.jpg",
+    "images/breakfast-burrito-q25004446/breakfast-burrito-q25004446-3.jpg",
+    "images/breakfast-burrito-q25004446/breakfast-burrito-q25004446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004446",
+    "themealdb": null
+  }
+}

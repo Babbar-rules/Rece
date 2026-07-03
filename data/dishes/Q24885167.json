@@ -1,0 +1,20 @@
+{
+  "id": "Q24885167",
+  "name": "Buttermilk curry",
+  "description": "curry made with buttermilk and vegitables",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buttermilk-curry-q24885167/buttermilk-curry-q24885167-1.jpg",
+    "images/buttermilk-curry-q24885167/buttermilk-curry-q24885167-2.jpg",
+    "images/buttermilk-curry-q24885167/buttermilk-curry-q24885167-3.jpg",
+    "images/buttermilk-curry-q24885167/buttermilk-curry-q24885167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24885167",
+    "themealdb": null
+  }
+}

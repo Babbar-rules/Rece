@@ -1,0 +1,20 @@
+{
+  "id": "Q25000110",
+  "name": "Aplets & Cotlets",
+  "description": "type de confection",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aplets-cotlets-q25000110/aplets-cotlets-q25000110-1.jpg",
+    "images/aplets-cotlets-q25000110/aplets-cotlets-q25000110-2.jpg",
+    "images/aplets-cotlets-q25000110/aplets-cotlets-q25000110-3.jpg",
+    "images/aplets-cotlets-q25000110/aplets-cotlets-q25000110-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25000110",
+    "themealdb": null
+  }
+}

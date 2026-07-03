@@ -1,0 +1,20 @@
+{
+  "id": "Q24885642",
+  "name": "nam pla",
+  "description": "Thai fish sauce",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nam-pla-q24885642/nam-pla-q24885642-1.jpg",
+    "images/nam-pla-q24885642/nam-pla-q24885642-2.jpg",
+    "images/nam-pla-q24885642/nam-pla-q24885642-3.jpg",
+    "images/nam-pla-q24885642/nam-pla-q24885642-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24885642",
+    "themealdb": null
+  }
+}

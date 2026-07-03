@@ -1,0 +1,18 @@
+{
+  "id": "Q2500956",
+  "name": "Urojo",
+  "description": "dish in Tanzanian cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/urojo-q2500956/urojo-q2500956-1.jpg",
+    "images/urojo-q2500956/urojo-q2500956-2.jpg",
+    "images/urojo-q2500956/urojo-q2500956-3.jpg",
+    "images/urojo-q2500956/urojo-q2500956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2500956",
+    "themealdb": null
+  }
+}

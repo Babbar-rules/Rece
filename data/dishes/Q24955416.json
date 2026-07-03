@@ -1,0 +1,20 @@
+{
+  "id": "Q24955416",
+  "name": "bánh dẻo",
+  "description": "traditional food during the Tết Trung Thu",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-deo-q24955416/banh-deo-q24955416-1.jpg",
+    "images/banh-deo-q24955416/banh-deo-q24955416-2.jpg",
+    "images/banh-deo-q24955416/banh-deo-q24955416-3.jpg",
+    "images/banh-deo-q24955416/banh-deo-q24955416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24955416",
+    "themealdb": null
+  }
+}

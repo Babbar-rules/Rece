@@ -1,0 +1,20 @@
+{
+  "id": "Q2457672",
+  "name": "nonnevot",
+  "description": "sweet and Salty Limburgian pastry",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nonnevot-q2457672/nonnevot-q2457672-1.jpg",
+    "images/nonnevot-q2457672/nonnevot-q2457672-2.jpg",
+    "images/nonnevot-q2457672/nonnevot-q2457672-3.jpg",
+    "images/nonnevot-q2457672/nonnevot-q2457672-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2457672",
+    "themealdb": null
+  }
+}

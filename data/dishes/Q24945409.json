@@ -1,0 +1,20 @@
+{
+  "id": "Q24945409",
+  "name": "Hainanese curry rice",
+  "description": "Singaporean curry rice and chicken dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hainanese-curry-rice-q24945409/hainanese-curry-rice-q24945409-1.jpg",
+    "images/hainanese-curry-rice-q24945409/hainanese-curry-rice-q24945409-2.jpg",
+    "images/hainanese-curry-rice-q24945409/hainanese-curry-rice-q24945409-3.jpg",
+    "images/hainanese-curry-rice-q24945409/hainanese-curry-rice-q24945409-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24945409",
+    "themealdb": null
+  }
+}

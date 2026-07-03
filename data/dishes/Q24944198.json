@@ -1,0 +1,20 @@
+{
+  "id": "Q24944198",
+  "name": "Katong Laksa",
+  "description": "variant of laksa lemak",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katong-laksa-q24944198/katong-laksa-q24944198-1.jpg",
+    "images/katong-laksa-q24944198/katong-laksa-q24944198-2.jpg",
+    "images/katong-laksa-q24944198/katong-laksa-q24944198-3.jpg",
+    "images/katong-laksa-q24944198/katong-laksa-q24944198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24944198",
+    "themealdb": null
+  }
+}

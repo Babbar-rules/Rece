@@ -1,0 +1,17 @@
+{
+  "id": "Q2481820",
+  "name": "Liers vlaaike",
+  "description": "Belgian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/liers-vlaaike-q2481820/liers-vlaaike-q2481820-1.jpg",
+    "images/liers-vlaaike-q2481820/liers-vlaaike-q2481820-2.jpg",
+    "images/liers-vlaaike-q2481820/liers-vlaaike-q2481820-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2481820",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q2488715",
+  "name": "shiro",
+  "description": "type of stew",
+  "nationality": [
+    "Ethiopia",
+    "Eritrea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shiro-q2488715/shiro-q2488715-1.jpg",
+    "images/shiro-q2488715/shiro-q2488715-2.jpg",
+    "images/shiro-q2488715/shiro-q2488715-3.jpg",
+    "images/shiro-q2488715/shiro-q2488715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2488715",
+    "themealdb": null
+  }
+}

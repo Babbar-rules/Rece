@@ -1,0 +1,22 @@
+{
+  "id": "Q2444993",
+  "name": "çiğ köfte",
+  "description": "raw meat or vegan bulgur dish from the Turkish cuisine",
+  "nationality": [
+    "Turkey",
+    "Armenia",
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cig-kofte-q2444993/cig-kofte-q2444993-1.jpg",
+    "images/cig-kofte-q2444993/cig-kofte-q2444993-2.jpg",
+    "images/cig-kofte-q2444993/cig-kofte-q2444993-3.jpg",
+    "images/cig-kofte-q2444993/cig-kofte-q2444993-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2444993",
+    "themealdb": null
+  }
+}

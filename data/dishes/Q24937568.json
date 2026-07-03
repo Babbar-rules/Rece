@@ -1,0 +1,18 @@
+{
+  "id": "Q24937568",
+  "name": "Pan candeal",
+  "description": "Spanish white bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-candeal-q24937568/pan-candeal-q24937568-1.jpg",
+    "images/pan-candeal-q24937568/pan-candeal-q24937568-2.jpg",
+    "images/pan-candeal-q24937568/pan-candeal-q24937568-3.jpg",
+    "images/pan-candeal-q24937568/pan-candeal-q24937568-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24937568",
+    "themealdb": null
+  }
+}

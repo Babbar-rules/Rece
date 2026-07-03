@@ -1,0 +1,20 @@
+{
+  "id": "Q247969",
+  "name": "Indian ice cream",
+  "description": "dessert made from soapberries and other various fruits, made by native people of the Pacific Northwest region of North America",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/indian-ice-cream-q247969/indian-ice-cream-q247969-1.jpg",
+    "images/indian-ice-cream-q247969/indian-ice-cream-q247969-2.jpg",
+    "images/indian-ice-cream-q247969/indian-ice-cream-q247969-3.jpg",
+    "images/indian-ice-cream-q247969/indian-ice-cream-q247969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247969",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2468860",
+  "name": "chè trôi nước",
+  "description": "Vietnamese dessert",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/che-troi-nuoc-q2468860/che-troi-nuoc-q2468860-1.jpg",
+    "images/che-troi-nuoc-q2468860/che-troi-nuoc-q2468860-2.jpg",
+    "images/che-troi-nuoc-q2468860/che-troi-nuoc-q2468860-3.jpg",
+    "images/che-troi-nuoc-q2468860/che-troi-nuoc-q2468860-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2468860",
+    "themealdb": null
+  }
+}

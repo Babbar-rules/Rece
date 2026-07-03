@@ -1,0 +1,18 @@
+{
+  "id": "Q25004801",
+  "name": "Southern tomato pie",
+  "description": "type of pie from the Southern United States",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/southern-tomato-pie-q25004801/southern-tomato-pie-q25004801-1.jpg",
+    "images/southern-tomato-pie-q25004801/southern-tomato-pie-q25004801-2.jpg",
+    "images/southern-tomato-pie-q25004801/southern-tomato-pie-q25004801-3.jpg",
+    "images/southern-tomato-pie-q25004801/southern-tomato-pie-q25004801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q25004801",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q245752",
+  "name": "banana split",
+  "description": "ice cream-based dessert, consisting of a banana cut in half lengthwise with scoops of ice cream, drizzled sauces, crushed nuts, and a maraschino cherry",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-split-q245752/banana-split-q245752-1.jpg",
+    "images/banana-split-q245752/banana-split-q245752-2.jpg",
+    "images/banana-split-q245752/banana-split-q245752-3.jpg",
+    "images/banana-split-q245752/banana-split-q245752-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q245752",
+    "themealdb": null
+  }
+}

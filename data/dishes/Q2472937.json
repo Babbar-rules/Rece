@@ -1,0 +1,20 @@
+{
+  "id": "Q2472937",
+  "name": "Rasam",
+  "description": "Soup dish from South India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rasam-q2472937/rasam-q2472937-1.jpg",
+    "images/rasam-q2472937/rasam-q2472937-2.jpg",
+    "images/rasam-q2472937/rasam-q2472937-3.jpg",
+    "images/rasam-q2472937/rasam-q2472937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2472937",
+    "themealdb": null
+  }
+}
