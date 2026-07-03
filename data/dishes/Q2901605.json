@@ -1,0 +1,20 @@
+{
+  "id": "Q2901605",
+  "name": "fermented bean curd",
+  "description": "Chinese condiment consisting of a form of processed, preserved tofu used in East Asian cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fermented-bean-curd-q2901605/fermented-bean-curd-q2901605-1.jpg",
+    "images/fermented-bean-curd-q2901605/fermented-bean-curd-q2901605-2.jpg",
+    "images/fermented-bean-curd-q2901605/fermented-bean-curd-q2901605-3.jpg",
+    "images/fermented-bean-curd-q2901605/fermented-bean-curd-q2901605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2901605",
+    "themealdb": null
+  }
+}

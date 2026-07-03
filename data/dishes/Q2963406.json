@@ -1,0 +1,18 @@
+{
+  "id": "Q2963406",
+  "name": "Belgian endive with ham",
+  "description": "Dutch, Belgian, and northern French dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/belgian-endive-with-ham-q2963406/belgian-endive-with-ham-q2963406-1.jpg",
+    "images/belgian-endive-with-ham-q2963406/belgian-endive-with-ham-q2963406-2.jpg",
+    "images/belgian-endive-with-ham-q2963406/belgian-endive-with-ham-q2963406-3.jpg",
+    "images/belgian-endive-with-ham-q2963406/belgian-endive-with-ham-q2963406-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2963406",
+    "themealdb": null
+  }
+}

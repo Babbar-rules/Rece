@@ -1,0 +1,20 @@
+{
+  "id": "Q2915519",
+  "name": "marshmallow creme",
+  "description": "confectionery spread made from marshmallow",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marshmallow-creme-q2915519/marshmallow-creme-q2915519-1.jpg",
+    "images/marshmallow-creme-q2915519/marshmallow-creme-q2915519-2.jpg",
+    "images/marshmallow-creme-q2915519/marshmallow-creme-q2915519-3.jpg",
+    "images/marshmallow-creme-q2915519/marshmallow-creme-q2915519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2915519",
+    "themealdb": null
+  }
+}

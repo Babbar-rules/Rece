@@ -1,0 +1,18 @@
+{
+  "id": "Q2973283",
+  "name": "Sea-pie",
+  "description": "North American dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sea-pie-q2973283/sea-pie-q2973283-1.jpg",
+    "images/sea-pie-q2973283/sea-pie-q2973283-2.jpg",
+    "images/sea-pie-q2973283/sea-pie-q2973283-3.jpg",
+    "images/sea-pie-q2973283/sea-pie-q2973283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2973283",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q2975676",
+  "name": "cock-a-leekie soup",
+  "description": "Scottish soup dish consisting of leeks and peppered chicken stock, often thickened with rice, or sometimes barley",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [
+    "Scottish cuisine"
+  ],
+  "images": [
+    "images/cock-a-leekie-soup-q2975676/cock-a-leekie-soup-q2975676-1.jpg",
+    "images/cock-a-leekie-soup-q2975676/cock-a-leekie-soup-q2975676-2.jpg",
+    "images/cock-a-leekie-soup-q2975676/cock-a-leekie-soup-q2975676-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2975676",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2920132",
+  "name": "Shoti",
+  "description": "type of traditional Georgian bread",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shoti-q2920132/shoti-q2920132-1.jpg",
+    "images/shoti-q2920132/shoti-q2920132-2.jpg",
+    "images/shoti-q2920132/shoti-q2920132-3.jpg",
+    "images/shoti-q2920132/shoti-q2920132-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2920132",
+    "themealdb": null
+  }
+}

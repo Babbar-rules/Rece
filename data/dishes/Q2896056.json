@@ -1,0 +1,20 @@
+{
+  "id": "Q2896056",
+  "name": "Bath bun",
+  "description": "sweet bun with segar sprinkles",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bath-bun-q2896056/bath-bun-q2896056-1.jpg",
+    "images/bath-bun-q2896056/bath-bun-q2896056-2.jpg",
+    "images/bath-bun-q2896056/bath-bun-q2896056-3.jpg",
+    "images/bath-bun-q2896056/bath-bun-q2896056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2896056",
+    "themealdb": null
+  }
+}

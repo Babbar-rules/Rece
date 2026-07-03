@@ -1,0 +1,18 @@
+{
+  "id": "Q29019737",
+  "name": "Clam soup",
+  "description": "soup prepared with clams",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clam-soup-q29019737/clam-soup-q29019737-1.jpg",
+    "images/clam-soup-q29019737/clam-soup-q29019737-2.jpg",
+    "images/clam-soup-q29019737/clam-soup-q29019737-3.jpg",
+    "images/clam-soup-q29019737/clam-soup-q29019737-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29019737",
+    "themealdb": null
+  }
+}

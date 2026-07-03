@@ -1,0 +1,21 @@
+{
+  "id": "Q2918182",
+  "name": "chicken lollipop",
+  "description": "fried chicken appetizer from Indo-Chinese cuisine",
+  "nationality": [
+    "India",
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-lollipop-q2918182/chicken-lollipop-q2918182-1.jpg",
+    "images/chicken-lollipop-q2918182/chicken-lollipop-q2918182-2.jpg",
+    "images/chicken-lollipop-q2918182/chicken-lollipop-q2918182-3.jpg",
+    "images/chicken-lollipop-q2918182/chicken-lollipop-q2918182-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2918182",
+    "themealdb": null
+  }
+}

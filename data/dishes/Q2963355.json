@@ -1,0 +1,20 @@
+{
+  "id": "Q2963355",
+  "name": "shish taouk",
+  "description": "dish of Levantine cuisine, skewers of marinated chicken pieces",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shish-taouk-q2963355/shish-taouk-q2963355-1.jpg",
+    "images/shish-taouk-q2963355/shish-taouk-q2963355-2.jpg",
+    "images/shish-taouk-q2963355/shish-taouk-q2963355-3.jpg",
+    "images/shish-taouk-q2963355/shish-taouk-q2963355-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2963355",
+    "themealdb": null
+  }
+}

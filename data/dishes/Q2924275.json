@@ -1,0 +1,20 @@
+{
+  "id": "Q2924275",
+  "name": "Bredela",
+  "description": "biscuits or small cakes traditionally baked in Alsace and Moselle (France), especially during the Christmas period",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bredela-q2924275/bredela-q2924275-1.jpg",
+    "images/bredela-q2924275/bredela-q2924275-2.jpg",
+    "images/bredela-q2924275/bredela-q2924275-3.jpg",
+    "images/bredela-q2924275/bredela-q2924275-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2924275",
+    "themealdb": null
+  }
+}

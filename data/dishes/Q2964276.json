@@ -1,0 +1,18 @@
+{
+  "id": "Q2964276",
+  "name": "chocolat liégeois",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolat-liegeois-q2964276/chocolat-liegeois-q2964276-1.jpg",
+    "images/chocolat-liegeois-q2964276/chocolat-liegeois-q2964276-2.jpg",
+    "images/chocolat-liegeois-q2964276/chocolat-liegeois-q2964276-3.jpg",
+    "images/chocolat-liegeois-q2964276/chocolat-liegeois-q2964276-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2964276",
+    "themealdb": null
+  }
+}

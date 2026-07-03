@@ -1,0 +1,20 @@
+{
+  "id": "Q2915670",
+  "name": "Sablé",
+  "description": "type of shortbread cookie of French origin",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sable-q2915670/sable-q2915670-1.jpg",
+    "images/sable-q2915670/sable-q2915670-2.jpg",
+    "images/sable-q2915670/sable-q2915670-3.jpg",
+    "images/sable-q2915670/sable-q2915670-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2915670",
+    "themealdb": null
+  }
+}

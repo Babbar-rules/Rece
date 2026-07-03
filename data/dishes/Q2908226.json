@@ -1,0 +1,20 @@
+{
+  "id": "Q2908226",
+  "name": "Bobó de camarão",
+  "description": "Brazilian shrimp chowder",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/bobo-de-camarao-q2908226/bobo-de-camarao-q2908226-1.jpg",
+    "images/bobo-de-camarao-q2908226/bobo-de-camarao-q2908226-2.jpg",
+    "images/bobo-de-camarao-q2908226/bobo-de-camarao-q2908226-3.jpg",
+    "images/bobo-de-camarao-q2908226/bobo-de-camarao-q2908226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2908226",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q29452616",
+  "name": "polenta taragna",
+  "description": "Italian polenta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/polenta-taragna-q29452616/polenta-taragna-q29452616-1.jpg",
+    "images/polenta-taragna-q29452616/polenta-taragna-q29452616-2.jpg",
+    "images/polenta-taragna-q29452616/polenta-taragna-q29452616-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29452616",
+    "themealdb": null
+  }
+}

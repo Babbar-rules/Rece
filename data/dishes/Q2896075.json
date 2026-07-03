@@ -1,0 +1,21 @@
+{
+  "id": "Q2896075",
+  "name": "Sally Lunn bun",
+  "description": "sort of hot roll, first popular in Bath",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sally-lunn-bun-q2896075/sally-lunn-bun-q2896075-1.jpg",
+    "images/sally-lunn-bun-q2896075/sally-lunn-bun-q2896075-2.jpg",
+    "images/sally-lunn-bun-q2896075/sally-lunn-bun-q2896075-3.jpg",
+    "images/sally-lunn-bun-q2896075/sally-lunn-bun-q2896075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2896075",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q29477",
+  "name": "Devil's food cake",
+  "description": "moist, airy, rich chocolate layer cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/devils-food-cake-q29477/devils-food-cake-q29477-1.jpg",
+    "images/devils-food-cake-q29477/devils-food-cake-q29477-2.png",
+    "images/devils-food-cake-q29477/devils-food-cake-q29477-3.jpg",
+    "images/devils-food-cake-q29477/devils-food-cake-q29477-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29477",
+    "themealdb": null
+  }
+}

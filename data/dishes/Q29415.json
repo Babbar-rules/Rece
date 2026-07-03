@@ -1,0 +1,22 @@
+{
+  "id": "Q29415",
+  "name": "angel food cake",
+  "description": "type of sponge cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/angel-food-cake-q29415/angel-food-cake-q29415-1.jpg",
+    "images/angel-food-cake-q29415/angel-food-cake-q29415-2.jpg",
+    "images/angel-food-cake-q29415/angel-food-cake-q29415-3.jpg",
+    "images/angel-food-cake-q29415/angel-food-cake-q29415-4.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29415",
+    "themealdb": null
+  }
+}

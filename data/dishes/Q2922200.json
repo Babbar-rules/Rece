@@ -1,0 +1,19 @@
+{
+  "id": "Q2922200",
+  "name": "Bouneschlupp",
+  "description": "European bean soup",
+  "nationality": [
+    "Luxembourg"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bouneschlupp-q2922200/bouneschlupp-q2922200-1.jpg",
+    "images/bouneschlupp-q2922200/bouneschlupp-q2922200-2.jpg",
+    "images/bouneschlupp-q2922200/bouneschlupp-q2922200-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2922200",
+    "themealdb": null
+  }
+}

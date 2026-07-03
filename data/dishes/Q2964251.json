@@ -1,0 +1,20 @@
+{
+  "id": "Q2964251",
+  "name": "chochoca",
+  "description": "Chilean dish",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chochoca-q2964251/chochoca-q2964251-1.jpg",
+    "images/chochoca-q2964251/chochoca-q2964251-2.jpg",
+    "images/chochoca-q2964251/chochoca-q2964251-3.jpg",
+    "images/chochoca-q2964251/chochoca-q2964251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2964251",
+    "themealdb": null
+  }
+}

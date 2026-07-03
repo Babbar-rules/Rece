@@ -1,0 +1,18 @@
+{
+  "id": "Q2967656",
+  "name": "Chupe",
+  "description": "variety of stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chupe-q2967656/chupe-q2967656-1.jpg",
+    "images/chupe-q2967656/chupe-q2967656-2.jpg",
+    "images/chupe-q2967656/chupe-q2967656-3.jpg",
+    "images/chupe-q2967656/chupe-q2967656-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2967656",
+    "themealdb": null
+  }
+}

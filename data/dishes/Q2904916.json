@@ -1,0 +1,20 @@
+{
+  "id": "Q2904916",
+  "name": "Bagel toast",
+  "description": "bagel sandwich common in Israel",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bagel-toast-q2904916/bagel-toast-q2904916-1.jpg",
+    "images/bagel-toast-q2904916/bagel-toast-q2904916-2.jpg",
+    "images/bagel-toast-q2904916/bagel-toast-q2904916-3.jpg",
+    "images/bagel-toast-q2904916/bagel-toast-q2904916-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2904916",
+    "themealdb": null
+  }
+}

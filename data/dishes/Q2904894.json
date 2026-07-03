@@ -1,0 +1,20 @@
+{
+  "id": "Q2904894",
+  "name": "miga sandwich",
+  "description": "popular food item in Uruguay and Argentina",
+  "nationality": [
+    "Turin"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miga-sandwich-q2904894/miga-sandwich-q2904894-1.jpg",
+    "images/miga-sandwich-q2904894/miga-sandwich-q2904894-2.jpg",
+    "images/miga-sandwich-q2904894/miga-sandwich-q2904894-3.jpg",
+    "images/miga-sandwich-q2904894/miga-sandwich-q2904894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2904894",
+    "themealdb": null
+  }
+}

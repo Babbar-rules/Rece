@@ -1,0 +1,20 @@
+{
+  "id": "Q2984163",
+  "name": "Colombier",
+  "description": "traditional French cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/colombier-q2984163/colombier-q2984163-1.jpg",
+    "images/colombier-q2984163/colombier-q2984163-2.jpg",
+    "images/colombier-q2984163/colombier-q2984163-3.jpg",
+    "images/colombier-q2984163/colombier-q2984163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2984163",
+    "themealdb": null
+  }
+}

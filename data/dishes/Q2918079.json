@@ -1,0 +1,25 @@
+{
+  "id": "Q2918079",
+  "name": "falooda",
+  "description": "liquid dessert",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [
+    "Pakistani cuisine",
+    "Iranian cuisine",
+    "Indian cuisine",
+    "Afghan cuisine"
+  ],
+  "images": [
+    "images/falooda-q2918079/falooda-q2918079-1.jpg",
+    "images/falooda-q2918079/falooda-q2918079-2.jpg",
+    "images/falooda-q2918079/falooda-q2918079-3.jpg",
+    "images/falooda-q2918079/falooda-q2918079-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2918079",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2893975",
+  "name": "potato doughnut",
+  "description": "sweet potato-based treat",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-doughnut-q2893975/potato-doughnut-q2893975-1.jpg",
+    "images/potato-doughnut-q2893975/potato-doughnut-q2893975-2.jpg",
+    "images/potato-doughnut-q2893975/potato-doughnut-q2893975-3.jpg",
+    "images/potato-doughnut-q2893975/potato-doughnut-q2893975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2893975",
+    "themealdb": null
+  }
+}

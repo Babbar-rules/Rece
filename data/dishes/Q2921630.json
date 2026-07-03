@@ -1,0 +1,19 @@
+{
+  "id": "Q2921630",
+  "name": "Awara broth",
+  "description": "Creole stew with pork, chicken, seafood and vegetables",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/awara-broth-q2921630/awara-broth-q2921630-1.jpg",
+    "images/awara-broth-q2921630/awara-broth-q2921630-2.jpg",
+    "images/awara-broth-q2921630/awara-broth-q2921630-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2921630",
+    "themealdb": null
+  }
+}

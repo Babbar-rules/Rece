@@ -1,0 +1,20 @@
+{
+  "id": "Q2981212",
+  "name": "Cocada",
+  "description": "traditional coconut confection found in Latin America",
+  "nationality": [
+    "Latin America"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cocada-q2981212/cocada-q2981212-1.png",
+    "images/cocada-q2981212/cocada-q2981212-2.png",
+    "images/cocada-q2981212/cocada-q2981212-3.png",
+    "images/cocada-q2981212/cocada-q2981212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2981212",
+    "themealdb": null
+  }
+}

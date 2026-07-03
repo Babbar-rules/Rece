@@ -1,0 +1,20 @@
+{
+  "id": "Q2896351",
+  "name": "Watergate salad",
+  "description": "type of salad",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/watergate-salad-q2896351/watergate-salad-q2896351-1.jpg",
+    "images/watergate-salad-q2896351/watergate-salad-q2896351-2.jpg",
+    "images/watergate-salad-q2896351/watergate-salad-q2896351-3.jpg",
+    "images/watergate-salad-q2896351/watergate-salad-q2896351-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2896351",
+    "themealdb": null
+  }
+}

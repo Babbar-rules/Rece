@@ -1,0 +1,20 @@
+{
+  "id": "Q29048545",
+  "name": "dosirak",
+  "description": "packed meal",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dosirak-q29048545/dosirak-q29048545-1.jpg",
+    "images/dosirak-q29048545/dosirak-q29048545-2.jpg",
+    "images/dosirak-q29048545/dosirak-q29048545-3.jpg",
+    "images/dosirak-q29048545/dosirak-q29048545-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29048545",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2943475",
+  "name": "Cazuela",
+  "description": "South American dishes cooked in shallow unglazed earthenware",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cazuela-q2943475/cazuela-q2943475-1.jpg",
+    "images/cazuela-q2943475/cazuela-q2943475-2.jpg",
+    "images/cazuela-q2943475/cazuela-q2943475-3.jpg",
+    "images/cazuela-q2943475/cazuela-q2943475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2943475",
+    "themealdb": null
+  }
+}

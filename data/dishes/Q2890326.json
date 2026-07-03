@@ -1,0 +1,18 @@
+{
+  "id": "Q2890326",
+  "name": "Strawberries and cream",
+  "description": "typical English summer dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberries-and-cream-q2890326/strawberries-and-cream-q2890326-1.jpg",
+    "images/strawberries-and-cream-q2890326/strawberries-and-cream-q2890326-2.jpg",
+    "images/strawberries-and-cream-q2890326/strawberries-and-cream-q2890326-3.jpg",
+    "images/strawberries-and-cream-q2890326/strawberries-and-cream-q2890326-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2890326",
+    "themealdb": null
+  }
+}

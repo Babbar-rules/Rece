@@ -1,0 +1,20 @@
+{
+  "id": "Q2936384",
+  "name": "canistrelli",
+  "description": "Corsican shortbread cookies",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/canistrelli-q2936384/canistrelli-q2936384-1.jpg",
+    "images/canistrelli-q2936384/canistrelli-q2936384-2.jpg",
+    "images/canistrelli-q2936384/canistrelli-q2936384-3.jpg",
+    "images/canistrelli-q2936384/canistrelli-q2936384-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2936384",
+    "themealdb": null
+  }
+}

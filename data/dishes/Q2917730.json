@@ -1,0 +1,18 @@
+{
+  "id": "Q2917730",
+  "name": "Crema de frijoles",
+  "description": "Colombian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crema-de-frijoles-q2917730/crema-de-frijoles-q2917730-1.jpg",
+    "images/crema-de-frijoles-q2917730/crema-de-frijoles-q2917730-2.jpg",
+    "images/crema-de-frijoles-q2917730/crema-de-frijoles-q2917730-3.jpg",
+    "images/crema-de-frijoles-q2917730/crema-de-frijoles-q2917730-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2917730",
+    "themealdb": null
+  }
+}

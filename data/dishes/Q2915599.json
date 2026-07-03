@@ -1,0 +1,18 @@
+{
+  "id": "Q2915599",
+  "name": "compound chocolate",
+  "description": "inexpensive chocolate substitute that uses cocoa but excludes cocoa butter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/compound-chocolate-q2915599/compound-chocolate-q2915599-1.jpg",
+    "images/compound-chocolate-q2915599/compound-chocolate-q2915599-2.jpg",
+    "images/compound-chocolate-q2915599/compound-chocolate-q2915599-3.jpg",
+    "images/compound-chocolate-q2915599/compound-chocolate-q2915599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2915599",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2937861",
+  "name": "krówki",
+  "description": "toffee-like confectionery that is less sticky than toffee",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/krowki-q2937861/krowki-q2937861-1.jpg",
+    "images/krowki-q2937861/krowki-q2937861-2.jpg",
+    "images/krowki-q2937861/krowki-q2937861-3.jpg",
+    "images/krowki-q2937861/krowki-q2937861-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2937861",
+    "themealdb": null
+  }
+}

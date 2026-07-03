@@ -1,0 +1,19 @@
+{
+  "id": "Q2937863",
+  "name": "Caramilk",
+  "description": "Chocolate brand by Cadbury",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caramilk-q2937863/caramilk-q2937863-1.png",
+    "images/caramilk-q2937863/caramilk-q2937863-2.jpg",
+    "images/caramilk-q2937863/caramilk-q2937863-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2937863",
+    "themealdb": null
+  }
+}

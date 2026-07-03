@@ -1,0 +1,20 @@
+{
+  "id": "Q2915502",
+  "name": "jellied eels",
+  "description": "traditional English dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jellied-eels-q2915502/jellied-eels-q2915502-1.jpg",
+    "images/jellied-eels-q2915502/jellied-eels-q2915502-2.jpg",
+    "images/jellied-eels-q2915502/jellied-eels-q2915502-3.jpg",
+    "images/jellied-eels-q2915502/jellied-eels-q2915502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2915502",
+    "themealdb": null
+  }
+}

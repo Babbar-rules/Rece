@@ -1,0 +1,18 @@
+{
+  "id": "Q2963582",
+  "name": "Chilaquiles",
+  "description": "traditional Mexican dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chilaquiles-q2963582/chilaquiles-q2963582-1.jpg",
+    "images/chilaquiles-q2963582/chilaquiles-q2963582-2.jpg",
+    "images/chilaquiles-q2963582/chilaquiles-q2963582-3.jpg",
+    "images/chilaquiles-q2963582/chilaquiles-q2963582-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2963582",
+    "themealdb": null
+  }
+}

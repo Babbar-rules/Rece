@@ -1,0 +1,22 @@
+{
+  "id": "Q2916159",
+  "name": "ambrosia",
+  "description": "type of fruit salad originating in the southern United States, consisting of pineapple, orange, miniature marshmallows and coconut",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the Southern United States"
+  ],
+  "images": [
+    "images/ambrosia-q2916159/ambrosia-q2916159-1.jpg",
+    "images/ambrosia-q2916159/ambrosia-q2916159-2.jpg",
+    "images/ambrosia-q2916159/ambrosia-q2916159-3.jpg",
+    "images/ambrosia-q2916159/ambrosia-q2916159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2916159",
+    "themealdb": null
+  }
+}

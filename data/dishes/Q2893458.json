@@ -1,0 +1,18 @@
+{
+  "id": "Q2893458",
+  "name": "Bechkito",
+  "description": "Moroccan biscuit",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bechkito-q2893458/bechkito-q2893458-1.jpg",
+    "images/bechkito-q2893458/bechkito-q2893458-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2893458",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q2911553",
+  "name": "rat na",
+  "description": "Thai-Chinese noodle dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/rat-na-q2911553/rat-na-q2911553-1.jpg",
+    "images/rat-na-q2911553/rat-na-q2911553-2.jpg",
+    "images/rat-na-q2911553/rat-na-q2911553-3.png",
+    "images/rat-na-q2911553/rat-na-q2911553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2911553",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q29214",
+  "name": "sheet cake",
+  "description": "flat rectangular cake; cake baked in a large, flat rectangular pan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sheet-cake-q29214/sheet-cake-q29214-1.jpg",
+    "images/sheet-cake-q29214/sheet-cake-q29214-2.jpg",
+    "images/sheet-cake-q29214/sheet-cake-q29214-3.jpg",
+    "images/sheet-cake-q29214/sheet-cake-q29214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29214",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q2906052",
+  "name": "Gribenes",
+  "description": "Ashkenazi Jewish dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "Jewish cuisine"
+  ],
+  "images": [
+    "images/gribenes-q2906052/gribenes-q2906052-1.jpg",
+    "images/gribenes-q2906052/gribenes-q2906052-2.jpg",
+    "images/gribenes-q2906052/gribenes-q2906052-3.jpg",
+    "images/gribenes-q2906052/gribenes-q2906052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2906052",
+    "themealdb": null
+  }
+}

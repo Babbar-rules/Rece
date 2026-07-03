@@ -1,0 +1,20 @@
+{
+  "id": "Q29467976",
+  "name": "Shooter's sandwich",
+  "description": "steak sandwich of English origin",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shooters-sandwich-q29467976/shooters-sandwich-q29467976-1.jpg",
+    "images/shooters-sandwich-q29467976/shooters-sandwich-q29467976-2.jpg",
+    "images/shooters-sandwich-q29467976/shooters-sandwich-q29467976-3.jpg",
+    "images/shooters-sandwich-q29467976/shooters-sandwich-q29467976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29467976",
+    "themealdb": null
+  }
+}

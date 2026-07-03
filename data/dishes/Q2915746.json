@@ -1,0 +1,22 @@
+{
+  "id": "Q2915746",
+  "name": "Torta caprese",
+  "description": "Italian chocolate and walnut cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/torta-caprese-q2915746/torta-caprese-q2915746-1.jpg",
+    "images/torta-caprese-q2915746/torta-caprese-q2915746-2.jpg",
+    "images/torta-caprese-q2915746/torta-caprese-q2915746-3.png",
+    "images/torta-caprese-q2915746/torta-caprese-q2915746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2915746",
+    "themealdb": null
+  }
+}

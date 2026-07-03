@@ -1,0 +1,21 @@
+{
+  "id": "Q2890029",
+  "name": "Charquicán",
+  "description": "stew consumed in the Andean region",
+  "nationality": [
+    "Peru",
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/charquican-q2890029/charquican-q2890029-1.png",
+    "images/charquican-q2890029/charquican-q2890029-2.png",
+    "images/charquican-q2890029/charquican-q2890029-3.jpg",
+    "images/charquican-q2890029/charquican-q2890029-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2890029",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2891082",
+  "name": "Batata harra",
+  "description": "Lebanese vegetable dish",
+  "nationality": [
+    "Lebanon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/batata-harra-q2891082/batata-harra-q2891082-1.jpg",
+    "images/batata-harra-q2891082/batata-harra-q2891082-2.jpg",
+    "images/batata-harra-q2891082/batata-harra-q2891082-3.jpg",
+    "images/batata-harra-q2891082/batata-harra-q2891082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2891082",
+    "themealdb": null
+  }
+}

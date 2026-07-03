@@ -1,0 +1,20 @@
+{
+  "id": "Q2900923",
+  "name": "candy pumpkin",
+  "description": "pumpkin-shaped creme confection",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/candy-pumpkin-q2900923/candy-pumpkin-q2900923-1.jpg",
+    "images/candy-pumpkin-q2900923/candy-pumpkin-q2900923-2.jpg",
+    "images/candy-pumpkin-q2900923/candy-pumpkin-q2900923-3.jpg",
+    "images/candy-pumpkin-q2900923/candy-pumpkin-q2900923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2900923",
+    "themealdb": null
+  }
+}

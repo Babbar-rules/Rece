@@ -1,0 +1,22 @@
+{
+  "id": "Q2922222",
+  "name": "Boûkète",
+  "description": "Belgian pancake",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/boukete-q2922222/boukete-q2922222-1.jpeg",
+    "images/boukete-q2922222/boukete-q2922222-2.jpeg",
+    "images/boukete-q2922222/boukete-q2922222-3.jpg",
+    "images/boukete-q2922222/boukete-q2922222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2922222",
+    "themealdb": null
+  }
+}

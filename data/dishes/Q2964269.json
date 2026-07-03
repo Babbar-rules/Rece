@@ -1,0 +1,22 @@
+{
+  "id": "Q2964269",
+  "name": "Belgian chocolate",
+  "description": "chocolate produced in Belgium",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/belgian-chocolate-q2964269/belgian-chocolate-q2964269-1.jpg",
+    "images/belgian-chocolate-q2964269/belgian-chocolate-q2964269-2.jpg",
+    "images/belgian-chocolate-q2964269/belgian-chocolate-q2964269-3.jpg",
+    "images/belgian-chocolate-q2964269/belgian-chocolate-q2964269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2964269",
+    "themealdb": null
+  }
+}

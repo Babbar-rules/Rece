@@ -1,0 +1,18 @@
+{
+  "id": "Q29340",
+  "name": "sweet bean paste",
+  "description": "bean paste used in several Asian cuisines",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-bean-paste-q29340/sweet-bean-paste-q29340-1.jpg",
+    "images/sweet-bean-paste-q29340/sweet-bean-paste-q29340-2.jpg",
+    "images/sweet-bean-paste-q29340/sweet-bean-paste-q29340-3.jpg",
+    "images/sweet-bean-paste-q29340/sweet-bean-paste-q29340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29340",
+    "themealdb": null
+  }
+}

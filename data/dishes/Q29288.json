@@ -1,0 +1,20 @@
+{
+  "id": "Q29288",
+  "name": "Caesar",
+  "description": "cocktail created and primarily consumed in Canada",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caesar-q29288/caesar-q29288-1.jpg",
+    "images/caesar-q29288/caesar-q29288-2.jpg",
+    "images/caesar-q29288/caesar-q29288-3.jpg",
+    "images/caesar-q29288/caesar-q29288-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29288",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2932621",
+  "name": "Cadbury Creme Egg",
+  "description": "chocolate egg with white creme filling",
+  "nationality": [
+    "Fart"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cadbury-creme-egg-q2932621/cadbury-creme-egg-q2932621-1.jpg",
+    "images/cadbury-creme-egg-q2932621/cadbury-creme-egg-q2932621-2.jpg",
+    "images/cadbury-creme-egg-q2932621/cadbury-creme-egg-q2932621-3.jpg",
+    "images/cadbury-creme-egg-q2932621/cadbury-creme-egg-q2932621-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2932621",
+    "themealdb": null
+  }
+}

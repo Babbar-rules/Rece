@@ -1,0 +1,18 @@
+{
+  "id": "Q29840885",
+  "name": "chocolate bunny",
+  "description": "piece of chocolate in the shape of a rabbit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-bunny-q29840885/chocolate-bunny-q29840885-1.jpg",
+    "images/chocolate-bunny-q29840885/chocolate-bunny-q29840885-2.jpg",
+    "images/chocolate-bunny-q29840885/chocolate-bunny-q29840885-3.jpg",
+    "images/chocolate-bunny-q29840885/chocolate-bunny-q29840885-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29840885",
+    "themealdb": null
+  }
+}

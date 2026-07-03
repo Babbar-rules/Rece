@@ -1,0 +1,24 @@
+{
+  "id": "Q2916235",
+  "name": "Piyaz",
+  "description": "Turkish cuisine cold dish (meze or salad)",
+  "nationality": [
+    "Turkey",
+    "Iran",
+    "Iraq"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/piyaz-q2916235/piyaz-q2916235-1.jpg",
+    "images/piyaz-q2916235/piyaz-q2916235-2.jpg",
+    "images/piyaz-q2916235/piyaz-q2916235-3.jpg",
+    "images/piyaz-q2916235/piyaz-q2916235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2916235",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "Q2892954",
+  "name": "Matambre",
+  "description": "thin cut of beef in South American cuisine",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/matambre-q2892954/matambre-q2892954-1.jpg",
+    "images/matambre-q2892954/matambre-q2892954-2.jpg",
+    "images/matambre-q2892954/matambre-q2892954-3.jpg",
+    "images/matambre-q2892954/matambre-q2892954-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53140",
+    "category": "Beef",
+    "area": "Argentina",
+    "instructions": "Prepare the Steak: Season the steak with salt and pepper. Grill one side until half-cooked.\r\nAdd Toppings: Spread tomato sauce over the cooked side, then add cheese, oregano, and olives.\r\nFinish Grilling: Grill until the cheese is melted and bubbly.\r\nServe: Slice and serve hot.\r\nPro Tips:\r\n\r\nTenderize the matambre by scoring it lightly on both sides. This helps it cook more evenly and absorb the flavors.\r\nPrecook the matambre on the grill before adding the toppings to ensure it's fully cooked without burning the cheese.",
+    "ingredients": [
+      {
+        "ingredient": "Beef Flank Steak",
+        "measure": "1 kg"
+      },
+      {
+        "ingredient": "Tomato Sauce",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Mozzarella",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Oregano",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Green Olives",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=X5UxDaNHD30",
+    "thumb": "https://www.themealdb.com/images/media/meals/wf49qs1763075222.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2892954",
+    "themealdb": "53140"
+  }
+}

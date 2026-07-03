@@ -1,0 +1,24 @@
+{
+  "id": "Q2920546",
+  "name": "dulce de batata",
+  "description": "sweet potato jelly",
+  "nationality": [
+    "Latin America"
+  ],
+  "region_cuisine": [
+    "Paraguayan cuisine",
+    "Uruguayan cuisine",
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/dulce-de-batata-q2920546/dulce-de-batata-q2920546-1.jpg",
+    "images/dulce-de-batata-q2920546/dulce-de-batata-q2920546-2.jpg",
+    "images/dulce-de-batata-q2920546/dulce-de-batata-q2920546-3.jpg",
+    "images/dulce-de-batata-q2920546/dulce-de-batata-q2920546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2920546",
+    "themealdb": null
+  }
+}

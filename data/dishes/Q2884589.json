@@ -1,0 +1,20 @@
+{
+  "id": "Q2884589",
+  "name": "bocadillo",
+  "description": "The bocadillo or bocata is a sandwich made with Spanish bread, usually a baguette or similar type of bread, cut lengthwise, sometimes seasoned with sauces like mayonnaise, aioli, ketchup, mustard or tomato sauce.",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bocadillo-q2884589/bocadillo-q2884589-1.jpg",
+    "images/bocadillo-q2884589/bocadillo-q2884589-2.jpg",
+    "images/bocadillo-q2884589/bocadillo-q2884589-3.jpg",
+    "images/bocadillo-q2884589/bocadillo-q2884589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2884589",
+    "themealdb": null
+  }
+}

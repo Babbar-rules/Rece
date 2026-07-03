@@ -1,0 +1,20 @@
+{
+  "id": "Q2917846",
+  "name": "black bun",
+  "description": "type of fruit cake associated with Scotland",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-bun-q2917846/black-bun-q2917846-1.jpg",
+    "images/black-bun-q2917846/black-bun-q2917846-2.jpg",
+    "images/black-bun-q2917846/black-bun-q2917846-3.jpg",
+    "images/black-bun-q2917846/black-bun-q2917846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2917846",
+    "themealdb": null
+  }
+}

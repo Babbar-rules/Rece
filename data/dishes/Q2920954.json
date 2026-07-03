@@ -1,0 +1,20 @@
+{
+  "id": "Q2920954",
+  "name": "potjiekos",
+  "description": "South African stew prepared in a round, cast iron, three-legged pot",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potjiekos-q2920954/potjiekos-q2920954-1.jpg",
+    "images/potjiekos-q2920954/potjiekos-q2920954-2.jpg",
+    "images/potjiekos-q2920954/potjiekos-q2920954-3.jpg",
+    "images/potjiekos-q2920954/potjiekos-q2920954-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2920954",
+    "themealdb": null
+  }
+}

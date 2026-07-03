@@ -1,0 +1,20 @@
+{
+  "id": "Q2984414",
+  "name": "uirō",
+  "description": "Japanese steamed cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uiro-q2984414/uiro-q2984414-1.jpg",
+    "images/uiro-q2984414/uiro-q2984414-2.jpg",
+    "images/uiro-q2984414/uiro-q2984414-3.jpg",
+    "images/uiro-q2984414/uiro-q2984414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2984414",
+    "themealdb": null
+  }
+}

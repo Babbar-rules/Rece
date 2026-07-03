@@ -1,0 +1,20 @@
+{
+  "id": "Q2893738",
+  "name": "Hershey's Kisses",
+  "description": "Chocolate candy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hersheys-kisses-q2893738/hersheys-kisses-q2893738-1.jpg",
+    "images/hersheys-kisses-q2893738/hersheys-kisses-q2893738-2.jpg",
+    "images/hersheys-kisses-q2893738/hersheys-kisses-q2893738-3.jpg",
+    "images/hersheys-kisses-q2893738/hersheys-kisses-q2893738-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2893738",
+    "themealdb": null
+  }
+}

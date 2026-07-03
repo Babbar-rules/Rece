@@ -1,0 +1,18 @@
+{
+  "id": "Q2902203",
+  "name": "salted duck egg",
+  "description": "traditional Asian dish common in several regions",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salted-duck-egg-q2902203/salted-duck-egg-q2902203-1.jpg",
+    "images/salted-duck-egg-q2902203/salted-duck-egg-q2902203-2.jpg",
+    "images/salted-duck-egg-q2902203/salted-duck-egg-q2902203-3.jpg",
+    "images/salted-duck-egg-q2902203/salted-duck-egg-q2902203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2902203",
+    "themealdb": null
+  }
+}

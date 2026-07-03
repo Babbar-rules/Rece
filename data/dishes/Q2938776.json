@@ -1,0 +1,20 @@
+{
+  "id": "Q2938776",
+  "name": "caricole",
+  "description": "",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caricole-q2938776/caricole-q2938776-1.jpg",
+    "images/caricole-q2938776/caricole-q2938776-2.jpg",
+    "images/caricole-q2938776/caricole-q2938776-3.jpg",
+    "images/caricole-q2938776/caricole-q2938776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2938776",
+    "themealdb": null
+  }
+}

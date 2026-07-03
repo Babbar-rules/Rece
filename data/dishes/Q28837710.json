@@ -1,0 +1,20 @@
+{
+  "id": "Q28837710",
+  "name": "shōyu",
+  "description": "soy sauce made in Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shoyu-q28837710/shoyu-q28837710-1.png",
+    "images/shoyu-q28837710/shoyu-q28837710-2.jpg",
+    "images/shoyu-q28837710/shoyu-q28837710-3.jpg",
+    "images/shoyu-q28837710/shoyu-q28837710-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28837710",
+    "themealdb": null
+  }
+}

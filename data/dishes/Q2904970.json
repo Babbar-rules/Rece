@@ -1,0 +1,20 @@
+{
+  "id": "Q2904970",
+  "name": "fried green tomatoes",
+  "description": "dish in the United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-green-tomatoes-q2904970/fried-green-tomatoes-q2904970-1.jpg",
+    "images/fried-green-tomatoes-q2904970/fried-green-tomatoes-q2904970-2.jpg",
+    "images/fried-green-tomatoes-q2904970/fried-green-tomatoes-q2904970-3.jpg",
+    "images/fried-green-tomatoes-q2904970/fried-green-tomatoes-q2904970-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2904970",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2926353",
+  "name": "broyé du Poitou",
+  "description": "French pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/broye-du-poitou-q2926353/broye-du-poitou-q2926353-1.jpg",
+    "images/broye-du-poitou-q2926353/broye-du-poitou-q2926353-2.jpg",
+    "images/broye-du-poitou-q2926353/broye-du-poitou-q2926353-3.jpg",
+    "images/broye-du-poitou-q2926353/broye-du-poitou-q2926353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2926353",
+    "themealdb": null
+  }
+}

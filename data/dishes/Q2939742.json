@@ -1,0 +1,20 @@
+{
+  "id": "Q2939742",
+  "name": "Carne-de-sol",
+  "description": "Beef dish from northeastern Brazil",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-de-sol-q2939742/carne-de-sol-q2939742-1.jpg",
+    "images/carne-de-sol-q2939742/carne-de-sol-q2939742-2.jpg",
+    "images/carne-de-sol-q2939742/carne-de-sol-q2939742-3.jpg",
+    "images/carne-de-sol-q2939742/carne-de-sol-q2939742-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2939742",
+    "themealdb": null
+  }
+}

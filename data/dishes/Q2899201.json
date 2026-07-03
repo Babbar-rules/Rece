@@ -1,0 +1,22 @@
+{
+  "id": "Q2899201",
+  "name": "rousong",
+  "description": "dried meat product from China",
+  "nationality": [
+    "Japan",
+    "People's Republic of China",
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rousong-q2899201/rousong-q2899201-1.jpg",
+    "images/rousong-q2899201/rousong-q2899201-2.jpg",
+    "images/rousong-q2899201/rousong-q2899201-3.jpg",
+    "images/rousong-q2899201/rousong-q2899201-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2899201",
+    "themealdb": null
+  }
+}

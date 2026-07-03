@@ -1,0 +1,18 @@
+{
+  "id": "Q2984652",
+  "name": "Asida",
+  "description": "common dish in Maghreb and the Middle East",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/asida-q2984652/asida-q2984652-1.jpg",
+    "images/asida-q2984652/asida-q2984652-2.jpg",
+    "images/asida-q2984652/asida-q2984652-3.jpg",
+    "images/asida-q2984652/asida-q2984652-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2984652",
+    "themealdb": null
+  }
+}

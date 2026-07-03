@@ -1,0 +1,20 @@
+{
+  "id": "Q29017361",
+  "name": "chǎofàn",
+  "description": "Chinese fried rice",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chaofan-q29017361/chaofan-q29017361-1.jpg",
+    "images/chaofan-q29017361/chaofan-q29017361-2.jpg",
+    "images/chaofan-q29017361/chaofan-q29017361-3.jpg",
+    "images/chaofan-q29017361/chaofan-q29017361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29017361",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2909230",
+  "name": "Bokit",
+  "description": "Guadeloupean sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bokit-q2909230/bokit-q2909230-1.jpg",
+    "images/bokit-q2909230/bokit-q2909230-2.jpg",
+    "images/bokit-q2909230/bokit-q2909230-3.jpg",
+    "images/bokit-q2909230/bokit-q2909230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2909230",
+    "themealdb": null
+  }
+}

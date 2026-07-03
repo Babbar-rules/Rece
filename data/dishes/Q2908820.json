@@ -1,0 +1,18 @@
+{
+  "id": "Q2908820",
+  "name": "Bohémienne",
+  "description": "French dish in a Provencial style of tomatoes and olive oil",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bohemienne-q2908820/bohemienne-q2908820-1.jpg",
+    "images/bohemienne-q2908820/bohemienne-q2908820-2.jpg",
+    "images/bohemienne-q2908820/bohemienne-q2908820-3.jpg",
+    "images/bohemienne-q2908820/bohemienne-q2908820-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2908820",
+    "themealdb": null
+  }
+}

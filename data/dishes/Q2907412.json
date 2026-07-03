@@ -1,0 +1,21 @@
+{
+  "id": "Q2907412",
+  "name": "malawach",
+  "description": "Israeli version of the Yemeni flatbread",
+  "nationality": [
+    "Israel",
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malawach-q2907412/malawach-q2907412-1.jpg",
+    "images/malawach-q2907412/malawach-q2907412-2.jpg",
+    "images/malawach-q2907412/malawach-q2907412-3.jpg",
+    "images/malawach-q2907412/malawach-q2907412-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2907412",
+    "themealdb": null
+  }
+}

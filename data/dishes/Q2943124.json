@@ -1,0 +1,20 @@
+{
+  "id": "Q2943124",
+  "name": "Causa a la limeña",
+  "description": "Peruvian dish",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/causa-a-la-limena-q2943124/causa-a-la-limena-q2943124-1.jpg",
+    "images/causa-a-la-limena-q2943124/causa-a-la-limena-q2943124-2.jpg",
+    "images/causa-a-la-limena-q2943124/causa-a-la-limena-q2943124-3.jpg",
+    "images/causa-a-la-limena-q2943124/causa-a-la-limena-q2943124-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2943124",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q29310616",
+  "name": "nervetti",
+  "description": "Italian meat salad",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nervetti-q29310616/nervetti-q29310616-1.jpg",
+    "images/nervetti-q29310616/nervetti-q29310616-2.jpg",
+    "images/nervetti-q29310616/nervetti-q29310616-3.jpg",
+    "images/nervetti-q29310616/nervetti-q29310616-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29310616",
+    "themealdb": null
+  }
+}

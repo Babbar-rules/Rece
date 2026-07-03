@@ -1,0 +1,22 @@
+{
+  "id": "Q2892071",
+  "name": "Bauru",
+  "description": "Brazilian sandwich",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/bauru-q2892071/bauru-q2892071-1.jpg",
+    "images/bauru-q2892071/bauru-q2892071-2.jpg",
+    "images/bauru-q2892071/bauru-q2892071-3.jpg",
+    "images/bauru-q2892071/bauru-q2892071-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2892071",
+    "themealdb": null
+  }
+}

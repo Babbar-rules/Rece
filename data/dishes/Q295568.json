@@ -1,0 +1,20 @@
+{
+  "id": "Q295568",
+  "name": "Dobos torte",
+  "description": "Hungarian cake",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dobos-torte-q295568/dobos-torte-q295568-1.jpg",
+    "images/dobos-torte-q295568/dobos-torte-q295568-2.jpg",
+    "images/dobos-torte-q295568/dobos-torte-q295568-3.jpg",
+    "images/dobos-torte-q295568/dobos-torte-q295568-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q295568",
+    "themealdb": null
+  }
+}

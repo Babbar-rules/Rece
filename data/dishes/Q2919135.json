@@ -1,0 +1,22 @@
+{
+  "id": "Q2919135",
+  "name": "pan-bagnat",
+  "description": "specialty sandwich in the Nice area, France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "cuisine niçoise"
+  ],
+  "images": [
+    "images/pan-bagnat-q2919135/pan-bagnat-q2919135-1.jpg",
+    "images/pan-bagnat-q2919135/pan-bagnat-q2919135-2.jpg",
+    "images/pan-bagnat-q2919135/pan-bagnat-q2919135-3.jpg",
+    "images/pan-bagnat-q2919135/pan-bagnat-q2919135-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2919135",
+    "themealdb": null
+  }
+}

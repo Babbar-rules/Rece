@@ -1,0 +1,18 @@
+{
+  "id": "Q2957687",
+  "name": "meat pastry",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-pastry-q2957687/meat-pastry-q2957687-1.jpg",
+    "images/meat-pastry-q2957687/meat-pastry-q2957687-2.jpg",
+    "images/meat-pastry-q2957687/meat-pastry-q2957687-3.jpg",
+    "images/meat-pastry-q2957687/meat-pastry-q2957687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2957687",
+    "themealdb": null
+  }
+}

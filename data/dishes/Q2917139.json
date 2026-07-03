@@ -1,0 +1,20 @@
+{
+  "id": "Q2917139",
+  "name": "peanut butter, banana and bacon sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peanut-butter-banana-and-bacon-sandwich-q2917139/peanut-butter-banana-and-bacon-sandwich-q2917139-1.jpg",
+    "images/peanut-butter-banana-and-bacon-sandwich-q2917139/peanut-butter-banana-and-bacon-sandwich-q2917139-2.jpg",
+    "images/peanut-butter-banana-and-bacon-sandwich-q2917139/peanut-butter-banana-and-bacon-sandwich-q2917139-3.jpg",
+    "images/peanut-butter-banana-and-bacon-sandwich-q2917139/peanut-butter-banana-and-bacon-sandwich-q2917139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2917139",
+    "themealdb": null
+  }
+}

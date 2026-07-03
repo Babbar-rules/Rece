@@ -1,0 +1,20 @@
+{
+  "id": "Q2939736",
+  "name": "carne de porco à alentejana",
+  "description": "Portuguese dish of pork, clams, potatoes and coriander",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-de-porco-a-alentejana-q2939736/carne-de-porco-a-alentejana-q2939736-1.jpg",
+    "images/carne-de-porco-a-alentejana-q2939736/carne-de-porco-a-alentejana-q2939736-2.jpg",
+    "images/carne-de-porco-a-alentejana-q2939736/carne-de-porco-a-alentejana-q2939736-3.jpg",
+    "images/carne-de-porco-a-alentejana-q2939736/carne-de-porco-a-alentejana-q2939736-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2939736",
+    "themealdb": null
+  }
+}

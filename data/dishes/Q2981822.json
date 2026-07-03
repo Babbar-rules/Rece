@@ -1,0 +1,20 @@
+{
+  "id": "Q2981822",
+  "name": "Coffee Crisp",
+  "description": "Canadian brand of chocolate bar",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coffee-crisp-q2981822/coffee-crisp-q2981822-1.jpg",
+    "images/coffee-crisp-q2981822/coffee-crisp-q2981822-2.png",
+    "images/coffee-crisp-q2981822/coffee-crisp-q2981822-3.jpg",
+    "images/coffee-crisp-q2981822/coffee-crisp-q2981822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2981822",
+    "themealdb": null
+  }
+}

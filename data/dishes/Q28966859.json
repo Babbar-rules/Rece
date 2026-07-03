@@ -1,0 +1,18 @@
+{
+  "id": "Q28966859",
+  "name": "garlic clove",
+  "description": "part of garlic contained within a garlic bulb",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garlic-clove-q28966859/garlic-clove-q28966859-1.jpg",
+    "images/garlic-clove-q28966859/garlic-clove-q28966859-2.jpg",
+    "images/garlic-clove-q28966859/garlic-clove-q28966859-3.jpg",
+    "images/garlic-clove-q28966859/garlic-clove-q28966859-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28966859",
+    "themealdb": null
+  }
+}

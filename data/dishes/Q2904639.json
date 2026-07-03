@@ -1,0 +1,20 @@
+{
+  "id": "Q2904639",
+  "name": "biscuit rose de Reims",
+  "description": "French pastries",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biscuit-rose-de-reims-q2904639/biscuit-rose-de-reims-q2904639-1.jpg",
+    "images/biscuit-rose-de-reims-q2904639/biscuit-rose-de-reims-q2904639-2.jpg",
+    "images/biscuit-rose-de-reims-q2904639/biscuit-rose-de-reims-q2904639-3.jpg",
+    "images/biscuit-rose-de-reims-q2904639/biscuit-rose-de-reims-q2904639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2904639",
+    "themealdb": null
+  }
+}

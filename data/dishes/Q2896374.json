@@ -1,0 +1,22 @@
+{
+  "id": "Q2896374",
+  "name": "Scotch broth",
+  "description": "Scottish soup of barley, lamb, mutton or beef, root vegetables, and dried pulses",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [
+    "Scottish cuisine"
+  ],
+  "images": [
+    "images/scotch-broth-q2896374/scotch-broth-q2896374-1.jpg",
+    "images/scotch-broth-q2896374/scotch-broth-q2896374-2.jpg",
+    "images/scotch-broth-q2896374/scotch-broth-q2896374-3.jpg",
+    "images/scotch-broth-q2896374/scotch-broth-q2896374-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2896374",
+    "themealdb": null
+  }
+}

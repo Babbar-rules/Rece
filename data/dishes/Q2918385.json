@@ -1,0 +1,20 @@
+{
+  "id": "Q2918385",
+  "name": "Arctic roll",
+  "description": "British dessert",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arctic-roll-q2918385/arctic-roll-q2918385-1.jpg",
+    "images/arctic-roll-q2918385/arctic-roll-q2918385-2.jpg",
+    "images/arctic-roll-q2918385/arctic-roll-q2918385-3.jpg",
+    "images/arctic-roll-q2918385/arctic-roll-q2918385-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2918385",
+    "themealdb": null
+  }
+}

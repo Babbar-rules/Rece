@@ -1,0 +1,20 @@
+{
+  "id": "Q2895836",
+  "name": "Knickerbocker glory",
+  "description": "type of ice cream",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/knickerbocker-glory-q2895836/knickerbocker-glory-q2895836-1.jpg",
+    "images/knickerbocker-glory-q2895836/knickerbocker-glory-q2895836-2.jpg",
+    "images/knickerbocker-glory-q2895836/knickerbocker-glory-q2895836-3.jpg",
+    "images/knickerbocker-glory-q2895836/knickerbocker-glory-q2895836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2895836",
+    "themealdb": null
+  }
+}

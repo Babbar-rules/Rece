@@ -1,0 +1,20 @@
+{
+  "id": "Q2891081",
+  "name": "Batata vada",
+  "description": "Indian vegetarian fast food in Maharashtra, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/batata-vada-q2891081/batata-vada-q2891081-1.jpg",
+    "images/batata-vada-q2891081/batata-vada-q2891081-2.jpg",
+    "images/batata-vada-q2891081/batata-vada-q2891081-3.jpg",
+    "images/batata-vada-q2891081/batata-vada-q2891081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2891081",
+    "themealdb": null
+  }
+}

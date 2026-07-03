@@ -1,0 +1,18 @@
+{
+  "id": "Q2936423",
+  "name": "Cannibal",
+  "description": "Belgian dish consisting of toast and filet américain",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cannibal-q2936423/cannibal-q2936423-1.jpg",
+    "images/cannibal-q2936423/cannibal-q2936423-2.png",
+    "images/cannibal-q2936423/cannibal-q2936423-3.jpg",
+    "images/cannibal-q2936423/cannibal-q2936423-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2936423",
+    "themealdb": null
+  }
+}

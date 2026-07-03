@@ -1,0 +1,22 @@
+{
+  "id": "Q2893649",
+  "name": "drunken shrimp",
+  "description": "Chinese shrimp dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/drunken-shrimp-q2893649/drunken-shrimp-q2893649-1.jpg",
+    "images/drunken-shrimp-q2893649/drunken-shrimp-q2893649-2.jpg",
+    "images/drunken-shrimp-q2893649/drunken-shrimp-q2893649-3.jpg",
+    "images/drunken-shrimp-q2893649/drunken-shrimp-q2893649-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2893649",
+    "themealdb": null
+  }
+}

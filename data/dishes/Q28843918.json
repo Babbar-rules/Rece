@@ -1,0 +1,20 @@
+{
+  "id": "Q28843918",
+  "name": "bokkeum-bap",
+  "description": "Korean fried rice",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bokkeum-bap-q28843918/bokkeum-bap-q28843918-1.jpg",
+    "images/bokkeum-bap-q28843918/bokkeum-bap-q28843918-2.jpg",
+    "images/bokkeum-bap-q28843918/bokkeum-bap-q28843918-3.jpg",
+    "images/bokkeum-bap-q28843918/bokkeum-bap-q28843918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28843918",
+    "themealdb": null
+  }
+}

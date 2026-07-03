@@ -1,0 +1,72 @@
+{
+  "id": "Q2981415",
+  "name": "Coddle",
+  "description": "stew made from boiled sausages, traditional in Dublin",
+  "nationality": [
+    "Irish"
+  ],
+  "region_cuisine": [
+    "Pork"
+  ],
+  "images": [
+    "images/coddle-q2981415/coddle-q2981415-1.jpg",
+    "images/coddle-q2981415/coddle-q2981415-2.jpg",
+    "images/coddle-q2981415/coddle-q2981415-3.jpg",
+    "images/coddle-q2981415/coddle-q2981415-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53037",
+    "category": "Pork",
+    "area": "Irish",
+    "instructions": "STEP 1\r\nHeat the butter in a casserole dish until sizzling, then fry the pork for 2-3 mins on each side until browned. Remove from the pan.\r\n\r\nSTEP 2\r\nTip the bacon, carrot, potatoes and swede into the pan, then gently fry until slightly coloured. Stir in the cabbage, sit the chops back on top, add the bay leaf, then pour over the cider and stock. Cover the pan, then leave everything to gently simmer for 20 mins until the pork is cooked through and the vegetables are tender.\r\n\r\nSTEP 3\r\nServe at the table spooned straight from the dish.",
+    "ingredients": [
+      {
+        "ingredient": "Butter",
+        "measure": "Knob"
+      },
+      {
+        "ingredient": "Pork Chops",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Swede",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Cabbage",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cider",
+        "measure": "100ml"
+      },
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "100g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=ftn_4mc-65o",
+    "thumb": "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2981415",
+    "themealdb": "53037"
+  }
+}

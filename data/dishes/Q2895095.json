@@ -1,0 +1,18 @@
+{
+  "id": "Q2895095",
+  "name": "Salată de boeuf",
+  "description": "traditional Romanian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salata-de-boeuf-q2895095/salata-de-boeuf-q2895095-1.png",
+    "images/salata-de-boeuf-q2895095/salata-de-boeuf-q2895095-2.jpg",
+    "images/salata-de-boeuf-q2895095/salata-de-boeuf-q2895095-3.png",
+    "images/salata-de-boeuf-q2895095/salata-de-boeuf-q2895095-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2895095",
+    "themealdb": null
+  }
+}

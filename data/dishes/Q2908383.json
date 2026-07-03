@@ -1,0 +1,17 @@
+{
+  "id": "Q2908383",
+  "name": "bodink",
+  "description": "bread pudding from Brussels",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bodink-q2908383/bodink-q2908383-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2908383",
+    "themealdb": null
+  }
+}

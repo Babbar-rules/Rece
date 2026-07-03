@@ -1,0 +1,55 @@
+{
+  "id": "Q2916401",
+  "name": "rice and beans",
+  "description": "food dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Latin American cuisine",
+    "Caribbean cuisine"
+  ],
+  "images": [
+    "images/rice-and-beans-q2916401/rice-and-beans-q2916401-1.jpg",
+    "images/rice-and-beans-q2916401/rice-and-beans-q2916401-2.jpg",
+    "images/rice-and-beans-q2916401/rice-and-beans-q2916401-3.jpg",
+    "images/rice-and-beans-q2916401/rice-and-beans-q2916401-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53506",
+    "category": "Vegetarian",
+    "area": null,
+    "instructions": "Cook beans until tender, add rice, coconut milk, onion, black pepper and salt, and add enough water to just cover the ingredients. Place Scotch Bonnet peppers on top, careful not to burst them. Simmer until rice is tender. Remove pepper before serving.",
+    "ingredients": [
+      {
+        "ingredient": "Kidney Beans",
+        "measure": "1/2 bag"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "1 Can"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 Diced"
+      },
+      {
+        "ingredient": "Scotch Bonnet",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Black Pepper",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tbs"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/j8c1d51782772399.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2916401",
+    "themealdb": "53506"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q2964495",
+  "name": "dchicha",
+  "description": "Algerian soup",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dchicha-q2964495/dchicha-q2964495-1.jpg",
+    "images/dchicha-q2964495/dchicha-q2964495-2.jpg",
+    "images/dchicha-q2964495/dchicha-q2964495-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2964495",
+    "themealdb": null
+  }
+}

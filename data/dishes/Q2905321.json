@@ -1,0 +1,18 @@
+{
+  "id": "Q2905321",
+  "name": "Black Black",
+  "description": "Japanese brand of chewing gum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-black-q2905321/black-black-q2905321-1.jpg",
+    "images/black-black-q2905321/black-black-q2905321-2.jpg",
+    "images/black-black-q2905321/black-black-q2905321-3.jpg",
+    "images/black-black-q2905321/black-black-q2905321-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2905321",
+    "themealdb": null
+  }
+}

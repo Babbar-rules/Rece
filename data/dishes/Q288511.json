@@ -1,0 +1,20 @@
+{
+  "id": "Q288511",
+  "name": "tarak-juk",
+  "description": "milk porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarak-juk-q288511/tarak-juk-q288511-1.jpg",
+    "images/tarak-juk-q288511/tarak-juk-q288511-2.jpg",
+    "images/tarak-juk-q288511/tarak-juk-q288511-3.jpg",
+    "images/tarak-juk-q288511/tarak-juk-q288511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q288511",
+    "themealdb": null
+  }
+}

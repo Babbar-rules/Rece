@@ -1,0 +1,20 @@
+{
+  "id": "Q2940375",
+  "name": "Rice Krispies Treats",
+  "description": "sweet dessert or snack",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-krispies-treats-q2940375/rice-krispies-treats-q2940375-1.jpg",
+    "images/rice-krispies-treats-q2940375/rice-krispies-treats-q2940375-2.jpg",
+    "images/rice-krispies-treats-q2940375/rice-krispies-treats-q2940375-3.jpg",
+    "images/rice-krispies-treats-q2940375/rice-krispies-treats-q2940375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2940375",
+    "themealdb": null
+  }
+}

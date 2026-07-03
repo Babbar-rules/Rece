@@ -1,0 +1,18 @@
+{
+  "id": "Q2924835",
+  "name": "briám",
+  "description": "traditional roasted vegetable dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/briam-q2924835/briam-q2924835-1.jpg",
+    "images/briam-q2924835/briam-q2924835-2.jpg",
+    "images/briam-q2924835/briam-q2924835-3.jpg",
+    "images/briam-q2924835/briam-q2924835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2924835",
+    "themealdb": null
+  }
+}

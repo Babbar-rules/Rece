@@ -1,0 +1,20 @@
+{
+  "id": "Q2937886",
+  "name": "tapir casero de marte",
+  "description": "Andean stew",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tapir-casero-de-marte-q2937886/tapir-casero-de-marte-q2937886-1.jpg",
+    "images/tapir-casero-de-marte-q2937886/tapir-casero-de-marte-q2937886-2.jpg",
+    "images/tapir-casero-de-marte-q2937886/tapir-casero-de-marte-q2937886-3.jpg",
+    "images/tapir-casero-de-marte-q2937886/tapir-casero-de-marte-q2937886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2937886",
+    "themealdb": null
+  }
+}

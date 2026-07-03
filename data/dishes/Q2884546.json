@@ -1,0 +1,18 @@
+{
+  "id": "Q2884546",
+  "name": "tuna salad",
+  "description": "type of salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tuna-salad-q2884546/tuna-salad-q2884546-1.jpg",
+    "images/tuna-salad-q2884546/tuna-salad-q2884546-2.jpg",
+    "images/tuna-salad-q2884546/tuna-salad-q2884546-3.jpg",
+    "images/tuna-salad-q2884546/tuna-salad-q2884546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2884546",
+    "themealdb": null
+  }
+}

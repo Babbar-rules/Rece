@@ -1,0 +1,60 @@
+{
+  "id": "Q28939504",
+  "name": "banana pancakes",
+  "description": "pancakes prepared with bananas",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/banana-pancakes-q28939504/banana-pancakes-q28939504-1.jpg",
+    "images/banana-pancakes-q28939504/banana-pancakes-q28939504-2.jpg",
+    "images/banana-pancakes-q28939504/banana-pancakes-q28939504-3.jpg",
+    "images/banana-pancakes-q28939504/banana-pancakes-q28939504-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52855",
+    "category": "Dessert",
+    "area": "United States",
+    "instructions": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
+    "ingredients": [
+      {
+        "ingredient": "Banana",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2 medium"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "spinkling"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Pecan Nuts",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Raspberries",
+        "measure": "125g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=kSKtb2Sv-_U",
+    "thumb": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28939504",
+    "themealdb": "52855"
+  }
+}

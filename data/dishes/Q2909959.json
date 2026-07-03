@@ -1,0 +1,20 @@
+{
+  "id": "Q2909959",
+  "name": "bonbon coco",
+  "description": "Malagasy dessert",
+  "nationality": [
+    "Madagascar"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bonbon-coco-q2909959/bonbon-coco-q2909959-1.jpg",
+    "images/bonbon-coco-q2909959/bonbon-coco-q2909959-2.jpg",
+    "images/bonbon-coco-q2909959/bonbon-coco-q2909959-3.jpg",
+    "images/bonbon-coco-q2909959/bonbon-coco-q2909959-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2909959",
+    "themealdb": null
+  }
+}
