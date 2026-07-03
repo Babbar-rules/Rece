@@ -1,0 +1,20 @@
+{
+  "id": "Q7148573",
+  "name": "Patties pie",
+  "description": "Australian food manufacturing company",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/patties-pie-q7148573/patties-pie-q7148573-1.jpg",
+    "images/patties-pie-q7148573/patties-pie-q7148573-2.jpg",
+    "images/patties-pie-q7148573/patties-pie-q7148573-3.jpg",
+    "images/patties-pie-q7148573/patties-pie-q7148573-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7148573",
+    "themealdb": null
+  }
+}

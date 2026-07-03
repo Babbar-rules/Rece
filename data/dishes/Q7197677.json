@@ -1,0 +1,20 @@
+{
+  "id": "Q7197677",
+  "name": "Piragua",
+  "description": "Puerto Rican dessert",
+  "nationality": [
+    "Puerto Rico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/piragua-q7197677/piragua-q7197677-1.jpg",
+    "images/piragua-q7197677/piragua-q7197677-2.jpg",
+    "images/piragua-q7197677/piragua-q7197677-3.jpg",
+    "images/piragua-q7197677/piragua-q7197677-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7197677",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q715525",
+  "name": "spring roll",
+  "description": "type of dim sum",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spring-roll-q715525/spring-roll-q715525-1.jpg",
+    "images/spring-roll-q715525/spring-roll-q715525-2.jpg",
+    "images/spring-roll-q715525/spring-roll-q715525-3.jpg",
+    "images/spring-roll-q715525/spring-roll-q715525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q715525",
+    "themealdb": null
+  }
+}

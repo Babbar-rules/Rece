@@ -1,0 +1,18 @@
+{
+  "id": "Q7199459",
+  "name": "Pittsburgh rare",
+  "description": "steak cooking method",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pittsburgh-rare-q7199459/pittsburgh-rare-q7199459-1.jpg",
+    "images/pittsburgh-rare-q7199459/pittsburgh-rare-q7199459-2.jpg",
+    "images/pittsburgh-rare-q7199459/pittsburgh-rare-q7199459-3.jpg",
+    "images/pittsburgh-rare-q7199459/pittsburgh-rare-q7199459-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7199459",
+    "themealdb": null
+  }
+}

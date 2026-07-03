@@ -1,0 +1,18 @@
+{
+  "id": "Q71819512",
+  "name": "fried cauliflower",
+  "description": "widespread dish in Europe, Middle East, and Asia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-cauliflower-q71819512/fried-cauliflower-q71819512-1.jpg",
+    "images/fried-cauliflower-q71819512/fried-cauliflower-q71819512-2.jpg",
+    "images/fried-cauliflower-q71819512/fried-cauliflower-q71819512-3.jpg",
+    "images/fried-cauliflower-q71819512/fried-cauliflower-q71819512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q71819512",
+    "themealdb": null
+  }
+}

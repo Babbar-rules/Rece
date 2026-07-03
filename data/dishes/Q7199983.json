@@ -1,0 +1,18 @@
+{
+  "id": "Q7199983",
+  "name": "pizza al taglio",
+  "description": "Pizza baked in large rectangular trays, sold by the slice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-al-taglio-q7199983/pizza-al-taglio-q7199983-1.jpg",
+    "images/pizza-al-taglio-q7199983/pizza-al-taglio-q7199983-2.jpg",
+    "images/pizza-al-taglio-q7199983/pizza-al-taglio-q7199983-3.jpg",
+    "images/pizza-al-taglio-q7199983/pizza-al-taglio-q7199983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7199983",
+    "themealdb": null
+  }
+}

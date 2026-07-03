@@ -1,0 +1,15 @@
+{
+  "id": "Q7199761",
+  "name": "Pixy Stix",
+  "description": "Powdered candy brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pixy-stix-q7199761/pixy-stix-q7199761-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7199761",
+    "themealdb": null
+  }
+}

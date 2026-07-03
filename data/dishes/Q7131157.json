@@ -1,0 +1,20 @@
+{
+  "id": "Q7131157",
+  "name": "Paniki",
+  "description": "Indonesian traditional bat meat dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paniki-q7131157/paniki-q7131157-1.jpg",
+    "images/paniki-q7131157/paniki-q7131157-2.jpg",
+    "images/paniki-q7131157/paniki-q7131157-3.jpg",
+    "images/paniki-q7131157/paniki-q7131157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7131157",
+    "themealdb": null
+  }
+}

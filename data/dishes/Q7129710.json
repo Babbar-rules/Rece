@@ -1,0 +1,20 @@
+{
+  "id": "Q7129710",
+  "name": "Pan bati",
+  "description": "aruban bread",
+  "nationality": [
+    "Netherlands Antilles"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-bati-q7129710/pan-bati-q7129710-1.jpg",
+    "images/pan-bati-q7129710/pan-bati-q7129710-2.jpg",
+    "images/pan-bati-q7129710/pan-bati-q7129710-3.jpg",
+    "images/pan-bati-q7129710/pan-bati-q7129710-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7129710",
+    "themealdb": null
+  }
+}

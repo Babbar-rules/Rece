@@ -1,0 +1,22 @@
+{
+  "id": "Q717628",
+  "name": "pork ball",
+  "description": "traditional Taiwanese pork dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/pork-ball-q717628/pork-ball-q717628-1.jpg",
+    "images/pork-ball-q717628/pork-ball-q717628-2.jpg",
+    "images/pork-ball-q717628/pork-ball-q717628-3.jpg",
+    "images/pork-ball-q717628/pork-ball-q717628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q717628",
+    "themealdb": null
+  }
+}

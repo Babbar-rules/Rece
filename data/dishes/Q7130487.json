@@ -1,0 +1,20 @@
+{
+  "id": "Q7130487",
+  "name": "pandan cake",
+  "description": "Malaysian traditional cake originating from South East Asia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pandan-cake-q7130487/pandan-cake-q7130487-1.jpg",
+    "images/pandan-cake-q7130487/pandan-cake-q7130487-2.jpg",
+    "images/pandan-cake-q7130487/pandan-cake-q7130487-3.jpg",
+    "images/pandan-cake-q7130487/pandan-cake-q7130487-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7130487",
+    "themealdb": null
+  }
+}

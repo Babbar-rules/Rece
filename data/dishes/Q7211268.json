@@ -1,0 +1,20 @@
+{
+  "id": "Q7211268",
+  "name": "luosifen",
+  "description": "rice noodle dish originated from Liuzhou, Guangxi, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/luosifen-q7211268/luosifen-q7211268-1.jpg",
+    "images/luosifen-q7211268/luosifen-q7211268-2.jpg",
+    "images/luosifen-q7211268/luosifen-q7211268-3.jpg",
+    "images/luosifen-q7211268/luosifen-q7211268-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7211268",
+    "themealdb": null
+  }
+}

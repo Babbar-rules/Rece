@@ -1,0 +1,18 @@
+{
+  "id": "Q7216960",
+  "name": "shaguo",
+  "description": "Chinese clay pots and dishes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shaguo-q7216960/shaguo-q7216960-1.jpg",
+    "images/shaguo-q7216960/shaguo-q7216960-2.jpg",
+    "images/shaguo-q7216960/shaguo-q7216960-3.jpg",
+    "images/shaguo-q7216960/shaguo-q7216960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7216960",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q716820",
+  "name": "hiyashi chūka",
+  "description": "chilled ramen noodles with various toppings",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hiyashi-chuka-q716820/hiyashi-chuka-q716820-1.jpg",
+    "images/hiyashi-chuka-q716820/hiyashi-chuka-q716820-2.jpg",
+    "images/hiyashi-chuka-q716820/hiyashi-chuka-q716820-3.jpg",
+    "images/hiyashi-chuka-q716820/hiyashi-chuka-q716820-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q716820",
+    "themealdb": null
+  }
+}

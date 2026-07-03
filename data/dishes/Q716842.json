@@ -1,0 +1,20 @@
+{
+  "id": "Q716842",
+  "name": "Miyeok-guk",
+  "description": "Korean soup made from wakame",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miyeok-guk-q716842/miyeok-guk-q716842-1.jpg",
+    "images/miyeok-guk-q716842/miyeok-guk-q716842-2.jpg",
+    "images/miyeok-guk-q716842/miyeok-guk-q716842-3.jpg",
+    "images/miyeok-guk-q716842/miyeok-guk-q716842-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q716842",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7129440",
+  "name": "Pamplona",
+  "description": "dish",
+  "nationality": [
+    "Uruguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pamplona-q7129440/pamplona-q7129440-1.png",
+    "images/pamplona-q7129440/pamplona-q7129440-2.jpg",
+    "images/pamplona-q7129440/pamplona-q7129440-3.jpg",
+    "images/pamplona-q7129440/pamplona-q7129440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7129440",
+    "themealdb": null
+  }
+}

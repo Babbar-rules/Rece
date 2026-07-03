@@ -1,0 +1,18 @@
+{
+  "id": "Q717113",
+  "name": "yukhoe",
+  "description": "raw meat dish in Korean cuisine that resembles a steak tartare",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yukhoe-q717113/yukhoe-q717113-1.jpeg",
+    "images/yukhoe-q717113/yukhoe-q717113-2.jpeg",
+    "images/yukhoe-q717113/yukhoe-q717113-3.jpg",
+    "images/yukhoe-q717113/yukhoe-q717113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q717113",
+    "themealdb": null
+  }
+}

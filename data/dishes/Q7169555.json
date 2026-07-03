@@ -1,0 +1,18 @@
+{
+  "id": "Q7169555",
+  "name": "perpetual stew",
+  "description": "pot into which diverse foodstuff is placed and cooked and rarely emptied, with ingredients and liquid replenished as necessary",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/perpetual-stew-q7169555/perpetual-stew-q7169555-1.jpg",
+    "images/perpetual-stew-q7169555/perpetual-stew-q7169555-2.jpg",
+    "images/perpetual-stew-q7169555/perpetual-stew-q7169555-3.jpg",
+    "images/perpetual-stew-q7169555/perpetual-stew-q7169555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7169555",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7195443",
+  "name": "pineapple tart",
+  "description": "asian small pastries filled with pineapple jam",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-tart-q7195443/pineapple-tart-q7195443-1.jpg",
+    "images/pineapple-tart-q7195443/pineapple-tart-q7195443-2.jpg",
+    "images/pineapple-tart-q7195443/pineapple-tart-q7195443-3.jpg",
+    "images/pineapple-tart-q7195443/pineapple-tart-q7195443-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7195443",
+    "themealdb": null
+  }
+}

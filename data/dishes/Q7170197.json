@@ -1,0 +1,20 @@
+{
+  "id": "Q7170197",
+  "name": "Persian",
+  "description": "sweet roll",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/persian-q7170197/persian-q7170197-1.jpg",
+    "images/persian-q7170197/persian-q7170197-2.jpg",
+    "images/persian-q7170197/persian-q7170197-3.jpg",
+    "images/persian-q7170197/persian-q7170197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7170197",
+    "themealdb": null
+  }
+}

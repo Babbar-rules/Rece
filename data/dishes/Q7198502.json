@@ -1,0 +1,19 @@
+{
+  "id": "Q7198502",
+  "name": "pistolette",
+  "description": "cuisine in Louisiana, US",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pistolette-q7198502/pistolette-q7198502-1.jpg",
+    "images/pistolette-q7198502/pistolette-q7198502-2.jpg",
+    "images/pistolette-q7198502/pistolette-q7198502-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7198502",
+    "themealdb": null
+  }
+}

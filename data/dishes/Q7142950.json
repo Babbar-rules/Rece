@@ -1,0 +1,20 @@
+{
+  "id": "Q7142950",
+  "name": "pasta primavera",
+  "description": "American dish consisting of pasta and fresh vegetables",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-primavera-q7142950/pasta-primavera-q7142950-1.jpg",
+    "images/pasta-primavera-q7142950/pasta-primavera-q7142950-2.jpg",
+    "images/pasta-primavera-q7142950/pasta-primavera-q7142950-3.jpg",
+    "images/pasta-primavera-q7142950/pasta-primavera-q7142950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7142950",
+    "themealdb": null
+  }
+}

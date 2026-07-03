@@ -1,0 +1,18 @@
+{
+  "id": "Q7195431",
+  "name": "pineapple lumps",
+  "description": "confection",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-lumps-q7195431/pineapple-lumps-q7195431-1.jpg",
+    "images/pineapple-lumps-q7195431/pineapple-lumps-q7195431-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7195431",
+    "themealdb": null
+  }
+}

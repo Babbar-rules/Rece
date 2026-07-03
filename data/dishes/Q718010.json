@@ -1,0 +1,20 @@
+{
+  "id": "Q718010",
+  "name": "suncake",
+  "description": "food",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suncake-q718010/suncake-q718010-1.jpg",
+    "images/suncake-q718010/suncake-q718010-2.jpg",
+    "images/suncake-q718010/suncake-q718010-3.jpg",
+    "images/suncake-q718010/suncake-q718010-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q718010",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q714027",
+  "name": "nikujaga",
+  "description": "Japanese dish of meat, potatoes, and onions stewed in dashi, soy sauce, mirin, and sugar",
+  "nationality": [
+    "Empire of Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/nikujaga-q714027/nikujaga-q714027-1.jpg",
+    "images/nikujaga-q714027/nikujaga-q714027-2.jpg",
+    "images/nikujaga-q714027/nikujaga-q714027-3.jpg",
+    "images/nikujaga-q714027/nikujaga-q714027-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q714027",
+    "themealdb": null
+  }
+}

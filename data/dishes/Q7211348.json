@@ -1,0 +1,20 @@
+{
+  "id": "Q7211348",
+  "name": "Fried oysters",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/fried-oysters-q7211348/fried-oysters-q7211348-1.jpg",
+    "images/fried-oysters-q7211348/fried-oysters-q7211348-2.jpg",
+    "images/fried-oysters-q7211348/fried-oysters-q7211348-3.jpg",
+    "images/fried-oysters-q7211348/fried-oysters-q7211348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7211348",
+    "themealdb": null
+  }
+}

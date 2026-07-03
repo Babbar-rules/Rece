@@ -1,0 +1,20 @@
+{
+  "id": "Q7191338",
+  "name": "Pie floater",
+  "description": "meat pie and soup dish associated with Adelaide",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pie-floater-q7191338/pie-floater-q7191338-1.jpg",
+    "images/pie-floater-q7191338/pie-floater-q7191338-2.jpg",
+    "images/pie-floater-q7191338/pie-floater-q7191338-3.jpg",
+    "images/pie-floater-q7191338/pie-floater-q7191338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7191338",
+    "themealdb": null
+  }
+}

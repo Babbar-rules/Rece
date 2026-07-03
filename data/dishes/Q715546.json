@@ -1,0 +1,20 @@
+{
+  "id": "Q715546",
+  "name": "douhua",
+  "description": "Chinese dessert",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/douhua-q715546/douhua-q715546-1.jpg",
+    "images/douhua-q715546/douhua-q715546-2.jpg",
+    "images/douhua-q715546/douhua-q715546-3.jpg",
+    "images/douhua-q715546/douhua-q715546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q715546",
+    "themealdb": null
+  }
+}

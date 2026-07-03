@@ -1,0 +1,20 @@
+{
+  "id": "Q7157935",
+  "name": "peanut butter bun",
+  "description": "food, baked goods",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peanut-butter-bun-q7157935/peanut-butter-bun-q7157935-1.jpg",
+    "images/peanut-butter-bun-q7157935/peanut-butter-bun-q7157935-2.jpg",
+    "images/peanut-butter-bun-q7157935/peanut-butter-bun-q7157935-3.jpg",
+    "images/peanut-butter-bun-q7157935/peanut-butter-bun-q7157935-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7157935",
+    "themealdb": null
+  }
+}

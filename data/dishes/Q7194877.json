@@ -1,0 +1,20 @@
+{
+  "id": "Q7194877",
+  "name": "Pinca",
+  "description": "variety of Easter bread",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pinca-q7194877/pinca-q7194877-1.jpg",
+    "images/pinca-q7194877/pinca-q7194877-2.jpg",
+    "images/pinca-q7194877/pinca-q7194877-3.jpg",
+    "images/pinca-q7194877/pinca-q7194877-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7194877",
+    "themealdb": null
+  }
+}

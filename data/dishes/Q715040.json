@@ -1,0 +1,20 @@
+{
+  "id": "Q715040",
+  "name": "japchae",
+  "description": "Korean dish of stir-fried glass noodles and vegetables",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/japchae-q715040/japchae-q715040-1.jpg",
+    "images/japchae-q715040/japchae-q715040-2.jpg",
+    "images/japchae-q715040/japchae-q715040-3.jpg",
+    "images/japchae-q715040/japchae-q715040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q715040",
+    "themealdb": null
+  }
+}

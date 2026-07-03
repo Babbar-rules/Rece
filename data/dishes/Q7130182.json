@@ -1,0 +1,18 @@
+{
+  "id": "Q7130182",
+  "name": "Panbrioche",
+  "description": "Italian style of bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panbrioche-q7130182/panbrioche-q7130182-1.jpg",
+    "images/panbrioche-q7130182/panbrioche-q7130182-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7130182",
+    "themealdb": null
+  }
+}

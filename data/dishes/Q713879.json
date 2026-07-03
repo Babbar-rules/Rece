@@ -1,0 +1,22 @@
+{
+  "id": "Q713879",
+  "name": "youtiao",
+  "description": "churro-like cruller of Chinese origin",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/youtiao-q713879/youtiao-q713879-1.jpg",
+    "images/youtiao-q713879/youtiao-q713879-2.jpg",
+    "images/youtiao-q713879/youtiao-q713879-3.jpg",
+    "images/youtiao-q713879/youtiao-q713879-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q713879",
+    "themealdb": null
+  }
+}

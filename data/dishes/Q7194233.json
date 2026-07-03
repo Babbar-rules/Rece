@@ -1,0 +1,20 @@
+{
+  "id": "Q7194233",
+  "name": "pillus",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pillus-q7194233/pillus-q7194233-1.jpg",
+    "images/pillus-q7194233/pillus-q7194233-2.jpg",
+    "images/pillus-q7194233/pillus-q7194233-3.jpg",
+    "images/pillus-q7194233/pillus-q7194233-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7194233",
+    "themealdb": null
+  }
+}

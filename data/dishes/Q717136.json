@@ -1,0 +1,22 @@
+{
+  "id": "Q717136",
+  "name": "seolleongtang",
+  "description": "Korean broth tang of ox bones, brisket, and other meat cuts",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Seoul cuisine"
+  ],
+  "images": [
+    "images/seolleongtang-q717136/seolleongtang-q717136-1.jpg",
+    "images/seolleongtang-q717136/seolleongtang-q717136-2.jpg",
+    "images/seolleongtang-q717136/seolleongtang-q717136-3.jpg",
+    "images/seolleongtang-q717136/seolleongtang-q717136-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q717136",
+    "themealdb": null
+  }
+}

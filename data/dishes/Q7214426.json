@@ -1,0 +1,20 @@
+{
+  "id": "Q7214426",
+  "name": "frybread",
+  "description": "flat bread, fried or deep-fried in oil, shortening, or lard; dish of the U.S. indigenous people",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frybread-q7214426/frybread-q7214426-1.jpg",
+    "images/frybread-q7214426/frybread-q7214426-2.jpg",
+    "images/frybread-q7214426/frybread-q7214426-3.jpg",
+    "images/frybread-q7214426/frybread-q7214426-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7214426",
+    "themealdb": null
+  }
+}

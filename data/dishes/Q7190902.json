@@ -1,0 +1,18 @@
+{
+  "id": "Q7190902",
+  "name": "pickled beet egg",
+  "description": "hard boiled eggs cured in a brine of beets, beet juice, vinegar, sugar and spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-beet-egg-q7190902/pickled-beet-egg-q7190902-1.jpg",
+    "images/pickled-beet-egg-q7190902/pickled-beet-egg-q7190902-2.jpg",
+    "images/pickled-beet-egg-q7190902/pickled-beet-egg-q7190902-3.jpg",
+    "images/pickled-beet-egg-q7190902/pickled-beet-egg-q7190902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7190902",
+    "themealdb": null
+  }
+}

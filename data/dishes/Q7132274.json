@@ -1,0 +1,20 @@
+{
+  "id": "Q7132274",
+  "name": "Paomo",
+  "description": "Chinese traditional dish from Xi'an",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paomo-q7132274/paomo-q7132274-1.jpg",
+    "images/paomo-q7132274/paomo-q7132274-2.jpg",
+    "images/paomo-q7132274/paomo-q7132274-3.jpg",
+    "images/paomo-q7132274/paomo-q7132274-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7132274",
+    "themealdb": null
+  }
+}

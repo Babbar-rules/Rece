@@ -1,0 +1,20 @@
+{
+  "id": "Q7133047",
+  "name": "Papo-de-anjo",
+  "description": "Portuguese dessert",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/papo-de-anjo-q7133047/papo-de-anjo-q7133047-1.jpg",
+    "images/papo-de-anjo-q7133047/papo-de-anjo-q7133047-2.jpg",
+    "images/papo-de-anjo-q7133047/papo-de-anjo-q7133047-3.jpg",
+    "images/papo-de-anjo-q7133047/papo-de-anjo-q7133047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7133047",
+    "themealdb": null
+  }
+}

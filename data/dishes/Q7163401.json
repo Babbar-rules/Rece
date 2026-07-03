@@ -1,0 +1,21 @@
+{
+  "id": "Q7163401",
+  "name": "Penne alla vodka",
+  "description": "italian-American pasta dish",
+  "nationality": [
+    "United States",
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/penne-alla-vodka-q7163401/penne-alla-vodka-q7163401-1.jpg",
+    "images/penne-alla-vodka-q7163401/penne-alla-vodka-q7163401-2.jpg",
+    "images/penne-alla-vodka-q7163401/penne-alla-vodka-q7163401-3.jpg",
+    "images/penne-alla-vodka-q7163401/penne-alla-vodka-q7163401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7163401",
+    "themealdb": null
+  }
+}

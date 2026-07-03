@@ -1,0 +1,20 @@
+{
+  "id": "Q7199990",
+  "name": "pizza strips",
+  "description": "",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-strips-q7199990/pizza-strips-q7199990-1.jpg",
+    "images/pizza-strips-q7199990/pizza-strips-q7199990-2.jpg",
+    "images/pizza-strips-q7199990/pizza-strips-q7199990-3.jpg",
+    "images/pizza-strips-q7199990/pizza-strips-q7199990-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7199990",
+    "themealdb": null
+  }
+}

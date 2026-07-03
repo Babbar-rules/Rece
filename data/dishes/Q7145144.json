@@ -1,0 +1,20 @@
+{
+  "id": "Q7145144",
+  "name": "Pato no tucupi",
+  "description": "Brazilian duck dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pato-no-tucupi-q7145144/pato-no-tucupi-q7145144-1.jpg",
+    "images/pato-no-tucupi-q7145144/pato-no-tucupi-q7145144-2.jpg",
+    "images/pato-no-tucupi-q7145144/pato-no-tucupi-q7145144-3.jpg",
+    "images/pato-no-tucupi-q7145144/pato-no-tucupi-q7145144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7145144",
+    "themealdb": null
+  }
+}

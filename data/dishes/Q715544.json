@@ -1,0 +1,20 @@
+{
+  "id": "Q715544",
+  "name": "nian gao",
+  "description": "Chinese food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nian-gao-q715544/nian-gao-q715544-1.jpg",
+    "images/nian-gao-q715544/nian-gao-q715544-2.jpg",
+    "images/nian-gao-q715544/nian-gao-q715544-3.jpg",
+    "images/nian-gao-q715544/nian-gao-q715544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q715544",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7215544",
+  "name": "tube rice pudding",
+  "description": "Taiwanese rice dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/tube-rice-pudding-q7215544/tube-rice-pudding-q7215544-1.jpg",
+    "images/tube-rice-pudding-q7215544/tube-rice-pudding-q7215544-2.jpg",
+    "images/tube-rice-pudding-q7215544/tube-rice-pudding-q7215544-3.jpg",
+    "images/tube-rice-pudding-q7215544/tube-rice-pudding-q7215544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7215544",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7198960",
+  "name": "piti",
+  "description": "Armenian dish with meat and chickpeas",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/piti-q7198960/piti-q7198960-1.jpg",
+    "images/piti-q7198960/piti-q7198960-2.jpg",
+    "images/piti-q7198960/piti-q7198960-3.jpg",
+    "images/piti-q7198960/piti-q7198960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7198960",
+    "themealdb": null
+  }
+}

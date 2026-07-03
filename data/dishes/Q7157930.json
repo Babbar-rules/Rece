@@ -1,0 +1,44 @@
+{
+  "id": "Q7157930",
+  "name": "peanut butter cookie",
+  "description": "food",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/peanut-butter-cookie-q7157930/peanut-butter-cookie-q7157930-1.jpg",
+    "images/peanut-butter-cookie-q7157930/peanut-butter-cookie-q7157930-2.jpg",
+    "images/peanut-butter-cookie-q7157930/peanut-butter-cookie-q7157930-3.jpg",
+    "images/peanut-butter-cookie-q7157930/peanut-butter-cookie-q7157930-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52958",
+    "category": "Dessert",
+    "area": "United States",
+    "instructions": "Preheat oven to 350ºF (180ºC).\r\nIn a large bowl, mix together the peanut butter, sugar, and egg.\r\nScoop out a spoonful of dough and roll it into a ball. Place the cookie balls onto a nonstick baking sheet.\r\nFor extra decoration and to make them cook more evenly, flatten the cookie balls by pressing a fork down on top of them, then press it down again at a 90º angle to make a criss-cross pattern.\r\nBake for 8-10 minutes or until the bottom of the cookies are golden brown.\r\nRemove from baking sheet and cool.\r\nEnjoy!",
+    "ingredients": [
+      {
+        "ingredient": "Peanut Butter",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/1544384070.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7157930",
+    "themealdb": "52958"
+  }
+}

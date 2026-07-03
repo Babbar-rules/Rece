@@ -1,0 +1,20 @@
+{
+  "id": "Q7181083",
+  "name": "phat phrik khing",
+  "description": "Thai curry, fried in oil without coconut milk",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/phat-phrik-khing-q7181083/phat-phrik-khing-q7181083-1.jpg",
+    "images/phat-phrik-khing-q7181083/phat-phrik-khing-q7181083-2.jpg",
+    "images/phat-phrik-khing-q7181083/phat-phrik-khing-q7181083-3.jpg",
+    "images/phat-phrik-khing-q7181083/phat-phrik-khing-q7181083-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7181083",
+    "themealdb": null
+  }
+}

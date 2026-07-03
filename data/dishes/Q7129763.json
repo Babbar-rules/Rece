@@ -1,0 +1,18 @@
+{
+  "id": "Q7129763",
+  "name": "panaculty",
+  "description": "Beef casserole dish from North England",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/panaculty-q7129763/panaculty-q7129763-1.jpg",
+    "images/panaculty-q7129763/panaculty-q7129763-2.jpg",
+    "images/panaculty-q7129763/panaculty-q7129763-3.jpg",
+    "images/panaculty-q7129763/panaculty-q7129763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7129763",
+    "themealdb": null
+  }
+}

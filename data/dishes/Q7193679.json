@@ -1,0 +1,20 @@
+{
+  "id": "Q7193679",
+  "name": "Piki",
+  "description": "hopi cornmeal bread",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/piki-q7193679/piki-q7193679-1.jpg",
+    "images/piki-q7193679/piki-q7193679-2.jpg",
+    "images/piki-q7193679/piki-q7193679-3.jpg",
+    "images/piki-q7193679/piki-q7193679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7193679",
+    "themealdb": null
+  }
+}

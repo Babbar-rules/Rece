@@ -1,0 +1,20 @@
+{
+  "id": "Q7197643",
+  "name": "piracaldo",
+  "description": "fish soup typical of Paraguay",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [
+    "Paraguayan cuisine"
+  ],
+  "images": [
+    "images/piracaldo-q7197643/piracaldo-q7197643-1.jpg",
+    "images/piracaldo-q7197643/piracaldo-q7197643-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7197643",
+    "themealdb": null
+  }
+}

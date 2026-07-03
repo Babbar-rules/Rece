@@ -1,0 +1,20 @@
+{
+  "id": "Q7130870",
+  "name": "Panfocaccia",
+  "description": "A type of bread that's very similar to Pocacha, one of the Italian dishes.",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panfocaccia-q7130870/panfocaccia-q7130870-1.jpg",
+    "images/panfocaccia-q7130870/panfocaccia-q7130870-2.jpg",
+    "images/panfocaccia-q7130870/panfocaccia-q7130870-3.jpg",
+    "images/panfocaccia-q7130870/panfocaccia-q7130870-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7130870",
+    "themealdb": null
+  }
+}

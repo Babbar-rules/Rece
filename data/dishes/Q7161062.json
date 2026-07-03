@@ -1,0 +1,18 @@
+{
+  "id": "Q7161062",
+  "name": "Peking pork",
+  "description": "meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peking-pork-q7161062/peking-pork-q7161062-1.jpg",
+    "images/peking-pork-q7161062/peking-pork-q7161062-2.jpg",
+    "images/peking-pork-q7161062/peking-pork-q7161062-3.jpg",
+    "images/peking-pork-q7161062/peking-pork-q7161062-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7161062",
+    "themealdb": null
+  }
+}

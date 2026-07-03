@@ -1,0 +1,21 @@
+{
+  "id": "Q7202517",
+  "name": "potsticker",
+  "description": "",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potsticker-q7202517/potsticker-q7202517-1.jpg",
+    "images/potsticker-q7202517/potsticker-q7202517-2.jpg",
+    "images/potsticker-q7202517/potsticker-q7202517-3.jpg",
+    "images/potsticker-q7202517/potsticker-q7202517-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7202517",
+    "themealdb": null
+  }
+}

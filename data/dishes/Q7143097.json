@@ -1,0 +1,20 @@
+{
+  "id": "Q7143097",
+  "name": "Pastry heart",
+  "description": "Heart-shaped puff pastry dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastry-heart-q7143097/pastry-heart-q7143097-1.jpg",
+    "images/pastry-heart-q7143097/pastry-heart-q7143097-2.jpg",
+    "images/pastry-heart-q7143097/pastry-heart-q7143097-3.jpg",
+    "images/pastry-heart-q7143097/pastry-heart-q7143097-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7143097",
+    "themealdb": null
+  }
+}

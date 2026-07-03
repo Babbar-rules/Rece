@@ -1,0 +1,18 @@
+{
+  "id": "Q7212709",
+  "name": "Iahnie",
+  "description": "Romanian bean stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/iahnie-q7212709/iahnie-q7212709-1.jpg",
+    "images/iahnie-q7212709/iahnie-q7212709-2.jpg",
+    "images/iahnie-q7212709/iahnie-q7212709-3.jpg",
+    "images/iahnie-q7212709/iahnie-q7212709-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7212709",
+    "themealdb": null
+  }
+}

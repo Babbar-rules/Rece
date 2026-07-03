@@ -1,0 +1,20 @@
+{
+  "id": "Q7208574",
+  "name": "poke",
+  "description": "Hawaiian raw fish dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poke-q7208574/poke-q7208574-1.jpg",
+    "images/poke-q7208574/poke-q7208574-2.jpg",
+    "images/poke-q7208574/poke-q7208574-3.jpg",
+    "images/poke-q7208574/poke-q7208574-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7208574",
+    "themealdb": null
+  }
+}

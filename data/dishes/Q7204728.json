@@ -1,0 +1,18 @@
+{
+  "id": "Q7204728",
+  "name": "pletzel",
+  "description": "type of Jewish flatbread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pletzel-q7204728/pletzel-q7204728-1.jpg",
+    "images/pletzel-q7204728/pletzel-q7204728-2.jpg",
+    "images/pletzel-q7204728/pletzel-q7204728-3.jpg",
+    "images/pletzel-q7204728/pletzel-q7204728-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7204728",
+    "themealdb": null
+  }
+}

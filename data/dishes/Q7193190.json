@@ -1,0 +1,20 @@
+{
+  "id": "Q7193190",
+  "name": "Pig's organ soup",
+  "description": "wikimedia template",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pigs-organ-soup-q7193190/pigs-organ-soup-q7193190-1.jpg",
+    "images/pigs-organ-soup-q7193190/pigs-organ-soup-q7193190-2.jpg",
+    "images/pigs-organ-soup-q7193190/pigs-organ-soup-q7193190-3.jpg",
+    "images/pigs-organ-soup-q7193190/pigs-organ-soup-q7193190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7193190",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7129715",
+  "name": "pan de coco",
+  "description": "Philippine sweet bread",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-de-coco-q7129715/pan-de-coco-q7129715-1.jpg",
+    "images/pan-de-coco-q7129715/pan-de-coco-q7129715-2.jpg",
+    "images/pan-de-coco-q7129715/pan-de-coco-q7129715-3.jpg",
+    "images/pan-de-coco-q7129715/pan-de-coco-q7129715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7129715",
+    "themealdb": null
+  }
+}

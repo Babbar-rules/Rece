@@ -1,0 +1,18 @@
+{
+  "id": "Q7171328",
+  "name": "pesarattu",
+  "description": "type of Indian bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pesarattu-q7171328/pesarattu-q7171328-1.jpg",
+    "images/pesarattu-q7171328/pesarattu-q7171328-2.jpg",
+    "images/pesarattu-q7171328/pesarattu-q7171328-3.jpg",
+    "images/pesarattu-q7171328/pesarattu-q7171328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7171328",
+    "themealdb": null
+  }
+}

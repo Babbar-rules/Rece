@@ -1,0 +1,20 @@
+{
+  "id": "Q7132729",
+  "name": "paper wrapped cake",
+  "description": "type of Chinese cake",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paper-wrapped-cake-q7132729/paper-wrapped-cake-q7132729-1.jpg",
+    "images/paper-wrapped-cake-q7132729/paper-wrapped-cake-q7132729-2.jpg",
+    "images/paper-wrapped-cake-q7132729/paper-wrapped-cake-q7132729-3.jpg",
+    "images/paper-wrapped-cake-q7132729/paper-wrapped-cake-q7132729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7132729",
+    "themealdb": null
+  }
+}

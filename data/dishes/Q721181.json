@@ -1,0 +1,20 @@
+{
+  "id": "Q721181",
+  "name": "German chocolate cake",
+  "description": "layer cake with chocolate and a coconut-pecan frosting",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/german-chocolate-cake-q721181/german-chocolate-cake-q721181-1.jpg",
+    "images/german-chocolate-cake-q721181/german-chocolate-cake-q721181-2.jpg",
+    "images/german-chocolate-cake-q721181/german-chocolate-cake-q721181-3.jpg",
+    "images/german-chocolate-cake-q721181/german-chocolate-cake-q721181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q721181",
+    "themealdb": null
+  }
+}

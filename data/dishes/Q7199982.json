@@ -1,0 +1,20 @@
+{
+  "id": "Q7199982",
+  "name": "Pizza bagel",
+  "description": "bagel with pizza toppings",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-bagel-q7199982/pizza-bagel-q7199982-1.jpg",
+    "images/pizza-bagel-q7199982/pizza-bagel-q7199982-2.jpg",
+    "images/pizza-bagel-q7199982/pizza-bagel-q7199982-3.jpg",
+    "images/pizza-bagel-q7199982/pizza-bagel-q7199982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7199982",
+    "themealdb": null
+  }
+}

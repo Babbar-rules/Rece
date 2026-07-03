@@ -1,0 +1,18 @@
+{
+  "id": "Q7208575",
+  "name": "Poke salad",
+  "description": "Wikimedia disambiguation page",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poke-salad-q7208575/poke-salad-q7208575-1.jpg",
+    "images/poke-salad-q7208575/poke-salad-q7208575-2.jpg",
+    "images/poke-salad-q7208575/poke-salad-q7208575-3.jpg",
+    "images/poke-salad-q7208575/poke-salad-q7208575-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7208575",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q713125",
+  "name": "Ba-wan",
+  "description": "Taiwanese street food",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/ba-wan-q713125/ba-wan-q713125-1.jpg",
+    "images/ba-wan-q713125/ba-wan-q713125-2.jpg",
+    "images/ba-wan-q713125/ba-wan-q713125-3.jpg",
+    "images/ba-wan-q713125/ba-wan-q713125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q713125",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7162751",
+  "name": "Penguin",
+  "description": "chocolate biscuit brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/penguin-q7162751/penguin-q7162751-1.jpg",
+    "images/penguin-q7162751/penguin-q7162751-2.jpg",
+    "images/penguin-q7162751/penguin-q7162751-3.jpg",
+    "images/penguin-q7162751/penguin-q7162751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7162751",
+    "themealdb": null
+  }
+}

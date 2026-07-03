@@ -1,0 +1,21 @@
+{
+  "id": "Q715084",
+  "name": "naengmyeon",
+  "description": "Korean dish of cold noodles",
+  "nationality": [
+    "North Korea",
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/naengmyeon-q715084/naengmyeon-q715084-1.jpg",
+    "images/naengmyeon-q715084/naengmyeon-q715084-2.jpg",
+    "images/naengmyeon-q715084/naengmyeon-q715084-3.jpg",
+    "images/naengmyeon-q715084/naengmyeon-q715084-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q715084",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q7168413",
+  "name": "Perico",
+  "description": "dish",
+  "nationality": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/perico-q7168413/perico-q7168413-1.jpg",
+    "images/perico-q7168413/perico-q7168413-2.jpg",
+    "images/perico-q7168413/perico-q7168413-3.jpg",
+    "images/perico-q7168413/perico-q7168413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7168413",
+    "themealdb": null
+  }
+}

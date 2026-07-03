@@ -1,0 +1,18 @@
+{
+  "id": "Q7190909",
+  "name": "pickled pepper",
+  "description": "Capsicum pepper preserved by pickling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-pepper-q7190909/pickled-pepper-q7190909-1.jpg",
+    "images/pickled-pepper-q7190909/pickled-pepper-q7190909-2.jpg",
+    "images/pickled-pepper-q7190909/pickled-pepper-q7190909-3.jpg",
+    "images/pickled-pepper-q7190909/pickled-pepper-q7190909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7190909",
+    "themealdb": null
+  }
+}

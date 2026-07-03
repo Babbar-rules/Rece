@@ -1,0 +1,22 @@
+{
+  "id": "Q71988103",
+  "name": "Plombières",
+  "description": "Frozen custard",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/plombieres-q71988103/plombieres-q71988103-1.jpg",
+    "images/plombieres-q71988103/plombieres-q71988103-2.jpg",
+    "images/plombieres-q71988103/plombieres-q71988103-3.jpg",
+    "images/plombieres-q71988103/plombieres-q71988103-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q71988103",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q7158585",
+  "name": "pebete",
+  "description": "South American bun",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pebete-q7158585/pebete-q7158585-1.jpg",
+    "images/pebete-q7158585/pebete-q7158585-2.jpg",
+    "images/pebete-q7158585/pebete-q7158585-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7158585",
+    "themealdb": null
+  }
+}

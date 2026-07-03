@@ -1,0 +1,21 @@
+{
+  "id": "Q71667321",
+  "name": "sochnik",
+  "description": "food",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/sochnik-q71667321/sochnik-q71667321-1.jpg",
+    "images/sochnik-q71667321/sochnik-q71667321-2.jpg",
+    "images/sochnik-q71667321/sochnik-q71667321-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q71667321",
+    "themealdb": null
+  }
+}

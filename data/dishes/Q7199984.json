@@ -1,0 +1,18 @@
+{
+  "id": "Q7199984",
+  "name": "pizza carbonara",
+  "description": "variety of pizza",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-carbonara-q7199984/pizza-carbonara-q7199984-1.jpg",
+    "images/pizza-carbonara-q7199984/pizza-carbonara-q7199984-2.jpg",
+    "images/pizza-carbonara-q7199984/pizza-carbonara-q7199984-3.jpg",
+    "images/pizza-carbonara-q7199984/pizza-carbonara-q7199984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7199984",
+    "themealdb": null
+  }
+}

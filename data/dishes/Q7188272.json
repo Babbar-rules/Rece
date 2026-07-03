@@ -1,0 +1,18 @@
+{
+  "id": "Q7188272",
+  "name": "Phu quoc fish sauce",
+  "description": "Vietnamese fish sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/phu-quoc-fish-sauce-q7188272/phu-quoc-fish-sauce-q7188272-1.jpg",
+    "images/phu-quoc-fish-sauce-q7188272/phu-quoc-fish-sauce-q7188272-2.jpg",
+    "images/phu-quoc-fish-sauce-q7188272/phu-quoc-fish-sauce-q7188272-3.jpg",
+    "images/phu-quoc-fish-sauce-q7188272/phu-quoc-fish-sauce-q7188272-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7188272",
+    "themealdb": null
+  }
+}

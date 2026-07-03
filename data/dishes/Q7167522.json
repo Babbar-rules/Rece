@@ -1,0 +1,18 @@
+{
+  "id": "Q7167522",
+  "name": "Percy Pig",
+  "description": "Confectionery product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/percy-pig-q7167522/percy-pig-q7167522-1.jpg",
+    "images/percy-pig-q7167522/percy-pig-q7167522-2.jpg",
+    "images/percy-pig-q7167522/percy-pig-q7167522-3.jpg",
+    "images/percy-pig-q7167522/percy-pig-q7167522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7167522",
+    "themealdb": null
+  }
+}

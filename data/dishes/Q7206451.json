@@ -1,0 +1,18 @@
+{
+  "id": "Q7206451",
+  "name": "pocket sandwich",
+  "description": "bread-based foodstuff",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pocket-sandwich-q7206451/pocket-sandwich-q7206451-1.jpg",
+    "images/pocket-sandwich-q7206451/pocket-sandwich-q7206451-2.jpg",
+    "images/pocket-sandwich-q7206451/pocket-sandwich-q7206451-3.jpg",
+    "images/pocket-sandwich-q7206451/pocket-sandwich-q7206451-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7206451",
+    "themealdb": null
+  }
+}

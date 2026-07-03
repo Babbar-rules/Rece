@@ -1,0 +1,22 @@
+{
+  "id": "Q720230",
+  "name": "rojak",
+  "description": "Indonesian traditional fruit and vegetable dish originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rojak-q720230/rojak-q720230-1.jpg",
+    "images/rojak-q720230/rojak-q720230-2.jpg",
+    "images/rojak-q720230/rojak-q720230-3.jpg",
+    "images/rojak-q720230/rojak-q720230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q720230",
+    "themealdb": null
+  }
+}

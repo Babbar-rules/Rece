@@ -1,0 +1,18 @@
+{
+  "id": "Q7211324",
+  "name": "egg shrimp cracker",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-shrimp-cracker-q7211324/egg-shrimp-cracker-q7211324-1.jpg",
+    "images/egg-shrimp-cracker-q7211324/egg-shrimp-cracker-q7211324-2.jpg",
+    "images/egg-shrimp-cracker-q7211324/egg-shrimp-cracker-q7211324-3.jpg",
+    "images/egg-shrimp-cracker-q7211324/egg-shrimp-cracker-q7211324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7211324",
+    "themealdb": null
+  }
+}

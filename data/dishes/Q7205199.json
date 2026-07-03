@@ -1,0 +1,20 @@
+{
+  "id": "Q7205199",
+  "name": "Ploye",
+  "description": "acadian pancake (modern-day Canada)",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ploye-q7205199/ploye-q7205199-1.jpg",
+    "images/ploye-q7205199/ploye-q7205199-2.jpg",
+    "images/ploye-q7205199/ploye-q7205199-3.jpg",
+    "images/ploye-q7205199/ploye-q7205199-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7205199",
+    "themealdb": null
+  }
+}

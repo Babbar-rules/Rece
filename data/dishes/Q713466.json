@@ -1,0 +1,20 @@
+{
+  "id": "Q713466",
+  "name": "zongzi",
+  "description": "traditional Chinese food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zongzi-q713466/zongzi-q713466-1.jpg",
+    "images/zongzi-q713466/zongzi-q713466-2.jpg",
+    "images/zongzi-q713466/zongzi-q713466-3.jpg",
+    "images/zongzi-q713466/zongzi-q713466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q713466",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7162838",
+  "name": "Penia",
+  "description": "type of sweet Italian bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/penia-q7162838/penia-q7162838-1.jpg",
+    "images/penia-q7162838/penia-q7162838-2.jpg",
+    "images/penia-q7162838/penia-q7162838-3.jpg",
+    "images/penia-q7162838/penia-q7162838-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7162838",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7141239",
+  "name": "parva",
+  "description": "bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/parva-q7141239/parva-q7141239-1.jpg",
+    "images/parva-q7141239/parva-q7141239-2.jpg",
+    "images/parva-q7141239/parva-q7141239-3.jpg",
+    "images/parva-q7141239/parva-q7141239-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7141239",
+    "themealdb": null
+  }
+}

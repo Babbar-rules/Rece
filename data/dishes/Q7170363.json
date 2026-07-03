@@ -1,0 +1,20 @@
+{
+  "id": "Q7170363",
+  "name": "Persimmon pudding",
+  "description": "traditional American dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/persimmon-pudding-q7170363/persimmon-pudding-q7170363-1.jpg",
+    "images/persimmon-pudding-q7170363/persimmon-pudding-q7170363-2.jpg",
+    "images/persimmon-pudding-q7170363/persimmon-pudding-q7170363-3.jpg",
+    "images/persimmon-pudding-q7170363/persimmon-pudding-q7170363-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7170363",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q717435",
+  "name": "mantecado",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mantecado-q717435/mantecado-q717435-1.jpg",
+    "images/mantecado-q717435/mantecado-q717435-2.jpg",
+    "images/mantecado-q717435/mantecado-q717435-3.jpg",
+    "images/mantecado-q717435/mantecado-q717435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q717435",
+    "themealdb": null
+  }
+}

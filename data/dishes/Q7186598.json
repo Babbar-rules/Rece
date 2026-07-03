@@ -1,0 +1,18 @@
+{
+  "id": "Q7186598",
+  "name": "Pho Ta",
+  "description": "Restaurant located in Ho Chi Minh City",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pho-ta-q7186598/pho-ta-q7186598-1.jpg",
+    "images/pho-ta-q7186598/pho-ta-q7186598-2.jpg",
+    "images/pho-ta-q7186598/pho-ta-q7186598-3.jpg",
+    "images/pho-ta-q7186598/pho-ta-q7186598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7186598",
+    "themealdb": null
+  }
+}

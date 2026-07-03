@@ -1,0 +1,20 @@
+{
+  "id": "Q7160523",
+  "name": "peg bread",
+  "description": "Jamaican and West Indian bread",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peg-bread-q7160523/peg-bread-q7160523-1.jpg",
+    "images/peg-bread-q7160523/peg-bread-q7160523-2.jpg",
+    "images/peg-bread-q7160523/peg-bread-q7160523-3.jpg",
+    "images/peg-bread-q7160523/peg-bread-q7160523-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7160523",
+    "themealdb": null
+  }
+}

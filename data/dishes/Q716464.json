@@ -1,0 +1,20 @@
+{
+  "id": "Q716464",
+  "name": "pajeon",
+  "description": "Korean scallion pancake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pajeon-q716464/pajeon-q716464-1.jpg",
+    "images/pajeon-q716464/pajeon-q716464-2.jpg",
+    "images/pajeon-q716464/pajeon-q716464-3.jpg",
+    "images/pajeon-q716464/pajeon-q716464-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q716464",
+    "themealdb": null
+  }
+}

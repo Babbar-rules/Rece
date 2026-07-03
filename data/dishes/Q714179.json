@@ -1,0 +1,20 @@
+{
+  "id": "Q714179",
+  "name": "Snickers",
+  "description": "brand name chocolate bar made by Mars, Incorporated",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snickers-q714179/snickers-q714179-1.jpg",
+    "images/snickers-q714179/snickers-q714179-2.jpg",
+    "images/snickers-q714179/snickers-q714179-3.jpg",
+    "images/snickers-q714179/snickers-q714179-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q714179",
+    "themealdb": null
+  }
+}

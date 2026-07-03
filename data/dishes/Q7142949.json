@@ -1,0 +1,20 @@
+{
+  "id": "Q7142949",
+  "name": "pasta al pomodoro",
+  "description": "typical Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-al-pomodoro-q7142949/pasta-al-pomodoro-q7142949-1.jpg",
+    "images/pasta-al-pomodoro-q7142949/pasta-al-pomodoro-q7142949-2.jpg",
+    "images/pasta-al-pomodoro-q7142949/pasta-al-pomodoro-q7142949-3.jpg",
+    "images/pasta-al-pomodoro-q7142949/pasta-al-pomodoro-q7142949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7142949",
+    "themealdb": null
+  }
+}

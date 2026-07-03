@@ -1,0 +1,20 @@
+{
+  "id": "Q7193919",
+  "name": "Thanksgiving sandwich",
+  "description": "American sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thanksgiving-sandwich-q7193919/thanksgiving-sandwich-q7193919-1.jpg",
+    "images/thanksgiving-sandwich-q7193919/thanksgiving-sandwich-q7193919-2.jpg",
+    "images/thanksgiving-sandwich-q7193919/thanksgiving-sandwich-q7193919-3.jpg",
+    "images/thanksgiving-sandwich-q7193919/thanksgiving-sandwich-q7193919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7193919",
+    "themealdb": null
+  }
+}

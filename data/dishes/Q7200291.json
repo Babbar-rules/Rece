@@ -1,0 +1,20 @@
+{
+  "id": "Q7200291",
+  "name": "Placenta cake",
+  "description": "cheesecake recipe from ancient Greece",
+  "nationality": [
+    "Roman Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/placenta-cake-q7200291/placenta-cake-q7200291-1.jpg",
+    "images/placenta-cake-q7200291/placenta-cake-q7200291-2.jpg",
+    "images/placenta-cake-q7200291/placenta-cake-q7200291-3.jpg",
+    "images/placenta-cake-q7200291/placenta-cake-q7200291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7200291",
+    "themealdb": null
+  }
+}

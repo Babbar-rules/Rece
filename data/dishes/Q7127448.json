@@ -1,0 +1,18 @@
+{
+  "id": "Q7127448",
+  "name": "Paleta",
+  "description": "ice-cream treat made from fresh fruit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paleta-q7127448/paleta-q7127448-1.jpg",
+    "images/paleta-q7127448/paleta-q7127448-2.jpg",
+    "images/paleta-q7127448/paleta-q7127448-3.jpg",
+    "images/paleta-q7127448/paleta-q7127448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7127448",
+    "themealdb": null
+  }
+}

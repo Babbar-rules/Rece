@@ -1,0 +1,18 @@
+{
+  "id": "Q7202208",
+  "name": "Plate steak",
+  "description": "cut of beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plate-steak-q7202208/plate-steak-q7202208-1.png",
+    "images/plate-steak-q7202208/plate-steak-q7202208-2.jpg",
+    "images/plate-steak-q7202208/plate-steak-q7202208-3.jpg",
+    "images/plate-steak-q7202208/plate-steak-q7202208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7202208",
+    "themealdb": null
+  }
+}

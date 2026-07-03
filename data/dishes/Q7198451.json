@@ -1,0 +1,18 @@
+{
+  "id": "Q7198451",
+  "name": "pistachio pudding",
+  "description": "pudding made with pistachio nuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pistachio-pudding-q7198451/pistachio-pudding-q7198451-1.jpg",
+    "images/pistachio-pudding-q7198451/pistachio-pudding-q7198451-2.jpg",
+    "images/pistachio-pudding-q7198451/pistachio-pudding-q7198451-3.jpg",
+    "images/pistachio-pudding-q7198451/pistachio-pudding-q7198451-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7198451",
+    "themealdb": null
+  }
+}

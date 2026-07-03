@@ -1,0 +1,20 @@
+{
+  "id": "Q7182763",
+  "name": "Philadelphia pepper pot",
+  "description": "type of tripe soup",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/philadelphia-pepper-pot-q7182763/philadelphia-pepper-pot-q7182763-1.jpg",
+    "images/philadelphia-pepper-pot-q7182763/philadelphia-pepper-pot-q7182763-2.jpg",
+    "images/philadelphia-pepper-pot-q7182763/philadelphia-pepper-pot-q7182763-3.jpg",
+    "images/philadelphia-pepper-pot-q7182763/philadelphia-pepper-pot-q7182763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7182763",
+    "themealdb": null
+  }
+}

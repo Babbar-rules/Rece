@@ -1,0 +1,22 @@
+{
+  "id": "Q7138331",
+  "name": "Parker House roll",
+  "description": "Type of bread roll",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of New England"
+  ],
+  "images": [
+    "images/parker-house-roll-q7138331/parker-house-roll-q7138331-1.jpg",
+    "images/parker-house-roll-q7138331/parker-house-roll-q7138331-2.jpg",
+    "images/parker-house-roll-q7138331/parker-house-roll-q7138331-3.jpg",
+    "images/parker-house-roll-q7138331/parker-house-roll-q7138331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7138331",
+    "themealdb": null
+  }
+}

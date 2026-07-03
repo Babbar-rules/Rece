@@ -1,0 +1,22 @@
+{
+  "id": "Q7180306",
+  "name": "phall",
+  "description": "British Asian curry Indian dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/phall-q7180306/phall-q7180306-1.jpg",
+    "images/phall-q7180306/phall-q7180306-2.jpg",
+    "images/phall-q7180306/phall-q7180306-3.jpg",
+    "images/phall-q7180306/phall-q7180306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7180306",
+    "themealdb": null
+  }
+}

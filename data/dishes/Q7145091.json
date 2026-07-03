@@ -1,0 +1,20 @@
+{
+  "id": "Q7145091",
+  "name": "patlıcanlı kebap",
+  "description": "Turkish \"kebap\" made with eggplants and red meat (beef and mutton) on a scewer",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/patlcanl-kebap-q7145091/patlcanl-kebap-q7145091-1.jpg",
+    "images/patlcanl-kebap-q7145091/patlcanl-kebap-q7145091-2.jpg",
+    "images/patlcanl-kebap-q7145091/patlcanl-kebap-q7145091-3.jpg",
+    "images/patlcanl-kebap-q7145091/patlcanl-kebap-q7145091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7145091",
+    "themealdb": null
+  }
+}

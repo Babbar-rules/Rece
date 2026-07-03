@@ -1,0 +1,18 @@
+{
+  "id": "Q7167670",
+  "name": "perdeli pilav",
+  "description": "Turkish \"pilav\" dish in \"yufka\"",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/perdeli-pilav-q7167670/perdeli-pilav-q7167670-1.jpg",
+    "images/perdeli-pilav-q7167670/perdeli-pilav-q7167670-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7167670",
+    "themealdb": null
+  }
+}
