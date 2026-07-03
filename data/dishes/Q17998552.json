@@ -1,0 +1,22 @@
+{
+  "id": "Q17998552",
+  "name": "Babi panggang karo",
+  "description": "roasted pork dish from Karo, North Sumatra",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/babi-panggang-karo-q17998552/babi-panggang-karo-q17998552-1.jpg",
+    "images/babi-panggang-karo-q17998552/babi-panggang-karo-q17998552-2.jpg",
+    "images/babi-panggang-karo-q17998552/babi-panggang-karo-q17998552-3.jpg",
+    "images/babi-panggang-karo-q17998552/babi-panggang-karo-q17998552-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17998552",
+    "themealdb": null
+  }
+}

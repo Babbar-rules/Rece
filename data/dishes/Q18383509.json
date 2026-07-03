@@ -1,0 +1,16 @@
+{
+  "id": "Q18383509",
+  "name": "Kibi dango",
+  "description": "Japanese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kibi-dango-q18383509/kibi-dango-q18383509-1.jpg",
+    "images/kibi-dango-q18383509/kibi-dango-q18383509-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18383509",
+    "themealdb": null
+  }
+}

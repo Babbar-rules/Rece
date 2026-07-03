@@ -1,0 +1,18 @@
+{
+  "id": "Q18432211",
+  "name": "Irish breakfast",
+  "description": "Irish meal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/irish-breakfast-q18432211/irish-breakfast-q18432211-1.jpg",
+    "images/irish-breakfast-q18432211/irish-breakfast-q18432211-2.jpg",
+    "images/irish-breakfast-q18432211/irish-breakfast-q18432211-3.jpg",
+    "images/irish-breakfast-q18432211/irish-breakfast-q18432211-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18432211",
+    "themealdb": null
+  }
+}

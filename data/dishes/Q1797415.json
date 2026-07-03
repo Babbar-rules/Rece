@@ -1,0 +1,16 @@
+{
+  "id": "Q1797415",
+  "name": "Küttiger carrot",
+  "description": "variety of carrot from Switzerland",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kuttiger-carrot-q1797415/kuttiger-carrot-q1797415-1.jpg",
+    "images/kuttiger-carrot-q1797415/kuttiger-carrot-q1797415-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1797415",
+    "themealdb": null
+  }
+}

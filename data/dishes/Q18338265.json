@@ -1,0 +1,18 @@
+{
+  "id": "Q18338265",
+  "name": "steak burger",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-burger-q18338265/steak-burger-q18338265-1.jpg",
+    "images/steak-burger-q18338265/steak-burger-q18338265-2.jpg",
+    "images/steak-burger-q18338265/steak-burger-q18338265-3.jpg",
+    "images/steak-burger-q18338265/steak-burger-q18338265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18338265",
+    "themealdb": null
+  }
+}

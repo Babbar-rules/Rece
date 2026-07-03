@@ -1,0 +1,20 @@
+{
+  "id": "Q1799855",
+  "name": "fruit curd",
+  "description": "dessert spread and topping",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-curd-q1799855/fruit-curd-q1799855-1.jpg",
+    "images/fruit-curd-q1799855/fruit-curd-q1799855-2.jpg",
+    "images/fruit-curd-q1799855/fruit-curd-q1799855-3.jpg",
+    "images/fruit-curd-q1799855/fruit-curd-q1799855-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1799855",
+    "themealdb": null
+  }
+}

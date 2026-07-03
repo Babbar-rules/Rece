@@ -1,0 +1,22 @@
+{
+  "id": "Q1800458",
+  "name": "Pommes Anna",
+  "description": "Layered potato casserole",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/pommes-anna-q1800458/pommes-anna-q1800458-1.jpg",
+    "images/pommes-anna-q1800458/pommes-anna-q1800458-2.jpg",
+    "images/pommes-anna-q1800458/pommes-anna-q1800458-3.jpg",
+    "images/pommes-anna-q1800458/pommes-anna-q1800458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1800458",
+    "themealdb": null
+  }
+}

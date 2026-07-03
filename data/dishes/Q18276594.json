@@ -1,0 +1,20 @@
+{
+  "id": "Q18276594",
+  "name": "Krachel",
+  "description": "Moroccan bread roll",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/krachel-q18276594/krachel-q18276594-1.jpg",
+    "images/krachel-q18276594/krachel-q18276594-2.jpg",
+    "images/krachel-q18276594/krachel-q18276594-3.jpg",
+    "images/krachel-q18276594/krachel-q18276594-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18276594",
+    "themealdb": null
+  }
+}

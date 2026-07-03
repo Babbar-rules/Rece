@@ -1,0 +1,18 @@
+{
+  "id": "Q18291301",
+  "name": "kolbulle",
+  "description": "thick pancake with pork made directly in a frying pan, often over open fire",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kolbulle-q18291301/kolbulle-q18291301-1.jpg",
+    "images/kolbulle-q18291301/kolbulle-q18291301-2.jpg",
+    "images/kolbulle-q18291301/kolbulle-q18291301-3.jpg",
+    "images/kolbulle-q18291301/kolbulle-q18291301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18291301",
+    "themealdb": null
+  }
+}

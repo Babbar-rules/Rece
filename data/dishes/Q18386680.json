@@ -1,0 +1,20 @@
+{
+  "id": "Q18386680",
+  "name": "Sutarfeni",
+  "description": "Indian sweet",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sutarfeni-q18386680/sutarfeni-q18386680-1.jpg",
+    "images/sutarfeni-q18386680/sutarfeni-q18386680-2.jpg",
+    "images/sutarfeni-q18386680/sutarfeni-q18386680-3.jpg",
+    "images/sutarfeni-q18386680/sutarfeni-q18386680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18386680",
+    "themealdb": null
+  }
+}

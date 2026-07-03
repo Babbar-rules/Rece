@@ -1,0 +1,20 @@
+{
+  "id": "Q18088406",
+  "name": "LiGA",
+  "description": "brand bisuits",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/liga-q18088406/liga-q18088406-1.png",
+    "images/liga-q18088406/liga-q18088406-2.png",
+    "images/liga-q18088406/liga-q18088406-3.png",
+    "images/liga-q18088406/liga-q18088406-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18088406",
+    "themealdb": null
+  }
+}

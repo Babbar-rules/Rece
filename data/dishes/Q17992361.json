@@ -1,0 +1,20 @@
+{
+  "id": "Q17992361",
+  "name": "bryndzové pirohy",
+  "description": "dumplings filled with curd, boiled potatoes and onions",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bryndzove-pirohy-q17992361/bryndzove-pirohy-q17992361-1.jpg",
+    "images/bryndzove-pirohy-q17992361/bryndzove-pirohy-q17992361-2.jpg",
+    "images/bryndzove-pirohy-q17992361/bryndzove-pirohy-q17992361-3.jpg",
+    "images/bryndzove-pirohy-q17992361/bryndzove-pirohy-q17992361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17992361",
+    "themealdb": null
+  }
+}

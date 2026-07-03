@@ -1,0 +1,22 @@
+{
+  "id": "Q18392972",
+  "name": "steak and eggs",
+  "description": "breakfast dish consisting of beefsteak and fried eggs",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [
+    "Australian cuisine"
+  ],
+  "images": [
+    "images/steak-and-eggs-q18392972/steak-and-eggs-q18392972-1.jpg",
+    "images/steak-and-eggs-q18392972/steak-and-eggs-q18392972-2.jpg",
+    "images/steak-and-eggs-q18392972/steak-and-eggs-q18392972-3.jpg",
+    "images/steak-and-eggs-q18392972/steak-and-eggs-q18392972-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18392972",
+    "themealdb": null
+  }
+}

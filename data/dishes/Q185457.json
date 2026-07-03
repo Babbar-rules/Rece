@@ -1,0 +1,18 @@
+{
+  "id": "Q185457",
+  "name": "meat salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-salad-q185457/meat-salad-q185457-1.jpg",
+    "images/meat-salad-q185457/meat-salad-q185457-2.jpg",
+    "images/meat-salad-q185457/meat-salad-q185457-3.jpg",
+    "images/meat-salad-q185457/meat-salad-q185457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q185457",
+    "themealdb": null
+  }
+}

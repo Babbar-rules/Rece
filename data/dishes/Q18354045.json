@@ -1,0 +1,20 @@
+{
+  "id": "Q18354045",
+  "name": "samlar kako",
+  "description": "Cambodian soup",
+  "nationality": [
+    "Cambodia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samlar-kako-q18354045/samlar-kako-q18354045-1.jpg",
+    "images/samlar-kako-q18354045/samlar-kako-q18354045-2.jpg",
+    "images/samlar-kako-q18354045/samlar-kako-q18354045-3.jpg",
+    "images/samlar-kako-q18354045/samlar-kako-q18354045-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18354045",
+    "themealdb": null
+  }
+}

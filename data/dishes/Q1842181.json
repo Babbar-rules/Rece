@@ -1,0 +1,20 @@
+{
+  "id": "Q1842181",
+  "name": "frico",
+  "description": "Italian food known as a cheese crisp in English",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frico-q1842181/frico-q1842181-1.jpg",
+    "images/frico-q1842181/frico-q1842181-2.jpg",
+    "images/frico-q1842181/frico-q1842181-3.png",
+    "images/frico-q1842181/frico-q1842181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1842181",
+    "themealdb": null
+  }
+}

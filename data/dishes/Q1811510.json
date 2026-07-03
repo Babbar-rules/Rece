@@ -1,0 +1,18 @@
+{
+  "id": "Q1811510",
+  "name": "Plopp",
+  "description": "brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plopp-q1811510/plopp-q1811510-1.jpg",
+    "images/plopp-q1811510/plopp-q1811510-2.jpg",
+    "images/plopp-q1811510/plopp-q1811510-3.jpg",
+    "images/plopp-q1811510/plopp-q1811510-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1811510",
+    "themealdb": null
+  }
+}

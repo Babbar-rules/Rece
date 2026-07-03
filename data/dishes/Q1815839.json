@@ -1,0 +1,21 @@
+{
+  "id": "Q1815839",
+  "name": "Pissaladière",
+  "description": "Provençal-Ligurian dish",
+  "nationality": [
+    "Italy",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pissaladiere-q1815839/pissaladiere-q1815839-1.jpg",
+    "images/pissaladiere-q1815839/pissaladiere-q1815839-2.jpg",
+    "images/pissaladiere-q1815839/pissaladiere-q1815839-3.jpg",
+    "images/pissaladiere-q1815839/pissaladiere-q1815839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1815839",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18388807",
+  "name": "pizza pugliese",
+  "description": "style of pizza, named after the Apulia region",
+  "nationality": [],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/pizza-pugliese-q18388807/pizza-pugliese-q18388807-1.jpg",
+    "images/pizza-pugliese-q18388807/pizza-pugliese-q18388807-2.jpg",
+    "images/pizza-pugliese-q18388807/pizza-pugliese-q18388807-3.jpg",
+    "images/pizza-pugliese-q18388807/pizza-pugliese-q18388807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18388807",
+    "themealdb": null
+  }
+}

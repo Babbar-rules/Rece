@@ -1,0 +1,18 @@
+{
+  "id": "Q18384393",
+  "name": "hashed beef",
+  "description": "Japanese dish of sliced beef cooked in demi-glace sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hashed-beef-q18384393/hashed-beef-q18384393-1.jpg",
+    "images/hashed-beef-q18384393/hashed-beef-q18384393-2.jpg",
+    "images/hashed-beef-q18384393/hashed-beef-q18384393-3.jpg",
+    "images/hashed-beef-q18384393/hashed-beef-q18384393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18384393",
+    "themealdb": null
+  }
+}

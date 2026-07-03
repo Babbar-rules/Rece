@@ -1,0 +1,20 @@
+{
+  "id": "Q18471291",
+  "name": "viúvas",
+  "description": "Portuguese pastry",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/viuvas-q18471291/viuvas-q18471291-1.jpg",
+    "images/viuvas-q18471291/viuvas-q18471291-2.jpg",
+    "images/viuvas-q18471291/viuvas-q18471291-3.jpg",
+    "images/viuvas-q18471291/viuvas-q18471291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18471291",
+    "themealdb": null
+  }
+}

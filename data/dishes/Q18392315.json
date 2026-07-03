@@ -1,0 +1,18 @@
+{
+  "id": "Q18392315",
+  "name": "German fries",
+  "description": "preparation of fries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/german-fries-q18392315/german-fries-q18392315-1.jpg",
+    "images/german-fries-q18392315/german-fries-q18392315-2.jpg",
+    "images/german-fries-q18392315/german-fries-q18392315-3.jpg",
+    "images/german-fries-q18392315/german-fries-q18392315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18392315",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "Q1819455",
+  "name": "Locro",
+  "description": "South American stew",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Ecuadorian cuisine",
+    "Bolivian cuisine",
+    "Peruvian cuisine"
+  ],
+  "images": [
+    "images/locro-q1819455/locro-q1819455-1.jpg",
+    "images/locro-q1819455/locro-q1819455-2.jpg",
+    "images/locro-q1819455/locro-q1819455-3.jpg",
+    "images/locro-q1819455/locro-q1819455-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53146",
+    "category": "Miscellaneous",
+    "area": "Argentina",
+    "instructions": "Soak: Soak corn and beans overnight in water.\r\nCook Meats: In a large pot, brown the beef and pork. Add onions and spices, cooking until translucent.\r\nSimmer the Stew: Add soaked corn and beans, pumpkin, potato, and enough water to cover. Simmer for 2-3 hours, until thick.\r\nServe: Enjoy hot, with bread on the side.\r\nPro Tips:\r\n\r\nToasting the corn slightly before adding it to the stew enhances its flavor.\r\nAdd a spoonful of paprika or a dash of cumin for an extra layer of warmth and complexity",
+    "ingredients": [
+      {
+        "ingredient": "Dried white corn",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Dried white beans",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Pumpkin",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Beef",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Pork",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Chorizo",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=vX0KYKAkBTU",
+    "thumb": "https://www.themealdb.com/images/media/meals/5sgsob1763196284.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1819455",
+    "themealdb": "53146"
+  }
+}

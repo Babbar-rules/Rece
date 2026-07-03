@@ -1,0 +1,20 @@
+{
+  "id": "Q181042",
+  "name": "Kinder Surprise",
+  "description": "brand of chocolate egg",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-surprise-q181042/kinder-surprise-q181042-1.jpg",
+    "images/kinder-surprise-q181042/kinder-surprise-q181042-2.jpg",
+    "images/kinder-surprise-q181042/kinder-surprise-q181042-3.jpg",
+    "images/kinder-surprise-q181042/kinder-surprise-q181042-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181042",
+    "themealdb": null
+  }
+}

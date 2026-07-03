@@ -1,0 +1,20 @@
+{
+  "id": "Q18388803",
+  "name": "pizza capricciosa",
+  "description": "pizza prepared with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-capricciosa-q18388803/pizza-capricciosa-q18388803-1.jpg",
+    "images/pizza-capricciosa-q18388803/pizza-capricciosa-q18388803-2.jpg",
+    "images/pizza-capricciosa-q18388803/pizza-capricciosa-q18388803-3.jpg",
+    "images/pizza-capricciosa-q18388803/pizza-capricciosa-q18388803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18388803",
+    "themealdb": null
+  }
+}

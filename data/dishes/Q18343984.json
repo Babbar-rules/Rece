@@ -1,0 +1,20 @@
+{
+  "id": "Q18343984",
+  "name": "Kuaitiao khua kai",
+  "description": "Thai dish with noodles and chicken",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuaitiao-khua-kai-q18343984/kuaitiao-khua-kai-q18343984-1.jpg",
+    "images/kuaitiao-khua-kai-q18343984/kuaitiao-khua-kai-q18343984-2.jpg",
+    "images/kuaitiao-khua-kai-q18343984/kuaitiao-khua-kai-q18343984-3.jpg",
+    "images/kuaitiao-khua-kai-q18343984/kuaitiao-khua-kai-q18343984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18343984",
+    "themealdb": null
+  }
+}

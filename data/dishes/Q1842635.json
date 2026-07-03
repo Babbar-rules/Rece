@@ -1,0 +1,18 @@
+{
+  "id": "Q1842635",
+  "name": "vanilla wafer",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vanilla-wafer-q1842635/vanilla-wafer-q1842635-1.jpg",
+    "images/vanilla-wafer-q1842635/vanilla-wafer-q1842635-2.jpg",
+    "images/vanilla-wafer-q1842635/vanilla-wafer-q1842635-3.jpg",
+    "images/vanilla-wafer-q1842635/vanilla-wafer-q1842635-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1842635",
+    "themealdb": null
+  }
+}

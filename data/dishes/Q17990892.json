@@ -1,0 +1,18 @@
+{
+  "id": "Q17990892",
+  "name": "kenpi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kenpi-q17990892/kenpi-q17990892-1.jpg",
+    "images/kenpi-q17990892/kenpi-q17990892-2.jpg",
+    "images/kenpi-q17990892/kenpi-q17990892-3.jpg",
+    "images/kenpi-q17990892/kenpi-q17990892-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17990892",
+    "themealdb": null
+  }
+}

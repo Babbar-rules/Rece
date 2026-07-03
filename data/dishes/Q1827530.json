@@ -1,0 +1,17 @@
+{
+  "id": "Q1827530",
+  "name": "Lippische Strohsemmel",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lippische-strohsemmel-q1827530/lippische-strohsemmel-q1827530-1.jpg",
+    "images/lippische-strohsemmel-q1827530/lippische-strohsemmel-q1827530-2.jpg",
+    "images/lippische-strohsemmel-q1827530/lippische-strohsemmel-q1827530-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1827530",
+    "themealdb": null
+  }
+}

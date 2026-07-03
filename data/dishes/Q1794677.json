@@ -1,0 +1,20 @@
+{
+  "id": "Q1794677",
+  "name": "Kutia",
+  "description": "Sweet grain pudding, traditionally served in Ukraine, Belarus, Russian and some parts of Poland",
+  "nationality": [],
+  "region_cuisine": [
+    "Slavic cuisine"
+  ],
+  "images": [
+    "images/kutia-q1794677/kutia-q1794677-1.jpg",
+    "images/kutia-q1794677/kutia-q1794677-2.jpg",
+    "images/kutia-q1794677/kutia-q1794677-3.jpg",
+    "images/kutia-q1794677/kutia-q1794677-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1794677",
+    "themealdb": null
+  }
+}

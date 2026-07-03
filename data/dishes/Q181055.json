@@ -1,0 +1,23 @@
+{
+  "id": "Q181055",
+  "name": "hot dog",
+  "description": "sausage in bun, usually with toppings",
+  "nationality": [
+    "United States",
+    "Germany"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/hot-dog-q181055/hot-dog-q181055-1.jpg",
+    "images/hot-dog-q181055/hot-dog-q181055-2.jpeg",
+    "images/hot-dog-q181055/hot-dog-q181055-3.jpg",
+    "images/hot-dog-q181055/hot-dog-q181055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181055",
+    "themealdb": null
+  }
+}

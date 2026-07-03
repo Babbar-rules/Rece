@@ -1,0 +1,18 @@
+{
+  "id": "Q1856158",
+  "name": "Viaticum",
+  "description": "Holy Communion received near death",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/viaticum-q1856158/viaticum-q1856158-1.jpg",
+    "images/viaticum-q1856158/viaticum-q1856158-2.jpg",
+    "images/viaticum-q1856158/viaticum-q1856158-3.jpg",
+    "images/viaticum-q1856158/viaticum-q1856158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1856158",
+    "themealdb": null
+  }
+}

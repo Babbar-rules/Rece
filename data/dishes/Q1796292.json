@@ -1,0 +1,18 @@
+{
+  "id": "Q1796292",
+  "name": "Königsberg marzipan",
+  "description": "Type of marzipan from Kaliningrad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/konigsberg-marzipan-q1796292/konigsberg-marzipan-q1796292-1.jpg",
+    "images/konigsberg-marzipan-q1796292/konigsberg-marzipan-q1796292-2.jpg",
+    "images/konigsberg-marzipan-q1796292/konigsberg-marzipan-q1796292-3.jpg",
+    "images/konigsberg-marzipan-q1796292/konigsberg-marzipan-q1796292-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1796292",
+    "themealdb": null
+  }
+}

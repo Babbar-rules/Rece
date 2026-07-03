@@ -1,0 +1,18 @@
+{
+  "id": "Q1823666",
+  "name": "Groninger cake",
+  "description": "spicy gingerbread-like cake from the province of Groningen, Netherlands",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/groninger-cake-q1823666/groninger-cake-q1823666-1.jpg",
+    "images/groninger-cake-q1823666/groninger-cake-q1823666-2.jpg",
+    "images/groninger-cake-q1823666/groninger-cake-q1823666-3.jpg",
+    "images/groninger-cake-q1823666/groninger-cake-q1823666-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1823666",
+    "themealdb": null
+  }
+}

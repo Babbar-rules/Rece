@@ -1,0 +1,20 @@
+{
+  "id": "Q1795580",
+  "name": "Kedjenou",
+  "description": "spicy chicken stew from West Africa",
+  "nationality": [
+    "Ivory Coast"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kedjenou-q1795580/kedjenou-q1795580-1.jpg",
+    "images/kedjenou-q1795580/kedjenou-q1795580-2.jpg",
+    "images/kedjenou-q1795580/kedjenou-q1795580-3.jpg",
+    "images/kedjenou-q1795580/kedjenou-q1795580-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1795580",
+    "themealdb": null
+  }
+}

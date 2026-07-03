@@ -1,0 +1,18 @@
+{
+  "id": "Q1811076",
+  "name": "Liver and onions",
+  "description": "Prepared dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/liver-and-onions-q1811076/liver-and-onions-q1811076-1.jpg",
+    "images/liver-and-onions-q1811076/liver-and-onions-q1811076-2.jpg",
+    "images/liver-and-onions-q1811076/liver-and-onions-q1811076-3.jpg",
+    "images/liver-and-onions-q1811076/liver-and-onions-q1811076-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1811076",
+    "themealdb": null
+  }
+}

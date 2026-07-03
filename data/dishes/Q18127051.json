@@ -1,0 +1,18 @@
+{
+  "id": "Q18127051",
+  "name": "Kwati",
+  "description": "Nepali bean soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kwati-q18127051/kwati-q18127051-1.jpg",
+    "images/kwati-q18127051/kwati-q18127051-2.jpg",
+    "images/kwati-q18127051/kwati-q18127051-3.jpg",
+    "images/kwati-q18127051/kwati-q18127051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18127051",
+    "themealdb": null
+  }
+}

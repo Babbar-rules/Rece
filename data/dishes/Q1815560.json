@@ -1,0 +1,20 @@
+{
+  "id": "Q1815560",
+  "name": "calzone",
+  "description": "oven-baked folded pizza from Naples",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calzone-q1815560/calzone-q1815560-1.jpg",
+    "images/calzone-q1815560/calzone-q1815560-2.jpg",
+    "images/calzone-q1815560/calzone-q1815560-3.png",
+    "images/calzone-q1815560/calzone-q1815560-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1815560",
+    "themealdb": null
+  }
+}

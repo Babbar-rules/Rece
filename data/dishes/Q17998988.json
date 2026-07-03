@@ -1,0 +1,20 @@
+{
+  "id": "Q17998988",
+  "name": "barongko pisang",
+  "description": "Bugis traditional dish of banana mixed with sugar, eggs and coconut milk",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/barongko-pisang-q17998988/barongko-pisang-q17998988-1.jpg",
+    "images/barongko-pisang-q17998988/barongko-pisang-q17998988-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17998988",
+    "themealdb": null
+  }
+}

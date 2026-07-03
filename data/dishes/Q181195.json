@@ -1,0 +1,20 @@
+{
+  "id": "Q181195",
+  "name": "taiyaki",
+  "description": "Japanese fish-shaped cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taiyaki-q181195/taiyaki-q181195-1.jpg",
+    "images/taiyaki-q181195/taiyaki-q181195-2.jpg",
+    "images/taiyaki-q181195/taiyaki-q181195-3.jpg",
+    "images/taiyaki-q181195/taiyaki-q181195-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181195",
+    "themealdb": null
+  }
+}

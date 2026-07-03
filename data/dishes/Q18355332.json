@@ -1,0 +1,20 @@
+{
+  "id": "Q18355332",
+  "name": "Sarsiado",
+  "description": "Filipino fish dish with tomatoes and eggs",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sarsiado-q18355332/sarsiado-q18355332-1.jpg",
+    "images/sarsiado-q18355332/sarsiado-q18355332-2.jpg",
+    "images/sarsiado-q18355332/sarsiado-q18355332-3.jpg",
+    "images/sarsiado-q18355332/sarsiado-q18355332-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18355332",
+    "themealdb": null
+  }
+}

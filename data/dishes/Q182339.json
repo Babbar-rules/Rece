@@ -1,0 +1,68 @@
+{
+  "id": "Q182339",
+  "name": "Turkish delight",
+  "description": "Turkish gelatinous candy",
+  "nationality": [
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/turkish-delight-q182339/turkish-delight-q182339-1.jpg",
+    "images/turkish-delight-q182339/turkish-delight-q182339-2.jpg",
+    "images/turkish-delight-q182339/turkish-delight-q182339-3.jpg",
+    "images/turkish-delight-q182339/turkish-delight-q182339-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53276",
+    "category": "Dessert",
+    "area": "Turkish",
+    "instructions": "step 1\r\nPlace the mascarpone, yogurt, sugar and orange flower water into a large bowl and whisk until thickened. Fold the remaining ingredients through, then divide the mix between 2 dessert glasses or bowls and decorate with extra mint, if you like.",
+    "ingredients": [
+      {
+        "ingredient": "Mascarpone",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Greek Yogurt",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Icing Sugar",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Orange Blossom Water",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Meringue Nests",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Apricot",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Turkish Delight",
+        "measure": "2 pieces"
+      },
+      {
+        "ingredient": "Almonds",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "4"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q182339",
+    "themealdb": "53276"
+  }
+}

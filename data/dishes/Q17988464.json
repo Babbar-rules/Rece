@@ -1,0 +1,20 @@
+{
+  "id": "Q17988464",
+  "name": "aporo",
+  "description": "Japanese chocolate",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aporo-q17988464/aporo-q17988464-1.jpg",
+    "images/aporo-q17988464/aporo-q17988464-2.jpg",
+    "images/aporo-q17988464/aporo-q17988464-3.png",
+    "images/aporo-q17988464/aporo-q17988464-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17988464",
+    "themealdb": null
+  }
+}

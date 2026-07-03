@@ -1,0 +1,18 @@
+{
+  "id": "Q18464582",
+  "name": "Goan sausage",
+  "description": "Goan Sausage - Indo-Portuguese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goan-sausage-q18464582/goan-sausage-q18464582-1.jpg",
+    "images/goan-sausage-q18464582/goan-sausage-q18464582-2.jpg",
+    "images/goan-sausage-q18464582/goan-sausage-q18464582-3.jpg",
+    "images/goan-sausage-q18464582/goan-sausage-q18464582-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18464582",
+    "themealdb": null
+  }
+}

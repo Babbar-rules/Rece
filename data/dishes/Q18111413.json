@@ -1,0 +1,20 @@
+{
+  "id": "Q18111413",
+  "name": "Crab jujube",
+  "description": "Chinese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Teochew cuisine"
+  ],
+  "images": [
+    "images/crab-jujube-q18111413/crab-jujube-q18111413-1.jpg",
+    "images/crab-jujube-q18111413/crab-jujube-q18111413-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18111413",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q1813527",
+  "name": "Biff à la Lindström",
+  "description": "Swedish meat and vegetable dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/biff-a-la-lindstrom-q1813527/biff-a-la-lindstrom-q1813527-1.jpg",
+    "images/biff-a-la-lindstrom-q1813527/biff-a-la-lindstrom-q1813527-2.jpg",
+    "images/biff-a-la-lindstrom-q1813527/biff-a-la-lindstrom-q1813527-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1813527",
+    "themealdb": null
+  }
+}

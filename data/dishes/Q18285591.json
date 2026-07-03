@@ -1,0 +1,20 @@
+{
+  "id": "Q18285591",
+  "name": "alambre",
+  "description": "Mexican food",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alambre-q18285591/alambre-q18285591-1.jpg",
+    "images/alambre-q18285591/alambre-q18285591-2.jpg",
+    "images/alambre-q18285591/alambre-q18285591-3.jpg",
+    "images/alambre-q18285591/alambre-q18285591-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18285591",
+    "themealdb": null
+  }
+}

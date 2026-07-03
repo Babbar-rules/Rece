@@ -1,0 +1,18 @@
+{
+  "id": "Q18499554",
+  "name": "baby beef",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-beef-q18499554/baby-beef-q18499554-1.jpg",
+    "images/baby-beef-q18499554/baby-beef-q18499554-2.jpg",
+    "images/baby-beef-q18499554/baby-beef-q18499554-3.jpg",
+    "images/baby-beef-q18499554/baby-beef-q18499554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18499554",
+    "themealdb": null
+  }
+}

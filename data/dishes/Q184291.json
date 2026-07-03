@@ -1,0 +1,16 @@
+{
+  "id": "Q184291",
+  "name": "Zedernbrot",
+  "description": "kind of Christmas cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zedernbrot-q184291/zedernbrot-q184291-1.jpg",
+    "images/zedernbrot-q184291/zedernbrot-q184291-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q184291",
+    "themealdb": null
+  }
+}

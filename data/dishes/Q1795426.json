@@ -1,0 +1,18 @@
+{
+  "id": "Q1795426",
+  "name": "Kasnudeln",
+  "description": "Austrian dumpling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kasnudeln-q1795426/kasnudeln-q1795426-1.jpg",
+    "images/kasnudeln-q1795426/kasnudeln-q1795426-2.jpg",
+    "images/kasnudeln-q1795426/kasnudeln-q1795426-3.jpg",
+    "images/kasnudeln-q1795426/kasnudeln-q1795426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1795426",
+    "themealdb": null
+  }
+}

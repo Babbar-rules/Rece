@@ -1,0 +1,18 @@
+{
+  "id": "Q18392137",
+  "name": "Frosty Boy",
+  "description": "ice cream brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frosty-boy-q18392137/frosty-boy-q18392137-1.jpg",
+    "images/frosty-boy-q18392137/frosty-boy-q18392137-2.jpg",
+    "images/frosty-boy-q18392137/frosty-boy-q18392137-3.jpg",
+    "images/frosty-boy-q18392137/frosty-boy-q18392137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18392137",
+    "themealdb": null
+  }
+}

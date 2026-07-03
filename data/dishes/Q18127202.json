@@ -1,0 +1,18 @@
+{
+  "id": "Q18127202",
+  "name": "lettuce soup",
+  "description": "soup made with lettuce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lettuce-soup-q18127202/lettuce-soup-q18127202-1.jpg",
+    "images/lettuce-soup-q18127202/lettuce-soup-q18127202-2.jpg",
+    "images/lettuce-soup-q18127202/lettuce-soup-q18127202-3.jpg",
+    "images/lettuce-soup-q18127202/lettuce-soup-q18127202-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18127202",
+    "themealdb": null
+  }
+}

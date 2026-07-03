@@ -1,0 +1,20 @@
+{
+  "id": "Q18388431",
+  "name": "Piaya",
+  "description": "Negrese flatbread",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/piaya-q18388431/piaya-q18388431-1.jpg",
+    "images/piaya-q18388431/piaya-q18388431-2.jpg",
+    "images/piaya-q18388431/piaya-q18388431-3.jpg",
+    "images/piaya-q18388431/piaya-q18388431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18388431",
+    "themealdb": null
+  }
+}

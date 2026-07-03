@@ -1,0 +1,20 @@
+{
+  "id": "Q18358623",
+  "name": "meatball pizza",
+  "description": "pizza with meatballs",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meatball-pizza-q18358623/meatball-pizza-q18358623-1.jpg",
+    "images/meatball-pizza-q18358623/meatball-pizza-q18358623-2.jpg",
+    "images/meatball-pizza-q18358623/meatball-pizza-q18358623-3.jpg",
+    "images/meatball-pizza-q18358623/meatball-pizza-q18358623-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18358623",
+    "themealdb": null
+  }
+}

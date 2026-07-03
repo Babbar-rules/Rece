@@ -1,0 +1,20 @@
+{
+  "id": "Q18472743",
+  "name": "breaded mushrooms",
+  "description": "Irish dish",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/breaded-mushrooms-q18472743/breaded-mushrooms-q18472743-1.jpg",
+    "images/breaded-mushrooms-q18472743/breaded-mushrooms-q18472743-2.jpg",
+    "images/breaded-mushrooms-q18472743/breaded-mushrooms-q18472743-3.jpg",
+    "images/breaded-mushrooms-q18472743/breaded-mushrooms-q18472743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18472743",
+    "themealdb": null
+  }
+}

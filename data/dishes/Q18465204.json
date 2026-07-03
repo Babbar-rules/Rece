@@ -1,0 +1,18 @@
+{
+  "id": "Q18465204",
+  "name": "Alentejo ham",
+  "description": "Portuguese ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alentejo-ham-q18465204/alentejo-ham-q18465204-1.jpg",
+    "images/alentejo-ham-q18465204/alentejo-ham-q18465204-2.jpg",
+    "images/alentejo-ham-q18465204/alentejo-ham-q18465204-3.jpg",
+    "images/alentejo-ham-q18465204/alentejo-ham-q18465204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18465204",
+    "themealdb": null
+  }
+}

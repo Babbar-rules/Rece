@@ -1,0 +1,20 @@
+{
+  "id": "Q185583",
+  "name": "candy",
+  "description": "confection made with sugar",
+  "nationality": [],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/candy-q185583/candy-q185583-1.jpg",
+    "images/candy-q185583/candy-q185583-2.gif",
+    "images/candy-q185583/candy-q185583-3.jpg",
+    "images/candy-q185583/candy-q185583-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q185583",
+    "themealdb": null
+  }
+}

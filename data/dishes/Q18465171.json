@@ -1,0 +1,18 @@
+{
+  "id": "Q18465171",
+  "name": "presunto de Barroso",
+  "description": "Portuguese ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/presunto-de-barroso-q18465171/presunto-de-barroso-q18465171-1.jpg",
+    "images/presunto-de-barroso-q18465171/presunto-de-barroso-q18465171-2.jpg",
+    "images/presunto-de-barroso-q18465171/presunto-de-barroso-q18465171-3.jpg",
+    "images/presunto-de-barroso-q18465171/presunto-de-barroso-q18465171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18465171",
+    "themealdb": null
+  }
+}

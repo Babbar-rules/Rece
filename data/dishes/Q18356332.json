@@ -1,0 +1,20 @@
+{
+  "id": "Q18356332",
+  "name": "Seafood pizza",
+  "description": "pizza containing seafood as a primary ingredient",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seafood-pizza-q18356332/seafood-pizza-q18356332-1.jpg",
+    "images/seafood-pizza-q18356332/seafood-pizza-q18356332-2.jpg",
+    "images/seafood-pizza-q18356332/seafood-pizza-q18356332-3.jpg",
+    "images/seafood-pizza-q18356332/seafood-pizza-q18356332-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18356332",
+    "themealdb": null
+  }
+}

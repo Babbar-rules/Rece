@@ -1,0 +1,18 @@
+{
+  "id": "Q18404521",
+  "name": "Ashlan-fu",
+  "description": "Dungan dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ashlan-fu-q18404521/ashlan-fu-q18404521-1.jpg",
+    "images/ashlan-fu-q18404521/ashlan-fu-q18404521-2.jpg",
+    "images/ashlan-fu-q18404521/ashlan-fu-q18404521-3.jpg",
+    "images/ashlan-fu-q18404521/ashlan-fu-q18404521-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18404521",
+    "themealdb": null
+  }
+}

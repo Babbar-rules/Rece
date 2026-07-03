@@ -1,0 +1,20 @@
+{
+  "id": "Q18542598",
+  "name": "pizza quattro stagioni",
+  "description": "pizza variety",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-quattro-stagioni-q18542598/pizza-quattro-stagioni-q18542598-1.jpg",
+    "images/pizza-quattro-stagioni-q18542598/pizza-quattro-stagioni-q18542598-2.jpg",
+    "images/pizza-quattro-stagioni-q18542598/pizza-quattro-stagioni-q18542598-3.png",
+    "images/pizza-quattro-stagioni-q18542598/pizza-quattro-stagioni-q18542598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18542598",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q18349210",
+  "name": "cream of broccoli soup",
+  "description": "soup prepared with broccoli, stock, and milk or cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-of-broccoli-soup-q18349210/cream-of-broccoli-soup-q18349210-1.jpg",
+    "images/cream-of-broccoli-soup-q18349210/cream-of-broccoli-soup-q18349210-2.jpg",
+    "images/cream-of-broccoli-soup-q18349210/cream-of-broccoli-soup-q18349210-3.jpg",
+    "images/cream-of-broccoli-soup-q18349210/cream-of-broccoli-soup-q18349210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18349210",
+    "themealdb": null
+  }
+}

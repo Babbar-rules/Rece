@@ -1,0 +1,23 @@
+{
+  "id": "Q181418",
+  "name": "Buchteln",
+  "description": "sweet rolls made of yeast dough",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [
+    "Czech cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/buchteln-q181418/buchteln-q181418-1.jpg",
+    "images/buchteln-q181418/buchteln-q181418-2.jpg",
+    "images/buchteln-q181418/buchteln-q181418-3.jpg",
+    "images/buchteln-q181418/buchteln-q181418-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181418",
+    "themealdb": null
+  }
+}

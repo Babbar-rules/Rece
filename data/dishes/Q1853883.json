@@ -1,0 +1,22 @@
+{
+  "id": "Q1853883",
+  "name": "ostkaka",
+  "description": "traditional Swedish oven-baked dessert based on milk, flour, and rennet, particularly in Hälsingland and Småland",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/ostkaka-q1853883/ostkaka-q1853883-1.jpg",
+    "images/ostkaka-q1853883/ostkaka-q1853883-2.jpg",
+    "images/ostkaka-q1853883/ostkaka-q1853883-3.jpg",
+    "images/ostkaka-q1853883/ostkaka-q1853883-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1853883",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18558342",
+  "name": "malsouka",
+  "description": "North African dough sheets",
+  "nationality": [
+    "Maghreb"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malsouka-q18558342/malsouka-q18558342-1.jpg",
+    "images/malsouka-q18558342/malsouka-q18558342-2.jpg",
+    "images/malsouka-q18558342/malsouka-q18558342-3.jpg",
+    "images/malsouka-q18558342/malsouka-q18558342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18558342",
+    "themealdb": null
+  }
+}

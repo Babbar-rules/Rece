@@ -1,0 +1,18 @@
+{
+  "id": "Q1803765",
+  "name": "Yogurette",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yogurette-q1803765/yogurette-q1803765-1.jpg",
+    "images/yogurette-q1803765/yogurette-q1803765-2.png",
+    "images/yogurette-q1803765/yogurette-q1803765-3.jpg",
+    "images/yogurette-q1803765/yogurette-q1803765-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1803765",
+    "themealdb": null
+  }
+}

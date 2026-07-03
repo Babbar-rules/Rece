@@ -1,0 +1,17 @@
+{
+  "id": "Q18020974",
+  "name": "Anfu ham",
+  "description": "Chinese dish from Anfu",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/anfu-ham-q18020974/anfu-ham-q18020974-1.jpg",
+    "images/anfu-ham-q18020974/anfu-ham-q18020974-2.jpg",
+    "images/anfu-ham-q18020974/anfu-ham-q18020974-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18020974",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17999715",
+  "name": "bolu kemojo",
+  "description": "Riau green cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolu-kemojo-q17999715/bolu-kemojo-q17999715-1.jpg",
+    "images/bolu-kemojo-q17999715/bolu-kemojo-q17999715-2.jpg",
+    "images/bolu-kemojo-q17999715/bolu-kemojo-q17999715-3.jpg",
+    "images/bolu-kemojo-q17999715/bolu-kemojo-q17999715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17999715",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18149982",
+  "name": "Ciceri e Tria",
+  "description": "pasta dish in the Italian cuisine that originated in Apulia",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciceri-e-tria-q18149982/ciceri-e-tria-q18149982-1.jpg",
+    "images/ciceri-e-tria-q18149982/ciceri-e-tria-q18149982-2.jpg",
+    "images/ciceri-e-tria-q18149982/ciceri-e-tria-q18149982-3.jpg",
+    "images/ciceri-e-tria-q18149982/ciceri-e-tria-q18149982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18149982",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1849201",
+  "name": "Daim bar",
+  "description": "Swedish candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/daim-bar-q1849201/daim-bar-q1849201-1.jpg",
+    "images/daim-bar-q1849201/daim-bar-q1849201-2.jpg",
+    "images/daim-bar-q1849201/daim-bar-q1849201-3.jpg",
+    "images/daim-bar-q1849201/daim-bar-q1849201-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1849201",
+    "themealdb": null
+  }
+}

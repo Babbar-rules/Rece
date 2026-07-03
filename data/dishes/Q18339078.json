@@ -1,0 +1,19 @@
+{
+  "id": "Q18339078",
+  "name": "pu phat phong kari",
+  "description": "Thai dish consisting of stir-fried crab meat with curry powder",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pu-phat-phong-kari-q18339078/pu-phat-phong-kari-q18339078-1.jpg",
+    "images/pu-phat-phong-kari-q18339078/pu-phat-phong-kari-q18339078-2.jpg",
+    "images/pu-phat-phong-kari-q18339078/pu-phat-phong-kari-q18339078-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18339078",
+    "themealdb": null
+  }
+}

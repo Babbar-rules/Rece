@@ -1,0 +1,18 @@
+{
+  "id": "Q18001674",
+  "name": "Chipolata pudding",
+  "description": "type of pudding",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chipolata-pudding-q18001674/chipolata-pudding-q18001674-1.jpg",
+    "images/chipolata-pudding-q18001674/chipolata-pudding-q18001674-2.jpg",
+    "images/chipolata-pudding-q18001674/chipolata-pudding-q18001674-3.jpg",
+    "images/chipolata-pudding-q18001674/chipolata-pudding-q18001674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18001674",
+    "themealdb": null
+  }
+}

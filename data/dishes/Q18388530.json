@@ -1,0 +1,18 @@
+{
+  "id": "Q18388530",
+  "name": "pig wing",
+  "description": "pork dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pig-wing-q18388530/pig-wing-q18388530-1.jpg",
+    "images/pig-wing-q18388530/pig-wing-q18388530-2.jpg",
+    "images/pig-wing-q18388530/pig-wing-q18388530-3.jpg",
+    "images/pig-wing-q18388530/pig-wing-q18388530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18388530",
+    "themealdb": null
+  }
+}

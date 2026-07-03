@@ -1,0 +1,23 @@
+{
+  "id": "Q1809371",
+  "name": "Lahoh",
+  "description": "spongy bread originated from Yemen",
+  "nationality": [
+    "Somalia"
+  ],
+  "region_cuisine": [
+    "Israeli cuisine",
+    "Yemen"
+  ],
+  "images": [
+    "images/lahoh-q1809371/lahoh-q1809371-1.jpg",
+    "images/lahoh-q1809371/lahoh-q1809371-2.jpg",
+    "images/lahoh-q1809371/lahoh-q1809371-3.jpg",
+    "images/lahoh-q1809371/lahoh-q1809371-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1809371",
+    "themealdb": null
+  }
+}

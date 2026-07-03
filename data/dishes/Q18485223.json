@@ -1,0 +1,18 @@
+{
+  "id": "Q18485223",
+  "name": "widow's soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/widows-soup-q18485223/widows-soup-q18485223-1.jpg",
+    "images/widows-soup-q18485223/widows-soup-q18485223-2.jpg",
+    "images/widows-soup-q18485223/widows-soup-q18485223-3.jpg",
+    "images/widows-soup-q18485223/widows-soup-q18485223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18485223",
+    "themealdb": null
+  }
+}

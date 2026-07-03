@@ -1,0 +1,20 @@
+{
+  "id": "Q1855212",
+  "name": "Brussels waffle",
+  "description": "light, crispy, rectangular waffle with large pockets made with an egg-white-leavened or yeast-leavened batter",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brussels-waffle-q1855212/brussels-waffle-q1855212-1.jpg",
+    "images/brussels-waffle-q1855212/brussels-waffle-q1855212-2.jpg",
+    "images/brussels-waffle-q1855212/brussels-waffle-q1855212-3.jpg",
+    "images/brussels-waffle-q1855212/brussels-waffle-q1855212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1855212",
+    "themealdb": null
+  }
+}

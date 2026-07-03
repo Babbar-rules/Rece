@@ -1,0 +1,20 @@
+{
+  "id": "Q1827229",
+  "name": "Lion Bar",
+  "description": "chocolate bar",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lion-bar-q1827229/lion-bar-q1827229-1.png",
+    "images/lion-bar-q1827229/lion-bar-q1827229-2.jpg",
+    "images/lion-bar-q1827229/lion-bar-q1827229-3.jpg",
+    "images/lion-bar-q1827229/lion-bar-q1827229-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1827229",
+    "themealdb": null
+  }
+}

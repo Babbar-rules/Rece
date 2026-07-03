@@ -1,0 +1,17 @@
+{
+  "id": "Q18201801",
+  "name": "maccheroni alla molinara",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maccheroni-alla-molinara-q18201801/maccheroni-alla-molinara-q18201801-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18201801",
+    "themealdb": null
+  }
+}

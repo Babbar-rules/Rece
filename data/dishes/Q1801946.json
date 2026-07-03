@@ -1,0 +1,18 @@
+{
+  "id": "Q1801946",
+  "name": "Rose petal jam",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rose-petal-jam-q1801946/rose-petal-jam-q1801946-1.jpg",
+    "images/rose-petal-jam-q1801946/rose-petal-jam-q1801946-2.jpg",
+    "images/rose-petal-jam-q1801946/rose-petal-jam-q1801946-3.jpg",
+    "images/rose-petal-jam-q1801946/rose-petal-jam-q1801946-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1801946",
+    "themealdb": null
+  }
+}

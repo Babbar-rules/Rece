@@ -1,0 +1,20 @@
+{
+  "id": "Q18391184",
+  "name": "Rosquillo",
+  "description": "Filipino cookies",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosquillo-q18391184/rosquillo-q18391184-1.jpg",
+    "images/rosquillo-q18391184/rosquillo-q18391184-2.jpg",
+    "images/rosquillo-q18391184/rosquillo-q18391184-3.jpg",
+    "images/rosquillo-q18391184/rosquillo-q18391184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18391184",
+    "themealdb": null
+  }
+}

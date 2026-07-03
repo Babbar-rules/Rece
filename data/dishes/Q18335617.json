@@ -1,0 +1,18 @@
+{
+  "id": "Q18335617",
+  "name": "ankodama",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ankodama-q18335617/ankodama-q18335617-1.jpg",
+    "images/ankodama-q18335617/ankodama-q18335617-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18335617",
+    "themealdb": null
+  }
+}

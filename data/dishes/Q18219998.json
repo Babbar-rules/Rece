@@ -1,0 +1,18 @@
+{
+  "id": "Q18219998",
+  "name": "pork chop rice",
+  "description": "Hong Kong and Taiwanese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-chop-rice-q18219998/pork-chop-rice-q18219998-1.jpg",
+    "images/pork-chop-rice-q18219998/pork-chop-rice-q18219998-2.jpg",
+    "images/pork-chop-rice-q18219998/pork-chop-rice-q18219998-3.jpg",
+    "images/pork-chop-rice-q18219998/pork-chop-rice-q18219998-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18219998",
+    "themealdb": null
+  }
+}

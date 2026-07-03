@@ -1,0 +1,20 @@
+{
+  "id": "Q1799455",
+  "name": "Lablabi",
+  "description": "Tunisian dish based on chickpeas",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lablabi-q1799455/lablabi-q1799455-1.jpg",
+    "images/lablabi-q1799455/lablabi-q1799455-2.jpg",
+    "images/lablabi-q1799455/lablabi-q1799455-3.png",
+    "images/lablabi-q1799455/lablabi-q1799455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1799455",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18128673",
+  "name": "Nevzine dessert",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/nevzine-dessert-q18128673/nevzine-dessert-q18128673-1.jpg",
+    "images/nevzine-dessert-q18128673/nevzine-dessert-q18128673-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18128673",
+    "themealdb": null
+  }
+}

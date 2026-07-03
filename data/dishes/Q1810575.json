@@ -1,0 +1,20 @@
+{
+  "id": "Q1810575",
+  "name": "Thieboudienne",
+  "description": "traditional dish from West Africa",
+  "nationality": [
+    "Senegal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thieboudienne-q1810575/thieboudienne-q1810575-1.jpg",
+    "images/thieboudienne-q1810575/thieboudienne-q1810575-2.jpg",
+    "images/thieboudienne-q1810575/thieboudienne-q1810575-3.jpg",
+    "images/thieboudienne-q1810575/thieboudienne-q1810575-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1810575",
+    "themealdb": null
+  }
+}

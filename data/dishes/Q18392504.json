@@ -1,0 +1,18 @@
+{
+  "id": "Q18392504",
+  "name": "Persian doughnut",
+  "description": "type of doughnut",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/persian-doughnut-q18392504/persian-doughnut-q18392504-1.jpg",
+    "images/persian-doughnut-q18392504/persian-doughnut-q18392504-2.jpg",
+    "images/persian-doughnut-q18392504/persian-doughnut-q18392504-3.jpg",
+    "images/persian-doughnut-q18392504/persian-doughnut-q18392504-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18392504",
+    "themealdb": null
+  }
+}

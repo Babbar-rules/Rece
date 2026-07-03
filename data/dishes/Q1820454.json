@@ -1,0 +1,20 @@
+{
+  "id": "Q1820454",
+  "name": "panko",
+  "description": "flaky bread crumbs used in Japanese cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panko-q1820454/panko-q1820454-1.jpg",
+    "images/panko-q1820454/panko-q1820454-2.jpg",
+    "images/panko-q1820454/panko-q1820454-3.jpg",
+    "images/panko-q1820454/panko-q1820454-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1820454",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q18343466",
+  "name": "Garmugia",
+  "description": "Italian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18343466",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18344267",
+  "name": "Mexican bread",
+  "description": "",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mexican-bread-q18344267/mexican-bread-q18344267-1.jpg",
+    "images/mexican-bread-q18344267/mexican-bread-q18344267-2.jpg",
+    "images/mexican-bread-q18344267/mexican-bread-q18344267-3.jpg",
+    "images/mexican-bread-q18344267/mexican-bread-q18344267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18344267",
+    "themealdb": null
+  }
+}

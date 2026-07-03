@@ -1,0 +1,18 @@
+{
+  "id": "Q1807598",
+  "name": "lye roll",
+  "description": "bread product dipped in lye before baking to ensure a very brown crust",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lye-roll-q1807598/lye-roll-q1807598-1.jpg",
+    "images/lye-roll-q1807598/lye-roll-q1807598-2.jpg",
+    "images/lye-roll-q1807598/lye-roll-q1807598-3.jpg",
+    "images/lye-roll-q1807598/lye-roll-q1807598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1807598",
+    "themealdb": null
+  }
+}

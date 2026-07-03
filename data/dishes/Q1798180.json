@@ -1,0 +1,18 @@
+{
+  "id": "Q1798180",
+  "name": "Magenbrot",
+  "description": "type of lebkuchen",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/magenbrot-q1798180/magenbrot-q1798180-1.jpg",
+    "images/magenbrot-q1798180/magenbrot-q1798180-2.jpg",
+    "images/magenbrot-q1798180/magenbrot-q1798180-3.jpg",
+    "images/magenbrot-q1798180/magenbrot-q1798180-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1798180",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q17994521",
+  "name": "Suna tamago",
+  "description": "egg snack",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suna-tamago-q17994521/suna-tamago-q17994521-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17994521",
+    "themealdb": null
+  }
+}

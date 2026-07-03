@@ -1,0 +1,18 @@
+{
+  "id": "Q18012356",
+  "name": "broccoli soup",
+  "description": "vegetable soup made primarily of broccoli",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/broccoli-soup-q18012356/broccoli-soup-q18012356-1.jpg",
+    "images/broccoli-soup-q18012356/broccoli-soup-q18012356-2.jpg",
+    "images/broccoli-soup-q18012356/broccoli-soup-q18012356-3.jpg",
+    "images/broccoli-soup-q18012356/broccoli-soup-q18012356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18012356",
+    "themealdb": null
+  }
+}

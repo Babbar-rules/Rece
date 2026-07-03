@@ -1,0 +1,17 @@
+{
+  "id": "Q18547489",
+  "name": "Thasian sauce",
+  "description": "fish sauce from Thasos, used as a condiment in the cuisines of ancient Greece",
+  "nationality": [
+    "Thasos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thasian-sauce-q18547489/thasian-sauce-q18547489-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18547489",
+    "themealdb": null
+  }
+}

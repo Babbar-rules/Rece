@@ -1,0 +1,18 @@
+{
+  "id": "Q18464502",
+  "name": "choereg",
+  "description": "Armenian sweet bread",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/choereg-q18464502/choereg-q18464502-1.jpg",
+    "images/choereg-q18464502/choereg-q18464502-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18464502",
+    "themealdb": null
+  }
+}

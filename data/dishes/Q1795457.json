@@ -1,0 +1,20 @@
+{
+  "id": "Q1795457",
+  "name": "käsefladen",
+  "description": "cheese tart",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kasefladen-q1795457/kasefladen-q1795457-1.jpg",
+    "images/kasefladen-q1795457/kasefladen-q1795457-2.jpg",
+    "images/kasefladen-q1795457/kasefladen-q1795457-3.jpg",
+    "images/kasefladen-q1795457/kasefladen-q1795457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1795457",
+    "themealdb": null
+  }
+}

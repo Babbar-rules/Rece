@@ -1,0 +1,20 @@
+{
+  "id": "Q181761",
+  "name": "deep-fried Mars bar",
+  "description": "deep fried Scottish confectionery",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-mars-bar-q181761/deep-fried-mars-bar-q181761-1.jpg",
+    "images/deep-fried-mars-bar-q181761/deep-fried-mars-bar-q181761-2.jpg",
+    "images/deep-fried-mars-bar-q181761/deep-fried-mars-bar-q181761-3.jpg",
+    "images/deep-fried-mars-bar-q181761/deep-fried-mars-bar-q181761-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q181761",
+    "themealdb": null
+  }
+}

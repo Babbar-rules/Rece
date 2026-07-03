@@ -1,0 +1,20 @@
+{
+  "id": "Q1858518",
+  "name": "lobio",
+  "description": "traditional Georgian stew",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobio-q1858518/lobio-q1858518-1.jpg",
+    "images/lobio-q1858518/lobio-q1858518-2.jpg",
+    "images/lobio-q1858518/lobio-q1858518-3.png",
+    "images/lobio-q1858518/lobio-q1858518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1858518",
+    "themealdb": null
+  }
+}

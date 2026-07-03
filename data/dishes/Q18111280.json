@@ -1,0 +1,20 @@
+{
+  "id": "Q18111280",
+  "name": "Chunla",
+  "description": "Nepalese meat dish",
+  "nationality": [
+    "Nepal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chunla-q18111280/chunla-q18111280-1.jpg",
+    "images/chunla-q18111280/chunla-q18111280-2.png",
+    "images/chunla-q18111280/chunla-q18111280-3.png",
+    "images/chunla-q18111280/chunla-q18111280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18111280",
+    "themealdb": null
+  }
+}

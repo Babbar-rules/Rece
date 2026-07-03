@@ -1,0 +1,20 @@
+{
+  "id": "Q17990295",
+  "name": "Kanpan",
+  "description": "",
+  "nationality": [
+    "Roman Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kanpan-q17990295/kanpan-q17990295-1.jpg",
+    "images/kanpan-q17990295/kanpan-q17990295-2.jpg",
+    "images/kanpan-q17990295/kanpan-q17990295-3.jpg",
+    "images/kanpan-q17990295/kanpan-q17990295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17990295",
+    "themealdb": null
+  }
+}

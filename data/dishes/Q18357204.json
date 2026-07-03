@@ -1,0 +1,22 @@
+{
+  "id": "Q18357204",
+  "name": "omo tuo",
+  "description": "Ghanaian staple food made with rice",
+  "nationality": [
+    "Ghana"
+  ],
+  "region_cuisine": [
+    "Ghanaian cuisine"
+  ],
+  "images": [
+    "images/omo-tuo-q18357204/omo-tuo-q18357204-1.jpg",
+    "images/omo-tuo-q18357204/omo-tuo-q18357204-2.jpg",
+    "images/omo-tuo-q18357204/omo-tuo-q18357204-3.jpg",
+    "images/omo-tuo-q18357204/omo-tuo-q18357204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18357204",
+    "themealdb": null
+  }
+}

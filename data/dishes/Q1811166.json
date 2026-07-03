@@ -1,0 +1,20 @@
+{
+  "id": "Q1811166",
+  "name": "moczka",
+  "description": "Silesian Christmas Eve dish",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moczka-q1811166/moczka-q1811166-1.jpg",
+    "images/moczka-q1811166/moczka-q1811166-2.jpg",
+    "images/moczka-q1811166/moczka-q1811166-3.jpg",
+    "images/moczka-q1811166/moczka-q1811166-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1811166",
+    "themealdb": null
+  }
+}

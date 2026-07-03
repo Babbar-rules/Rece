@@ -1,0 +1,18 @@
+{
+  "id": "Q18145066",
+  "name": "cream of asparagus soup",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-of-asparagus-soup-q18145066/cream-of-asparagus-soup-q18145066-1.jpg",
+    "images/cream-of-asparagus-soup-q18145066/cream-of-asparagus-soup-q18145066-2.jpg",
+    "images/cream-of-asparagus-soup-q18145066/cream-of-asparagus-soup-q18145066-3.jpg",
+    "images/cream-of-asparagus-soup-q18145066/cream-of-asparagus-soup-q18145066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18145066",
+    "themealdb": null
+  }
+}

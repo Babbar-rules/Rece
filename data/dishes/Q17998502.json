@@ -1,0 +1,22 @@
+{
+  "id": "Q17998502",
+  "name": "ayam goreng Kalasan",
+  "description": "Indonesia fried chicken from Kalasan, Yogyakarta",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ayam-goreng-kalasan-q17998502/ayam-goreng-kalasan-q17998502-1.jpg",
+    "images/ayam-goreng-kalasan-q17998502/ayam-goreng-kalasan-q17998502-2.jpg",
+    "images/ayam-goreng-kalasan-q17998502/ayam-goreng-kalasan-q17998502-3.jpg",
+    "images/ayam-goreng-kalasan-q17998502/ayam-goreng-kalasan-q17998502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17998502",
+    "themealdb": null
+  }
+}
