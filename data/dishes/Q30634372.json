@@ -1,0 +1,20 @@
+{
+  "id": "Q30634372",
+  "name": "baechu-kimchi",
+  "description": "napa cabbage kimchi",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baechu-kimchi-q30634372/baechu-kimchi-q30634372-1.jpg",
+    "images/baechu-kimchi-q30634372/baechu-kimchi-q30634372-2.jpg",
+    "images/baechu-kimchi-q30634372/baechu-kimchi-q30634372-3.jpg",
+    "images/baechu-kimchi-q30634372/baechu-kimchi-q30634372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30634372",
+    "themealdb": null
+  }
+}

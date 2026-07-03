@@ -1,0 +1,20 @@
+{
+  "id": "Q3007617",
+  "name": "Curanto",
+  "description": "Chilean dish of seafood and potatoes cooked using heated rocks buried in an earth oven covered with pangue leaves and turf",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/curanto-q3007617/curanto-q3007617-1.jpg",
+    "images/curanto-q3007617/curanto-q3007617-2.jpg",
+    "images/curanto-q3007617/curanto-q3007617-3.jpg",
+    "images/curanto-q3007617/curanto-q3007617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3007617",
+    "themealdb": null
+  }
+}

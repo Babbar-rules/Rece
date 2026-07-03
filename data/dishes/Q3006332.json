@@ -1,0 +1,20 @@
+{
+  "id": "Q3006332",
+  "name": "crêpe vonnassienne",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crepe-vonnassienne-q3006332/crepe-vonnassienne-q3006332-1.jpg",
+    "images/crepe-vonnassienne-q3006332/crepe-vonnassienne-q3006332-2.jpg",
+    "images/crepe-vonnassienne-q3006332/crepe-vonnassienne-q3006332-3.jpg",
+    "images/crepe-vonnassienne-q3006332/crepe-vonnassienne-q3006332-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3006332",
+    "themealdb": null
+  }
+}

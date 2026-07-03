@@ -1,0 +1,18 @@
+{
+  "id": "Q30114244",
+  "name": "coconut soup",
+  "description": "fruit soup prepared using coconut milk or coconut fruit as a main ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-soup-q30114244/coconut-soup-q30114244-1.jpg",
+    "images/coconut-soup-q30114244/coconut-soup-q30114244-2.jpg",
+    "images/coconut-soup-q30114244/coconut-soup-q30114244-3.jpg",
+    "images/coconut-soup-q30114244/coconut-soup-q30114244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30114244",
+    "themealdb": null
+  }
+}

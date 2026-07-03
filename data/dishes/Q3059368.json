@@ -1,0 +1,52 @@
+{
+  "id": "Q3059368",
+  "name": "Eton mess",
+  "description": "English dessert",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/eton-mess-q3059368/eton-mess-q3059368-1.jpg",
+    "images/eton-mess-q3059368/eton-mess-q3059368-2.jpg",
+    "images/eton-mess-q3059368/eton-mess-q3059368-3.jpg",
+    "images/eton-mess-q3059368/eton-mess-q3059368-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52791",
+    "category": "Dessert",
+    "area": "British",
+    "instructions": "Purée half the strawberries in a blender. Chop the remaining strawberries, reserving four for decoration.\r\nWhip the double cream until stiff peaks form, then fold in the strawberry purée and crushed meringue. Fold in the chopped strawberries and ginger cordial, if using.\r\nSpoon equal amounts of the mixture into four cold wine glasses. Serve garnished with the remaining strawberries and a sprig of mint.",
+    "ingredients": [
+      {
+        "ingredient": "strawberries",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "double cream",
+        "measure": "400ml"
+      },
+      {
+        "ingredient": "meringue nests",
+        "measure": "3 x 7.5cm"
+      },
+      {
+        "ingredient": "ginger cordial",
+        "measure": "1 tbsp"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "sprigs of fresh"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=43WgiNq54L8",
+    "thumb": "https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3059368",
+    "themealdb": "52791"
+  }
+}

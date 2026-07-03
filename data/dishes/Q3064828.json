@@ -1,0 +1,20 @@
+{
+  "id": "Q3064828",
+  "name": "Faluche",
+  "description": "Typical bread of Nord-Pas de Calais",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/faluche-q3064828/faluche-q3064828-1.jpg",
+    "images/faluche-q3064828/faluche-q3064828-2.jpg",
+    "images/faluche-q3064828/faluche-q3064828-3.jpg",
+    "images/faluche-q3064828/faluche-q3064828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3064828",
+    "themealdb": null
+  }
+}

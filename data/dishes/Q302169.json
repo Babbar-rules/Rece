@@ -1,0 +1,18 @@
+{
+  "id": "Q302169",
+  "name": "balut",
+  "description": "developing poultry embryo boiled and eaten",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/balut-q302169/balut-q302169-1.jpg",
+    "images/balut-q302169/balut-q302169-2.jpg",
+    "images/balut-q302169/balut-q302169-3.jpg",
+    "images/balut-q302169/balut-q302169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q302169",
+    "themealdb": null
+  }
+}

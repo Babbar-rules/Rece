@@ -1,0 +1,18 @@
+{
+  "id": "Q3005446",
+  "name": "Crouzets",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crouzets-q3005446/crouzets-q3005446-1.jpg",
+    "images/crouzets-q3005446/crouzets-q3005446-2.jpg",
+    "images/crouzets-q3005446/crouzets-q3005446-3.jpg",
+    "images/crouzets-q3005446/crouzets-q3005446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3005446",
+    "themealdb": null
+  }
+}

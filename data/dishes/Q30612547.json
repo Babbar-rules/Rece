@@ -1,0 +1,18 @@
+{
+  "id": "Q30612547",
+  "name": "sandie",
+  "description": "type of sugar cookie; shortbread cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sandie-q30612547/sandie-q30612547-1.jpg",
+    "images/sandie-q30612547/sandie-q30612547-2.jpg",
+    "images/sandie-q30612547/sandie-q30612547-3.jpg",
+    "images/sandie-q30612547/sandie-q30612547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30612547",
+    "themealdb": null
+  }
+}

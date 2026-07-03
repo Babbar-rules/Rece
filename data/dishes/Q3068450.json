@@ -1,0 +1,20 @@
+{
+  "id": "Q3068450",
+  "name": "Feqqas",
+  "description": "",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/feqqas-q3068450/feqqas-q3068450-1.jpg",
+    "images/feqqas-q3068450/feqqas-q3068450-2.jpg",
+    "images/feqqas-q3068450/feqqas-q3068450-3.jpg",
+    "images/feqqas-q3068450/feqqas-q3068450-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3068450",
+    "themealdb": null
+  }
+}

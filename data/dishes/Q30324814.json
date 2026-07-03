@@ -1,0 +1,18 @@
+{
+  "id": "Q30324814",
+  "name": "avocado soup",
+  "description": "soup prepared using avocados as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/avocado-soup-q30324814/avocado-soup-q30324814-1.jpg",
+    "images/avocado-soup-q30324814/avocado-soup-q30324814-2.jpg",
+    "images/avocado-soup-q30324814/avocado-soup-q30324814-3.jpg",
+    "images/avocado-soup-q30324814/avocado-soup-q30324814-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30324814",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q3082973",
+  "name": "Mesclun",
+  "description": "salad mix",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "cuisine niçoise"
+  ],
+  "images": [
+    "images/mesclun-q3082973/mesclun-q3082973-1.jpg",
+    "images/mesclun-q3082973/mesclun-q3082973-2.jpg",
+    "images/mesclun-q3082973/mesclun-q3082973-3.png",
+    "images/mesclun-q3082973/mesclun-q3082973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3082973",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3051500",
+  "name": "sticky rice in bamboo",
+  "description": "Southeast Asian sticky rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sticky-rice-in-bamboo-q3051500/sticky-rice-in-bamboo-q3051500-1.jpg",
+    "images/sticky-rice-in-bamboo-q3051500/sticky-rice-in-bamboo-q3051500-2.jpg",
+    "images/sticky-rice-in-bamboo-q3051500/sticky-rice-in-bamboo-q3051500-3.jpg",
+    "images/sticky-rice-in-bamboo-q3051500/sticky-rice-in-bamboo-q3051500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3051500",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3001487",
+  "name": "Court-bouillon",
+  "description": "quick broth",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/court-bouillon-q3001487/court-bouillon-q3001487-1.jpg",
+    "images/court-bouillon-q3001487/court-bouillon-q3001487-2.jpg",
+    "images/court-bouillon-q3001487/court-bouillon-q3001487-3.jpg",
+    "images/court-bouillon-q3001487/court-bouillon-q3001487-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3001487",
+    "themealdb": null
+  }
+}

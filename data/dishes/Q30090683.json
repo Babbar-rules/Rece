@@ -1,0 +1,18 @@
+{
+  "id": "Q30090683",
+  "name": "Japanese curry rice",
+  "description": "Japanese plate dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/japanese-curry-rice-q30090683/japanese-curry-rice-q30090683-1.jpg",
+    "images/japanese-curry-rice-q30090683/japanese-curry-rice-q30090683-2.jpg",
+    "images/japanese-curry-rice-q30090683/japanese-curry-rice-q30090683-3.jpg",
+    "images/japanese-curry-rice-q30090683/japanese-curry-rice-q30090683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30090683",
+    "themealdb": null
+  }
+}

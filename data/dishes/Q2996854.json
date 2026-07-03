@@ -1,0 +1,20 @@
+{
+  "id": "Q2996854",
+  "name": "Coppia Ferrarese",
+  "description": "sourdough bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coppia-ferrarese-q2996854/coppia-ferrarese-q2996854-1.jpg",
+    "images/coppia-ferrarese-q2996854/coppia-ferrarese-q2996854-2.jpg",
+    "images/coppia-ferrarese-q2996854/coppia-ferrarese-q2996854-3.jpg",
+    "images/coppia-ferrarese-q2996854/coppia-ferrarese-q2996854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2996854",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q30687433",
+  "name": "steamed cheeseburger",
+  "description": "type of hamburger originating in central Connecticut, U.S.",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-cheeseburger-q30687433/steamed-cheeseburger-q30687433-1.jpg",
+    "images/steamed-cheeseburger-q30687433/steamed-cheeseburger-q30687433-2.jpg",
+    "images/steamed-cheeseburger-q30687433/steamed-cheeseburger-q30687433-3.jpg",
+    "images/steamed-cheeseburger-q30687433/steamed-cheeseburger-q30687433-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30687433",
+    "themealdb": null
+  }
+}

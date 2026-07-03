@@ -1,0 +1,20 @@
+{
+  "id": "Q30646348",
+  "name": "doenjang-guk",
+  "description": "soybean paste soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doenjang-guk-q30646348/doenjang-guk-q30646348-1.jpg",
+    "images/doenjang-guk-q30646348/doenjang-guk-q30646348-2.jpg",
+    "images/doenjang-guk-q30646348/doenjang-guk-q30646348-3.jpg",
+    "images/doenjang-guk-q30646348/doenjang-guk-q30646348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30646348",
+    "themealdb": null
+  }
+}

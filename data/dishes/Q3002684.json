@@ -1,0 +1,18 @@
+{
+  "id": "Q3002684",
+  "name": "Crique",
+  "description": "French potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crique-q3002684/crique-q3002684-1.jpg",
+    "images/crique-q3002684/crique-q3002684-2.jpg",
+    "images/crique-q3002684/crique-q3002684-3.jpg",
+    "images/crique-q3002684/crique-q3002684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3002684",
+    "themealdb": null
+  }
+}

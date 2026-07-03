@@ -1,0 +1,20 @@
+{
+  "id": "Q2996890",
+  "name": "coq au Riesling",
+  "description": "Alsatian version of coq au vin",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coq-au-riesling-q2996890/coq-au-riesling-q2996890-1.jpg",
+    "images/coq-au-riesling-q2996890/coq-au-riesling-q2996890-2.jpg",
+    "images/coq-au-riesling-q2996890/coq-au-riesling-q2996890-3.jpg",
+    "images/coq-au-riesling-q2996890/coq-au-riesling-q2996890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2996890",
+    "themealdb": null
+  }
+}

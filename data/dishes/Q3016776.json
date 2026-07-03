@@ -1,0 +1,20 @@
+{
+  "id": "Q3016776",
+  "name": "Fatányéros",
+  "description": "Traditional Hungarian mixed meat barbecue dish",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fatanyeros-q3016776/fatanyeros-q3016776-1.jpg",
+    "images/fatanyeros-q3016776/fatanyeros-q3016776-2.jpg",
+    "images/fatanyeros-q3016776/fatanyeros-q3016776-3.jpg",
+    "images/fatanyeros-q3016776/fatanyeros-q3016776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3016776",
+    "themealdb": null
+  }
+}

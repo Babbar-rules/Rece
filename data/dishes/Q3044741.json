@@ -1,0 +1,20 @@
+{
+  "id": "Q3044741",
+  "name": "Esqueixada",
+  "description": "Catalan fish salad",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/esqueixada-q3044741/esqueixada-q3044741-1.jpg",
+    "images/esqueixada-q3044741/esqueixada-q3044741-2.jpg",
+    "images/esqueixada-q3044741/esqueixada-q3044741-3.jpg",
+    "images/esqueixada-q3044741/esqueixada-q3044741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3044741",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q30635685",
+  "name": "Malfouf salad",
+  "description": "Lebanese cabbage salad",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malfouf-salad-q30635685/malfouf-salad-q30635685-1.jpg",
+    "images/malfouf-salad-q30635685/malfouf-salad-q30635685-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30635685",
+    "themealdb": null
+  }
+}

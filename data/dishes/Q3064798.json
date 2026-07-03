@@ -1,0 +1,20 @@
+{
+  "id": "Q3064798",
+  "name": "Fallue",
+  "description": "culinary specialty of Normandy",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fallue-q3064798/fallue-q3064798-1.jpg",
+    "images/fallue-q3064798/fallue-q3064798-2.jpg",
+    "images/fallue-q3064798/fallue-q3064798-3.jpg",
+    "images/fallue-q3064798/fallue-q3064798-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3064798",
+    "themealdb": null
+  }
+}

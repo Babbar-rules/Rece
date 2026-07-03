@@ -1,0 +1,20 @@
+{
+  "id": "Q3032887",
+  "name": "Djenkoume",
+  "description": "Togolese tomato cornmeal fritters",
+  "nationality": [
+    "Togo"
+  ],
+  "region_cuisine": [
+    "African cuisine"
+  ],
+  "images": [
+    "images/djenkoume-q3032887/djenkoume-q3032887-1.jpg",
+    "images/djenkoume-q3032887/djenkoume-q3032887-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3032887",
+    "themealdb": null
+  }
+}

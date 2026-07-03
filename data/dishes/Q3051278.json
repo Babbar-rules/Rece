@@ -1,0 +1,20 @@
+{
+  "id": "Q3051278",
+  "name": "potato scone",
+  "description": "Scottish potato dish",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-scone-q3051278/potato-scone-q3051278-1.jpg",
+    "images/potato-scone-q3051278/potato-scone-q3051278-2.jpg",
+    "images/potato-scone-q3051278/potato-scone-q3051278-3.jpg",
+    "images/potato-scone-q3051278/potato-scone-q3051278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3051278",
+    "themealdb": null
+  }
+}

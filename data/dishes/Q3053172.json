@@ -1,0 +1,20 @@
+{
+  "id": "Q3053172",
+  "name": "Empadão",
+  "description": "Portuguese traditional dish",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/empadao-q3053172/empadao-q3053172-1.jpg",
+    "images/empadao-q3053172/empadao-q3053172-2.jpg",
+    "images/empadao-q3053172/empadao-q3053172-3.jpg",
+    "images/empadao-q3053172/empadao-q3053172-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3053172",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q303956",
+  "name": "zakuski",
+  "description": "Russian term for hors d'oeuvres/appetizers served before meals",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zakuski-q303956/zakuski-q303956-1.jpg",
+    "images/zakuski-q303956/zakuski-q303956-2.jpg",
+    "images/zakuski-q303956/zakuski-q303956-3.jpg",
+    "images/zakuski-q303956/zakuski-q303956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q303956",
+    "themealdb": null
+  }
+}

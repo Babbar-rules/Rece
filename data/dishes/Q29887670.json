@@ -1,0 +1,18 @@
+{
+  "id": "Q29887670",
+  "name": "sautéed mushrooms",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sauteed-mushrooms-q29887670/sauteed-mushrooms-q29887670-1.jpg",
+    "images/sauteed-mushrooms-q29887670/sauteed-mushrooms-q29887670-2.jpg",
+    "images/sauteed-mushrooms-q29887670/sauteed-mushrooms-q29887670-3.jpg",
+    "images/sauteed-mushrooms-q29887670/sauteed-mushrooms-q29887670-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29887670",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q30314348",
+  "name": "banana pasta",
+  "description": "type of pasta made from banana fruit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-pasta-q30314348/banana-pasta-q30314348-1.jpg",
+    "images/banana-pasta-q30314348/banana-pasta-q30314348-2.jpg",
+    "images/banana-pasta-q30314348/banana-pasta-q30314348-3.jpg",
+    "images/banana-pasta-q30314348/banana-pasta-q30314348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30314348",
+    "themealdb": null
+  }
+}

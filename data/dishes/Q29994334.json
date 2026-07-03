@@ -1,0 +1,21 @@
+{
+  "id": "Q29994334",
+  "name": "sernik",
+  "description": "type of Polish cheesecake",
+  "nationality": [
+    "Poland",
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sernik-q29994334/sernik-q29994334-1.jpg",
+    "images/sernik-q29994334/sernik-q29994334-2.jpg",
+    "images/sernik-q29994334/sernik-q29994334-3.jpg",
+    "images/sernik-q29994334/sernik-q29994334-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29994334",
+    "themealdb": null
+  }
+}

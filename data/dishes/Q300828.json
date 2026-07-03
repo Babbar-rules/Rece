@@ -1,0 +1,17 @@
+{
+  "id": "Q300828",
+  "name": "Aal grün",
+  "description": "German term: Fish dish of cooked eel with Spreewaldsoße, a light herb sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aal-grun-q300828/aal-grun-q300828-1.jpg",
+    "images/aal-grun-q300828/aal-grun-q300828-2.jpg",
+    "images/aal-grun-q300828/aal-grun-q300828-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q300828",
+    "themealdb": null
+  }
+}

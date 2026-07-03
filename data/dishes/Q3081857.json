@@ -1,0 +1,19 @@
+{
+  "id": "Q3081857",
+  "name": "Tatws Pum Munud",
+  "description": "Welsh stew with smoked bacon, stock, potatoes and other vegetables",
+  "nationality": [
+    "Wales"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tatws-pum-munud-q3081857/tatws-pum-munud-q3081857-1.jpg",
+    "images/tatws-pum-munud-q3081857/tatws-pum-munud-q3081857-2.jpg",
+    "images/tatws-pum-munud-q3081857/tatws-pum-munud-q3081857-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3081857",
+    "themealdb": null
+  }
+}

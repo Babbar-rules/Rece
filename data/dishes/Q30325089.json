@@ -1,0 +1,18 @@
+{
+  "id": "Q30325089",
+  "name": "deep-fried avocado",
+  "description": "dish type",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-avocado-q30325089/deep-fried-avocado-q30325089-1.jpg",
+    "images/deep-fried-avocado-q30325089/deep-fried-avocado-q30325089-2.jpg",
+    "images/deep-fried-avocado-q30325089/deep-fried-avocado-q30325089-3.jpg",
+    "images/deep-fried-avocado-q30325089/deep-fried-avocado-q30325089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30325089",
+    "themealdb": null
+  }
+}

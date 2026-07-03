@@ -1,0 +1,18 @@
+{
+  "id": "Q2996891",
+  "name": "coq au vin jaune",
+  "description": "variation of coq au vin with white or yellow wine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coq-au-vin-jaune-q2996891/coq-au-vin-jaune-q2996891-1.jpg",
+    "images/coq-au-vin-jaune-q2996891/coq-au-vin-jaune-q2996891-2.jpg",
+    "images/coq-au-vin-jaune-q2996891/coq-au-vin-jaune-q2996891-3.jpg",
+    "images/coq-au-vin-jaune-q2996891/coq-au-vin-jaune-q2996891-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2996891",
+    "themealdb": null
+  }
+}

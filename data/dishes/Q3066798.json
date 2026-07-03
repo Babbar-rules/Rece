@@ -1,0 +1,18 @@
+{
+  "id": "Q3066798",
+  "name": "stuffed vegetable",
+  "description": "stuffed vegetable dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-vegetable-q3066798/stuffed-vegetable-q3066798-1.jpg",
+    "images/stuffed-vegetable-q3066798/stuffed-vegetable-q3066798-2.jpg",
+    "images/stuffed-vegetable-q3066798/stuffed-vegetable-q3066798-3.jpg",
+    "images/stuffed-vegetable-q3066798/stuffed-vegetable-q3066798-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3066798",
+    "themealdb": null
+  }
+}

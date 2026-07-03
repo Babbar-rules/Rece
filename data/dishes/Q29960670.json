@@ -1,0 +1,18 @@
+{
+  "id": "Q29960670",
+  "name": "tonkotsu ramen",
+  "description": "ramen served with broth made from pork bones",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tonkotsu-ramen-q29960670/tonkotsu-ramen-q29960670-1.jpg",
+    "images/tonkotsu-ramen-q29960670/tonkotsu-ramen-q29960670-2.jpg",
+    "images/tonkotsu-ramen-q29960670/tonkotsu-ramen-q29960670-3.jpg",
+    "images/tonkotsu-ramen-q29960670/tonkotsu-ramen-q29960670-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29960670",
+    "themealdb": null
+  }
+}

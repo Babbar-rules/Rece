@@ -1,0 +1,20 @@
+{
+  "id": "Q2998597",
+  "name": "Cotriade",
+  "description": "Fish stew from France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cotriade-q2998597/cotriade-q2998597-1.jpg",
+    "images/cotriade-q2998597/cotriade-q2998597-2.jpg",
+    "images/cotriade-q2998597/cotriade-q2998597-3.jpg",
+    "images/cotriade-q2998597/cotriade-q2998597-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2998597",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3075928",
+  "name": "fondue bressane",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fondue-bressane-q3075928/fondue-bressane-q3075928-1.jpg",
+    "images/fondue-bressane-q3075928/fondue-bressane-q3075928-2.jpg",
+    "images/fondue-bressane-q3075928/fondue-bressane-q3075928-3.jpg",
+    "images/fondue-bressane-q3075928/fondue-bressane-q3075928-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3075928",
+    "themealdb": null
+  }
+}

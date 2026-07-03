@@ -1,0 +1,22 @@
+{
+  "id": "Q3080408",
+  "name": "Fraisier",
+  "description": "Cake with strawberries",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/fraisier-q3080408/fraisier-q3080408-1.jpg",
+    "images/fraisier-q3080408/fraisier-q3080408-2.jpg",
+    "images/fraisier-q3080408/fraisier-q3080408-3.jpg",
+    "images/fraisier-q3080408/fraisier-q3080408-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3080408",
+    "themealdb": null
+  }
+}

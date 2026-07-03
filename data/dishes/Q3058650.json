@@ -1,0 +1,18 @@
+{
+  "id": "Q3058650",
+  "name": "McRib",
+  "description": "barbecue-flavored pork sandwich periodically sold by the international fast food restaurant chain McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcrib-q3058650/mcrib-q3058650-1.jpg",
+    "images/mcrib-q3058650/mcrib-q3058650-2.jpg",
+    "images/mcrib-q3058650/mcrib-q3058650-3.jpg",
+    "images/mcrib-q3058650/mcrib-q3058650-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3058650",
+    "themealdb": null
+  }
+}

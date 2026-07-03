@@ -1,0 +1,18 @@
+{
+  "id": "Q30739481",
+  "name": "Macarons de Nancy",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/macarons-de-nancy-q30739481/macarons-de-nancy-q30739481-1.jpg",
+    "images/macarons-de-nancy-q30739481/macarons-de-nancy-q30739481-2.jpg",
+    "images/macarons-de-nancy-q30739481/macarons-de-nancy-q30739481-3.jpg",
+    "images/macarons-de-nancy-q30739481/macarons-de-nancy-q30739481-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30739481",
+    "themealdb": null
+  }
+}

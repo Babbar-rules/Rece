@@ -1,0 +1,20 @@
+{
+  "id": "Q30606500",
+  "name": "Pulse",
+  "description": "Indian hard-boiled candy",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pulse-q30606500/pulse-q30606500-1.jpg",
+    "images/pulse-q30606500/pulse-q30606500-2.jpg",
+    "images/pulse-q30606500/pulse-q30606500-3.jpg",
+    "images/pulse-q30606500/pulse-q30606500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30606500",
+    "themealdb": null
+  }
+}

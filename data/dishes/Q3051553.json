@@ -1,0 +1,22 @@
+{
+  "id": "Q3051553",
+  "name": "Kulfi",
+  "description": "Indian frozen dessert",
+  "nationality": [
+    "Mughal Empire"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/kulfi-q3051553/kulfi-q3051553-1.jpg",
+    "images/kulfi-q3051553/kulfi-q3051553-2.jpg",
+    "images/kulfi-q3051553/kulfi-q3051553-3.jpg",
+    "images/kulfi-q3051553/kulfi-q3051553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3051553",
+    "themealdb": null
+  }
+}

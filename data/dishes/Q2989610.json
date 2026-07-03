@@ -1,0 +1,18 @@
+{
+  "id": "Q2989610",
+  "name": "Aero chocolate",
+  "description": "chocolate manufactured by Nestlé",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aero-chocolate-q2989610/aero-chocolate-q2989610-1.jpg",
+    "images/aero-chocolate-q2989610/aero-chocolate-q2989610-2.jpg",
+    "images/aero-chocolate-q2989610/aero-chocolate-q2989610-3.jpg",
+    "images/aero-chocolate-q2989610/aero-chocolate-q2989610-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2989610",
+    "themealdb": null
+  }
+}

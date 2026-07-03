@@ -1,0 +1,18 @@
+{
+  "id": "Q3013199",
+  "name": "chocolate ice cream",
+  "description": "ice cream with natural or artificial chocolate flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-ice-cream-q3013199/chocolate-ice-cream-q3013199-1.jpg",
+    "images/chocolate-ice-cream-q3013199/chocolate-ice-cream-q3013199-2.jpg",
+    "images/chocolate-ice-cream-q3013199/chocolate-ice-cream-q3013199-3.jpg",
+    "images/chocolate-ice-cream-q3013199/chocolate-ice-cream-q3013199-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3013199",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q30591503",
+  "name": "Hamloaf",
+  "description": "baked meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hamloaf-q30591503/hamloaf-q30591503-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30591503",
+    "themealdb": null
+  }
+}

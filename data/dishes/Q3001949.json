@@ -1,0 +1,18 @@
+{
+  "id": "Q3001949",
+  "name": "soft-shell crab",
+  "description": "culinary term for molted crabs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soft-shell-crab-q3001949/soft-shell-crab-q3001949-1.jpg",
+    "images/soft-shell-crab-q3001949/soft-shell-crab-q3001949-2.jpg",
+    "images/soft-shell-crab-q3001949/soft-shell-crab-q3001949-3.jpg",
+    "images/soft-shell-crab-q3001949/soft-shell-crab-q3001949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3001949",
+    "themealdb": null
+  }
+}

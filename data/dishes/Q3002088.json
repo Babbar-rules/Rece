@@ -1,0 +1,20 @@
+{
+  "id": "Q3002088",
+  "name": "kramiek",
+  "description": "sweet milk bread filled with raisins",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kramiek-q3002088/kramiek-q3002088-1.jpg",
+    "images/kramiek-q3002088/kramiek-q3002088-2.jpg",
+    "images/kramiek-q3002088/kramiek-q3002088-3.jpg",
+    "images/kramiek-q3002088/kramiek-q3002088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3002088",
+    "themealdb": null
+  }
+}

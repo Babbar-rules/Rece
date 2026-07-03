@@ -1,0 +1,18 @@
+{
+  "id": "Q29994343",
+  "name": "glutinous rice cake",
+  "description": "rice cakes made with glutinous rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/glutinous-rice-cake-q29994343/glutinous-rice-cake-q29994343-1.jpg",
+    "images/glutinous-rice-cake-q29994343/glutinous-rice-cake-q29994343-2.jpg",
+    "images/glutinous-rice-cake-q29994343/glutinous-rice-cake-q29994343-3.jpg",
+    "images/glutinous-rice-cake-q29994343/glutinous-rice-cake-q29994343-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29994343",
+    "themealdb": null
+  }
+}

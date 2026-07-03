@@ -1,0 +1,20 @@
+{
+  "id": "Q3041147",
+  "name": "pommes soufflées",
+  "description": "dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pommes-soufflees-q3041147/pommes-soufflees-q3041147-1.jpg",
+    "images/pommes-soufflees-q3041147/pommes-soufflees-q3041147-2.jpg",
+    "images/pommes-soufflees-q3041147/pommes-soufflees-q3041147-3.jpg",
+    "images/pommes-soufflees-q3041147/pommes-soufflees-q3041147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3041147",
+    "themealdb": null
+  }
+}

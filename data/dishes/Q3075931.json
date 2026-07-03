@@ -1,0 +1,20 @@
+{
+  "id": "Q3075931",
+  "name": "fondue Bourguignonne",
+  "description": "beef fondue originating in Burgundy",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fondue-bourguignonne-q3075931/fondue-bourguignonne-q3075931-1.jpg",
+    "images/fondue-bourguignonne-q3075931/fondue-bourguignonne-q3075931-2.jpg",
+    "images/fondue-bourguignonne-q3075931/fondue-bourguignonne-q3075931-3.jpg",
+    "images/fondue-bourguignonne-q3075931/fondue-bourguignonne-q3075931-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3075931",
+    "themealdb": null
+  }
+}

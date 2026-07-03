@@ -1,0 +1,19 @@
+{
+  "id": "Q2997013",
+  "name": "Coratella",
+  "description": "Small animal offal",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Roman cuisine"
+  ],
+  "images": [
+    "images/coratella-q2997013/coratella-q2997013-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2997013",
+    "themealdb": null
+  }
+}

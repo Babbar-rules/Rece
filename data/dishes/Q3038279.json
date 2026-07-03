@@ -1,0 +1,18 @@
+{
+  "id": "Q3038279",
+  "name": "Dove",
+  "description": "brand of chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dove-q3038279/dove-q3038279-1.jpg",
+    "images/dove-q3038279/dove-q3038279-2.jpg",
+    "images/dove-q3038279/dove-q3038279-3.jpg",
+    "images/dove-q3038279/dove-q3038279-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3038279",
+    "themealdb": null
+  }
+}

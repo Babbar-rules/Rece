@@ -1,0 +1,15 @@
+{
+  "id": "Q30680430",
+  "name": "Ghandi Bread",
+  "description": "traditional Iranian bread",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30680430",
+    "themealdb": null
+  }
+}

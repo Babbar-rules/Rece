@@ -1,0 +1,20 @@
+{
+  "id": "Q3065492",
+  "name": "maafe",
+  "description": "staple stew or sauce, originating from Mali and popular in West Africa, consisting of meat, tomatoes, onions, garlic, cabbage, leaf or root vegetables, and peanuts",
+  "nationality": [
+    "Mali"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maafe-q3065492/maafe-q3065492-1.jpg",
+    "images/maafe-q3065492/maafe-q3065492-2.jpg",
+    "images/maafe-q3065492/maafe-q3065492-3.jpg",
+    "images/maafe-q3065492/maafe-q3065492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3065492",
+    "themealdb": null
+  }
+}

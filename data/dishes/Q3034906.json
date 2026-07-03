@@ -1,0 +1,20 @@
+{
+  "id": "Q3034906",
+  "name": "Mona de Pascua",
+  "description": "Spanish afters",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mona-de-pascua-q3034906/mona-de-pascua-q3034906-1.jpg",
+    "images/mona-de-pascua-q3034906/mona-de-pascua-q3034906-2.jpg",
+    "images/mona-de-pascua-q3034906/mona-de-pascua-q3034906-3.jpg",
+    "images/mona-de-pascua-q3034906/mona-de-pascua-q3034906-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3034906",
+    "themealdb": null
+  }
+}

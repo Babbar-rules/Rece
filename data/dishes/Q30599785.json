@@ -1,0 +1,22 @@
+{
+  "id": "Q30599785",
+  "name": "Afang",
+  "description": "vegetable-based delicacy originating from South-South Nigeria, usually eaten with starch",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [
+    "African people"
+  ],
+  "images": [
+    "images/afang-q30599785/afang-q30599785-1.jpg",
+    "images/afang-q30599785/afang-q30599785-2.jpg",
+    "images/afang-q30599785/afang-q30599785-3.jpg",
+    "images/afang-q30599785/afang-q30599785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30599785",
+    "themealdb": null
+  }
+}

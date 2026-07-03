@@ -1,0 +1,20 @@
+{
+  "id": "Q301587",
+  "name": "massaman curry",
+  "description": "mild Thai curry",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/massaman-curry-q301587/massaman-curry-q301587-1.jpg",
+    "images/massaman-curry-q301587/massaman-curry-q301587-2.jpg",
+    "images/massaman-curry-q301587/massaman-curry-q301587-3.jpg",
+    "images/massaman-curry-q301587/massaman-curry-q301587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q301587",
+    "themealdb": null
+  }
+}

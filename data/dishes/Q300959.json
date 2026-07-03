@@ -1,0 +1,20 @@
+{
+  "id": "Q300959",
+  "name": "eel soup",
+  "description": "regional food, mainly cooked and ate in East Asia",
+  "nationality": [],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/eel-soup-q300959/eel-soup-q300959-1.jpg",
+    "images/eel-soup-q300959/eel-soup-q300959-2.png",
+    "images/eel-soup-q300959/eel-soup-q300959-3.jpg",
+    "images/eel-soup-q300959/eel-soup-q300959-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q300959",
+    "themealdb": null
+  }
+}

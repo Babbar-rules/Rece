@@ -1,0 +1,20 @@
+{
+  "id": "Q3002792",
+  "name": "crisp sandwich",
+  "description": "sandwich that includes potato chips (crisps) as one of the fillings",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crisp-sandwich-q3002792/crisp-sandwich-q3002792-1.jpg",
+    "images/crisp-sandwich-q3002792/crisp-sandwich-q3002792-2.jpg",
+    "images/crisp-sandwich-q3002792/crisp-sandwich-q3002792-3.jpg",
+    "images/crisp-sandwich-q3002792/crisp-sandwich-q3002792-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3002792",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q30636888",
+  "name": "ojingeo-jeot",
+  "description": "jeotgal made by salting and fermenting thinly sliced squid",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ojingeo-jeot-q30636888/ojingeo-jeot-q30636888-1.jpg",
+    "images/ojingeo-jeot-q30636888/ojingeo-jeot-q30636888-2.jpg",
+    "images/ojingeo-jeot-q30636888/ojingeo-jeot-q30636888-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30636888",
+    "themealdb": null
+  }
+}

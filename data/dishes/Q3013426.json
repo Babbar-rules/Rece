@@ -1,0 +1,22 @@
+{
+  "id": "Q3013426",
+  "name": "dandan noodles",
+  "description": "noodles from Sichuan, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/dandan-noodles-q3013426/dandan-noodles-q3013426-1.jpg",
+    "images/dandan-noodles-q3013426/dandan-noodles-q3013426-2.jpg",
+    "images/dandan-noodles-q3013426/dandan-noodles-q3013426-3.jpg",
+    "images/dandan-noodles-q3013426/dandan-noodles-q3013426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3013426",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q30599640",
+  "name": "Roscas",
+  "description": "type of pastry",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roscas-q30599640/roscas-q30599640-1.jpg",
+    "images/roscas-q30599640/roscas-q30599640-2.jpg",
+    "images/roscas-q30599640/roscas-q30599640-3.jpg",
+    "images/roscas-q30599640/roscas-q30599640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30599640",
+    "themealdb": null
+  }
+}

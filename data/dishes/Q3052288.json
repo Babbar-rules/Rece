@@ -1,0 +1,20 @@
+{
+  "id": "Q3052288",
+  "name": "larb",
+  "description": "national dish of Laos",
+  "nationality": [
+    "Laos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/larb-q3052288/larb-q3052288-1.jpg",
+    "images/larb-q3052288/larb-q3052288-2.jpg",
+    "images/larb-q3052288/larb-q3052288-3.jpg",
+    "images/larb-q3052288/larb-q3052288-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3052288",
+    "themealdb": null
+  }
+}

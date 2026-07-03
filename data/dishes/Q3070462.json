@@ -1,0 +1,20 @@
+{
+  "id": "Q3070462",
+  "name": "Rasol",
+  "description": "Romanian stew",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rasol-q3070462/rasol-q3070462-1.jpg",
+    "images/rasol-q3070462/rasol-q3070462-2.jpg",
+    "images/rasol-q3070462/rasol-q3070462-3.jpg",
+    "images/rasol-q3070462/rasol-q3070462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3070462",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3065399",
+  "name": "Fanesca",
+  "description": "Ecuadorian soup",
+  "nationality": [
+    "Ecuador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fanesca-q3065399/fanesca-q3065399-1.jpg",
+    "images/fanesca-q3065399/fanesca-q3065399-2.jpg",
+    "images/fanesca-q3065399/fanesca-q3065399-3.jpg",
+    "images/fanesca-q3065399/fanesca-q3065399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3065399",
+    "themealdb": null
+  }
+}

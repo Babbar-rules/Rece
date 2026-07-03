@@ -1,0 +1,20 @@
+{
+  "id": "Q3027539",
+  "name": "Xuixo",
+  "description": "deep-fried pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xuixo-q3027539/xuixo-q3027539-1.jpg",
+    "images/xuixo-q3027539/xuixo-q3027539-2.jpg",
+    "images/xuixo-q3027539/xuixo-q3027539-3.jpg",
+    "images/xuixo-q3027539/xuixo-q3027539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3027539",
+    "themealdb": null
+  }
+}

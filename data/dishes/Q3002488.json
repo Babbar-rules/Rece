@@ -1,0 +1,20 @@
+{
+  "id": "Q3002488",
+  "name": "Crespéou",
+  "description": "savory Provençal cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crespeou-q3002488/crespeou-q3002488-1.jpg",
+    "images/crespeou-q3002488/crespeou-q3002488-2.jpg",
+    "images/crespeou-q3002488/crespeou-q3002488-3.jpg",
+    "images/crespeou-q3002488/crespeou-q3002488-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3002488",
+    "themealdb": null
+  }
+}

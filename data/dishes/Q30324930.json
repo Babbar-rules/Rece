@@ -1,0 +1,20 @@
+{
+  "id": "Q30324930",
+  "name": "Coventry Godcakes",
+  "description": "English pastry",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coventry-godcakes-q30324930/coventry-godcakes-q30324930-1.jpg",
+    "images/coventry-godcakes-q30324930/coventry-godcakes-q30324930-2.jpg",
+    "images/coventry-godcakes-q30324930/coventry-godcakes-q30324930-3.jpg",
+    "images/coventry-godcakes-q30324930/coventry-godcakes-q30324930-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30324930",
+    "themealdb": null
+  }
+}

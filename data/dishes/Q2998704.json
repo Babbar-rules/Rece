@@ -1,0 +1,17 @@
+{
+  "id": "Q2998704",
+  "name": "Coucougnette",
+  "description": "confection made with almonds, marzipan, and chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coucougnette-q2998704/coucougnette-q2998704-1.jpg",
+    "images/coucougnette-q2998704/coucougnette-q2998704-2.jpg",
+    "images/coucougnette-q2998704/coucougnette-q2998704-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2998704",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3041144",
+  "name": "Dum Aloo",
+  "description": "potato dish",
+  "nationality": [
+    "Indian subcontinent"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dum-aloo-q3041144/dum-aloo-q3041144-1.jpg",
+    "images/dum-aloo-q3041144/dum-aloo-q3041144-2.jpg",
+    "images/dum-aloo-q3041144/dum-aloo-q3041144-3.jpg",
+    "images/dum-aloo-q3041144/dum-aloo-q3041144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3041144",
+    "themealdb": null
+  }
+}

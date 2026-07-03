@@ -1,0 +1,18 @@
+{
+  "id": "Q2992507",
+  "name": "flower jam",
+  "description": "jam made from flowers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/flower-jam-q2992507/flower-jam-q2992507-1.jpg",
+    "images/flower-jam-q2992507/flower-jam-q2992507-2.jpg",
+    "images/flower-jam-q2992507/flower-jam-q2992507-3.jpg",
+    "images/flower-jam-q2992507/flower-jam-q2992507-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2992507",
+    "themealdb": null
+  }
+}

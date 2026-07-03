@@ -1,0 +1,20 @@
+{
+  "id": "Q30524428",
+  "name": "kushiyaki",
+  "description": "poultry and non-poultry items, skewered and grilled, in Japanese cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kushiyaki-q30524428/kushiyaki-q30524428-1.jpg",
+    "images/kushiyaki-q30524428/kushiyaki-q30524428-2.jpg",
+    "images/kushiyaki-q30524428/kushiyaki-q30524428-3.jpg",
+    "images/kushiyaki-q30524428/kushiyaki-q30524428-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30524428",
+    "themealdb": null
+  }
+}

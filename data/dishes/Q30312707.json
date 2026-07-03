@@ -1,0 +1,20 @@
+{
+  "id": "Q30312707",
+  "name": "Candel",
+  "description": "Toffie Caramel with 74 years of History in Uruguay",
+  "nationality": [
+    "Uruguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/candel-q30312707/candel-q30312707-1.jpg",
+    "images/candel-q30312707/candel-q30312707-2.jpg",
+    "images/candel-q30312707/candel-q30312707-3.jpg",
+    "images/candel-q30312707/candel-q30312707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30312707",
+    "themealdb": null
+  }
+}

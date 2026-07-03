@@ -1,0 +1,21 @@
+{
+  "id": "Q3042471",
+  "name": "Patatnik",
+  "description": "Bulgarian potato dish",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [
+    "Bulgarian cuisine"
+  ],
+  "images": [
+    "images/patatnik-q3042471/patatnik-q3042471-1.jpg",
+    "images/patatnik-q3042471/patatnik-q3042471-2.jpg",
+    "images/patatnik-q3042471/patatnik-q3042471-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3042471",
+    "themealdb": null
+  }
+}

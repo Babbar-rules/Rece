@@ -1,0 +1,18 @@
+{
+  "id": "Q3054613",
+  "name": "Chinese bakery product",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chinese-bakery-product-q3054613/chinese-bakery-product-q3054613-1.jpg",
+    "images/chinese-bakery-product-q3054613/chinese-bakery-product-q3054613-2.jpg",
+    "images/chinese-bakery-product-q3054613/chinese-bakery-product-q3054613-3.jpg",
+    "images/chinese-bakery-product-q3054613/chinese-bakery-product-q3054613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3054613",
+    "themealdb": null
+  }
+}

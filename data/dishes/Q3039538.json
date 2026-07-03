@@ -1,0 +1,20 @@
+{
+  "id": "Q3039538",
+  "name": "Drob",
+  "description": "Traditional Romanian dish",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/drob-q3039538/drob-q3039538-1.jpg",
+    "images/drob-q3039538/drob-q3039538-2.jpg",
+    "images/drob-q3039538/drob-q3039538-3.jpg",
+    "images/drob-q3039538/drob-q3039538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3039538",
+    "themealdb": null
+  }
+}

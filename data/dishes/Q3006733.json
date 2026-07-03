@@ -1,0 +1,19 @@
+{
+  "id": "Q3006733",
+  "name": "Cuchuco",
+  "description": "Staple food in Colombia",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cuchuco-q3006733/cuchuco-q3006733-1.jpg",
+    "images/cuchuco-q3006733/cuchuco-q3006733-2.jpg",
+    "images/cuchuco-q3006733/cuchuco-q3006733-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3006733",
+    "themealdb": null
+  }
+}

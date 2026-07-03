@@ -1,0 +1,20 @@
+{
+  "id": "Q30004878",
+  "name": "tarte aux pralines",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-aux-pralines-q30004878/tarte-aux-pralines-q30004878-1.jpg",
+    "images/tarte-aux-pralines-q30004878/tarte-aux-pralines-q30004878-2.jpg",
+    "images/tarte-aux-pralines-q30004878/tarte-aux-pralines-q30004878-3.jpg",
+    "images/tarte-aux-pralines-q30004878/tarte-aux-pralines-q30004878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30004878",
+    "themealdb": null
+  }
+}

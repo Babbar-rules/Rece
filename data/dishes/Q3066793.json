@@ -1,0 +1,20 @@
+{
+  "id": "Q3066793",
+  "name": "Farcement",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/farcement-q3066793/farcement-q3066793-1.jpg",
+    "images/farcement-q3066793/farcement-q3066793-2.jpg",
+    "images/farcement-q3066793/farcement-q3066793-3.jpg",
+    "images/farcement-q3066793/farcement-q3066793-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3066793",
+    "themealdb": null
+  }
+}

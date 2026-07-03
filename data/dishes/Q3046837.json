@@ -1,0 +1,20 @@
+{
+  "id": "Q3046837",
+  "name": "ebi senbei",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ebi-senbei-q3046837/ebi-senbei-q3046837-1.jpg",
+    "images/ebi-senbei-q3046837/ebi-senbei-q3046837-2.jpg",
+    "images/ebi-senbei-q3046837/ebi-senbei-q3046837-3.jpg",
+    "images/ebi-senbei-q3046837/ebi-senbei-q3046837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3046837",
+    "themealdb": null
+  }
+}

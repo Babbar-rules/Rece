@@ -1,0 +1,20 @@
+{
+  "id": "Q3033269",
+  "name": "Dobara (Algerian dish)",
+  "description": "",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dobara-algerian-dish-q3033269/dobara-algerian-dish-q3033269-1.jpg",
+    "images/dobara-algerian-dish-q3033269/dobara-algerian-dish-q3033269-2.jpg",
+    "images/dobara-algerian-dish-q3033269/dobara-algerian-dish-q3033269-3.jpg",
+    "images/dobara-algerian-dish-q3033269/dobara-algerian-dish-q3033269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3033269",
+    "themealdb": null
+  }
+}

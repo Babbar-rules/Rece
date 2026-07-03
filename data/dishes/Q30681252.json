@@ -1,0 +1,21 @@
+{
+  "id": "Q30681252",
+  "name": "khao khluk kapi",
+  "description": "Thai cuisine",
+  "nationality": [
+    "Thailand",
+    "Central Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khao-khluk-kapi-q30681252/khao-khluk-kapi-q30681252-1.jpg",
+    "images/khao-khluk-kapi-q30681252/khao-khluk-kapi-q30681252-2.jpg",
+    "images/khao-khluk-kapi-q30681252/khao-khluk-kapi-q30681252-3.jpg",
+    "images/khao-khluk-kapi-q30681252/khao-khluk-kapi-q30681252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30681252",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3006330",
+  "name": "crêpe bretonne",
+  "description": "type of crêpe originating in Lower Brittany",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crepe-bretonne-q3006330/crepe-bretonne-q3006330-1.jpg",
+    "images/crepe-bretonne-q3006330/crepe-bretonne-q3006330-2.jpg",
+    "images/crepe-bretonne-q3006330/crepe-bretonne-q3006330-3.jpg",
+    "images/crepe-bretonne-q3006330/crepe-bretonne-q3006330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3006330",
+    "themealdb": null
+  }
+}

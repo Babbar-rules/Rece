@@ -1,0 +1,20 @@
+{
+  "id": "Q3028666",
+  "name": "Neula",
+  "description": "Catalan biscuit eaten traditionally in Christmas",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neula-q3028666/neula-q3028666-1.jpg",
+    "images/neula-q3028666/neula-q3028666-2.jpg",
+    "images/neula-q3028666/neula-q3028666-3.jpg",
+    "images/neula-q3028666/neula-q3028666-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3028666",
+    "themealdb": null
+  }
+}

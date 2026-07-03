@@ -1,0 +1,18 @@
+{
+  "id": "Q2996903",
+  "name": "artos",
+  "description": "bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/artos-q2996903/artos-q2996903-1.jpg",
+    "images/artos-q2996903/artos-q2996903-2.jpg",
+    "images/artos-q2996903/artos-q2996903-3.jpg",
+    "images/artos-q2996903/artos-q2996903-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2996903",
+    "themealdb": null
+  }
+}

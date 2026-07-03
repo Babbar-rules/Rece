@@ -1,0 +1,18 @@
+{
+  "id": "Q3006051",
+  "name": "mousseline cream",
+  "description": "genre of pastry cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mousseline-cream-q3006051/mousseline-cream-q3006051-1.jpg",
+    "images/mousseline-cream-q3006051/mousseline-cream-q3006051-2.jpg",
+    "images/mousseline-cream-q3006051/mousseline-cream-q3006051-3.jpg",
+    "images/mousseline-cream-q3006051/mousseline-cream-q3006051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3006051",
+    "themealdb": null
+  }
+}

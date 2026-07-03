@@ -1,0 +1,21 @@
+{
+  "id": "Q3068074",
+  "name": "Felfel mehchi",
+  "description": "North African version of stuffed peppers",
+  "nationality": [
+    "Tunisia",
+    "Libya"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/felfel-mehchi-q3068074/felfel-mehchi-q3068074-1.jpg",
+    "images/felfel-mehchi-q3068074/felfel-mehchi-q3068074-2.jpg",
+    "images/felfel-mehchi-q3068074/felfel-mehchi-q3068074-3.jpg",
+    "images/felfel-mehchi-q3068074/felfel-mehchi-q3068074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3068074",
+    "themealdb": null
+  }
+}

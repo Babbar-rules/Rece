@@ -1,0 +1,21 @@
+{
+  "id": "Q2996033",
+  "name": "Salceson",
+  "description": "Central and Eastern European sausage",
+  "nationality": [],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/salceson-q2996033/salceson-q2996033-1.jpg",
+    "images/salceson-q2996033/salceson-q2996033-2.jpg",
+    "images/salceson-q2996033/salceson-q2996033-3.jpg",
+    "images/salceson-q2996033/salceson-q2996033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2996033",
+    "themealdb": null
+  }
+}

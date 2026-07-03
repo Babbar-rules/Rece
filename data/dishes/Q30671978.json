@@ -1,0 +1,20 @@
+{
+  "id": "Q30671978",
+  "name": "Java Rice",
+  "description": "fried rice dish from the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/java-rice-q30671978/java-rice-q30671978-1.jpg",
+    "images/java-rice-q30671978/java-rice-q30671978-2.jpg",
+    "images/java-rice-q30671978/java-rice-q30671978-3.jpg",
+    "images/java-rice-q30671978/java-rice-q30671978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30671978",
+    "themealdb": null
+  }
+}

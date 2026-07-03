@@ -1,0 +1,20 @@
+{
+  "id": "Q3044475",
+  "name": "mizuame",
+  "description": "sweetener",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mizuame-q3044475/mizuame-q3044475-1.jpg",
+    "images/mizuame-q3044475/mizuame-q3044475-2.jpg",
+    "images/mizuame-q3044475/mizuame-q3044475-3.jpg",
+    "images/mizuame-q3044475/mizuame-q3044475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3044475",
+    "themealdb": null
+  }
+}

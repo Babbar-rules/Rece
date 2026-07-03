@@ -1,0 +1,20 @@
+{
+  "id": "Q29944665",
+  "name": "guljeot",
+  "description": "Korean side dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guljeot-q29944665/guljeot-q29944665-1.jpg",
+    "images/guljeot-q29944665/guljeot-q29944665-2.jpg",
+    "images/guljeot-q29944665/guljeot-q29944665-3.jpg",
+    "images/guljeot-q29944665/guljeot-q29944665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29944665",
+    "themealdb": null
+  }
+}

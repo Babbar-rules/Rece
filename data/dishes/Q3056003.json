@@ -1,0 +1,18 @@
+{
+  "id": "Q3056003",
+  "name": "erbazzone",
+  "description": "Italian savory pie",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/erbazzone-q3056003/erbazzone-q3056003-1.jpg",
+    "images/erbazzone-q3056003/erbazzone-q3056003-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3056003",
+    "themealdb": null
+  }
+}

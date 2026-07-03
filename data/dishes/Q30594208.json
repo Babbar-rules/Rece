@@ -1,0 +1,18 @@
+{
+  "id": "Q30594208",
+  "name": "cabbage stew",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabbage-stew-q30594208/cabbage-stew-q30594208-1.jpg",
+    "images/cabbage-stew-q30594208/cabbage-stew-q30594208-2.jpg",
+    "images/cabbage-stew-q30594208/cabbage-stew-q30594208-3.jpg",
+    "images/cabbage-stew-q30594208/cabbage-stew-q30594208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30594208",
+    "themealdb": null
+  }
+}

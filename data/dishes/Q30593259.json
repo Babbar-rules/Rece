@@ -1,0 +1,20 @@
+{
+  "id": "Q30593259",
+  "name": "avocado toast",
+  "description": "type of open sandwich consisting of toast with mashed avocado",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/avocado-toast-q30593259/avocado-toast-q30593259-1.jpg",
+    "images/avocado-toast-q30593259/avocado-toast-q30593259-2.jpg",
+    "images/avocado-toast-q30593259/avocado-toast-q30593259-3.jpg",
+    "images/avocado-toast-q30593259/avocado-toast-q30593259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30593259",
+    "themealdb": null
+  }
+}

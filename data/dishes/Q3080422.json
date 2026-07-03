@@ -1,0 +1,20 @@
+{
+  "id": "Q3080422",
+  "name": "Framboisier",
+  "description": "French dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/framboisier-q3080422/framboisier-q3080422-1.jpg",
+    "images/framboisier-q3080422/framboisier-q3080422-2.jpg",
+    "images/framboisier-q3080422/framboisier-q3080422-3.jpg",
+    "images/framboisier-q3080422/framboisier-q3080422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3080422",
+    "themealdb": null
+  }
+}

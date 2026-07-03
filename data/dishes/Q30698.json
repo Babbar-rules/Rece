@@ -1,0 +1,22 @@
+{
+  "id": "Q30698",
+  "name": "sour cherry soup",
+  "description": "slightly sweet soup made with sour cream, sugar, and whole fresh sour cherries, and served chilled",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/sour-cherry-soup-q30698/sour-cherry-soup-q30698-1.jpg",
+    "images/sour-cherry-soup-q30698/sour-cherry-soup-q30698-2.jpg",
+    "images/sour-cherry-soup-q30698/sour-cherry-soup-q30698-3.jpg",
+    "images/sour-cherry-soup-q30698/sour-cherry-soup-q30698-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30698",
+    "themealdb": null
+  }
+}

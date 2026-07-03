@@ -1,0 +1,20 @@
+{
+  "id": "Q3054617",
+  "name": "guilinggao",
+  "description": "Chinese medicine",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guilinggao-q3054617/guilinggao-q3054617-1.jpg",
+    "images/guilinggao-q3054617/guilinggao-q3054617-2.jpg",
+    "images/guilinggao-q3054617/guilinggao-q3054617-3.jpg",
+    "images/guilinggao-q3054617/guilinggao-q3054617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3054617",
+    "themealdb": null
+  }
+}

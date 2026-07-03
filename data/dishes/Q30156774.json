@@ -1,0 +1,22 @@
+{
+  "id": "Q30156774",
+  "name": "tornado potato",
+  "description": "popular street food in South Korea",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/tornado-potato-q30156774/tornado-potato-q30156774-1.jpg",
+    "images/tornado-potato-q30156774/tornado-potato-q30156774-2.jpg",
+    "images/tornado-potato-q30156774/tornado-potato-q30156774-3.jpg",
+    "images/tornado-potato-q30156774/tornado-potato-q30156774-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30156774",
+    "themealdb": null
+  }
+}

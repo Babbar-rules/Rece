@@ -1,0 +1,20 @@
+{
+  "id": "Q29887669",
+  "name": "stuffed mushrooms",
+  "description": "Culinary dish or snack",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/stuffed-mushrooms-q29887669/stuffed-mushrooms-q29887669-1.jpg",
+    "images/stuffed-mushrooms-q29887669/stuffed-mushrooms-q29887669-2.jpg",
+    "images/stuffed-mushrooms-q29887669/stuffed-mushrooms-q29887669-3.jpg",
+    "images/stuffed-mushrooms-q29887669/stuffed-mushrooms-q29887669-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q29887669",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2993311",
+  "name": "barmbrack",
+  "description": "Irish tradition for Samhain",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barmbrack-q2993311/barmbrack-q2993311-1.jpg",
+    "images/barmbrack-q2993311/barmbrack-q2993311-2.jpg",
+    "images/barmbrack-q2993311/barmbrack-q2993311-3.jpg",
+    "images/barmbrack-q2993311/barmbrack-q2993311-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2993311",
+    "themealdb": null
+  }
+}

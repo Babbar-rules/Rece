@@ -1,0 +1,20 @@
+{
+  "id": "Q30637566",
+  "name": "Omegi-tteok",
+  "description": "Korean rice cake variety",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/omegi-tteok-q30637566/omegi-tteok-q30637566-1.jpg",
+    "images/omegi-tteok-q30637566/omegi-tteok-q30637566-2.jpg",
+    "images/omegi-tteok-q30637566/omegi-tteok-q30637566-3.jpg",
+    "images/omegi-tteok-q30637566/omegi-tteok-q30637566-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30637566",
+    "themealdb": null
+  }
+}

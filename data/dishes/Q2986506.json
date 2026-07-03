@@ -1,0 +1,20 @@
+{
+  "id": "Q2986506",
+  "name": "Faloodeh",
+  "description": "persian dessert",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/faloodeh-q2986506/faloodeh-q2986506-1.jpg",
+    "images/faloodeh-q2986506/faloodeh-q2986506-2.jpg",
+    "images/faloodeh-q2986506/faloodeh-q2986506-3.jpg",
+    "images/faloodeh-q2986506/faloodeh-q2986506-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2986506",
+    "themealdb": null
+  }
+}

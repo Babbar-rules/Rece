@@ -1,0 +1,20 @@
+{
+  "id": "Q30089578",
+  "name": "michałki",
+  "description": "Polish peanut pralines",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/michaki-q30089578/michaki-q30089578-1.jpg",
+    "images/michaki-q30089578/michaki-q30089578-2.jpg",
+    "images/michaki-q30089578/michaki-q30089578-3.jpg",
+    "images/michaki-q30089578/michaki-q30089578-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q30089578",
+    "themealdb": null
+  }
+}
