@@ -1,0 +1,22 @@
+{
+  "id": "Q56413460",
+  "name": "es tebak",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Padang cuisine"
+  ],
+  "images": [
+    "images/es-tebak-q56413460/es-tebak-q56413460-1.jpg",
+    "images/es-tebak-q56413460/es-tebak-q56413460-2.jpg",
+    "images/es-tebak-q56413460/es-tebak-q56413460-3.jpg",
+    "images/es-tebak-q56413460/es-tebak-q56413460-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56413460",
+    "themealdb": null
+  }
+}

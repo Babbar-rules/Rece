@@ -1,0 +1,18 @@
+{
+  "id": "Q564334",
+  "name": "potato soup",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-soup-q564334/potato-soup-q564334-1.jpg",
+    "images/potato-soup-q564334/potato-soup-q564334-2.jpg",
+    "images/potato-soup-q564334/potato-soup-q564334-3.png",
+    "images/potato-soup-q564334/potato-soup-q564334-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564334",
+    "themealdb": null
+  }
+}

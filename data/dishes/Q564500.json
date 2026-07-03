@@ -1,0 +1,20 @@
+{
+  "id": "Q564500",
+  "name": "caruru",
+  "description": "Brazilian stew",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caruru-q564500/caruru-q564500-1.jpg",
+    "images/caruru-q564500/caruru-q564500-2.jpg",
+    "images/caruru-q564500/caruru-q564500-3.jpg",
+    "images/caruru-q564500/caruru-q564500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564500",
+    "themealdb": null
+  }
+}

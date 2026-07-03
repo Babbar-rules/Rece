@@ -1,0 +1,20 @@
+{
+  "id": "Q5700891",
+  "name": "Heinz Tomato Ketchup",
+  "description": "brand of tomato ketchup",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/heinz-tomato-ketchup-q5700891/heinz-tomato-ketchup-q5700891-1.jpg",
+    "images/heinz-tomato-ketchup-q5700891/heinz-tomato-ketchup-q5700891-2.jpg",
+    "images/heinz-tomato-ketchup-q5700891/heinz-tomato-ketchup-q5700891-3.jpg",
+    "images/heinz-tomato-ketchup-q5700891/heinz-tomato-ketchup-q5700891-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5700891",
+    "themealdb": null
+  }
+}

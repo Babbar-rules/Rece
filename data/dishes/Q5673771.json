@@ -1,0 +1,20 @@
+{
+  "id": "Q5673771",
+  "name": "pambazo",
+  "description": "Mexican traditional dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pambazo-q5673771/pambazo-q5673771-1.jpg",
+    "images/pambazo-q5673771/pambazo-q5673771-2.jpg",
+    "images/pambazo-q5673771/pambazo-q5673771-3.jpg",
+    "images/pambazo-q5673771/pambazo-q5673771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5673771",
+    "themealdb": null
+  }
+}

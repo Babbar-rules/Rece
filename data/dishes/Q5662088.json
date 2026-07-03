@@ -1,0 +1,18 @@
+{
+  "id": "Q5662088",
+  "name": "Eris  (Confection)",
+  "description": "Traditional Confection of Tabriz",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eris-confection-q5662088/eris-confection-q5662088-1.png",
+    "images/eris-confection-q5662088/eris-confection-q5662088-2.jpg",
+    "images/eris-confection-q5662088/eris-confection-q5662088-3.jpg",
+    "images/eris-confection-q5662088/eris-confection-q5662088-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5662088",
+    "themealdb": null
+  }
+}

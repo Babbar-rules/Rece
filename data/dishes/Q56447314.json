@@ -1,0 +1,18 @@
+{
+  "id": "Q56447314",
+  "name": "CBO",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cbo-q56447314/cbo-q56447314-1.jpg",
+    "images/cbo-q56447314/cbo-q56447314-2.png",
+    "images/cbo-q56447314/cbo-q56447314-3.png",
+    "images/cbo-q56447314/cbo-q56447314-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56447314",
+    "themealdb": null
+  }
+}

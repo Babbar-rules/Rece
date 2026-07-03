@@ -1,0 +1,20 @@
+{
+  "id": "Q564573",
+  "name": "canh chua",
+  "description": "Vietnamese sour soup dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/canh-chua-q564573/canh-chua-q564573-1.jpg",
+    "images/canh-chua-q564573/canh-chua-q564573-2.jpg",
+    "images/canh-chua-q564573/canh-chua-q564573-3.jpg",
+    "images/canh-chua-q564573/canh-chua-q564573-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564573",
+    "themealdb": null
+  }
+}

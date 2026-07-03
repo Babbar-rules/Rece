@@ -1,0 +1,18 @@
+{
+  "id": "Q564494",
+  "name": "Galinhada",
+  "description": "Brazilian chicken and rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galinhada-q564494/galinhada-q564494-1.jpg",
+    "images/galinhada-q564494/galinhada-q564494-2.jpg",
+    "images/galinhada-q564494/galinhada-q564494-3.jpg",
+    "images/galinhada-q564494/galinhada-q564494-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564494",
+    "themealdb": null
+  }
+}

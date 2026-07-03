@@ -1,0 +1,20 @@
+{
+  "id": "Q5643212",
+  "name": "Hallulla",
+  "description": "rounded type of bread",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hallulla-q5643212/hallulla-q5643212-1.jpg",
+    "images/hallulla-q5643212/hallulla-q5643212-2.jpg",
+    "images/hallulla-q5643212/hallulla-q5643212-3.jpg",
+    "images/hallulla-q5643212/hallulla-q5643212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5643212",
+    "themealdb": null
+  }
+}

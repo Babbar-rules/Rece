@@ -1,0 +1,18 @@
+{
+  "id": "Q56525731",
+  "name": "mutton soup",
+  "description": "soup containing mutton or lamb",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mutton-soup-q56525731/mutton-soup-q56525731-1.jpg",
+    "images/mutton-soup-q56525731/mutton-soup-q56525731-2.jpg",
+    "images/mutton-soup-q56525731/mutton-soup-q56525731-3.jpg",
+    "images/mutton-soup-q56525731/mutton-soup-q56525731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56525731",
+    "themealdb": null
+  }
+}

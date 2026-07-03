@@ -1,0 +1,18 @@
+{
+  "id": "Q56559327",
+  "name": "pit beef",
+  "description": "roast beef prepared over a charcoal fire",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pit-beef-q56559327/pit-beef-q56559327-1.jpg",
+    "images/pit-beef-q56559327/pit-beef-q56559327-2.jpg",
+    "images/pit-beef-q56559327/pit-beef-q56559327-3.jpg",
+    "images/pit-beef-q56559327/pit-beef-q56559327-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56559327",
+    "themealdb": null
+  }
+}

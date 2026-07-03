@@ -1,0 +1,23 @@
+{
+  "id": "Q57223",
+  "name": "stollen",
+  "description": "German yeasted christmas sweet bread",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "Saxon cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/stollen-q57223/stollen-q57223-1.jpg",
+    "images/stollen-q57223/stollen-q57223-2.jpg",
+    "images/stollen-q57223/stollen-q57223-3.jpg",
+    "images/stollen-q57223/stollen-q57223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57223",
+    "themealdb": null
+  }
+}

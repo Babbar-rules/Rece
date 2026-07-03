@@ -1,0 +1,20 @@
+{
+  "id": "Q5701588",
+  "name": "Qema",
+  "description": "Iraqi dish",
+  "nationality": [
+    "Iraq"
+  ],
+  "region_cuisine": [
+    "Iraqi cuisine"
+  ],
+  "images": [
+    "images/qema-q5701588/qema-q5701588-1.jpg",
+    "images/qema-q5701588/qema-q5701588-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5701588",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q56707179",
+  "name": "Vienna cream puff",
+  "description": "Austrian dessert",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vienna-cream-puff-q56707179/vienna-cream-puff-q56707179-1.jpg",
+    "images/vienna-cream-puff-q56707179/vienna-cream-puff-q56707179-2.jpg",
+    "images/vienna-cream-puff-q56707179/vienna-cream-puff-q56707179-3.jpg",
+    "images/vienna-cream-puff-q56707179/vienna-cream-puff-q56707179-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56707179",
+    "themealdb": null
+  }
+}

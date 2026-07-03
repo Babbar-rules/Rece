@@ -1,0 +1,17 @@
+{
+  "id": "Q5684599",
+  "name": "Hawaiian haystack",
+  "description": "Hawaiian rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hawaiian-haystack-q5684599/hawaiian-haystack-q5684599-1.jpg",
+    "images/hawaiian-haystack-q5684599/hawaiian-haystack-q5684599-2.jpg",
+    "images/hawaiian-haystack-q5684599/hawaiian-haystack-q5684599-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5684599",
+    "themealdb": null
+  }
+}

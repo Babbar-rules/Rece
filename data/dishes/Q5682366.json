@@ -1,0 +1,20 @@
+{
+  "id": "Q5682366",
+  "name": "sōmen salad",
+  "description": "Japanese noodle-based dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/somen-salad-q5682366/somen-salad-q5682366-1.jpg",
+    "images/somen-salad-q5682366/somen-salad-q5682366-2.jpg",
+    "images/somen-salad-q5682366/somen-salad-q5682366-3.jpg",
+    "images/somen-salad-q5682366/somen-salad-q5682366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5682366",
+    "themealdb": null
+  }
+}

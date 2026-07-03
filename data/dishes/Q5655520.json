@@ -1,0 +1,20 @@
+{
+  "id": "Q5655520",
+  "name": "hard dough bread",
+  "description": "",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hard-dough-bread-q5655520/hard-dough-bread-q5655520-1.jpg",
+    "images/hard-dough-bread-q5655520/hard-dough-bread-q5655520-2.jpg",
+    "images/hard-dough-bread-q5655520/hard-dough-bread-q5655520-3.jpg",
+    "images/hard-dough-bread-q5655520/hard-dough-bread-q5655520-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5655520",
+    "themealdb": null
+  }
+}

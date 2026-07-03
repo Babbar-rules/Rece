@@ -1,0 +1,20 @@
+{
+  "id": "Q564491",
+  "name": "Tacacá",
+  "description": "typical Amazon soup",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tacaca-q564491/tacaca-q564491-1.png",
+    "images/tacaca-q564491/tacaca-q564491-2.jpg",
+    "images/tacaca-q564491/tacaca-q564491-3.jpg",
+    "images/tacaca-q564491/tacaca-q564491-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564491",
+    "themealdb": null
+  }
+}

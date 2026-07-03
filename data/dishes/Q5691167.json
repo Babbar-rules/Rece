@@ -1,0 +1,20 @@
+{
+  "id": "Q5691167",
+  "name": "Cake Yazdi",
+  "description": "pastry of Yazd, Iran",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cake-yazdi-q5691167/cake-yazdi-q5691167-1.jpg",
+    "images/cake-yazdi-q5691167/cake-yazdi-q5691167-2.jpg",
+    "images/cake-yazdi-q5691167/cake-yazdi-q5691167-3.jpg",
+    "images/cake-yazdi-q5691167/cake-yazdi-q5691167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5691167",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q564557",
+  "name": "oxtail soup",
+  "description": "soup made with beef tails",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oxtail-soup-q564557/oxtail-soup-q564557-1.jpg",
+    "images/oxtail-soup-q564557/oxtail-soup-q564557-2.jpg",
+    "images/oxtail-soup-q564557/oxtail-soup-q564557-3.jpg",
+    "images/oxtail-soup-q564557/oxtail-soup-q564557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564557",
+    "themealdb": null
+  }
+}

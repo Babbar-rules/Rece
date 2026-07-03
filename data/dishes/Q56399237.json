@@ -1,0 +1,22 @@
+{
+  "id": "Q56399237",
+  "name": "Rendang lokan",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rendang-lokan-q56399237/rendang-lokan-q56399237-1.jpg",
+    "images/rendang-lokan-q56399237/rendang-lokan-q56399237-2.jpg",
+    "images/rendang-lokan-q56399237/rendang-lokan-q56399237-3.jpg",
+    "images/rendang-lokan-q56399237/rendang-lokan-q56399237-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56399237",
+    "themealdb": null
+  }
+}

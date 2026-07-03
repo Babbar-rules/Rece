@@ -1,0 +1,21 @@
+{
+  "id": "Q56412603",
+  "name": "pempek lenggang",
+  "description": "variant of pempek",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pempek-lenggang-q56412603/pempek-lenggang-q56412603-1.jpg",
+    "images/pempek-lenggang-q56412603/pempek-lenggang-q56412603-2.jpg",
+    "images/pempek-lenggang-q56412603/pempek-lenggang-q56412603-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56412603",
+    "themealdb": null
+  }
+}

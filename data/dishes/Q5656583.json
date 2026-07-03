@@ -1,0 +1,16 @@
+{
+  "id": "Q5656583",
+  "name": "Achilata",
+  "description": "ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/achilata-q5656583/achilata-q5656583-1.jpg",
+    "images/achilata-q5656583/achilata-q5656583-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5656583",
+    "themealdb": null
+  }
+}

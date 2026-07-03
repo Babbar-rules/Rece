@@ -1,0 +1,21 @@
+{
+  "id": "Q5729169",
+  "name": "Bissara",
+  "description": "soup",
+  "nationality": [
+    "Egypt",
+    "Ancient Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bissara-q5729169/bissara-q5729169-1.jpg",
+    "images/bissara-q5729169/bissara-q5729169-2.jpg",
+    "images/bissara-q5729169/bissara-q5729169-3.jpg",
+    "images/bissara-q5729169/bissara-q5729169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5729169",
+    "themealdb": null
+  }
+}

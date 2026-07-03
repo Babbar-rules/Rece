@@ -1,0 +1,20 @@
+{
+  "id": "Q5647753",
+  "name": "haneeth",
+  "description": "slow-roasted lamb dish from the Arabian Peninsula",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/haneeth-q5647753/haneeth-q5647753-1.jpg",
+    "images/haneeth-q5647753/haneeth-q5647753-2.jpg",
+    "images/haneeth-q5647753/haneeth-q5647753-3.jpg",
+    "images/haneeth-q5647753/haneeth-q5647753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5647753",
+    "themealdb": null
+  }
+}

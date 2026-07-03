@@ -1,0 +1,20 @@
+{
+  "id": "Q565715",
+  "name": "Reibekuchen",
+  "description": "German potato pancake",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/reibekuchen-q565715/reibekuchen-q565715-1.jpg",
+    "images/reibekuchen-q565715/reibekuchen-q565715-2.jpg",
+    "images/reibekuchen-q565715/reibekuchen-q565715-3.jpg",
+    "images/reibekuchen-q565715/reibekuchen-q565715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q565715",
+    "themealdb": null
+  }
+}

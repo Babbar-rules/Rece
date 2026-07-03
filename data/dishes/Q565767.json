@@ -1,0 +1,18 @@
+{
+  "id": "Q565767",
+  "name": "ragout",
+  "description": "main-dish stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ragout-q565767/ragout-q565767-1.jpg",
+    "images/ragout-q565767/ragout-q565767-2.jpg",
+    "images/ragout-q565767/ragout-q565767-3.jpg",
+    "images/ragout-q565767/ragout-q565767-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q565767",
+    "themealdb": null
+  }
+}

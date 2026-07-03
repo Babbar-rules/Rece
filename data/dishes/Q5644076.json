@@ -1,0 +1,20 @@
+{
+  "id": "Q5644076",
+  "name": "tortilla soup",
+  "description": "traditional Mexican soup",
+  "nationality": [],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/tortilla-soup-q5644076/tortilla-soup-q5644076-1.jpg",
+    "images/tortilla-soup-q5644076/tortilla-soup-q5644076-2.jpg",
+    "images/tortilla-soup-q5644076/tortilla-soup-q5644076-3.jpg",
+    "images/tortilla-soup-q5644076/tortilla-soup-q5644076-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5644076",
+    "themealdb": null
+  }
+}

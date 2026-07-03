@@ -1,0 +1,18 @@
+{
+  "id": "Q56408977",
+  "name": "Dalmatian ham",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dalmatian-ham-q56408977/dalmatian-ham-q56408977-1.jpg",
+    "images/dalmatian-ham-q56408977/dalmatian-ham-q56408977-2.jpg",
+    "images/dalmatian-ham-q56408977/dalmatian-ham-q56408977-3.jpg",
+    "images/dalmatian-ham-q56408977/dalmatian-ham-q56408977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56408977",
+    "themealdb": null
+  }
+}

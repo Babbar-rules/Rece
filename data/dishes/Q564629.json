@@ -1,0 +1,18 @@
+{
+  "id": "Q564629",
+  "name": "Anna's torte",
+  "description": "chocolate torte",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/annas-torte-q564629/annas-torte-q564629-1.jpg",
+    "images/annas-torte-q564629/annas-torte-q564629-2.jpg",
+    "images/annas-torte-q564629/annas-torte-q564629-3.jpg",
+    "images/annas-torte-q564629/annas-torte-q564629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564629",
+    "themealdb": null
+  }
+}

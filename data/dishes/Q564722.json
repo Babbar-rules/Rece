@@ -1,0 +1,20 @@
+{
+  "id": "Q564722",
+  "name": "Charqui",
+  "description": "",
+  "nationality": [
+    "South America"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/charqui-q564722/charqui-q564722-1.jpg",
+    "images/charqui-q564722/charqui-q564722-2.jpg",
+    "images/charqui-q564722/charqui-q564722-3.png",
+    "images/charqui-q564722/charqui-q564722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564722",
+    "themealdb": null
+  }
+}

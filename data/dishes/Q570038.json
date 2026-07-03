@@ -1,0 +1,64 @@
+{
+  "id": "Q570038",
+  "name": "Shopska salad",
+  "description": "cold salad found all through Southeastern Europe",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/shopska-salad-q570038/shopska-salad-q570038-1.jpg",
+    "images/shopska-salad-q570038/shopska-salad-q570038-2.jpg",
+    "images/shopska-salad-q570038/shopska-salad-q570038-3.jpg",
+    "images/shopska-salad-q570038/shopska-salad-q570038-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53491",
+    "category": "Vegetarian",
+    "area": null,
+    "instructions": "Combine vegetables in a bowl and sprinkle salt on top. Let it stand for 5 minutes. Add the oil. Top with feta and parsley. Serve.",
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "measure": "1 sliced"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "3 Cups"
+      },
+      {
+        "ingredient": "Red Onions",
+        "measure": "1/4"
+      },
+      {
+        "ingredient": "Green Pepper",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Feta",
+        "measure": "1/3 cup"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "2 tbs chopped"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/bqx8mc1782684286.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q570038",
+    "themealdb": "53491"
+  }
+}

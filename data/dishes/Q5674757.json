@@ -1,0 +1,22 @@
+{
+  "id": "Q5674757",
+  "name": "Shirazi salad",
+  "description": "Iranian salad",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [
+    "Iranian cuisine"
+  ],
+  "images": [
+    "images/shirazi-salad-q5674757/shirazi-salad-q5674757-1.jpg",
+    "images/shirazi-salad-q5674757/shirazi-salad-q5674757-2.jpg",
+    "images/shirazi-salad-q5674757/shirazi-salad-q5674757-3.jpg",
+    "images/shirazi-salad-q5674757/shirazi-salad-q5674757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5674757",
+    "themealdb": null
+  }
+}

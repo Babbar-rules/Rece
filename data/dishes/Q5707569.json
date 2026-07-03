@@ -1,0 +1,20 @@
+{
+  "id": "Q5707569",
+  "name": "Hellimli",
+  "description": "Foodstuff",
+  "nationality": [
+    "Cyprus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hellimli-q5707569/hellimli-q5707569-1.jpg",
+    "images/hellimli-q5707569/hellimli-q5707569-2.jpg",
+    "images/hellimli-q5707569/hellimli-q5707569-3.jpg",
+    "images/hellimli-q5707569/hellimli-q5707569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5707569",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q56493317",
+  "name": "Argentine pizza",
+  "description": "variety of pizzas originated in Buenos Aires, Argentina",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Argentine cuisine"
+  ],
+  "images": [
+    "images/argentine-pizza-q56493317/argentine-pizza-q56493317-1.png",
+    "images/argentine-pizza-q56493317/argentine-pizza-q56493317-2.jpg",
+    "images/argentine-pizza-q56493317/argentine-pizza-q56493317-3.png",
+    "images/argentine-pizza-q56493317/argentine-pizza-q56493317-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56493317",
+    "themealdb": null
+  }
+}

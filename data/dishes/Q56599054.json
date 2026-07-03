@@ -1,0 +1,18 @@
+{
+  "id": "Q56599054",
+  "name": "Beschuit",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beschuit-q56599054/beschuit-q56599054-1.jpg",
+    "images/beschuit-q56599054/beschuit-q56599054-2.jpg",
+    "images/beschuit-q56599054/beschuit-q56599054-3.jpg",
+    "images/beschuit-q56599054/beschuit-q56599054-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56599054",
+    "themealdb": null
+  }
+}

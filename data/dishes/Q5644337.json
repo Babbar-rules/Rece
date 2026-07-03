@@ -1,0 +1,20 @@
+{
+  "id": "Q5644337",
+  "name": "Hamburger Helper",
+  "description": "packaged pasta entrees with a wide variety of flavors",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/hamburger-helper-q5644337/hamburger-helper-q5644337-1.jpg",
+    "images/hamburger-helper-q5644337/hamburger-helper-q5644337-2.jpg",
+    "images/hamburger-helper-q5644337/hamburger-helper-q5644337-3.jpg",
+    "images/hamburger-helper-q5644337/hamburger-helper-q5644337-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5644337",
+    "themealdb": null
+  }
+}

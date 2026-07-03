@@ -1,0 +1,18 @@
+{
+  "id": "Q56582296",
+  "name": "waffle fries",
+  "description": "crinkle-cut french fries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/waffle-fries-q56582296/waffle-fries-q56582296-1.jpg",
+    "images/waffle-fries-q56582296/waffle-fries-q56582296-2.jpg",
+    "images/waffle-fries-q56582296/waffle-fries-q56582296-3.jpg",
+    "images/waffle-fries-q56582296/waffle-fries-q56582296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56582296",
+    "themealdb": null
+  }
+}

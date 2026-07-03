@@ -1,0 +1,20 @@
+{
+  "id": "Q564976",
+  "name": "Königsberger Klopse",
+  "description": "East Prussian dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/konigsberger-klopse-q564976/konigsberger-klopse-q564976-1.jpg",
+    "images/konigsberger-klopse-q564976/konigsberger-klopse-q564976-2.jpg",
+    "images/konigsberger-klopse-q564976/konigsberger-klopse-q564976-3.jpg",
+    "images/konigsberger-klopse-q564976/konigsberger-klopse-q564976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564976",
+    "themealdb": null
+  }
+}

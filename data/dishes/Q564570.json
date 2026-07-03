@@ -1,0 +1,18 @@
+{
+  "id": "Q564570",
+  "name": "chả lụa",
+  "description": "common type of sausage in Vietnamese cuisine, made of pork and wrapped in banana leaves",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cha-lua-q564570/cha-lua-q564570-1.jpg",
+    "images/cha-lua-q564570/cha-lua-q564570-2.jpg",
+    "images/cha-lua-q564570/cha-lua-q564570-3.jpg",
+    "images/cha-lua-q564570/cha-lua-q564570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q564570",
+    "themealdb": null
+  }
+}

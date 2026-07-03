@@ -1,0 +1,20 @@
+{
+  "id": "Q5696884",
+  "name": "sarapatel",
+  "description": "Portuguese ingredient mix",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sarapatel-q5696884/sarapatel-q5696884-1.jpg",
+    "images/sarapatel-q5696884/sarapatel-q5696884-2.jpg",
+    "images/sarapatel-q5696884/sarapatel-q5696884-3.jpg",
+    "images/sarapatel-q5696884/sarapatel-q5696884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5696884",
+    "themealdb": null
+  }
+}

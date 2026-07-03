@@ -1,0 +1,18 @@
+{
+  "id": "Q56611571",
+  "name": "miso katsudon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-katsudon-q56611571/miso-katsudon-q56611571-1.jpg",
+    "images/miso-katsudon-q56611571/miso-katsudon-q56611571-2.jpg",
+    "images/miso-katsudon-q56611571/miso-katsudon-q56611571-3.jpg",
+    "images/miso-katsudon-q56611571/miso-katsudon-q56611571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56611571",
+    "themealdb": null
+  }
+}

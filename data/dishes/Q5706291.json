@@ -1,0 +1,18 @@
+{
+  "id": "Q5706291",
+  "name": "Arroz atollado",
+  "description": "",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-atollado-q5706291/arroz-atollado-q5706291-1.jpg",
+    "images/arroz-atollado-q5706291/arroz-atollado-q5706291-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5706291",
+    "themealdb": null
+  }
+}

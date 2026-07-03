@@ -1,0 +1,20 @@
+{
+  "id": "Q57264472",
+  "name": "Spanish Madeleine",
+  "description": "traditional cake from Spain in a paper mold",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spanish-madeleine-q57264472/spanish-madeleine-q57264472-1.jpg",
+    "images/spanish-madeleine-q57264472/spanish-madeleine-q57264472-2.jpg",
+    "images/spanish-madeleine-q57264472/spanish-madeleine-q57264472-3.jpg",
+    "images/spanish-madeleine-q57264472/spanish-madeleine-q57264472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57264472",
+    "themealdb": null
+  }
+}

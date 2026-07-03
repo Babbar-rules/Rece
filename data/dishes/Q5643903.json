@@ -1,0 +1,20 @@
+{
+  "id": "Q5643903",
+  "name": "ham salad",
+  "description": "anglo-american dish",
+  "nationality": [
+    "North America"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-salad-q5643903/ham-salad-q5643903-1.jpg",
+    "images/ham-salad-q5643903/ham-salad-q5643903-2.jpg",
+    "images/ham-salad-q5643903/ham-salad-q5643903-3.jpg",
+    "images/ham-salad-q5643903/ham-salad-q5643903-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5643903",
+    "themealdb": null
+  }
+}

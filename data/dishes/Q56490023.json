@@ -1,0 +1,18 @@
+{
+  "id": "Q56490023",
+  "name": "sugar-free candy",
+  "description": "candy made with a sugar substitute",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugar-free-candy-q56490023/sugar-free-candy-q56490023-1.jpg",
+    "images/sugar-free-candy-q56490023/sugar-free-candy-q56490023-2.jpg",
+    "images/sugar-free-candy-q56490023/sugar-free-candy-q56490023-3.jpg",
+    "images/sugar-free-candy-q56490023/sugar-free-candy-q56490023-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56490023",
+    "themealdb": null
+  }
+}

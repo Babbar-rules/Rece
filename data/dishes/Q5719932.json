@@ -1,0 +1,18 @@
+{
+  "id": "Q5719932",
+  "name": "gosh-e fil",
+  "description": "Afghan and Iranian doughnut",
+  "nationality": [
+    "Afghanistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gosh-e-fil-q5719932/gosh-e-fil-q5719932-1.jpg",
+    "images/gosh-e-fil-q5719932/gosh-e-fil-q5719932-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5719932",
+    "themealdb": null
+  }
+}

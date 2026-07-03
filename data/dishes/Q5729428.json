@@ -1,0 +1,20 @@
+{
+  "id": "Q5729428",
+  "name": "Borracho (cake)",
+  "description": "Cakes of Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/borracho-cake-q5729428/borracho-cake-q5729428-1.png",
+    "images/borracho-cake-q5729428/borracho-cake-q5729428-2.png",
+    "images/borracho-cake-q5729428/borracho-cake-q5729428-3.jpg",
+    "images/borracho-cake-q5729428/borracho-cake-q5729428-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5729428",
+    "themealdb": null
+  }
+}

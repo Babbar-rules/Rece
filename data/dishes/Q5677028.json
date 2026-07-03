@@ -1,0 +1,20 @@
+{
+  "id": "Q5677028",
+  "name": "rice with hare",
+  "description": "typical dish of traditional Castilian cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Castilian cuisine"
+  ],
+  "images": [
+    "images/rice-with-hare-q5677028/rice-with-hare-q5677028-1.jpg",
+    "images/rice-with-hare-q5677028/rice-with-hare-q5677028-2.jpg",
+    "images/rice-with-hare-q5677028/rice-with-hare-q5677028-3.jpg",
+    "images/rice-with-hare-q5677028/rice-with-hare-q5677028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5677028",
+    "themealdb": null
+  }
+}

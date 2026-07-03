@@ -1,0 +1,18 @@
+{
+  "id": "Q57328687",
+  "name": "grilled tomato",
+  "description": "tomato cooked by grilling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-tomato-q57328687/grilled-tomato-q57328687-1.jpg",
+    "images/grilled-tomato-q57328687/grilled-tomato-q57328687-2.jpg",
+    "images/grilled-tomato-q57328687/grilled-tomato-q57328687-3.jpg",
+    "images/grilled-tomato-q57328687/grilled-tomato-q57328687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57328687",
+    "themealdb": null
+  }
+}

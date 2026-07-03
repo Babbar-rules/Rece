@@ -1,0 +1,22 @@
+{
+  "id": "Q5731577",
+  "name": "Bollo maimón",
+  "description": "Typical sweet from the Spanish provinces of Salamanca, Zamora and León.",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Sephardic Jewish cuisine",
+    "Castilian-Leonese cuisine"
+  ],
+  "images": [
+    "images/bollo-maimon-q5731577/bollo-maimon-q5731577-1.jpg",
+    "images/bollo-maimon-q5731577/bollo-maimon-q5731577-2.jpg",
+    "images/bollo-maimon-q5731577/bollo-maimon-q5731577-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5731577",
+    "themealdb": null
+  }
+}

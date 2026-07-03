@@ -1,0 +1,20 @@
+{
+  "id": "Q5643056",
+  "name": "Hallongrotta",
+  "description": "cookie with raspberry jam filling",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hallongrotta-q5643056/hallongrotta-q5643056-1.jpg",
+    "images/hallongrotta-q5643056/hallongrotta-q5643056-2.jpg",
+    "images/hallongrotta-q5643056/hallongrotta-q5643056-3.jpg",
+    "images/hallongrotta-q5643056/hallongrotta-q5643056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5643056",
+    "themealdb": null
+  }
+}

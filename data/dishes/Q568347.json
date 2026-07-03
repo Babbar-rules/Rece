@@ -1,0 +1,20 @@
+{
+  "id": "Q568347",
+  "name": "anpan",
+  "description": "sweet bun filled with red bean paste, white beans, sesame, or chestnut",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anpan-q568347/anpan-q568347-1.jpg",
+    "images/anpan-q568347/anpan-q568347-2.jpg",
+    "images/anpan-q568347/anpan-q568347-3.jpg",
+    "images/anpan-q568347/anpan-q568347-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q568347",
+    "themealdb": null
+  }
+}

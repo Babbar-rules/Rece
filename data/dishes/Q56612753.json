@@ -1,0 +1,18 @@
+{
+  "id": "Q56612753",
+  "name": "Swiss meringue",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/swiss-meringue-q56612753/swiss-meringue-q56612753-1.jpg",
+    "images/swiss-meringue-q56612753/swiss-meringue-q56612753-2.jpg",
+    "images/swiss-meringue-q56612753/swiss-meringue-q56612753-3.jpg",
+    "images/swiss-meringue-q56612753/swiss-meringue-q56612753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56612753",
+    "themealdb": null
+  }
+}

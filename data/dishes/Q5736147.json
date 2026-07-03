@@ -1,0 +1,20 @@
+{
+  "id": "Q5736147",
+  "name": "butifarra",
+  "description": "Peruvian ham sandwich",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/butifarra-q5736147/butifarra-q5736147-1.jpg",
+    "images/butifarra-q5736147/butifarra-q5736147-2.jpg",
+    "images/butifarra-q5736147/butifarra-q5736147-3.jpg",
+    "images/butifarra-q5736147/butifarra-q5736147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5736147",
+    "themealdb": null
+  }
+}

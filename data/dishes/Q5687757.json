@@ -1,0 +1,18 @@
+{
+  "id": "Q5687757",
+  "name": "palak paneer",
+  "description": "Indian dish with cheese",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/palak-paneer-q5687757/palak-paneer-q5687757-1.jpg",
+    "images/palak-paneer-q5687757/palak-paneer-q5687757-2.jpg",
+    "images/palak-paneer-q5687757/palak-paneer-q5687757-3.jpg",
+    "images/palak-paneer-q5687757/palak-paneer-q5687757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5687757",
+    "themealdb": null
+  }
+}

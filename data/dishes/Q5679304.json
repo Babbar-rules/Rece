@@ -1,0 +1,20 @@
+{
+  "id": "Q5679304",
+  "name": "haslet",
+  "description": "refers to a pork meatloaf",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/haslet-q5679304/haslet-q5679304-1.jpg",
+    "images/haslet-q5679304/haslet-q5679304-2.jpg",
+    "images/haslet-q5679304/haslet-q5679304-3.jpg",
+    "images/haslet-q5679304/haslet-q5679304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5679304",
+    "themealdb": null
+  }
+}

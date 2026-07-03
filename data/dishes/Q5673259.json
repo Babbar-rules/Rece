@@ -1,0 +1,18 @@
+{
+  "id": "Q5673259",
+  "name": "potaje de vigilia",
+  "description": "easter plate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potaje-de-vigilia-q5673259/potaje-de-vigilia-q5673259-1.jpg",
+    "images/potaje-de-vigilia-q5673259/potaje-de-vigilia-q5673259-2.jpg",
+    "images/potaje-de-vigilia-q5673259/potaje-de-vigilia-q5673259-3.jpg",
+    "images/potaje-de-vigilia-q5673259/potaje-de-vigilia-q5673259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5673259",
+    "themealdb": null
+  }
+}

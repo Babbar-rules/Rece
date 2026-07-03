@@ -1,0 +1,20 @@
+{
+  "id": "Q5721298",
+  "name": "Bartolillos",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/bartolillos-q5721298/bartolillos-q5721298-1.jpg",
+    "images/bartolillos-q5721298/bartolillos-q5721298-2.jpg",
+    "images/bartolillos-q5721298/bartolillos-q5721298-3.jpg",
+    "images/bartolillos-q5721298/bartolillos-q5721298-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5721298",
+    "themealdb": null
+  }
+}

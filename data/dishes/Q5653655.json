@@ -1,0 +1,18 @@
+{
+  "id": "Q5653655",
+  "name": "Rosca chonchina",
+  "description": "Chilean sweet",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosca-chonchina-q5653655/rosca-chonchina-q5653655-1.jpg",
+    "images/rosca-chonchina-q5653655/rosca-chonchina-q5653655-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5653655",
+    "themealdb": null
+  }
+}

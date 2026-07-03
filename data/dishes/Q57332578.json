@@ -1,0 +1,22 @@
+{
+  "id": "Q57332578",
+  "name": "tarator",
+  "description": "cold soup",
+  "nationality": [],
+  "region_cuisine": [
+    "Macedonian cuisine",
+    "Balkan cuisine",
+    "Bulgarian cuisine"
+  ],
+  "images": [
+    "images/tarator-q57332578/tarator-q57332578-1.jpg",
+    "images/tarator-q57332578/tarator-q57332578-2.jpg",
+    "images/tarator-q57332578/tarator-q57332578-3.jpg",
+    "images/tarator-q57332578/tarator-q57332578-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q57332578",
+    "themealdb": null
+  }
+}

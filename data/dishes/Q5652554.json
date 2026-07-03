@@ -1,0 +1,20 @@
+{
+  "id": "Q5652554",
+  "name": "Happy Cake",
+  "description": "Hawaiian fruit cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/happy-cake-q5652554/happy-cake-q5652554-1.jpg",
+    "images/happy-cake-q5652554/happy-cake-q5652554-2.jpg",
+    "images/happy-cake-q5652554/happy-cake-q5652554-3.jpg",
+    "images/happy-cake-q5652554/happy-cake-q5652554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5652554",
+    "themealdb": null
+  }
+}

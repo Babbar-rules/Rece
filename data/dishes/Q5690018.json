@@ -1,0 +1,20 @@
+{
+  "id": "Q5690018",
+  "name": "roujiamo",
+  "description": "type of Chinese street food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roujiamo-q5690018/roujiamo-q5690018-1.jpg",
+    "images/roujiamo-q5690018/roujiamo-q5690018-2.jpg",
+    "images/roujiamo-q5690018/roujiamo-q5690018-3.jpg",
+    "images/roujiamo-q5690018/roujiamo-q5690018-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5690018",
+    "themealdb": null
+  }
+}

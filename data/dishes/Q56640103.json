@@ -1,0 +1,18 @@
+{
+  "id": "Q56640103",
+  "name": "McDonald's tsukimi burgers",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcdonalds-tsukimi-burgers-q56640103/mcdonalds-tsukimi-burgers-q56640103-1.jpg",
+    "images/mcdonalds-tsukimi-burgers-q56640103/mcdonalds-tsukimi-burgers-q56640103-2.jpg",
+    "images/mcdonalds-tsukimi-burgers-q56640103/mcdonalds-tsukimi-burgers-q56640103-3.jpg",
+    "images/mcdonalds-tsukimi-burgers-q56640103/mcdonalds-tsukimi-burgers-q56640103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56640103",
+    "themealdb": null
+  }
+}

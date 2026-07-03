@@ -1,0 +1,19 @@
+{
+  "id": "Q5731555",
+  "name": "Bolla de chicharrones",
+  "description": "Sweet made with chicharrones",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bolla-de-chicharrones-q5731555/bolla-de-chicharrones-q5731555-1.jpg",
+    "images/bolla-de-chicharrones-q5731555/bolla-de-chicharrones-q5731555-2.jpg",
+    "images/bolla-de-chicharrones-q5731555/bolla-de-chicharrones-q5731555-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5731555",
+    "themealdb": null
+  }
+}

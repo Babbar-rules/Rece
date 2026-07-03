@@ -1,0 +1,20 @@
+{
+  "id": "Q56411177",
+  "name": "Plombir",
+  "description": "ice cream from USSR",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/plombir-q56411177/plombir-q56411177-1.jpg",
+    "images/plombir-q56411177/plombir-q56411177-2.jpg",
+    "images/plombir-q56411177/plombir-q56411177-3.jpg",
+    "images/plombir-q56411177/plombir-q56411177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56411177",
+    "themealdb": null
+  }
+}

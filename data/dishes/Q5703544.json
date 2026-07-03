@@ -1,0 +1,20 @@
+{
+  "id": "Q5703544",
+  "name": "Egg-stuffed arepa",
+  "description": "Arepa, typical of the Caribbean Region of Colombia",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-stuffed-arepa-q5703544/egg-stuffed-arepa-q5703544-1.jpg",
+    "images/egg-stuffed-arepa-q5703544/egg-stuffed-arepa-q5703544-2.jpg",
+    "images/egg-stuffed-arepa-q5703544/egg-stuffed-arepa-q5703544-3.jpg",
+    "images/egg-stuffed-arepa-q5703544/egg-stuffed-arepa-q5703544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5703544",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q56612741",
+  "name": "French meringue",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/french-meringue-q56612741/french-meringue-q56612741-1.jpg",
+    "images/french-meringue-q56612741/french-meringue-q56612741-2.jpg",
+    "images/french-meringue-q56612741/french-meringue-q56612741-3.jpg",
+    "images/french-meringue-q56612741/french-meringue-q56612741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56612741",
+    "themealdb": null
+  }
+}

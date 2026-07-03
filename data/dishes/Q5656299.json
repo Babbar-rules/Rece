@@ -1,0 +1,20 @@
+{
+  "id": "Q5656299",
+  "name": "Ras malai",
+  "description": "Bengali sweet made with Indian cheese",
+  "nationality": [
+    "Bengal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ras-malai-q5656299/ras-malai-q5656299-1.jpg",
+    "images/ras-malai-q5656299/ras-malai-q5656299-2.jpg",
+    "images/ras-malai-q5656299/ras-malai-q5656299-3.jpg",
+    "images/ras-malai-q5656299/ras-malai-q5656299-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5656299",
+    "themealdb": null
+  }
+}

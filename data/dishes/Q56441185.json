@@ -1,0 +1,18 @@
+{
+  "id": "Q56441185",
+  "name": "Agnes Bernauer torte",
+  "description": "Bavarian layer cake",
+  "nationality": [
+    "Bavaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/agnes-bernauer-torte-q56441185/agnes-bernauer-torte-q56441185-1.jpg",
+    "images/agnes-bernauer-torte-q56441185/agnes-bernauer-torte-q56441185-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56441185",
+    "themealdb": null
+  }
+}

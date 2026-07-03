@@ -1,0 +1,18 @@
+{
+  "id": "Q5688812",
+  "name": "huevos a la flamenca",
+  "description": "egg dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/huevos-a-la-flamenca-q5688812/huevos-a-la-flamenca-q5688812-1.png",
+    "images/huevos-a-la-flamenca-q5688812/huevos-a-la-flamenca-q5688812-2.jpg",
+    "images/huevos-a-la-flamenca-q5688812/huevos-a-la-flamenca-q5688812-3.jpg",
+    "images/huevos-a-la-flamenca-q5688812/huevos-a-la-flamenca-q5688812-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5688812",
+    "themealdb": null
+  }
+}
