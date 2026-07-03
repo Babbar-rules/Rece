@@ -1,0 +1,18 @@
+{
+  "id": "Q3436828",
+  "name": "cube steak",
+  "description": "cut of beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cube-steak-q3436828/cube-steak-q3436828-1.jpg",
+    "images/cube-steak-q3436828/cube-steak-q3436828-2.jpg",
+    "images/cube-steak-q3436828/cube-steak-q3436828-3.jpg",
+    "images/cube-steak-q3436828/cube-steak-q3436828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3436828",
+    "themealdb": null
+  }
+}

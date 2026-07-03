@@ -1,0 +1,18 @@
+{
+  "id": "Q3393853",
+  "name": "'Ota 'ika",
+  "description": "Polynesian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ota-ika-q3393853/ota-ika-q3393853-1.jpg",
+    "images/ota-ika-q3393853/ota-ika-q3393853-2.jpg",
+    "images/ota-ika-q3393853/ota-ika-q3393853-3.jpg",
+    "images/ota-ika-q3393853/ota-ika-q3393853-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3393853",
+    "themealdb": null
+  }
+}

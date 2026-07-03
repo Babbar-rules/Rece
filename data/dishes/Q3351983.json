@@ -1,0 +1,18 @@
+{
+  "id": "Q3351983",
+  "name": "Omelette de la mère Poulard",
+  "description": "French egg dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/omelette-de-la-mere-poulard-q3351983/omelette-de-la-mere-poulard-q3351983-1.jpg",
+    "images/omelette-de-la-mere-poulard-q3351983/omelette-de-la-mere-poulard-q3351983-2.jpg",
+    "images/omelette-de-la-mere-poulard-q3351983/omelette-de-la-mere-poulard-q3351983-3.jpg",
+    "images/omelette-de-la-mere-poulard-q3351983/omelette-de-la-mere-poulard-q3351983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3351983",
+    "themealdb": null
+  }
+}

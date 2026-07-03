@@ -1,0 +1,20 @@
+{
+  "id": "Q3360569",
+  "name": "pain brié",
+  "description": "traditional Normandy bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pain-brie-q3360569/pain-brie-q3360569-1.jpg",
+    "images/pain-brie-q3360569/pain-brie-q3360569-2.jpg",
+    "images/pain-brie-q3360569/pain-brie-q3360569-3.jpg",
+    "images/pain-brie-q3360569/pain-brie-q3360569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360569",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "Q3412448",
+  "name": "shawarma",
+  "description": "Levantine meat dish inspired by döner kebab",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Arab cuisine"
+  ],
+  "images": [
+    "images/shawarma-q3412448/shawarma-q3412448-1.jpg",
+    "images/shawarma-q3412448/shawarma-q3412448-2.jpg",
+    "images/shawarma-q3412448/shawarma-q3412448-3.jpg",
+    "images/shawarma-q3412448/shawarma-q3412448-4.png"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53028",
+    "category": "Chicken",
+    "area": "Egyptian",
+    "instructions": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Thighs",
+        "measure": "1 kg"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Cardamom",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Cayenne Pepper",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Greek Yogurt",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "Splash"
+      },
+      {
+        "ingredient": "Lettuce",
+        "measure": "Sliced"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "Sliced"
+      },
+      {
+        "ingredient": "Pita Bread",
+        "measure": "6"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=3lxUIeKDgic",
+    "thumb": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3412448",
+    "themealdb": "53028"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q3360600",
+  "name": "Rewena bread",
+  "description": "Type of sourdough bread from New Zealand",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rewena-bread-q3360600/rewena-bread-q3360600-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360600",
+    "themealdb": null
+  }
+}

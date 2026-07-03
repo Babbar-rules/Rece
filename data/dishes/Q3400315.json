@@ -1,0 +1,20 @@
+{
+  "id": "Q3400315",
+  "name": "chicken marsala",
+  "description": "Italian-American dish of chicken, mushrooms, and Marsala wine",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-marsala-q3400315/chicken-marsala-q3400315-1.jpg",
+    "images/chicken-marsala-q3400315/chicken-marsala-q3400315-2.jpg",
+    "images/chicken-marsala-q3400315/chicken-marsala-q3400315-3.jpg",
+    "images/chicken-marsala-q3400315/chicken-marsala-q3400315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400315",
+    "themealdb": null
+  }
+}

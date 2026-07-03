@@ -1,0 +1,20 @@
+{
+  "id": "Q3349987",
+  "name": "ojja",
+  "description": "Tunisian dish made with eggs and vegetables",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ojja-q3349987/ojja-q3349987-1.jpg",
+    "images/ojja-q3349987/ojja-q3349987-2.png",
+    "images/ojja-q3349987/ojja-q3349987-3.jpg",
+    "images/ojja-q3349987/ojja-q3349987-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3349987",
+    "themealdb": null
+  }
+}

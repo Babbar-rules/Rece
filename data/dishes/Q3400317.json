@@ -1,0 +1,24 @@
+{
+  "id": "Q3400317",
+  "name": "chicken moambe",
+  "description": "savoury chicken dish from central Africa",
+  "nationality": [
+    "Angola",
+    "Republic of the Congo",
+    "Democratic Republic of the Congo"
+  ],
+  "region_cuisine": [
+    "Central African cuisine"
+  ],
+  "images": [
+    "images/chicken-moambe-q3400317/chicken-moambe-q3400317-1.jpg",
+    "images/chicken-moambe-q3400317/chicken-moambe-q3400317-2.jpg",
+    "images/chicken-moambe-q3400317/chicken-moambe-q3400317-3.jpg",
+    "images/chicken-moambe-q3400317/chicken-moambe-q3400317-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400317",
+    "themealdb": null
+  }
+}

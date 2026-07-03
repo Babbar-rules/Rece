@@ -1,0 +1,18 @@
+{
+  "id": "Q3344838",
+  "name": "The Nougat of Montélimar",
+  "description": "type of French confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/the-nougat-of-montelimar-q3344838/the-nougat-of-montelimar-q3344838-1.jpg",
+    "images/the-nougat-of-montelimar-q3344838/the-nougat-of-montelimar-q3344838-2.jpg",
+    "images/the-nougat-of-montelimar-q3344838/the-nougat-of-montelimar-q3344838-3.jpg",
+    "images/the-nougat-of-montelimar-q3344838/the-nougat-of-montelimar-q3344838-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3344838",
+    "themealdb": null
+  }
+}

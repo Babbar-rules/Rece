@@ -1,0 +1,18 @@
+{
+  "id": "Q3472077",
+  "name": "Denver sandwich",
+  "description": "food dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/denver-sandwich-q3472077/denver-sandwich-q3472077-1.jpg",
+    "images/denver-sandwich-q3472077/denver-sandwich-q3472077-2.jpg",
+    "images/denver-sandwich-q3472077/denver-sandwich-q3472077-3.jpg",
+    "images/denver-sandwich-q3472077/denver-sandwich-q3472077-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3472077",
+    "themealdb": null
+  }
+}

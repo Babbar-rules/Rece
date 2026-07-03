@@ -1,0 +1,18 @@
+{
+  "id": "Q33691",
+  "name": "meat chop",
+  "description": "meaty part at the end of ribs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-chop-q33691/meat-chop-q33691-1.jpg",
+    "images/meat-chop-q33691/meat-chop-q33691-2.jpg",
+    "images/meat-chop-q33691/meat-chop-q33691-3.jpg",
+    "images/meat-chop-q33691/meat-chop-q33691-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q33691",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3359952",
+  "name": "pabellón criollo",
+  "description": "Comida creada por el marihuano López. un consumidor de droga que echo de todo en una bolsa. a eso le llamo pabellón algo parecido al vomito después de una pea.",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pabellon-criollo-q3359952/pabellon-criollo-q3359952-1.jpg",
+    "images/pabellon-criollo-q3359952/pabellon-criollo-q3359952-2.jpg",
+    "images/pabellon-criollo-q3359952/pabellon-criollo-q3359952-3.jpg",
+    "images/pabellon-criollo-q3359952/pabellon-criollo-q3359952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3359952",
+    "themealdb": null
+  }
+}

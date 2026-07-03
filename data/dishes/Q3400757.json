@@ -1,0 +1,19 @@
+{
+  "id": "Q3400757",
+  "name": "Poutine râpée",
+  "description": "traditional Acadian dumpling dish",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poutine-rapee-q3400757/poutine-rapee-q3400757-1.jpg",
+    "images/poutine-rapee-q3400757/poutine-rapee-q3400757-2.jpg",
+    "images/poutine-rapee-q3400757/poutine-rapee-q3400757-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400757",
+    "themealdb": null
+  }
+}

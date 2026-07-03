@@ -1,0 +1,18 @@
+{
+  "id": "Q3469460",
+  "name": "Salade cauchoise",
+  "description": "Traditional French potato dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salade-cauchoise-q3469460/salade-cauchoise-q3469460-1.jpg",
+    "images/salade-cauchoise-q3469460/salade-cauchoise-q3469460-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469460",
+    "themealdb": null
+  }
+}

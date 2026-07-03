@@ -1,0 +1,18 @@
+{
+  "id": "Q3441918",
+  "name": "Međimurska gibanica",
+  "description": "Croatian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meimurska-gibanica-q3441918/meimurska-gibanica-q3441918-1.jpg",
+    "images/meimurska-gibanica-q3441918/meimurska-gibanica-q3441918-2.jpg",
+    "images/meimurska-gibanica-q3441918/meimurska-gibanica-q3441918-3.jpg",
+    "images/meimurska-gibanica-q3441918/meimurska-gibanica-q3441918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3441918",
+    "themealdb": null
+  }
+}

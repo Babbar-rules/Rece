@@ -1,0 +1,20 @@
+{
+  "id": "Q3397139",
+  "name": "Pastrmajlija",
+  "description": "Macedonian type of pie with pieces of pastrima",
+  "nationality": [
+    "North Macedonia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastrmajlija-q3397139/pastrmajlija-q3397139-1.jpg",
+    "images/pastrmajlija-q3397139/pastrmajlija-q3397139-2.jpg",
+    "images/pastrmajlija-q3397139/pastrmajlija-q3397139-3.jpg",
+    "images/pastrmajlija-q3397139/pastrmajlija-q3397139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3397139",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q3360605",
+  "name": "party surprise loaf",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/party-surprise-loaf-q3360605/party-surprise-loaf-q3360605-1.jpg",
+    "images/party-surprise-loaf-q3360605/party-surprise-loaf-q3360605-2.jpg",
+    "images/party-surprise-loaf-q3360605/party-surprise-loaf-q3360605-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360605",
+    "themealdb": null
+  }
+}

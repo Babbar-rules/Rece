@@ -1,0 +1,17 @@
+{
+  "id": "Q3360448",
+  "name": "Pagnotta del Dittaino",
+  "description": "Italian sourdough bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pagnotta-del-dittaino-q3360448/pagnotta-del-dittaino-q3360448-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360448",
+    "themealdb": null
+  }
+}

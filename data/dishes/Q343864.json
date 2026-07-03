@@ -1,0 +1,28 @@
+{
+  "id": "Q343864",
+  "name": "Imam Bayıldı",
+  "description": "Turkish cold dish based on eggplants, onions and olive oil",
+  "nationality": [
+    "Turkey",
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [
+    "Macedonian cuisine",
+    "Albanian cuisine",
+    "Greek cuisine",
+    "Armenian cuisine",
+    "Bulgarian cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/imam-bayld-q343864/imam-bayld-q343864-1.jpg",
+    "images/imam-bayld-q343864/imam-bayld-q343864-2.jpg",
+    "images/imam-bayld-q343864/imam-bayld-q343864-3.jpg",
+    "images/imam-bayld-q343864/imam-bayld-q343864-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q343864",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3379588",
+  "name": "ziti",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ziti-q3379588/ziti-q3379588-1.jpg",
+    "images/ziti-q3379588/ziti-q3379588-2.png",
+    "images/ziti-q3379588/ziti-q3379588-3.jpg",
+    "images/ziti-q3379588/ziti-q3379588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3379588",
+    "themealdb": null
+  }
+}

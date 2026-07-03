@@ -1,0 +1,21 @@
+{
+  "id": "Q3447542",
+  "name": "Fusi",
+  "description": "type of pasta",
+  "nationality": [
+    "Slovenia",
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fusi-q3447542/fusi-q3447542-1.jpg",
+    "images/fusi-q3447542/fusi-q3447542-2.jpg",
+    "images/fusi-q3447542/fusi-q3447542-3.jpg",
+    "images/fusi-q3447542/fusi-q3447542-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3447542",
+    "themealdb": null
+  }
+}

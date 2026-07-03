@@ -1,0 +1,20 @@
+{
+  "id": "Q3341250",
+  "name": "bird's nest",
+  "description": "dish from Brussel",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/birds-nest-q3341250/birds-nest-q3341250-1.jpg",
+    "images/birds-nest-q3341250/birds-nest-q3341250-2.jpg",
+    "images/birds-nest-q3341250/birds-nest-q3341250-3.jpg",
+    "images/birds-nest-q3341250/birds-nest-q3341250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3341250",
+    "themealdb": null
+  }
+}

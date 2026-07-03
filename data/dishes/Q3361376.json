@@ -1,0 +1,18 @@
+{
+  "id": "Q3361376",
+  "name": "palet",
+  "description": "French pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/palet-q3361376/palet-q3361376-1.jpg",
+    "images/palet-q3361376/palet-q3361376-2.jpg",
+    "images/palet-q3361376/palet-q3361376-3.jpg",
+    "images/palet-q3361376/palet-q3361376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3361376",
+    "themealdb": null
+  }
+}

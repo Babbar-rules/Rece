@@ -1,0 +1,24 @@
+{
+  "id": "Q3351904",
+  "name": "egg butter",
+  "description": "mixture of butter and chopped hard boiled eggs, eaten in Finland and Estonia",
+  "nationality": [
+    "Finland",
+    "Estonia"
+  ],
+  "region_cuisine": [
+    "Estonian cuisine",
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/egg-butter-q3351904/egg-butter-q3351904-1.jpg",
+    "images/egg-butter-q3351904/egg-butter-q3351904-2.jpg",
+    "images/egg-butter-q3351904/egg-butter-q3351904-3.jpg",
+    "images/egg-butter-q3351904/egg-butter-q3351904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3351904",
+    "themealdb": null
+  }
+}

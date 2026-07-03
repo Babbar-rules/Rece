@@ -1,0 +1,20 @@
+{
+  "id": "Q3472079",
+  "name": "Italian beef",
+  "description": "sandwich, originating in Chicago, composed of thin slices of seasoned roast beef",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-beef-q3472079/italian-beef-q3472079-1.jpg",
+    "images/italian-beef-q3472079/italian-beef-q3472079-2.jpg",
+    "images/italian-beef-q3472079/italian-beef-q3472079-3.png",
+    "images/italian-beef-q3472079/italian-beef-q3472079-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3472079",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q3393785",
+  "name": "Poire à la Beaujolaise",
+  "description": "dessert",
+  "nationality": [
+    "Spain",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poire-a-la-beaujolaise-q3393785/poire-a-la-beaujolaise-q3393785-1.jpg",
+    "images/poire-a-la-beaujolaise-q3393785/poire-a-la-beaujolaise-q3393785-2.jpg",
+    "images/poire-a-la-beaujolaise-q3393785/poire-a-la-beaujolaise-q3393785-3.jpg",
+    "images/poire-a-la-beaujolaise-q3393785/poire-a-la-beaujolaise-q3393785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3393785",
+    "themealdb": null
+  }
+}

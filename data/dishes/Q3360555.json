@@ -1,0 +1,18 @@
+{
+  "id": "Q3360555",
+  "name": "sandwich loaf",
+  "description": "North American dish of a sandwich made of a horizontally sliced loaf of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sandwich-loaf-q3360555/sandwich-loaf-q3360555-1.jpg",
+    "images/sandwich-loaf-q3360555/sandwich-loaf-q3360555-2.jpg",
+    "images/sandwich-loaf-q3360555/sandwich-loaf-q3360555-3.jpg",
+    "images/sandwich-loaf-q3360555/sandwich-loaf-q3360555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360555",
+    "themealdb": null
+  }
+}

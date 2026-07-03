@@ -1,0 +1,20 @@
+{
+  "id": "Q3470936",
+  "name": "samsa",
+  "description": "pastry from Central Asia",
+  "nationality": [
+    "Central Asia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samsa-q3470936/samsa-q3470936-1.jpg",
+    "images/samsa-q3470936/samsa-q3470936-2.jpg",
+    "images/samsa-q3470936/samsa-q3470936-3.jpg",
+    "images/samsa-q3470936/samsa-q3470936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3470936",
+    "themealdb": null
+  }
+}

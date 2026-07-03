@@ -1,0 +1,20 @@
+{
+  "id": "Q3323829",
+  "name": "morcilla patatera",
+  "description": "Spanish blood sausage",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/morcilla-patatera-q3323829/morcilla-patatera-q3323829-1.jpg",
+    "images/morcilla-patatera-q3323829/morcilla-patatera-q3323829-2.jpg",
+    "images/morcilla-patatera-q3323829/morcilla-patatera-q3323829-3.jpg",
+    "images/morcilla-patatera-q3323829/morcilla-patatera-q3323829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3323829",
+    "themealdb": null
+  }
+}

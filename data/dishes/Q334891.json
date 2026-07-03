@@ -1,0 +1,20 @@
+{
+  "id": "Q334891",
+  "name": "joshpara",
+  "description": "Central Asian dumpling dish",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/joshpara-q334891/joshpara-q334891-1.jpg",
+    "images/joshpara-q334891/joshpara-q334891-2.jpg",
+    "images/joshpara-q334891/joshpara-q334891-3.jpg",
+    "images/joshpara-q334891/joshpara-q334891-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q334891",
+    "themealdb": null
+  }
+}

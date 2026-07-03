@@ -1,0 +1,20 @@
+{
+  "id": "Q3435353",
+  "name": "Tufahije",
+  "description": "Bosnian dessert",
+  "nationality": [
+    "Bosnia and Herzegovina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tufahije-q3435353/tufahije-q3435353-1.jpg",
+    "images/tufahije-q3435353/tufahije-q3435353-2.jpg",
+    "images/tufahije-q3435353/tufahije-q3435353-3.jpg",
+    "images/tufahije-q3435353/tufahije-q3435353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3435353",
+    "themealdb": null
+  }
+}

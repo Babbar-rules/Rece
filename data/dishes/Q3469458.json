@@ -1,0 +1,18 @@
+{
+  "id": "Q3469458",
+  "name": "composed salad",
+  "description": "salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/composed-salad-q3469458/composed-salad-q3469458-1.jpg",
+    "images/composed-salad-q3469458/composed-salad-q3469458-2.jpg",
+    "images/composed-salad-q3469458/composed-salad-q3469458-3.jpg",
+    "images/composed-salad-q3469458/composed-salad-q3469458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469458",
+    "themealdb": null
+  }
+}

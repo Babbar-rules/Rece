@@ -1,0 +1,21 @@
+{
+  "id": "Q3399210",
+  "name": "Garibaldi biscuit",
+  "description": "British biscuit consisting of currants squashed and sandwiched between two thin oblongs of biscuit dough before baking",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/garibaldi-biscuit-q3399210/garibaldi-biscuit-q3399210-1.jpg",
+    "images/garibaldi-biscuit-q3399210/garibaldi-biscuit-q3399210-2.jpg",
+    "images/garibaldi-biscuit-q3399210/garibaldi-biscuit-q3399210-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3399210",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3360595",
+  "name": "pain de campagne",
+  "description": "French risen bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pain-de-campagne-q3360595/pain-de-campagne-q3360595-1.jpg",
+    "images/pain-de-campagne-q3360595/pain-de-campagne-q3360595-2.jpg",
+    "images/pain-de-campagne-q3360595/pain-de-campagne-q3360595-3.jpg",
+    "images/pain-de-campagne-q3360595/pain-de-campagne-q3360595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360595",
+    "themealdb": null
+  }
+}

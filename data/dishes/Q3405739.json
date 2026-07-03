@@ -1,0 +1,18 @@
+{
+  "id": "Q3405739",
+  "name": "Wassail",
+  "description": "Hot mulled cider, ale or wine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wassail-q3405739/wassail-q3405739-1.jpg",
+    "images/wassail-q3405739/wassail-q3405739-2.jpg",
+    "images/wassail-q3405739/wassail-q3405739-3.jpg",
+    "images/wassail-q3405739/wassail-q3405739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3405739",
+    "themealdb": null
+  }
+}

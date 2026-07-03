@@ -1,0 +1,20 @@
+{
+  "id": "Q3400256",
+  "name": "poule au pot",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poule-au-pot-q3400256/poule-au-pot-q3400256-1.jpg",
+    "images/poule-au-pot-q3400256/poule-au-pot-q3400256-2.jpg",
+    "images/poule-au-pot-q3400256/poule-au-pot-q3400256-3.jpg",
+    "images/poule-au-pot-q3400256/poule-au-pot-q3400256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400256",
+    "themealdb": null
+  }
+}

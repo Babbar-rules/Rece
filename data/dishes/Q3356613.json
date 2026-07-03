@@ -1,0 +1,20 @@
+{
+  "id": "Q3356613",
+  "name": "layer cake",
+  "description": "cake made from stacked layers of cake held together by filling",
+  "nationality": [
+    "Europe"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/layer-cake-q3356613/layer-cake-q3356613-1.jpg",
+    "images/layer-cake-q3356613/layer-cake-q3356613-2.jpg",
+    "images/layer-cake-q3356613/layer-cake-q3356613-3.jpg",
+    "images/layer-cake-q3356613/layer-cake-q3356613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3356613",
+    "themealdb": null
+  }
+}

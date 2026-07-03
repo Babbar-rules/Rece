@@ -1,0 +1,18 @@
+{
+  "id": "Q3469468",
+  "name": "Salade landaise",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salade-landaise-q3469468/salade-landaise-q3469468-1.jpg",
+    "images/salade-landaise-q3469468/salade-landaise-q3469468-2.jpg",
+    "images/salade-landaise-q3469468/salade-landaise-q3469468-3.jpg",
+    "images/salade-landaise-q3469468/salade-landaise-q3469468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469468",
+    "themealdb": null
+  }
+}

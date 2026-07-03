@@ -1,0 +1,20 @@
+{
+  "id": "Q3442077",
+  "name": "rožata",
+  "description": "Croatian custard dessert with caramel and rozalin",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rozata-q3442077/rozata-q3442077-1.jpg",
+    "images/rozata-q3442077/rozata-q3442077-2.jpg",
+    "images/rozata-q3442077/rozata-q3442077-3.jpg",
+    "images/rozata-q3442077/rozata-q3442077-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3442077",
+    "themealdb": null
+  }
+}

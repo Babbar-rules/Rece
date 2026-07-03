@@ -1,0 +1,20 @@
+{
+  "id": "Q3360757",
+  "name": "Hortobágyi palacsinta",
+  "description": "Hungarian stuffed crêpes",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hortobagyi-palacsinta-q3360757/hortobagyi-palacsinta-q3360757-1.jpg",
+    "images/hortobagyi-palacsinta-q3360757/hortobagyi-palacsinta-q3360757-2.jpg",
+    "images/hortobagyi-palacsinta-q3360757/hortobagyi-palacsinta-q3360757-3.jpg",
+    "images/hortobagyi-palacsinta-q3360757/hortobagyi-palacsinta-q3360757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3360757",
+    "themealdb": null
+  }
+}

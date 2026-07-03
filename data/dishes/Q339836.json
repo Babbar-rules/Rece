@@ -1,0 +1,20 @@
+{
+  "id": "Q339836",
+  "name": "dim sum",
+  "description": "style of Chinese cuisine of bite-sized portions served in small steamer baskets or plates",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dim-sum-q339836/dim-sum-q339836-1.jpg",
+    "images/dim-sum-q339836/dim-sum-q339836-2.jpg",
+    "images/dim-sum-q339836/dim-sum-q339836-3.jpg",
+    "images/dim-sum-q339836/dim-sum-q339836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q339836",
+    "themealdb": null
+  }
+}

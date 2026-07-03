@@ -1,0 +1,20 @@
+{
+  "id": "Q3425450",
+  "name": "Dyrlægens natmad",
+  "description": "type of Danish open sandwich",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dyrlgens-natmad-q3425450/dyrlgens-natmad-q3425450-1.jpg",
+    "images/dyrlgens-natmad-q3425450/dyrlgens-natmad-q3425450-2.jpg",
+    "images/dyrlgens-natmad-q3425450/dyrlgens-natmad-q3425450-3.jpg",
+    "images/dyrlgens-natmad-q3425450/dyrlgens-natmad-q3425450-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3425450",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3359766",
+  "name": "Croissan'Wich",
+  "description": "Burger King breakfast sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/croissanwich-q3359766/croissanwich-q3359766-1.jpg",
+    "images/croissanwich-q3359766/croissanwich-q3359766-2.jpg",
+    "images/croissanwich-q3359766/croissanwich-q3359766-3.jpg",
+    "images/croissanwich-q3359766/croissanwich-q3359766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3359766",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3400305",
+  "name": "poulet DG",
+  "description": "Cameroonian poultry dish",
+  "nationality": [
+    "Cameroon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poulet-dg-q3400305/poulet-dg-q3400305-1.jpg",
+    "images/poulet-dg-q3400305/poulet-dg-q3400305-2.jpg",
+    "images/poulet-dg-q3400305/poulet-dg-q3400305-3.jpg",
+    "images/poulet-dg-q3400305/poulet-dg-q3400305-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400305",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q336039",
+  "name": "abura-age",
+  "description": "deep-fried tofu slices",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/abura-age-q336039/abura-age-q336039-1.jpg",
+    "images/abura-age-q336039/abura-age-q336039-2.jpg",
+    "images/abura-age-q336039/abura-age-q336039-3.jpg",
+    "images/abura-age-q336039/abura-age-q336039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q336039",
+    "themealdb": null
+  }
+}

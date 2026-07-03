@@ -1,0 +1,18 @@
+{
+  "id": "Q3368469",
+  "name": "pastillage",
+  "description": "sugar paste icing that dries firm",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pastillage-q3368469/pastillage-q3368469-1.jpg",
+    "images/pastillage-q3368469/pastillage-q3368469-2.jpg",
+    "images/pastillage-q3368469/pastillage-q3368469-3.jpg",
+    "images/pastillage-q3368469/pastillage-q3368469-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3368469",
+    "themealdb": null
+  }
+}

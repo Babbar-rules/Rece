@@ -1,0 +1,20 @@
+{
+  "id": "Q3362039",
+  "name": "Genoa cake",
+  "description": "fruit cake from Genoa, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/genoa-cake-q3362039/genoa-cake-q3362039-1.jpg",
+    "images/genoa-cake-q3362039/genoa-cake-q3362039-2.jpg",
+    "images/genoa-cake-q3362039/genoa-cake-q3362039-3.jpg",
+    "images/genoa-cake-q3362039/genoa-cake-q3362039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3362039",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3351982",
+  "name": "Ummak huriyya salad",
+  "description": "Tunisian dish",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ummak-huriyya-salad-q3351982/ummak-huriyya-salad-q3351982-1.jpg",
+    "images/ummak-huriyya-salad-q3351982/ummak-huriyya-salad-q3351982-2.jpg",
+    "images/ummak-huriyya-salad-q3351982/ummak-huriyya-salad-q3351982-3.jpg",
+    "images/ummak-huriyya-salad-q3351982/ummak-huriyya-salad-q3351982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3351982",
+    "themealdb": null
+  }
+}

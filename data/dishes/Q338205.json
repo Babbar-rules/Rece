@@ -1,0 +1,20 @@
+{
+  "id": "Q338205",
+  "name": "Bienenstich",
+  "description": "German cake",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bienenstich-q338205/bienenstich-q338205-1.jpg",
+    "images/bienenstich-q338205/bienenstich-q338205-2.jpg",
+    "images/bienenstich-q338205/bienenstich-q338205-3.jpg",
+    "images/bienenstich-q338205/bienenstich-q338205-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q338205",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3361960",
+  "name": "Panchuker",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/panchuker-q3361960/panchuker-q3361960-1.jpg",
+    "images/panchuker-q3361960/panchuker-q3361960-2.jpg",
+    "images/panchuker-q3361960/panchuker-q3361960-3.jpg",
+    "images/panchuker-q3361960/panchuker-q3361960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3361960",
+    "themealdb": null
+  }
+}

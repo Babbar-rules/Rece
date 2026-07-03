@@ -1,0 +1,22 @@
+{
+  "id": "Q3391647",
+  "name": "klappertaart",
+  "description": "Indonesian traditional cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/klappertaart-q3391647/klappertaart-q3391647-1.jpg",
+    "images/klappertaart-q3391647/klappertaart-q3391647-2.jpg",
+    "images/klappertaart-q3391647/klappertaart-q3391647-3.jpg",
+    "images/klappertaart-q3391647/klappertaart-q3391647-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3391647",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3436095",
+  "name": "malatang",
+  "description": "Sichuanese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malatang-q3436095/malatang-q3436095-1.jpg",
+    "images/malatang-q3436095/malatang-q3436095-2.jpg",
+    "images/malatang-q3436095/malatang-q3436095-3.jpg",
+    "images/malatang-q3436095/malatang-q3436095-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3436095",
+    "themealdb": null
+  }
+}

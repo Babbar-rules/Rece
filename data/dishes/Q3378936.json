@@ -1,0 +1,20 @@
+{
+  "id": "Q3378936",
+  "name": "boller i karry",
+  "description": "Danish meatball curry",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boller-i-karry-q3378936/boller-i-karry-q3378936-1.jpg",
+    "images/boller-i-karry-q3378936/boller-i-karry-q3378936-2.jpg",
+    "images/boller-i-karry-q3378936/boller-i-karry-q3378936-3.jpg",
+    "images/boller-i-karry-q3378936/boller-i-karry-q3378936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3378936",
+    "themealdb": null
+  }
+}

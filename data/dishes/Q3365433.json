@@ -1,0 +1,20 @@
+{
+  "id": "Q3365433",
+  "name": "Bakkwa",
+  "description": "Salty-sweet dried meat product",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bakkwa-q3365433/bakkwa-q3365433-1.jpg",
+    "images/bakkwa-q3365433/bakkwa-q3365433-2.jpg",
+    "images/bakkwa-q3365433/bakkwa-q3365433-3.jpg",
+    "images/bakkwa-q3365433/bakkwa-q3365433-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3365433",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q3358516",
+  "name": "Kiribath",
+  "description": "coconut milk rice dish",
+  "nationality": [
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kiribath-q3358516/kiribath-q3358516-1.jpg",
+    "images/kiribath-q3358516/kiribath-q3358516-2.jpg",
+    "images/kiribath-q3358516/kiribath-q3358516-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3358516",
+    "themealdb": null
+  }
+}

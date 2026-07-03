@@ -1,0 +1,18 @@
+{
+  "id": "Q3331341",
+  "name": "guiso",
+  "description": "cooking method",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/guiso-q3331341/guiso-q3331341-1.jpg",
+    "images/guiso-q3331341/guiso-q3331341-2.jpg",
+    "images/guiso-q3331341/guiso-q3331341-3.jpg",
+    "images/guiso-q3331341/guiso-q3331341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3331341",
+    "themealdb": null
+  }
+}

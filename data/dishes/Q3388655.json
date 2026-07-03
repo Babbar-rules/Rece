@@ -1,0 +1,26 @@
+{
+  "id": "Q3388655",
+  "name": "Pinđur",
+  "description": "relish form",
+  "nationality": [
+    "Bulgaria",
+    "North Macedonia",
+    "Serbia"
+  ],
+  "region_cuisine": [
+    "Macedonian cuisine",
+    "Serbian cuisine",
+    "Bulgarian cuisine"
+  ],
+  "images": [
+    "images/pinur-q3388655/pinur-q3388655-1.jpg",
+    "images/pinur-q3388655/pinur-q3388655-2.jpg",
+    "images/pinur-q3388655/pinur-q3388655-3.jpg",
+    "images/pinur-q3388655/pinur-q3388655-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3388655",
+    "themealdb": null
+  }
+}

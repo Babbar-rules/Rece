@@ -1,0 +1,22 @@
+{
+  "id": "Q3396004",
+  "name": "pommes dauphine",
+  "description": "dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/pommes-dauphine-q3396004/pommes-dauphine-q3396004-1.jpg",
+    "images/pommes-dauphine-q3396004/pommes-dauphine-q3396004-2.png",
+    "images/pommes-dauphine-q3396004/pommes-dauphine-q3396004-3.jpg",
+    "images/pommes-dauphine-q3396004/pommes-dauphine-q3396004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3396004",
+    "themealdb": null
+  }
+}

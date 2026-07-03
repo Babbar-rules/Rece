@@ -1,0 +1,18 @@
+{
+  "id": "Q3376915",
+  "name": "milk toast",
+  "description": "Breakfast dish consisting of toasted bread in warm milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-toast-q3376915/milk-toast-q3376915-1.jpg",
+    "images/milk-toast-q3376915/milk-toast-q3376915-2.jpg",
+    "images/milk-toast-q3376915/milk-toast-q3376915-3.jpg",
+    "images/milk-toast-q3376915/milk-toast-q3376915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3376915",
+    "themealdb": null
+  }
+}

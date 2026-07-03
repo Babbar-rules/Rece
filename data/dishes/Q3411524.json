@@ -1,0 +1,18 @@
+{
+  "id": "Q3411524",
+  "name": "Pâté de canard d'Amiens",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-de-canard-damiens-q3411524/pate-de-canard-damiens-q3411524-1.jpg",
+    "images/pate-de-canard-damiens-q3411524/pate-de-canard-damiens-q3411524-2.jpg",
+    "images/pate-de-canard-damiens-q3411524/pate-de-canard-damiens-q3411524-3.jpg",
+    "images/pate-de-canard-damiens-q3411524/pate-de-canard-damiens-q3411524-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3411524",
+    "themealdb": null
+  }
+}

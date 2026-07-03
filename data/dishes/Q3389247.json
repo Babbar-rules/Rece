@@ -1,0 +1,20 @@
+{
+  "id": "Q3389247",
+  "name": "Pissalat",
+  "description": "French condiment made from anchovies",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine niçoise"
+  ],
+  "images": [
+    "images/pissalat-q3389247/pissalat-q3389247-1.jpg",
+    "images/pissalat-q3389247/pissalat-q3389247-2.jpg",
+    "images/pissalat-q3389247/pissalat-q3389247-3.jpg",
+    "images/pissalat-q3389247/pissalat-q3389247-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3389247",
+    "themealdb": null
+  }
+}

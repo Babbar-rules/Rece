@@ -1,0 +1,18 @@
+{
+  "id": "Q3392878",
+  "name": "Po'e",
+  "description": "Polynesian pudding",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poe-q3392878/poe-q3392878-1.jpg",
+    "images/poe-q3392878/poe-q3392878-2.jpg",
+    "images/poe-q3392878/poe-q3392878-3.jpg",
+    "images/poe-q3392878/poe-q3392878-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3392878",
+    "themealdb": null
+  }
+}

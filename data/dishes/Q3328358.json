@@ -1,0 +1,20 @@
+{
+  "id": "Q3328358",
+  "name": "musculine",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/musculine-q3328358/musculine-q3328358-1.jpg",
+    "images/musculine-q3328358/musculine-q3328358-2.jpg",
+    "images/musculine-q3328358/musculine-q3328358-3.jpg",
+    "images/musculine-q3328358/musculine-q3328358-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3328358",
+    "themealdb": null
+  }
+}

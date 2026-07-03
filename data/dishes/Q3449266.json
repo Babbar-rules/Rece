@@ -1,0 +1,20 @@
+{
+  "id": "Q3449266",
+  "name": "Pašticada",
+  "description": "Croatian braised beef dish",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasticada-q3449266/pasticada-q3449266-1.jpg",
+    "images/pasticada-q3449266/pasticada-q3449266-2.jpg",
+    "images/pasticada-q3449266/pasticada-q3449266-3.jpg",
+    "images/pasticada-q3449266/pasticada-q3449266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3449266",
+    "themealdb": null
+  }
+}

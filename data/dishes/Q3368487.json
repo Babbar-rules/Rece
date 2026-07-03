@@ -1,0 +1,22 @@
+{
+  "id": "Q3368487",
+  "name": "pastizz",
+  "description": "savory pastry from Malta filled with ricotta or mushy peas",
+  "nationality": [
+    "Malta"
+  ],
+  "region_cuisine": [
+    "Maltese cuisine"
+  ],
+  "images": [
+    "images/pastizz-q3368487/pastizz-q3368487-1.jpg",
+    "images/pastizz-q3368487/pastizz-q3368487-2.jpg",
+    "images/pastizz-q3368487/pastizz-q3368487-3.jpg",
+    "images/pastizz-q3368487/pastizz-q3368487-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3368487",
+    "themealdb": null
+  }
+}

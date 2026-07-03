@@ -1,0 +1,18 @@
+{
+  "id": "Q3441161",
+  "name": "Baked apple",
+  "description": "German dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baked-apple-q3441161/baked-apple-q3441161-1.jpg",
+    "images/baked-apple-q3441161/baked-apple-q3441161-2.jpg",
+    "images/baked-apple-q3441161/baked-apple-q3441161-3.jpg",
+    "images/baked-apple-q3441161/baked-apple-q3441161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3441161",
+    "themealdb": null
+  }
+}

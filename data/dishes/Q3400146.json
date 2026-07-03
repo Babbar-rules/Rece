@@ -1,0 +1,18 @@
+{
+  "id": "Q3400146",
+  "name": "potée Lorraine",
+  "description": "French stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potee-lorraine-q3400146/potee-lorraine-q3400146-1.jpg",
+    "images/potee-lorraine-q3400146/potee-lorraine-q3400146-2.jpg",
+    "images/potee-lorraine-q3400146/potee-lorraine-q3400146-3.jpg",
+    "images/potee-lorraine-q3400146/potee-lorraine-q3400146-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400146",
+    "themealdb": null
+  }
+}

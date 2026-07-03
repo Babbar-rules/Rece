@@ -1,0 +1,18 @@
+{
+  "id": "Q3389508",
+  "name": "pizza di scarola",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-di-scarola-q3389508/pizza-di-scarola-q3389508-1.jpg",
+    "images/pizza-di-scarola-q3389508/pizza-di-scarola-q3389508-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3389508",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q34421086",
+  "name": "Bagel and cream cheese",
+  "description": "common food pairing in American cuisine",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bagel-and-cream-cheese-q34421086/bagel-and-cream-cheese-q34421086-1.jpg",
+    "images/bagel-and-cream-cheese-q34421086/bagel-and-cream-cheese-q34421086-2.jpg",
+    "images/bagel-and-cream-cheese-q34421086/bagel-and-cream-cheese-q34421086-3.jpg",
+    "images/bagel-and-cream-cheese-q34421086/bagel-and-cream-cheese-q34421086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q34421086",
+    "themealdb": null
+  }
+}

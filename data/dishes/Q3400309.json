@@ -1,0 +1,18 @@
+{
+  "id": "Q3400309",
+  "name": "Chicken Divan",
+  "description": "Recipe for baking chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-divan-q3400309/chicken-divan-q3400309-1.jpg",
+    "images/chicken-divan-q3400309/chicken-divan-q3400309-2.jpg",
+    "images/chicken-divan-q3400309/chicken-divan-q3400309-3.jpg",
+    "images/chicken-divan-q3400309/chicken-divan-q3400309-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400309",
+    "themealdb": null
+  }
+}

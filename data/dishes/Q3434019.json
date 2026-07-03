@@ -1,0 +1,20 @@
+{
+  "id": "Q3434019",
+  "name": "arroz de bacalhau",
+  "description": "Portuguese dish",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-de-bacalhau-q3434019/arroz-de-bacalhau-q3434019-1.jpg",
+    "images/arroz-de-bacalhau-q3434019/arroz-de-bacalhau-q3434019-2.jpg",
+    "images/arroz-de-bacalhau-q3434019/arroz-de-bacalhau-q3434019-3.jpg",
+    "images/arroz-de-bacalhau-q3434019/arroz-de-bacalhau-q3434019-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3434019",
+    "themealdb": null
+  }
+}

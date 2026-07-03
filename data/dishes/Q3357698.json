@@ -1,0 +1,19 @@
+{
+  "id": "Q3357698",
+  "name": "sandbakelse",
+  "description": "north European cuisine",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sandbakelse-q3357698/sandbakelse-q3357698-1.jpg",
+    "images/sandbakelse-q3357698/sandbakelse-q3357698-2.jpg",
+    "images/sandbakelse-q3357698/sandbakelse-q3357698-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3357698",
+    "themealdb": null
+  }
+}

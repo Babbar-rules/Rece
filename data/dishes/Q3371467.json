@@ -1,0 +1,20 @@
+{
+  "id": "Q3371467",
+  "name": "hongshao rou",
+  "description": "pork dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/hongshao-rou-q3371467/hongshao-rou-q3371467-1.jpg",
+    "images/hongshao-rou-q3371467/hongshao-rou-q3371467-2.jpg",
+    "images/hongshao-rou-q3371467/hongshao-rou-q3371467-3.jpg",
+    "images/hongshao-rou-q3371467/hongshao-rou-q3371467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3371467",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q344066",
+  "name": "İskender kebap",
+  "description": "Turkish meat dish (variety of \"döner\")",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/iskender-kebap-q344066/iskender-kebap-q344066-1.jpg",
+    "images/iskender-kebap-q344066/iskender-kebap-q344066-2.jpg",
+    "images/iskender-kebap-q344066/iskender-kebap-q344066-3.jpg",
+    "images/iskender-kebap-q344066/iskender-kebap-q344066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q344066",
+    "themealdb": null
+  }
+}

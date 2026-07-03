@@ -1,0 +1,18 @@
+{
+  "id": "Q3349241",
+  "name": "Malapua",
+  "description": "pancake served as dessert or snack, originating from the Indian subcontinent",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/malapua-q3349241/malapua-q3349241-1.jpg",
+    "images/malapua-q3349241/malapua-q3349241-2.jpg",
+    "images/malapua-q3349241/malapua-q3349241-3.jpg",
+    "images/malapua-q3349241/malapua-q3349241-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3349241",
+    "themealdb": null
+  }
+}

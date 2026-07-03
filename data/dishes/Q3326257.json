@@ -1,0 +1,18 @@
+{
+  "id": "Q3326257",
+  "name": "mousse de foie de canard au Porto",
+  "description": "French offal dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mousse-de-foie-de-canard-au-porto-q3326257/mousse-de-foie-de-canard-au-porto-q3326257-1.jpg",
+    "images/mousse-de-foie-de-canard-au-porto-q3326257/mousse-de-foie-de-canard-au-porto-q3326257-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3326257",
+    "themealdb": null
+  }
+}

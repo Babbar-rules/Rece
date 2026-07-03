@@ -1,0 +1,20 @@
+{
+  "id": "Q3349224",
+  "name": "rosogolla",
+  "description": "syrupy dessert popular in the Indian subcontinent and regions with South Asian diaspora",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosogolla-q3349224/rosogolla-q3349224-1.jpg",
+    "images/rosogolla-q3349224/rosogolla-q3349224-2.jpg",
+    "images/rosogolla-q3349224/rosogolla-q3349224-3.jpg",
+    "images/rosogolla-q3349224/rosogolla-q3349224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3349224",
+    "themealdb": null
+  }
+}

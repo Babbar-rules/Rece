@@ -1,0 +1,21 @@
+{
+  "id": "Q3348137",
+  "name": "sandesh",
+  "description": "Bengali confectionery",
+  "nationality": [
+    "India",
+    "Bangladesh"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sandesh-q3348137/sandesh-q3348137-1.jpg",
+    "images/sandesh-q3348137/sandesh-q3348137-2.jpg",
+    "images/sandesh-q3348137/sandesh-q3348137-3.png",
+    "images/sandesh-q3348137/sandesh-q3348137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3348137",
+    "themealdb": null
+  }
+}

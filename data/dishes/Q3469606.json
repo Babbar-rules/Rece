@@ -1,0 +1,19 @@
+{
+  "id": "Q3469606",
+  "name": "Salampatata",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salampatata-q3469606/salampatata-q3469606-1.jpg",
+    "images/salampatata-q3469606/salampatata-q3469606-2.jpg",
+    "images/salampatata-q3469606/salampatata-q3469606-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469606",
+    "themealdb": null
+  }
+}

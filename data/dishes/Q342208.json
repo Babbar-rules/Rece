@@ -1,0 +1,20 @@
+{
+  "id": "Q342208",
+  "name": "güveç",
+  "description": "Turkish and Balkan cuisine dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guvec-q342208/guvec-q342208-1.jpg",
+    "images/guvec-q342208/guvec-q342208-2.jpg",
+    "images/guvec-q342208/guvec-q342208-3.jpg",
+    "images/guvec-q342208/guvec-q342208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q342208",
+    "themealdb": null
+  }
+}

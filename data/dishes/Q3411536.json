@@ -1,0 +1,20 @@
+{
+  "id": "Q3411536",
+  "name": "pâté Lorrain",
+  "description": "French meat pastry",
+  "nationality": [
+    "Duchy of Lorraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-lorrain-q3411536/pate-lorrain-q3411536-1.jpg",
+    "images/pate-lorrain-q3411536/pate-lorrain-q3411536-2.jpg",
+    "images/pate-lorrain-q3411536/pate-lorrain-q3411536-3.jpg",
+    "images/pate-lorrain-q3411536/pate-lorrain-q3411536-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3411536",
+    "themealdb": null
+  }
+}

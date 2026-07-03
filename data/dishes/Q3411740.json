@@ -1,0 +1,20 @@
+{
+  "id": "Q3411740",
+  "name": "Péla",
+  "description": "Potato gratin",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pela-q3411740/pela-q3411740-1.png",
+    "images/pela-q3411740/pela-q3411740-2.png",
+    "images/pela-q3411740/pela-q3411740-3.png",
+    "images/pela-q3411740/pela-q3411740-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3411740",
+    "themealdb": null
+  }
+}

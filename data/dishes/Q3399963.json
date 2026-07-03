@@ -1,0 +1,20 @@
+{
+  "id": "Q3399963",
+  "name": "potato skins",
+  "description": "potato dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-skins-q3399963/potato-skins-q3399963-1.jpg",
+    "images/potato-skins-q3399963/potato-skins-q3399963-2.jpg",
+    "images/potato-skins-q3399963/potato-skins-q3399963-3.jpg",
+    "images/potato-skins-q3399963/potato-skins-q3399963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3399963",
+    "themealdb": null
+  }
+}

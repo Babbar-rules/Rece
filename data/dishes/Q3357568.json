@@ -1,0 +1,20 @@
+{
+  "id": "Q3357568",
+  "name": "slider",
+  "description": "small sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slider-q3357568/slider-q3357568-1.jpg",
+    "images/slider-q3357568/slider-q3357568-2.jpg",
+    "images/slider-q3357568/slider-q3357568-3.jpg",
+    "images/slider-q3357568/slider-q3357568-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3357568",
+    "themealdb": null
+  }
+}

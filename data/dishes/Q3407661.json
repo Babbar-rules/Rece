@@ -1,0 +1,20 @@
+{
+  "id": "Q3407661",
+  "name": "prosciutto di Norcia",
+  "description": "Italian prosciutto",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prosciutto-di-norcia-q3407661/prosciutto-di-norcia-q3407661-1.jpg",
+    "images/prosciutto-di-norcia-q3407661/prosciutto-di-norcia-q3407661-2.jpg",
+    "images/prosciutto-di-norcia-q3407661/prosciutto-di-norcia-q3407661-3.jpg",
+    "images/prosciutto-di-norcia-q3407661/prosciutto-di-norcia-q3407661-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3407661",
+    "themealdb": null
+  }
+}

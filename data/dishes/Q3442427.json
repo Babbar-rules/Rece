@@ -1,0 +1,20 @@
+{
+  "id": "Q3442427",
+  "name": "roses des sables",
+  "description": "French confection made with cornflakes and chocolate",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roses-des-sables-q3442427/roses-des-sables-q3442427-1.jpg",
+    "images/roses-des-sables-q3442427/roses-des-sables-q3442427-2.jpg",
+    "images/roses-des-sables-q3442427/roses-des-sables-q3442427-3.jpg",
+    "images/roses-des-sables-q3442427/roses-des-sables-q3442427-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3442427",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3469471",
+  "name": "Mechouia salad",
+  "description": "Tunisian salad",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mechouia-salad-q3469471/mechouia-salad-q3469471-1.jpg",
+    "images/mechouia-salad-q3469471/mechouia-salad-q3469471-2.jpg",
+    "images/mechouia-salad-q3469471/mechouia-salad-q3469471-3.jpg",
+    "images/mechouia-salad-q3469471/mechouia-salad-q3469471-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469471",
+    "themealdb": null
+  }
+}

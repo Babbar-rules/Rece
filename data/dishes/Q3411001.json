@@ -1,0 +1,18 @@
+{
+  "id": "Q3411001",
+  "name": "instant mashed potatoes",
+  "description": "dehydrated mashed potatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/instant-mashed-potatoes-q3411001/instant-mashed-potatoes-q3411001-1.jpg",
+    "images/instant-mashed-potatoes-q3411001/instant-mashed-potatoes-q3411001-2.jpg",
+    "images/instant-mashed-potatoes-q3411001/instant-mashed-potatoes-q3411001-3.jpg",
+    "images/instant-mashed-potatoes-q3411001/instant-mashed-potatoes-q3411001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3411001",
+    "themealdb": null
+  }
+}

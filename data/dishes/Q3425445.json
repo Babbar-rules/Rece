@@ -1,0 +1,20 @@
+{
+  "id": "Q3425445",
+  "name": "Sol over Gudhjem",
+  "description": "Danish open sandwich dish",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sol-over-gudhjem-q3425445/sol-over-gudhjem-q3425445-1.jpg",
+    "images/sol-over-gudhjem-q3425445/sol-over-gudhjem-q3425445-2.jpg",
+    "images/sol-over-gudhjem-q3425445/sol-over-gudhjem-q3425445-3.jpg",
+    "images/sol-over-gudhjem-q3425445/sol-over-gudhjem-q3425445-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3425445",
+    "themealdb": null
+  }
+}

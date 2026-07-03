@@ -1,0 +1,20 @@
+{
+  "id": "Q3377698",
+  "name": "Pets de sœurs",
+  "description": "French-Canadian pastry",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pets-de-surs-q3377698/pets-de-surs-q3377698-1.jpg",
+    "images/pets-de-surs-q3377698/pets-de-surs-q3377698-2.jpg",
+    "images/pets-de-surs-q3377698/pets-de-surs-q3377698-3.jpg",
+    "images/pets-de-surs-q3377698/pets-de-surs-q3377698-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3377698",
+    "themealdb": null
+  }
+}

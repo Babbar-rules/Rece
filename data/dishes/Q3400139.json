@@ -1,0 +1,18 @@
+{
+  "id": "Q3400139",
+  "name": "Potée comtoise",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potee-comtoise-q3400139/potee-comtoise-q3400139-1.jpg",
+    "images/potee-comtoise-q3400139/potee-comtoise-q3400139-2.jpg",
+    "images/potee-comtoise-q3400139/potee-comtoise-q3400139-3.jpg",
+    "images/potee-comtoise-q3400139/potee-comtoise-q3400139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3400139",
+    "themealdb": null
+  }
+}

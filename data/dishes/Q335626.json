@@ -1,0 +1,20 @@
+{
+  "id": "Q335626",
+  "name": "þorramatur",
+  "description": "selection of traditional Icelandic food",
+  "nationality": [
+    "Iceland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/orramatur-q335626/orramatur-q335626-1.jpg",
+    "images/orramatur-q335626/orramatur-q335626-2.jpg",
+    "images/orramatur-q335626/orramatur-q335626-3.jpg",
+    "images/orramatur-q335626/orramatur-q335626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q335626",
+    "themealdb": null
+  }
+}

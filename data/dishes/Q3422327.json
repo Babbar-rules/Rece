@@ -1,0 +1,18 @@
+{
+  "id": "Q3422327",
+  "name": "Kneippbrød",
+  "description": "whole wheat bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kneippbrd-q3422327/kneippbrd-q3422327-1.jpg",
+    "images/kneippbrd-q3422327/kneippbrd-q3422327-2.jpg",
+    "images/kneippbrd-q3422327/kneippbrd-q3422327-3.jpg",
+    "images/kneippbrd-q3422327/kneippbrd-q3422327-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3422327",
+    "themealdb": null
+  }
+}

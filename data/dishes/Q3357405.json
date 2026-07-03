@@ -1,0 +1,20 @@
+{
+  "id": "Q3357405",
+  "name": "velikonoční beránek",
+  "description": "lamb-shaped Czech cake",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/velikonocni-beranek-q3357405/velikonocni-beranek-q3357405-1.jpg",
+    "images/velikonocni-beranek-q3357405/velikonocni-beranek-q3357405-2.jpg",
+    "images/velikonocni-beranek-q3357405/velikonocni-beranek-q3357405-3.jpg",
+    "images/velikonocni-beranek-q3357405/velikonocni-beranek-q3357405-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3357405",
+    "themealdb": null
+  }
+}

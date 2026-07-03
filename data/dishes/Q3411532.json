@@ -1,0 +1,20 @@
+{
+  "id": "Q3411532",
+  "name": "pâté en croûte",
+  "description": "traditional French meat pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-en-croute-q3411532/pate-en-croute-q3411532-1.jpg",
+    "images/pate-en-croute-q3411532/pate-en-croute-q3411532-2.jpg",
+    "images/pate-en-croute-q3411532/pate-en-croute-q3411532-3.jpg",
+    "images/pate-en-croute-q3411532/pate-en-croute-q3411532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3411532",
+    "themealdb": null
+  }
+}

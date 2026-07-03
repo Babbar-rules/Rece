@@ -1,0 +1,18 @@
+{
+  "id": "Q3349866",
+  "name": "Oh Henry!",
+  "description": "American candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oh-henry-q3349866/oh-henry-q3349866-1.jpg",
+    "images/oh-henry-q3349866/oh-henry-q3349866-2.jpg",
+    "images/oh-henry-q3349866/oh-henry-q3349866-3.jpg",
+    "images/oh-henry-q3349866/oh-henry-q3349866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3349866",
+    "themealdb": null
+  }
+}

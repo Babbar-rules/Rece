@@ -1,0 +1,20 @@
+{
+  "id": "Q3469475",
+  "name": "Serbian salad",
+  "description": "balkan vegetable salad",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/serbian-salad-q3469475/serbian-salad-q3469475-1.jpg",
+    "images/serbian-salad-q3469475/serbian-salad-q3469475-2.jpg",
+    "images/serbian-salad-q3469475/serbian-salad-q3469475-3.jpg",
+    "images/serbian-salad-q3469475/serbian-salad-q3469475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469475",
+    "themealdb": null
+  }
+}

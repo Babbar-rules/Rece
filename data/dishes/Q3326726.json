@@ -1,0 +1,17 @@
+{
+  "id": "Q3326726",
+  "name": "Sukalki",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/sukalki-q3326726/sukalki-q3326726-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3326726",
+    "themealdb": null
+  }
+}

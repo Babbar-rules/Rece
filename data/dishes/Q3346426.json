@@ -1,0 +1,18 @@
+{
+  "id": "Q3346426",
+  "name": "luchi",
+  "description": "deep-fried flatbread made of wheat flour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/luchi-q3346426/luchi-q3346426-1.jpg",
+    "images/luchi-q3346426/luchi-q3346426-2.jpg",
+    "images/luchi-q3346426/luchi-q3346426-3.jpg",
+    "images/luchi-q3346426/luchi-q3346426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3346426",
+    "themealdb": null
+  }
+}

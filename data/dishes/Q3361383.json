@@ -1,0 +1,20 @@
+{
+  "id": "Q3361383",
+  "name": "palet breton",
+  "description": "French biscuit",
+  "nationality": [
+    "Brittany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/palet-breton-q3361383/palet-breton-q3361383-1.jpg",
+    "images/palet-breton-q3361383/palet-breton-q3361383-2.jpg",
+    "images/palet-breton-q3361383/palet-breton-q3361383-3.jpg",
+    "images/palet-breton-q3361383/palet-breton-q3361383-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3361383",
+    "themealdb": null
+  }
+}

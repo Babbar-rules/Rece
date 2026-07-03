@@ -1,0 +1,18 @@
+{
+  "id": "Q33977139",
+  "name": "pineapple jam",
+  "description": "jam made from pineapples",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pineapple-jam-q33977139/pineapple-jam-q33977139-1.jpg",
+    "images/pineapple-jam-q33977139/pineapple-jam-q33977139-2.jpg",
+    "images/pineapple-jam-q33977139/pineapple-jam-q33977139-3.jpg",
+    "images/pineapple-jam-q33977139/pineapple-jam-q33977139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q33977139",
+    "themealdb": null
+  }
+}

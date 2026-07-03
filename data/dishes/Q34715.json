@@ -1,0 +1,20 @@
+{
+  "id": "Q34715",
+  "name": "Tarta de Santiago",
+  "description": "an almond cake or pie from Galicia with origin in the Middle Ages.",
+  "nationality": [],
+  "region_cuisine": [
+    "Galician cuisine"
+  ],
+  "images": [
+    "images/tarta-de-santiago-q34715/tarta-de-santiago-q34715-1.jpg",
+    "images/tarta-de-santiago-q34715/tarta-de-santiago-q34715-2.jpg",
+    "images/tarta-de-santiago-q34715/tarta-de-santiago-q34715-3.jpg",
+    "images/tarta-de-santiago-q34715/tarta-de-santiago-q34715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q34715",
+    "themealdb": null
+  }
+}

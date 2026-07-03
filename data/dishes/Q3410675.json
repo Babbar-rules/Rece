@@ -1,0 +1,20 @@
+{
+  "id": "Q3410675",
+  "name": "Puits d'amour",
+  "description": "French pastry filled with cream or jelly",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puits-damour-q3410675/puits-damour-q3410675-1.jpg",
+    "images/puits-damour-q3410675/puits-damour-q3410675-2.jpg",
+    "images/puits-damour-q3410675/puits-damour-q3410675-3.jpg",
+    "images/puits-damour-q3410675/puits-damour-q3410675-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3410675",
+    "themealdb": null
+  }
+}

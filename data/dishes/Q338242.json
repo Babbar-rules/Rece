@@ -1,0 +1,20 @@
+{
+  "id": "Q338242",
+  "name": "black and white cookie",
+  "description": "round cookie iced or frosted on one half with vanilla and on the other with chocolate",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-and-white-cookie-q338242/black-and-white-cookie-q338242-1.jpg",
+    "images/black-and-white-cookie-q338242/black-and-white-cookie-q338242-2.jpg",
+    "images/black-and-white-cookie-q338242/black-and-white-cookie-q338242-3.jpg",
+    "images/black-and-white-cookie-q338242/black-and-white-cookie-q338242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q338242",
+    "themealdb": null
+  }
+}

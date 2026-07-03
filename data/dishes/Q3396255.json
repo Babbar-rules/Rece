@@ -1,0 +1,20 @@
+{
+  "id": "Q3396255",
+  "name": "Pantxineta",
+  "description": "traditional Basque Country dessert",
+  "nationality": [],
+  "region_cuisine": [
+    "Basque cuisine"
+  ],
+  "images": [
+    "images/pantxineta-q3396255/pantxineta-q3396255-1.jpg",
+    "images/pantxineta-q3396255/pantxineta-q3396255-2.jpg",
+    "images/pantxineta-q3396255/pantxineta-q3396255-3.jpg",
+    "images/pantxineta-q3396255/pantxineta-q3396255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3396255",
+    "themealdb": null
+  }
+}

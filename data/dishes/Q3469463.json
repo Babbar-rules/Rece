@@ -1,0 +1,18 @@
+{
+  "id": "Q3469463",
+  "name": "Dandelion salad",
+  "description": "Salad of dandelion greens",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dandelion-salad-q3469463/dandelion-salad-q3469463-1.jpg",
+    "images/dandelion-salad-q3469463/dandelion-salad-q3469463-2.jpg",
+    "images/dandelion-salad-q3469463/dandelion-salad-q3469463-3.jpg",
+    "images/dandelion-salad-q3469463/dandelion-salad-q3469463-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3469463",
+    "themealdb": null
+  }
+}
