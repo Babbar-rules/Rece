@@ -1,0 +1,20 @@
+{
+  "id": "Q4346753",
+  "name": "hiyayakko",
+  "description": "Japanese tofu dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hiyayakko-q4346753/hiyayakko-q4346753-1.jpg",
+    "images/hiyayakko-q4346753/hiyayakko-q4346753-2.jpg",
+    "images/hiyayakko-q4346753/hiyayakko-q4346753-3.jpg",
+    "images/hiyayakko-q4346753/hiyayakko-q4346753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4346753",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q4200659",
+  "name": "Pempek",
+  "description": "Indonesian dish made of fish and tapioca",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Palembang cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/pempek-q4200659/pempek-q4200659-1.jpg",
+    "images/pempek-q4200659/pempek-q4200659-2.png",
+    "images/pempek-q4200659/pempek-q4200659-3.jpg",
+    "images/pempek-q4200659/pempek-q4200659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4200659",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q42395976",
+  "name": "Dindigul biryani",
+  "description": "biryani from Dindigul, Tamil Nadu, India",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dindigul-biryani-q42395976/dindigul-biryani-q42395976-1.jpg",
+    "images/dindigul-biryani-q42395976/dindigul-biryani-q42395976-2.jpg",
+    "images/dindigul-biryani-q42395976/dindigul-biryani-q42395976-3.jpg",
+    "images/dindigul-biryani-q42395976/dindigul-biryani-q42395976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42395976",
+    "themealdb": null
+  }
+}

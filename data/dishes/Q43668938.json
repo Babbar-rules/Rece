@@ -1,0 +1,18 @@
+{
+  "id": "Q43668938",
+  "name": "onion jam",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/onion-jam-q43668938/onion-jam-q43668938-1.jpg",
+    "images/onion-jam-q43668938/onion-jam-q43668938-2.jpg",
+    "images/onion-jam-q43668938/onion-jam-q43668938-3.jpg",
+    "images/onion-jam-q43668938/onion-jam-q43668938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43668938",
+    "themealdb": null
+  }
+}

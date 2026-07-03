@@ -1,0 +1,15 @@
+{
+  "id": "Q435026",
+  "name": "Altbrot",
+  "description": "German term: bread that is left over in bakeries and in the trade and that is rejected as food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/altbrot-q435026/altbrot-q435026-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q435026",
+    "themealdb": null
+  }
+}

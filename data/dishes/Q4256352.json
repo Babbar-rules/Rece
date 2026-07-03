@@ -1,0 +1,18 @@
+{
+  "id": "Q4256352",
+  "name": "Levengi",
+  "description": "Azerbaijani dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/levengi-q4256352/levengi-q4256352-1.jpg",
+    "images/levengi-q4256352/levengi-q4256352-2.jpg",
+    "images/levengi-q4256352/levengi-q4256352-3.jpg",
+    "images/levengi-q4256352/levengi-q4256352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4256352",
+    "themealdb": null
+  }
+}

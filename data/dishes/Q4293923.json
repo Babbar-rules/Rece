@@ -1,0 +1,25 @@
+{
+  "id": "Q4293923",
+  "name": "mimosa salad",
+  "description": "Eastern European layered cold composed salad of cheese, eggs, canned fish, onion, and mayonnaise",
+  "nationality": [
+    "Soviet Union"
+  ],
+  "region_cuisine": [
+    "Soviet cuisine",
+    "Ukrainian cuisine",
+    "Belarusian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/mimosa-salad-q4293923/mimosa-salad-q4293923-1.jpg",
+    "images/mimosa-salad-q4293923/mimosa-salad-q4293923-2.jpg",
+    "images/mimosa-salad-q4293923/mimosa-salad-q4293923-3.jpg",
+    "images/mimosa-salad-q4293923/mimosa-salad-q4293923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4293923",
+    "themealdb": null
+  }
+}

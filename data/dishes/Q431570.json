@@ -1,0 +1,20 @@
+{
+  "id": "Q431570",
+  "name": "cepelinai",
+  "description": "Lithuanian potato dish",
+  "nationality": [
+    "Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cepelinai-q431570/cepelinai-q431570-1.jpg",
+    "images/cepelinai-q431570/cepelinai-q431570-2.jpg",
+    "images/cepelinai-q431570/cepelinai-q431570-3.jpg",
+    "images/cepelinai-q431570/cepelinai-q431570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q431570",
+    "themealdb": null
+  }
+}

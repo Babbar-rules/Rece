@@ -1,0 +1,20 @@
+{
+  "id": "Q42417569",
+  "name": "Fanta Cake",
+  "description": "German dessert",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fanta-cake-q42417569/fanta-cake-q42417569-1.jpg",
+    "images/fanta-cake-q42417569/fanta-cake-q42417569-2.jpg",
+    "images/fanta-cake-q42417569/fanta-cake-q42417569-3.png",
+    "images/fanta-cake-q42417569/fanta-cake-q42417569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42417569",
+    "themealdb": null
+  }
+}

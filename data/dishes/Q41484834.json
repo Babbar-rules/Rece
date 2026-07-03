@@ -1,0 +1,20 @@
+{
+  "id": "Q41484834",
+  "name": "Qedra",
+  "description": "traditional Palestinian dish",
+  "nationality": [
+    "Palestine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/qedra-q41484834/qedra-q41484834-1.jpg",
+    "images/qedra-q41484834/qedra-q41484834-2.jpg",
+    "images/qedra-q41484834/qedra-q41484834-3.jpg",
+    "images/qedra-q41484834/qedra-q41484834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41484834",
+    "themealdb": null
+  }
+}

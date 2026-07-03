@@ -1,0 +1,20 @@
+{
+  "id": "Q428392",
+  "name": "slatko",
+  "description": "fruit preserve",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slatko-q428392/slatko-q428392-1.jpg",
+    "images/slatko-q428392/slatko-q428392-2.jpg",
+    "images/slatko-q428392/slatko-q428392-3.jpg",
+    "images/slatko-q428392/slatko-q428392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q428392",
+    "themealdb": null
+  }
+}

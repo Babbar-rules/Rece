@@ -1,0 +1,20 @@
+{
+  "id": "Q43422",
+  "name": "St. Martin's Croissants",
+  "description": "Polish sweetrolls",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/st-martins-croissants-q43422/st-martins-croissants-q43422-1.jpg",
+    "images/st-martins-croissants-q43422/st-martins-croissants-q43422-2.jpg",
+    "images/st-martins-croissants-q43422/st-martins-croissants-q43422-3.jpg",
+    "images/st-martins-croissants-q43422/st-martins-croissants-q43422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43422",
+    "themealdb": null
+  }
+}

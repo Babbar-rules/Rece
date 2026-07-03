@@ -1,0 +1,20 @@
+{
+  "id": "Q4206002",
+  "name": "urap",
+  "description": "Indonesian salad recipe",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/urap-q4206002/urap-q4206002-1.jpg",
+    "images/urap-q4206002/urap-q4206002-2.jpg",
+    "images/urap-q4206002/urap-q4206002-3.jpg",
+    "images/urap-q4206002/urap-q4206002-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4206002",
+    "themealdb": null
+  }
+}

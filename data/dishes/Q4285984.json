@@ -1,0 +1,17 @@
+{
+  "id": "Q4285984",
+  "name": "machanka",
+  "description": "Belarusian stew",
+  "nationality": [
+    "Belarus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/machanka-q4285984/machanka-q4285984-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4285984",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q4216247",
+  "name": "Kartoplyanyky",
+  "description": "",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/kartoplyanyky-q4216247/kartoplyanyky-q4216247-1.jpg",
+    "images/kartoplyanyky-q4216247/kartoplyanyky-q4216247-2.jpg",
+    "images/kartoplyanyky-q4216247/kartoplyanyky-q4216247-3.jpg",
+    "images/kartoplyanyky-q4216247/kartoplyanyky-q4216247-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4216247",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4350424",
+  "name": "fish amok",
+  "description": "Cambodian steamed fish curry",
+  "nationality": [
+    "Cambodia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-amok-q4350424/fish-amok-q4350424-1.jpg",
+    "images/fish-amok-q4350424/fish-amok-q4350424-2.jpg",
+    "images/fish-amok-q4350424/fish-amok-q4350424-3.jpg",
+    "images/fish-amok-q4350424/fish-amok-q4350424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4350424",
+    "themealdb": null
+  }
+}

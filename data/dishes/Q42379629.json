@@ -1,0 +1,18 @@
+{
+  "id": "Q42379629",
+  "name": "beef biryani",
+  "description": "variety of biryani, with beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-biryani-q42379629/beef-biryani-q42379629-1.jpg",
+    "images/beef-biryani-q42379629/beef-biryani-q42379629-2.jpg",
+    "images/beef-biryani-q42379629/beef-biryani-q42379629-3.jpg",
+    "images/beef-biryani-q42379629/beef-biryani-q42379629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42379629",
+    "themealdb": null
+  }
+}

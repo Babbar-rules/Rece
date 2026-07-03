@@ -1,0 +1,18 @@
+{
+  "id": "Q4185902",
+  "name": "parbaking",
+  "description": "Cooking technique",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/parbaking-q4185902/parbaking-q4185902-1.jpg",
+    "images/parbaking-q4185902/parbaking-q4185902-2.png",
+    "images/parbaking-q4185902/parbaking-q4185902-3.jpg",
+    "images/parbaking-q4185902/parbaking-q4185902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4185902",
+    "themealdb": null
+  }
+}

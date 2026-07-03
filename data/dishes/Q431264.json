@@ -1,0 +1,20 @@
+{
+  "id": "Q431264",
+  "name": "oyster cracker",
+  "description": "food",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oyster-cracker-q431264/oyster-cracker-q431264-1.jpg",
+    "images/oyster-cracker-q431264/oyster-cracker-q431264-2.jpg",
+    "images/oyster-cracker-q431264/oyster-cracker-q431264-3.jpg",
+    "images/oyster-cracker-q431264/oyster-cracker-q431264-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q431264",
+    "themealdb": null
+  }
+}

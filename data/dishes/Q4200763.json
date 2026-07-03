@@ -1,0 +1,22 @@
+{
+  "id": "Q4200763",
+  "name": "rawon",
+  "description": "Indonesian traditional soup originating from Surabaya in East Java",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rawon-q4200763/rawon-q4200763-1.jpg",
+    "images/rawon-q4200763/rawon-q4200763-2.jpg",
+    "images/rawon-q4200763/rawon-q4200763-3.jpg",
+    "images/rawon-q4200763/rawon-q4200763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4200763",
+    "themealdb": null
+  }
+}

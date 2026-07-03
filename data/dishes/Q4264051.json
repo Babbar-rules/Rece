@@ -1,0 +1,22 @@
+{
+  "id": "Q4264051",
+  "name": "geplak",
+  "description": "Southeast Asian sweet snack, originating from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/geplak-q4264051/geplak-q4264051-1.jpg",
+    "images/geplak-q4264051/geplak-q4264051-2.jpg",
+    "images/geplak-q4264051/geplak-q4264051-3.jpg",
+    "images/geplak-q4264051/geplak-q4264051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4264051",
+    "themealdb": null
+  }
+}

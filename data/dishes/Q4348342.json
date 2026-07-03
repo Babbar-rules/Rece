@@ -1,0 +1,18 @@
+{
+  "id": "Q4348342",
+  "name": "nicotine gum",
+  "description": "type of chewing gum that delivers nicotine to the body",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nicotine-gum-q4348342/nicotine-gum-q4348342-1.jpg",
+    "images/nicotine-gum-q4348342/nicotine-gum-q4348342-2.jpg",
+    "images/nicotine-gum-q4348342/nicotine-gum-q4348342-3.png",
+    "images/nicotine-gum-q4348342/nicotine-gum-q4348342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4348342",
+    "themealdb": null
+  }
+}

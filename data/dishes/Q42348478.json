@@ -1,0 +1,18 @@
+{
+  "id": "Q42348478",
+  "name": "ilish macher paturi",
+  "description": "a dish made of Hilsa fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ilish-macher-paturi-q42348478/ilish-macher-paturi-q42348478-1.jpg",
+    "images/ilish-macher-paturi-q42348478/ilish-macher-paturi-q42348478-2.jpg",
+    "images/ilish-macher-paturi-q42348478/ilish-macher-paturi-q42348478-3.jpg",
+    "images/ilish-macher-paturi-q42348478/ilish-macher-paturi-q42348478-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42348478",
+    "themealdb": null
+  }
+}

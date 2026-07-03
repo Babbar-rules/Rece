@@ -1,0 +1,22 @@
+{
+  "id": "Q429483",
+  "name": "English muffin",
+  "description": "small, round, flat yeast-leavened bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/english-muffin-q429483/english-muffin-q429483-1.jpg",
+    "images/english-muffin-q429483/english-muffin-q429483-2.jpg",
+    "images/english-muffin-q429483/english-muffin-q429483-3.jpg",
+    "images/english-muffin-q429483/english-muffin-q429483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q429483",
+    "themealdb": null
+  }
+}

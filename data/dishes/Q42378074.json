@@ -1,0 +1,20 @@
+{
+  "id": "Q42378074",
+  "name": "Česnečka",
+  "description": "Garlic soup in Czech cuisine and Slovak cuisine",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cesnecka-q42378074/cesnecka-q42378074-1.jpeg",
+    "images/cesnecka-q42378074/cesnecka-q42378074-2.jpg",
+    "images/cesnecka-q42378074/cesnecka-q42378074-3.jpeg",
+    "images/cesnecka-q42378074/cesnecka-q42378074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42378074",
+    "themealdb": null
+  }
+}

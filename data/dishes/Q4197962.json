@@ -1,0 +1,22 @@
+{
+  "id": "Q4197962",
+  "name": "bubur kacang hijau",
+  "description": "Indonesian mung bean soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bubur-kacang-hijau-q4197962/bubur-kacang-hijau-q4197962-1.jpg",
+    "images/bubur-kacang-hijau-q4197962/bubur-kacang-hijau-q4197962-2.jpg",
+    "images/bubur-kacang-hijau-q4197962/bubur-kacang-hijau-q4197962-3.jpg",
+    "images/bubur-kacang-hijau-q4197962/bubur-kacang-hijau-q4197962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4197962",
+    "themealdb": null
+  }
+}

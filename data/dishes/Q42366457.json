@@ -1,0 +1,20 @@
+{
+  "id": "Q42366457",
+  "name": "vegetable stock",
+  "description": "Vegetable-based food",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/vegetable-stock-q42366457/vegetable-stock-q42366457-1.jpg",
+    "images/vegetable-stock-q42366457/vegetable-stock-q42366457-2.jpg",
+    "images/vegetable-stock-q42366457/vegetable-stock-q42366457-3.jpg",
+    "images/vegetable-stock-q42366457/vegetable-stock-q42366457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42366457",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q42903380",
+  "name": "Huesitos",
+  "description": "Chocolat derivate",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huesitos-q42903380/huesitos-q42903380-1.jpg",
+    "images/huesitos-q42903380/huesitos-q42903380-2.jpg",
+    "images/huesitos-q42903380/huesitos-q42903380-3.jpg",
+    "images/huesitos-q42903380/huesitos-q42903380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42903380",
+    "themealdb": null
+  }
+}

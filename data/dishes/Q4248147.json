@@ -1,0 +1,20 @@
+{
+  "id": "Q4248147",
+  "name": "Amezaiku",
+  "description": "Japanese candy craft artistry",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amezaiku-q4248147/amezaiku-q4248147-1.jpg",
+    "images/amezaiku-q4248147/amezaiku-q4248147-2.jpg",
+    "images/amezaiku-q4248147/amezaiku-q4248147-3.jpg",
+    "images/amezaiku-q4248147/amezaiku-q4248147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4248147",
+    "themealdb": null
+  }
+}

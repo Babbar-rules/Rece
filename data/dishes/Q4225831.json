@@ -1,0 +1,19 @@
+{
+  "id": "Q4225831",
+  "name": "kovrizhka",
+  "description": "",
+  "nationality": [
+    "Kievan Rus'"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kovrizhka-q4225831/kovrizhka-q4225831-1.jpg",
+    "images/kovrizhka-q4225831/kovrizhka-q4225831-2.jpg",
+    "images/kovrizhka-q4225831/kovrizhka-q4225831-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4225831",
+    "themealdb": null
+  }
+}

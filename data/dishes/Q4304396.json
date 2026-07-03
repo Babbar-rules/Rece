@@ -1,0 +1,18 @@
+{
+  "id": "Q4304396",
+  "name": "egg sandwich",
+  "description": "sandwich with some kind of egg filling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-sandwich-q4304396/egg-sandwich-q4304396-1.jpg",
+    "images/egg-sandwich-q4304396/egg-sandwich-q4304396-2.jpg",
+    "images/egg-sandwich-q4304396/egg-sandwich-q4304396-3.jpg",
+    "images/egg-sandwich-q4304396/egg-sandwich-q4304396-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4304396",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q4165267",
+  "name": "makdous",
+  "description": "Levantine dish of eggplants cured in oil",
+  "nationality": [
+    "Middle East",
+    "Levant",
+    "Occupied Palestinian territories"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/makdous-q4165267/makdous-q4165267-1.jpg",
+    "images/makdous-q4165267/makdous-q4165267-2.jpg",
+    "images/makdous-q4165267/makdous-q4165267-3.jpg",
+    "images/makdous-q4165267/makdous-q4165267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4165267",
+    "themealdb": null
+  }
+}

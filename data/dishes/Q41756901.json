@@ -1,0 +1,18 @@
+{
+  "id": "Q41756901",
+  "name": "Guldnougat",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/guldnougat-q41756901/guldnougat-q41756901-1.jpg",
+    "images/guldnougat-q41756901/guldnougat-q41756901-2.jpg",
+    "images/guldnougat-q41756901/guldnougat-q41756901-3.jpg",
+    "images/guldnougat-q41756901/guldnougat-q41756901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41756901",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q4199436",
+  "name": "lawar",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lawar-q4199436/lawar-q4199436-1.jpg",
+    "images/lawar-q4199436/lawar-q4199436-2.jpg",
+    "images/lawar-q4199436/lawar-q4199436-3.jpg",
+    "images/lawar-q4199436/lawar-q4199436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4199436",
+    "themealdb": null
+  }
+}

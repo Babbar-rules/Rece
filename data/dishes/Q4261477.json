@@ -1,0 +1,20 @@
+{
+  "id": "Q4261477",
+  "name": "mitsumame",
+  "description": "Japanese dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mitsumame-q4261477/mitsumame-q4261477-1.jpg",
+    "images/mitsumame-q4261477/mitsumame-q4261477-2.jpg",
+    "images/mitsumame-q4261477/mitsumame-q4261477-3.jpg",
+    "images/mitsumame-q4261477/mitsumame-q4261477-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4261477",
+    "themealdb": null
+  }
+}

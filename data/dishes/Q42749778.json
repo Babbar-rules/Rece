@@ -1,0 +1,20 @@
+{
+  "id": "Q42749778",
+  "name": "Torta degli ebrei",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-degli-ebrei-q42749778/torta-degli-ebrei-q42749778-1.jpg",
+    "images/torta-degli-ebrei-q42749778/torta-degli-ebrei-q42749778-2.jpg",
+    "images/torta-degli-ebrei-q42749778/torta-degli-ebrei-q42749778-3.jpg",
+    "images/torta-degli-ebrei-q42749778/torta-degli-ebrei-q42749778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42749778",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4246304",
+  "name": "yakisobapan",
+  "description": "Japanese food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yakisobapan-q4246304/yakisobapan-q4246304-1.jpg",
+    "images/yakisobapan-q4246304/yakisobapan-q4246304-2.jpg",
+    "images/yakisobapan-q4246304/yakisobapan-q4246304-3.jpg",
+    "images/yakisobapan-q4246304/yakisobapan-q4246304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4246304",
+    "themealdb": null
+  }
+}

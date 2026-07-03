@@ -1,0 +1,18 @@
+{
+  "id": "Q43668757",
+  "name": "strawberry compote",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-compote-q43668757/strawberry-compote-q43668757-1.jpg",
+    "images/strawberry-compote-q43668757/strawberry-compote-q43668757-2.jpg",
+    "images/strawberry-compote-q43668757/strawberry-compote-q43668757-3.jpg",
+    "images/strawberry-compote-q43668757/strawberry-compote-q43668757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43668757",
+    "themealdb": null
+  }
+}

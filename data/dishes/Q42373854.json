@@ -1,0 +1,20 @@
+{
+  "id": "Q42373854",
+  "name": "potato biryani",
+  "description": "form of biryani, generally vegetarian, with potato. It may contain chicken in certain variation as seen in Kolkata's famous potato biryani",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-biryani-q42373854/potato-biryani-q42373854-1.jpg",
+    "images/potato-biryani-q42373854/potato-biryani-q42373854-2.jpg",
+    "images/potato-biryani-q42373854/potato-biryani-q42373854-3.jpg",
+    "images/potato-biryani-q42373854/potato-biryani-q42373854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42373854",
+    "themealdb": null
+  }
+}

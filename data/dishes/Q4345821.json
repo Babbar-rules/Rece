@@ -1,0 +1,18 @@
+{
+  "id": "Q4345821",
+  "name": "blodplättar",
+  "description": "dish served in Finland, Estonia, Sweden and Norway",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blodplattar-q4345821/blodplattar-q4345821-1.png",
+    "images/blodplattar-q4345821/blodplattar-q4345821-2.jpg",
+    "images/blodplattar-q4345821/blodplattar-q4345821-3.png",
+    "images/blodplattar-q4345821/blodplattar-q4345821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4345821",
+    "themealdb": null
+  }
+}

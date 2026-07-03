@@ -1,0 +1,18 @@
+{
+  "id": "Q43668566",
+  "name": "banana jam",
+  "description": "jam made from bananas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-jam-q43668566/banana-jam-q43668566-1.jpg",
+    "images/banana-jam-q43668566/banana-jam-q43668566-2.jpg",
+    "images/banana-jam-q43668566/banana-jam-q43668566-3.jpg",
+    "images/banana-jam-q43668566/banana-jam-q43668566-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43668566",
+    "themealdb": null
+  }
+}

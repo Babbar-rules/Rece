@@ -1,0 +1,21 @@
+{
+  "id": "Q42364024",
+  "name": "chicken biryani",
+  "description": "a variety of biryani, with chicken",
+  "nationality": [],
+  "region_cuisine": [
+    "Bengali cuisine",
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/chicken-biryani-q42364024/chicken-biryani-q42364024-1.jpg",
+    "images/chicken-biryani-q42364024/chicken-biryani-q42364024-2.jpg",
+    "images/chicken-biryani-q42364024/chicken-biryani-q42364024-3.jpg",
+    "images/chicken-biryani-q42364024/chicken-biryani-q42364024-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42364024",
+    "themealdb": null
+  }
+}

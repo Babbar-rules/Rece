@@ -1,0 +1,23 @@
+{
+  "id": "Q4208154",
+  "name": "mie aceh",
+  "description": "Indonesian curried spicy noodle dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/mie-aceh-q4208154/mie-aceh-q4208154-1.jpg",
+    "images/mie-aceh-q4208154/mie-aceh-q4208154-2.jpg",
+    "images/mie-aceh-q4208154/mie-aceh-q4208154-3.png",
+    "images/mie-aceh-q4208154/mie-aceh-q4208154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4208154",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q43669016",
+  "name": "orange jam",
+  "description": "jam made from oranges",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/orange-jam-q43669016/orange-jam-q43669016-1.jpg",
+    "images/orange-jam-q43669016/orange-jam-q43669016-2.jpg",
+    "images/orange-jam-q43669016/orange-jam-q43669016-3.jpg",
+    "images/orange-jam-q43669016/orange-jam-q43669016-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43669016",
+    "themealdb": null
+  }
+}

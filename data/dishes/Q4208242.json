@@ -1,0 +1,20 @@
+{
+  "id": "Q4208242",
+  "name": "sayur lodeh",
+  "description": "Indonesian vegetable soup originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sayur-lodeh-q4208242/sayur-lodeh-q4208242-1.jpg",
+    "images/sayur-lodeh-q4208242/sayur-lodeh-q4208242-2.jpg",
+    "images/sayur-lodeh-q4208242/sayur-lodeh-q4208242-3.jpg",
+    "images/sayur-lodeh-q4208242/sayur-lodeh-q4208242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4208242",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4130778",
+  "name": "Ais Kacang",
+  "description": "Ais Kacang another variations of Air batu campur",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ais-kacang-q4130778/ais-kacang-q4130778-1.jpg",
+    "images/ais-kacang-q4130778/ais-kacang-q4130778-2.webp",
+    "images/ais-kacang-q4130778/ais-kacang-q4130778-3.jpg",
+    "images/ais-kacang-q4130778/ais-kacang-q4130778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4130778",
+    "themealdb": null
+  }
+}

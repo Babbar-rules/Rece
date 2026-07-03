@@ -1,0 +1,21 @@
+{
+  "id": "Q4201329",
+  "name": "rice lengko",
+  "description": "a typical rice dish from Cirebon, West Java",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rice-lengko-q4201329/rice-lengko-q4201329-1.jpg",
+    "images/rice-lengko-q4201329/rice-lengko-q4201329-2.jpg",
+    "images/rice-lengko-q4201329/rice-lengko-q4201329-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4201329",
+    "themealdb": null
+  }
+}

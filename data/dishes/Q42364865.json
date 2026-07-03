@@ -1,0 +1,18 @@
+{
+  "id": "Q42364865",
+  "name": "fish biryani",
+  "description": "a variety of biryani, with fish mostly in coastal states in India like Bengal, Tamil Nadu, Kerala, Odisha, etc.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-biryani-q42364865/fish-biryani-q42364865-1.jpg",
+    "images/fish-biryani-q42364865/fish-biryani-q42364865-2.jpg",
+    "images/fish-biryani-q42364865/fish-biryani-q42364865-3.jpg",
+    "images/fish-biryani-q42364865/fish-biryani-q42364865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42364865",
+    "themealdb": null
+  }
+}

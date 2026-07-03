@@ -1,0 +1,18 @@
+{
+  "id": "Q42381119",
+  "name": "Doi Ilish",
+  "description": "an item made of Hilsa fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doi-ilish-q42381119/doi-ilish-q42381119-1.jpg",
+    "images/doi-ilish-q42381119/doi-ilish-q42381119-2.jpg",
+    "images/doi-ilish-q42381119/doi-ilish-q42381119-3.jpg",
+    "images/doi-ilish-q42381119/doi-ilish-q42381119-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42381119",
+    "themealdb": null
+  }
+}

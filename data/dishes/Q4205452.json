@@ -1,0 +1,22 @@
+{
+  "id": "Q4205452",
+  "name": "nasi kebuli",
+  "description": "Indonesian rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-kebuli-q4205452/nasi-kebuli-q4205452-1.jpg",
+    "images/nasi-kebuli-q4205452/nasi-kebuli-q4205452-2.jpg",
+    "images/nasi-kebuli-q4205452/nasi-kebuli-q4205452-3.jpg",
+    "images/nasi-kebuli-q4205452/nasi-kebuli-q4205452-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4205452",
+    "themealdb": null
+  }
+}

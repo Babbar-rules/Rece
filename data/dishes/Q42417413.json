@@ -1,0 +1,20 @@
+{
+  "id": "Q42417413",
+  "name": "ruby chocolate",
+  "description": "reddish, sour chocolate made with unfermented cocoa beans",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ruby-chocolate-q42417413/ruby-chocolate-q42417413-1.jpg",
+    "images/ruby-chocolate-q42417413/ruby-chocolate-q42417413-2.jpg",
+    "images/ruby-chocolate-q42417413/ruby-chocolate-q42417413-3.jpg",
+    "images/ruby-chocolate-q42417413/ruby-chocolate-q42417413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42417413",
+    "themealdb": null
+  }
+}

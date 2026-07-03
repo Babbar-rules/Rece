@@ -1,0 +1,18 @@
+{
+  "id": "Q42395543",
+  "name": "Kalyani biryani",
+  "description": "variety of biryani, popular in Hyderabad, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalyani-biryani-q42395543/kalyani-biryani-q42395543-1.jpg",
+    "images/kalyani-biryani-q42395543/kalyani-biryani-q42395543-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42395543",
+    "themealdb": null
+  }
+}

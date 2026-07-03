@@ -1,0 +1,22 @@
+{
+  "id": "Q4272202",
+  "name": "tongseng",
+  "description": "Indonesian goat soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tongseng-q4272202/tongseng-q4272202-1.jpg",
+    "images/tongseng-q4272202/tongseng-q4272202-2.jpg",
+    "images/tongseng-q4272202/tongseng-q4272202-3.jpg",
+    "images/tongseng-q4272202/tongseng-q4272202-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4272202",
+    "themealdb": null
+  }
+}

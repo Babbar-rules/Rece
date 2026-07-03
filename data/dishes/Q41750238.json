@@ -1,0 +1,18 @@
+{
+  "id": "Q41750238",
+  "name": "Djungelvrål",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/djungelvral-q41750238/djungelvral-q41750238-1.jpg",
+    "images/djungelvral-q41750238/djungelvral-q41750238-2.jpg",
+    "images/djungelvral-q41750238/djungelvral-q41750238-3.jpg",
+    "images/djungelvral-q41750238/djungelvral-q41750238-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41750238",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q4202016",
+  "name": "lupis",
+  "description": "Indonesian traditional cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lupis-q4202016/lupis-q4202016-1.jpg",
+    "images/lupis-q4202016/lupis-q4202016-2.jpg",
+    "images/lupis-q4202016/lupis-q4202016-3.jpg",
+    "images/lupis-q4202016/lupis-q4202016-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4202016",
+    "themealdb": null
+  }
+}

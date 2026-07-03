@@ -1,0 +1,25 @@
+{
+  "id": "Q4250363",
+  "name": "Kuyrdak",
+  "description": "Central Asian meat dish",
+  "nationality": [
+    "Kazakhstan",
+    "Kyrgyzstan"
+  ],
+  "region_cuisine": [
+    "Turkmen cuisine",
+    "Cuisine of Uzbekistan",
+    "Karakalpak cuisine",
+    "Kyrgyz cuisine",
+    "Kazakh cuisine"
+  ],
+  "images": [
+    "images/kuyrdak-q4250363/kuyrdak-q4250363-1.jpg",
+    "images/kuyrdak-q4250363/kuyrdak-q4250363-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4250363",
+    "themealdb": null
+  }
+}

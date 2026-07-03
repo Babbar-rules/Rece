@@ -1,0 +1,20 @@
+{
+  "id": "Q413449",
+  "name": "ajvar",
+  "description": "Spread made from roasted red peppers, garlic and spices. Originating from Balkans.",
+  "nationality": [],
+  "region_cuisine": [
+    "Balkan cuisine"
+  ],
+  "images": [
+    "images/ajvar-q413449/ajvar-q413449-1.jpg",
+    "images/ajvar-q413449/ajvar-q413449-2.jpg",
+    "images/ajvar-q413449/ajvar-q413449-3.jpg",
+    "images/ajvar-q413449/ajvar-q413449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q413449",
+    "themealdb": null
+  }
+}

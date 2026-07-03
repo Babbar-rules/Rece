@@ -1,0 +1,20 @@
+{
+  "id": "Q4222435",
+  "name": "Kitakata ramen",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kitakata-ramen-q4222435/kitakata-ramen-q4222435-1.jpg",
+    "images/kitakata-ramen-q4222435/kitakata-ramen-q4222435-2.jpg",
+    "images/kitakata-ramen-q4222435/kitakata-ramen-q4222435-3.jpg",
+    "images/kitakata-ramen-q4222435/kitakata-ramen-q4222435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4222435",
+    "themealdb": null
+  }
+}

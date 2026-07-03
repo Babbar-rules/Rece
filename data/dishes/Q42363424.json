@@ -1,0 +1,18 @@
+{
+  "id": "Q42363424",
+  "name": "Bhapa Ilish",
+  "description": "an item made of Hilsa fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bhapa-ilish-q42363424/bhapa-ilish-q42363424-1.jpg",
+    "images/bhapa-ilish-q42363424/bhapa-ilish-q42363424-2.jpg",
+    "images/bhapa-ilish-q42363424/bhapa-ilish-q42363424-3.jpg",
+    "images/bhapa-ilish-q42363424/bhapa-ilish-q42363424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42363424",
+    "themealdb": null
+  }
+}

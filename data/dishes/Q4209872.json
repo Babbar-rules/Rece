@@ -1,0 +1,20 @@
+{
+  "id": "Q4209872",
+  "name": "jeok",
+  "description": "skewered food in Korean cuisine",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeok-q4209872/jeok-q4209872-1.png",
+    "images/jeok-q4209872/jeok-q4209872-2.jpg",
+    "images/jeok-q4209872/jeok-q4209872-3.jpg",
+    "images/jeok-q4209872/jeok-q4209872-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4209872",
+    "themealdb": null
+  }
+}

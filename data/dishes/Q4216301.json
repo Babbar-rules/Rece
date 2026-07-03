@@ -1,0 +1,20 @@
+{
+  "id": "Q4216301",
+  "name": "karukan",
+  "description": "Japanese confection from Kyushu",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/karukan-q4216301/karukan-q4216301-1.jpg",
+    "images/karukan-q4216301/karukan-q4216301-2.jpg",
+    "images/karukan-q4216301/karukan-q4216301-3.jpg",
+    "images/karukan-q4216301/karukan-q4216301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4216301",
+    "themealdb": null
+  }
+}

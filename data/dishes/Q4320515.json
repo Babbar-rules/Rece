@@ -1,0 +1,20 @@
+{
+  "id": "Q4320515",
+  "name": "oatmeal raisin cookie",
+  "description": "drop cookie with oatmeal and raisins mixed into the dough",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oatmeal-raisin-cookie-q4320515/oatmeal-raisin-cookie-q4320515-1.jpg",
+    "images/oatmeal-raisin-cookie-q4320515/oatmeal-raisin-cookie-q4320515-2.jpg",
+    "images/oatmeal-raisin-cookie-q4320515/oatmeal-raisin-cookie-q4320515-3.jpg",
+    "images/oatmeal-raisin-cookie-q4320515/oatmeal-raisin-cookie-q4320515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4320515",
+    "themealdb": null
+  }
+}

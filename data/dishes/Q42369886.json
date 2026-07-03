@@ -1,0 +1,20 @@
+{
+  "id": "Q42369886",
+  "name": "Kolkata biryani",
+  "description": "a variety of biryani from Kolkata, India",
+  "nationality": [
+    "British Raj"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kolkata-biryani-q42369886/kolkata-biryani-q42369886-1.jpg",
+    "images/kolkata-biryani-q42369886/kolkata-biryani-q42369886-2.jpg",
+    "images/kolkata-biryani-q42369886/kolkata-biryani-q42369886-3.jpg",
+    "images/kolkata-biryani-q42369886/kolkata-biryani-q42369886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42369886",
+    "themealdb": null
+  }
+}

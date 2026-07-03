@@ -1,0 +1,18 @@
+{
+  "id": "Q42380699",
+  "name": "egg biryani",
+  "description": "a variety of biryani, with egg",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-biryani-q42380699/egg-biryani-q42380699-1.jpg",
+    "images/egg-biryani-q42380699/egg-biryani-q42380699-2.jpg",
+    "images/egg-biryani-q42380699/egg-biryani-q42380699-3.jpg",
+    "images/egg-biryani-q42380699/egg-biryani-q42380699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42380699",
+    "themealdb": null
+  }
+}

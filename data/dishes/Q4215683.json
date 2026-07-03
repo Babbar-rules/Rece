@@ -1,0 +1,20 @@
+{
+  "id": "Q4215683",
+  "name": "eo-mandu",
+  "description": "fish dumpling",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eo-mandu-q4215683/eo-mandu-q4215683-1.jpg",
+    "images/eo-mandu-q4215683/eo-mandu-q4215683-2.jpg",
+    "images/eo-mandu-q4215683/eo-mandu-q4215683-3.jpg",
+    "images/eo-mandu-q4215683/eo-mandu-q4215683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4215683",
+    "themealdb": null
+  }
+}

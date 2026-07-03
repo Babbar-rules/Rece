@@ -1,0 +1,18 @@
+{
+  "id": "Q4247469",
+  "name": "korokkepan",
+  "description": "Japanese dish of a bun with Japanese croquet and sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/korokkepan-q4247469/korokkepan-q4247469-1.jpg",
+    "images/korokkepan-q4247469/korokkepan-q4247469-2.jpg",
+    "images/korokkepan-q4247469/korokkepan-q4247469-3.jpg",
+    "images/korokkepan-q4247469/korokkepan-q4247469-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4247469",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4152552",
+  "name": "Guriev porridge",
+  "description": "porridge made with semolina, nuts, milk and dried fruit",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guriev-porridge-q4152552/guriev-porridge-q4152552-1.jpg",
+    "images/guriev-porridge-q4152552/guriev-porridge-q4152552-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4152552",
+    "themealdb": null
+  }
+}

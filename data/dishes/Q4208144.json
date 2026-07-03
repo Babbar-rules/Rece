@@ -1,0 +1,22 @@
+{
+  "id": "Q4208144",
+  "name": "bakwan",
+  "description": "vegetable fritter",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bakwan-q4208144/bakwan-q4208144-1.jpg",
+    "images/bakwan-q4208144/bakwan-q4208144-2.jpg",
+    "images/bakwan-q4208144/bakwan-q4208144-3.jpg",
+    "images/bakwan-q4208144/bakwan-q4208144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4208144",
+    "themealdb": null
+  }
+}

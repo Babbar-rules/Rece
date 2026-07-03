@@ -1,0 +1,19 @@
+{
+  "id": "Q42935277",
+  "name": "jambon cru du Valais",
+  "description": "Swiss ham specialty",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jambon-cru-du-valais-q42935277/jambon-cru-du-valais-q42935277-1.jpg",
+    "images/jambon-cru-du-valais-q42935277/jambon-cru-du-valais-q42935277-2.jpg",
+    "images/jambon-cru-du-valais-q42935277/jambon-cru-du-valais-q42935277-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42935277",
+    "themealdb": null
+  }
+}

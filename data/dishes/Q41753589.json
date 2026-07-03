@@ -1,0 +1,18 @@
+{
+  "id": "Q41753589",
+  "name": "Pim Pim",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pim-pim-q41753589/pim-pim-q41753589-1.jpg",
+    "images/pim-pim-q41753589/pim-pim-q41753589-2.jpg",
+    "images/pim-pim-q41753589/pim-pim-q41753589-3.jpg",
+    "images/pim-pim-q41753589/pim-pim-q41753589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41753589",
+    "themealdb": null
+  }
+}

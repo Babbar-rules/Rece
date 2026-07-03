@@ -1,0 +1,18 @@
+{
+  "id": "Q42396212",
+  "name": "Cadbury Heroes",
+  "description": "brand of chocolate sweets",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cadbury-heroes-q42396212/cadbury-heroes-q42396212-1.jpg",
+    "images/cadbury-heroes-q42396212/cadbury-heroes-q42396212-2.jpg",
+    "images/cadbury-heroes-q42396212/cadbury-heroes-q42396212-3.jpg",
+    "images/cadbury-heroes-q42396212/cadbury-heroes-q42396212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42396212",
+    "themealdb": null
+  }
+}

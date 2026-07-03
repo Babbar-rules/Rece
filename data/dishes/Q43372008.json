@@ -1,0 +1,19 @@
+{
+  "id": "Q43372008",
+  "name": "totché",
+  "description": "A traditional cake from the Canton of Jura, in Switzerland",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/totche-q43372008/totche-q43372008-1.jpg",
+    "images/totche-q43372008/totche-q43372008-2.jpg",
+    "images/totche-q43372008/totche-q43372008-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43372008",
+    "themealdb": null
+  }
+}

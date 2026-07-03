@@ -1,0 +1,18 @@
+{
+  "id": "Q41806779",
+  "name": "sundaeguk",
+  "description": "Korean soup containing sundae (Korean blood sausage)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sundaeguk-q41806779/sundaeguk-q41806779-1.jpg",
+    "images/sundaeguk-q41806779/sundaeguk-q41806779-2.jpg",
+    "images/sundaeguk-q41806779/sundaeguk-q41806779-3.jpg",
+    "images/sundaeguk-q41806779/sundaeguk-q41806779-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41806779",
+    "themealdb": null
+  }
+}

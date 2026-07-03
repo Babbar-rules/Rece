@@ -1,0 +1,20 @@
+{
+  "id": "Q4246421",
+  "name": "Kulolo",
+  "description": "Hawaiian dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kulolo-q4246421/kulolo-q4246421-1.jpg",
+    "images/kulolo-q4246421/kulolo-q4246421-2.jpg",
+    "images/kulolo-q4246421/kulolo-q4246421-3.jpg",
+    "images/kulolo-q4246421/kulolo-q4246421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4246421",
+    "themealdb": null
+  }
+}

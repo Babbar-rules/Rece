@@ -1,0 +1,20 @@
+{
+  "id": "Q429518",
+  "name": "cordon bleu",
+  "description": "meat and cheese dish",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cordon-bleu-q429518/cordon-bleu-q429518-1.jpg",
+    "images/cordon-bleu-q429518/cordon-bleu-q429518-2.jpg",
+    "images/cordon-bleu-q429518/cordon-bleu-q429518-3.jpg",
+    "images/cordon-bleu-q429518/cordon-bleu-q429518-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q429518",
+    "themealdb": null
+  }
+}

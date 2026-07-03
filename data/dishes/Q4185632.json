@@ -1,0 +1,21 @@
+{
+  "id": "Q4185632",
+  "name": "zeamă",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Moldovan cuisine",
+    "Romanian cuisine"
+  ],
+  "images": [
+    "images/zeama-q4185632/zeama-q4185632-1.jpg",
+    "images/zeama-q4185632/zeama-q4185632-2.jpg",
+    "images/zeama-q4185632/zeama-q4185632-3.png",
+    "images/zeama-q4185632/zeama-q4185632-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4185632",
+    "themealdb": null
+  }
+}

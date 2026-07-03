@@ -1,0 +1,24 @@
+{
+  "id": "Q4189322",
+  "name": "gulai",
+  "description": "Indonesian curry-like dish originating from Sumatra island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine",
+    "Singaporean cuisine",
+    "Padang cuisine"
+  ],
+  "images": [
+    "images/gulai-q4189322/gulai-q4189322-1.jpg",
+    "images/gulai-q4189322/gulai-q4189322-2.jpg",
+    "images/gulai-q4189322/gulai-q4189322-3.jpeg",
+    "images/gulai-q4189322/gulai-q4189322-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4189322",
+    "themealdb": null
+  }
+}

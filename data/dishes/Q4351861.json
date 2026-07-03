@@ -1,0 +1,18 @@
+{
+  "id": "Q4351861",
+  "name": "Princessa",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/princessa-q4351861/princessa-q4351861-1.jpg",
+    "images/princessa-q4351861/princessa-q4351861-2.jpg",
+    "images/princessa-q4351861/princessa-q4351861-3.jpg",
+    "images/princessa-q4351861/princessa-q4351861-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4351861",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q432001",
+  "name": "Túró Rudi",
+  "description": "curd cheese coated in chocolate",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turo-rudi-q432001/turo-rudi-q432001-1.jpg",
+    "images/turo-rudi-q432001/turo-rudi-q432001-2.jpg",
+    "images/turo-rudi-q432001/turo-rudi-q432001-3.jpg",
+    "images/turo-rudi-q432001/turo-rudi-q432001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q432001",
+    "themealdb": null
+  }
+}

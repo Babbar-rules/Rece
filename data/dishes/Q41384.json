@@ -1,0 +1,18 @@
+{
+  "id": "Q41384",
+  "name": "chicken foot as food",
+  "description": "type of offal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-foot-as-food-q41384/chicken-foot-as-food-q41384-1.jpg",
+    "images/chicken-foot-as-food-q41384/chicken-foot-as-food-q41384-2.jpg",
+    "images/chicken-foot-as-food-q41384/chicken-foot-as-food-q41384-3.jpg",
+    "images/chicken-foot-as-food-q41384/chicken-foot-as-food-q41384-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41384",
+    "themealdb": null
+  }
+}

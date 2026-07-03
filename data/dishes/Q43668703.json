@@ -1,0 +1,18 @@
+{
+  "id": "Q43668703",
+  "name": "strawberry cheesecake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-cheesecake-q43668703/strawberry-cheesecake-q43668703-1.jpg",
+    "images/strawberry-cheesecake-q43668703/strawberry-cheesecake-q43668703-2.jpg",
+    "images/strawberry-cheesecake-q43668703/strawberry-cheesecake-q43668703-3.jpg",
+    "images/strawberry-cheesecake-q43668703/strawberry-cheesecake-q43668703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43668703",
+    "themealdb": null
+  }
+}

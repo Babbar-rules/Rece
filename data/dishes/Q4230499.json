@@ -1,0 +1,18 @@
+{
+  "id": "Q4230499",
+  "name": "fondant",
+  "description": "mixture of sugar and water used as a confection, filling, or icing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fondant-q4230499/fondant-q4230499-1.jpg",
+    "images/fondant-q4230499/fondant-q4230499-2.jpg",
+    "images/fondant-q4230499/fondant-q4230499-3.jpg",
+    "images/fondant-q4230499/fondant-q4230499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4230499",
+    "themealdb": null
+  }
+}

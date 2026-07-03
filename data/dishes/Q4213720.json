@@ -1,0 +1,22 @@
+{
+  "id": "Q4213720",
+  "name": "Karađorđeva šnicla",
+  "description": "Serbian dish",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [
+    "Serbian cuisine"
+  ],
+  "images": [
+    "images/karaoreva-snicla-q4213720/karaoreva-snicla-q4213720-1.jpg",
+    "images/karaoreva-snicla-q4213720/karaoreva-snicla-q4213720-2.jpg",
+    "images/karaoreva-snicla-q4213720/karaoreva-snicla-q4213720-3.jpg",
+    "images/karaoreva-snicla-q4213720/karaoreva-snicla-q4213720-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4213720",
+    "themealdb": null
+  }
+}

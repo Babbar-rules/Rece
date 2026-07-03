@@ -1,0 +1,19 @@
+{
+  "id": "Q4251295",
+  "name": "kofte bozbash",
+  "description": "stew dish with meatballs",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kofte-bozbash-q4251295/kofte-bozbash-q4251295-1.jpg",
+    "images/kofte-bozbash-q4251295/kofte-bozbash-q4251295-2.jpg",
+    "images/kofte-bozbash-q4251295/kofte-bozbash-q4251295-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4251295",
+    "themealdb": null
+  }
+}

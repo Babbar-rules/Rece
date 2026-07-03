@@ -1,0 +1,19 @@
+{
+  "id": "Q4351446",
+  "name": "pearl barley porridge",
+  "description": "a dish common in Russian cuisine",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pearl-barley-porridge-q4351446/pearl-barley-porridge-q4351446-1.jpg",
+    "images/pearl-barley-porridge-q4351446/pearl-barley-porridge-q4351446-2.jpg",
+    "images/pearl-barley-porridge-q4351446/pearl-barley-porridge-q4351446-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4351446",
+    "themealdb": null
+  }
+}

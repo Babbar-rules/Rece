@@ -1,0 +1,20 @@
+{
+  "id": "Q4207282",
+  "name": "pyeonyuk",
+  "description": "pressed boiled meat",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pyeonyuk-q4207282/pyeonyuk-q4207282-1.jpg",
+    "images/pyeonyuk-q4207282/pyeonyuk-q4207282-2.jpg",
+    "images/pyeonyuk-q4207282/pyeonyuk-q4207282-3.jpg",
+    "images/pyeonyuk-q4207282/pyeonyuk-q4207282-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4207282",
+    "themealdb": null
+  }
+}

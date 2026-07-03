@@ -1,0 +1,22 @@
+{
+  "id": "Q413126",
+  "name": "ajoblanco",
+  "description": "type of cold soup from Andalusia",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Andalusian cuisine"
+  ],
+  "images": [
+    "images/ajoblanco-q413126/ajoblanco-q413126-1.jpg",
+    "images/ajoblanco-q413126/ajoblanco-q413126-2.jpg",
+    "images/ajoblanco-q413126/ajoblanco-q413126-3.jpg",
+    "images/ajoblanco-q413126/ajoblanco-q413126-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q413126",
+    "themealdb": null
+  }
+}

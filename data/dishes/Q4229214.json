@@ -1,0 +1,20 @@
+{
+  "id": "Q4229214",
+  "name": "Komanmelna",
+  "description": "variety of pancakes",
+  "nationality": [],
+  "region_cuisine": [
+    "Mari cuisine"
+  ],
+  "images": [
+    "images/komanmelna-q4229214/komanmelna-q4229214-1.jpg",
+    "images/komanmelna-q4229214/komanmelna-q4229214-2.jpg",
+    "images/komanmelna-q4229214/komanmelna-q4229214-3.jpg",
+    "images/komanmelna-q4229214/komanmelna-q4229214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4229214",
+    "themealdb": null
+  }
+}

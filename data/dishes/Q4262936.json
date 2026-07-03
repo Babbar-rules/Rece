@@ -1,0 +1,22 @@
+{
+  "id": "Q4262936",
+  "name": "Combro",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/combro-q4262936/combro-q4262936-1.jpg",
+    "images/combro-q4262936/combro-q4262936-2.jpg",
+    "images/combro-q4262936/combro-q4262936-3.jpg",
+    "images/combro-q4262936/combro-q4262936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4262936",
+    "themealdb": null
+  }
+}

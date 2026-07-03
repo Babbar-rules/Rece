@@ -1,0 +1,20 @@
+{
+  "id": "Q4154144",
+  "name": "Dalieba",
+  "description": "Chinese bread similar to Russian rye bread",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dalieba-q4154144/dalieba-q4154144-1.jpg",
+    "images/dalieba-q4154144/dalieba-q4154144-2.jpg",
+    "images/dalieba-q4154144/dalieba-q4154144-3.jpg",
+    "images/dalieba-q4154144/dalieba-q4154144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4154144",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q427226",
+  "name": "omurice",
+  "description": "Yōshoku omelet with fried rice filling",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/omurice-q427226/omurice-q427226-1.jpg",
+    "images/omurice-q427226/omurice-q427226-2.jpg",
+    "images/omurice-q427226/omurice-q427226-3.jpg",
+    "images/omurice-q427226/omurice-q427226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q427226",
+    "themealdb": null
+  }
+}

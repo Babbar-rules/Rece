@@ -1,0 +1,18 @@
+{
+  "id": "Q4159174",
+  "name": "ice cream-based dessert",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-based-dessert-q4159174/ice-cream-based-dessert-q4159174-1.jpg",
+    "images/ice-cream-based-dessert-q4159174/ice-cream-based-dessert-q4159174-2.jpg",
+    "images/ice-cream-based-dessert-q4159174/ice-cream-based-dessert-q4159174-3.jpg",
+    "images/ice-cream-based-dessert-q4159174/ice-cream-based-dessert-q4159174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4159174",
+    "themealdb": null
+  }
+}

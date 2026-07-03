@@ -1,0 +1,18 @@
+{
+  "id": "Q43668658",
+  "name": "strawberry biscuit",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-biscuit-q43668658/strawberry-biscuit-q43668658-1.jpg",
+    "images/strawberry-biscuit-q43668658/strawberry-biscuit-q43668658-2.jpg",
+    "images/strawberry-biscuit-q43668658/strawberry-biscuit-q43668658-3.jpg",
+    "images/strawberry-biscuit-q43668658/strawberry-biscuit-q43668658-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43668658",
+    "themealdb": null
+  }
+}

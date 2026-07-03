@@ -1,0 +1,20 @@
+{
+  "id": "Q42417761",
+  "name": "Aguadito de pollo",
+  "description": "Peruvian chicken soup",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aguadito-de-pollo-q42417761/aguadito-de-pollo-q42417761-1.jpg",
+    "images/aguadito-de-pollo-q42417761/aguadito-de-pollo-q42417761-2.jpg",
+    "images/aguadito-de-pollo-q42417761/aguadito-de-pollo-q42417761-3.jpg",
+    "images/aguadito-de-pollo-q42417761/aguadito-de-pollo-q42417761-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42417761",
+    "themealdb": null
+  }
+}

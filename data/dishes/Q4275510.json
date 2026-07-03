@@ -1,0 +1,20 @@
+{
+  "id": "Q4275510",
+  "name": "makarony po-flotski",
+  "description": "Russian dish of pasta and ground meat",
+  "nationality": [
+    "Soviet Union"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/makarony-po-flotski-q4275510/makarony-po-flotski-q4275510-1.jpg",
+    "images/makarony-po-flotski-q4275510/makarony-po-flotski-q4275510-2.jpg",
+    "images/makarony-po-flotski-q4275510/makarony-po-flotski-q4275510-3.jpg",
+    "images/makarony-po-flotski-q4275510/makarony-po-flotski-q4275510-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4275510",
+    "themealdb": null
+  }
+}

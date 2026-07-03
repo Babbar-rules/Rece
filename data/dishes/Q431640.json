@@ -1,0 +1,22 @@
+{
+  "id": "Q431640",
+  "name": "teppanyaki",
+  "description": "dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/teppanyaki-q431640/teppanyaki-q431640-1.jpg",
+    "images/teppanyaki-q431640/teppanyaki-q431640-2.jpg",
+    "images/teppanyaki-q431640/teppanyaki-q431640-3.jpg",
+    "images/teppanyaki-q431640/teppanyaki-q431640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q431640",
+    "themealdb": null
+  }
+}

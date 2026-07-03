@@ -1,0 +1,18 @@
+{
+  "id": "Q41804851",
+  "name": "pork chops and applesauce",
+  "description": "traditional dish in Spain and the United Kingdom, consisting of cooked pork chops and apple sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-chops-and-applesauce-q41804851/pork-chops-and-applesauce-q41804851-1.jpg",
+    "images/pork-chops-and-applesauce-q41804851/pork-chops-and-applesauce-q41804851-2.jpg",
+    "images/pork-chops-and-applesauce-q41804851/pork-chops-and-applesauce-q41804851-3.jpg",
+    "images/pork-chops-and-applesauce-q41804851/pork-chops-and-applesauce-q41804851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41804851",
+    "themealdb": null
+  }
+}

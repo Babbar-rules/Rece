@@ -1,0 +1,20 @@
+{
+  "id": "Q4215727",
+  "name": "jatjuk",
+  "description": "Korean porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jatjuk-q4215727/jatjuk-q4215727-1.jpg",
+    "images/jatjuk-q4215727/jatjuk-q4215727-2.jpg",
+    "images/jatjuk-q4215727/jatjuk-q4215727-3.jpg",
+    "images/jatjuk-q4215727/jatjuk-q4215727-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4215727",
+    "themealdb": null
+  }
+}

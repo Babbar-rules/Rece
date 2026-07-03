@@ -1,0 +1,20 @@
+{
+  "id": "Q43038747",
+  "name": "Kaletez",
+  "description": "buckwheat pancake in Breton cuisine",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaletez-q43038747/kaletez-q43038747-1.jpg",
+    "images/kaletez-q43038747/kaletez-q43038747-2.jpg",
+    "images/kaletez-q43038747/kaletez-q43038747-3.jpg",
+    "images/kaletez-q43038747/kaletez-q43038747-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43038747",
+    "themealdb": null
+  }
+}

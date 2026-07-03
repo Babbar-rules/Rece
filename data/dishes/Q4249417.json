@@ -1,0 +1,20 @@
+{
+  "id": "Q4249417",
+  "name": "qutab",
+  "description": "Azerbaijani dough dish",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/qutab-q4249417/qutab-q4249417-1.gif",
+    "images/qutab-q4249417/qutab-q4249417-2.jpg",
+    "images/qutab-q4249417/qutab-q4249417-3.gif",
+    "images/qutab-q4249417/qutab-q4249417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4249417",
+    "themealdb": null
+  }
+}

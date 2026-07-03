@@ -1,0 +1,17 @@
+{
+  "id": "Q42381360",
+  "name": "Rui Machher Kalia",
+  "description": "dish made of rohu fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rui-machher-kalia-q42381360/rui-machher-kalia-q42381360-1.jpg",
+    "images/rui-machher-kalia-q42381360/rui-machher-kalia-q42381360-2.jpg",
+    "images/rui-machher-kalia-q42381360/rui-machher-kalia-q42381360-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42381360",
+    "themealdb": null
+  }
+}

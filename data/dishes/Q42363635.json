@@ -1,0 +1,18 @@
+{
+  "id": "Q42363635",
+  "name": "mutton biryani",
+  "description": "a variety of biryani, with mutton added",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mutton-biryani-q42363635/mutton-biryani-q42363635-1.jpg",
+    "images/mutton-biryani-q42363635/mutton-biryani-q42363635-2.jpg",
+    "images/mutton-biryani-q42363635/mutton-biryani-q42363635-3.jpg",
+    "images/mutton-biryani-q42363635/mutton-biryani-q42363635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42363635",
+    "themealdb": null
+  }
+}

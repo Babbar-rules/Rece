@@ -1,0 +1,18 @@
+{
+  "id": "Q41757362",
+  "name": "Gott & blandat",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gott-blandat-q41757362/gott-blandat-q41757362-1.jpg",
+    "images/gott-blandat-q41757362/gott-blandat-q41757362-2.jpg",
+    "images/gott-blandat-q41757362/gott-blandat-q41757362-3.jpg",
+    "images/gott-blandat-q41757362/gott-blandat-q41757362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41757362",
+    "themealdb": null
+  }
+}

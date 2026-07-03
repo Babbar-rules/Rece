@@ -1,0 +1,20 @@
+{
+  "id": "Q4337658",
+  "name": "Ossetian pies",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Ossetian cuisine"
+  ],
+  "images": [
+    "images/ossetian-pies-q4337658/ossetian-pies-q4337658-1.jpg",
+    "images/ossetian-pies-q4337658/ossetian-pies-q4337658-2.jpg",
+    "images/ossetian-pies-q4337658/ossetian-pies-q4337658-3.jpg",
+    "images/ossetian-pies-q4337658/ossetian-pies-q4337658-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4337658",
+    "themealdb": null
+  }
+}

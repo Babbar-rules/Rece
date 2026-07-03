@@ -1,0 +1,20 @@
+{
+  "id": "Q4247887",
+  "name": "katsu sandwich",
+  "description": "Japanese sandwich",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katsu-sandwich-q4247887/katsu-sandwich-q4247887-1.jpg",
+    "images/katsu-sandwich-q4247887/katsu-sandwich-q4247887-2.jpg",
+    "images/katsu-sandwich-q4247887/katsu-sandwich-q4247887-3.jpg",
+    "images/katsu-sandwich-q4247887/katsu-sandwich-q4247887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4247887",
+    "themealdb": null
+  }
+}

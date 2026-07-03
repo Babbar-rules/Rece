@@ -1,0 +1,18 @@
+{
+  "id": "Q42400563",
+  "name": "Rajbhog",
+  "description": "a sweet of Bengal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rajbhog-q42400563/rajbhog-q42400563-1.jpg",
+    "images/rajbhog-q42400563/rajbhog-q42400563-2.jpg",
+    "images/rajbhog-q42400563/rajbhog-q42400563-3.jpg",
+    "images/rajbhog-q42400563/rajbhog-q42400563-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42400563",
+    "themealdb": null
+  }
+}

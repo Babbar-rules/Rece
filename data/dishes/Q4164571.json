@@ -1,0 +1,23 @@
+{
+  "id": "Q4164571",
+  "name": "bazeen",
+  "description": "unleavened bread in Libyan cuisine",
+  "nationality": [
+    "Libya"
+  ],
+  "region_cuisine": [
+    "Libyan cuisine",
+    "Tunisian cuisine"
+  ],
+  "images": [
+    "images/bazeen-q4164571/bazeen-q4164571-1.jpg",
+    "images/bazeen-q4164571/bazeen-q4164571-2.jpg",
+    "images/bazeen-q4164571/bazeen-q4164571-3.jpg",
+    "images/bazeen-q4164571/bazeen-q4164571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4164571",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q4203530",
+  "name": "karedok",
+  "description": "Indonesian salad dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/karedok-q4203530/karedok-q4203530-1.jpg",
+    "images/karedok-q4203530/karedok-q4203530-2.jpg",
+    "images/karedok-q4203530/karedok-q4203530-3.jpg",
+    "images/karedok-q4203530/karedok-q4203530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4203530",
+    "themealdb": null
+  }
+}

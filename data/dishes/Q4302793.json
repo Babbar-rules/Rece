@@ -1,0 +1,23 @@
+{
+  "id": "Q4302793",
+  "name": "Morkovcha",
+  "description": "Russo-Korean carrot salad",
+  "nationality": [
+    "Soviet Union",
+    "Central Asia"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/morkovcha-q4302793/morkovcha-q4302793-1.jpg",
+    "images/morkovcha-q4302793/morkovcha-q4302793-2.jpg",
+    "images/morkovcha-q4302793/morkovcha-q4302793-3.jpg",
+    "images/morkovcha-q4302793/morkovcha-q4302793-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4302793",
+    "themealdb": null
+  }
+}

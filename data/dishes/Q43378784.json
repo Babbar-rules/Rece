@@ -1,0 +1,20 @@
+{
+  "id": "Q43378784",
+  "name": "Nagoya curry udon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nagoya-curry-udon-q43378784/nagoya-curry-udon-q43378784-1.jpg",
+    "images/nagoya-curry-udon-q43378784/nagoya-curry-udon-q43378784-2.jpg",
+    "images/nagoya-curry-udon-q43378784/nagoya-curry-udon-q43378784-3.jpg",
+    "images/nagoya-curry-udon-q43378784/nagoya-curry-udon-q43378784-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43378784",
+    "themealdb": null
+  }
+}

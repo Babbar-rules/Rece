@@ -1,0 +1,20 @@
+{
+  "id": "Q42399449",
+  "name": "Narkel Naru",
+  "description": "a sweet from Bengal",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/narkel-naru-q42399449/narkel-naru-q42399449-1.jpg",
+    "images/narkel-naru-q42399449/narkel-naru-q42399449-2.jpg",
+    "images/narkel-naru-q42399449/narkel-naru-q42399449-3.jpg",
+    "images/narkel-naru-q42399449/narkel-naru-q42399449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42399449",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4346840",
+  "name": "Lakrisal",
+  "description": "Liquorice candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lakrisal-q4346840/lakrisal-q4346840-1.jpg",
+    "images/lakrisal-q4346840/lakrisal-q4346840-2.jpg",
+    "images/lakrisal-q4346840/lakrisal-q4346840-3.jpg",
+    "images/lakrisal-q4346840/lakrisal-q4346840-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4346840",
+    "themealdb": null
+  }
+}

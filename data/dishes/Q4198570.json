@@ -1,0 +1,69 @@
+{
+  "id": "Q4198570",
+  "name": "apam balik",
+  "description": "Southeast Asian pancake",
+  "nationality": [
+    "People's Republic of China",
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/apam-balik-q4198570/apam-balik-q4198570-1.jpg",
+    "images/apam-balik-q4198570/apam-balik-q4198570-2.jpg",
+    "images/apam-balik-q4198570/apam-balik-q4198570-3.jpg",
+    "images/apam-balik-q4198570/apam-balik-q4198570-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53049",
+    "category": "Dessert",
+    "area": "Malaysian",
+    "instructions": "Mix milk, oil and egg together. Sift flour, baking powder and salt into the mixture. Stir well until all ingredients are combined evenly.\r\n\r\nSpread some batter onto the pan. Spread a thin layer of batter to the side of the pan. Cover the pan for 30-60 seconds until small air bubbles appear.\r\n\r\nAdd butter, cream corn, crushed peanuts and sugar onto the pancake. Fold the pancake into half once the bottom surface is browned.\r\n\r\nCut into wedges and best eaten when it is warm.",
+    "ingredients": [
+      {
+        "ingredient": "Milk",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Oil",
+        "measure": "60ml"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "1600g"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "3 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Unsalted Butter",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "45g"
+      },
+      {
+        "ingredient": "Peanut Butter",
+        "measure": "3 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=6R8ffRRJcrg",
+    "thumb": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4198570",
+    "themealdb": "53049"
+  }
+}

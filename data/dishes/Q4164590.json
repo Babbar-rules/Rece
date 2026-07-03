@@ -1,0 +1,18 @@
+{
+  "id": "Q4164590",
+  "name": "Mahyawa",
+  "description": "Sauce",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mahyawa-q4164590/mahyawa-q4164590-1.jpg",
+    "images/mahyawa-q4164590/mahyawa-q4164590-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4164590",
+    "themealdb": null
+  }
+}

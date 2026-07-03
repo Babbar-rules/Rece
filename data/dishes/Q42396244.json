@@ -1,0 +1,18 @@
+{
+  "id": "Q42396244",
+  "name": "Delhi biryani",
+  "description": "variety of biryani, from Delhi, India",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/delhi-biryani-q42396244/delhi-biryani-q42396244-1.jpg",
+    "images/delhi-biryani-q42396244/delhi-biryani-q42396244-2.jpg",
+    "images/delhi-biryani-q42396244/delhi-biryani-q42396244-3.jpg",
+    "images/delhi-biryani-q42396244/delhi-biryani-q42396244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q42396244",
+    "themealdb": null
+  }
+}
