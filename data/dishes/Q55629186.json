@@ -1,0 +1,18 @@
+{
+  "id": "Q55629186",
+  "name": "Pasta all'Ortolana",
+  "description": "mixed vegetable pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-allortolana-q55629186/pasta-allortolana-q55629186-1.jpg",
+    "images/pasta-allortolana-q55629186/pasta-allortolana-q55629186-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55629186",
+    "themealdb": null
+  }
+}

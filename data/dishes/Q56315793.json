@@ -1,0 +1,20 @@
+{
+  "id": "Q56315793",
+  "name": "pudim",
+  "description": "Homemade Portuguese dessert with milk, eggs and sugar, cooked in a bain-marie",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pudim-q56315793/pudim-q56315793-1.jpg",
+    "images/pudim-q56315793/pudim-q56315793-2.jpg",
+    "images/pudim-q56315793/pudim-q56315793-3.png",
+    "images/pudim-q56315793/pudim-q56315793-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56315793",
+    "themealdb": null
+  }
+}

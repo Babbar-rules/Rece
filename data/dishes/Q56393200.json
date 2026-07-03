@@ -1,0 +1,22 @@
+{
+  "id": "Q56393200",
+  "name": "man reman",
+  "description": "Indonesian traditional snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/man-reman-q56393200/man-reman-q56393200-1.jpg",
+    "images/man-reman-q56393200/man-reman-q56393200-2.jpg",
+    "images/man-reman-q56393200/man-reman-q56393200-3.jpg",
+    "images/man-reman-q56393200/man-reman-q56393200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56393200",
+    "themealdb": null
+  }
+}

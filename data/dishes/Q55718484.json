@@ -1,0 +1,92 @@
+{
+  "id": "Q55718484",
+  "name": "baked rice",
+  "description": "set index article",
+  "nationality": [
+    "Spanish"
+  ],
+  "region_cuisine": [
+    "Pork"
+  ],
+  "images": [
+    "images/baked-rice-q55718484/baked-rice-q55718484-1.jpg",
+    "images/baked-rice-q55718484/baked-rice-q55718484-2.jpg",
+    "images/baked-rice-q55718484/baked-rice-q55718484-3.jpg",
+    "images/baked-rice-q55718484/baked-rice-q55718484-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53156",
+    "category": "Pork",
+    "area": "Spanish",
+    "instructions": "step 1\r\nHeat oven to 200C/180C/gas 6. Heat half the oil in a deep frying or sauté pan (or shallow casserole dish) measuring around 30cm in diameter. Over a high heat, colour the pork belly slices on each side in several batches, then transfer to a bowl. Add the remaining oil to the pan and lower the heat to medium, then add the black pudding and bacon and fry all over for several mins. Remove with a slotted spoon. Fry the onion and peppers for around 10 mins until soft and pale gold, then add the tomato and cook until soft. Add the garlic, smoked paprika and chilli flakes and cook for another 2 mins, then put the pork, black pudding and bacon back in the pan. Add the beans, stock and whichever herb you're using, and bring everything to the boil.\r\n\r\nstep 2\r\nSprinkle the rice around the pork belly, pushing it underneath the stock. Let the stock come to the boil again, season well, then transfer to the oven (leave it uncovered). Cook for 20 mins without stirring, then check to see how the rice is doing. The rice should be tender and the stock absorbed. If it’s not ready, put back in the oven for another 5 mins, then check again. Taste for seasoning.\r\n\r\nstep 3\r\nSqueeze lemon juice over the top and drizzle over some extra virgin olive oil just before serving, if you like.",
+    "ingredients": [
+      {
+        "ingredient": "Extra Virgin Olive Oil",
+        "measure": "2 tbsp"
+      },
+      {
+        "ingredient": "Pork belly slices",
+        "measure": "800g"
+      },
+      {
+        "ingredient": "Black Pudding",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Bacon lardon",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Plum Tomatoes",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "8"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "4 teaspoons"
+      },
+      {
+        "ingredient": "Chilli Flakes",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Dried white beans",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "1 1/2 L"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "6 parts"
+      },
+      {
+        "ingredient": "Paella Rice",
+        "measure": "375g"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "1"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=f-waAIrn2iA",
+    "thumb": "https://www.themealdb.com/images/media/meals/qt4i0n1763256454.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55718484",
+    "themealdb": "53156"
+  }
+}

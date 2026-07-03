@@ -1,0 +1,20 @@
+{
+  "id": "Q5572731",
+  "name": "Ochío",
+  "description": "De Úbeda, Jaén",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ochio-q5572731/ochio-q5572731-1.jpg",
+    "images/ochio-q5572731/ochio-q5572731-2.jpg",
+    "images/ochio-q5572731/ochio-q5572731-3.jpg",
+    "images/ochio-q5572731/ochio-q5572731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5572731",
+    "themealdb": null
+  }
+}

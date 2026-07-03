@@ -1,0 +1,18 @@
+{
+  "id": "Q55599828",
+  "name": "Saucisson brioché",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/saucisson-brioche-q55599828/saucisson-brioche-q55599828-1.jpg",
+    "images/saucisson-brioche-q55599828/saucisson-brioche-q55599828-2.jpg",
+    "images/saucisson-brioche-q55599828/saucisson-brioche-q55599828-3.jpg",
+    "images/saucisson-brioche-q55599828/saucisson-brioche-q55599828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55599828",
+    "themealdb": null
+  }
+}

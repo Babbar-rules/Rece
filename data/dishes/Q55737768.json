@@ -1,0 +1,20 @@
+{
+  "id": "Q55737768",
+  "name": "jang-jorim",
+  "description": "Korean dish made of beef and soy sauce",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jang-jorim-q55737768/jang-jorim-q55737768-1.jpg",
+    "images/jang-jorim-q55737768/jang-jorim-q55737768-2.jpg",
+    "images/jang-jorim-q55737768/jang-jorim-q55737768-3.jpg",
+    "images/jang-jorim-q55737768/jang-jorim-q55737768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55737768",
+    "themealdb": null
+  }
+}

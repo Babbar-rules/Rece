@@ -1,0 +1,20 @@
+{
+  "id": "Q56236136",
+  "name": "sun-dubu",
+  "description": "extra soft tofu",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sun-dubu-q56236136/sun-dubu-q56236136-1.jpg",
+    "images/sun-dubu-q56236136/sun-dubu-q56236136-2.jpg",
+    "images/sun-dubu-q56236136/sun-dubu-q56236136-3.jpg",
+    "images/sun-dubu-q56236136/sun-dubu-q56236136-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56236136",
+    "themealdb": null
+  }
+}

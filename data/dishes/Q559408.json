@@ -1,0 +1,20 @@
+{
+  "id": "Q559408",
+  "name": "Yōkan",
+  "description": "Japanese dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yokan-q559408/yokan-q559408-1.jpg",
+    "images/yokan-q559408/yokan-q559408-2.jpg",
+    "images/yokan-q559408/yokan-q559408-3.jpg",
+    "images/yokan-q559408/yokan-q559408-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q559408",
+    "themealdb": null
+  }
+}

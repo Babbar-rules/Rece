@@ -1,0 +1,18 @@
+{
+  "id": "Q56308209",
+  "name": "Tsybulnyki",
+  "description": "Ukrainian onion pancakes",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tsybulnyki-q56308209/tsybulnyki-q56308209-1.jpg",
+    "images/tsybulnyki-q56308209/tsybulnyki-q56308209-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56308209",
+    "themealdb": null
+  }
+}

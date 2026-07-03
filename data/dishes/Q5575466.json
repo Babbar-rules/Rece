@@ -1,0 +1,20 @@
+{
+  "id": "Q5575466",
+  "name": "Gobhi paratha",
+  "description": "Indian cauliflower flatbread",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gobhi-paratha-q5575466/gobhi-paratha-q5575466-1.jpg",
+    "images/gobhi-paratha-q5575466/gobhi-paratha-q5575466-2.jpg",
+    "images/gobhi-paratha-q5575466/gobhi-paratha-q5575466-3.jpg",
+    "images/gobhi-paratha-q5575466/gobhi-paratha-q5575466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5575466",
+    "themealdb": null
+  }
+}

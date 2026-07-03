@@ -1,0 +1,20 @@
+{
+  "id": "Q56299640",
+  "name": "loukoumades",
+  "description": "Greek fried dough dessert",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/loukoumades-q56299640/loukoumades-q56299640-1.jpg",
+    "images/loukoumades-q56299640/loukoumades-q56299640-2.jpg",
+    "images/loukoumades-q56299640/loukoumades-q56299640-3.jpg",
+    "images/loukoumades-q56299640/loukoumades-q56299640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56299640",
+    "themealdb": null
+  }
+}

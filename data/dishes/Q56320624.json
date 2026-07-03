@@ -1,0 +1,17 @@
+{
+  "id": "Q56320624",
+  "name": "Schinkengipfeli",
+  "description": "ham-filled croissant",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/schinkengipfeli-q56320624/schinkengipfeli-q56320624-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56320624",
+    "themealdb": null
+  }
+}

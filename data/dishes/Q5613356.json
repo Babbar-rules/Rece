@@ -1,0 +1,20 @@
+{
+  "id": "Q5613356",
+  "name": "Guajolota",
+  "description": "Form of street food made with a tamal",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guajolota-q5613356/guajolota-q5613356-1.jpg",
+    "images/guajolota-q5613356/guajolota-q5613356-2.jpg",
+    "images/guajolota-q5613356/guajolota-q5613356-3.jpg",
+    "images/guajolota-q5613356/guajolota-q5613356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5613356",
+    "themealdb": null
+  }
+}

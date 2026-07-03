@@ -1,0 +1,18 @@
+{
+  "id": "Q5596598",
+  "name": "Grant loaf",
+  "description": "British wholemeal bread invented in World War II",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grant-loaf-q5596598/grant-loaf-q5596598-1.jpg",
+    "images/grant-loaf-q5596598/grant-loaf-q5596598-2.jpg",
+    "images/grant-loaf-q5596598/grant-loaf-q5596598-3.jpg",
+    "images/grant-loaf-q5596598/grant-loaf-q5596598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5596598",
+    "themealdb": null
+  }
+}

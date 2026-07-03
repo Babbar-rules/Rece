@@ -1,0 +1,20 @@
+{
+  "id": "Q56345506",
+  "name": "Ulster fry",
+  "description": "Northern Ireland breakfast meal",
+  "nationality": [
+    "Northern Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ulster-fry-q56345506/ulster-fry-q56345506-1.jpg",
+    "images/ulster-fry-q56345506/ulster-fry-q56345506-2.jpg",
+    "images/ulster-fry-q56345506/ulster-fry-q56345506-3.jpg",
+    "images/ulster-fry-q56345506/ulster-fry-q56345506-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56345506",
+    "themealdb": null
+  }
+}

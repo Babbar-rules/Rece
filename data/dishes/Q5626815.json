@@ -1,0 +1,20 @@
+{
+  "id": "Q5626815",
+  "name": "Güirila",
+  "description": "maize tortilla",
+  "nationality": [
+    "Nicaragua"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guirila-q5626815/guirila-q5626815-1.jpg",
+    "images/guirila-q5626815/guirila-q5626815-2.jpg",
+    "images/guirila-q5626815/guirila-q5626815-3.jpg",
+    "images/guirila-q5626815/guirila-q5626815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5626815",
+    "themealdb": null
+  }
+}

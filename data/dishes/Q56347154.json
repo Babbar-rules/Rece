@@ -1,0 +1,18 @@
+{
+  "id": "Q56347154",
+  "name": "Salad chicken",
+  "description": "Japanese packed chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salad-chicken-q56347154/salad-chicken-q56347154-1.jpg",
+    "images/salad-chicken-q56347154/salad-chicken-q56347154-2.jpg",
+    "images/salad-chicken-q56347154/salad-chicken-q56347154-3.jpg",
+    "images/salad-chicken-q56347154/salad-chicken-q56347154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56347154",
+    "themealdb": null
+  }
+}

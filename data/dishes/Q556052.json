@@ -1,0 +1,20 @@
+{
+  "id": "Q556052",
+  "name": "teacake",
+  "description": "dessert item served with tea",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/teacake-q556052/teacake-q556052-1.jpg",
+    "images/teacake-q556052/teacake-q556052-2.jpg",
+    "images/teacake-q556052/teacake-q556052-3.jpg",
+    "images/teacake-q556052/teacake-q556052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q556052",
+    "themealdb": null
+  }
+}

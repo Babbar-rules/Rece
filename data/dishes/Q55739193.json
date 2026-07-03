@@ -1,0 +1,20 @@
+{
+  "id": "Q55739193",
+  "name": "Liquirizia di Calabria",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/liquirizia-di-calabria-q55739193/liquirizia-di-calabria-q55739193-1.jpg",
+    "images/liquirizia-di-calabria-q55739193/liquirizia-di-calabria-q55739193-2.jpg",
+    "images/liquirizia-di-calabria-q55739193/liquirizia-di-calabria-q55739193-3.jpg",
+    "images/liquirizia-di-calabria-q55739193/liquirizia-di-calabria-q55739193-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55739193",
+    "themealdb": null
+  }
+}

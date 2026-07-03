@@ -1,0 +1,20 @@
+{
+  "id": "Q55663678",
+  "name": "kоłасzki",
+  "description": "Polish Christmas cookies",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kzki-q55663678/kzki-q55663678-1.jpg",
+    "images/kzki-q55663678/kzki-q55663678-2.jpg",
+    "images/kzki-q55663678/kzki-q55663678-3.jpg",
+    "images/kzki-q55663678/kzki-q55663678-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55663678",
+    "themealdb": null
+  }
+}

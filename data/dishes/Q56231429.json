@@ -1,0 +1,20 @@
+{
+  "id": "Q56231429",
+  "name": "biapong",
+  "description": "bakpao typical of North Sulawesi",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/biapong-q56231429/biapong-q56231429-1.jpg",
+    "images/biapong-q56231429/biapong-q56231429-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56231429",
+    "themealdb": null
+  }
+}

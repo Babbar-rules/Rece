@@ -1,0 +1,19 @@
+{
+  "id": "Q55832040",
+  "name": "spaghetti alla siracusana",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Syracusan cuisine"
+  ],
+  "images": [
+    "images/spaghetti-alla-siracusana-q55832040/spaghetti-alla-siracusana-q55832040-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55832040",
+    "themealdb": null
+  }
+}

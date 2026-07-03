@@ -1,0 +1,22 @@
+{
+  "id": "Q56232343",
+  "name": "Soto Bogor",
+  "description": "Indonesian soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-bogor-q56232343/soto-bogor-q56232343-1.jpg",
+    "images/soto-bogor-q56232343/soto-bogor-q56232343-2.jpg",
+    "images/soto-bogor-q56232343/soto-bogor-q56232343-3.jpg",
+    "images/soto-bogor-q56232343/soto-bogor-q56232343-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56232343",
+    "themealdb": null
+  }
+}

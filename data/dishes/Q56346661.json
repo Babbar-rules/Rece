@@ -1,0 +1,20 @@
+{
+  "id": "Q56346661",
+  "name": "Azevia",
+  "description": "Portuguese fried pastry with various fillings",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/azevia-q56346661/azevia-q56346661-1.jpg",
+    "images/azevia-q56346661/azevia-q56346661-2.jpg",
+    "images/azevia-q56346661/azevia-q56346661-3.jpg",
+    "images/azevia-q56346661/azevia-q56346661-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56346661",
+    "themealdb": null
+  }
+}

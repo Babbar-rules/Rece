@@ -1,0 +1,18 @@
+{
+  "id": "Q56345013",
+  "name": "Yakisoba BAGOOOON",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yakisoba-bagoooon-q56345013/yakisoba-bagoooon-q56345013-1.jpg",
+    "images/yakisoba-bagoooon-q56345013/yakisoba-bagoooon-q56345013-2.jpg",
+    "images/yakisoba-bagoooon-q56345013/yakisoba-bagoooon-q56345013-3.jpg",
+    "images/yakisoba-bagoooon-q56345013/yakisoba-bagoooon-q56345013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56345013",
+    "themealdb": null
+  }
+}

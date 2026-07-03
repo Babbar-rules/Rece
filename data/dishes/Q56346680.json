@@ -1,0 +1,18 @@
+{
+  "id": "Q56346680",
+  "name": "iso ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/iso-ramen-q56346680/iso-ramen-q56346680-1.jpg",
+    "images/iso-ramen-q56346680/iso-ramen-q56346680-2.jpg",
+    "images/iso-ramen-q56346680/iso-ramen-q56346680-3.jpg",
+    "images/iso-ramen-q56346680/iso-ramen-q56346680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56346680",
+    "themealdb": null
+  }
+}

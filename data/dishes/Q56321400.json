@@ -1,0 +1,18 @@
+{
+  "id": "Q56321400",
+  "name": "plato paceño",
+  "description": "Bolivian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plato-paceno-q56321400/plato-paceno-q56321400-1.jpg",
+    "images/plato-paceno-q56321400/plato-paceno-q56321400-2.jpg",
+    "images/plato-paceno-q56321400/plato-paceno-q56321400-3.jpg",
+    "images/plato-paceno-q56321400/plato-paceno-q56321400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56321400",
+    "themealdb": null
+  }
+}

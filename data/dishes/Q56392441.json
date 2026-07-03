@@ -1,0 +1,20 @@
+{
+  "id": "Q56392441",
+  "name": "fried meatball",
+  "description": "Sundanese fried meatball",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-meatball-q56392441/fried-meatball-q56392441-1.jpg",
+    "images/fried-meatball-q56392441/fried-meatball-q56392441-2.jpg",
+    "images/fried-meatball-q56392441/fried-meatball-q56392441-3.jpg",
+    "images/fried-meatball-q56392441/fried-meatball-q56392441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56392441",
+    "themealdb": null
+  }
+}

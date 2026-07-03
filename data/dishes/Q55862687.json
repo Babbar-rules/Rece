@@ -1,0 +1,20 @@
+{
+  "id": "Q55862687",
+  "name": "mun tahu",
+  "description": "Chinese-Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mun-tahu-q55862687/mun-tahu-q55862687-1.jpg",
+    "images/mun-tahu-q55862687/mun-tahu-q55862687-2.jpg",
+    "images/mun-tahu-q55862687/mun-tahu-q55862687-3.jpg",
+    "images/mun-tahu-q55862687/mun-tahu-q55862687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55862687",
+    "themealdb": null
+  }
+}

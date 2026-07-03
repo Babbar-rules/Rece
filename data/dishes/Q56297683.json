@@ -1,0 +1,18 @@
+{
+  "id": "Q56297683",
+  "name": "wine soup",
+  "description": "soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wine-soup-q56297683/wine-soup-q56297683-1.jpg",
+    "images/wine-soup-q56297683/wine-soup-q56297683-2.jpg",
+    "images/wine-soup-q56297683/wine-soup-q56297683-3.jpg",
+    "images/wine-soup-q56297683/wine-soup-q56297683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56297683",
+    "themealdb": null
+  }
+}

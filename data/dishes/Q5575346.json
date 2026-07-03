@@ -1,0 +1,18 @@
+{
+  "id": "Q5575346",
+  "name": "goat roti",
+  "description": "traditional East-Indian food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-roti-q5575346/goat-roti-q5575346-1.jpg",
+    "images/goat-roti-q5575346/goat-roti-q5575346-2.jpg",
+    "images/goat-roti-q5575346/goat-roti-q5575346-3.jpg",
+    "images/goat-roti-q5575346/goat-roti-q5575346-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5575346",
+    "themealdb": null
+  }
+}

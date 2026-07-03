@@ -1,0 +1,20 @@
+{
+  "id": "Q55788394",
+  "name": "Schinkenbegräbnis",
+  "description": "",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schinkenbegrabnis-q55788394/schinkenbegrabnis-q55788394-1.jpg",
+    "images/schinkenbegrabnis-q55788394/schinkenbegrabnis-q55788394-2.jpg",
+    "images/schinkenbegrabnis-q55788394/schinkenbegrabnis-q55788394-3.jpg",
+    "images/schinkenbegrabnis-q55788394/schinkenbegrabnis-q55788394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55788394",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q56318198",
+  "name": "Pepián de cuy",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pepian-de-cuy-q56318198/pepian-de-cuy-q56318198-1.jpg",
+    "images/pepian-de-cuy-q56318198/pepian-de-cuy-q56318198-2.jpg",
+    "images/pepian-de-cuy-q56318198/pepian-de-cuy-q56318198-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56318198",
+    "themealdb": null
+  }
+}

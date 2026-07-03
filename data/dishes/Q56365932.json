@@ -1,0 +1,18 @@
+{
+  "id": "Q56365932",
+  "name": "kabab soltani",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kabab-soltani-q56365932/kabab-soltani-q56365932-1.jpg",
+    "images/kabab-soltani-q56365932/kabab-soltani-q56365932-2.jpg",
+    "images/kabab-soltani-q56365932/kabab-soltani-q56365932-3.jpg",
+    "images/kabab-soltani-q56365932/kabab-soltani-q56365932-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56365932",
+    "themealdb": null
+  }
+}

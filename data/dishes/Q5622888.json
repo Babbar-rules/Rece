@@ -1,0 +1,18 @@
+{
+  "id": "Q5622888",
+  "name": "Guyuria",
+  "description": "traditional Chamorro cookies",
+  "nationality": [
+    "Guam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guyuria-q5622888/guyuria-q5622888-1.jpg",
+    "images/guyuria-q5622888/guyuria-q5622888-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5622888",
+    "themealdb": null
+  }
+}

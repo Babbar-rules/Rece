@@ -1,0 +1,21 @@
+{
+  "id": "Q55725140",
+  "name": "doro wat",
+  "description": "chicken wat",
+  "nationality": [
+    "Ethiopia",
+    "Eritrea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doro-wat-q55725140/doro-wat-q55725140-1.jpg",
+    "images/doro-wat-q55725140/doro-wat-q55725140-2.jpg",
+    "images/doro-wat-q55725140/doro-wat-q55725140-3.jpg",
+    "images/doro-wat-q55725140/doro-wat-q55725140-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55725140",
+    "themealdb": null
+  }
+}

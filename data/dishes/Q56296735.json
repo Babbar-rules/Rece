@@ -1,0 +1,20 @@
+{
+  "id": "Q56296735",
+  "name": "rolled roast",
+  "description": "meat dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rolled-roast-q56296735/rolled-roast-q56296735-1.jpg",
+    "images/rolled-roast-q56296735/rolled-roast-q56296735-2.jpg",
+    "images/rolled-roast-q56296735/rolled-roast-q56296735-3.jpg",
+    "images/rolled-roast-q56296735/rolled-roast-q56296735-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56296735",
+    "themealdb": null
+  }
+}

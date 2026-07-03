@@ -1,0 +1,20 @@
+{
+  "id": "Q5625377",
+  "name": "gypsy tart",
+  "description": "Tart that Originated in Kent, United Kingdom",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gypsy-tart-q5625377/gypsy-tart-q5625377-1.jpg",
+    "images/gypsy-tart-q5625377/gypsy-tart-q5625377-2.jpg",
+    "images/gypsy-tart-q5625377/gypsy-tart-q5625377-3.jpg",
+    "images/gypsy-tart-q5625377/gypsy-tart-q5625377-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5625377",
+    "themealdb": null
+  }
+}

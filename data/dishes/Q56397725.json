@@ -1,0 +1,18 @@
+{
+  "id": "Q56397725",
+  "name": "dried squid",
+  "description": "type of seafood",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dried-squid-q56397725/dried-squid-q56397725-1.jpg",
+    "images/dried-squid-q56397725/dried-squid-q56397725-2.jpg",
+    "images/dried-squid-q56397725/dried-squid-q56397725-3.jpg",
+    "images/dried-squid-q56397725/dried-squid-q56397725-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56397725",
+    "themealdb": null
+  }
+}

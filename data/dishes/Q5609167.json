@@ -1,0 +1,18 @@
+{
+  "id": "Q5609167",
+  "name": "Grilled pizza",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-pizza-q5609167/grilled-pizza-q5609167-1.jpg",
+    "images/grilled-pizza-q5609167/grilled-pizza-q5609167-2.jpg",
+    "images/grilled-pizza-q5609167/grilled-pizza-q5609167-3.jpg",
+    "images/grilled-pizza-q5609167/grilled-pizza-q5609167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5609167",
+    "themealdb": null
+  }
+}

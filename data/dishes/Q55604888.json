@@ -1,0 +1,20 @@
+{
+  "id": "Q55604888",
+  "name": "Barbecue chicken",
+  "description": "chicken that is barbecued, grilled, or smoked",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barbecue-chicken-q55604888/barbecue-chicken-q55604888-1.jpg",
+    "images/barbecue-chicken-q55604888/barbecue-chicken-q55604888-2.jpg",
+    "images/barbecue-chicken-q55604888/barbecue-chicken-q55604888-3.jpg",
+    "images/barbecue-chicken-q55604888/barbecue-chicken-q55604888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55604888",
+    "themealdb": null
+  }
+}

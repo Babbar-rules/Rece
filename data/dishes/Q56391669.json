@@ -1,0 +1,20 @@
+{
+  "id": "Q56391669",
+  "name": "Itiak Lado Mudo",
+  "description": "Duck with green chili",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/itiak-lado-mudo-q56391669/itiak-lado-mudo-q56391669-1.jpg",
+    "images/itiak-lado-mudo-q56391669/itiak-lado-mudo-q56391669-2.jpg",
+    "images/itiak-lado-mudo-q56391669/itiak-lado-mudo-q56391669-3.jpg",
+    "images/itiak-lado-mudo-q56391669/itiak-lado-mudo-q56391669-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56391669",
+    "themealdb": null
+  }
+}

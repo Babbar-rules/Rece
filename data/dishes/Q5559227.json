@@ -1,0 +1,20 @@
+{
+  "id": "Q5559227",
+  "name": "Gibraltar rock",
+  "description": "type of candy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gibraltar-rock-q5559227/gibraltar-rock-q5559227-1.jpg",
+    "images/gibraltar-rock-q5559227/gibraltar-rock-q5559227-2.jpg",
+    "images/gibraltar-rock-q5559227/gibraltar-rock-q5559227-3.jpg",
+    "images/gibraltar-rock-q5559227/gibraltar-rock-q5559227-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5559227",
+    "themealdb": null
+  }
+}

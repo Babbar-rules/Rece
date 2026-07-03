@@ -1,0 +1,21 @@
+{
+  "id": "Q55831465",
+  "name": "U' pastizz 'rtunnar",
+  "description": "Italian pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Basilicata"
+  ],
+  "images": [
+    "images/u-pastizz-rtunnar-q55831465/u-pastizz-rtunnar-q55831465-1.jpg",
+    "images/u-pastizz-rtunnar-q55831465/u-pastizz-rtunnar-q55831465-2.jpg",
+    "images/u-pastizz-rtunnar-q55831465/u-pastizz-rtunnar-q55831465-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55831465",
+    "themealdb": null
+  }
+}

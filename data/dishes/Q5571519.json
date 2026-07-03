@@ -1,0 +1,20 @@
+{
+  "id": "Q5571519",
+  "name": "glorified rice",
+  "description": "dessert from the American Midwest",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/glorified-rice-q5571519/glorified-rice-q5571519-1.jpg",
+    "images/glorified-rice-q5571519/glorified-rice-q5571519-2.jpg",
+    "images/glorified-rice-q5571519/glorified-rice-q5571519-3.jpg",
+    "images/glorified-rice-q5571519/glorified-rice-q5571519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5571519",
+    "themealdb": null
+  }
+}

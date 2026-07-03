@@ -1,0 +1,18 @@
+{
+  "id": "Q5573091",
+  "name": "Nucrem",
+  "description": "Argentine dessert brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nucrem-q5573091/nucrem-q5573091-1.jpg",
+    "images/nucrem-q5573091/nucrem-q5573091-2.jpg",
+    "images/nucrem-q5573091/nucrem-q5573091-3.jpg",
+    "images/nucrem-q5573091/nucrem-q5573091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5573091",
+    "themealdb": null
+  }
+}

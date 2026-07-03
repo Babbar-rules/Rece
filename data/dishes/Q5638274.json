@@ -1,0 +1,18 @@
+{
+  "id": "Q5638274",
+  "name": "postre vigilante",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/postre-vigilante-q5638274/postre-vigilante-q5638274-1.jpg",
+    "images/postre-vigilante-q5638274/postre-vigilante-q5638274-2.jpg",
+    "images/postre-vigilante-q5638274/postre-vigilante-q5638274-3.jpg",
+    "images/postre-vigilante-q5638274/postre-vigilante-q5638274-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5638274",
+    "themealdb": null
+  }
+}

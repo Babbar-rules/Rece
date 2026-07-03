@@ -1,0 +1,22 @@
+{
+  "id": "Q56231570",
+  "name": "es Goyang",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/es-goyang-q56231570/es-goyang-q56231570-1.jpg",
+    "images/es-goyang-q56231570/es-goyang-q56231570-2.jpg",
+    "images/es-goyang-q56231570/es-goyang-q56231570-3.jpg",
+    "images/es-goyang-q56231570/es-goyang-q56231570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56231570",
+    "themealdb": null
+  }
+}

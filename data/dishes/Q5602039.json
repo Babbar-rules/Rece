@@ -1,0 +1,20 @@
+{
+  "id": "Q5602039",
+  "name": "Greek pizza",
+  "description": "style of pizza baked in a shallow, heavily oiled pan",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/greek-pizza-q5602039/greek-pizza-q5602039-1.jpg",
+    "images/greek-pizza-q5602039/greek-pizza-q5602039-2.jpg",
+    "images/greek-pizza-q5602039/greek-pizza-q5602039-3.jpg",
+    "images/greek-pizza-q5602039/greek-pizza-q5602039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5602039",
+    "themealdb": null
+  }
+}

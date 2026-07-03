@@ -1,0 +1,22 @@
+{
+  "id": "Q5638547",
+  "name": "michirones",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "cuisine of the Region of Murcia"
+  ],
+  "images": [
+    "images/michirones-q5638547/michirones-q5638547-1.jpg",
+    "images/michirones-q5638547/michirones-q5638547-2.jpg",
+    "images/michirones-q5638547/michirones-q5638547-3.jpg",
+    "images/michirones-q5638547/michirones-q5638547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5638547",
+    "themealdb": null
+  }
+}

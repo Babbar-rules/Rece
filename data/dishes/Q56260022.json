@@ -1,0 +1,20 @@
+{
+  "id": "Q56260022",
+  "name": "Eel Noodles",
+  "description": "Taiwanese eel dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eel-noodles-q56260022/eel-noodles-q56260022-1.jpg",
+    "images/eel-noodles-q56260022/eel-noodles-q56260022-2.jpg",
+    "images/eel-noodles-q56260022/eel-noodles-q56260022-3.jpg",
+    "images/eel-noodles-q56260022/eel-noodles-q56260022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56260022",
+    "themealdb": null
+  }
+}

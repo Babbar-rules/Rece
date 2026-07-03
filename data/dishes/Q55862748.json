@@ -1,0 +1,20 @@
+{
+  "id": "Q55862748",
+  "name": "Rujak juhi",
+  "description": "Variation of Indonesian indigenous food made from vegetables, fresh and pickled",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rujak-juhi-q55862748/rujak-juhi-q55862748-1.jpg",
+    "images/rujak-juhi-q55862748/rujak-juhi-q55862748-2.jpg",
+    "images/rujak-juhi-q55862748/rujak-juhi-q55862748-3.jpg",
+    "images/rujak-juhi-q55862748/rujak-juhi-q55862748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55862748",
+    "themealdb": null
+  }
+}

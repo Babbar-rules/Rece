@@ -1,0 +1,20 @@
+{
+  "id": "Q56231471",
+  "name": "carang mas",
+  "description": "Indonesian sweet snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/carang-mas-q56231471/carang-mas-q56231471-1.jpg",
+    "images/carang-mas-q56231471/carang-mas-q56231471-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56231471",
+    "themealdb": null
+  }
+}

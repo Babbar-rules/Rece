@@ -1,0 +1,18 @@
+{
+  "id": "Q5580153",
+  "name": "Goldfish",
+  "description": "brand of snacks",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goldfish-q5580153/goldfish-q5580153-1.jpg",
+    "images/goldfish-q5580153/goldfish-q5580153-2.jpg",
+    "images/goldfish-q5580153/goldfish-q5580153-3.jpg",
+    "images/goldfish-q5580153/goldfish-q5580153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5580153",
+    "themealdb": null
+  }
+}

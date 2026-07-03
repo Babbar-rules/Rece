@@ -1,0 +1,20 @@
+{
+  "id": "Q5636956",
+  "name": "pantruca",
+  "description": "Chilean soup with home-made noodles (pantrucas)",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pantruca-q5636956/pantruca-q5636956-1.jpg",
+    "images/pantruca-q5636956/pantruca-q5636956-2.jpg",
+    "images/pantruca-q5636956/pantruca-q5636956-3.jpg",
+    "images/pantruca-q5636956/pantruca-q5636956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5636956",
+    "themealdb": null
+  }
+}

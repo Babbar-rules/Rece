@@ -1,0 +1,18 @@
+{
+  "id": "Q558133",
+  "name": "wedding cake",
+  "description": "cake for a wedding",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wedding-cake-q558133/wedding-cake-q558133-1.jpg",
+    "images/wedding-cake-q558133/wedding-cake-q558133-2.jpg",
+    "images/wedding-cake-q558133/wedding-cake-q558133-3.jpg",
+    "images/wedding-cake-q558133/wedding-cake-q558133-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q558133",
+    "themealdb": null
+  }
+}

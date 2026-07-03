@@ -1,0 +1,20 @@
+{
+  "id": "Q5563074",
+  "name": "Ginger beef",
+  "description": "canadian-Chinese dish",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-beef-q5563074/ginger-beef-q5563074-1.jpg",
+    "images/ginger-beef-q5563074/ginger-beef-q5563074-2.jpg",
+    "images/ginger-beef-q5563074/ginger-beef-q5563074-3.jpg",
+    "images/ginger-beef-q5563074/ginger-beef-q5563074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5563074",
+    "themealdb": null
+  }
+}

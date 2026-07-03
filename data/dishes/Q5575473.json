@@ -1,0 +1,18 @@
+{
+  "id": "Q5575473",
+  "name": "gobi manchurian",
+  "description": "deep fried cauliflower dish in Indo-Chinese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gobi-manchurian-q5575473/gobi-manchurian-q5575473-1.jpg",
+    "images/gobi-manchurian-q5575473/gobi-manchurian-q5575473-2.jpg",
+    "images/gobi-manchurian-q5575473/gobi-manchurian-q5575473-3.jpg",
+    "images/gobi-manchurian-q5575473/gobi-manchurian-q5575473-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5575473",
+    "themealdb": null
+  }
+}

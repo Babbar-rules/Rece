@@ -1,0 +1,18 @@
+{
+  "id": "Q56235994",
+  "name": "tteokmyeon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tteokmyeon-q56235994/tteokmyeon-q56235994-1.jpg",
+    "images/tteokmyeon-q56235994/tteokmyeon-q56235994-2.jpg",
+    "images/tteokmyeon-q56235994/tteokmyeon-q56235994-3.jpg",
+    "images/tteokmyeon-q56235994/tteokmyeon-q56235994-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56235994",
+    "themealdb": null
+  }
+}

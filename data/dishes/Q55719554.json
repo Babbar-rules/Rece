@@ -1,0 +1,18 @@
+{
+  "id": "Q55719554",
+  "name": "McSpicy Chicken Filet",
+  "description": "McDonald's food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcspicy-chicken-filet-q55719554/mcspicy-chicken-filet-q55719554-1.jpg",
+    "images/mcspicy-chicken-filet-q55719554/mcspicy-chicken-filet-q55719554-2.jpg",
+    "images/mcspicy-chicken-filet-q55719554/mcspicy-chicken-filet-q55719554-3.png",
+    "images/mcspicy-chicken-filet-q55719554/mcspicy-chicken-filet-q55719554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55719554",
+    "themealdb": null
+  }
+}

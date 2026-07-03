@@ -1,0 +1,20 @@
+{
+  "id": "Q56231369",
+  "name": "asinan Bogor",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/asinan-bogor-q56231369/asinan-bogor-q56231369-1.jpg",
+    "images/asinan-bogor-q56231369/asinan-bogor-q56231369-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56231369",
+    "themealdb": null
+  }
+}

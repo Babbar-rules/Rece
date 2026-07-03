@@ -1,0 +1,20 @@
+{
+  "id": "Q56345566",
+  "name": "raggmunk",
+  "description": "Swedish potato pancake",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/raggmunk-q56345566/raggmunk-q56345566-1.jpg",
+    "images/raggmunk-q56345566/raggmunk-q56345566-2.jpg",
+    "images/raggmunk-q56345566/raggmunk-q56345566-3.jpg",
+    "images/raggmunk-q56345566/raggmunk-q56345566-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56345566",
+    "themealdb": null
+  }
+}

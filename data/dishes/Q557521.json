@@ -1,0 +1,18 @@
+{
+  "id": "Q557521",
+  "name": "beer soup",
+  "description": "soup made with beer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beer-soup-q557521/beer-soup-q557521-1.jpg",
+    "images/beer-soup-q557521/beer-soup-q557521-2.jpg",
+    "images/beer-soup-q557521/beer-soup-q557521-3.png",
+    "images/beer-soup-q557521/beer-soup-q557521-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q557521",
+    "themealdb": null
+  }
+}

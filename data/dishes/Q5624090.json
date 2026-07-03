@@ -1,0 +1,20 @@
+{
+  "id": "Q5624090",
+  "name": "gyeran-jjim",
+  "description": "Korean custardy dish based on steamed eggs",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyeran-jjim-q5624090/gyeran-jjim-q5624090-1.jpg",
+    "images/gyeran-jjim-q5624090/gyeran-jjim-q5624090-2.jpg",
+    "images/gyeran-jjim-q5624090/gyeran-jjim-q5624090-3.jpg",
+    "images/gyeran-jjim-q5624090/gyeran-jjim-q5624090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5624090",
+    "themealdb": null
+  }
+}

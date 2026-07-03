@@ -1,0 +1,18 @@
+{
+  "id": "Q55610619",
+  "name": "eish fino",
+  "description": "baguette-shaped bread roll from Egypt made with wheat flour",
+  "nationality": [
+    "Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eish-fino-q55610619/eish-fino-q55610619-1.jpg",
+    "images/eish-fino-q55610619/eish-fino-q55610619-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55610619",
+    "themealdb": null
+  }
+}

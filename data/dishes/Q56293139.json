@@ -1,0 +1,20 @@
+{
+  "id": "Q56293139",
+  "name": "Kleftiko",
+  "description": "Greek meat dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kleftiko-q56293139/kleftiko-q56293139-1.jpg",
+    "images/kleftiko-q56293139/kleftiko-q56293139-2.jpg",
+    "images/kleftiko-q56293139/kleftiko-q56293139-3.jpg",
+    "images/kleftiko-q56293139/kleftiko-q56293139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56293139",
+    "themealdb": null
+  }
+}

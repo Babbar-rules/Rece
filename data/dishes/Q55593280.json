@@ -1,0 +1,22 @@
+{
+  "id": "Q55593280",
+  "name": "nasi minyak",
+  "description": "traditional food from Jambi, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-minyak-q55593280/nasi-minyak-q55593280-1.jpg",
+    "images/nasi-minyak-q55593280/nasi-minyak-q55593280-2.jpg",
+    "images/nasi-minyak-q55593280/nasi-minyak-q55593280-3.jpg",
+    "images/nasi-minyak-q55593280/nasi-minyak-q55593280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55593280",
+    "themealdb": null
+  }
+}

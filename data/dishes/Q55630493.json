@@ -1,0 +1,16 @@
+{
+  "id": "Q55630493",
+  "name": "Prinjolata",
+  "description": "traditional dessert from Malta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prinjolata-q55630493/prinjolata-q55630493-1.jpg",
+    "images/prinjolata-q55630493/prinjolata-q55630493-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55630493",
+    "themealdb": null
+  }
+}

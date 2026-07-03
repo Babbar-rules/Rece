@@ -1,0 +1,22 @@
+{
+  "id": "Q55638285",
+  "name": "Çökertme",
+  "description": "Turkish meat dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/cokertme-q55638285/cokertme-q55638285-1.jpg",
+    "images/cokertme-q55638285/cokertme-q55638285-2.jpg",
+    "images/cokertme-q55638285/cokertme-q55638285-3.jpg",
+    "images/cokertme-q55638285/cokertme-q55638285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55638285",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q56231674",
+  "name": "jenang krasikan",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/jenang-krasikan-q56231674/jenang-krasikan-q56231674-1.jpg",
+    "images/jenang-krasikan-q56231674/jenang-krasikan-q56231674-2.jpg",
+    "images/jenang-krasikan-q56231674/jenang-krasikan-q56231674-3.jpg",
+    "images/jenang-krasikan-q56231674/jenang-krasikan-q56231674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56231674",
+    "themealdb": null
+  }
+}

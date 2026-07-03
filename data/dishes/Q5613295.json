@@ -1,0 +1,22 @@
+{
+  "id": "Q5613295",
+  "name": "Guagua de pan",
+  "description": "bread of Andean origin",
+  "nationality": [
+    "Peru",
+    "Ecuador",
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guagua-de-pan-q5613295/guagua-de-pan-q5613295-1.jpg",
+    "images/guagua-de-pan-q5613295/guagua-de-pan-q5613295-2.jpg",
+    "images/guagua-de-pan-q5613295/guagua-de-pan-q5613295-3.jpg",
+    "images/guagua-de-pan-q5613295/guagua-de-pan-q5613295-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5613295",
+    "themealdb": null
+  }
+}

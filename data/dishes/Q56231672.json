@@ -1,0 +1,21 @@
+{
+  "id": "Q56231672",
+  "name": "jenang grendul",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/jenang-grendul-q56231672/jenang-grendul-q56231672-1.jpg",
+    "images/jenang-grendul-q56231672/jenang-grendul-q56231672-2.jpg",
+    "images/jenang-grendul-q56231672/jenang-grendul-q56231672-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56231672",
+    "themealdb": null
+  }
+}

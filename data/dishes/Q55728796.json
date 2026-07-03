@@ -1,0 +1,18 @@
+{
+  "id": "Q55728796",
+  "name": "Noti",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/noti-q55728796/noti-q55728796-1.jpg",
+    "images/noti-q55728796/noti-q55728796-2.jpg",
+    "images/noti-q55728796/noti-q55728796-3.jpg",
+    "images/noti-q55728796/noti-q55728796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55728796",
+    "themealdb": null
+  }
+}

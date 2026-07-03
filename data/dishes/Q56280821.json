@@ -1,0 +1,20 @@
+{
+  "id": "Q56280821",
+  "name": "maraq",
+  "description": "broth soup",
+  "nationality": [
+    "Somalia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maraq-q56280821/maraq-q56280821-1.jpg",
+    "images/maraq-q56280821/maraq-q56280821-2.jpg",
+    "images/maraq-q56280821/maraq-q56280821-3.jpg",
+    "images/maraq-q56280821/maraq-q56280821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56280821",
+    "themealdb": null
+  }
+}

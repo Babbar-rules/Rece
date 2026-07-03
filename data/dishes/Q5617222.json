@@ -1,0 +1,20 @@
+{
+  "id": "Q5617222",
+  "name": "gulai ayam",
+  "description": "traditional Indonesian curry-like dish originating from Sumatra island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gulai-ayam-q5617222/gulai-ayam-q5617222-1.jpg",
+    "images/gulai-ayam-q5617222/gulai-ayam-q5617222-2.jpg",
+    "images/gulai-ayam-q5617222/gulai-ayam-q5617222-3.jpg",
+    "images/gulai-ayam-q5617222/gulai-ayam-q5617222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5617222",
+    "themealdb": null
+  }
+}

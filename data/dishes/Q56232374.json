@@ -1,0 +1,22 @@
+{
+  "id": "Q56232374",
+  "name": "sop ayam",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/sop-ayam-q56232374/sop-ayam-q56232374-1.jpg",
+    "images/sop-ayam-q56232374/sop-ayam-q56232374-2.jpg",
+    "images/sop-ayam-q56232374/sop-ayam-q56232374-3.jpg",
+    "images/sop-ayam-q56232374/sop-ayam-q56232374-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56232374",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5623917",
+  "name": "Gyabrag",
+  "description": "Pancake in Tibetan cuisine",
+  "nationality": [
+    "Tibet"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyabrag-q5623917/gyabrag-q5623917-1.jpg",
+    "images/gyabrag-q5623917/gyabrag-q5623917-2.jpg",
+    "images/gyabrag-q5623917/gyabrag-q5623917-3.jpg",
+    "images/gyabrag-q5623917/gyabrag-q5623917-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5623917",
+    "themealdb": null
+  }
+}

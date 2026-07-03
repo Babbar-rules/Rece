@@ -1,0 +1,18 @@
+{
+  "id": "Q5618109",
+  "name": "Gumdrop",
+  "description": "type of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gumdrop-q5618109/gumdrop-q5618109-1.jpg",
+    "images/gumdrop-q5618109/gumdrop-q5618109-2.jpg",
+    "images/gumdrop-q5618109/gumdrop-q5618109-3.jpg",
+    "images/gumdrop-q5618109/gumdrop-q5618109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5618109",
+    "themealdb": null
+  }
+}

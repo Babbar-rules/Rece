@@ -1,0 +1,19 @@
+{
+  "id": "Q55737195",
+  "name": "bugeotguk",
+  "description": "Korean dried-fish soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bugeotguk-q55737195/bugeotguk-q55737195-1.jpg",
+    "images/bugeotguk-q55737195/bugeotguk-q55737195-2.jpg",
+    "images/bugeotguk-q55737195/bugeotguk-q55737195-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55737195",
+    "themealdb": null
+  }
+}

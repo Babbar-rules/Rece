@@ -1,0 +1,22 @@
+{
+  "id": "Q56393494",
+  "name": "anyang",
+  "description": "Indonesian traditional food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/anyang-q56393494/anyang-q56393494-1.jpg",
+    "images/anyang-q56393494/anyang-q56393494-2.jpg",
+    "images/anyang-q56393494/anyang-q56393494-3.jpg",
+    "images/anyang-q56393494/anyang-q56393494-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56393494",
+    "themealdb": null
+  }
+}

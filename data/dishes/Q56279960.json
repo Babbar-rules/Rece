@@ -1,0 +1,18 @@
+{
+  "id": "Q56279960",
+  "name": "5 Star",
+  "description": "chocolate bar produced by Cadbury's and sold in India, Malaysia, Brazil and the Philippines",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/5-star-q56279960/5-star-q56279960-1.jpg",
+    "images/5-star-q56279960/5-star-q56279960-2.png",
+    "images/5-star-q56279960/5-star-q56279960-3.jpg",
+    "images/5-star-q56279960/5-star-q56279960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q56279960",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q559528",
+  "name": "bacon, egg and cheese sandwich",
+  "description": "popular breakfast sandwich in the United States",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-egg-and-cheese-sandwich-q559528/bacon-egg-and-cheese-sandwich-q559528-1.jpg",
+    "images/bacon-egg-and-cheese-sandwich-q559528/bacon-egg-and-cheese-sandwich-q559528-2.jpg",
+    "images/bacon-egg-and-cheese-sandwich-q559528/bacon-egg-and-cheese-sandwich-q559528-3.jpg",
+    "images/bacon-egg-and-cheese-sandwich-q559528/bacon-egg-and-cheese-sandwich-q559528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q559528",
+    "themealdb": null
+  }
+}
