@@ -1,0 +1,22 @@
+{
+  "id": "Q632850",
+  "name": "caldero",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "cuisine of the Region of Murcia"
+  ],
+  "images": [
+    "images/caldero-q632850/caldero-q632850-1.jpg",
+    "images/caldero-q632850/caldero-q632850-2.jpg",
+    "images/caldero-q632850/caldero-q632850-3.jpg",
+    "images/caldero-q632850/caldero-q632850-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q632850",
+    "themealdb": null
+  }
+}

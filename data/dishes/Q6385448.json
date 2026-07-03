@@ -1,0 +1,21 @@
+{
+  "id": "Q6385448",
+  "name": "Kelaguen",
+  "description": "Chamorro dish from the Northern Mariana Islands",
+  "nationality": [
+    "Northern Mariana Islands",
+    "Guam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kelaguen-q6385448/kelaguen-q6385448-1.jpg",
+    "images/kelaguen-q6385448/kelaguen-q6385448-2.jpg",
+    "images/kelaguen-q6385448/kelaguen-q6385448-3.jpg",
+    "images/kelaguen-q6385448/kelaguen-q6385448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6385448",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q61984600",
+  "name": "Rendang Talua",
+  "description": "egg dish with rendang spices",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rendang-talua-q61984600/rendang-talua-q61984600-1.jpg",
+    "images/rendang-talua-q61984600/rendang-talua-q61984600-2.jpg",
+    "images/rendang-talua-q61984600/rendang-talua-q61984600-3.jpg",
+    "images/rendang-talua-q61984600/rendang-talua-q61984600-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61984600",
+    "themealdb": null
+  }
+}

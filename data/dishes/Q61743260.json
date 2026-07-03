@@ -1,0 +1,17 @@
+{
+  "id": "Q61743260",
+  "name": "Capra e fagioli",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/capra-e-fagioli-q61743260/capra-e-fagioli-q61743260-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61743260",
+    "themealdb": null
+  }
+}

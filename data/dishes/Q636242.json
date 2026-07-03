@@ -1,0 +1,18 @@
+{
+  "id": "Q636242",
+  "name": "Schwarzsauer",
+  "description": "German dish of blood with various spices cooked in vinegar water",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schwarzsauer-q636242/schwarzsauer-q636242-1.jpg",
+    "images/schwarzsauer-q636242/schwarzsauer-q636242-2.jpg",
+    "images/schwarzsauer-q636242/schwarzsauer-q636242-3.jpg",
+    "images/schwarzsauer-q636242/schwarzsauer-q636242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q636242",
+    "themealdb": null
+  }
+}

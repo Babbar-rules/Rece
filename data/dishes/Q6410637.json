@@ -1,0 +1,17 @@
+{
+  "id": "Q6410637",
+  "name": "Chongos zamoranos",
+  "description": "Dessert of Mexican cuisine made of curdled milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chongos-zamoranos-q6410637/chongos-zamoranos-q6410637-1.jpg",
+    "images/chongos-zamoranos-q6410637/chongos-zamoranos-q6410637-2.jpg",
+    "images/chongos-zamoranos-q6410637/chongos-zamoranos-q6410637-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6410637",
+    "themealdb": null
+  }
+}

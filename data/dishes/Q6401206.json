@@ -1,0 +1,18 @@
+{
+  "id": "Q6401206",
+  "name": "kheer sagar",
+  "description": "Indian cheese dish",
+  "nationality": [
+    "Odisha"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kheer-sagar-q6401206/kheer-sagar-q6401206-1.jpg",
+    "images/kheer-sagar-q6401206/kheer-sagar-q6401206-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6401206",
+    "themealdb": null
+  }
+}

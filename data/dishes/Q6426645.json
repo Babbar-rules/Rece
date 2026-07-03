@@ -1,0 +1,22 @@
+{
+  "id": "Q6426645",
+  "name": "Achappam",
+  "description": "deep fried cookie made with rice flour",
+  "nationality": [
+    "Netherlands",
+    "India",
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/achappam-q6426645/achappam-q6426645-1.jpg",
+    "images/achappam-q6426645/achappam-q6426645-2.jpg",
+    "images/achappam-q6426645/achappam-q6426645-3.jpg",
+    "images/achappam-q6426645/achappam-q6426645-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6426645",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6416946",
+  "name": "Baghali polo",
+  "description": "Iranian rice dish",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baghali-polo-q6416946/baghali-polo-q6416946-1.jpg",
+    "images/baghali-polo-q6416946/baghali-polo-q6416946-2.jpg",
+    "images/baghali-polo-q6416946/baghali-polo-q6416946-3.png",
+    "images/baghali-polo-q6416946/baghali-polo-q6416946-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6416946",
+    "themealdb": null
+  }
+}

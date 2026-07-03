@@ -1,0 +1,20 @@
+{
+  "id": "Q64149261",
+  "name": "ube cake",
+  "description": "traditional Filipino chiffon cake or sponge cake",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ube-cake-q64149261/ube-cake-q64149261-1.jpg",
+    "images/ube-cake-q64149261/ube-cake-q64149261-2.jpg",
+    "images/ube-cake-q64149261/ube-cake-q64149261-3.jpg",
+    "images/ube-cake-q64149261/ube-cake-q64149261-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64149261",
+    "themealdb": null
+  }
+}

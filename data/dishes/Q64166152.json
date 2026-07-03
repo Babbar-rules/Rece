@@ -1,0 +1,18 @@
+{
+  "id": "Q64166152",
+  "name": "bison burger",
+  "description": "hamburger made with bison",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bison-burger-q64166152/bison-burger-q64166152-1.jpg",
+    "images/bison-burger-q64166152/bison-burger-q64166152-2.jpg",
+    "images/bison-burger-q64166152/bison-burger-q64166152-3.jpg",
+    "images/bison-burger-q64166152/bison-burger-q64166152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64166152",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q62019316",
+  "name": "Roman pizza",
+  "description": "style of pizza originating in Rome",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Roman cuisine"
+  ],
+  "images": [
+    "images/roman-pizza-q62019316/roman-pizza-q62019316-1.jpg",
+    "images/roman-pizza-q62019316/roman-pizza-q62019316-2.jpg",
+    "images/roman-pizza-q62019316/roman-pizza-q62019316-3.jpg",
+    "images/roman-pizza-q62019316/roman-pizza-q62019316-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62019316",
+    "themealdb": null
+  }
+}

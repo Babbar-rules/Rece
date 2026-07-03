@@ -1,0 +1,22 @@
+{
+  "id": "Q6423078",
+  "name": "milmyeon",
+  "description": "South Korean noodle dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/milmyeon-q6423078/milmyeon-q6423078-1.jpg",
+    "images/milmyeon-q6423078/milmyeon-q6423078-2.jpg",
+    "images/milmyeon-q6423078/milmyeon-q6423078-3.png",
+    "images/milmyeon-q6423078/milmyeon-q6423078-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6423078",
+    "themealdb": null
+  }
+}

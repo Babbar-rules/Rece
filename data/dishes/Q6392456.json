@@ -1,0 +1,18 @@
+{
+  "id": "Q6392456",
+  "name": "Tabriz köfte",
+  "description": "Iranian meatball",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tabriz-kofte-q6392456/tabriz-kofte-q6392456-1.jpg",
+    "images/tabriz-kofte-q6392456/tabriz-kofte-q6392456-2.jpg",
+    "images/tabriz-kofte-q6392456/tabriz-kofte-q6392456-3.jpg",
+    "images/tabriz-kofte-q6392456/tabriz-kofte-q6392456-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6392456",
+    "themealdb": null
+  }
+}

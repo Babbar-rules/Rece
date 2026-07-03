@@ -1,0 +1,18 @@
+{
+  "id": "Q6374981",
+  "name": "Kata-kat",
+  "description": "Pakistani meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kata-kat-q6374981/kata-kat-q6374981-1.jpg",
+    "images/kata-kat-q6374981/kata-kat-q6374981-2.jpg",
+    "images/kata-kat-q6374981/kata-kat-q6374981-3.jpg",
+    "images/kata-kat-q6374981/kata-kat-q6374981-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6374981",
+    "themealdb": null
+  }
+}

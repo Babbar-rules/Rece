@@ -1,0 +1,18 @@
+{
+  "id": "Q6301925",
+  "name": "Jubilee chicken",
+  "description": "A chicken based dish, created to celebrate the jubilees of different British monarchs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jubilee-chicken-q6301925/jubilee-chicken-q6301925-1.jpg",
+    "images/jubilee-chicken-q6301925/jubilee-chicken-q6301925-2.jpg",
+    "images/jubilee-chicken-q6301925/jubilee-chicken-q6301925-3.jpg",
+    "images/jubilee-chicken-q6301925/jubilee-chicken-q6301925-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6301925",
+    "themealdb": null
+  }
+}

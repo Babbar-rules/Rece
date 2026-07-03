@@ -1,0 +1,16 @@
+{
+  "id": "Q6155199",
+  "name": "uchepo",
+  "description": "Mexican cuisine dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/uchepo-q6155199/uchepo-q6155199-1.jpg",
+    "images/uchepo-q6155199/uchepo-q6155199-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6155199",
+    "themealdb": null
+  }
+}

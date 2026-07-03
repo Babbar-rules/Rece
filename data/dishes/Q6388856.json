@@ -1,0 +1,21 @@
+{
+  "id": "Q6388856",
+  "name": "Kendal Mint Cake",
+  "description": "English confectionery",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kendal-mint-cake-q6388856/kendal-mint-cake-q6388856-1.jpeg",
+    "images/kendal-mint-cake-q6388856/kendal-mint-cake-q6388856-2.jpeg",
+    "images/kendal-mint-cake-q6388856/kendal-mint-cake-q6388856-3.jpg",
+    "images/kendal-mint-cake-q6388856/kendal-mint-cake-q6388856-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6388856",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6382374",
+  "name": "Kebakko",
+  "description": "Finnish meat dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kebakko-q6382374/kebakko-q6382374-1.jpg",
+    "images/kebakko-q6382374/kebakko-q6382374-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6382374",
+    "themealdb": null
+  }
+}

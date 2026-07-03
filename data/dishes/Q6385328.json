@@ -1,0 +1,20 @@
+{
+  "id": "Q6385328",
+  "name": "Kek Lapis Sarawak",
+  "description": "type of layer cake",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kek-lapis-sarawak-q6385328/kek-lapis-sarawak-q6385328-1.jpg",
+    "images/kek-lapis-sarawak-q6385328/kek-lapis-sarawak-q6385328-2.jpg",
+    "images/kek-lapis-sarawak-q6385328/kek-lapis-sarawak-q6385328-3.jpg",
+    "images/kek-lapis-sarawak-q6385328/kek-lapis-sarawak-q6385328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6385328",
+    "themealdb": null
+  }
+}

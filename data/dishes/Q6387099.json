@@ -1,0 +1,22 @@
+{
+  "id": "Q6387099",
+  "name": "Kemplang",
+  "description": "Indonesian fish cracker snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kemplang-q6387099/kemplang-q6387099-1.jpg",
+    "images/kemplang-q6387099/kemplang-q6387099-2.jpg",
+    "images/kemplang-q6387099/kemplang-q6387099-3.jpg",
+    "images/kemplang-q6387099/kemplang-q6387099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6387099",
+    "themealdb": null
+  }
+}

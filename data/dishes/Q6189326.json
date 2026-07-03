@@ -1,0 +1,20 @@
+{
+  "id": "Q6189326",
+  "name": "Jeungpyeon",
+  "description": "Korean rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeungpyeon-q6189326/jeungpyeon-q6189326-1.jpg",
+    "images/jeungpyeon-q6189326/jeungpyeon-q6189326-2.jpg",
+    "images/jeungpyeon-q6189326/jeungpyeon-q6189326-3.jpg",
+    "images/jeungpyeon-q6189326/jeungpyeon-q6189326-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6189326",
+    "themealdb": null
+  }
+}

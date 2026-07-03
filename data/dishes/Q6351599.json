@@ -1,0 +1,20 @@
+{
+  "id": "Q6351599",
+  "name": "Kalathappam",
+  "description": "Indian dessert",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalathappam-q6351599/kalathappam-q6351599-1.jpg",
+    "images/kalathappam-q6351599/kalathappam-q6351599-2.jpg",
+    "images/kalathappam-q6351599/kalathappam-q6351599-3.jpg",
+    "images/kalathappam-q6351599/kalathappam-q6351599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6351599",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6413862",
+  "name": "Kinilnat",
+  "description": "salad",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinilnat-q6413862/kinilnat-q6413862-1.jpg",
+    "images/kinilnat-q6413862/kinilnat-q6413862-2.jpg",
+    "images/kinilnat-q6413862/kinilnat-q6413862-3.jpg",
+    "images/kinilnat-q6413862/kinilnat-q6413862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6413862",
+    "themealdb": null
+  }
+}

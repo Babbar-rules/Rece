@@ -1,0 +1,20 @@
+{
+  "id": "Q633615",
+  "name": "calamari sandwich",
+  "description": "sandwich with a filling of fried squid rings, popular in Madrid, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calamari-sandwich-q633615/calamari-sandwich-q633615-1.jpg",
+    "images/calamari-sandwich-q633615/calamari-sandwich-q633615-2.jpg",
+    "images/calamari-sandwich-q633615/calamari-sandwich-q633615-3.jpg",
+    "images/calamari-sandwich-q633615/calamari-sandwich-q633615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q633615",
+    "themealdb": null
+  }
+}

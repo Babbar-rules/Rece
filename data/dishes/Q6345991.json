@@ -1,0 +1,20 @@
+{
+  "id": "Q6345991",
+  "name": "kaeng khae",
+  "description": "northern Thai curry, made of Piper sarmentosum, Lao coriander, cha-om, Acmella oleracea leaves, the dry cores of the Bombax ceiba flower, Sesbania grandiflora flowers, ivy gourds, eggplants, bamboo shoots, pea eggplants, fresh chilies, and mushrooms",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaeng-khae-q6345991/kaeng-khae-q6345991-1.jpg",
+    "images/kaeng-khae-q6345991/kaeng-khae-q6345991-2.jpg",
+    "images/kaeng-khae-q6345991/kaeng-khae-q6345991-3.jpg",
+    "images/kaeng-khae-q6345991/kaeng-khae-q6345991-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6345991",
+    "themealdb": null
+  }
+}

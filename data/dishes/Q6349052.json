@@ -1,0 +1,20 @@
+{
+  "id": "Q6349052",
+  "name": "kaju barfi",
+  "description": "Indian sweet",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaju-barfi-q6349052/kaju-barfi-q6349052-1.jpg",
+    "images/kaju-barfi-q6349052/kaju-barfi-q6349052-2.jpg",
+    "images/kaju-barfi-q6349052/kaju-barfi-q6349052-3.jpg",
+    "images/kaju-barfi-q6349052/kaju-barfi-q6349052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6349052",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q62007330",
+  "name": "Pilóta biscuit",
+  "description": "Hungarian short biscuit with cream or jelly filling or with chocolate covering",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pilota-biscuit-q62007330/pilota-biscuit-q62007330-1.jpg",
+    "images/pilota-biscuit-q62007330/pilota-biscuit-q62007330-2.jpg",
+    "images/pilota-biscuit-q62007330/pilota-biscuit-q62007330-3.jpg",
+    "images/pilota-biscuit-q62007330/pilota-biscuit-q62007330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62007330",
+    "themealdb": null
+  }
+}

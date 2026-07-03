@@ -1,0 +1,20 @@
+{
+  "id": "Q64149140",
+  "name": "ube ice cream",
+  "description": "Filipino ice cream made with purple yam",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ube-ice-cream-q64149140/ube-ice-cream-q64149140-1.jpg",
+    "images/ube-ice-cream-q64149140/ube-ice-cream-q64149140-2.jpg",
+    "images/ube-ice-cream-q64149140/ube-ice-cream-q64149140-3.jpg",
+    "images/ube-ice-cream-q64149140/ube-ice-cream-q64149140-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64149140",
+    "themealdb": null
+  }
+}

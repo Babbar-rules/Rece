@@ -1,0 +1,18 @@
+{
+  "id": "Q618345",
+  "name": "apple sauce",
+  "description": "puréed apples",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-sauce-q618345/apple-sauce-q618345-1.jpg",
+    "images/apple-sauce-q618345/apple-sauce-q618345-2.jpg",
+    "images/apple-sauce-q618345/apple-sauce-q618345-3.jpg",
+    "images/apple-sauce-q618345/apple-sauce-q618345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618345",
+    "themealdb": null
+  }
+}

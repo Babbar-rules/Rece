@@ -1,0 +1,20 @@
+{
+  "id": "Q6345997",
+  "name": "Kaeng som",
+  "description": "sour and spicy fish curry with vegetables popular in central Thailand",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaeng-som-q6345997/kaeng-som-q6345997-1.jpg",
+    "images/kaeng-som-q6345997/kaeng-som-q6345997-2.jpg",
+    "images/kaeng-som-q6345997/kaeng-som-q6345997-3.jpg",
+    "images/kaeng-som-q6345997/kaeng-som-q6345997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6345997",
+    "themealdb": null
+  }
+}

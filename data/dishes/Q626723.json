@@ -1,0 +1,20 @@
+{
+  "id": "Q626723",
+  "name": "Korean fried chicken",
+  "description": "fried chicken dishes created in South Korea",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/korean-fried-chicken-q626723/korean-fried-chicken-q626723-1.jpg",
+    "images/korean-fried-chicken-q626723/korean-fried-chicken-q626723-2.jpg",
+    "images/korean-fried-chicken-q626723/korean-fried-chicken-q626723-3.jpg",
+    "images/korean-fried-chicken-q626723/korean-fried-chicken-q626723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626723",
+    "themealdb": null
+  }
+}

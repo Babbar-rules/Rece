@@ -1,0 +1,22 @@
+{
+  "id": "Q6192002",
+  "name": "jibarito",
+  "description": "Green plantain sandwich",
+  "nationality": [
+    "Puerto Rico"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/jibarito-q6192002/jibarito-q6192002-1.jpg",
+    "images/jibarito-q6192002/jibarito-q6192002-2.jpg",
+    "images/jibarito-q6192002/jibarito-q6192002-3.jpg",
+    "images/jibarito-q6192002/jibarito-q6192002-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6192002",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6189729",
+  "name": "Jewish apple cake",
+  "description": "dense cake made with apples and sold mostly in Pennsylvania, U.S.; not related to Jewish cuisine, despite its name",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jewish-apple-cake-q6189729/jewish-apple-cake-q6189729-1.jpg",
+    "images/jewish-apple-cake-q6189729/jewish-apple-cake-q6189729-2.jpg",
+    "images/jewish-apple-cake-q6189729/jewish-apple-cake-q6189729-3.jpg",
+    "images/jewish-apple-cake-q6189729/jewish-apple-cake-q6189729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6189729",
+    "themealdb": null
+  }
+}

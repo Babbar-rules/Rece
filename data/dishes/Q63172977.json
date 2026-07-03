@@ -1,0 +1,18 @@
+{
+  "id": "Q63172977",
+  "name": "cacen ddu",
+  "description": "traditional cake produced in Patagonia",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cacen-ddu-q63172977/cacen-ddu-q63172977-1.jpg",
+    "images/cacen-ddu-q63172977/cacen-ddu-q63172977-2.jpg",
+    "images/cacen-ddu-q63172977/cacen-ddu-q63172977-3.jpg",
+    "images/cacen-ddu-q63172977/cacen-ddu-q63172977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63172977",
+    "themealdb": null
+  }
+}

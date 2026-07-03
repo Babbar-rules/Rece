@@ -1,0 +1,22 @@
+{
+  "id": "Q61579505",
+  "name": "Chola sandwich",
+  "description": "Bolivian pork sandwich",
+  "nationality": [
+    "Bolivia"
+  ],
+  "region_cuisine": [
+    "Bolivian cuisine"
+  ],
+  "images": [
+    "images/chola-sandwich-q61579505/chola-sandwich-q61579505-1.jpg",
+    "images/chola-sandwich-q61579505/chola-sandwich-q61579505-2.jpg",
+    "images/chola-sandwich-q61579505/chola-sandwich-q61579505-3.jpg",
+    "images/chola-sandwich-q61579505/chola-sandwich-q61579505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61579505",
+    "themealdb": null
+  }
+}

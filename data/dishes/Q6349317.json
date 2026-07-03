@@ -1,0 +1,22 @@
+{
+  "id": "Q6349317",
+  "name": "Kakavia",
+  "description": "fish group from Greece",
+  "nationality": [
+    "Cyprus"
+  ],
+  "region_cuisine": [
+    "Greek cuisine"
+  ],
+  "images": [
+    "images/kakavia-q6349317/kakavia-q6349317-1.jpg",
+    "images/kakavia-q6349317/kakavia-q6349317-2.jpg",
+    "images/kakavia-q6349317/kakavia-q6349317-3.jpg",
+    "images/kakavia-q6349317/kakavia-q6349317-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6349317",
+    "themealdb": null
+  }
+}

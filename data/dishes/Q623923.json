@@ -1,0 +1,22 @@
+{
+  "id": "Q623923",
+  "name": "croquembouche",
+  "description": "French dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/croquembouche-q623923/croquembouche-q623923-1.jpg",
+    "images/croquembouche-q623923/croquembouche-q623923-2.jpg",
+    "images/croquembouche-q623923/croquembouche-q623923-3.jpg",
+    "images/croquembouche-q623923/croquembouche-q623923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q623923",
+    "themealdb": null
+  }
+}

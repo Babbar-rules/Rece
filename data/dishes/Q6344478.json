@@ -1,0 +1,17 @@
+{
+  "id": "Q6344478",
+  "name": "Kabuni",
+  "description": "Albanian dessert, consists of cooked rice with raisins and meat stock",
+  "nationality": [
+    "Albania"
+  ],
+  "region_cuisine": [
+    "Albanian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6344478",
+    "themealdb": null
+  }
+}

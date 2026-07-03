@@ -1,0 +1,18 @@
+{
+  "id": "Q6420111",
+  "name": "Kleicha",
+  "description": "middle Eastern cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kleicha-q6420111/kleicha-q6420111-1.jpg",
+    "images/kleicha-q6420111/kleicha-q6420111-2.jpg",
+    "images/kleicha-q6420111/kleicha-q6420111-3.jpg",
+    "images/kleicha-q6420111/kleicha-q6420111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6420111",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6384329",
+  "name": "chantilly cream",
+  "description": "sweet whipped cream",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chantilly-cream-q6384329/chantilly-cream-q6384329-1.jpg",
+    "images/chantilly-cream-q6384329/chantilly-cream-q6384329-2.jpg",
+    "images/chantilly-cream-q6384329/chantilly-cream-q6384329-3.jpg",
+    "images/chantilly-cream-q6384329/chantilly-cream-q6384329-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6384329",
+    "themealdb": null
+  }
+}

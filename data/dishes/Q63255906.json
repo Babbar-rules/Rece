@@ -1,0 +1,19 @@
+{
+  "id": "Q63255906",
+  "name": "Picante surtido",
+  "description": "traditional dish in Bolivia",
+  "nationality": [
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/picante-surtido-q63255906/picante-surtido-q63255906-1.jpg",
+    "images/picante-surtido-q63255906/picante-surtido-q63255906-2.jpg",
+    "images/picante-surtido-q63255906/picante-surtido-q63255906-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63255906",
+    "themealdb": null
+  }
+}

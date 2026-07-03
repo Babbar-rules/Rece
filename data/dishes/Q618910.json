@@ -1,0 +1,20 @@
+{
+  "id": "Q618910",
+  "name": "Fatoot",
+  "description": "food",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fatoot-q618910/fatoot-q618910-1.jpg",
+    "images/fatoot-q618910/fatoot-q618910-2.jpg",
+    "images/fatoot-q618910/fatoot-q618910-3.jpg",
+    "images/fatoot-q618910/fatoot-q618910-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618910",
+    "themealdb": null
+  }
+}

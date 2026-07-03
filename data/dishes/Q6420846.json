@@ -1,0 +1,18 @@
+{
+  "id": "Q6420846",
+  "name": "Klik",
+  "description": "Israeli chocolate brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/klik-q6420846/klik-q6420846-1.jpg",
+    "images/klik-q6420846/klik-q6420846-2.jpg",
+    "images/klik-q6420846/klik-q6420846-3.jpg",
+    "images/klik-q6420846/klik-q6420846-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6420846",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6391336",
+  "name": "Kenpi",
+  "description": "Japanese Potato chips",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kenpi-q6391336/kenpi-q6391336-1.jpg",
+    "images/kenpi-q6391336/kenpi-q6391336-2.jpg",
+    "images/kenpi-q6391336/kenpi-q6391336-3.jpg",
+    "images/kenpi-q6391336/kenpi-q6391336-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6391336",
+    "themealdb": null
+  }
+}

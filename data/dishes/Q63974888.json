@@ -1,0 +1,18 @@
+{
+  "id": "Q63974888",
+  "name": "Fish Bianco",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-bianco-q63974888/fish-bianco-q63974888-1.jpg",
+    "images/fish-bianco-q63974888/fish-bianco-q63974888-2.jpg",
+    "images/fish-bianco-q63974888/fish-bianco-q63974888-3.jpg",
+    "images/fish-bianco-q63974888/fish-bianco-q63974888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63974888",
+    "themealdb": null
+  }
+}

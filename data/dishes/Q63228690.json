@@ -1,0 +1,20 @@
+{
+  "id": "Q63228690",
+  "name": "baccalà mantecato",
+  "description": "Venetian appetizer",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baccala-mantecato-q63228690/baccala-mantecato-q63228690-1.jpg",
+    "images/baccala-mantecato-q63228690/baccala-mantecato-q63228690-2.jpg",
+    "images/baccala-mantecato-q63228690/baccala-mantecato-q63228690-3.jpg",
+    "images/baccala-mantecato-q63228690/baccala-mantecato-q63228690-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63228690",
+    "themealdb": null
+  }
+}

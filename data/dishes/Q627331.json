@@ -1,0 +1,20 @@
+{
+  "id": "Q627331",
+  "name": "rösti",
+  "description": "potato dish",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosti-q627331/rosti-q627331-1.jpg",
+    "images/rosti-q627331/rosti-q627331-2.jpg",
+    "images/rosti-q627331/rosti-q627331-3.jpg",
+    "images/rosti-q627331/rosti-q627331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q627331",
+    "themealdb": null
+  }
+}

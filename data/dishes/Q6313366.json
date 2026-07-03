@@ -1,0 +1,20 @@
+{
+  "id": "Q6313366",
+  "name": "Junior Mints",
+  "description": "American candy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/junior-mints-q6313366/junior-mints-q6313366-1.jpg",
+    "images/junior-mints-q6313366/junior-mints-q6313366-2.jpg",
+    "images/junior-mints-q6313366/junior-mints-q6313366-3.jpg",
+    "images/junior-mints-q6313366/junior-mints-q6313366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6313366",
+    "themealdb": null
+  }
+}

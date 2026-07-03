@@ -1,0 +1,16 @@
+{
+  "id": "Q6418914",
+  "name": "Kiwiburger",
+  "description": "hamburger sold at McDonald's restaurants in New Zealand, consisting of a four-ounce beef patty, griddle egg, beetroot, tomato, lettuce, cheese, onions, mustard, and ketchup on a toasted bun",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kiwiburger-q6418914/kiwiburger-q6418914-1.jpg",
+    "images/kiwiburger-q6418914/kiwiburger-q6418914-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6418914",
+    "themealdb": null
+  }
+}

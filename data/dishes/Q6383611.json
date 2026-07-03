@@ -1,0 +1,17 @@
+{
+  "id": "Q6383611",
+  "name": "keihan rice",
+  "description": "amami dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/keihan-rice-q6383611/keihan-rice-q6383611-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6383611",
+    "themealdb": null
+  }
+}

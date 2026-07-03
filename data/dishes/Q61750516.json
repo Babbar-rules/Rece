@@ -1,0 +1,18 @@
+{
+  "id": "Q61750516",
+  "name": "tartine",
+  "description": "open or buttered sandwich in Quebec",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tartine-q61750516/tartine-q61750516-1.jpg",
+    "images/tartine-q61750516/tartine-q61750516-2.jpg",
+    "images/tartine-q61750516/tartine-q61750516-3.jpg",
+    "images/tartine-q61750516/tartine-q61750516-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61750516",
+    "themealdb": null
+  }
+}

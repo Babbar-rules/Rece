@@ -1,0 +1,18 @@
+{
+  "id": "Q6411995",
+  "name": "King Rib",
+  "description": "British minced pork patty",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/king-rib-q6411995/king-rib-q6411995-1.jpg",
+    "images/king-rib-q6411995/king-rib-q6411995-2.jpg",
+    "images/king-rib-q6411995/king-rib-q6411995-3.jpg",
+    "images/king-rib-q6411995/king-rib-q6411995-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6411995",
+    "themealdb": null
+  }
+}

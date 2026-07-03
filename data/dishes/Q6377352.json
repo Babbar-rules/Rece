@@ -1,0 +1,20 @@
+{
+  "id": "Q6377352",
+  "name": "kati roll",
+  "description": "street-food dish originating from Kolkata, West Bengal",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kati-roll-q6377352/kati-roll-q6377352-1.jpg",
+    "images/kati-roll-q6377352/kati-roll-q6377352-2.jpg",
+    "images/kati-roll-q6377352/kati-roll-q6377352-3.jpg",
+    "images/kati-roll-q6377352/kati-roll-q6377352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6377352",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q622547",
+  "name": "century egg",
+  "description": "Chinese egg-based culinary dish",
+  "nationality": [
+    "People's Republic of China",
+    "China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/century-egg-q622547/century-egg-q622547-1.jpeg",
+    "images/century-egg-q622547/century-egg-q622547-2.jpg",
+    "images/century-egg-q622547/century-egg-q622547-3.jpeg",
+    "images/century-egg-q622547/century-egg-q622547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q622547",
+    "themealdb": null
+  }
+}

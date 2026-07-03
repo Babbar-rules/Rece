@@ -1,0 +1,20 @@
+{
+  "id": "Q619414",
+  "name": "Abgoosht",
+  "description": "Iranian lamb dish",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/abgoosht-q619414/abgoosht-q619414-1.jpg",
+    "images/abgoosht-q619414/abgoosht-q619414-2.jpg",
+    "images/abgoosht-q619414/abgoosht-q619414-3.jpg",
+    "images/abgoosht-q619414/abgoosht-q619414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q619414",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6192074",
+  "name": "jibu-ni",
+  "description": "Japanese meat stew dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jibu-ni-q6192074/jibu-ni-q6192074-1.jpg",
+    "images/jibu-ni-q6192074/jibu-ni-q6192074-2.jpg",
+    "images/jibu-ni-q6192074/jibu-ni-q6192074-3.jpg",
+    "images/jibu-ni-q6192074/jibu-ni-q6192074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6192074",
+    "themealdb": null
+  }
+}

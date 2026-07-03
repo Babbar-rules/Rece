@@ -1,0 +1,20 @@
+{
+  "id": "Q62271704",
+  "name": "Belgian waffle",
+  "description": "breakfast waffle with light batter, large squares, and deep pockets",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/belgian-waffle-q62271704/belgian-waffle-q62271704-1.jpg",
+    "images/belgian-waffle-q62271704/belgian-waffle-q62271704-2.jpg",
+    "images/belgian-waffle-q62271704/belgian-waffle-q62271704-3.jpg",
+    "images/belgian-waffle-q62271704/belgian-waffle-q62271704-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62271704",
+    "themealdb": null
+  }
+}

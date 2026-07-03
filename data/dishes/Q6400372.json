@@ -1,0 +1,20 @@
+{
+  "id": "Q6400372",
+  "name": "Khanom chan",
+  "description": "ancient Thai dessert",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khanom-chan-q6400372/khanom-chan-q6400372-1.jpg",
+    "images/khanom-chan-q6400372/khanom-chan-q6400372-2.jpg",
+    "images/khanom-chan-q6400372/khanom-chan-q6400372-3.jpg",
+    "images/khanom-chan-q6400372/khanom-chan-q6400372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6400372",
+    "themealdb": null
+  }
+}

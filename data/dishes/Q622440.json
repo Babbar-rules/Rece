@@ -1,0 +1,22 @@
+{
+  "id": "Q622440",
+  "name": "antipasto",
+  "description": "first course of a formal Italian meal",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/antipasto-q622440/antipasto-q622440-1.jpg",
+    "images/antipasto-q622440/antipasto-q622440-2.jpg",
+    "images/antipasto-q622440/antipasto-q622440-3.jpg",
+    "images/antipasto-q622440/antipasto-q622440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q622440",
+    "themealdb": null
+  }
+}

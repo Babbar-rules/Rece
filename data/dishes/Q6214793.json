@@ -1,0 +1,18 @@
+{
+  "id": "Q6214793",
+  "name": "jogi-jeot",
+  "description": "Korean condiment",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jogi-jeot-q6214793/jogi-jeot-q6214793-1.jpg",
+    "images/jogi-jeot-q6214793/jogi-jeot-q6214793-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6214793",
+    "themealdb": null
+  }
+}

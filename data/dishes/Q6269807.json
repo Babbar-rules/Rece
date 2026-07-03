@@ -1,0 +1,19 @@
+{
+  "id": "Q6269807",
+  "name": "jokpyeon",
+  "description": "Korean aspic",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jokpyeon-q6269807/jokpyeon-q6269807-1.jpg",
+    "images/jokpyeon-q6269807/jokpyeon-q6269807-2.jpg",
+    "images/jokpyeon-q6269807/jokpyeon-q6269807-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6269807",
+    "themealdb": null
+  }
+}

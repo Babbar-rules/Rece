@@ -1,0 +1,20 @@
+{
+  "id": "Q6176869",
+  "name": "Jello salad",
+  "description": "salad made with flavored gelatin, fruit, etc.",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jello-salad-q6176869/jello-salad-q6176869-1.jpg",
+    "images/jello-salad-q6176869/jello-salad-q6176869-2.jpg",
+    "images/jello-salad-q6176869/jello-salad-q6176869-3.jpg",
+    "images/jello-salad-q6176869/jello-salad-q6176869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6176869",
+    "themealdb": null
+  }
+}

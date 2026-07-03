@@ -1,0 +1,22 @@
+{
+  "id": "Q625539",
+  "name": "hodu-gwaja",
+  "description": "Korean confection",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/hodu-gwaja-q625539/hodu-gwaja-q625539-1.jpg",
+    "images/hodu-gwaja-q625539/hodu-gwaja-q625539-2.jpg",
+    "images/hodu-gwaja-q625539/hodu-gwaja-q625539-3.jpg",
+    "images/hodu-gwaja-q625539/hodu-gwaja-q625539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q625539",
+    "themealdb": null
+  }
+}

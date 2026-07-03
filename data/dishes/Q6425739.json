@@ -1,0 +1,18 @@
+{
+  "id": "Q6425739",
+  "name": "Şiş köfte",
+  "description": "Kofte meatballs grilled on a skewer",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sis-kofte-q6425739/sis-kofte-q6425739-1.jpg",
+    "images/sis-kofte-q6425739/sis-kofte-q6425739-2.jpg",
+    "images/sis-kofte-q6425739/sis-kofte-q6425739-3.jpg",
+    "images/sis-kofte-q6425739/sis-kofte-q6425739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6425739",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6344459",
+  "name": "Kabuli pulaw",
+  "description": "Afghan dish",
+  "nationality": [
+    "Afghanistan"
+  ],
+  "region_cuisine": [
+    "Afghan cuisine"
+  ],
+  "images": [
+    "images/kabuli-pulaw-q6344459/kabuli-pulaw-q6344459-1.jpg",
+    "images/kabuli-pulaw-q6344459/kabuli-pulaw-q6344459-2.jpg",
+    "images/kabuli-pulaw-q6344459/kabuli-pulaw-q6344459-3.jpg",
+    "images/kabuli-pulaw-q6344459/kabuli-pulaw-q6344459-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6344459",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6374730",
+  "name": "kasseropita",
+  "description": "Greek pie made from phyllo and kasseri cheese",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kasseropita-q6374730/kasseropita-q6374730-1.jpg",
+    "images/kasseropita-q6374730/kasseropita-q6374730-2.jpg",
+    "images/kasseropita-q6374730/kasseropita-q6374730-3.jpg",
+    "images/kasseropita-q6374730/kasseropita-q6374730-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6374730",
+    "themealdb": null
+  }
+}

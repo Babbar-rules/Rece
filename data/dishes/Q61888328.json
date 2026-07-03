@@ -1,0 +1,20 @@
+{
+  "id": "Q61888328",
+  "name": "poppy seed roll",
+  "description": "pastry",
+  "nationality": [
+    "Europe"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poppy-seed-roll-q61888328/poppy-seed-roll-q61888328-1.jpg",
+    "images/poppy-seed-roll-q61888328/poppy-seed-roll-q61888328-2.jpg",
+    "images/poppy-seed-roll-q61888328/poppy-seed-roll-q61888328-3.jpg",
+    "images/poppy-seed-roll-q61888328/poppy-seed-roll-q61888328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61888328",
+    "themealdb": null
+  }
+}

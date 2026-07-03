@@ -1,0 +1,20 @@
+{
+  "id": "Q6297757",
+  "name": "Jaynagarer Moa",
+  "description": "confectionery of West Bengal, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jaynagarer-moa-q6297757/jaynagarer-moa-q6297757-1.jpg",
+    "images/jaynagarer-moa-q6297757/jaynagarer-moa-q6297757-2.jpg",
+    "images/jaynagarer-moa-q6297757/jaynagarer-moa-q6297757-3.jpg",
+    "images/jaynagarer-moa-q6297757/jaynagarer-moa-q6297757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6297757",
+    "themealdb": null
+  }
+}

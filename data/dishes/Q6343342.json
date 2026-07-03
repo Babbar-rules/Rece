@@ -1,0 +1,18 @@
+{
+  "id": "Q6343342",
+  "name": "Kaalan",
+  "description": "kerala dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kaalan-q6343342/kaalan-q6343342-1.jpg",
+    "images/kaalan-q6343342/kaalan-q6343342-2.jpg",
+    "images/kaalan-q6343342/kaalan-q6343342-3.jpg",
+    "images/kaalan-q6343342/kaalan-q6343342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6343342",
+    "themealdb": null
+  }
+}

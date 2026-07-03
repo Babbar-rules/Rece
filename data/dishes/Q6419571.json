@@ -1,0 +1,20 @@
+{
+  "id": "Q6419571",
+  "name": "kladdkaka",
+  "description": "chocolate mud cake eaten in Sweden and Finland",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kladdkaka-q6419571/kladdkaka-q6419571-1.jpg",
+    "images/kladdkaka-q6419571/kladdkaka-q6419571-2.jpg",
+    "images/kladdkaka-q6419571/kladdkaka-q6419571-3.jpg",
+    "images/kladdkaka-q6419571/kladdkaka-q6419571-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6419571",
+    "themealdb": null
+  }
+}

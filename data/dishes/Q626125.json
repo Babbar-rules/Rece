@@ -1,0 +1,20 @@
+{
+  "id": "Q626125",
+  "name": "agwi-jjim",
+  "description": "seafood dish, traditional in Korea",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/agwi-jjim-q626125/agwi-jjim-q626125-1.jpg",
+    "images/agwi-jjim-q626125/agwi-jjim-q626125-2.jpg",
+    "images/agwi-jjim-q626125/agwi-jjim-q626125-3.jpg",
+    "images/agwi-jjim-q626125/agwi-jjim-q626125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626125",
+    "themealdb": null
+  }
+}

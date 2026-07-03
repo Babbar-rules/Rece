@@ -1,0 +1,20 @@
+{
+  "id": "Q6176886",
+  "name": "Jelly Babies",
+  "description": "type of British sugar sweet (candy)",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jelly-babies-q6176886/jelly-babies-q6176886-1.jpg",
+    "images/jelly-babies-q6176886/jelly-babies-q6176886-2.jpg",
+    "images/jelly-babies-q6176886/jelly-babies-q6176886-3.jpg",
+    "images/jelly-babies-q6176886/jelly-babies-q6176886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6176886",
+    "themealdb": null
+  }
+}

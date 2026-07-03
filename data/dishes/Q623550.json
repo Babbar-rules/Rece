@@ -1,0 +1,20 @@
+{
+  "id": "Q623550",
+  "name": "Bavarian cream",
+  "description": "custard sauce",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bavarian-cream-q623550/bavarian-cream-q623550-1.jpg",
+    "images/bavarian-cream-q623550/bavarian-cream-q623550-2.jpg",
+    "images/bavarian-cream-q623550/bavarian-cream-q623550-3.jpg",
+    "images/bavarian-cream-q623550/bavarian-cream-q623550-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q623550",
+    "themealdb": null
+  }
+}

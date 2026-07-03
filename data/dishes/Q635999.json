@@ -1,0 +1,18 @@
+{
+  "id": "Q635999",
+  "name": "compote",
+  "description": "dessert of fruit cooked in syrup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/compote-q635999/compote-q635999-1.jpg",
+    "images/compote-q635999/compote-q635999-2.jpg",
+    "images/compote-q635999/compote-q635999-3.jpg",
+    "images/compote-q635999/compote-q635999-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q635999",
+    "themealdb": null
+  }
+}

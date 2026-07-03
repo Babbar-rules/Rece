@@ -1,0 +1,20 @@
+{
+  "id": "Q63993923",
+  "name": "Gaudes",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gaudes-q63993923/gaudes-q63993923-1.jpg",
+    "images/gaudes-q63993923/gaudes-q63993923-2.jpg",
+    "images/gaudes-q63993923/gaudes-q63993923-3.jpg",
+    "images/gaudes-q63993923/gaudes-q63993923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63993923",
+    "themealdb": null
+  }
+}

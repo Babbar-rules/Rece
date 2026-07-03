@@ -1,0 +1,18 @@
+{
+  "id": "Q6176900",
+  "name": "jelly doughnut",
+  "description": "type of doughnut",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jelly-doughnut-q6176900/jelly-doughnut-q6176900-1.jpg",
+    "images/jelly-doughnut-q6176900/jelly-doughnut-q6176900-2.jpg",
+    "images/jelly-doughnut-q6176900/jelly-doughnut-q6176900-3.jpg",
+    "images/jelly-doughnut-q6176900/jelly-doughnut-q6176900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6176900",
+    "themealdb": null
+  }
+}

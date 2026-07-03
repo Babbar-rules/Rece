@@ -1,0 +1,20 @@
+{
+  "id": "Q64025364",
+  "name": "ayam geprek",
+  "description": "Indonesian chicken dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayam-geprek-q64025364/ayam-geprek-q64025364-1.jpg",
+    "images/ayam-geprek-q64025364/ayam-geprek-q64025364-2.jpg",
+    "images/ayam-geprek-q64025364/ayam-geprek-q64025364-3.jpg",
+    "images/ayam-geprek-q64025364/ayam-geprek-q64025364-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64025364",
+    "themealdb": null
+  }
+}

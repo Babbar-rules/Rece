@@ -1,0 +1,19 @@
+{
+  "id": "Q6401568",
+  "name": "Khichra",
+  "description": "variation of the dish Haleem",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khichra-q6401568/khichra-q6401568-1.jpg",
+    "images/khichra-q6401568/khichra-q6401568-2.jpg",
+    "images/khichra-q6401568/khichra-q6401568-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6401568",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6403489",
+  "name": "Sweet coal",
+  "description": "typical Christmas dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-coal-q6403489/sweet-coal-q6403489-1.jpg",
+    "images/sweet-coal-q6403489/sweet-coal-q6403489-2.jpg",
+    "images/sweet-coal-q6403489/sweet-coal-q6403489-3.jpg",
+    "images/sweet-coal-q6403489/sweet-coal-q6403489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6403489",
+    "themealdb": null
+  }
+}

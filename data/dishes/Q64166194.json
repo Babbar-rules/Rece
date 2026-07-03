@@ -1,0 +1,18 @@
+{
+  "id": "Q64166194",
+  "name": "fried chicken wings",
+  "description": "deep fried chicken wings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-chicken-wings-q64166194/fried-chicken-wings-q64166194-1.jpg",
+    "images/fried-chicken-wings-q64166194/fried-chicken-wings-q64166194-2.jpg",
+    "images/fried-chicken-wings-q64166194/fried-chicken-wings-q64166194-3.jpg",
+    "images/fried-chicken-wings-q64166194/fried-chicken-wings-q64166194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64166194",
+    "themealdb": null
+  }
+}

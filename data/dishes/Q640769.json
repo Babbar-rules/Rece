@@ -1,0 +1,22 @@
+{
+  "id": "Q640769",
+  "name": "jiaozi",
+  "description": "Chinese dumplings",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/jiaozi-q640769/jiaozi-q640769-1.jpg",
+    "images/jiaozi-q640769/jiaozi-q640769-2.jpg",
+    "images/jiaozi-q640769/jiaozi-q640769-3.jpg",
+    "images/jiaozi-q640769/jiaozi-q640769-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q640769",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q6411978",
+  "name": "King Ranch Chicken",
+  "description": "A Tex-Mex dish similar to lasagna",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/king-ranch-chicken-q6411978/king-ranch-chicken-q6411978-1.jpg",
+    "images/king-ranch-chicken-q6411978/king-ranch-chicken-q6411978-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6411978",
+    "themealdb": null
+  }
+}

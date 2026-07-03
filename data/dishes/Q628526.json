@@ -1,0 +1,18 @@
+{
+  "id": "Q628526",
+  "name": "ice cream sandwich",
+  "description": "frozen confection composed ice cream sandwiched between two cookies, biscuits, or slices of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cream-sandwich-q628526/ice-cream-sandwich-q628526-1.jpg",
+    "images/ice-cream-sandwich-q628526/ice-cream-sandwich-q628526-2.jpg",
+    "images/ice-cream-sandwich-q628526/ice-cream-sandwich-q628526-3.jpg",
+    "images/ice-cream-sandwich-q628526/ice-cream-sandwich-q628526-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q628526",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q63442854",
+  "name": "sinantolan",
+  "description": "Filipino dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sinantolan-q63442854/sinantolan-q63442854-1.jpg",
+    "images/sinantolan-q63442854/sinantolan-q63442854-2.jpg",
+    "images/sinantolan-q63442854/sinantolan-q63442854-3.jpg",
+    "images/sinantolan-q63442854/sinantolan-q63442854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q63442854",
+    "themealdb": null
+  }
+}

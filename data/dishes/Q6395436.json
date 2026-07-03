@@ -1,0 +1,22 @@
+{
+  "id": "Q6395436",
+  "name": "Ketoprak",
+  "description": "Indonesian vegetarian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ketoprak-q6395436/ketoprak-q6395436-1.jpg",
+    "images/ketoprak-q6395436/ketoprak-q6395436-2.jpg",
+    "images/ketoprak-q6395436/ketoprak-q6395436-3.jpg",
+    "images/ketoprak-q6395436/ketoprak-q6395436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6395436",
+    "themealdb": null
+  }
+}

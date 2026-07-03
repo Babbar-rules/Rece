@@ -1,0 +1,20 @@
+{
+  "id": "Q62067066",
+  "name": "Tacacho",
+  "description": "Peruvian breakfast dish",
+  "nationality": [
+    "West Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tacacho-q62067066/tacacho-q62067066-1.jpg",
+    "images/tacacho-q62067066/tacacho-q62067066-2.jpg",
+    "images/tacacho-q62067066/tacacho-q62067066-3.png",
+    "images/tacacho-q62067066/tacacho-q62067066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q62067066",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6393299",
+  "name": "kerak telor",
+  "description": "Indonesian spicy omelette dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kerak-telor-q6393299/kerak-telor-q6393299-1.jpg",
+    "images/kerak-telor-q6393299/kerak-telor-q6393299-2.jpg",
+    "images/kerak-telor-q6393299/kerak-telor-q6393299-3.jpg",
+    "images/kerak-telor-q6393299/kerak-telor-q6393299-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6393299",
+    "themealdb": null
+  }
+}

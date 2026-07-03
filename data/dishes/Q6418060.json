@@ -1,0 +1,20 @@
+{
+  "id": "Q6418060",
+  "name": "Kitchener bun",
+  "description": "sweet pastry made and sold in South Australia since 1915",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kitchener-bun-q6418060/kitchener-bun-q6418060-1.jpg",
+    "images/kitchener-bun-q6418060/kitchener-bun-q6418060-2.jpg",
+    "images/kitchener-bun-q6418060/kitchener-bun-q6418060-3.jpg",
+    "images/kitchener-bun-q6418060/kitchener-bun-q6418060-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6418060",
+    "themealdb": null
+  }
+}

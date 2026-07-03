@@ -1,0 +1,20 @@
+{
+  "id": "Q6304924",
+  "name": "lihapiirakka",
+  "description": "Finnish savory pie filled with ground meat and cooked rice",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lihapiirakka-q6304924/lihapiirakka-q6304924-1.jpg",
+    "images/lihapiirakka-q6304924/lihapiirakka-q6304924-2.jpg",
+    "images/lihapiirakka-q6304924/lihapiirakka-q6304924-3.jpg",
+    "images/lihapiirakka-q6304924/lihapiirakka-q6304924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6304924",
+    "themealdb": null
+  }
+}

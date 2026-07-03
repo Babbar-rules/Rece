@@ -1,0 +1,20 @@
+{
+  "id": "Q6345457",
+  "name": "Kadhi",
+  "description": "dish originating from the Indian subcontinent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kadhi-q6345457/kadhi-q6345457-1.jpg",
+    "images/kadhi-q6345457/kadhi-q6345457-2.jpg",
+    "images/kadhi-q6345457/kadhi-q6345457-3.jpg",
+    "images/kadhi-q6345457/kadhi-q6345457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6345457",
+    "themealdb": null
+  }
+}

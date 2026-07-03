@@ -1,0 +1,20 @@
+{
+  "id": "Q6164115",
+  "name": "Viuda de Solano",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/viuda-de-solano-q6164115/viuda-de-solano-q6164115-1.jpg",
+    "images/viuda-de-solano-q6164115/viuda-de-solano-q6164115-2.jpg",
+    "images/viuda-de-solano-q6164115/viuda-de-solano-q6164115-3.jpg",
+    "images/viuda-de-solano-q6164115/viuda-de-solano-q6164115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6164115",
+    "themealdb": null
+  }
+}

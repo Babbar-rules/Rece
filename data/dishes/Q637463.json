@@ -1,0 +1,18 @@
+{
+  "id": "Q637463",
+  "name": "frozen custard",
+  "description": "cold dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frozen-custard-q637463/frozen-custard-q637463-1.jpg",
+    "images/frozen-custard-q637463/frozen-custard-q637463-2.jpg",
+    "images/frozen-custard-q637463/frozen-custard-q637463-3.jpg",
+    "images/frozen-custard-q637463/frozen-custard-q637463-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q637463",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6267210",
+  "name": "Johnny Marzetti",
+  "description": "Italian-American pasta dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/johnny-marzetti-q6267210/johnny-marzetti-q6267210-1.jpg",
+    "images/johnny-marzetti-q6267210/johnny-marzetti-q6267210-2.jpg",
+    "images/johnny-marzetti-q6267210/johnny-marzetti-q6267210-3.jpg",
+    "images/johnny-marzetti-q6267210/johnny-marzetti-q6267210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6267210",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q626147",
+  "name": "buldak",
+  "description": "South Korean dish of chicken in a spicy sauce",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buldak-q626147/buldak-q626147-1.jpg",
+    "images/buldak-q626147/buldak-q626147-2.jpg",
+    "images/buldak-q626147/buldak-q626147-3.jpg",
+    "images/buldak-q626147/buldak-q626147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q626147",
+    "themealdb": null
+  }
+}

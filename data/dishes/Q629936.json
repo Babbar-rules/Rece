@@ -1,0 +1,20 @@
+{
+  "id": "Q629936",
+  "name": "Barros Jarpa",
+  "description": "Chilean sandwich with ham and melted cheese",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barros-jarpa-q629936/barros-jarpa-q629936-1.jpg",
+    "images/barros-jarpa-q629936/barros-jarpa-q629936-2.jpg",
+    "images/barros-jarpa-q629936/barros-jarpa-q629936-3.jpg",
+    "images/barros-jarpa-q629936/barros-jarpa-q629936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q629936",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6416809",
+  "name": "Kismet",
+  "description": "Finnish chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kismet-q6416809/kismet-q6416809-1.png",
+    "images/kismet-q6416809/kismet-q6416809-2.jpg",
+    "images/kismet-q6416809/kismet-q6416809-3.png",
+    "images/kismet-q6416809/kismet-q6416809-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6416809",
+    "themealdb": null
+  }
+}

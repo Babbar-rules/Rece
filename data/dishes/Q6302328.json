@@ -1,0 +1,17 @@
+{
+  "id": "Q6302328",
+  "name": "Judd mat Gaardebounen",
+  "description": "Savory dish from Luxembourg",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/judd-mat-gaardebounen-q6302328/judd-mat-gaardebounen-q6302328-1.jpg",
+    "images/judd-mat-gaardebounen-q6302328/judd-mat-gaardebounen-q6302328-2.jpg",
+    "images/judd-mat-gaardebounen-q6302328/judd-mat-gaardebounen-q6302328-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6302328",
+    "themealdb": null
+  }
+}

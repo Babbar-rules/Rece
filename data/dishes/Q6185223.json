@@ -1,0 +1,20 @@
+{
+  "id": "Q6185223",
+  "name": "Jerusalem mixed grill",
+  "description": "Israeli grilled meat dish",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jerusalem-mixed-grill-q6185223/jerusalem-mixed-grill-q6185223-1.jpeg",
+    "images/jerusalem-mixed-grill-q6185223/jerusalem-mixed-grill-q6185223-2.jpg",
+    "images/jerusalem-mixed-grill-q6185223/jerusalem-mixed-grill-q6185223-3.jpeg",
+    "images/jerusalem-mixed-grill-q6185223/jerusalem-mixed-grill-q6185223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6185223",
+    "themealdb": null
+  }
+}

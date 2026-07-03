@@ -1,0 +1,20 @@
+{
+  "id": "Q6343722",
+  "name": "kabab torsh",
+  "description": "traditional kebab from northern cities of Iran, consisting of meat marinated in walnuts, pomegranate, parsley, olive oil, and garlic, cooked on skewers over charcoal",
+  "nationality": [],
+  "region_cuisine": [
+    "Iranian cuisine"
+  ],
+  "images": [
+    "images/kabab-torsh-q6343722/kabab-torsh-q6343722-1.jpg",
+    "images/kabab-torsh-q6343722/kabab-torsh-q6343722-2.jpg",
+    "images/kabab-torsh-q6343722/kabab-torsh-q6343722-3.jpg",
+    "images/kabab-torsh-q6343722/kabab-torsh-q6343722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6343722",
+    "themealdb": null
+  }
+}
