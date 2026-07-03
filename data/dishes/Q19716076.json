@@ -1,0 +1,20 @@
+{
+  "id": "Q19716076",
+  "name": "Pan con chicharrón",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-con-chicharron-q19716076/pan-con-chicharron-q19716076-1.jpg",
+    "images/pan-con-chicharron-q19716076/pan-con-chicharron-q19716076-2.jpg",
+    "images/pan-con-chicharron-q19716076/pan-con-chicharron-q19716076-3.jpg",
+    "images/pan-con-chicharron-q19716076/pan-con-chicharron-q19716076-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19716076",
+    "themealdb": null
+  }
+}

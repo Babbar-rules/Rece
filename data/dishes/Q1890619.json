@@ -1,0 +1,20 @@
+{
+  "id": "Q1890619",
+  "name": "Mannheimer Dreck",
+  "description": "macaroon pastry",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mannheimer-dreck-q1890619/mannheimer-dreck-q1890619-1.jpg",
+    "images/mannheimer-dreck-q1890619/mannheimer-dreck-q1890619-2.jpg",
+    "images/mannheimer-dreck-q1890619/mannheimer-dreck-q1890619-3.jpg",
+    "images/mannheimer-dreck-q1890619/mannheimer-dreck-q1890619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1890619",
+    "themealdb": null
+  }
+}

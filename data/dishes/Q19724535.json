@@ -1,0 +1,22 @@
+{
+  "id": "Q19724535",
+  "name": "Bulung",
+  "description": "Balinese food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bulung-q19724535/bulung-q19724535-1.jpg",
+    "images/bulung-q19724535/bulung-q19724535-2.jpg",
+    "images/bulung-q19724535/bulung-q19724535-3.jpg",
+    "images/bulung-q19724535/bulung-q19724535-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19724535",
+    "themealdb": null
+  }
+}

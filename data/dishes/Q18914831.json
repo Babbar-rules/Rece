@@ -1,0 +1,18 @@
+{
+  "id": "Q18914831",
+  "name": "Quark mit Leinöl",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/quark-mit-leinol-q18914831/quark-mit-leinol-q18914831-1.jpg",
+    "images/quark-mit-leinol-q18914831/quark-mit-leinol-q18914831-2.jpg",
+    "images/quark-mit-leinol-q18914831/quark-mit-leinol-q18914831-3.jpg",
+    "images/quark-mit-leinol-q18914831/quark-mit-leinol-q18914831-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18914831",
+    "themealdb": null
+  }
+}

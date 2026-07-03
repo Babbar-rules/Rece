@@ -1,0 +1,18 @@
+{
+  "id": "Q1915612",
+  "name": "Méchoui",
+  "description": "Spit-roasted whole lamb or sheep",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mechoui-q1915612/mechoui-q1915612-1.jpg",
+    "images/mechoui-q1915612/mechoui-q1915612-2.jpg",
+    "images/mechoui-q1915612/mechoui-q1915612-3.jpg",
+    "images/mechoui-q1915612/mechoui-q1915612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1915612",
+    "themealdb": null
+  }
+}

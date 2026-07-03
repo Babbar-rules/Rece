@@ -1,0 +1,18 @@
+{
+  "id": "Q1957030",
+  "name": "Malaga ice cream",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/malaga-ice-cream-q1957030/malaga-ice-cream-q1957030-1.jpg",
+    "images/malaga-ice-cream-q1957030/malaga-ice-cream-q1957030-2.jpg",
+    "images/malaga-ice-cream-q1957030/malaga-ice-cream-q1957030-3.jpg",
+    "images/malaga-ice-cream-q1957030/malaga-ice-cream-q1957030-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1957030",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18589142",
+  "name": "Arroz junto",
+  "description": "Puerto Rican rice dish",
+  "nationality": [
+    "Puerto Rico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-junto-q18589142/arroz-junto-q18589142-1.jpg",
+    "images/arroz-junto-q18589142/arroz-junto-q18589142-2.jpg",
+    "images/arroz-junto-q18589142/arroz-junto-q18589142-3.jpg",
+    "images/arroz-junto-q18589142/arroz-junto-q18589142-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18589142",
+    "themealdb": null
+  }
+}

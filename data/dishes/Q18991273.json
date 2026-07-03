@@ -1,0 +1,20 @@
+{
+  "id": "Q18991273",
+  "name": "Otaru Ankake Yakisoba",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/otaru-ankake-yakisoba-q18991273/otaru-ankake-yakisoba-q18991273-1.jpg",
+    "images/otaru-ankake-yakisoba-q18991273/otaru-ankake-yakisoba-q18991273-2.jpg",
+    "images/otaru-ankake-yakisoba-q18991273/otaru-ankake-yakisoba-q18991273-3.jpg",
+    "images/otaru-ankake-yakisoba-q18991273/otaru-ankake-yakisoba-q18991273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18991273",
+    "themealdb": null
+  }
+}

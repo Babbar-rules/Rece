@@ -1,0 +1,18 @@
+{
+  "id": "Q18679149",
+  "name": "fish dish",
+  "description": "type of dish comprised of fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-dish-q18679149/fish-dish-q18679149-1.jpg",
+    "images/fish-dish-q18679149/fish-dish-q18679149-2.jpg",
+    "images/fish-dish-q18679149/fish-dish-q18679149-3.jpg",
+    "images/fish-dish-q18679149/fish-dish-q18679149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18679149",
+    "themealdb": null
+  }
+}

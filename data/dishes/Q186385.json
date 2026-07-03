@@ -1,0 +1,18 @@
+{
+  "id": "Q186385",
+  "name": "caviar",
+  "description": "salt-cured fish-eggs of the Acipenseridae family",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caviar-q186385/caviar-q186385-1.jpg",
+    "images/caviar-q186385/caviar-q186385-2.jpg",
+    "images/caviar-q186385/caviar-q186385-3.jpg",
+    "images/caviar-q186385/caviar-q186385-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q186385",
+    "themealdb": null
+  }
+}

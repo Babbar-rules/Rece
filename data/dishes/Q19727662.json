@@ -1,0 +1,20 @@
+{
+  "id": "Q19727662",
+  "name": "tempeh chips",
+  "description": "crispy snack made from tempeh",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tempeh-chips-q19727662/tempeh-chips-q19727662-1.jpg",
+    "images/tempeh-chips-q19727662/tempeh-chips-q19727662-2.jpg",
+    "images/tempeh-chips-q19727662/tempeh-chips-q19727662-3.jpg",
+    "images/tempeh-chips-q19727662/tempeh-chips-q19727662-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19727662",
+    "themealdb": null
+  }
+}

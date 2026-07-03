@@ -1,0 +1,18 @@
+{
+  "id": "Q1900223",
+  "name": "Rolo",
+  "description": "chocolate-covered caramel candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rolo-q1900223/rolo-q1900223-1.jpg",
+    "images/rolo-q1900223/rolo-q1900223-2.jpg",
+    "images/rolo-q1900223/rolo-q1900223-3.jpg",
+    "images/rolo-q1900223/rolo-q1900223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1900223",
+    "themealdb": null
+  }
+}

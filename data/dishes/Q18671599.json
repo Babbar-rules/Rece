@@ -1,0 +1,20 @@
+{
+  "id": "Q18671599",
+  "name": "tas kebab",
+  "description": "Turkish veal or mutton stew",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tas-kebab-q18671599/tas-kebab-q18671599-1.jpg",
+    "images/tas-kebab-q18671599/tas-kebab-q18671599-2.jpg",
+    "images/tas-kebab-q18671599/tas-kebab-q18671599-3.jpg",
+    "images/tas-kebab-q18671599/tas-kebab-q18671599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18671599",
+    "themealdb": null
+  }
+}

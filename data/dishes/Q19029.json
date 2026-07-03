@@ -1,0 +1,18 @@
+{
+  "id": "Q19029",
+  "name": "rice pudding",
+  "description": "dish made from rice with milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-pudding-q19029/rice-pudding-q19029-1.png",
+    "images/rice-pudding-q19029/rice-pudding-q19029-2.jpg",
+    "images/rice-pudding-q19029/rice-pudding-q19029-3.jpg",
+    "images/rice-pudding-q19029/rice-pudding-q19029-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19029",
+    "themealdb": null
+  }
+}

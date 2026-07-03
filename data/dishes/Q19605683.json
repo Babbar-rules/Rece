@@ -1,0 +1,22 @@
+{
+  "id": "Q19605683",
+  "name": "Osmania Biscuit",
+  "description": "snack in Hyderabad, Telangana",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/osmania-biscuit-q19605683/osmania-biscuit-q19605683-1.jpg",
+    "images/osmania-biscuit-q19605683/osmania-biscuit-q19605683-2.jpg",
+    "images/osmania-biscuit-q19605683/osmania-biscuit-q19605683-3.jpg",
+    "images/osmania-biscuit-q19605683/osmania-biscuit-q19605683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19605683",
+    "themealdb": null
+  }
+}

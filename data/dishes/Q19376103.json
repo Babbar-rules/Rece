@@ -1,0 +1,18 @@
+{
+  "id": "Q19376103",
+  "name": "soufflé-style cheesecake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/souffle-style-cheesecake-q19376103/souffle-style-cheesecake-q19376103-1.jpg",
+    "images/souffle-style-cheesecake-q19376103/souffle-style-cheesecake-q19376103-2.jpg",
+    "images/souffle-style-cheesecake-q19376103/souffle-style-cheesecake-q19376103-3.jpg",
+    "images/souffle-style-cheesecake-q19376103/souffle-style-cheesecake-q19376103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19376103",
+    "themealdb": null
+  }
+}

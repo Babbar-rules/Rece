@@ -1,0 +1,18 @@
+{
+  "id": "Q1934489",
+  "name": "Milk soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-soup-q1934489/milk-soup-q1934489-1.jpg",
+    "images/milk-soup-q1934489/milk-soup-q1934489-2.jpg",
+    "images/milk-soup-q1934489/milk-soup-q1934489-3.jpg",
+    "images/milk-soup-q1934489/milk-soup-q1934489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1934489",
+    "themealdb": null
+  }
+}

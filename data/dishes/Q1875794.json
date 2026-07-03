@@ -1,0 +1,18 @@
+{
+  "id": "Q1875794",
+  "name": "air chocolate",
+  "description": "chocolate with tiny gas bubbles inside",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/air-chocolate-q1875794/air-chocolate-q1875794-1.jpg",
+    "images/air-chocolate-q1875794/air-chocolate-q1875794-2.jpg",
+    "images/air-chocolate-q1875794/air-chocolate-q1875794-3.jpg",
+    "images/air-chocolate-q1875794/air-chocolate-q1875794-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1875794",
+    "themealdb": null
+  }
+}

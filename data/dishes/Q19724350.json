@@ -1,0 +1,20 @@
+{
+  "id": "Q19724350",
+  "name": "binte biluhuta",
+  "description": "soup consisting of corn, fish or shrimp typical of Gorontalo",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/binte-biluhuta-q19724350/binte-biluhuta-q19724350-1.jpg",
+    "images/binte-biluhuta-q19724350/binte-biluhuta-q19724350-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19724350",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1868173",
+  "name": "Lohengrin",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lohengrin-q1868173/lohengrin-q1868173-1.jpg",
+    "images/lohengrin-q1868173/lohengrin-q1868173-2.jpg",
+    "images/lohengrin-q1868173/lohengrin-q1868173-3.jpg",
+    "images/lohengrin-q1868173/lohengrin-q1868173-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1868173",
+    "themealdb": null
+  }
+}

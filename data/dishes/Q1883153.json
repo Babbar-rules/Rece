@@ -1,0 +1,18 @@
+{
+  "id": "Q1883153",
+  "name": "toast waffle",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/toast-waffle-q1883153/toast-waffle-q1883153-1.jpg",
+    "images/toast-waffle-q1883153/toast-waffle-q1883153-2.jpg",
+    "images/toast-waffle-q1883153/toast-waffle-q1883153-3.jpg",
+    "images/toast-waffle-q1883153/toast-waffle-q1883153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1883153",
+    "themealdb": null
+  }
+}

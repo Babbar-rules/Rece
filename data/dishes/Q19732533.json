@@ -1,0 +1,20 @@
+{
+  "id": "Q19732533",
+  "name": "Seblak",
+  "description": "Sundanese dish from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seblak-q19732533/seblak-q19732533-1.jpg",
+    "images/seblak-q19732533/seblak-q19732533-2.jpg",
+    "images/seblak-q19732533/seblak-q19732533-3.jpg",
+    "images/seblak-q19732533/seblak-q19732533-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19732533",
+    "themealdb": null
+  }
+}

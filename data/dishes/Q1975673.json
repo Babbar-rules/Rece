@@ -1,0 +1,19 @@
+{
+  "id": "Q1975673",
+  "name": "Nasi krawu",
+  "description": "rice dish from Gresik",
+  "nationality": [],
+  "region_cuisine": [
+    "Javanese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-krawu-q1975673/nasi-krawu-q1975673-1.jpg",
+    "images/nasi-krawu-q1975673/nasi-krawu-q1975673-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1975673",
+    "themealdb": null
+  }
+}

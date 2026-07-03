@@ -1,0 +1,20 @@
+{
+  "id": "Q18883046",
+  "name": "mala hot pot",
+  "description": "Chinese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mala-hot-pot-q18883046/mala-hot-pot-q18883046-1.jpg",
+    "images/mala-hot-pot-q18883046/mala-hot-pot-q18883046-2.jpg",
+    "images/mala-hot-pot-q18883046/mala-hot-pot-q18883046-3.jpg",
+    "images/mala-hot-pot-q18883046/mala-hot-pot-q18883046-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18883046",
+    "themealdb": null
+  }
+}

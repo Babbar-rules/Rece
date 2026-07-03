@@ -1,0 +1,20 @@
+{
+  "id": "Q1962004",
+  "name": "nabemono",
+  "description": "variety of Japanese hot pot dishes",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nabemono-q1962004/nabemono-q1962004-1.jpg",
+    "images/nabemono-q1962004/nabemono-q1962004-2.png",
+    "images/nabemono-q1962004/nabemono-q1962004-3.jpeg",
+    "images/nabemono-q1962004/nabemono-q1962004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1962004",
+    "themealdb": null
+  }
+}

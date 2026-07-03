@@ -1,0 +1,19 @@
+{
+  "id": "Q18653699",
+  "name": "Moon shrimp cake",
+  "description": "Taiwanese dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moon-shrimp-cake-q18653699/moon-shrimp-cake-q18653699-1.jpg",
+    "images/moon-shrimp-cake-q18653699/moon-shrimp-cake-q18653699-2.jpg",
+    "images/moon-shrimp-cake-q18653699/moon-shrimp-cake-q18653699-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18653699",
+    "themealdb": null
+  }
+}

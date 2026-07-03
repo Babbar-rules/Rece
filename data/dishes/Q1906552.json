@@ -1,0 +1,18 @@
+{
+  "id": "Q1906552",
+  "name": "Marzipan potato",
+  "description": "Marzipan confection colored and shaped to look like a potato",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/marzipan-potato-q1906552/marzipan-potato-q1906552-1.jpg",
+    "images/marzipan-potato-q1906552/marzipan-potato-q1906552-2.jpg",
+    "images/marzipan-potato-q1906552/marzipan-potato-q1906552-3.jpg",
+    "images/marzipan-potato-q1906552/marzipan-potato-q1906552-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1906552",
+    "themealdb": null
+  }
+}

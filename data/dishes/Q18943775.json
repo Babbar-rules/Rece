@@ -1,0 +1,18 @@
+{
+  "id": "Q18943775",
+  "name": "trileçe",
+  "description": "Albanian and Turkish version of \"tres leches cake\"",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/trilece-q18943775/trilece-q18943775-1.jpg",
+    "images/trilece-q18943775/trilece-q18943775-2.jpg",
+    "images/trilece-q18943775/trilece-q18943775-3.jpg",
+    "images/trilece-q18943775/trilece-q18943775-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18943775",
+    "themealdb": null
+  }
+}

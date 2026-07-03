@@ -1,0 +1,22 @@
+{
+  "id": "Q19728050",
+  "name": "kue ape",
+  "description": "Indonesian type of pancake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/kue-ape-q19728050/kue-ape-q19728050-1.jpg",
+    "images/kue-ape-q19728050/kue-ape-q19728050-2.jpg",
+    "images/kue-ape-q19728050/kue-ape-q19728050-3.jpg",
+    "images/kue-ape-q19728050/kue-ape-q19728050-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19728050",
+    "themealdb": null
+  }
+}

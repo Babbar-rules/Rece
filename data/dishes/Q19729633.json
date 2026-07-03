@@ -1,0 +1,20 @@
+{
+  "id": "Q19729633",
+  "name": "nasi timbel",
+  "description": "Indonesian rice dish originating from West Java",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-timbel-q19729633/nasi-timbel-q19729633-1.jpg",
+    "images/nasi-timbel-q19729633/nasi-timbel-q19729633-2.png",
+    "images/nasi-timbel-q19729633/nasi-timbel-q19729633-3.png",
+    "images/nasi-timbel-q19729633/nasi-timbel-q19729633-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19729633",
+    "themealdb": null
+  }
+}

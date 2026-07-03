@@ -1,0 +1,21 @@
+{
+  "id": "Q19746250",
+  "name": "Meuseukat",
+  "description": "dodol-like cake found in Acehnese cuisine",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/meuseukat-q19746250/meuseukat-q19746250-1.jpg",
+    "images/meuseukat-q19746250/meuseukat-q19746250-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19746250",
+    "themealdb": null
+  }
+}

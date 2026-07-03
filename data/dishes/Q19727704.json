@@ -1,0 +1,23 @@
+{
+  "id": "Q19727704",
+  "name": "keumamah",
+  "description": "Acehnese fish dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/keumamah-q19727704/keumamah-q19727704-1.jpg",
+    "images/keumamah-q19727704/keumamah-q19727704-2.jpg",
+    "images/keumamah-q19727704/keumamah-q19727704-3.jpg",
+    "images/keumamah-q19727704/keumamah-q19727704-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19727704",
+    "themealdb": null
+  }
+}

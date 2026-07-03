@@ -1,0 +1,20 @@
+{
+  "id": "Q1886522",
+  "name": "Makroudh",
+  "description": "Semolina cookie with filling",
+  "nationality": [
+    "Maghreb"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/makroudh-q1886522/makroudh-q1886522-1.jpg",
+    "images/makroudh-q1886522/makroudh-q1886522-2.jpg",
+    "images/makroudh-q1886522/makroudh-q1886522-3.jpg",
+    "images/makroudh-q1886522/makroudh-q1886522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1886522",
+    "themealdb": null
+  }
+}

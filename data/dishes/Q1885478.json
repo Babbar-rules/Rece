@@ -1,0 +1,19 @@
+{
+  "id": "Q1885478",
+  "name": "Mailänderli",
+  "description": "type of Swiss Christmas cookie",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mailanderli-q1885478/mailanderli-q1885478-1.jpg",
+    "images/mailanderli-q1885478/mailanderli-q1885478-2.jpg",
+    "images/mailanderli-q1885478/mailanderli-q1885478-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1885478",
+    "themealdb": null
+  }
+}

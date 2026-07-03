@@ -1,0 +1,20 @@
+{
+  "id": "Q1886687",
+  "name": "Malakoff",
+  "description": "Swiss fried cheese balls",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malakoff-q1886687/malakoff-q1886687-1.jpeg",
+    "images/malakoff-q1886687/malakoff-q1886687-2.jpg",
+    "images/malakoff-q1886687/malakoff-q1886687-3.jpg",
+    "images/malakoff-q1886687/malakoff-q1886687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1886687",
+    "themealdb": null
+  }
+}

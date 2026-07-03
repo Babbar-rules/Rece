@@ -1,0 +1,20 @@
+{
+  "id": "Q1975589",
+  "name": "ptasie mleczko",
+  "description": "confectionery product",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ptasie-mleczko-q1975589/ptasie-mleczko-q1975589-1.jpg",
+    "images/ptasie-mleczko-q1975589/ptasie-mleczko-q1975589-2.jpg",
+    "images/ptasie-mleczko-q1975589/ptasie-mleczko-q1975589-3.jpg",
+    "images/ptasie-mleczko-q1975589/ptasie-mleczko-q1975589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1975589",
+    "themealdb": null
+  }
+}

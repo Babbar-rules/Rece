@@ -1,0 +1,20 @@
+{
+  "id": "Q1968771",
+  "name": "olla podrida",
+  "description": "Spanish stew made with chickpeas and beans",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/olla-podrida-q1968771/olla-podrida-q1968771-1.jpg",
+    "images/olla-podrida-q1968771/olla-podrida-q1968771-2.png",
+    "images/olla-podrida-q1968771/olla-podrida-q1968771-3.jpg",
+    "images/olla-podrida-q1968771/olla-podrida-q1968771-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1968771",
+    "themealdb": null
+  }
+}

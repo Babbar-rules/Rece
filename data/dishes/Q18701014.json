@@ -1,0 +1,18 @@
+{
+  "id": "Q18701014",
+  "name": "CupStar",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cupstar-q18701014/cupstar-q18701014-1.jpg",
+    "images/cupstar-q18701014/cupstar-q18701014-2.jpg",
+    "images/cupstar-q18701014/cupstar-q18701014-3.jpg",
+    "images/cupstar-q18701014/cupstar-q18701014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18701014",
+    "themealdb": null
+  }
+}

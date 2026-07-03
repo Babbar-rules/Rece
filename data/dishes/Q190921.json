@@ -1,0 +1,20 @@
+{
+  "id": "Q190921",
+  "name": "panpepato",
+  "description": "Italian round, sweet cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panpepato-q190921/panpepato-q190921-1.jpg",
+    "images/panpepato-q190921/panpepato-q190921-2.jpg",
+    "images/panpepato-q190921/panpepato-q190921-3.jpg",
+    "images/panpepato-q190921/panpepato-q190921-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q190921",
+    "themealdb": null
+  }
+}

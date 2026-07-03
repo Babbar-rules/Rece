@@ -1,0 +1,20 @@
+{
+  "id": "Q1919688",
+  "name": "melonpan",
+  "description": "sweet bread from Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/melonpan-q1919688/melonpan-q1919688-1.jpg",
+    "images/melonpan-q1919688/melonpan-q1919688-2.jpg",
+    "images/melonpan-q1919688/melonpan-q1919688-3.jpg",
+    "images/melonpan-q1919688/melonpan-q1919688-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1919688",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q1913489",
+  "name": "Fasolada",
+  "description": "mediterranean kind of soup",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [
+    "Greek cuisine",
+    "Cypriot cuisine"
+  ],
+  "images": [
+    "images/fasolada-q1913489/fasolada-q1913489-1.jpg",
+    "images/fasolada-q1913489/fasolada-q1913489-2.jpg",
+    "images/fasolada-q1913489/fasolada-q1913489-3.jpg",
+    "images/fasolada-q1913489/fasolada-q1913489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1913489",
+    "themealdb": null
+  }
+}

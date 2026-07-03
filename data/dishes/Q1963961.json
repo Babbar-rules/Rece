@@ -1,0 +1,20 @@
+{
+  "id": "Q1963961",
+  "name": "hematogen",
+  "description": "nutrition bar containing cow's blood",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hematogen-q1963961/hematogen-q1963961-1.jpg",
+    "images/hematogen-q1963961/hematogen-q1963961-2.jpg",
+    "images/hematogen-q1963961/hematogen-q1963961-3.jpg",
+    "images/hematogen-q1963961/hematogen-q1963961-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1963961",
+    "themealdb": null
+  }
+}

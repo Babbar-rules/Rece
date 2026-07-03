@@ -1,0 +1,18 @@
+{
+  "id": "Q19285580",
+  "name": "Hildesheimer Pumpernickel",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hildesheimer-pumpernickel-q19285580/hildesheimer-pumpernickel-q19285580-1.jpg",
+    "images/hildesheimer-pumpernickel-q19285580/hildesheimer-pumpernickel-q19285580-2.jpg",
+    "images/hildesheimer-pumpernickel-q19285580/hildesheimer-pumpernickel-q19285580-3.jpg",
+    "images/hildesheimer-pumpernickel-q19285580/hildesheimer-pumpernickel-q19285580-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19285580",
+    "themealdb": null
+  }
+}

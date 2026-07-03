@@ -1,0 +1,65 @@
+{
+  "id": "Q186817",
+  "name": "porridge",
+  "description": "food commonly eaten as a breakfast cereal dish, made by boiling ground, crushed or chopped starchy plants, typically grain, in water or milk",
+  "nationality": [
+    "Africa",
+    "Europe"
+  ],
+  "region_cuisine": [
+    "Breakfast"
+  ],
+  "images": [
+    "images/porridge-q186817/porridge-q186817-1.jpg",
+    "images/porridge-q186817/porridge-q186817-2.jpg",
+    "images/porridge-q186817/porridge-q186817-3.jpg",
+    "images/porridge-q186817/porridge-q186817-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53363",
+    "category": "Breakfast",
+    "area": "Jamaican",
+    "instructions": "Add 2 ½ cups water, 1 can coconut milk to a 4 QT heavy bottomed pot. Bring to a boil over medium-high heat.\r\nMeanwhile, add 1 cup cornmeal and 1 ½ cup water to a large mixing cup and whisk until smooth.\r\nOnce the pot begins to boil, whisk in cornmeal mixture and continue to whisk for about 1 minute, ensuring there are no lumps. Reduce heat to low and cover with a tight fitting lid.\r\nCook over low heat for 15-20 minutes, stirring occasionally. When there is about 5 minutes left, stir in vanilla extract, cinnamon, nutmeg, and all-spice. Remove from heat and sweeten with condensed milk.\r\nServe and enjoy.",
+    "ingredients": [
+      {
+        "ingredient": "Water",
+        "measure": "4 cups"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "380g"
+      },
+      {
+        "ingredient": "Fine Yellow Cornmeal",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 1/2 tsp"
+      },
+      {
+        "ingredient": "Ground Cinnamon",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Ground Nutmeg",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Ground Allspice",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Sweetened Condensed Milk",
+        "measure": "1/2 cup"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=NACm9tDACRc",
+    "thumb": "https://www.themealdb.com/images/media/meals/sng9bm1765320170.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q186817",
+    "themealdb": "53363"
+  }
+}

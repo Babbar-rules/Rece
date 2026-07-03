@@ -1,0 +1,21 @@
+{
+  "id": "Q1922854",
+  "name": "Pane carasau",
+  "description": "Thin, crisp, twice-baked flatbread from Sardinia",
+  "nationality": [
+    "Italy",
+    "Sardinia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pane-carasau-q1922854/pane-carasau-q1922854-1.jpg",
+    "images/pane-carasau-q1922854/pane-carasau-q1922854-2.jpg",
+    "images/pane-carasau-q1922854/pane-carasau-q1922854-3.jpg",
+    "images/pane-carasau-q1922854/pane-carasau-q1922854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1922854",
+    "themealdb": null
+  }
+}

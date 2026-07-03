@@ -1,0 +1,20 @@
+{
+  "id": "Q19766201",
+  "name": "pizza cake",
+  "description": "Canadian multiple-layer pizza baked in a pot or cake pan",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-cake-q19766201/pizza-cake-q19766201-1.jpg",
+    "images/pizza-cake-q19766201/pizza-cake-q19766201-2.jpg",
+    "images/pizza-cake-q19766201/pizza-cake-q19766201-3.png",
+    "images/pizza-cake-q19766201/pizza-cake-q19766201-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19766201",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q1890494",
+  "name": "paprikás krumpli",
+  "description": "Hungarian stew",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/paprikas-krumpli-q1890494/paprikas-krumpli-q1890494-1.jpg",
+    "images/paprikas-krumpli-q1890494/paprikas-krumpli-q1890494-2.jpg",
+    "images/paprikas-krumpli-q1890494/paprikas-krumpli-q1890494-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1890494",
+    "themealdb": null
+  }
+}

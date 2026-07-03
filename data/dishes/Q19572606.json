@@ -1,0 +1,20 @@
+{
+  "id": "Q19572606",
+  "name": "lechon kawali",
+  "description": "filipino-style deep-fried pork belly",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lechon-kawali-q19572606/lechon-kawali-q19572606-1.jpg",
+    "images/lechon-kawali-q19572606/lechon-kawali-q19572606-2.jpg",
+    "images/lechon-kawali-q19572606/lechon-kawali-q19572606-3.jpg",
+    "images/lechon-kawali-q19572606/lechon-kawali-q19572606-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19572606",
+    "themealdb": null
+  }
+}

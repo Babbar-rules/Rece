@@ -1,0 +1,20 @@
+{
+  "id": "Q1923394",
+  "name": "Jujeh kabab",
+  "description": "Iranian chicken kebab",
+  "nationality": [],
+  "region_cuisine": [
+    "Iranian cuisine"
+  ],
+  "images": [
+    "images/jujeh-kabab-q1923394/jujeh-kabab-q1923394-1.jpg",
+    "images/jujeh-kabab-q1923394/jujeh-kabab-q1923394-2.jpg",
+    "images/jujeh-kabab-q1923394/jujeh-kabab-q1923394-3.jpg",
+    "images/jujeh-kabab-q1923394/jujeh-kabab-q1923394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1923394",
+    "themealdb": null
+  }
+}

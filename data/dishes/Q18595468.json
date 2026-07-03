@@ -1,0 +1,20 @@
+{
+  "id": "Q18595468",
+  "name": "merveilleux",
+  "description": "Belgian meringue dessert",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/merveilleux-q18595468/merveilleux-q18595468-1.jpg",
+    "images/merveilleux-q18595468/merveilleux-q18595468-2.jpg",
+    "images/merveilleux-q18595468/merveilleux-q18595468-3.jpg",
+    "images/merveilleux-q18595468/merveilleux-q18595468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18595468",
+    "themealdb": null
+  }
+}

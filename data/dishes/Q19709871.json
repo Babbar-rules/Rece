@@ -1,0 +1,18 @@
+{
+  "id": "Q19709871",
+  "name": "Yüksük soup",
+  "description": "\"mantı\" and chickpea soup from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yuksuk-soup-q19709871/yuksuk-soup-q19709871-1.jpg",
+    "images/yuksuk-soup-q19709871/yuksuk-soup-q19709871-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19709871",
+    "themealdb": null
+  }
+}

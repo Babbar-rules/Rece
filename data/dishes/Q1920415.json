@@ -1,0 +1,20 @@
+{
+  "id": "Q1920415",
+  "name": "menemen",
+  "description": "Turkish tomato, fresh pepper and optional onion with egg.",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/menemen-q1920415/menemen-q1920415-1.jpg",
+    "images/menemen-q1920415/menemen-q1920415-2.jpg",
+    "images/menemen-q1920415/menemen-q1920415-3.jpg",
+    "images/menemen-q1920415/menemen-q1920415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1920415",
+    "themealdb": null
+  }
+}

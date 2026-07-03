@@ -1,0 +1,18 @@
+{
+  "id": "Q18679685",
+  "name": "pasta dish",
+  "description": "dish made with pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-dish-q18679685/pasta-dish-q18679685-1.jpg",
+    "images/pasta-dish-q18679685/pasta-dish-q18679685-2.jpg",
+    "images/pasta-dish-q18679685/pasta-dish-q18679685-3.jpg",
+    "images/pasta-dish-q18679685/pasta-dish-q18679685-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18679685",
+    "themealdb": null
+  }
+}

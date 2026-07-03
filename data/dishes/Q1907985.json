@@ -1,0 +1,18 @@
+{
+  "id": "Q1907985",
+  "name": "peanut soup",
+  "description": "soup made from peanuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peanut-soup-q1907985/peanut-soup-q1907985-1.jpg",
+    "images/peanut-soup-q1907985/peanut-soup-q1907985-2.jpg",
+    "images/peanut-soup-q1907985/peanut-soup-q1907985-3.jpg",
+    "images/peanut-soup-q1907985/peanut-soup-q1907985-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1907985",
+    "themealdb": null
+  }
+}

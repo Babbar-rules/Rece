@@ -1,0 +1,18 @@
+{
+  "id": "Q19570968",
+  "name": "banana custard",
+  "description": "pudding made with sliced bananas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-custard-q19570968/banana-custard-q19570968-1.jpg",
+    "images/banana-custard-q19570968/banana-custard-q19570968-2.jpg",
+    "images/banana-custard-q19570968/banana-custard-q19570968-3.jpg",
+    "images/banana-custard-q19570968/banana-custard-q19570968-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19570968",
+    "themealdb": null
+  }
+}

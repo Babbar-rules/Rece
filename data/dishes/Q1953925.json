@@ -1,0 +1,52 @@
+{
+  "id": "Q1953925",
+  "name": "Mus",
+  "description": "Mash of cooked fruit or vegetables",
+  "nationality": [
+    "Turkish"
+  ],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/mus-q1953925/mus-q1953925-1.jpg",
+    "images/mus-q1953925/mus-q1953925-2.jpg",
+    "images/mus-q1953925/mus-q1953925-3.jpeg",
+    "images/mus-q1953925/mus-q1953925-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53269",
+    "category": "Side",
+    "area": "Turkish",
+    "instructions": "step 1\r\nDrain the chickpeas into a sieve set over a bowl or jug to catch the liquid. Tip the chickpeas, tahini, garlic and yogurt into a food processor or blender and whizz to smooth.\r\n\r\nstep 2\r\nWhizz in a tbsp of the chickpea liquid at a time until you have a nice consistency, then scrape into a bowl.\r\n\r\nstep 3\r\nStir in a squeeze of lemon juice and season to taste.",
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Tahini Paste",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Greek Yogurt",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Juice of half"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=EsZFJEjANiA",
+    "thumb": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1953925",
+    "themealdb": "53269"
+  }
+}

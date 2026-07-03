@@ -1,0 +1,20 @@
+{
+  "id": "Q19728052",
+  "name": "Maksuba",
+  "description": "Indonesian traditional layer cake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maksuba-q19728052/maksuba-q19728052-1.jpg",
+    "images/maksuba-q19728052/maksuba-q19728052-2.jpg",
+    "images/maksuba-q19728052/maksuba-q19728052-3.jpg",
+    "images/maksuba-q19728052/maksuba-q19728052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19728052",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18694086",
+  "name": "rievä",
+  "description": "Finnish bread",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rieva-q18694086/rieva-q18694086-1.jpg",
+    "images/rieva-q18694086/rieva-q18694086-2.jpg",
+    "images/rieva-q18694086/rieva-q18694086-3.jpg",
+    "images/rieva-q18694086/rieva-q18694086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18694086",
+    "themealdb": null
+  }
+}

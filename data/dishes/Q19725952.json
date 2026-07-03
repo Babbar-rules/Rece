@@ -1,0 +1,17 @@
+{
+  "id": "Q19725952",
+  "name": "getuk pisang",
+  "description": "Indonesian snack made of banana",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19725952",
+    "themealdb": null
+  }
+}

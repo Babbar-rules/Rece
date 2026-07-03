@@ -1,0 +1,20 @@
+{
+  "id": "Q1960279",
+  "name": "Jachnun",
+  "description": "Yemenite Jewish pastry",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jachnun-q1960279/jachnun-q1960279-1.jpg",
+    "images/jachnun-q1960279/jachnun-q1960279-2.jpg",
+    "images/jachnun-q1960279/jachnun-q1960279-3.jpg",
+    "images/jachnun-q1960279/jachnun-q1960279-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1960279",
+    "themealdb": null
+  }
+}

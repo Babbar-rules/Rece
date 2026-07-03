@@ -1,0 +1,18 @@
+{
+  "id": "Q18630622",
+  "name": "Schwedenbombe",
+  "description": "Austrian brand of chocolate-coated marshmallow treat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schwedenbombe-q18630622/schwedenbombe-q18630622-1.jpg",
+    "images/schwedenbombe-q18630622/schwedenbombe-q18630622-2.jpg",
+    "images/schwedenbombe-q18630622/schwedenbombe-q18630622-3.jpg",
+    "images/schwedenbombe-q18630622/schwedenbombe-q18630622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18630622",
+    "themealdb": null
+  }
+}

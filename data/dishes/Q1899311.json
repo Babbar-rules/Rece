@@ -1,0 +1,18 @@
+{
+  "id": "Q1899311",
+  "name": "Cornetto",
+  "description": "type of ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cornetto-q1899311/cornetto-q1899311-1.jpg",
+    "images/cornetto-q1899311/cornetto-q1899311-2.jpg",
+    "images/cornetto-q1899311/cornetto-q1899311-3.jpg",
+    "images/cornetto-q1899311/cornetto-q1899311-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1899311",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1936949",
+  "name": "Sarsuela",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Catalan cuisine"
+  ],
+  "images": [
+    "images/sarsuela-q1936949/sarsuela-q1936949-1.jpg",
+    "images/sarsuela-q1936949/sarsuela-q1936949-2.jpg",
+    "images/sarsuela-q1936949/sarsuela-q1936949-3.jpg",
+    "images/sarsuela-q1936949/sarsuela-q1936949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1936949",
+    "themealdb": null
+  }
+}

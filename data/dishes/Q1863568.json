@@ -1,0 +1,22 @@
+{
+  "id": "Q1863568",
+  "name": "avgolemono",
+  "description": "Greek egg-lemon sauce or soup",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [
+    "Greek cuisine"
+  ],
+  "images": [
+    "images/avgolemono-q1863568/avgolemono-q1863568-1.jpg",
+    "images/avgolemono-q1863568/avgolemono-q1863568-2.jpg",
+    "images/avgolemono-q1863568/avgolemono-q1863568-3.jpg",
+    "images/avgolemono-q1863568/avgolemono-q1863568-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1863568",
+    "themealdb": null
+  }
+}

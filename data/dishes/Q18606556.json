@@ -1,0 +1,20 @@
+{
+  "id": "Q18606556",
+  "name": "jianbing",
+  "description": "Chinese street food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jianbing-q18606556/jianbing-q18606556-1.jpg",
+    "images/jianbing-q18606556/jianbing-q18606556-2.jpg",
+    "images/jianbing-q18606556/jianbing-q18606556-3.jpg",
+    "images/jianbing-q18606556/jianbing-q18606556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18606556",
+    "themealdb": null
+  }
+}

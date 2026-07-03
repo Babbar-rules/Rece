@@ -1,0 +1,22 @@
+{
+  "id": "Q19738539",
+  "name": "Mi Gomak",
+  "description": "Indonesian spicy noodle soup dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/mi-gomak-q19738539/mi-gomak-q19738539-1.jpg",
+    "images/mi-gomak-q19738539/mi-gomak-q19738539-2.jpg",
+    "images/mi-gomak-q19738539/mi-gomak-q19738539-3.jpg",
+    "images/mi-gomak-q19738539/mi-gomak-q19738539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19738539",
+    "themealdb": null
+  }
+}

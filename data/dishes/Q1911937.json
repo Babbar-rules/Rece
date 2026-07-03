@@ -1,0 +1,18 @@
+{
+  "id": "Q1911937",
+  "name": "kletskop",
+  "description": "Dutch cookie",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kletskop-q1911937/kletskop-q1911937-1.jpg",
+    "images/kletskop-q1911937/kletskop-q1911937-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1911937",
+    "themealdb": null
+  }
+}

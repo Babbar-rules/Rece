@@ -1,0 +1,20 @@
+{
+  "id": "Q18693973",
+  "name": "kakko",
+  "description": "Finnish bread",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kakko-q18693973/kakko-q18693973-1.jpg",
+    "images/kakko-q18693973/kakko-q18693973-2.jpg",
+    "images/kakko-q18693973/kakko-q18693973-3.jpg",
+    "images/kakko-q18693973/kakko-q18693973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18693973",
+    "themealdb": null
+  }
+}

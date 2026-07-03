@@ -1,0 +1,23 @@
+{
+  "id": "Q19726065",
+  "name": "memek",
+  "description": "cuisine from Simeulue, Aceh",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/memek-q19726065/memek-q19726065-1.jpg",
+    "images/memek-q19726065/memek-q19726065-2.jpg",
+    "images/memek-q19726065/memek-q19726065-3.jpg",
+    "images/memek-q19726065/memek-q19726065-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19726065",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19374689",
+  "name": "Dalyan köfte",
+  "description": "",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dalyan-kofte-q19374689/dalyan-kofte-q19374689-1.jpg",
+    "images/dalyan-kofte-q19374689/dalyan-kofte-q19374689-2.jpg",
+    "images/dalyan-kofte-q19374689/dalyan-kofte-q19374689-3.jpg",
+    "images/dalyan-kofte-q19374689/dalyan-kofte-q19374689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19374689",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q18618696",
+  "name": "boat noodles",
+  "description": "Thai noodle dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/boat-noodles-q18618696/boat-noodles-q18618696-1.jpg",
+    "images/boat-noodles-q18618696/boat-noodles-q18618696-2.jpg",
+    "images/boat-noodles-q18618696/boat-noodles-q18618696-3.jpg",
+    "images/boat-noodles-q18618696/boat-noodles-q18618696-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18618696",
+    "themealdb": null
+  }
+}

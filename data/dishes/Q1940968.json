@@ -1,0 +1,20 @@
+{
+  "id": "Q1940968",
+  "name": "Mizeria",
+  "description": "a salad from Poland",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mizeria-q1940968/mizeria-q1940968-1.jpg",
+    "images/mizeria-q1940968/mizeria-q1940968-2.jpg",
+    "images/mizeria-q1940968/mizeria-q1940968-3.jpg",
+    "images/mizeria-q1940968/mizeria-q1940968-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1940968",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q19028",
+  "name": "Black Forest cake",
+  "description": "type of chocolate cake, traditionally made with \"kirschwasser\", a brandy made from double distillation of morello cherries",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-forest-cake-q19028/black-forest-cake-q19028-1.jpg",
+    "images/black-forest-cake-q19028/black-forest-cake-q19028-2.jpg",
+    "images/black-forest-cake-q19028/black-forest-cake-q19028-3.jpg",
+    "images/black-forest-cake-q19028/black-forest-cake-q19028-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19028",
+    "themealdb": null
+  }
+}

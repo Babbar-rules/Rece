@@ -1,0 +1,20 @@
+{
+  "id": "Q1959865",
+  "name": "Malooga",
+  "description": "Yemeni flatbread",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malooga-q1959865/malooga-q1959865-1.jpg",
+    "images/malooga-q1959865/malooga-q1959865-2.jpg",
+    "images/malooga-q1959865/malooga-q1959865-3.jpg",
+    "images/malooga-q1959865/malooga-q1959865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1959865",
+    "themealdb": null
+  }
+}

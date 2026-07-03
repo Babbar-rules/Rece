@@ -1,0 +1,22 @@
+{
+  "id": "Q1884243",
+  "name": "Paling in 't groen",
+  "description": "Belgian dish",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/paling-in-t-groen-q1884243/paling-in-t-groen-q1884243-1.jpg",
+    "images/paling-in-t-groen-q1884243/paling-in-t-groen-q1884243-2.jpg",
+    "images/paling-in-t-groen-q1884243/paling-in-t-groen-q1884243-3.jpg",
+    "images/paling-in-t-groen-q1884243/paling-in-t-groen-q1884243-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1884243",
+    "themealdb": null
+  }
+}

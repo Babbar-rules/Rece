@@ -1,0 +1,22 @@
+{
+  "id": "Q19740571",
+  "name": "Soto Tangkar",
+  "description": "a dish with coconut milk sauce rich in Betawi spices",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-tangkar-q19740571/soto-tangkar-q19740571-1.jpg",
+    "images/soto-tangkar-q19740571/soto-tangkar-q19740571-2.jpg",
+    "images/soto-tangkar-q19740571/soto-tangkar-q19740571-3.jpg",
+    "images/soto-tangkar-q19740571/soto-tangkar-q19740571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19740571",
+    "themealdb": null
+  }
+}

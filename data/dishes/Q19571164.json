@@ -1,0 +1,18 @@
+{
+  "id": "Q19571164",
+  "name": "Caldo Xóchitl",
+  "description": "Mexican traditional dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-xochitl-q19571164/caldo-xochitl-q19571164-1.png",
+    "images/caldo-xochitl-q19571164/caldo-xochitl-q19571164-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19571164",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q18693853",
+  "name": "Suffeli",
+  "description": "chocolate bar manufactured by Fazer",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suffeli-q18693853/suffeli-q18693853-1.jpg",
+    "images/suffeli-q18693853/suffeli-q18693853-2.jpg",
+    "images/suffeli-q18693853/suffeli-q18693853-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18693853",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q19716154",
+  "name": "Pataqueta",
+  "description": "Spanish bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pataqueta-q19716154/pataqueta-q19716154-1.jpg",
+    "images/pataqueta-q19716154/pataqueta-q19716154-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19716154",
+    "themealdb": null
+  }
+}

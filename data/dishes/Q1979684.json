@@ -1,0 +1,20 @@
+{
+  "id": "Q1979684",
+  "name": "korma",
+  "description": "dish originating in South Asia or Central Asia",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/korma-q1979684/korma-q1979684-1.jpg",
+    "images/korma-q1979684/korma-q1979684-2.jpg",
+    "images/korma-q1979684/korma-q1979684-3.jpg",
+    "images/korma-q1979684/korma-q1979684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1979684",
+    "themealdb": null
+  }
+}

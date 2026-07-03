@@ -1,0 +1,18 @@
+{
+  "id": "Q19573431",
+  "name": "okra soup",
+  "description": "soup made from the green seed pods of the okra plant",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okra-soup-q19573431/okra-soup-q19573431-1.jpg",
+    "images/okra-soup-q19573431/okra-soup-q19573431-2.jpg",
+    "images/okra-soup-q19573431/okra-soup-q19573431-3.jpg",
+    "images/okra-soup-q19573431/okra-soup-q19573431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19573431",
+    "themealdb": null
+  }
+}

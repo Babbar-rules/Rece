@@ -1,0 +1,18 @@
+{
+  "id": "Q18697025",
+  "name": "Windbeutel",
+  "description": "German choux pastry ball",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/windbeutel-q18697025/windbeutel-q18697025-1.jpg",
+    "images/windbeutel-q18697025/windbeutel-q18697025-2.jpg",
+    "images/windbeutel-q18697025/windbeutel-q18697025-3.jpg",
+    "images/windbeutel-q18697025/windbeutel-q18697025-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18697025",
+    "themealdb": null
+  }
+}

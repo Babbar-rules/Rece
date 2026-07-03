@@ -1,0 +1,23 @@
+{
+  "id": "Q1897149",
+  "name": "Parotta",
+  "description": "South Indian variant of paratha",
+  "nationality": [
+    "India",
+    "Tamil Nadu"
+  ],
+  "region_cuisine": [
+    "Keralan cuisine"
+  ],
+  "images": [
+    "images/parotta-q1897149/parotta-q1897149-1.jpg",
+    "images/parotta-q1897149/parotta-q1897149-2.jpg",
+    "images/parotta-q1897149/parotta-q1897149-3.jpg",
+    "images/parotta-q1897149/parotta-q1897149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1897149",
+    "themealdb": null
+  }
+}

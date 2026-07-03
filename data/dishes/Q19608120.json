@@ -1,0 +1,17 @@
+{
+  "id": "Q19608120",
+  "name": "Cabrito da Gralheira",
+  "description": "Portuguese goat meat",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cabrito-da-gralheira-q19608120/cabrito-da-gralheira-q19608120-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19608120",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q18785184",
+  "name": "Carrozza",
+  "description": "Italian fried cheese sandwich",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carrozza-q18785184/carrozza-q18785184-1.jpg",
+    "images/carrozza-q18785184/carrozza-q18785184-2.jpg",
+    "images/carrozza-q18785184/carrozza-q18785184-3.jpg",
+    "images/carrozza-q18785184/carrozza-q18785184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18785184",
+    "themealdb": null
+  }
+}

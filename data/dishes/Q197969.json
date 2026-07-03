@@ -1,0 +1,21 @@
+{
+  "id": "Q197969",
+  "name": "mooncake",
+  "description": "Chinese bakery product traditionally eaten during the Mid-Autumn Festival",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mooncake-q197969/mooncake-q197969-1.jpg",
+    "images/mooncake-q197969/mooncake-q197969-2.jpg",
+    "images/mooncake-q197969/mooncake-q197969-3.jpg",
+    "images/mooncake-q197969/mooncake-q197969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q197969",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q1915495",
+  "name": "meat pie",
+  "description": "hand-sized meat pie often consumed as a snack",
+  "nationality": [
+    "Australia",
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-pie-q1915495/meat-pie-q1915495-1.jpg",
+    "images/meat-pie-q1915495/meat-pie-q1915495-2.jpg",
+    "images/meat-pie-q1915495/meat-pie-q1915495-3.jpg",
+    "images/meat-pie-q1915495/meat-pie-q1915495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1915495",
+    "themealdb": null
+  }
+}

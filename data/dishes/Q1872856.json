@@ -1,0 +1,20 @@
+{
+  "id": "Q1872856",
+  "name": "blood tongue",
+  "description": "German head cheese with tongue",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blood-tongue-q1872856/blood-tongue-q1872856-1.jpg",
+    "images/blood-tongue-q1872856/blood-tongue-q1872856-2.jpg",
+    "images/blood-tongue-q1872856/blood-tongue-q1872856-3.jpg",
+    "images/blood-tongue-q1872856/blood-tongue-q1872856-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1872856",
+    "themealdb": null
+  }
+}

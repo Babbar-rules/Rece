@@ -1,0 +1,18 @@
+{
+  "id": "Q1938644",
+  "name": "Mischbrot",
+  "description": "German wheat and rye bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mischbrot-q1938644/mischbrot-q1938644-1.jpg",
+    "images/mischbrot-q1938644/mischbrot-q1938644-2.jpg",
+    "images/mischbrot-q1938644/mischbrot-q1938644-3.jpg",
+    "images/mischbrot-q1938644/mischbrot-q1938644-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1938644",
+    "themealdb": null
+  }
+}

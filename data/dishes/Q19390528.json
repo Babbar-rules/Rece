@@ -1,0 +1,18 @@
+{
+  "id": "Q19390528",
+  "name": "gooseberry jam",
+  "description": "jam made from gooseberrys",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gooseberry-jam-q19390528/gooseberry-jam-q19390528-1.jpg",
+    "images/gooseberry-jam-q19390528/gooseberry-jam-q19390528-2.jpg",
+    "images/gooseberry-jam-q19390528/gooseberry-jam-q19390528-3.jpg",
+    "images/gooseberry-jam-q19390528/gooseberry-jam-q19390528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19390528",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q190715",
+  "name": "sashimi",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/sashimi-q190715/sashimi-q190715-1.jpg",
+    "images/sashimi-q190715/sashimi-q190715-2.jpg",
+    "images/sashimi-q190715/sashimi-q190715-3.jpg",
+    "images/sashimi-q190715/sashimi-q190715-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q190715",
+    "themealdb": null
+  }
+}

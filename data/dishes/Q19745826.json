@@ -1,0 +1,20 @@
+{
+  "id": "Q19745826",
+  "name": "gajebo",
+  "description": "typical West Sumatra food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gajebo-q19745826/gajebo-q19745826-1.jpg",
+    "images/gajebo-q19745826/gajebo-q19745826-2.jpg",
+    "images/gajebo-q19745826/gajebo-q19745826-3.jpg",
+    "images/gajebo-q19745826/gajebo-q19745826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19745826",
+    "themealdb": null
+  }
+}

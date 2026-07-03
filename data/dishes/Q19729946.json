@@ -1,0 +1,18 @@
+{
+  "id": "Q19729946",
+  "name": "Pa'piong",
+  "description": "traditional cuisine from Toraja, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/papiong-q19729946/papiong-q19729946-1.jpg",
+    "images/papiong-q19729946/papiong-q19729946-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19729946",
+    "themealdb": null
+  }
+}

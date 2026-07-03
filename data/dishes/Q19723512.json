@@ -1,0 +1,20 @@
+{
+  "id": "Q19723512",
+  "name": "fava",
+  "description": "broad bean-based meze from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fava-q19723512/fava-q19723512-1.jpg",
+    "images/fava-q19723512/fava-q19723512-2.jpg",
+    "images/fava-q19723512/fava-q19723512-3.jpg",
+    "images/fava-q19723512/fava-q19723512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19723512",
+    "themealdb": null
+  }
+}

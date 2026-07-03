@@ -1,0 +1,21 @@
+{
+  "id": "Q19746040",
+  "name": "Keukarah",
+  "description": "Dessert from Aceh, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/keukarah-q19746040/keukarah-q19746040-1.jpg",
+    "images/keukarah-q19746040/keukarah-q19746040-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19746040",
+    "themealdb": null
+  }
+}

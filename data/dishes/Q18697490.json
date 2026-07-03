@@ -1,0 +1,18 @@
+{
+  "id": "Q18697490",
+  "name": "lamb dish",
+  "description": "food preparation based on lamb",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamb-dish-q18697490/lamb-dish-q18697490-1.jpg",
+    "images/lamb-dish-q18697490/lamb-dish-q18697490-2.jpg",
+    "images/lamb-dish-q18697490/lamb-dish-q18697490-3.jpg",
+    "images/lamb-dish-q18697490/lamb-dish-q18697490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18697490",
+    "themealdb": null
+  }
+}

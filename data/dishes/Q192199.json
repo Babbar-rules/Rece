@@ -1,0 +1,20 @@
+{
+  "id": "Q192199",
+  "name": "soy milk",
+  "description": "beverage made from soybeans",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-milk-q192199/soy-milk-q192199-1.jpg",
+    "images/soy-milk-q192199/soy-milk-q192199-2.jpg",
+    "images/soy-milk-q192199/soy-milk-q192199-3.jpg",
+    "images/soy-milk-q192199/soy-milk-q192199-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q192199",
+    "themealdb": null
+  }
+}

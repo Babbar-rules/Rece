@@ -1,0 +1,18 @@
+{
+  "id": "Q1884503",
+  "name": "veggie burger",
+  "description": "hamburger-like sandwich made from vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veggie-burger-q1884503/veggie-burger-q1884503-1.jpg",
+    "images/veggie-burger-q1884503/veggie-burger-q1884503-2.jpg",
+    "images/veggie-burger-q1884503/veggie-burger-q1884503-3.jpg",
+    "images/veggie-burger-q1884503/veggie-burger-q1884503-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1884503",
+    "themealdb": null
+  }
+}

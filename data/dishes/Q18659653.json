@@ -1,0 +1,18 @@
+{
+  "id": "Q18659653",
+  "name": "Qiaojiao Beef",
+  "description": "beef dish originated from Leshan, Sichuan, China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/qiaojiao-beef-q18659653/qiaojiao-beef-q18659653-1.jpg",
+    "images/qiaojiao-beef-q18659653/qiaojiao-beef-q18659653-2.jpg",
+    "images/qiaojiao-beef-q18659653/qiaojiao-beef-q18659653-3.jpg",
+    "images/qiaojiao-beef-q18659653/qiaojiao-beef-q18659653-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18659653",
+    "themealdb": null
+  }
+}

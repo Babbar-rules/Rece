@@ -1,0 +1,23 @@
+{
+  "id": "Q19725242",
+  "name": "Dawet Ayu",
+  "description": "traditional drink from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine",
+    "Central Java"
+  ],
+  "images": [
+    "images/dawet-ayu-q19725242/dawet-ayu-q19725242-1.jpg",
+    "images/dawet-ayu-q19725242/dawet-ayu-q19725242-2.jpg",
+    "images/dawet-ayu-q19725242/dawet-ayu-q19725242-3.jpg",
+    "images/dawet-ayu-q19725242/dawet-ayu-q19725242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19725242",
+    "themealdb": null
+  }
+}

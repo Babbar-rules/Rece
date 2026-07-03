@@ -1,0 +1,18 @@
+{
+  "id": "Q18657822",
+  "name": "oshizushi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oshizushi-q18657822/oshizushi-q18657822-1.jpg",
+    "images/oshizushi-q18657822/oshizushi-q18657822-2.jpg",
+    "images/oshizushi-q18657822/oshizushi-q18657822-3.jpg",
+    "images/oshizushi-q18657822/oshizushi-q18657822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18657822",
+    "themealdb": null
+  }
+}

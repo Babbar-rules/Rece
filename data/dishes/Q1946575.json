@@ -1,0 +1,17 @@
+{
+  "id": "Q1946575",
+  "name": "Bicky Burger",
+  "description": "burger made of pork, chicken, and horse meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bicky-burger-q1946575/bicky-burger-q1946575-1.jpg",
+    "images/bicky-burger-q1946575/bicky-burger-q1946575-2.png",
+    "images/bicky-burger-q1946575/bicky-burger-q1946575-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1946575",
+    "themealdb": null
+  }
+}

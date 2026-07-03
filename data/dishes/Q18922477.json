@@ -1,0 +1,19 @@
+{
+  "id": "Q18922477",
+  "name": "bundevara",
+  "description": "sweet pie filled with pumpkin",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bundevara-q18922477/bundevara-q18922477-1.jpeg",
+    "images/bundevara-q18922477/bundevara-q18922477-2.jpg",
+    "images/bundevara-q18922477/bundevara-q18922477-3.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18922477",
+    "themealdb": null
+  }
+}

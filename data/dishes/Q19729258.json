@@ -1,0 +1,20 @@
+{
+  "id": "Q19729258",
+  "name": "Mie Sedaap",
+  "description": "brand of instant noodles in Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mie-sedaap-q19729258/mie-sedaap-q19729258-1.jpg",
+    "images/mie-sedaap-q19729258/mie-sedaap-q19729258-2.jpg",
+    "images/mie-sedaap-q19729258/mie-sedaap-q19729258-3.jpg",
+    "images/mie-sedaap-q19729258/mie-sedaap-q19729258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19729258",
+    "themealdb": null
+  }
+}

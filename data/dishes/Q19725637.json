@@ -1,0 +1,20 @@
+{
+  "id": "Q19725637",
+  "name": "Es puter",
+  "description": "Traditional ice from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/es-puter-q19725637/es-puter-q19725637-1.jpg",
+    "images/es-puter-q19725637/es-puter-q19725637-2.jpg",
+    "images/es-puter-q19725637/es-puter-q19725637-3.jpg",
+    "images/es-puter-q19725637/es-puter-q19725637-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19725637",
+    "themealdb": null
+  }
+}

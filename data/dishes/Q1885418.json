@@ -1,0 +1,17 @@
+{
+  "id": "Q1885418",
+  "name": "cockchafer soup",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cockchafer-soup-q1885418/cockchafer-soup-q1885418-1.jpg",
+    "images/cockchafer-soup-q1885418/cockchafer-soup-q1885418-2.jpg",
+    "images/cockchafer-soup-q1885418/cockchafer-soup-q1885418-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1885418",
+    "themealdb": null
+  }
+}

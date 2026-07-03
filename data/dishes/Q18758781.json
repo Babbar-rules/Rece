@@ -1,0 +1,22 @@
+{
+  "id": "Q18758781",
+  "name": "chimaek",
+  "description": "Korean fried chicken and beer",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/chimaek-q18758781/chimaek-q18758781-1.jpg",
+    "images/chimaek-q18758781/chimaek-q18758781-2.jpg",
+    "images/chimaek-q18758781/chimaek-q18758781-3.jpg",
+    "images/chimaek-q18758781/chimaek-q18758781-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18758781",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1962115",
+  "name": "Nacatamal",
+  "description": "Nicaraguan typical food",
+  "nationality": [
+    "Nicaragua"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nacatamal-q1962115/nacatamal-q1962115-1.jpg",
+    "images/nacatamal-q1962115/nacatamal-q1962115-2.jpg",
+    "images/nacatamal-q1962115/nacatamal-q1962115-3.jpg",
+    "images/nacatamal-q1962115/nacatamal-q1962115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1962115",
+    "themealdb": null
+  }
+}
