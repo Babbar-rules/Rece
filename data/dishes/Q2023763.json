@@ -1,0 +1,22 @@
+{
+  "id": "Q2023763",
+  "name": "Jin deui",
+  "description": "Chinese fried pastry",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/jin-deui-q2023763/jin-deui-q2023763-1.jpg",
+    "images/jin-deui-q2023763/jin-deui-q2023763-2.jpg",
+    "images/jin-deui-q2023763/jin-deui-q2023763-3.jpg",
+    "images/jin-deui-q2023763/jin-deui-q2023763-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2023763",
+    "themealdb": null
+  }
+}

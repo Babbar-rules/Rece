@@ -1,0 +1,16 @@
+{
+  "id": "Q20856260",
+  "name": "Chileajo de cerdo",
+  "description": "Pork dish in Mexican cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chileajo-de-cerdo-q20856260/chileajo-de-cerdo-q20856260-1.jpg",
+    "images/chileajo-de-cerdo-q20856260/chileajo-de-cerdo-q20856260-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20856260",
+    "themealdb": null
+  }
+}

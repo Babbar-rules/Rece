@@ -1,0 +1,18 @@
+{
+  "id": "Q20755749",
+  "name": "Big One",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-one-q20755749/big-one-q20755749-1.jpg",
+    "images/big-one-q20755749/big-one-q20755749-2.jpg",
+    "images/big-one-q20755749/big-one-q20755749-3.jpg",
+    "images/big-one-q20755749/big-one-q20755749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20755749",
+    "themealdb": null
+  }
+}

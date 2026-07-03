@@ -1,0 +1,20 @@
+{
+  "id": "Q21005946",
+  "name": "Ayam masak merah",
+  "description": "Malaysian traditional dish",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayam-masak-merah-q21005946/ayam-masak-merah-q21005946-1.jpg",
+    "images/ayam-masak-merah-q21005946/ayam-masak-merah-q21005946-2.jpg",
+    "images/ayam-masak-merah-q21005946/ayam-masak-merah-q21005946-3.jpg",
+    "images/ayam-masak-merah-q21005946/ayam-masak-merah-q21005946-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21005946",
+    "themealdb": null
+  }
+}

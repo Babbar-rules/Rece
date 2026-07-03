@@ -1,0 +1,20 @@
+{
+  "id": "Q2101181",
+  "name": "polbo á feira",
+  "description": "Traditional Galician dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Galician cuisine"
+  ],
+  "images": [
+    "images/polbo-a-feira-q2101181/polbo-a-feira-q2101181-1.jpg",
+    "images/polbo-a-feira-q2101181/polbo-a-feira-q2101181-2.jpg",
+    "images/polbo-a-feira-q2101181/polbo-a-feira-q2101181-3.jpg",
+    "images/polbo-a-feira-q2101181/polbo-a-feira-q2101181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2101181",
+    "themealdb": null
+  }
+}

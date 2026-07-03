@@ -1,0 +1,18 @@
+{
+  "id": "Q20979646",
+  "name": "Hoggan",
+  "description": "Cornish type of bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hoggan-q20979646/hoggan-q20979646-1.jpg",
+    "images/hoggan-q20979646/hoggan-q20979646-2.jpg",
+    "images/hoggan-q20979646/hoggan-q20979646-3.jpg",
+    "images/hoggan-q20979646/hoggan-q20979646-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20979646",
+    "themealdb": null
+  }
+}

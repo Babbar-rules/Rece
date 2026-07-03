@@ -1,0 +1,20 @@
+{
+  "id": "Q209486",
+  "name": "Niçard salad",
+  "description": "composed tomato, egg, fish and vegetable salad",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nicard-salad-q209486/nicard-salad-q209486-1.jpg",
+    "images/nicard-salad-q209486/nicard-salad-q209486-2.jpg",
+    "images/nicard-salad-q209486/nicard-salad-q209486-3.jpg",
+    "images/nicard-salad-q209486/nicard-salad-q209486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209486",
+    "themealdb": null
+  }
+}

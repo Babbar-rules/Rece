@@ -1,0 +1,20 @@
+{
+  "id": "Q20872389",
+  "name": "mint soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/mint-soup-q20872389/mint-soup-q20872389-1.jpg",
+    "images/mint-soup-q20872389/mint-soup-q20872389-2.jpg",
+    "images/mint-soup-q20872389/mint-soup-q20872389-3.jpg",
+    "images/mint-soup-q20872389/mint-soup-q20872389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20872389",
+    "themealdb": null
+  }
+}

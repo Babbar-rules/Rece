@@ -1,0 +1,18 @@
+{
+  "id": "Q20460303",
+  "name": "Corn pudding",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-pudding-q20460303/corn-pudding-q20460303-1.jpg",
+    "images/corn-pudding-q20460303/corn-pudding-q20460303-2.jpg",
+    "images/corn-pudding-q20460303/corn-pudding-q20460303-3.jpeg",
+    "images/corn-pudding-q20460303/corn-pudding-q20460303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20460303",
+    "themealdb": null
+  }
+}

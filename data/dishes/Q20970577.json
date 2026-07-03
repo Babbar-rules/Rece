@@ -1,0 +1,20 @@
+{
+  "id": "Q20970577",
+  "name": "Flower of Love Nigiri",
+  "description": "Sushi",
+  "nationality": [
+    "British Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flower-of-love-nigiri-q20970577/flower-of-love-nigiri-q20970577-1.jpg",
+    "images/flower-of-love-nigiri-q20970577/flower-of-love-nigiri-q20970577-2.jpg",
+    "images/flower-of-love-nigiri-q20970577/flower-of-love-nigiri-q20970577-3.jpg",
+    "images/flower-of-love-nigiri-q20970577/flower-of-love-nigiri-q20970577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20970577",
+    "themealdb": null
+  }
+}

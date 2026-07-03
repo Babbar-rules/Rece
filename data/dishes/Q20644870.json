@@ -1,0 +1,22 @@
+{
+  "id": "Q20644870",
+  "name": "fruktsoppa",
+  "description": "fruit soup typically prepared using dried fruit, part of Scandinavian food culture, especially Swedish cuisine",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Norwegian cuisine",
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/fruktsoppa-q20644870/fruktsoppa-q20644870-1.jpg",
+    "images/fruktsoppa-q20644870/fruktsoppa-q20644870-2.jpg",
+    "images/fruktsoppa-q20644870/fruktsoppa-q20644870-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20644870",
+    "themealdb": null
+  }
+}

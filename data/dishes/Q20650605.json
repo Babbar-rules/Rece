@@ -1,0 +1,18 @@
+{
+  "id": "Q20650605",
+  "name": "kuru köfte",
+  "description": "Turkish cuisine köfte variety",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kuru-kofte-q20650605/kuru-kofte-q20650605-1.jpg",
+    "images/kuru-kofte-q20650605/kuru-kofte-q20650605-2.jpg",
+    "images/kuru-kofte-q20650605/kuru-kofte-q20650605-3.jpg",
+    "images/kuru-kofte-q20650605/kuru-kofte-q20650605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20650605",
+    "themealdb": null
+  }
+}

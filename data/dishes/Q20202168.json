@@ -1,0 +1,18 @@
+{
+  "id": "Q20202168",
+  "name": "Cennet çamuru",
+  "description": "dessert from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cennet-camuru-q20202168/cennet-camuru-q20202168-1.jpg",
+    "images/cennet-camuru-q20202168/cennet-camuru-q20202168-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20202168",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q20427131",
+  "name": "Jalangkote",
+  "description": "Indonesian traditional dumpling of Makassar cuisine",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/jalangkote-q20427131/jalangkote-q20427131-1.jpg",
+    "images/jalangkote-q20427131/jalangkote-q20427131-2.jpg",
+    "images/jalangkote-q20427131/jalangkote-q20427131-3.jpg",
+    "images/jalangkote-q20427131/jalangkote-q20427131-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20427131",
+    "themealdb": null
+  }
+}

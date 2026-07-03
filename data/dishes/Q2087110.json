@@ -1,0 +1,22 @@
+{
+  "id": "Q2087110",
+  "name": "Sklandrausis",
+  "description": "traditional Latvian dish",
+  "nationality": [
+    "Latvia"
+  ],
+  "region_cuisine": [
+    "Latvian cuisine"
+  ],
+  "images": [
+    "images/sklandrausis-q2087110/sklandrausis-q2087110-1.jpg",
+    "images/sklandrausis-q2087110/sklandrausis-q2087110-2.jpg",
+    "images/sklandrausis-q2087110/sklandrausis-q2087110-3.jpg",
+    "images/sklandrausis-q2087110/sklandrausis-q2087110-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2087110",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q21061471",
+  "name": "Pope Ladies",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pope-ladies-q21061471/pope-ladies-q21061471-1.jpg",
+    "images/pope-ladies-q21061471/pope-ladies-q21061471-2.jpg",
+    "images/pope-ladies-q21061471/pope-ladies-q21061471-3.jpg",
+    "images/pope-ladies-q21061471/pope-ladies-q21061471-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21061471",
+    "themealdb": null
+  }
+}

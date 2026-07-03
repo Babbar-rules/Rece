@@ -1,0 +1,18 @@
+{
+  "id": "Q20847867",
+  "name": "Curry fishball",
+  "description": "Hong Kong street food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/curry-fishball-q20847867/curry-fishball-q20847867-1.jpg",
+    "images/curry-fishball-q20847867/curry-fishball-q20847867-2.jpg",
+    "images/curry-fishball-q20847867/curry-fishball-q20847867-3.jpg",
+    "images/curry-fishball-q20847867/curry-fishball-q20847867-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20847867",
+    "themealdb": null
+  }
+}

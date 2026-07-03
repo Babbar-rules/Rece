@@ -1,0 +1,60 @@
+{
+  "id": "Q2065278",
+  "name": "pão de queijo",
+  "description": "small, baked, cheese-flavored roll",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/pao-de-queijo-q2065278/pao-de-queijo-q2065278-1.jpg",
+    "images/pao-de-queijo-q2065278/pao-de-queijo-q2065278-2.jpg",
+    "images/pao-de-queijo-q2065278/pao-de-queijo-q2065278-3.jpg",
+    "images/pao-de-queijo-q2065278/pao-de-queijo-q2065278-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53476",
+    "category": "Side",
+    "area": null,
+    "instructions": "step 1\r\nHeat the oven to 220C/200C fan/gas 7. Oil or butter a baking sheet and set aside.\r\n\r\nstep 2\r\nHeat the milk, butter and salt in a medium saucepan and bring to a boil. Remove from the heat and add the tapioca flour. Stir vigorously, then leave to cool a little.\r\n\r\nstep 3\r\nPour the dough into a standing mix to beat the dough until its cool, or use a wooden spoon and beat by hand. Beat the eggs in one at a time, waiting until each is completely incorporated before adding the next. When the dough is glossy and mixed, add the parmesan. Beat again until mixed.\r\n\r\nstep 4\r\nSpoon the dough onto the baking sheet in 1 tbsp balls, 5cm apart. Bake for 30 mins until crisp and golden. Remove from the oven and eat while still warm.",
+    "ingredients": [
+      {
+        "ingredient": "Oil",
+        "measure": "Drizzle"
+      },
+      {
+        "ingredient": "Whole Milk",
+        "measure": "250ml"
+      },
+      {
+        "ingredient": "Unsalted Butter",
+        "measure": "125g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Tapioca",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Parmesan",
+        "measure": "100g"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/sl7cr91782588539.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2065278",
+    "themealdb": "53476"
+  }
+}

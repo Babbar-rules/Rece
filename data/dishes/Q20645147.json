@@ -1,0 +1,18 @@
+{
+  "id": "Q20645147",
+  "name": "Tekirdağ köfte",
+  "description": "Meatballs in the Turkish cuisine, originating from the city and province of Tekirdağ",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tekirdag-kofte-q20645147/tekirdag-kofte-q20645147-1.jpg",
+    "images/tekirdag-kofte-q20645147/tekirdag-kofte-q20645147-2.jpg",
+    "images/tekirdag-kofte-q20645147/tekirdag-kofte-q20645147-3.jpg",
+    "images/tekirdag-kofte-q20645147/tekirdag-kofte-q20645147-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20645147",
+    "themealdb": null
+  }
+}

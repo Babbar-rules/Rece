@@ -1,0 +1,20 @@
+{
+  "id": "Q2095020",
+  "name": "markook",
+  "description": "Syrian bread",
+  "nationality": [
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/markook-q2095020/markook-q2095020-1.jpg",
+    "images/markook-q2095020/markook-q2095020-2.jpg",
+    "images/markook-q2095020/markook-q2095020-3.jpg",
+    "images/markook-q2095020/markook-q2095020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2095020",
+    "themealdb": null
+  }
+}

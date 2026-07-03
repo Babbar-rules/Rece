@@ -1,0 +1,19 @@
+{
+  "id": "Q20203475",
+  "name": "Hamsili pilav",
+  "description": "Turkish cuisine (Black Sea Region) rice dish with \"hamsi\" fish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hamsili-pilav-q20203475/hamsili-pilav-q20203475-1.jpg",
+    "images/hamsili-pilav-q20203475/hamsili-pilav-q20203475-2.jpg",
+    "images/hamsili-pilav-q20203475/hamsili-pilav-q20203475-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20203475",
+    "themealdb": null
+  }
+}

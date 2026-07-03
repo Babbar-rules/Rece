@@ -1,0 +1,18 @@
+{
+  "id": "Q21080963",
+  "name": "sandwich bread",
+  "description": "bread designed for sandwich making",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sandwich-bread-q21080963/sandwich-bread-q21080963-1.jpg",
+    "images/sandwich-bread-q21080963/sandwich-bread-q21080963-2.jpg",
+    "images/sandwich-bread-q21080963/sandwich-bread-q21080963-3.jpg",
+    "images/sandwich-bread-q21080963/sandwich-bread-q21080963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21080963",
+    "themealdb": null
+  }
+}

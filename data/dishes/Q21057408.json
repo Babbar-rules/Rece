@@ -1,0 +1,20 @@
+{
+  "id": "Q21057408",
+  "name": "Prosciutto de Capitán Pastene",
+  "description": "",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prosciutto-de-capitan-pastene-q21057408/prosciutto-de-capitan-pastene-q21057408-1.jpg",
+    "images/prosciutto-de-capitan-pastene-q21057408/prosciutto-de-capitan-pastene-q21057408-2.jpg",
+    "images/prosciutto-de-capitan-pastene-q21057408/prosciutto-de-capitan-pastene-q21057408-3.jpg",
+    "images/prosciutto-de-capitan-pastene-q21057408/prosciutto-de-capitan-pastene-q21057408-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21057408",
+    "themealdb": null
+  }
+}

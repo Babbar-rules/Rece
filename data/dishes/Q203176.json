@@ -1,0 +1,20 @@
+{
+  "id": "Q203176",
+  "name": "gyūdon",
+  "description": "Japanese cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gyudon-q203176/gyudon-q203176-1.jpg",
+    "images/gyudon-q203176/gyudon-q203176-2.jpg",
+    "images/gyudon-q203176/gyudon-q203176-3.jpg",
+    "images/gyudon-q203176/gyudon-q203176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203176",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q20981512",
+  "name": "dikgobe",
+  "description": "dish of samp and beans",
+  "nationality": [
+    "Botswana"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dikgobe-q20981512/dikgobe-q20981512-1.jpg",
+    "images/dikgobe-q20981512/dikgobe-q20981512-2.jpg",
+    "images/dikgobe-q20981512/dikgobe-q20981512-3.jpg",
+    "images/dikgobe-q20981512/dikgobe-q20981512-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20981512",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q20748",
+  "name": "raclette",
+  "description": "A Swiss national dish",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/raclette-q20748/raclette-q20748-1.jpg",
+    "images/raclette-q20748/raclette-q20748-2.jpg",
+    "images/raclette-q20748/raclette-q20748-3.jpg",
+    "images/raclette-q20748/raclette-q20748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20748",
+    "themealdb": null
+  }
+}

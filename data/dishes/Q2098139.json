@@ -1,0 +1,23 @@
+{
+  "id": "Q2098139",
+  "name": "kringle",
+  "description": "Northern European baked pastry shaped into a knot, variety of pretzel",
+  "nationality": [],
+  "region_cuisine": [
+    "Danish cuisine",
+    "German cuisine",
+    "Finnish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/kringle-q2098139/kringle-q2098139-1.jpg",
+    "images/kringle-q2098139/kringle-q2098139-2.jpeg",
+    "images/kringle-q2098139/kringle-q2098139-3.jpg",
+    "images/kringle-q2098139/kringle-q2098139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2098139",
+    "themealdb": null
+  }
+}

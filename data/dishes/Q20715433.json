@@ -1,0 +1,17 @@
+{
+  "id": "Q20715433",
+  "name": "Burger King fish sandwiches",
+  "description": "fast food items",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-fish-sandwiches-q20715433/burger-king-fish-sandwiches-q20715433-1.jpg",
+    "images/burger-king-fish-sandwiches-q20715433/burger-king-fish-sandwiches-q20715433-2.jpg",
+    "images/burger-king-fish-sandwiches-q20715433/burger-king-fish-sandwiches-q20715433-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20715433",
+    "themealdb": null
+  }
+}

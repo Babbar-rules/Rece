@@ -1,0 +1,22 @@
+{
+  "id": "Q20427541",
+  "name": "Sop saudara",
+  "description": "Indonesia traditional buffalo soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/sop-saudara-q20427541/sop-saudara-q20427541-1.jpg",
+    "images/sop-saudara-q20427541/sop-saudara-q20427541-2.jpg",
+    "images/sop-saudara-q20427541/sop-saudara-q20427541-3.jpg",
+    "images/sop-saudara-q20427541/sop-saudara-q20427541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20427541",
+    "themealdb": null
+  }
+}

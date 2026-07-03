@@ -1,0 +1,17 @@
+{
+  "id": "Q20754699",
+  "name": "St. Galler Bratwurst IGP",
+  "description": "Swiss speciality veal and pork sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/st-galler-bratwurst-igp-q20754699/st-galler-bratwurst-igp-q20754699-1.jpg",
+    "images/st-galler-bratwurst-igp-q20754699/st-galler-bratwurst-igp-q20754699-2.jpg",
+    "images/st-galler-bratwurst-igp-q20754699/st-galler-bratwurst-igp-q20754699-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20754699",
+    "themealdb": null
+  }
+}

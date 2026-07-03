@@ -1,0 +1,20 @@
+{
+  "id": "Q20875713",
+  "name": "milk pilaf",
+  "description": "Turkish pilav (pilaf) variety with milk",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-pilaf-q20875713/milk-pilaf-q20875713-1.jpg",
+    "images/milk-pilaf-q20875713/milk-pilaf-q20875713-2.jpg",
+    "images/milk-pilaf-q20875713/milk-pilaf-q20875713-3.jpg",
+    "images/milk-pilaf-q20875713/milk-pilaf-q20875713-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20875713",
+    "themealdb": null
+  }
+}

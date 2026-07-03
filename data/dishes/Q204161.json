@@ -1,0 +1,18 @@
+{
+  "id": "Q204161",
+  "name": "Zimtstern",
+  "description": "Christmas cookie common to German-speaking countries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zimtstern-q204161/zimtstern-q204161-1.jpg",
+    "images/zimtstern-q204161/zimtstern-q204161-2.jpg",
+    "images/zimtstern-q204161/zimtstern-q204161-3.jpg",
+    "images/zimtstern-q204161/zimtstern-q204161-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q204161",
+    "themealdb": null
+  }
+}

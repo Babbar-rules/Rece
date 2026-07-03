@@ -1,0 +1,20 @@
+{
+  "id": "Q21079042",
+  "name": "Black peas",
+  "description": "traditional Lancashire dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-peas-q21079042/black-peas-q21079042-1.jpg",
+    "images/black-peas-q21079042/black-peas-q21079042-2.jpg",
+    "images/black-peas-q21079042/black-peas-q21079042-3.jpeg",
+    "images/black-peas-q21079042/black-peas-q21079042-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21079042",
+    "themealdb": null
+  }
+}

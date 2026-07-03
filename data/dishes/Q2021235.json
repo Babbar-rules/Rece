@@ -1,0 +1,20 @@
+{
+  "id": "Q2021235",
+  "name": "Put chai ko",
+  "description": "Rice cake",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/put-chai-ko-q2021235/put-chai-ko-q2021235-1.jpg",
+    "images/put-chai-ko-q2021235/put-chai-ko-q2021235-2.jpg",
+    "images/put-chai-ko-q2021235/put-chai-ko-q2021235-3.jpg",
+    "images/put-chai-ko-q2021235/put-chai-ko-q2021235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2021235",
+    "themealdb": null
+  }
+}

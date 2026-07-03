@@ -1,0 +1,22 @@
+{
+  "id": "Q20587724",
+  "name": "bacem tofu",
+  "description": "Indonesian tofu dish cooked in \"bacem\" style",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bacem-tofu-q20587724/bacem-tofu-q20587724-1.jpg",
+    "images/bacem-tofu-q20587724/bacem-tofu-q20587724-2.jpg",
+    "images/bacem-tofu-q20587724/bacem-tofu-q20587724-3.jpg",
+    "images/bacem-tofu-q20587724/bacem-tofu-q20587724-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20587724",
+    "themealdb": null
+  }
+}

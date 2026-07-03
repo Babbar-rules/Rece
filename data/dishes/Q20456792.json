@@ -1,0 +1,20 @@
+{
+  "id": "Q20456792",
+  "name": "masak lemak",
+  "description": "Malay coconut curry",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/masak-lemak-q20456792/masak-lemak-q20456792-1.jpg",
+    "images/masak-lemak-q20456792/masak-lemak-q20456792-2.jpg",
+    "images/masak-lemak-q20456792/masak-lemak-q20456792-3.jpg",
+    "images/masak-lemak-q20456792/masak-lemak-q20456792-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20456792",
+    "themealdb": null
+  }
+}

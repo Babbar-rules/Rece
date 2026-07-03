@@ -1,0 +1,22 @@
+{
+  "id": "Q2089716",
+  "name": "Pljeskavica",
+  "description": "traditional Balkan (Serbian) meat dish",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [
+    "Serbian cuisine"
+  ],
+  "images": [
+    "images/pljeskavica-q2089716/pljeskavica-q2089716-1.jpg",
+    "images/pljeskavica-q2089716/pljeskavica-q2089716-2.jpg",
+    "images/pljeskavica-q2089716/pljeskavica-q2089716-3.jpg",
+    "images/pljeskavica-q2089716/pljeskavica-q2089716-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2089716",
+    "themealdb": null
+  }
+}

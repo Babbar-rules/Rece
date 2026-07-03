@@ -1,0 +1,20 @@
+{
+  "id": "Q20751180",
+  "name": "Arroz a la tumbada",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-a-la-tumbada-q20751180/arroz-a-la-tumbada-q20751180-1.jpg",
+    "images/arroz-a-la-tumbada-q20751180/arroz-a-la-tumbada-q20751180-2.jpg",
+    "images/arroz-a-la-tumbada-q20751180/arroz-a-la-tumbada-q20751180-3.jpg",
+    "images/arroz-a-la-tumbada-q20751180/arroz-a-la-tumbada-q20751180-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20751180",
+    "themealdb": null
+  }
+}

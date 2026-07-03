@@ -1,0 +1,22 @@
+{
+  "id": "Q209500",
+  "name": "haggis",
+  "description": "savoury pudding containing lamb and oats of Scottish origin",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [
+    "Scottish cuisine"
+  ],
+  "images": [
+    "images/haggis-q209500/haggis-q209500-1.jpg",
+    "images/haggis-q209500/haggis-q209500-2.jpg",
+    "images/haggis-q209500/haggis-q209500-3.jpg",
+    "images/haggis-q209500/haggis-q209500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209500",
+    "themealdb": null
+  }
+}

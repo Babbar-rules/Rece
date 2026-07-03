@@ -1,0 +1,19 @@
+{
+  "id": "Q20987430",
+  "name": "Malu Mirisata",
+  "description": "spicy Sri Lankan fish curry",
+  "nationality": [
+    "Sri Lanka"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malu-mirisata-q20987430/malu-mirisata-q20987430-1.jpg",
+    "images/malu-mirisata-q20987430/malu-mirisata-q20987430-2.jpg",
+    "images/malu-mirisata-q20987430/malu-mirisata-q20987430-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20987430",
+    "themealdb": null
+  }
+}

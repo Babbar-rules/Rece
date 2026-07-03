@@ -1,0 +1,20 @@
+{
+  "id": "Q20747991",
+  "name": "Arroz poblano",
+  "description": "Mexican rice dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-poblano-q20747991/arroz-poblano-q20747991-1.jpg",
+    "images/arroz-poblano-q20747991/arroz-poblano-q20747991-2.jpg",
+    "images/arroz-poblano-q20747991/arroz-poblano-q20747991-3.jpg",
+    "images/arroz-poblano-q20747991/arroz-poblano-q20747991-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20747991",
+    "themealdb": null
+  }
+}

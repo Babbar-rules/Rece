@@ -1,0 +1,20 @@
+{
+  "id": "Q21060314",
+  "name": "jumeok-bap",
+  "description": "Korean rice balls",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jumeok-bap-q21060314/jumeok-bap-q21060314-1.jpg",
+    "images/jumeok-bap-q21060314/jumeok-bap-q21060314-2.jpg",
+    "images/jumeok-bap-q21060314/jumeok-bap-q21060314-3.jpg",
+    "images/jumeok-bap-q21060314/jumeok-bap-q21060314-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21060314",
+    "themealdb": null
+  }
+}

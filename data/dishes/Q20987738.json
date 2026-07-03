@@ -1,0 +1,20 @@
+{
+  "id": "Q20987738",
+  "name": "ash-e doogh",
+  "description": "traditional soup dish",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ash-e-doogh-q20987738/ash-e-doogh-q20987738-1.jpg",
+    "images/ash-e-doogh-q20987738/ash-e-doogh-q20987738-2.jpg",
+    "images/ash-e-doogh-q20987738/ash-e-doogh-q20987738-3.jpg",
+    "images/ash-e-doogh-q20987738/ash-e-doogh-q20987738-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20987738",
+    "themealdb": null
+  }
+}

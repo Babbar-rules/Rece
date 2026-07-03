@@ -1,0 +1,22 @@
+{
+  "id": "Q20984302",
+  "name": "bánh bột lọc",
+  "description": "small, clear-looking, chewy tapicoa dumpling in Vietnamese cuisine",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [
+    "Vietnamese cuisine"
+  ],
+  "images": [
+    "images/banh-bot-loc-q20984302/banh-bot-loc-q20984302-1.jpg",
+    "images/banh-bot-loc-q20984302/banh-bot-loc-q20984302-2.jpg",
+    "images/banh-bot-loc-q20984302/banh-bot-loc-q20984302-3.jpg",
+    "images/banh-bot-loc-q20984302/banh-bot-loc-q20984302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20984302",
+    "themealdb": null
+  }
+}

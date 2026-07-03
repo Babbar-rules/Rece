@@ -1,0 +1,20 @@
+{
+  "id": "Q20585935",
+  "name": "yayma",
+  "description": "Azerbaijani rice pudding",
+  "nationality": [
+    "Azerbaijan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yayma-q20585935/yayma-q20585935-1.jpg",
+    "images/yayma-q20585935/yayma-q20585935-2.jpg",
+    "images/yayma-q20585935/yayma-q20585935-3.jpg",
+    "images/yayma-q20585935/yayma-q20585935-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20585935",
+    "themealdb": null
+  }
+}

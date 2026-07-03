@@ -1,0 +1,20 @@
+{
+  "id": "Q21025055",
+  "name": "Muroran curry ramen",
+  "description": "specialty Ramen of Muroran, Hokkaido, Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muroran-curry-ramen-q21025055/muroran-curry-ramen-q21025055-1.jpg",
+    "images/muroran-curry-ramen-q21025055/muroran-curry-ramen-q21025055-2.jpg",
+    "images/muroran-curry-ramen-q21025055/muroran-curry-ramen-q21025055-3.jpg",
+    "images/muroran-curry-ramen-q21025055/muroran-curry-ramen-q21025055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21025055",
+    "themealdb": null
+  }
+}

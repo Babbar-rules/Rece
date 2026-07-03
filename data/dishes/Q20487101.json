@@ -1,0 +1,17 @@
+{
+  "id": "Q20487101",
+  "name": "Utica greens",
+  "description": "Italian-American escarole dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/utica-greens-q20487101/utica-greens-q20487101-1.jpg",
+    "images/utica-greens-q20487101/utica-greens-q20487101-2.jpg",
+    "images/utica-greens-q20487101/utica-greens-q20487101-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20487101",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q20734",
+  "name": "doner kebab",
+  "description": "Turkish dish",
+  "nationality": [
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/doner-kebab-q20734/doner-kebab-q20734-1.jpg",
+    "images/doner-kebab-q20734/doner-kebab-q20734-2.jpg",
+    "images/doner-kebab-q20734/doner-kebab-q20734-3.jpg",
+    "images/doner-kebab-q20734/doner-kebab-q20734-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20734",
+    "themealdb": null
+  }
+}

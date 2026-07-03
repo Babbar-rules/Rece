@@ -1,0 +1,20 @@
+{
+  "id": "Q203886",
+  "name": "tzimmes",
+  "description": "Ashkenazi Jewish stew made from carrots and fruits",
+  "nationality": [],
+  "region_cuisine": [
+    "Jewish cuisine"
+  ],
+  "images": [
+    "images/tzimmes-q203886/tzimmes-q203886-1.jpg",
+    "images/tzimmes-q203886/tzimmes-q203886-2.jpeg",
+    "images/tzimmes-q203886/tzimmes-q203886-3.jpg",
+    "images/tzimmes-q203886/tzimmes-q203886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203886",
+    "themealdb": null
+  }
+}

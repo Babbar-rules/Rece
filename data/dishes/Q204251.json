@@ -1,0 +1,20 @@
+{
+  "id": "Q204251",
+  "name": "wheat tortilla",
+  "description": "type of soft, thin flatbread made from finely ground wheat flour",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wheat-tortilla-q204251/wheat-tortilla-q204251-1.jpg",
+    "images/wheat-tortilla-q204251/wheat-tortilla-q204251-2.jpg",
+    "images/wheat-tortilla-q204251/wheat-tortilla-q204251-3.jpg",
+    "images/wheat-tortilla-q204251/wheat-tortilla-q204251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q204251",
+    "themealdb": null
+  }
+}

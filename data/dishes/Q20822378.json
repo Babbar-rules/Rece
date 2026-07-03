@@ -1,0 +1,17 @@
+{
+  "id": "Q20822378",
+  "name": "Pulpo a la campechana",
+  "description": "Mexican dish made with octopus",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pulpo-a-la-campechana-q20822378/pulpo-a-la-campechana-q20822378-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20822378",
+    "themealdb": null
+  }
+}

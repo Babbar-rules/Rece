@@ -1,0 +1,18 @@
+{
+  "id": "Q2028136",
+  "name": "orangeat",
+  "description": "candied bitter orange peel",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/orangeat-q2028136/orangeat-q2028136-1.jpg",
+    "images/orangeat-q2028136/orangeat-q2028136-2.jpg",
+    "images/orangeat-q2028136/orangeat-q2028136-3.jpg",
+    "images/orangeat-q2028136/orangeat-q2028136-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2028136",
+    "themealdb": null
+  }
+}

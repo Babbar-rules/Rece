@@ -1,0 +1,16 @@
+{
+  "id": "Q20984134",
+  "name": "Fujian red wine chicken",
+  "description": "Chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fujian-red-wine-chicken-q20984134/fujian-red-wine-chicken-q20984134-1.jpg",
+    "images/fujian-red-wine-chicken-q20984134/fujian-red-wine-chicken-q20984134-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20984134",
+    "themealdb": null
+  }
+}

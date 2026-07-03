@@ -1,0 +1,20 @@
+{
+  "id": "Q20383132",
+  "name": "Sfinz",
+  "description": "",
+  "nationality": [
+    "Libya"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sfinz-q20383132/sfinz-q20383132-1.jpg",
+    "images/sfinz-q20383132/sfinz-q20383132-2.jpg",
+    "images/sfinz-q20383132/sfinz-q20383132-3.jpg",
+    "images/sfinz-q20383132/sfinz-q20383132-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20383132",
+    "themealdb": null
+  }
+}

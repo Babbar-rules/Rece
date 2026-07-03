@@ -1,0 +1,22 @@
+{
+  "id": "Q2078349",
+  "name": "Ajapsandali",
+  "description": "traditional eggplant dish",
+  "nationality": [
+    "Georgia",
+    "Azerbaijan",
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ajapsandali-q2078349/ajapsandali-q2078349-1.jpg",
+    "images/ajapsandali-q2078349/ajapsandali-q2078349-2.jpg",
+    "images/ajapsandali-q2078349/ajapsandali-q2078349-3.jpg",
+    "images/ajapsandali-q2078349/ajapsandali-q2078349-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2078349",
+    "themealdb": null
+  }
+}

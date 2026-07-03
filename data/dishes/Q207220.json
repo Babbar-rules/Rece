@@ -1,0 +1,44 @@
+{
+  "id": "Q207220",
+  "name": "muffin",
+  "description": "type of baked product",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/muffin-q207220/muffin-q207220-1.jpg",
+    "images/muffin-q207220/muffin-q207220-2.jpg",
+    "images/muffin-q207220/muffin-q207220-3.jpg",
+    "images/muffin-q207220/muffin-q207220-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53424",
+    "category": "Dessert",
+    "area": null,
+    "instructions": "Preheat oven to 350 degrees.\r\nMash the plantains until it has a paste consistency.\r\nMix togher the coconut cream and granulated sugar. Mix well.\r\nAdd muffin liners to muffin pan.\r\nFill the mixture into muffin pan.\r\nBake for 45 minutes until baked all the way through.",
+    "ingredients": [
+      {
+        "ingredient": "Coconut Cream",
+        "measure": "450ml"
+      },
+      {
+        "ingredient": "Plantain",
+        "measure": "4 large"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "4 tablespoons"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/x7cbsp1779811798.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q207220",
+    "themealdb": "53424"
+  }
+}

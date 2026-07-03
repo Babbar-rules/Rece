@@ -1,0 +1,22 @@
+{
+  "id": "Q20987994",
+  "name": "sholezard",
+  "description": "Iranian dessert",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [
+    "Iranian cuisine"
+  ],
+  "images": [
+    "images/sholezard-q20987994/sholezard-q20987994-1.jpg",
+    "images/sholezard-q20987994/sholezard-q20987994-2.jpg",
+    "images/sholezard-q20987994/sholezard-q20987994-3.jpg",
+    "images/sholezard-q20987994/sholezard-q20987994-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20987994",
+    "themealdb": null
+  }
+}

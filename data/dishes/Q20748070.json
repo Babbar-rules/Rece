@@ -1,0 +1,20 @@
+{
+  "id": "Q20748070",
+  "name": "Al ajillo (Mexican cuisine)",
+  "description": "cooking style",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/al-ajillo-mexican-cuisine-q20748070/al-ajillo-mexican-cuisine-q20748070-1.jpg",
+    "images/al-ajillo-mexican-cuisine-q20748070/al-ajillo-mexican-cuisine-q20748070-2.jpg",
+    "images/al-ajillo-mexican-cuisine-q20748070/al-ajillo-mexican-cuisine-q20748070-3.jpg",
+    "images/al-ajillo-mexican-cuisine-q20748070/al-ajillo-mexican-cuisine-q20748070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20748070",
+    "themealdb": null
+  }
+}

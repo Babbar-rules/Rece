@@ -1,0 +1,22 @@
+{
+  "id": "Q202989",
+  "name": "chocolate salami",
+  "description": "dessert made from cocoa, broken biscuits, butter, eggs and a bit of port wine or rum",
+  "nationality": [
+    "Italy",
+    "Portugal",
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-salami-q202989/chocolate-salami-q202989-1.jpg",
+    "images/chocolate-salami-q202989/chocolate-salami-q202989-2.jpg",
+    "images/chocolate-salami-q202989/chocolate-salami-q202989-3.jpg",
+    "images/chocolate-salami-q202989/chocolate-salami-q202989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q202989",
+    "themealdb": null
+  }
+}

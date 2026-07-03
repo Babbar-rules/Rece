@@ -1,0 +1,20 @@
+{
+  "id": "Q2053178",
+  "name": "Mantecol",
+  "description": "Argentine brand of nougat",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mantecol-q2053178/mantecol-q2053178-1.jpg",
+    "images/mantecol-q2053178/mantecol-q2053178-2.jpg",
+    "images/mantecol-q2053178/mantecol-q2053178-3.png",
+    "images/mantecol-q2053178/mantecol-q2053178-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2053178",
+    "themealdb": null
+  }
+}

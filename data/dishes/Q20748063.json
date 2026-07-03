@@ -1,0 +1,18 @@
+{
+  "id": "Q20748063",
+  "name": "Carne a la tampiqueña",
+  "description": "Mexican cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-a-la-tampiquena-q20748063/carne-a-la-tampiquena-q20748063-1.jpg",
+    "images/carne-a-la-tampiquena-q20748063/carne-a-la-tampiquena-q20748063-2.jpg",
+    "images/carne-a-la-tampiquena-q20748063/carne-a-la-tampiquena-q20748063-3.jpg",
+    "images/carne-a-la-tampiquena-q20748063/carne-a-la-tampiquena-q20748063-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20748063",
+    "themealdb": null
+  }
+}

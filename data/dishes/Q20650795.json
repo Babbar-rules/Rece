@@ -1,0 +1,20 @@
+{
+  "id": "Q20650795",
+  "name": "ekşili köfte",
+  "description": "sour soup from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eksili-kofte-q20650795/eksili-kofte-q20650795-1.jpg",
+    "images/eksili-kofte-q20650795/eksili-kofte-q20650795-2.jpg",
+    "images/eksili-kofte-q20650795/eksili-kofte-q20650795-3.jpg",
+    "images/eksili-kofte-q20650795/eksili-kofte-q20650795-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20650795",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q204569",
+  "name": "Hanuta",
+  "description": "trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hanuta-q204569/hanuta-q204569-1.jpg",
+    "images/hanuta-q204569/hanuta-q204569-2.jpg",
+    "images/hanuta-q204569/hanuta-q204569-3.jpg",
+    "images/hanuta-q204569/hanuta-q204569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q204569",
+    "themealdb": null
+  }
+}

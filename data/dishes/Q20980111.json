@@ -1,0 +1,18 @@
+{
+  "id": "Q20980111",
+  "name": "Pan de cazón",
+  "description": "Mexican casserole",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-de-cazon-q20980111/pan-de-cazon-q20980111-1.jpg",
+    "images/pan-de-cazon-q20980111/pan-de-cazon-q20980111-2.jpg",
+    "images/pan-de-cazon-q20980111/pan-de-cazon-q20980111-3.jpg",
+    "images/pan-de-cazon-q20980111/pan-de-cazon-q20980111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20980111",
+    "themealdb": null
+  }
+}

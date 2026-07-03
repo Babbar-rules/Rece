@@ -1,0 +1,22 @@
+{
+  "id": "Q20614517",
+  "name": "Brunsli",
+  "description": "Swiss christmas cookie",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/brunsli-q20614517/brunsli-q20614517-1.jpg",
+    "images/brunsli-q20614517/brunsli-q20614517-2.jpg",
+    "images/brunsli-q20614517/brunsli-q20614517-3.jpg",
+    "images/brunsli-q20614517/brunsli-q20614517-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20614517",
+    "themealdb": null
+  }
+}

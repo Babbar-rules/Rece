@@ -1,0 +1,20 @@
+{
+  "id": "Q20971886",
+  "name": "Salade lyonnaise",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salade-lyonnaise-q20971886/salade-lyonnaise-q20971886-1.jpg",
+    "images/salade-lyonnaise-q20971886/salade-lyonnaise-q20971886-2.jpg",
+    "images/salade-lyonnaise-q20971886/salade-lyonnaise-q20971886-3.jpg",
+    "images/salade-lyonnaise-q20971886/salade-lyonnaise-q20971886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20971886",
+    "themealdb": null
+  }
+}

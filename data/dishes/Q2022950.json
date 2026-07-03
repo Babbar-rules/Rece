@@ -1,0 +1,18 @@
+{
+  "id": "Q2022950",
+  "name": "Umm Ali",
+  "description": "traditional Egyptian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/umm-ali-q2022950/umm-ali-q2022950-1.jpg",
+    "images/umm-ali-q2022950/umm-ali-q2022950-2.jpg",
+    "images/umm-ali-q2022950/umm-ali-q2022950-3.jpg",
+    "images/umm-ali-q2022950/umm-ali-q2022950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2022950",
+    "themealdb": null
+  }
+}

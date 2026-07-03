@@ -1,0 +1,30 @@
+{
+  "id": "Q203925",
+  "name": "fish and chips",
+  "description": "hot dish of fried fish and fried potato",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [
+    "New Zealand cuisine",
+    "Canadian cuisine",
+    "English cuisine",
+    "Irish cuisine",
+    "Norwegian cuisine",
+    "South African cuisine",
+    "Australian cuisine",
+    "Indian cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/fish-and-chips-q203925/fish-and-chips-q203925-1.jpg",
+    "images/fish-and-chips-q203925/fish-and-chips-q203925-2.jpg",
+    "images/fish-and-chips-q203925/fish-and-chips-q203925-3.jpg",
+    "images/fish-and-chips-q203925/fish-and-chips-q203925-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203925",
+    "themealdb": null
+  }
+}

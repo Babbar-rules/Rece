@@ -1,0 +1,20 @@
+{
+  "id": "Q2082064",
+  "name": "Consommé",
+  "description": "type of clear soup",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/consomme-q2082064/consomme-q2082064-1.jpg",
+    "images/consomme-q2082064/consomme-q2082064-2.jpg",
+    "images/consomme-q2082064/consomme-q2082064-3.jpg",
+    "images/consomme-q2082064/consomme-q2082064-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2082064",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "Q202677",
+  "name": "gazpacho",
+  "description": "cold soup from Spain and Portugal",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine",
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/gazpacho-q202677/gazpacho-q202677-1.jpg",
+    "images/gazpacho-q202677/gazpacho-q202677-2.jpg",
+    "images/gazpacho-q202677/gazpacho-q202677-3.jpg",
+    "images/gazpacho-q202677/gazpacho-q202677-4.png"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53173",
+    "category": "Starter",
+    "area": "Spanish",
+    "instructions": "step 1\r\nIn a blender (or with a stick blender), whizz together the passata, red pepper, chilli, garlic, sherry vinegar and lime juice until smooth. Season to taste, then serve with ice cubes",
+    "ingredients": [
+      {
+        "ingredient": "Passata",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Red Chilli",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "1 clove peeled crushed"
+      },
+      {
+        "ingredient": "Sherry vinegar",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "Juice of 1/2"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=sJzHIxlDTHc",
+    "thumb": "https://www.themealdb.com/images/media/meals/h5qmn31763304965.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q202677",
+    "themealdb": "53173"
+  }
+}

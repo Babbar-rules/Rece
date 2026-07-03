@@ -1,0 +1,18 @@
+{
+  "id": "Q20573009",
+  "name": "Aravana",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aravana-q20573009/aravana-q20573009-1.jpg",
+    "images/aravana-q20573009/aravana-q20573009-2.jpg",
+    "images/aravana-q20573009/aravana-q20573009-3.jpg",
+    "images/aravana-q20573009/aravana-q20573009-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20573009",
+    "themealdb": null
+  }
+}

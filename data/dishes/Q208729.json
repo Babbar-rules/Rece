@@ -1,0 +1,20 @@
+{
+  "id": "Q208729",
+  "name": "nougat",
+  "description": "confection",
+  "nationality": [
+    "Middle East"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nougat-q208729/nougat-q208729-1.jpg",
+    "images/nougat-q208729/nougat-q208729-2.jpg",
+    "images/nougat-q208729/nougat-q208729-3.jpg",
+    "images/nougat-q208729/nougat-q208729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q208729",
+    "themealdb": null
+  }
+}

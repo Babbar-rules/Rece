@@ -1,0 +1,18 @@
+{
+  "id": "Q2048003",
+  "name": "pastry cream",
+  "description": "custard",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pastry-cream-q2048003/pastry-cream-q2048003-1.jpg",
+    "images/pastry-cream-q2048003/pastry-cream-q2048003-2.jpg",
+    "images/pastry-cream-q2048003/pastry-cream-q2048003-3.jpg",
+    "images/pastry-cream-q2048003/pastry-cream-q2048003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2048003",
+    "themealdb": null
+  }
+}

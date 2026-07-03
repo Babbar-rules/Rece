@@ -1,0 +1,18 @@
+{
+  "id": "Q20714587",
+  "name": "Black bottom pie",
+  "description": "Dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/black-bottom-pie-q20714587/black-bottom-pie-q20714587-1.jpg",
+    "images/black-bottom-pie-q20714587/black-bottom-pie-q20714587-2.jpg",
+    "images/black-bottom-pie-q20714587/black-bottom-pie-q20714587-3.jpg",
+    "images/black-bottom-pie-q20714587/black-bottom-pie-q20714587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20714587",
+    "themealdb": null
+  }
+}

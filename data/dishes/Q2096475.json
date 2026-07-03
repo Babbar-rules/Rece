@@ -1,0 +1,20 @@
+{
+  "id": "Q2096475",
+  "name": "palmier",
+  "description": "French pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/palmier-q2096475/palmier-q2096475-1.jpg",
+    "images/palmier-q2096475/palmier-q2096475-2.jpg",
+    "images/palmier-q2096475/palmier-q2096475-3.jpg",
+    "images/palmier-q2096475/palmier-q2096475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2096475",
+    "themealdb": null
+  }
+}

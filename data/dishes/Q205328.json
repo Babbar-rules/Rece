@@ -1,0 +1,52 @@
+{
+  "id": "Q205328",
+  "name": "gambas al ajillo",
+  "description": "shrimp and garlic dish",
+  "nationality": [
+    "Spanish"
+  ],
+  "region_cuisine": [
+    "Seafood"
+  ],
+  "images": [
+    "images/gambas-al-ajillo-q205328/gambas-al-ajillo-q205328-1.jpg",
+    "images/gambas-al-ajillo-q205328/gambas-al-ajillo-q205328-2.jpg",
+    "images/gambas-al-ajillo-q205328/gambas-al-ajillo-q205328-3.jpg",
+    "images/gambas-al-ajillo-q205328/gambas-al-ajillo-q205328-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53144",
+    "category": "Seafood",
+    "area": "Spanish",
+    "instructions": "step 1\r\nPeel the prawns, leaving the tails intact, and, using a cocktail stick, remove the digestive tracts. Or, if you are using a frying pan rather than a terracotta pot, you can cook the prawns in their shells. Season with a little sea salt.\r\n\r\nstep 2\r\nPut the garlic, olive oil and chillies in a flameproof terracotta pot or frying pan and set over a high heat. When the garlic starts to turn golden, add the prawns and cook for 1-2 mins on each side until just pink. Sprinkle over the chopped parsley and some freshly cracked black pepper, and serve immediately. If using a terracotta pot, you can take that straight to the table, but be careful with it as the oil and terracotta will remain hot for several minutes.",
+    "ingredients": [
+      {
+        "ingredient": "Raw King Prawns",
+        "measure": "12"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "100 ml"
+      },
+      {
+        "ingredient": "Cayenne Pepper",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "1 tablespoon chopped"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=2tZlO8vNMtk",
+    "thumb": "https://www.themealdb.com/images/media/meals/ze8uwg1763196123.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q205328",
+    "themealdb": "53144"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2093743",
+  "name": "sopa paraguaya",
+  "description": "gastronomic dish of Paraguay",
+  "nationality": [],
+  "region_cuisine": [
+    "Paraguayan cuisine"
+  ],
+  "images": [
+    "images/sopa-paraguaya-q2093743/sopa-paraguaya-q2093743-1.jpg",
+    "images/sopa-paraguaya-q2093743/sopa-paraguaya-q2093743-2.jpg",
+    "images/sopa-paraguaya-q2093743/sopa-paraguaya-q2093743-3.jpg",
+    "images/sopa-paraguaya-q2093743/sopa-paraguaya-q2093743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2093743",
+    "themealdb": null
+  }
+}

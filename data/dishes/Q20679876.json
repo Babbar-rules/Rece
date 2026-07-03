@@ -1,0 +1,20 @@
+{
+  "id": "Q20679876",
+  "name": "Taro with yellow sauce",
+  "description": "",
+  "nationality": [
+    "Cameroon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taro-with-yellow-sauce-q20679876/taro-with-yellow-sauce-q20679876-1.jpg",
+    "images/taro-with-yellow-sauce-q20679876/taro-with-yellow-sauce-q20679876-2.jpg",
+    "images/taro-with-yellow-sauce-q20679876/taro-with-yellow-sauce-q20679876-3.jpg",
+    "images/taro-with-yellow-sauce-q20679876/taro-with-yellow-sauce-q20679876-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20679876",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q20988817",
+  "name": "Ziva",
+  "description": "Israeli dish",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [
+    "Israeli cuisine"
+  ],
+  "images": [
+    "images/ziva-q20988817/ziva-q20988817-1.jpg",
+    "images/ziva-q20988817/ziva-q20988817-2.jpg",
+    "images/ziva-q20988817/ziva-q20988817-3.jpg",
+    "images/ziva-q20988817/ziva-q20988817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20988817",
+    "themealdb": null
+  }
+}

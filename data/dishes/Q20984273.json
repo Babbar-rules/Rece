@@ -1,0 +1,18 @@
+{
+  "id": "Q20984273",
+  "name": "Gà nướng sả",
+  "description": "Vietnamese lemongrass chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ga-nuong-sa-q20984273/ga-nuong-sa-q20984273-1.jpg",
+    "images/ga-nuong-sa-q20984273/ga-nuong-sa-q20984273-2.jpg",
+    "images/ga-nuong-sa-q20984273/ga-nuong-sa-q20984273-3.jpg",
+    "images/ga-nuong-sa-q20984273/ga-nuong-sa-q20984273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20984273",
+    "themealdb": null
+  }
+}

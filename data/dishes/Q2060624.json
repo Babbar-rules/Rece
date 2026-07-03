@@ -1,0 +1,21 @@
+{
+  "id": "Q2060624",
+  "name": "Gored gored",
+  "description": "Ethiopian and Eritrean raw beef dish",
+  "nationality": [
+    "Ethiopia",
+    "Eritrea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gored-gored-q2060624/gored-gored-q2060624-1.jpg",
+    "images/gored-gored-q2060624/gored-gored-q2060624-2.jpg",
+    "images/gored-gored-q2060624/gored-gored-q2060624-3.jpg",
+    "images/gored-gored-q2060624/gored-gored-q2060624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2060624",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q20445517",
+  "name": "kkulppang",
+  "description": "South Korean honey bread dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/kkulppang-q20445517/kkulppang-q20445517-1.jpg",
+    "images/kkulppang-q20445517/kkulppang-q20445517-2.jpg",
+    "images/kkulppang-q20445517/kkulppang-q20445517-3.jpg",
+    "images/kkulppang-q20445517/kkulppang-q20445517-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20445517",
+    "themealdb": null
+  }
+}

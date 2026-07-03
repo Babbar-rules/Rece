@@ -1,0 +1,18 @@
+{
+  "id": "Q20650896",
+  "name": "Turkish soups",
+  "description": "soups in the Turkish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/turkish-soups-q20650896/turkish-soups-q20650896-1.jpg",
+    "images/turkish-soups-q20650896/turkish-soups-q20650896-2.jpg",
+    "images/turkish-soups-q20650896/turkish-soups-q20650896-3.jpg",
+    "images/turkish-soups-q20650896/turkish-soups-q20650896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20650896",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2074267",
+  "name": "Lomi salmon",
+  "description": "hawaiian tomato and salmon salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lomi-salmon-q2074267/lomi-salmon-q2074267-1.jpg",
+    "images/lomi-salmon-q2074267/lomi-salmon-q2074267-2.jpg",
+    "images/lomi-salmon-q2074267/lomi-salmon-q2074267-3.jpg",
+    "images/lomi-salmon-q2074267/lomi-salmon-q2074267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2074267",
+    "themealdb": null
+  }
+}

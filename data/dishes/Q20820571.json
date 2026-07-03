@@ -1,0 +1,18 @@
+{
+  "id": "Q20820571",
+  "name": "Pönnukaka",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ponnukaka-q20820571/ponnukaka-q20820571-1.jpg",
+    "images/ponnukaka-q20820571/ponnukaka-q20820571-2.jpg",
+    "images/ponnukaka-q20820571/ponnukaka-q20820571-3.jpg",
+    "images/ponnukaka-q20820571/ponnukaka-q20820571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20820571",
+    "themealdb": null
+  }
+}

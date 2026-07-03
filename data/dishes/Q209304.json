@@ -1,0 +1,22 @@
+{
+  "id": "Q209304",
+  "name": "gado-gado",
+  "description": "Indonesian salad dish originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/gado-gado-q209304/gado-gado-q209304-1.jpg",
+    "images/gado-gado-q209304/gado-gado-q209304-2.jpg",
+    "images/gado-gado-q209304/gado-gado-q209304-3.jpg",
+    "images/gado-gado-q209304/gado-gado-q209304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q209304",
+    "themealdb": null
+  }
+}

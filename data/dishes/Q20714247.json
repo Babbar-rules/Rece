@@ -1,0 +1,20 @@
+{
+  "id": "Q20714247",
+  "name": "cruffin",
+  "description": "croissant/muffin hybrid",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cruffin-q20714247/cruffin-q20714247-1.jpg",
+    "images/cruffin-q20714247/cruffin-q20714247-2.jpg",
+    "images/cruffin-q20714247/cruffin-q20714247-3.jpg",
+    "images/cruffin-q20714247/cruffin-q20714247-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20714247",
+    "themealdb": null
+  }
+}

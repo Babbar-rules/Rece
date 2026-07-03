@@ -1,0 +1,20 @@
+{
+  "id": "Q20732520",
+  "name": "pumpkin flower fritter",
+  "description": "dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pumpkin-flower-fritter-q20732520/pumpkin-flower-fritter-q20732520-1.jpg",
+    "images/pumpkin-flower-fritter-q20732520/pumpkin-flower-fritter-q20732520-2.gif",
+    "images/pumpkin-flower-fritter-q20732520/pumpkin-flower-fritter-q20732520-3.jpg",
+    "images/pumpkin-flower-fritter-q20732520/pumpkin-flower-fritter-q20732520-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20732520",
+    "themealdb": null
+  }
+}

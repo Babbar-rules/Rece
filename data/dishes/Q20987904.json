@@ -1,0 +1,20 @@
+{
+  "id": "Q20987904",
+  "name": "masghati",
+  "description": "soft, translucent Iranian confection",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/masghati-q20987904/masghati-q20987904-1.jpg",
+    "images/masghati-q20987904/masghati-q20987904-2.jpg",
+    "images/masghati-q20987904/masghati-q20987904-3.jpg",
+    "images/masghati-q20987904/masghati-q20987904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20987904",
+    "themealdb": null
+  }
+}

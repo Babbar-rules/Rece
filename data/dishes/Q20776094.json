@@ -1,0 +1,20 @@
+{
+  "id": "Q20776094",
+  "name": "Chicharrón en salsa",
+  "description": "Mexican dish made from pork rinds",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicharron-en-salsa-q20776094/chicharron-en-salsa-q20776094-1.jpg",
+    "images/chicharron-en-salsa-q20776094/chicharron-en-salsa-q20776094-2.jpg",
+    "images/chicharron-en-salsa-q20776094/chicharron-en-salsa-q20776094-3.jpg",
+    "images/chicharron-en-salsa-q20776094/chicharron-en-salsa-q20776094-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20776094",
+    "themealdb": null
+  }
+}

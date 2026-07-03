@@ -1,0 +1,20 @@
+{
+  "id": "Q21044363",
+  "name": "Conejito",
+  "description": "Chilean pastry",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/conejito-q21044363/conejito-q21044363-1.jpg",
+    "images/conejito-q21044363/conejito-q21044363-2.jpg",
+    "images/conejito-q21044363/conejito-q21044363-3.jpg",
+    "images/conejito-q21044363/conejito-q21044363-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21044363",
+    "themealdb": null
+  }
+}

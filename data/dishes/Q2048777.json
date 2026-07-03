@@ -1,0 +1,18 @@
+{
+  "id": "Q2048777",
+  "name": "Casinobread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/casinobread-q2048777/casinobread-q2048777-1.jpg",
+    "images/casinobread-q2048777/casinobread-q2048777-2.jpg",
+    "images/casinobread-q2048777/casinobread-q2048777-3.jpg",
+    "images/casinobread-q2048777/casinobread-q2048777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2048777",
+    "themealdb": null
+  }
+}

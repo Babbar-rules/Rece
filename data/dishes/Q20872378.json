@@ -1,0 +1,18 @@
+{
+  "id": "Q20872378",
+  "name": "Puchero de hinojos",
+  "description": "Cooked white beans or chickpeas with fennel, traditional in some areas of Andalusia, Spain",
+  "nationality": [],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/puchero-de-hinojos-q20872378/puchero-de-hinojos-q20872378-1.jpg",
+    "images/puchero-de-hinojos-q20872378/puchero-de-hinojos-q20872378-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20872378",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q20639978",
+  "name": "drops",
+  "description": "small, round confectionery made from a mixture of boiled sugar and flavourings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/drops-q20639978/drops-q20639978-1.jpg",
+    "images/drops-q20639978/drops-q20639978-2.jpg",
+    "images/drops-q20639978/drops-q20639978-3.jpg",
+    "images/drops-q20639978/drops-q20639978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20639978",
+    "themealdb": null
+  }
+}

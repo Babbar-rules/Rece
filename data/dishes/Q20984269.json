@@ -1,0 +1,15 @@
+{
+  "id": "Q20984269",
+  "name": "Cơm gà rau thơm",
+  "description": "Chicken and rice dish from Vietnamese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/com-ga-rau-thom-q20984269/com-ga-rau-thom-q20984269-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20984269",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q20625135",
+  "name": "kocho",
+  "description": "Ethiopian flatbread",
+  "nationality": [
+    "Ethiopia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kocho-q20625135/kocho-q20625135-1.jpg",
+    "images/kocho-q20625135/kocho-q20625135-2.jpg",
+    "images/kocho-q20625135/kocho-q20625135-3.jpg",
+    "images/kocho-q20625135/kocho-q20625135-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20625135",
+    "themealdb": null
+  }
+}

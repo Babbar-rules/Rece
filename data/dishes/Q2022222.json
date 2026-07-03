@@ -1,0 +1,20 @@
+{
+  "id": "Q2022222",
+  "name": "Crempog",
+  "description": "Welsh pancake made with self-raising flour",
+  "nationality": [
+    "Wales"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crempog-q2022222/crempog-q2022222-1.jpg",
+    "images/crempog-q2022222/crempog-q2022222-2.jpg",
+    "images/crempog-q2022222/crempog-q2022222-3.jpg",
+    "images/crempog-q2022222/crempog-q2022222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2022222",
+    "themealdb": null
+  }
+}

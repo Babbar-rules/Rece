@@ -1,0 +1,20 @@
+{
+  "id": "Q20508879",
+  "name": "Spas",
+  "description": "soup, made with yogurt, popular in Armenia",
+  "nationality": [],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/spas-q20508879/spas-q20508879-1.jpeg",
+    "images/spas-q20508879/spas-q20508879-2.jpg",
+    "images/spas-q20508879/spas-q20508879-3.jpg",
+    "images/spas-q20508879/spas-q20508879-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20508879",
+    "themealdb": null
+  }
+}

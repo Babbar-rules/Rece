@@ -1,0 +1,18 @@
+{
+  "id": "Q21007833",
+  "name": "spit cake",
+  "description": "european-style cake roasted on a rotating spit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spit-cake-q21007833/spit-cake-q21007833-1.jpg",
+    "images/spit-cake-q21007833/spit-cake-q21007833-2.jpg",
+    "images/spit-cake-q21007833/spit-cake-q21007833-3.jpg",
+    "images/spit-cake-q21007833/spit-cake-q21007833-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21007833",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q2088642",
+  "name": "Marinara sauce",
+  "description": "tomato sauce with herbs",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/marinara-sauce-q2088642/marinara-sauce-q2088642-1.jpg",
+    "images/marinara-sauce-q2088642/marinara-sauce-q2088642-2.jpg",
+    "images/marinara-sauce-q2088642/marinara-sauce-q2088642-3.png",
+    "images/marinara-sauce-q2088642/marinara-sauce-q2088642-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2088642",
+    "themealdb": null
+  }
+}

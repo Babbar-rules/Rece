@@ -1,0 +1,22 @@
+{
+  "id": "Q2096886",
+  "name": "Serundeng",
+  "description": "Javanese meat dish with grated coconut",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/serundeng-q2096886/serundeng-q2096886-1.jpg",
+    "images/serundeng-q2096886/serundeng-q2096886-2.jpg",
+    "images/serundeng-q2096886/serundeng-q2096886-3.jpg",
+    "images/serundeng-q2096886/serundeng-q2096886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2096886",
+    "themealdb": null
+  }
+}

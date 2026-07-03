@@ -1,0 +1,22 @@
+{
+  "id": "Q2056389",
+  "name": "Pasulj",
+  "description": "Bean stew",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [
+    "Serbian cuisine"
+  ],
+  "images": [
+    "images/pasulj-q2056389/pasulj-q2056389-1.jpg",
+    "images/pasulj-q2056389/pasulj-q2056389-2.jpg",
+    "images/pasulj-q2056389/pasulj-q2056389-3.jpg",
+    "images/pasulj-q2056389/pasulj-q2056389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2056389",
+    "themealdb": null
+  }
+}

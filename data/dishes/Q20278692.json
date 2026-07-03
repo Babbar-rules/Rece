@@ -1,0 +1,21 @@
+{
+  "id": "Q20278692",
+  "name": "Palóc soup",
+  "description": "Hungarian soup",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/paloc-soup-q20278692/paloc-soup-q20278692-1.jpg",
+    "images/paloc-soup-q20278692/paloc-soup-q20278692-2.jpg",
+    "images/paloc-soup-q20278692/paloc-soup-q20278692-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20278692",
+    "themealdb": null
+  }
+}

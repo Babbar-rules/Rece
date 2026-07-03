@@ -1,0 +1,16 @@
+{
+  "id": "Q20981977",
+  "name": "Spatlo",
+  "description": "South African street food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spatlo-q20981977/spatlo-q20981977-1.jpg",
+    "images/spatlo-q20981977/spatlo-q20981977-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20981977",
+    "themealdb": null
+  }
+}

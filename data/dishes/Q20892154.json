@@ -1,0 +1,18 @@
+{
+  "id": "Q20892154",
+  "name": "fast food in the United States and Canada",
+  "description": "iconic fast food items found in restaurant chains in North America",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fast-food-in-the-united-states-and-canada-q20892154/fast-food-in-the-united-states-and-canada-q20892154-1.jpg",
+    "images/fast-food-in-the-united-states-and-canada-q20892154/fast-food-in-the-united-states-and-canada-q20892154-2.jpg",
+    "images/fast-food-in-the-united-states-and-canada-q20892154/fast-food-in-the-united-states-and-canada-q20892154-3.jpg",
+    "images/fast-food-in-the-united-states-and-canada-q20892154/fast-food-in-the-united-states-and-canada-q20892154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20892154",
+    "themealdb": null
+  }
+}

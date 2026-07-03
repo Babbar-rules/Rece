@@ -1,0 +1,18 @@
+{
+  "id": "Q20220343",
+  "name": "zhajiang",
+  "description": "salty fermented soybean paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zhajiang-q20220343/zhajiang-q20220343-1.jpg",
+    "images/zhajiang-q20220343/zhajiang-q20220343-2.jpg",
+    "images/zhajiang-q20220343/zhajiang-q20220343-3.jpg",
+    "images/zhajiang-q20220343/zhajiang-q20220343-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20220343",
+    "themealdb": null
+  }
+}

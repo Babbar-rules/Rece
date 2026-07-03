@@ -1,0 +1,18 @@
+{
+  "id": "Q20182897",
+  "name": "Sofrito",
+  "description": "traditional Sephardic Jewish stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sofrito-q20182897/sofrito-q20182897-1.jpg",
+    "images/sofrito-q20182897/sofrito-q20182897-2.jpg",
+    "images/sofrito-q20182897/sofrito-q20182897-3.jpg",
+    "images/sofrito-q20182897/sofrito-q20182897-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20182897",
+    "themealdb": null
+  }
+}

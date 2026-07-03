@@ -1,0 +1,22 @@
+{
+  "id": "Q2060858",
+  "name": "Cachupa",
+  "description": "traditional dish from Cape Verde, considered the national dish",
+  "nationality": [
+    "Cape Verde"
+  ],
+  "region_cuisine": [
+    "African cuisine"
+  ],
+  "images": [
+    "images/cachupa-q2060858/cachupa-q2060858-1.jpg",
+    "images/cachupa-q2060858/cachupa-q2060858-2.jpg",
+    "images/cachupa-q2060858/cachupa-q2060858-3.jpg",
+    "images/cachupa-q2060858/cachupa-q2060858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2060858",
+    "themealdb": null
+  }
+}

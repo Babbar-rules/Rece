@@ -1,0 +1,20 @@
+{
+  "id": "Q2066769",
+  "name": "Flaugnarde",
+  "description": "French dessert",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flaugnarde-q2066769/flaugnarde-q2066769-1.jpg",
+    "images/flaugnarde-q2066769/flaugnarde-q2066769-2.jpg",
+    "images/flaugnarde-q2066769/flaugnarde-q2066769-3.jpg",
+    "images/flaugnarde-q2066769/flaugnarde-q2066769-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2066769",
+    "themealdb": null
+  }
+}

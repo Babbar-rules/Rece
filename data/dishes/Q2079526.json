@@ -1,0 +1,18 @@
+{
+  "id": "Q2079526",
+  "name": "geuteling",
+  "description": "Flemish food, similar to a pancake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/geuteling-q2079526/geuteling-q2079526-1.jpg",
+    "images/geuteling-q2079526/geuteling-q2079526-2.jpg",
+    "images/geuteling-q2079526/geuteling-q2079526-3.jpg",
+    "images/geuteling-q2079526/geuteling-q2079526-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2079526",
+    "themealdb": null
+  }
+}

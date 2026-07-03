@@ -1,0 +1,18 @@
+{
+  "id": "Q2021346",
+  "name": "ciorbă",
+  "description": "Romanian or Moldovan sour soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ciorba-q2021346/ciorba-q2021346-1.jpg",
+    "images/ciorba-q2021346/ciorba-q2021346-2.jpg",
+    "images/ciorba-q2021346/ciorba-q2021346-3.jpg",
+    "images/ciorba-q2021346/ciorba-q2021346-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2021346",
+    "themealdb": null
+  }
+}

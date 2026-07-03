@@ -1,0 +1,20 @@
+{
+  "id": "Q2097276",
+  "name": "smalahove",
+  "description": "dish made from a sheep's head",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smalahove-q2097276/smalahove-q2097276-1.jpg",
+    "images/smalahove-q2097276/smalahove-q2097276-2.jpg",
+    "images/smalahove-q2097276/smalahove-q2097276-3.jpg",
+    "images/smalahove-q2097276/smalahove-q2097276-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2097276",
+    "themealdb": null
+  }
+}

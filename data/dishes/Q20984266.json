@@ -1,0 +1,18 @@
+{
+  "id": "Q20984266",
+  "name": "Bì cuốn",
+  "description": "Vietnamese pork and rice rolls",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bi-cuon-q20984266/bi-cuon-q20984266-1.jpg",
+    "images/bi-cuon-q20984266/bi-cuon-q20984266-2.jpg",
+    "images/bi-cuon-q20984266/bi-cuon-q20984266-3.jpg",
+    "images/bi-cuon-q20984266/bi-cuon-q20984266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20984266",
+    "themealdb": null
+  }
+}

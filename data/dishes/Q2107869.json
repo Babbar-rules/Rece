@@ -1,0 +1,18 @@
+{
+  "id": "Q2107869",
+  "name": "Prasselkuchen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prasselkuchen-q2107869/prasselkuchen-q2107869-1.jpg",
+    "images/prasselkuchen-q2107869/prasselkuchen-q2107869-2.jpg",
+    "images/prasselkuchen-q2107869/prasselkuchen-q2107869-3.jpg",
+    "images/prasselkuchen-q2107869/prasselkuchen-q2107869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2107869",
+    "themealdb": null
+  }
+}
