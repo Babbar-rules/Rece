@@ -1,0 +1,22 @@
+{
+  "id": "Q5105498",
+  "name": "chow-chow",
+  "description": "North American pickled relish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/chow-chow-q5105498/chow-chow-q5105498-1.jpg",
+    "images/chow-chow-q5105498/chow-chow-q5105498-2.jpg",
+    "images/chow-chow-q5105498/chow-chow-q5105498-3.jpg",
+    "images/chow-chow-q5105498/chow-chow-q5105498-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5105498",
+    "themealdb": null
+  }
+}

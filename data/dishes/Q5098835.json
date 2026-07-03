@@ -1,0 +1,20 @@
+{
+  "id": "Q5098835",
+  "name": "Chilean salad",
+  "description": "Chilean mixed vegetable dish",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chilean-salad-q5098835/chilean-salad-q5098835-1.jpg",
+    "images/chilean-salad-q5098835/chilean-salad-q5098835-2.jpg",
+    "images/chilean-salad-q5098835/chilean-salad-q5098835-3.jpg",
+    "images/chilean-salad-q5098835/chilean-salad-q5098835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5098835",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5139753",
+  "name": "coco bread",
+  "description": "type of bread",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coco-bread-q5139753/coco-bread-q5139753-1.jpg",
+    "images/coco-bread-q5139753/coco-bread-q5139753-2.jpg",
+    "images/coco-bread-q5139753/coco-bread-q5139753-3.jpg",
+    "images/coco-bread-q5139753/coco-bread-q5139753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5139753",
+    "themealdb": null
+  }
+}

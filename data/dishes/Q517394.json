@@ -1,0 +1,22 @@
+{
+  "id": "Q517394",
+  "name": "Daube",
+  "description": "French stew of beef braised in wine and garlic",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/daube-q517394/daube-q517394-1.jpg",
+    "images/daube-q517394/daube-q517394-2.jpg",
+    "images/daube-q517394/daube-q517394-3.jpg",
+    "images/daube-q517394/daube-q517394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q517394",
+    "themealdb": null
+  }
+}

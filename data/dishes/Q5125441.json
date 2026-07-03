@@ -1,0 +1,22 @@
+{
+  "id": "Q5125441",
+  "name": "clam dip",
+  "description": "dipping sauce and condiment",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/clam-dip-q5125441/clam-dip-q5125441-1.jpg",
+    "images/clam-dip-q5125441/clam-dip-q5125441-2.jpg",
+    "images/clam-dip-q5125441/clam-dip-q5125441-3.jpg",
+    "images/clam-dip-q5125441/clam-dip-q5125441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5125441",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q5184078",
+  "name": "Creme Egg Twisted",
+  "description": "Cadbury chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/creme-egg-twisted-q5184078/creme-egg-twisted-q5184078-1.jpg",
+    "images/creme-egg-twisted-q5184078/creme-egg-twisted-q5184078-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5184078",
+    "themealdb": null
+  }
+}

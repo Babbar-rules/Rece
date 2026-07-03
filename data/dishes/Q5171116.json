@@ -1,0 +1,18 @@
+{
+  "id": "Q5171116",
+  "name": "corned beef sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/corned-beef-sandwich-q5171116/corned-beef-sandwich-q5171116-1.jpg",
+    "images/corned-beef-sandwich-q5171116/corned-beef-sandwich-q5171116-2.jpg",
+    "images/corned-beef-sandwich-q5171116/corned-beef-sandwich-q5171116-3.jpg",
+    "images/corned-beef-sandwich-q5171116/corned-beef-sandwich-q5171116-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5171116",
+    "themealdb": null
+  }
+}

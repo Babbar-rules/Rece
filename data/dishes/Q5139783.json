@@ -1,0 +1,20 @@
+{
+  "id": "Q5139783",
+  "name": "Cocol",
+  "description": "Mexican bread",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cocol-q5139783/cocol-q5139783-1.jpg",
+    "images/cocol-q5139783/cocol-q5139783-2.jpg",
+    "images/cocol-q5139783/cocol-q5139783-3.jpg",
+    "images/cocol-q5139783/cocol-q5139783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5139783",
+    "themealdb": null
+  }
+}

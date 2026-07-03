@@ -1,0 +1,24 @@
+{
+  "id": "Q518108",
+  "name": "egg barley",
+  "description": "type of egg-based pasta",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine",
+    "Slovak cuisine",
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/egg-barley-q518108/egg-barley-q518108-1.jpg",
+    "images/egg-barley-q518108/egg-barley-q518108-2.jpg",
+    "images/egg-barley-q518108/egg-barley-q518108-3.jpg",
+    "images/egg-barley-q518108/egg-barley-q518108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q518108",
+    "themealdb": null
+  }
+}

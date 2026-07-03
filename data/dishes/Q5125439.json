@@ -1,0 +1,18 @@
+{
+  "id": "Q5125439",
+  "name": "clam sauce",
+  "description": "pasta sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clam-sauce-q5125439/clam-sauce-q5125439-1.jpg",
+    "images/clam-sauce-q5125439/clam-sauce-q5125439-2.jpg",
+    "images/clam-sauce-q5125439/clam-sauce-q5125439-3.jpg",
+    "images/clam-sauce-q5125439/clam-sauce-q5125439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5125439",
+    "themealdb": null
+  }
+}

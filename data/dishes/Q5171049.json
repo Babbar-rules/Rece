@@ -1,0 +1,20 @@
+{
+  "id": "Q5171049",
+  "name": "corn crab soup",
+  "description": "Chinese soup of corn and crab meat",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-crab-soup-q5171049/corn-crab-soup-q5171049-1.jpg",
+    "images/corn-crab-soup-q5171049/corn-crab-soup-q5171049-2.jpg",
+    "images/corn-crab-soup-q5171049/corn-crab-soup-q5171049-3.jpg",
+    "images/corn-crab-soup-q5171049/corn-crab-soup-q5171049-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5171049",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5167072",
+  "name": "Cookie Cake Pie",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cookie-cake-pie-q5167072/cookie-cake-pie-q5167072-1.jpg",
+    "images/cookie-cake-pie-q5167072/cookie-cake-pie-q5167072-2.jpg",
+    "images/cookie-cake-pie-q5167072/cookie-cake-pie-q5167072-3.jpg",
+    "images/cookie-cake-pie-q5167072/cookie-cake-pie-q5167072-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5167072",
+    "themealdb": null
+  }
+}

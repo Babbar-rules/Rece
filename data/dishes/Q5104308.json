@@ -1,0 +1,15 @@
+{
+  "id": "Q5104308",
+  "name": "Cholermus",
+  "description": "traditional dish from Switzerland",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5104308",
+    "themealdb": null
+  }
+}

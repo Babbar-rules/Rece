@@ -1,0 +1,20 @@
+{
+  "id": "Q5100943",
+  "name": "Chinese steamed eggs",
+  "description": "Chinese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chinese-steamed-eggs-q5100943/chinese-steamed-eggs-q5100943-1.jpg",
+    "images/chinese-steamed-eggs-q5100943/chinese-steamed-eggs-q5100943-2.jpg",
+    "images/chinese-steamed-eggs-q5100943/chinese-steamed-eggs-q5100943-3.jpg",
+    "images/chinese-steamed-eggs-q5100943/chinese-steamed-eggs-q5100943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5100943",
+    "themealdb": null
+  }
+}

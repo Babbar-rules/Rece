@@ -1,0 +1,20 @@
+{
+  "id": "Q5119519",
+  "name": "cider doughnut",
+  "description": "type of doughnut",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cider-doughnut-q5119519/cider-doughnut-q5119519-1.jpg",
+    "images/cider-doughnut-q5119519/cider-doughnut-q5119519-2.jpg",
+    "images/cider-doughnut-q5119519/cider-doughnut-q5119519-3.jpg",
+    "images/cider-doughnut-q5119519/cider-doughnut-q5119519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5119519",
+    "themealdb": null
+  }
+}

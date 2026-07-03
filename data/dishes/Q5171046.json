@@ -1,0 +1,20 @@
+{
+  "id": "Q5171046",
+  "name": "corn cookie",
+  "description": "baked good made from corn, often sweet",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-cookie-q5171046/corn-cookie-q5171046-1.jpg",
+    "images/corn-cookie-q5171046/corn-cookie-q5171046-2.jpg",
+    "images/corn-cookie-q5171046/corn-cookie-q5171046-3.jpg",
+    "images/corn-cookie-q5171046/corn-cookie-q5171046-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5171046",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5183356",
+  "name": "Cream Stew",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-stew-q5183356/cream-stew-q5183356-1.jpg",
+    "images/cream-stew-q5183356/cream-stew-q5183356-2.jpg",
+    "images/cream-stew-q5183356/cream-stew-q5183356-3.jpg",
+    "images/cream-stew-q5183356/cream-stew-q5183356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5183356",
+    "themealdb": null
+  }
+}

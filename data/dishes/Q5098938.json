@@ -1,0 +1,20 @@
+{
+  "id": "Q5098938",
+  "name": "chili burger",
+  "description": "hamburger, with the patty topped with chili con carne",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chili-burger-q5098938/chili-burger-q5098938-1.jpg",
+    "images/chili-burger-q5098938/chili-burger-q5098938-2.jpg",
+    "images/chili-burger-q5098938/chili-burger-q5098938-3.jpg",
+    "images/chili-burger-q5098938/chili-burger-q5098938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5098938",
+    "themealdb": null
+  }
+}

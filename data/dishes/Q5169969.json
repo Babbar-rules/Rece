@@ -1,0 +1,18 @@
+{
+  "id": "Q5169969",
+  "name": "cordial",
+  "description": "type of confection in which a fruit filling is placed within a chocolate shell",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cordial-q5169969/cordial-q5169969-1.jpg",
+    "images/cordial-q5169969/cordial-q5169969-2.jpg",
+    "images/cordial-q5169969/cordial-q5169969-3.jpg",
+    "images/cordial-q5169969/cordial-q5169969-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5169969",
+    "themealdb": null
+  }
+}

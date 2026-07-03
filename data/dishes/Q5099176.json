@@ -1,0 +1,18 @@
+{
+  "id": "Q5099176",
+  "name": "Chilorio",
+  "description": "Mexican pork dish from state of Sinaloa",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chilorio-q5099176/chilorio-q5099176-1.jpg",
+    "images/chilorio-q5099176/chilorio-q5099176-2.jpg",
+    "images/chilorio-q5099176/chilorio-q5099176-3.jpg",
+    "images/chilorio-q5099176/chilorio-q5099176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5099176",
+    "themealdb": null
+  }
+}

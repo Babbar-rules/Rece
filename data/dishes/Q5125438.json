@@ -1,0 +1,18 @@
+{
+  "id": "Q5125438",
+  "name": "clam liquor",
+  "description": "liquid released during the cooking of clams",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clam-liquor-q5125438/clam-liquor-q5125438-1.jpg",
+    "images/clam-liquor-q5125438/clam-liquor-q5125438-2.png",
+    "images/clam-liquor-q5125438/clam-liquor-q5125438-3.jpg",
+    "images/clam-liquor-q5125438/clam-liquor-q5125438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5125438",
+    "themealdb": null
+  }
+}

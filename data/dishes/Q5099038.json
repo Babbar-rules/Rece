@@ -1,0 +1,20 @@
+{
+  "id": "Q5099038",
+  "name": "Chilli chicken",
+  "description": "indo-Chinese dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chilli-chicken-q5099038/chilli-chicken-q5099038-1.jpg",
+    "images/chilli-chicken-q5099038/chilli-chicken-q5099038-2.jpg",
+    "images/chilli-chicken-q5099038/chilli-chicken-q5099038-3.jpg",
+    "images/chilli-chicken-q5099038/chilli-chicken-q5099038-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5099038",
+    "themealdb": null
+  }
+}

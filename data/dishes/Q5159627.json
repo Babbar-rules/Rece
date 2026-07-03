@@ -1,0 +1,18 @@
+{
+  "id": "Q5159627",
+  "name": "confection",
+  "description": "elaborate sweets or baked goods",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/confection-q5159627/confection-q5159627-1.jpg",
+    "images/confection-q5159627/confection-q5159627-2.jpg",
+    "images/confection-q5159627/confection-q5159627-3.jpg",
+    "images/confection-q5159627/confection-q5159627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5159627",
+    "themealdb": null
+  }
+}

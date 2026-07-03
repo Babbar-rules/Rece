@@ -1,0 +1,20 @@
+{
+  "id": "Q5117388",
+  "name": "soto",
+  "description": "Indonesian soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soto-q5117388/soto-q5117388-1.jpg",
+    "images/soto-q5117388/soto-q5117388-2.png",
+    "images/soto-q5117388/soto-q5117388-3.jpg",
+    "images/soto-q5117388/soto-q5117388-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5117388",
+    "themealdb": null
+  }
+}

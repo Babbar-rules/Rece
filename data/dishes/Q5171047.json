@@ -1,0 +1,20 @@
+{
+  "id": "Q5171047",
+  "name": "corn chowder",
+  "description": "creamy corn soup from the United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corn-chowder-q5171047/corn-chowder-q5171047-1.jpg",
+    "images/corn-chowder-q5171047/corn-chowder-q5171047-2.jpg",
+    "images/corn-chowder-q5171047/corn-chowder-q5171047-3.jpg",
+    "images/corn-chowder-q5171047/corn-chowder-q5171047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5171047",
+    "themealdb": null
+  }
+}

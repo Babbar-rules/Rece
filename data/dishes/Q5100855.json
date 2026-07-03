@@ -1,0 +1,18 @@
+{
+  "id": "Q5100855",
+  "name": "Chinese pancake",
+  "description": "wheat flour-based Chinese food with a flattened or disk-like shape",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chinese-pancake-q5100855/chinese-pancake-q5100855-1.jpg",
+    "images/chinese-pancake-q5100855/chinese-pancake-q5100855-2.jpg",
+    "images/chinese-pancake-q5100855/chinese-pancake-q5100855-3.jpg",
+    "images/chinese-pancake-q5100855/chinese-pancake-q5100855-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5100855",
+    "themealdb": null
+  }
+}

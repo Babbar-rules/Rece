@@ -1,0 +1,26 @@
+{
+  "id": "Q510666",
+  "name": "nasi goreng",
+  "description": "Malay, Javanese and Chinese Southeast Asia fried rice",
+  "nationality": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "region_cuisine": [
+    "Suriname cuisine",
+    "Indonesian cuisine",
+    "Malaysian cuisine",
+    "Singaporean cuisine"
+  ],
+  "images": [
+    "images/nasi-goreng-q510666/nasi-goreng-q510666-1.jpg",
+    "images/nasi-goreng-q510666/nasi-goreng-q510666-2.jpg",
+    "images/nasi-goreng-q510666/nasi-goreng-q510666-3.jpg",
+    "images/nasi-goreng-q510666/nasi-goreng-q510666-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q510666",
+    "themealdb": null
+  }
+}

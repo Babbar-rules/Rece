@@ -1,0 +1,18 @@
+{
+  "id": "Q5175921",
+  "name": "coo-coo",
+  "description": "caribbean dish of cornmeal and okra",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coo-coo-q5175921/coo-coo-q5175921-1.jpg",
+    "images/coo-coo-q5175921/coo-coo-q5175921-2.jpg",
+    "images/coo-coo-q5175921/coo-coo-q5175921-3.jpg",
+    "images/coo-coo-q5175921/coo-coo-q5175921-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5175921",
+    "themealdb": null
+  }
+}

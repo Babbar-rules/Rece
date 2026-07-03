@@ -1,0 +1,20 @@
+{
+  "id": "Q5120184",
+  "name": "Cincalok",
+  "description": "Malay shrimp condiment",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cincalok-q5120184/cincalok-q5120184-1.jpg",
+    "images/cincalok-q5120184/cincalok-q5120184-2.jpg",
+    "images/cincalok-q5120184/cincalok-q5120184-3.jpg",
+    "images/cincalok-q5120184/cincalok-q5120184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5120184",
+    "themealdb": null
+  }
+}

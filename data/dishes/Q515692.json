@@ -1,0 +1,22 @@
+{
+  "id": "Q515692",
+  "name": "pozole",
+  "description": "Mexican hominy and meat soup",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/pozole-q515692/pozole-q515692-1.jpg",
+    "images/pozole-q515692/pozole-q515692-2.jpg",
+    "images/pozole-q515692/pozole-q515692-3.jpg",
+    "images/pozole-q515692/pozole-q515692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q515692",
+    "themealdb": null
+  }
+}

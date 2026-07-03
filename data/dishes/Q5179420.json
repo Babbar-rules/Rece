@@ -1,0 +1,15 @@
+{
+  "id": "Q5179420",
+  "name": "Cow cod soup",
+  "description": "type of soup",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5179420",
+    "themealdb": null
+  }
+}

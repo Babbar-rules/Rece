@@ -1,0 +1,20 @@
+{
+  "id": "Q5167105",
+  "name": "Cookie salad",
+  "description": "Type of dessert salad",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cookie-salad-q5167105/cookie-salad-q5167105-1.jpg",
+    "images/cookie-salad-q5167105/cookie-salad-q5167105-2.jpg",
+    "images/cookie-salad-q5167105/cookie-salad-q5167105-3.jpg",
+    "images/cookie-salad-q5167105/cookie-salad-q5167105-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5167105",
+    "themealdb": null
+  }
+}

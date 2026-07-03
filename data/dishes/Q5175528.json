@@ -1,0 +1,20 @@
+{
+  "id": "Q5175528",
+  "name": "Cottage Pudding",
+  "description": "dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cottage-pudding-q5175528/cottage-pudding-q5175528-1.jpg",
+    "images/cottage-pudding-q5175528/cottage-pudding-q5175528-2.jpg",
+    "images/cottage-pudding-q5175528/cottage-pudding-q5175528-3.jpg",
+    "images/cottage-pudding-q5175528/cottage-pudding-q5175528-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5175528",
+    "themealdb": null
+  }
+}

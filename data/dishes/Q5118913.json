@@ -1,0 +1,20 @@
+{
+  "id": "Q5118913",
+  "name": "Chè bà ba",
+  "description": "Vietnamese dessert",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/che-ba-ba-q5118913/che-ba-ba-q5118913-1.jpg",
+    "images/che-ba-ba-q5118913/che-ba-ba-q5118913-2.jpg",
+    "images/che-ba-ba-q5118913/che-ba-ba-q5118913-3.jpg",
+    "images/che-ba-ba-q5118913/che-ba-ba-q5118913-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5118913",
+    "themealdb": null
+  }
+}

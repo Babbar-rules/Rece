@@ -1,0 +1,20 @@
+{
+  "id": "Q5103652",
+  "name": "Chocolate chip cookie dough ice cream",
+  "description": "ice cream flavor",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-chip-cookie-dough-ice-cream-q5103652/chocolate-chip-cookie-dough-ice-cream-q5103652-1.jpg",
+    "images/chocolate-chip-cookie-dough-ice-cream-q5103652/chocolate-chip-cookie-dough-ice-cream-q5103652-2.jpg",
+    "images/chocolate-chip-cookie-dough-ice-cream-q5103652/chocolate-chip-cookie-dough-ice-cream-q5103652-3.jpg",
+    "images/chocolate-chip-cookie-dough-ice-cream-q5103652/chocolate-chip-cookie-dough-ice-cream-q5103652-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103652",
+    "themealdb": null
+  }
+}

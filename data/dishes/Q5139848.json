@@ -1,0 +1,20 @@
+{
+  "id": "Q5139848",
+  "name": "Coconut doughnut",
+  "description": "Type of doughnut in the United States and Canada",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-doughnut-q5139848/coconut-doughnut-q5139848-1.jpg",
+    "images/coconut-doughnut-q5139848/coconut-doughnut-q5139848-2.jpg",
+    "images/coconut-doughnut-q5139848/coconut-doughnut-q5139848-3.jpg",
+    "images/coconut-doughnut-q5139848/coconut-doughnut-q5139848-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5139848",
+    "themealdb": null
+  }
+}

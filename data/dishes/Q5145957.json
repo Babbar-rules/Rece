@@ -1,0 +1,19 @@
+{
+  "id": "Q5145957",
+  "name": "Collard liquor",
+  "description": "liquid remaining after boiling greens",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/collard-liquor-q5145957/collard-liquor-q5145957-1.jpg",
+    "images/collard-liquor-q5145957/collard-liquor-q5145957-2.jpg",
+    "images/collard-liquor-q5145957/collard-liquor-q5145957-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5145957",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5103669",
+  "name": "chocolate tart",
+  "description": "dark chocolate dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-tart-q5103669/chocolate-tart-q5103669-1.jpg",
+    "images/chocolate-tart-q5103669/chocolate-tart-q5103669-2.jpg",
+    "images/chocolate-tart-q5103669/chocolate-tart-q5103669-3.jpg",
+    "images/chocolate-tart-q5103669/chocolate-tart-q5103669-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103669",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5139863",
+  "name": "coconut rice",
+  "description": "coconut-flavoured rice",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-rice-q5139863/coconut-rice-q5139863-1.jpg",
+    "images/coconut-rice-q5139863/coconut-rice-q5139863-2.jpg",
+    "images/coconut-rice-q5139863/coconut-rice-q5139863-3.jpg",
+    "images/coconut-rice-q5139863/coconut-rice-q5139863-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5139863",
+    "themealdb": null
+  }
+}

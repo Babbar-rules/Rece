@@ -1,0 +1,20 @@
+{
+  "id": "Q5180300",
+  "name": "Crachi",
+  "description": "chocolate bar",
+  "nationality": [
+    "Dominican Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crachi-q5180300/crachi-q5180300-1.jpg",
+    "images/crachi-q5180300/crachi-q5180300-2.jpg",
+    "images/crachi-q5180300/crachi-q5180300-3.jpg",
+    "images/crachi-q5180300/crachi-q5180300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5180300",
+    "themealdb": null
+  }
+}

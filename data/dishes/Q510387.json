@@ -1,0 +1,20 @@
+{
+  "id": "Q510387",
+  "name": "faggot",
+  "description": "traditional dish in the UK",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/faggot-q510387/faggot-q510387-1.jpg",
+    "images/faggot-q510387/faggot-q510387-2.jpg",
+    "images/faggot-q510387/faggot-q510387-3.jpg",
+    "images/faggot-q510387/faggot-q510387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q510387",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q516212",
+  "name": "Strammer Max",
+  "description": "traditional name applied to various sandwich dishes in German cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strammer-max-q516212/strammer-max-q516212-1.jpg",
+    "images/strammer-max-q516212/strammer-max-q516212-2.jpg",
+    "images/strammer-max-q516212/strammer-max-q516212-3.jpg",
+    "images/strammer-max-q516212/strammer-max-q516212-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q516212",
+    "themealdb": null
+  }
+}

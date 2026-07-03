@@ -1,0 +1,20 @@
+{
+  "id": "Q5120346",
+  "name": "Cincinnati chili",
+  "description": "spiced meat sauce used as a topping for spaghetti",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cincinnati-chili-q5120346/cincinnati-chili-q5120346-1.jpg",
+    "images/cincinnati-chili-q5120346/cincinnati-chili-q5120346-2.jpg",
+    "images/cincinnati-chili-q5120346/cincinnati-chili-q5120346-3.jpg",
+    "images/cincinnati-chili-q5120346/cincinnati-chili-q5120346-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5120346",
+    "themealdb": null
+  }
+}

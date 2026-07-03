@@ -1,0 +1,21 @@
+{
+  "id": "Q51127905",
+  "name": "spaghetti alla Nerano",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/spaghetti-alla-nerano-q51127905/spaghetti-alla-nerano-q51127905-1.jpg",
+    "images/spaghetti-alla-nerano-q51127905/spaghetti-alla-nerano-q51127905-2.jpg",
+    "images/spaghetti-alla-nerano-q51127905/spaghetti-alla-nerano-q51127905-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q51127905",
+    "themealdb": null
+  }
+}

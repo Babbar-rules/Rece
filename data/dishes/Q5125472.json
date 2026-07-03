@@ -1,0 +1,20 @@
+{
+  "id": "Q5125472",
+  "name": "clams casino",
+  "description": "clam dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/clams-casino-q5125472/clams-casino-q5125472-1.jpg",
+    "images/clams-casino-q5125472/clams-casino-q5125472-2.png",
+    "images/clams-casino-q5125472/clams-casino-q5125472-3.jpg",
+    "images/clams-casino-q5125472/clams-casino-q5125472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5125472",
+    "themealdb": null
+  }
+}

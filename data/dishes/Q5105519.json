@@ -1,0 +1,20 @@
+{
+  "id": "Q5105519",
+  "name": "chow mein sandwich",
+  "description": "regional sandwich of Fall River, Massachusetts",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chow-mein-sandwich-q5105519/chow-mein-sandwich-q5105519-1.jpg",
+    "images/chow-mein-sandwich-q5105519/chow-mein-sandwich-q5105519-2.jpg",
+    "images/chow-mein-sandwich-q5105519/chow-mein-sandwich-q5105519-3.jpg",
+    "images/chow-mein-sandwich-q5105519/chow-mein-sandwich-q5105519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5105519",
+    "themealdb": null
+  }
+}

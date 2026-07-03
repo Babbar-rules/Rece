@@ -1,0 +1,20 @@
+{
+  "id": "Q510521",
+  "name": "balushahi",
+  "description": "South Asian donuts",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balushahi-q510521/balushahi-q510521-1.jpg",
+    "images/balushahi-q510521/balushahi-q510521-2.jpg",
+    "images/balushahi-q510521/balushahi-q510521-3.jpg",
+    "images/balushahi-q510521/balushahi-q510521-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q510521",
+    "themealdb": null
+  }
+}

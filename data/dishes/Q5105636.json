@@ -1,0 +1,17 @@
+{
+  "id": "Q5105636",
+  "name": "Chremslach",
+  "description": "Jewish holiday food item",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chremslach-q5105636/chremslach-q5105636-1.jpg",
+    "images/chremslach-q5105636/chremslach-q5105636-2.jpg",
+    "images/chremslach-q5105636/chremslach-q5105636-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5105636",
+    "themealdb": null
+  }
+}

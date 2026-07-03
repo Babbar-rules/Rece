@@ -1,0 +1,20 @@
+{
+  "id": "Q5171851",
+  "name": "Cornish fairing",
+  "description": "British ginger biscuit",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cornish-fairing-q5171851/cornish-fairing-q5171851-1.jpg",
+    "images/cornish-fairing-q5171851/cornish-fairing-q5171851-2.jpg",
+    "images/cornish-fairing-q5171851/cornish-fairing-q5171851-3.jpg",
+    "images/cornish-fairing-q5171851/cornish-fairing-q5171851-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5171851",
+    "themealdb": null
+  }
+}

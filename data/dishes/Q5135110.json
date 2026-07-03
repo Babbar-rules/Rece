@@ -1,0 +1,22 @@
+{
+  "id": "Q5135110",
+  "name": "clootie dumpling",
+  "description": "traditional Scottish dessert pudding of flour, breadcrumbs, dried fruit, suet, sugar and spices, wrapped up in a floured cloth and simmered",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [
+    "Scottish cuisine"
+  ],
+  "images": [
+    "images/clootie-dumpling-q5135110/clootie-dumpling-q5135110-1.jpg",
+    "images/clootie-dumpling-q5135110/clootie-dumpling-q5135110-2.jpg",
+    "images/clootie-dumpling-q5135110/clootie-dumpling-q5135110-3.jpg",
+    "images/clootie-dumpling-q5135110/clootie-dumpling-q5135110-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5135110",
+    "themealdb": null
+  }
+}

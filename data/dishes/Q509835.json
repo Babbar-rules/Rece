@@ -1,0 +1,20 @@
+{
+  "id": "Q509835",
+  "name": "Sushki",
+  "description": "food",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sushki-q509835/sushki-q509835-1.jpg",
+    "images/sushki-q509835/sushki-q509835-2.jpg",
+    "images/sushki-q509835/sushki-q509835-3.jpg",
+    "images/sushki-q509835/sushki-q509835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q509835",
+    "themealdb": null
+  }
+}

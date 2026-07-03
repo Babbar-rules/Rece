@@ -1,0 +1,20 @@
+{
+  "id": "Q514467",
+  "name": "breadstick",
+  "description": "Italian bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/breadstick-q514467/breadstick-q514467-1.jpg",
+    "images/breadstick-q514467/breadstick-q514467-2.jpg",
+    "images/breadstick-q514467/breadstick-q514467-3.jpg",
+    "images/breadstick-q514467/breadstick-q514467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q514467",
+    "themealdb": null
+  }
+}

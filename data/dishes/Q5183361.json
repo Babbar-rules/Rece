@@ -1,0 +1,18 @@
+{
+  "id": "Q5183361",
+  "name": "Cream horn",
+  "description": "Pastry filled with whipped cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-horn-q5183361/cream-horn-q5183361-1.jpg",
+    "images/cream-horn-q5183361/cream-horn-q5183361-2.jpg",
+    "images/cream-horn-q5183361/cream-horn-q5183361-3.jpg",
+    "images/cream-horn-q5183361/cream-horn-q5183361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5183361",
+    "themealdb": null
+  }
+}

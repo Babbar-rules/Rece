@@ -1,0 +1,22 @@
+{
+  "id": "Q5162437",
+  "name": "Serabi",
+  "description": "Indonesian traditional of rice pancake",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/serabi-q5162437/serabi-q5162437-1.jpg",
+    "images/serabi-q5162437/serabi-q5162437-2.jpg",
+    "images/serabi-q5162437/serabi-q5162437-3.jpg",
+    "images/serabi-q5162437/serabi-q5162437-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5162437",
+    "themealdb": null
+  }
+}

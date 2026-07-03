@@ -1,0 +1,20 @@
+{
+  "id": "Q5104232",
+  "name": "Chokito",
+  "description": "Brand of chocolate bar",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chokito-q5104232/chokito-q5104232-1.jpg",
+    "images/chokito-q5104232/chokito-q5104232-2.jpg",
+    "images/chokito-q5104232/chokito-q5104232-3.jpg",
+    "images/chokito-q5104232/chokito-q5104232-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5104232",
+    "themealdb": null
+  }
+}

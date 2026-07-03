@@ -1,0 +1,19 @@
+{
+  "id": "Q5097538",
+  "name": "Chikuzenni",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chikuzenni-q5097538/chikuzenni-q5097538-1.jpg",
+    "images/chikuzenni-q5097538/chikuzenni-q5097538-2.jpg",
+    "images/chikuzenni-q5097538/chikuzenni-q5097538-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5097538",
+    "themealdb": null
+  }
+}

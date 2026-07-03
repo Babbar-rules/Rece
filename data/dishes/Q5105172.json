@@ -1,0 +1,20 @@
+{
+  "id": "Q5105172",
+  "name": "Chorley cake",
+  "description": "flattened, fruit filled pastry cake",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chorley-cake-q5105172/chorley-cake-q5105172-1.jpg",
+    "images/chorley-cake-q5105172/chorley-cake-q5105172-2.jpg",
+    "images/chorley-cake-q5105172/chorley-cake-q5105172-3.jpg",
+    "images/chorley-cake-q5105172/chorley-cake-q5105172-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5105172",
+    "themealdb": null
+  }
+}

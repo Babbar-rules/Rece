@@ -1,0 +1,18 @@
+{
+  "id": "Q5178059",
+  "name": "Couque suisse",
+  "description": "Belgian sweet pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/couque-suisse-q5178059/couque-suisse-q5178059-1.jpg",
+    "images/couque-suisse-q5178059/couque-suisse-q5178059-2.jpg",
+    "images/couque-suisse-q5178059/couque-suisse-q5178059-3.jpg",
+    "images/couque-suisse-q5178059/couque-suisse-q5178059-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5178059",
+    "themealdb": null
+  }
+}

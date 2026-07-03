@@ -1,0 +1,20 @@
+{
+  "id": "Q5179571",
+  "name": "Cowboy beans",
+  "description": "popular dish in southwestern USA",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cowboy-beans-q5179571/cowboy-beans-q5179571-1.jpg",
+    "images/cowboy-beans-q5179571/cowboy-beans-q5179571-2.jpg",
+    "images/cowboy-beans-q5179571/cowboy-beans-q5179571-3.jpg",
+    "images/cowboy-beans-q5179571/cowboy-beans-q5179571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5179571",
+    "themealdb": null
+  }
+}

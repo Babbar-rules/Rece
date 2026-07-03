@@ -1,0 +1,20 @@
+{
+  "id": "Q5103667",
+  "name": "chocolate sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-sandwich-q5103667/chocolate-sandwich-q5103667-1.jpg",
+    "images/chocolate-sandwich-q5103667/chocolate-sandwich-q5103667-2.jpg",
+    "images/chocolate-sandwich-q5103667/chocolate-sandwich-q5103667-3.jpg",
+    "images/chocolate-sandwich-q5103667/chocolate-sandwich-q5103667-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103667",
+    "themealdb": null
+  }
+}

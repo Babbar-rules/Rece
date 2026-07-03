@@ -1,0 +1,20 @@
+{
+  "id": "Q5101736",
+  "name": "Chips Ahoy!",
+  "description": "chocolate chip cookie brand",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chips-ahoy-q5101736/chips-ahoy-q5101736-1.jpg",
+    "images/chips-ahoy-q5101736/chips-ahoy-q5101736-2.jpg",
+    "images/chips-ahoy-q5101736/chips-ahoy-q5101736-3.png",
+    "images/chips-ahoy-q5101736/chips-ahoy-q5101736-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5101736",
+    "themealdb": null
+  }
+}

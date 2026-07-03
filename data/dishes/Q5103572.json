@@ -1,0 +1,20 @@
+{
+  "id": "Q5103572",
+  "name": "Choco Panda",
+  "description": "ice cream brand",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/choco-panda-q5103572/choco-panda-q5103572-1.jpg",
+    "images/choco-panda-q5103572/choco-panda-q5103572-2.jpg",
+    "images/choco-panda-q5103572/choco-panda-q5103572-3.jpg",
+    "images/choco-panda-q5103572/choco-panda-q5103572-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103572",
+    "themealdb": null
+  }
+}

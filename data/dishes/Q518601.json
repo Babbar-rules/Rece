@@ -1,0 +1,20 @@
+{
+  "id": "Q518601",
+  "name": "kūčiukai",
+  "description": "small round crunchy biscuits made from wheat flour, poppy seeds, sugar",
+  "nationality": [
+    "Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuciukai-q518601/kuciukai-q518601-1.jpg",
+    "images/kuciukai-q518601/kuciukai-q518601-2.jpg",
+    "images/kuciukai-q518601/kuciukai-q518601-3.jpg",
+    "images/kuciukai-q518601/kuciukai-q518601-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q518601",
+    "themealdb": null
+  }
+}

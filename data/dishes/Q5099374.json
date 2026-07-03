@@ -1,0 +1,20 @@
+{
+  "id": "Q5099374",
+  "name": "chimichurri burger",
+  "description": "traditional snack dish (sandwich) served in the Dominican Republic",
+  "nationality": [
+    "Dominican Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chimichurri-burger-q5099374/chimichurri-burger-q5099374-1.jpg",
+    "images/chimichurri-burger-q5099374/chimichurri-burger-q5099374-2.jpg",
+    "images/chimichurri-burger-q5099374/chimichurri-burger-q5099374-3.jpg",
+    "images/chimichurri-burger-q5099374/chimichurri-burger-q5099374-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5099374",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5175547",
+  "name": "cottage loaf",
+  "description": "type of bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cottage-loaf-q5175547/cottage-loaf-q5175547-1.jpg",
+    "images/cottage-loaf-q5175547/cottage-loaf-q5175547-2.jpg",
+    "images/cottage-loaf-q5175547/cottage-loaf-q5175547-3.jpg",
+    "images/cottage-loaf-q5175547/cottage-loaf-q5175547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5175547",
+    "themealdb": null
+  }
+}

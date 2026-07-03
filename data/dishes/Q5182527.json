@@ -1,0 +1,20 @@
+{
+  "id": "Q5182527",
+  "name": "Craster kipper",
+  "description": "esteemed smoked herring of Craster, England",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/craster-kipper-q5182527/craster-kipper-q5182527-1.jpg",
+    "images/craster-kipper-q5182527/craster-kipper-q5182527-2.jpg",
+    "images/craster-kipper-q5182527/craster-kipper-q5182527-3.jpg",
+    "images/craster-kipper-q5182527/craster-kipper-q5182527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5182527",
+    "themealdb": null
+  }
+}

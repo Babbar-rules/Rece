@@ -1,0 +1,22 @@
+{
+  "id": "Q5125440",
+  "name": "clam cake",
+  "description": "seafood dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of New England"
+  ],
+  "images": [
+    "images/clam-cake-q5125440/clam-cake-q5125440-1.jpg",
+    "images/clam-cake-q5125440/clam-cake-q5125440-2.jpg",
+    "images/clam-cake-q5125440/clam-cake-q5125440-3.jpg",
+    "images/clam-cake-q5125440/clam-cake-q5125440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5125440",
+    "themealdb": null
+  }
+}

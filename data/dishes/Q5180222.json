@@ -1,0 +1,22 @@
+{
+  "id": "Q5180222",
+  "name": "Crab Louie",
+  "description": "type of salad featuring crab meat, originating from the U.S. west coast in the early 1900s",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the Western United States"
+  ],
+  "images": [
+    "images/crab-louie-q5180222/crab-louie-q5180222-1.jpg",
+    "images/crab-louie-q5180222/crab-louie-q5180222-2.jpg",
+    "images/crab-louie-q5180222/crab-louie-q5180222-3.jpg",
+    "images/crab-louie-q5180222/crab-louie-q5180222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5180222",
+    "themealdb": null
+  }
+}

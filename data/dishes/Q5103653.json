@@ -1,0 +1,20 @@
+{
+  "id": "Q5103653",
+  "name": "chocolate fish",
+  "description": "Confectionary popular in New Zealand",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-fish-q5103653/chocolate-fish-q5103653-1.jpg",
+    "images/chocolate-fish-q5103653/chocolate-fish-q5103653-2.jpg",
+    "images/chocolate-fish-q5103653/chocolate-fish-q5103653-3.jpg",
+    "images/chocolate-fish-q5103653/chocolate-fish-q5103653-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103653",
+    "themealdb": null
+  }
+}

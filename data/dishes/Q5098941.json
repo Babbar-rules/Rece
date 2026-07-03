@@ -1,0 +1,20 @@
+{
+  "id": "Q5098941",
+  "name": "chili dog",
+  "description": "hot dog with chili sauce",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chili-dog-q5098941/chili-dog-q5098941-1.jpg",
+    "images/chili-dog-q5098941/chili-dog-q5098941-2.jpg",
+    "images/chili-dog-q5098941/chili-dog-q5098941-3.jpg",
+    "images/chili-dog-q5098941/chili-dog-q5098941-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5098941",
+    "themealdb": null
+  }
+}

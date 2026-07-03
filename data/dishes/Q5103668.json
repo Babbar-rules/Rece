@@ -1,0 +1,18 @@
+{
+  "id": "Q5103668",
+  "name": "chocolate pudding",
+  "description": "class of desserts with chocolate flavors",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-pudding-q5103668/chocolate-pudding-q5103668-1.jpg",
+    "images/chocolate-pudding-q5103668/chocolate-pudding-q5103668-2.jpg",
+    "images/chocolate-pudding-q5103668/chocolate-pudding-q5103668-3.jpg",
+    "images/chocolate-pudding-q5103668/chocolate-pudding-q5103668-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103668",
+    "themealdb": null
+  }
+}

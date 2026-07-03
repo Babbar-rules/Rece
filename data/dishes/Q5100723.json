@@ -1,0 +1,20 @@
+{
+  "id": "Q5100723",
+  "name": "Chinese chicken salad",
+  "description": "U.S. salad with chopped chicken, romaine lettuce and cabbage, deep-fried wonton skins or rice vermicelli, nuts (sliced almonds, cashews or peanuts), with a vinaigrette of vegetable oil, sesame oil, and rice vinegar (or citrus juice)",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chinese-chicken-salad-q5100723/chinese-chicken-salad-q5100723-1.jpg",
+    "images/chinese-chicken-salad-q5100723/chinese-chicken-salad-q5100723-2.jpg",
+    "images/chinese-chicken-salad-q5100723/chinese-chicken-salad-q5100723-3.jpg",
+    "images/chinese-chicken-salad-q5100723/chinese-chicken-salad-q5100723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5100723",
+    "themealdb": null
+  }
+}

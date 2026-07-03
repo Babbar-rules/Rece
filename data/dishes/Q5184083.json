@@ -1,0 +1,18 @@
+{
+  "id": "Q5184083",
+  "name": "Creme de papaya",
+  "description": "Brazilian dessert",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/creme-de-papaya-q5184083/creme-de-papaya-q5184083-1.jpg",
+    "images/creme-de-papaya-q5184083/creme-de-papaya-q5184083-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5184083",
+    "themealdb": null
+  }
+}

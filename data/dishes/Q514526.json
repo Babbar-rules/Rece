@@ -1,0 +1,22 @@
+{
+  "id": "Q514526",
+  "name": "Quarkkäulchen",
+  "description": "potato dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "Saxon cuisine"
+  ],
+  "images": [
+    "images/quarkkaulchen-q514526/quarkkaulchen-q514526-1.jpg",
+    "images/quarkkaulchen-q514526/quarkkaulchen-q514526-2.jpg",
+    "images/quarkkaulchen-q514526/quarkkaulchen-q514526-3.jpg",
+    "images/quarkkaulchen-q514526/quarkkaulchen-q514526-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q514526",
+    "themealdb": null
+  }
+}

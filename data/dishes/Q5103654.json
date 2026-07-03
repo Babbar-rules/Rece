@@ -1,0 +1,20 @@
+{
+  "id": "Q5103654",
+  "name": "Chocolate crackles",
+  "description": "popular children's confection in Australia and New Zealand based on puffed rice",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-crackles-q5103654/chocolate-crackles-q5103654-1.jpg",
+    "images/chocolate-crackles-q5103654/chocolate-crackles-q5103654-2.jpg",
+    "images/chocolate-crackles-q5103654/chocolate-crackles-q5103654-3.jpg",
+    "images/chocolate-crackles-q5103654/chocolate-crackles-q5103654-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5103654",
+    "themealdb": null
+  }
+}

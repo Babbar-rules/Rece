@@ -1,0 +1,20 @@
+{
+  "id": "Q5171114",
+  "name": "corned beef pie",
+  "description": "savoury pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corned-beef-pie-q5171114/corned-beef-pie-q5171114-1.jpg",
+    "images/corned-beef-pie-q5171114/corned-beef-pie-q5171114-2.jpg",
+    "images/corned-beef-pie-q5171114/corned-beef-pie-q5171114-3.jpg",
+    "images/corned-beef-pie-q5171114/corned-beef-pie-q5171114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5171114",
+    "themealdb": null
+  }
+}

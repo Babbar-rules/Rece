@@ -1,0 +1,20 @@
+{
+  "id": "Q5099514",
+  "name": "Chin chin",
+  "description": "snack in Nigeria made from basic combination of flour, milk and sugar",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chin-chin-q5099514/chin-chin-q5099514-1.jpg",
+    "images/chin-chin-q5099514/chin-chin-q5099514-2.jpg",
+    "images/chin-chin-q5099514/chin-chin-q5099514-3.jpg",
+    "images/chin-chin-q5099514/chin-chin-q5099514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5099514",
+    "themealdb": null
+  }
+}
