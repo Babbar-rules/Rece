@@ -1,0 +1,18 @@
+{
+  "id": "Q22124956",
+  "name": "Hanazono Dango",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hanazono-dango-q22124956/hanazono-dango-q22124956-1.jpg",
+    "images/hanazono-dango-q22124956/hanazono-dango-q22124956-2.jpg",
+    "images/hanazono-dango-q22124956/hanazono-dango-q22124956-3.jpg",
+    "images/hanazono-dango-q22124956/hanazono-dango-q22124956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22124956",
+    "themealdb": null
+  }
+}

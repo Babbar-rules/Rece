@@ -1,0 +1,20 @@
+{
+  "id": "Q22077768",
+  "name": "Joe's Special",
+  "description": "American egg, spinach and beef dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/joes-special-q22077768/joes-special-q22077768-1.jpg",
+    "images/joes-special-q22077768/joes-special-q22077768-2.jpg",
+    "images/joes-special-q22077768/joes-special-q22077768-3.jpg",
+    "images/joes-special-q22077768/joes-special-q22077768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22077768",
+    "themealdb": null
+  }
+}

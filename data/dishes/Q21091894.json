@@ -1,0 +1,20 @@
+{
+  "id": "Q21091894",
+  "name": "ramyeon",
+  "description": "Korean instant noodle",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ramyeon-q21091894/ramyeon-q21091894-1.jpg",
+    "images/ramyeon-q21091894/ramyeon-q21091894-2.jpg",
+    "images/ramyeon-q21091894/ramyeon-q21091894-3.jpg",
+    "images/ramyeon-q21091894/ramyeon-q21091894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21091894",
+    "themealdb": null
+  }
+}

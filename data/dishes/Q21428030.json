@@ -1,0 +1,19 @@
+{
+  "id": "Q21428030",
+  "name": "Tarte Bourdaloue",
+  "description": "French pear tarte",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-bourdaloue-q21428030/tarte-bourdaloue-q21428030-1.jpg",
+    "images/tarte-bourdaloue-q21428030/tarte-bourdaloue-q21428030-2.jpg",
+    "images/tarte-bourdaloue-q21428030/tarte-bourdaloue-q21428030-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21428030",
+    "themealdb": null
+  }
+}

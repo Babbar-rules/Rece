@@ -1,0 +1,18 @@
+{
+  "id": "Q22126157",
+  "name": "Coolish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coolish-q22126157/coolish-q22126157-1.jpg",
+    "images/coolish-q22126157/coolish-q22126157-2.jpg",
+    "images/coolish-q22126157/coolish-q22126157-3.jpg",
+    "images/coolish-q22126157/coolish-q22126157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22126157",
+    "themealdb": null
+  }
+}

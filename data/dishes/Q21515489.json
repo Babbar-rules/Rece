@@ -1,0 +1,18 @@
+{
+  "id": "Q21515489",
+  "name": "Muhammar",
+  "description": "traditional dish from Bahrain",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/muhammar-q21515489/muhammar-q21515489-1.jpg",
+    "images/muhammar-q21515489/muhammar-q21515489-2.jpg",
+    "images/muhammar-q21515489/muhammar-q21515489-3.jpg",
+    "images/muhammar-q21515489/muhammar-q21515489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21515489",
+    "themealdb": null
+  }
+}

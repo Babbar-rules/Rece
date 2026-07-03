@@ -1,0 +1,19 @@
+{
+  "id": "Q21994744",
+  "name": "Delimanjoo",
+  "description": "South Korean bread",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "Seoul cuisine"
+  ],
+  "images": [
+    "images/delimanjoo-q21994744/delimanjoo-q21994744-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21994744",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2213650",
+  "name": "kuy teav",
+  "description": "Cambodian noodle soup",
+  "nationality": [
+    "Cambodia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuy-teav-q2213650/kuy-teav-q2213650-1.jpg",
+    "images/kuy-teav-q2213650/kuy-teav-q2213650-2.jpg",
+    "images/kuy-teav-q2213650/kuy-teav-q2213650-3.jpg",
+    "images/kuy-teav-q2213650/kuy-teav-q2213650-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2213650",
+    "themealdb": null
+  }
+}

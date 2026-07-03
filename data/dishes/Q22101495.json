@@ -1,0 +1,18 @@
+{
+  "id": "Q22101495",
+  "name": "Bucket Meal",
+  "description": "brand of KFC",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bucket-meal-q22101495/bucket-meal-q22101495-1.jpg",
+    "images/bucket-meal-q22101495/bucket-meal-q22101495-2.jpg",
+    "images/bucket-meal-q22101495/bucket-meal-q22101495-3.jpg",
+    "images/bucket-meal-q22101495/bucket-meal-q22101495-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22101495",
+    "themealdb": null
+  }
+}

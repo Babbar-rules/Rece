@@ -1,0 +1,18 @@
+{
+  "id": "Q2215889",
+  "name": "fun guo",
+  "description": "Chinese steamed dumplings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fun-guo-q2215889/fun-guo-q2215889-1.jpg",
+    "images/fun-guo-q2215889/fun-guo-q2215889-2.jpg",
+    "images/fun-guo-q2215889/fun-guo-q2215889-3.jpg",
+    "images/fun-guo-q2215889/fun-guo-q2215889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2215889",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q21503641",
+  "name": "fig pie",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fig-pie-q21503641/fig-pie-q21503641-1.jpg",
+    "images/fig-pie-q21503641/fig-pie-q21503641-2.jpg",
+    "images/fig-pie-q21503641/fig-pie-q21503641-3.jpg",
+    "images/fig-pie-q21503641/fig-pie-q21503641-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21503641",
+    "themealdb": null
+  }
+}

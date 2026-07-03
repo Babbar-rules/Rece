@@ -1,0 +1,22 @@
+{
+  "id": "Q2180951",
+  "name": "lekkerbekje",
+  "description": "Dutch batter-fried fish",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dutch cuisine"
+  ],
+  "images": [
+    "images/lekkerbekje-q2180951/lekkerbekje-q2180951-1.jpg",
+    "images/lekkerbekje-q2180951/lekkerbekje-q2180951-2.jpg",
+    "images/lekkerbekje-q2180951/lekkerbekje-q2180951-3.jpg",
+    "images/lekkerbekje-q2180951/lekkerbekje-q2180951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2180951",
+    "themealdb": null
+  }
+}

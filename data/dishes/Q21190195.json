@@ -1,0 +1,17 @@
+{
+  "id": "Q21190195",
+  "name": "prosciutto di Venticano",
+  "description": "Italian prodotto agroalimentare tradizionale ham",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prosciutto-di-venticano-q21190195/prosciutto-di-venticano-q21190195-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21190195",
+    "themealdb": null
+  }
+}

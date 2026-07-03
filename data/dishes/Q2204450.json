@@ -1,0 +1,65 @@
+{
+  "id": "Q2204450",
+  "name": "roti",
+  "description": "South Asian rounded flatbread, characteristically unleavened",
+  "nationality": [
+    "South Asia"
+  ],
+  "region_cuisine": [
+    "South Asian cuisine",
+    "Bengali cuisine"
+  ],
+  "images": [
+    "images/roti-q2204450/roti-q2204450-1.jpg",
+    "images/roti-q2204450/roti-q2204450-2.jpg",
+    "images/roti-q2204450/roti-q2204450-3.jpg",
+    "images/roti-q2204450/roti-q2204450-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53052",
+    "category": "Beef",
+    "area": "Malaysian",
+    "instructions": "Mix all the ingredients in a bowl.\r\nHeat a pan or griddle with a little vegetable oil.\r\nPour the mixture onto the pan and place a piece of open-faced baguette on top.\r\nPress on the bread with a spatula and grill for 2 minutes.\r\nTurn the bread over to make it a little crispy.\r\nRemove from pan and cut the bread into small portions.\r\nAdd mayonnaise and/or Sambal before cutting the sandwich (optional).",
+    "ingredients": [
+      {
+        "ingredient": "Minced Beef",
+        "measure": "1/4 lb"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Chilli",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Baguette",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Mayonnaise",
+        "measure": "Top"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=cl4YH8wblRs",
+    "thumb": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2204450",
+    "themealdb": "53052"
+  }
+}

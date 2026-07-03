@@ -1,0 +1,20 @@
+{
+  "id": "Q22127654",
+  "name": "tataki gobō",
+  "description": "Japanese condiment made with burdock root",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tataki-gobo-q22127654/tataki-gobo-q22127654-1.jpg",
+    "images/tataki-gobo-q22127654/tataki-gobo-q22127654-2.jpg",
+    "images/tataki-gobo-q22127654/tataki-gobo-q22127654-3.jpg",
+    "images/tataki-gobo-q22127654/tataki-gobo-q22127654-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22127654",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q22131217",
+  "name": "Tsuitachi Mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tsuitachi-mochi-q22131217/tsuitachi-mochi-q22131217-1.jpg",
+    "images/tsuitachi-mochi-q22131217/tsuitachi-mochi-q22131217-2.jpg",
+    "images/tsuitachi-mochi-q22131217/tsuitachi-mochi-q22131217-3.jpg",
+    "images/tsuitachi-mochi-q22131217/tsuitachi-mochi-q22131217-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22131217",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q21087825",
+  "name": "Caluk noodles",
+  "description": "Indonesian traditional noodle",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/caluk-noodles-q21087825/caluk-noodles-q21087825-1.jpg",
+    "images/caluk-noodles-q21087825/caluk-noodles-q21087825-2.jpg",
+    "images/caluk-noodles-q21087825/caluk-noodles-q21087825-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21087825",
+    "themealdb": null
+  }
+}

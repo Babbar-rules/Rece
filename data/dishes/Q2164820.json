@@ -1,0 +1,18 @@
+{
+  "id": "Q2164820",
+  "name": "milk chocolate",
+  "description": "type of chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-chocolate-q2164820/milk-chocolate-q2164820-1.jpg",
+    "images/milk-chocolate-q2164820/milk-chocolate-q2164820-2.jpg",
+    "images/milk-chocolate-q2164820/milk-chocolate-q2164820-3.png",
+    "images/milk-chocolate-q2164820/milk-chocolate-q2164820-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2164820",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2216731",
+  "name": "samanu",
+  "description": "wheat dish from Iran and Central Asia",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samanu-q2216731/samanu-q2216731-1.jpg",
+    "images/samanu-q2216731/samanu-q2216731-2.jpg",
+    "images/samanu-q2216731/samanu-q2216731-3.jpg",
+    "images/samanu-q2216731/samanu-q2216731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2216731",
+    "themealdb": null
+  }
+}

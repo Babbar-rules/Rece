@@ -1,0 +1,18 @@
+{
+  "id": "Q22123541",
+  "name": "Asage",
+  "description": "instant miso soup bland",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/asage-q22123541/asage-q22123541-1.jpg",
+    "images/asage-q22123541/asage-q22123541-2.jpg",
+    "images/asage-q22123541/asage-q22123541-3.jpg",
+    "images/asage-q22123541/asage-q22123541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22123541",
+    "themealdb": null
+  }
+}

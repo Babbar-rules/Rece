@@ -1,0 +1,22 @@
+{
+  "id": "Q2125335",
+  "name": "racuchy",
+  "description": "Polish sweet dish",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/racuchy-q2125335/racuchy-q2125335-1.jpg",
+    "images/racuchy-q2125335/racuchy-q2125335-2.jpg",
+    "images/racuchy-q2125335/racuchy-q2125335-3.jpg",
+    "images/racuchy-q2125335/racuchy-q2125335-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2125335",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q21418938",
+  "name": "celery root salad",
+  "description": "Turkish cuisine salad of celery roots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/celery-root-salad-q21418938/celery-root-salad-q21418938-1.jpg",
+    "images/celery-root-salad-q21418938/celery-root-salad-q21418938-2.jpg",
+    "images/celery-root-salad-q21418938/celery-root-salad-q21418938-3.jpg",
+    "images/celery-root-salad-q21418938/celery-root-salad-q21418938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21418938",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q22129488",
+  "name": "Tarajiru",
+  "description": "Japanese pollock soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarajiru-q22129488/tarajiru-q22129488-1.jpg",
+    "images/tarajiru-q22129488/tarajiru-q22129488-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22129488",
+    "themealdb": null
+  }
+}

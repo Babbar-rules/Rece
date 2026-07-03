@@ -1,0 +1,20 @@
+{
+  "id": "Q21809695",
+  "name": "Russisch ei",
+  "description": "type of stuffed eggs",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/russisch-ei-q21809695/russisch-ei-q21809695-1.jpg",
+    "images/russisch-ei-q21809695/russisch-ei-q21809695-2.jpg",
+    "images/russisch-ei-q21809695/russisch-ei-q21809695-3.jpg",
+    "images/russisch-ei-q21809695/russisch-ei-q21809695-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21809695",
+    "themealdb": null
+  }
+}

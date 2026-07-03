@@ -1,0 +1,18 @@
+{
+  "id": "Q2189995",
+  "name": "entremet",
+  "description": "small dish served between courses",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/entremet-q2189995/entremet-q2189995-1.jpg",
+    "images/entremet-q2189995/entremet-q2189995-2.jpg",
+    "images/entremet-q2189995/entremet-q2189995-3.jpg",
+    "images/entremet-q2189995/entremet-q2189995-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2189995",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q22126455",
+  "name": "takiawase",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/takiawase-q22126455/takiawase-q22126455-1.jpg",
+    "images/takiawase-q22126455/takiawase-q22126455-2.jpg",
+    "images/takiawase-q22126455/takiawase-q22126455-3.jpg",
+    "images/takiawase-q22126455/takiawase-q22126455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22126455",
+    "themealdb": null
+  }
+}

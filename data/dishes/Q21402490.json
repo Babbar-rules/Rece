@@ -1,0 +1,15 @@
+{
+  "id": "Q21402490",
+  "name": "balık böreği",
+  "description": "Turkish börek made with fish meat",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21402490",
+    "themealdb": null
+  }
+}

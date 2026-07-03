@@ -1,0 +1,17 @@
+{
+  "id": "Q21588272",
+  "name": "Krantz cake",
+  "description": "Ashkenazi Jewish cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krantz-cake-q21588272/krantz-cake-q21588272-1.jpg",
+    "images/krantz-cake-q21588272/krantz-cake-q21588272-2.jpg",
+    "images/krantz-cake-q21588272/krantz-cake-q21588272-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21588272",
+    "themealdb": null
+  }
+}

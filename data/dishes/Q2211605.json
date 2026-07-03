@@ -1,0 +1,18 @@
+{
+  "id": "Q2211605",
+  "name": "Strooigoed",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strooigoed-q2211605/strooigoed-q2211605-1.jpg",
+    "images/strooigoed-q2211605/strooigoed-q2211605-2.jpg",
+    "images/strooigoed-q2211605/strooigoed-q2211605-3.jpg",
+    "images/strooigoed-q2211605/strooigoed-q2211605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2211605",
+    "themealdb": null
+  }
+}

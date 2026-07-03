@@ -1,0 +1,23 @@
+{
+  "id": "Q21424783",
+  "name": "Rakott krumpli",
+  "description": "Hungarian potato casserole",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine",
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/rakott-krumpli-q21424783/rakott-krumpli-q21424783-1.jpg",
+    "images/rakott-krumpli-q21424783/rakott-krumpli-q21424783-2.jpg",
+    "images/rakott-krumpli-q21424783/rakott-krumpli-q21424783-3.jpg",
+    "images/rakott-krumpli-q21424783/rakott-krumpli-q21424783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21424783",
+    "themealdb": null
+  }
+}

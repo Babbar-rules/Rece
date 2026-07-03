@@ -1,0 +1,20 @@
+{
+  "id": "Q21575383",
+  "name": "German bread",
+  "description": "",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/german-bread-q21575383/german-bread-q21575383-1.jpg",
+    "images/german-bread-q21575383/german-bread-q21575383-2.jpg",
+    "images/german-bread-q21575383/german-bread-q21575383-3.jpg",
+    "images/german-bread-q21575383/german-bread-q21575383-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21575383",
+    "themealdb": null
+  }
+}

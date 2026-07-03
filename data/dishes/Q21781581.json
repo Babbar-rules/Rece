@@ -1,0 +1,20 @@
+{
+  "id": "Q21781581",
+  "name": "Peruvian pollada",
+  "description": "traditional food from Peru",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peruvian-pollada-q21781581/peruvian-pollada-q21781581-1.jpg",
+    "images/peruvian-pollada-q21781581/peruvian-pollada-q21781581-2.jpg",
+    "images/peruvian-pollada-q21781581/peruvian-pollada-q21781581-3.jpg",
+    "images/peruvian-pollada-q21781581/peruvian-pollada-q21781581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21781581",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q2204257",
+  "name": "Liege waffle",
+  "description": "dense, sweet, chewy waffle, native to Wallonia, made with brioche dough with chunks of sugar which caramelize on the outside",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [
+    "cuisine of Belgium"
+  ],
+  "images": [
+    "images/liege-waffle-q2204257/liege-waffle-q2204257-1.jpg",
+    "images/liege-waffle-q2204257/liege-waffle-q2204257-2.jpg",
+    "images/liege-waffle-q2204257/liege-waffle-q2204257-3.jpg",
+    "images/liege-waffle-q2204257/liege-waffle-q2204257-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2204257",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q21196174",
+  "name": "Slinger",
+  "description": "Midwestern diner specialty",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slinger-q21196174/slinger-q21196174-1.jpg",
+    "images/slinger-q21196174/slinger-q21196174-2.jpg",
+    "images/slinger-q21196174/slinger-q21196174-3.jpg",
+    "images/slinger-q21196174/slinger-q21196174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21196174",
+    "themealdb": null
+  }
+}

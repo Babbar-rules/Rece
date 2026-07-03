@@ -1,0 +1,15 @@
+{
+  "id": "Q21651195",
+  "name": "Poule au riz",
+  "description": "French chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poule-au-riz-q21651195/poule-au-riz-q21651195-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21651195",
+    "themealdb": null
+  }
+}

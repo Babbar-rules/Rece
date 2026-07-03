@@ -1,0 +1,20 @@
+{
+  "id": "Q2154527",
+  "name": "Huevos moles",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huevos-moles-q2154527/huevos-moles-q2154527-1.jpeg",
+    "images/huevos-moles-q2154527/huevos-moles-q2154527-2.jpg",
+    "images/huevos-moles-q2154527/huevos-moles-q2154527-3.jpg",
+    "images/huevos-moles-q2154527/huevos-moles-q2154527-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2154527",
+    "themealdb": null
+  }
+}

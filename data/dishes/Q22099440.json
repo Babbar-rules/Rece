@@ -1,0 +1,19 @@
+{
+  "id": "Q22099440",
+  "name": "Har cheong gai",
+  "description": "Singaporean fried chicken",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/har-cheong-gai-q22099440/har-cheong-gai-q22099440-1.jpg",
+    "images/har-cheong-gai-q22099440/har-cheong-gai-q22099440-2.jpg",
+    "images/har-cheong-gai-q22099440/har-cheong-gai-q22099440-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22099440",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2157889",
+  "name": "potato waffle",
+  "description": "mashed potato in grill shape",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-waffle-q2157889/potato-waffle-q2157889-1.jpg",
+    "images/potato-waffle-q2157889/potato-waffle-q2157889-2.jpg",
+    "images/potato-waffle-q2157889/potato-waffle-q2157889-3.jpg",
+    "images/potato-waffle-q2157889/potato-waffle-q2157889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2157889",
+    "themealdb": null
+  }
+}

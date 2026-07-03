@@ -1,0 +1,24 @@
+{
+  "id": "Q220406",
+  "name": "Zopf",
+  "description": "type of Swiss, Austrian, German or Bavarian bread",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Austrian cuisine",
+    "Swiss cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/zopf-q220406/zopf-q220406-1.jpg",
+    "images/zopf-q220406/zopf-q220406-2.jpg",
+    "images/zopf-q220406/zopf-q220406-3.jpg",
+    "images/zopf-q220406/zopf-q220406-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q220406",
+    "themealdb": null
+  }
+}

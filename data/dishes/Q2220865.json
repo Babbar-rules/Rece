@@ -1,0 +1,18 @@
+{
+  "id": "Q2220865",
+  "name": "sand cake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sand-cake-q2220865/sand-cake-q2220865-1.jpg",
+    "images/sand-cake-q2220865/sand-cake-q2220865-2.jpg",
+    "images/sand-cake-q2220865/sand-cake-q2220865-3.png",
+    "images/sand-cake-q2220865/sand-cake-q2220865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2220865",
+    "themealdb": null
+  }
+}

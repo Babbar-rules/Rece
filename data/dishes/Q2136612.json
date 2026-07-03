@@ -1,0 +1,18 @@
+{
+  "id": "Q2136612",
+  "name": "Reese's Peanut Butter Cups",
+  "description": "brand of peanut butter cups",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reeses-peanut-butter-cups-q2136612/reeses-peanut-butter-cups-q2136612-1.png",
+    "images/reeses-peanut-butter-cups-q2136612/reeses-peanut-butter-cups-q2136612-2.jpg",
+    "images/reeses-peanut-butter-cups-q2136612/reeses-peanut-butter-cups-q2136612-3.jpg",
+    "images/reeses-peanut-butter-cups-q2136612/reeses-peanut-butter-cups-q2136612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2136612",
+    "themealdb": null
+  }
+}

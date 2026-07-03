@@ -1,0 +1,20 @@
+{
+  "id": "Q21492280",
+  "name": "Grouta",
+  "description": "type of Cypriot soup",
+  "nationality": [
+    "Cyprus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grouta-q21492280/grouta-q21492280-1.jpg",
+    "images/grouta-q21492280/grouta-q21492280-2.jpg",
+    "images/grouta-q21492280/grouta-q21492280-3.jpg",
+    "images/grouta-q21492280/grouta-q21492280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21492280",
+    "themealdb": null
+  }
+}

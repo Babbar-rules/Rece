@@ -1,0 +1,20 @@
+{
+  "id": "Q215707",
+  "name": "Toblerone",
+  "description": "Brand of chocolate confection",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toblerone-q215707/toblerone-q215707-1.jpg",
+    "images/toblerone-q215707/toblerone-q215707-2.jpg",
+    "images/toblerone-q215707/toblerone-q215707-3.jpg",
+    "images/toblerone-q215707/toblerone-q215707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q215707",
+    "themealdb": null
+  }
+}

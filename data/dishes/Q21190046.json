@@ -1,0 +1,19 @@
+{
+  "id": "Q21190046",
+  "name": "Bigoli in salsa",
+  "description": "Venetian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bigoli-in-salsa-q21190046/bigoli-in-salsa-q21190046-1.jpg",
+    "images/bigoli-in-salsa-q21190046/bigoli-in-salsa-q21190046-2.jpg",
+    "images/bigoli-in-salsa-q21190046/bigoli-in-salsa-q21190046-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21190046",
+    "themealdb": null
+  }
+}

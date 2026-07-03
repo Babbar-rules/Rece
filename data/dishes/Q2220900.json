@@ -1,0 +1,18 @@
+{
+  "id": "Q2220900",
+  "name": "ham sandwich",
+  "description": "common type of sandwich containing ham",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-sandwich-q2220900/ham-sandwich-q2220900-1.jpg",
+    "images/ham-sandwich-q2220900/ham-sandwich-q2220900-2.jpg",
+    "images/ham-sandwich-q2220900/ham-sandwich-q2220900-3.jpg",
+    "images/ham-sandwich-q2220900/ham-sandwich-q2220900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2220900",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q220964",
+  "name": "tapas",
+  "description": "appetizer or snack in Spanish cuisine",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/tapas-q220964/tapas-q220964-1.jpg",
+    "images/tapas-q220964/tapas-q220964-2.jpg",
+    "images/tapas-q220964/tapas-q220964-3.jpg",
+    "images/tapas-q220964/tapas-q220964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q220964",
+    "themealdb": null
+  }
+}

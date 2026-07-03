@@ -1,0 +1,18 @@
+{
+  "id": "Q2184872",
+  "name": "Brinta",
+  "description": "Breakfast instant tarwe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/brinta-q2184872/brinta-q2184872-1.jpg",
+    "images/brinta-q2184872/brinta-q2184872-2.jpg",
+    "images/brinta-q2184872/brinta-q2184872-3.jpg",
+    "images/brinta-q2184872/brinta-q2184872-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2184872",
+    "themealdb": null
+  }
+}

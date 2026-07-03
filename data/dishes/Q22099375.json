@@ -1,0 +1,18 @@
+{
+  "id": "Q22099375",
+  "name": "milkfish belly",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milkfish-belly-q22099375/milkfish-belly-q22099375-1.jpg",
+    "images/milkfish-belly-q22099375/milkfish-belly-q22099375-2.jpg",
+    "images/milkfish-belly-q22099375/milkfish-belly-q22099375-3.jpg",
+    "images/milkfish-belly-q22099375/milkfish-belly-q22099375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22099375",
+    "themealdb": null
+  }
+}

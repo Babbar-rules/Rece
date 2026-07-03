@@ -1,0 +1,20 @@
+{
+  "id": "Q21831213",
+  "name": "beer cake",
+  "description": "cake prepared using beer as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/beer-cake-q21831213/beer-cake-q21831213-1.jpg",
+    "images/beer-cake-q21831213/beer-cake-q21831213-2.jpg",
+    "images/beer-cake-q21831213/beer-cake-q21831213-3.jpg",
+    "images/beer-cake-q21831213/beer-cake-q21831213-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21831213",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "Q211340",
+  "name": "pita",
+  "description": "soft, slightly leavened flatbread baked from wheat flour",
+  "nationality": [
+    "Syrian"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/pita-q211340/pita-q211340-1.jpg",
+    "images/pita-q211340/pita-q211340-2.jpg",
+    "images/pita-q211340/pita-q211340-3.jpg",
+    "images/pita-q211340/pita-q211340-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53091",
+    "category": "Vegetarian",
+    "area": "Syrian",
+    "instructions": "Preheat the oven to 450 degrees F (230 degrees C). Place falafel on a baking sheet.\r\n\r\nBake in the preheated oven until heated through, 8 to 10 minutes.\r\n\r\nWhile falafel bake, whisk tahini, water, lemon juice, garlic, and paprika together in a bowl.\r\n\r\nCut about 1 inch from the top of each pita to form a pocket. Add 2 falafel to each pita with equal amounts lettuce, tomato, cucumber, pickle, and red onion. Drizzle each with about 1 tablespoon tahini sauce and some harissa.",
+    "ingredients": [
+      {
+        "ingredient": "Falafel",
+        "measure": "12"
+      },
+      {
+        "ingredient": "Tahini",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Pita Bread",
+        "measure": "6"
+      },
+      {
+        "ingredient": "Lettuce",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "1/2"
+      },
+      {
+        "ingredient": "Dill Pickles",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Red Onions",
+        "measure": "1/4"
+      },
+      {
+        "ingredient": "Harissa Spice",
+        "measure": "3 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=wt8nApxP5fE",
+    "thumb": "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q211340",
+    "themealdb": "53091"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2121057",
+  "name": "glacé cherry",
+  "description": "candied cherries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/glace-cherry-q2121057/glace-cherry-q2121057-1.jpg",
+    "images/glace-cherry-q2121057/glace-cherry-q2121057-2.jpg",
+    "images/glace-cherry-q2121057/glace-cherry-q2121057-3.jpg",
+    "images/glace-cherry-q2121057/glace-cherry-q2121057-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2121057",
+    "themealdb": null
+  }
+}

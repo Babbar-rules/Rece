@@ -1,0 +1,18 @@
+{
+  "id": "Q2201017",
+  "name": "meal soup",
+  "description": "soup that is equivalent to a hot meal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meal-soup-q2201017/meal-soup-q2201017-1.jpg",
+    "images/meal-soup-q2201017/meal-soup-q2201017-2.jpg",
+    "images/meal-soup-q2201017/meal-soup-q2201017-3.jpg",
+    "images/meal-soup-q2201017/meal-soup-q2201017-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2201017",
+    "themealdb": null
+  }
+}

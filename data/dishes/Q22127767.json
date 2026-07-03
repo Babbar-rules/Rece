@@ -1,0 +1,20 @@
+{
+  "id": "Q22127767",
+  "name": "Fuchū miso",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fuchu-miso-q22127767/fuchu-miso-q22127767-1.jpg",
+    "images/fuchu-miso-q22127767/fuchu-miso-q22127767-2.jpg",
+    "images/fuchu-miso-q22127767/fuchu-miso-q22127767-3.jpg",
+    "images/fuchu-miso-q22127767/fuchu-miso-q22127767-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22127767",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q21658410",
+  "name": "tsuivan",
+  "description": "Mongolian noodle dish with meat and vegetables",
+  "nationality": [
+    "Mongolia"
+  ],
+  "region_cuisine": [
+    "Mongolian cuisine"
+  ],
+  "images": [
+    "images/tsuivan-q21658410/tsuivan-q21658410-1.jpg",
+    "images/tsuivan-q21658410/tsuivan-q21658410-2.jpg",
+    "images/tsuivan-q21658410/tsuivan-q21658410-3.jpg",
+    "images/tsuivan-q21658410/tsuivan-q21658410-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21658410",
+    "themealdb": null
+  }
+}

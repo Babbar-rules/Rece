@@ -1,0 +1,23 @@
+{
+  "id": "Q2108393",
+  "name": "sale pisang",
+  "description": "dried banana dish from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Acehnese cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/sale-pisang-q2108393/sale-pisang-q2108393-1.jpg",
+    "images/sale-pisang-q2108393/sale-pisang-q2108393-2.jpg",
+    "images/sale-pisang-q2108393/sale-pisang-q2108393-3.jpg",
+    "images/sale-pisang-q2108393/sale-pisang-q2108393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2108393",
+    "themealdb": null
+  }
+}

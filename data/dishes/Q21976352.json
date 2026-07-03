@@ -1,0 +1,19 @@
+{
+  "id": "Q21976352",
+  "name": "capunti",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/capunti-q21976352/capunti-q21976352-1.jpg",
+    "images/capunti-q21976352/capunti-q21976352-2.jpg",
+    "images/capunti-q21976352/capunti-q21976352-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21976352",
+    "themealdb": null
+  }
+}

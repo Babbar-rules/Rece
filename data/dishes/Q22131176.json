@@ -1,0 +1,17 @@
+{
+  "id": "Q22131176",
+  "name": "choco monaka jumbo",
+  "description": "ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/choco-monaka-jumbo-q22131176/choco-monaka-jumbo-q22131176-1.jpg",
+    "images/choco-monaka-jumbo-q22131176/choco-monaka-jumbo-q22131176-2.jpg",
+    "images/choco-monaka-jumbo-q22131176/choco-monaka-jumbo-q22131176-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22131176",
+    "themealdb": null
+  }
+}

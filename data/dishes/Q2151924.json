@@ -1,0 +1,20 @@
+{
+  "id": "Q2151924",
+  "name": "Riebel",
+  "description": "Austrian porridge",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/riebel-q2151924/riebel-q2151924-1.jpg",
+    "images/riebel-q2151924/riebel-q2151924-2.png",
+    "images/riebel-q2151924/riebel-q2151924-3.jpg",
+    "images/riebel-q2151924/riebel-q2151924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2151924",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2190250",
+  "name": "Filipinos",
+  "description": "brand name for a series of biscuit snacks",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/filipinos-q2190250/filipinos-q2190250-1.jpg",
+    "images/filipinos-q2190250/filipinos-q2190250-2.jpg",
+    "images/filipinos-q2190250/filipinos-q2190250-3.jpg",
+    "images/filipinos-q2190250/filipinos-q2190250-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2190250",
+    "themealdb": null
+  }
+}

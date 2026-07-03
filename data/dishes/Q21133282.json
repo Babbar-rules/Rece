@@ -1,0 +1,17 @@
+{
+  "id": "Q21133282",
+  "name": "anelloni",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/anelloni-q21133282/anelloni-q21133282-1.jpg",
+    "images/anelloni-q21133282/anelloni-q21133282-2.jpg",
+    "images/anelloni-q21133282/anelloni-q21133282-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21133282",
+    "themealdb": null
+  }
+}

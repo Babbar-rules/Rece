@@ -1,0 +1,20 @@
+{
+  "id": "Q21503862",
+  "name": "Pishes",
+  "description": "traditional Cypriot savoury",
+  "nationality": [
+    "Cyprus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pishes-q21503862/pishes-q21503862-1.jpg",
+    "images/pishes-q21503862/pishes-q21503862-2.jpg",
+    "images/pishes-q21503862/pishes-q21503862-3.jpg",
+    "images/pishes-q21503862/pishes-q21503862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21503862",
+    "themealdb": null
+  }
+}

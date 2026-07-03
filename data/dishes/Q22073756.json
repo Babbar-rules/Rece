@@ -1,0 +1,18 @@
+{
+  "id": "Q22073756",
+  "name": "Talenti",
+  "description": "American brand of gelato and sorbet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/talenti-q22073756/talenti-q22073756-1.jpg",
+    "images/talenti-q22073756/talenti-q22073756-2.jpg",
+    "images/talenti-q22073756/talenti-q22073756-3.jpg",
+    "images/talenti-q22073756/talenti-q22073756-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22073756",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q21597557",
+  "name": "fruit bread",
+  "description": "bread that includes fruit as an ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-bread-q21597557/fruit-bread-q21597557-1.jpg",
+    "images/fruit-bread-q21597557/fruit-bread-q21597557-2.jpg",
+    "images/fruit-bread-q21597557/fruit-bread-q21597557-3.jpg",
+    "images/fruit-bread-q21597557/fruit-bread-q21597557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21597557",
+    "themealdb": null
+  }
+}

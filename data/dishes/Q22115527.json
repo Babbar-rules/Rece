@@ -1,0 +1,20 @@
+{
+  "id": "Q22115527",
+  "name": "Sailor sandwich",
+  "description": "sandwich with hot meat and cheese",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sailor-sandwich-q22115527/sailor-sandwich-q22115527-1.jpg",
+    "images/sailor-sandwich-q22115527/sailor-sandwich-q22115527-2.jpg",
+    "images/sailor-sandwich-q22115527/sailor-sandwich-q22115527-3.jpg",
+    "images/sailor-sandwich-q22115527/sailor-sandwich-q22115527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22115527",
+    "themealdb": null
+  }
+}

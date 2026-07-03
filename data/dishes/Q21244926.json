@@ -1,0 +1,18 @@
+{
+  "id": "Q21244926",
+  "name": "Chicken Lahori",
+  "description": "A stewed chicken dish from Lahore, Pakistan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-lahori-q21244926/chicken-lahori-q21244926-1.jpg",
+    "images/chicken-lahori-q21244926/chicken-lahori-q21244926-2.jpg",
+    "images/chicken-lahori-q21244926/chicken-lahori-q21244926-3.jpg",
+    "images/chicken-lahori-q21244926/chicken-lahori-q21244926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21244926",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2121797",
+  "name": "Sicilian pizza",
+  "description": "style of pizza originating from Sicily, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sicilian-pizza-q2121797/sicilian-pizza-q2121797-1.jpg",
+    "images/sicilian-pizza-q2121797/sicilian-pizza-q2121797-2.jpg",
+    "images/sicilian-pizza-q2121797/sicilian-pizza-q2121797-3.png",
+    "images/sicilian-pizza-q2121797/sicilian-pizza-q2121797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2121797",
+    "themealdb": null
+  }
+}

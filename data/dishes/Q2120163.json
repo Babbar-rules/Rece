@@ -1,0 +1,20 @@
+{
+  "id": "Q2120163",
+  "name": "Pâté de campagne",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-de-campagne-q2120163/pate-de-campagne-q2120163-1.jpg",
+    "images/pate-de-campagne-q2120163/pate-de-campagne-q2120163-2.jpg",
+    "images/pate-de-campagne-q2120163/pate-de-campagne-q2120163-3.png",
+    "images/pate-de-campagne-q2120163/pate-de-campagne-q2120163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2120163",
+    "themealdb": null
+  }
+}

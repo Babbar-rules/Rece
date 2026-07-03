@@ -1,0 +1,21 @@
+{
+  "id": "Q2214748",
+  "name": "salmagundi",
+  "description": "cold dish or salad",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salmagundi-q2214748/salmagundi-q2214748-1.jpg",
+    "images/salmagundi-q2214748/salmagundi-q2214748-2.jpg",
+    "images/salmagundi-q2214748/salmagundi-q2214748-3.jpg",
+    "images/salmagundi-q2214748/salmagundi-q2214748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2214748",
+    "themealdb": null
+  }
+}

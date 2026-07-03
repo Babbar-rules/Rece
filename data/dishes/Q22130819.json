@@ -1,0 +1,20 @@
+{
+  "id": "Q22130819",
+  "name": "Surinagashi",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/surinagashi-q22130819/surinagashi-q22130819-1.jpg",
+    "images/surinagashi-q22130819/surinagashi-q22130819-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22130819",
+    "themealdb": null
+  }
+}

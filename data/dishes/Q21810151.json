@@ -1,0 +1,18 @@
+{
+  "id": "Q21810151",
+  "name": "Grießnockerlsuppe",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grienockerlsuppe-q21810151/grienockerlsuppe-q21810151-1.jpg",
+    "images/grienockerlsuppe-q21810151/grienockerlsuppe-q21810151-2.jpg",
+    "images/grienockerlsuppe-q21810151/grienockerlsuppe-q21810151-3.jpg",
+    "images/grienockerlsuppe-q21810151/grienockerlsuppe-q21810151-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21810151",
+    "themealdb": null
+  }
+}

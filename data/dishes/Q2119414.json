@@ -1,0 +1,20 @@
+{
+  "id": "Q2119414",
+  "name": "paniyaram",
+  "description": "Indian dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paniyaram-q2119414/paniyaram-q2119414-1.jpg",
+    "images/paniyaram-q2119414/paniyaram-q2119414-2.jpg",
+    "images/paniyaram-q2119414/paniyaram-q2119414-3.jpg",
+    "images/paniyaram-q2119414/paniyaram-q2119414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2119414",
+    "themealdb": null
+  }
+}

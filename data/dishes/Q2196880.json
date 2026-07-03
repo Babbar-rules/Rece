@@ -1,0 +1,18 @@
+{
+  "id": "Q2196880",
+  "name": "Giri choco",
+  "description": "chocolate",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/giri-choco-q2196880/giri-choco-q2196880-1.jpg",
+    "images/giri-choco-q2196880/giri-choco-q2196880-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2196880",
+    "themealdb": null
+  }
+}

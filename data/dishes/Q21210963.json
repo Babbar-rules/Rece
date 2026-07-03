@@ -1,0 +1,21 @@
+{
+  "id": "Q21210963",
+  "name": "torta paradiso",
+  "description": "Italian cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Mantuan cuisine"
+  ],
+  "images": [
+    "images/torta-paradiso-q21210963/torta-paradiso-q21210963-1.png",
+    "images/torta-paradiso-q21210963/torta-paradiso-q21210963-2.jpg",
+    "images/torta-paradiso-q21210963/torta-paradiso-q21210963-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21210963",
+    "themealdb": null
+  }
+}

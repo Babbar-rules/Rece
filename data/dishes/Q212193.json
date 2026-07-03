@@ -1,0 +1,20 @@
+{
+  "id": "Q212193",
+  "name": "Nutella",
+  "description": "chocolate hazelnut spread manufactured by Ferrero",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nutella-q212193/nutella-q212193-1.jpg",
+    "images/nutella-q212193/nutella-q212193-2.jpg",
+    "images/nutella-q212193/nutella-q212193-3.jpg",
+    "images/nutella-q212193/nutella-q212193-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q212193",
+    "themealdb": null
+  }
+}
