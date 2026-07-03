@@ -1,0 +1,20 @@
+{
+  "id": "Q6986919",
+  "name": "Neer dosa",
+  "description": "unique dish of Tulu Nadu, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neer-dosa-q6986919/neer-dosa-q6986919-1.jpg",
+    "images/neer-dosa-q6986919/neer-dosa-q6986919-2.jpg",
+    "images/neer-dosa-q6986919/neer-dosa-q6986919-3.jpg",
+    "images/neer-dosa-q6986919/neer-dosa-q6986919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6986919",
+    "themealdb": null
+  }
+}

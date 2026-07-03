@@ -1,0 +1,25 @@
+{
+  "id": "Q707636",
+  "name": "Weisswurst",
+  "description": "traditional Bavarian sausage",
+  "nationality": [
+    "Poland",
+    "Bavaria"
+  ],
+  "region_cuisine": [
+    "cuisine of Hamburg",
+    "Silesian cuisine",
+    "Bavarian cuisine"
+  ],
+  "images": [
+    "images/weisswurst-q707636/weisswurst-q707636-1.jpg",
+    "images/weisswurst-q707636/weisswurst-q707636-2.jpg",
+    "images/weisswurst-q707636/weisswurst-q707636-3.jpg",
+    "images/weisswurst-q707636/weisswurst-q707636-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q707636",
+    "themealdb": null
+  }
+}

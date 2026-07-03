@@ -1,0 +1,20 @@
+{
+  "id": "Q701756",
+  "name": "Kimchi-jjigae",
+  "description": "stew made with kimchi",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kimchi-jjigae-q701756/kimchi-jjigae-q701756-1.jpg",
+    "images/kimchi-jjigae-q701756/kimchi-jjigae-q701756-2.jpg",
+    "images/kimchi-jjigae-q701756/kimchi-jjigae-q701756-3.jpg",
+    "images/kimchi-jjigae-q701756/kimchi-jjigae-q701756-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q701756",
+    "themealdb": null
+  }
+}

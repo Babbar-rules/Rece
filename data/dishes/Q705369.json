@@ -1,0 +1,18 @@
+{
+  "id": "Q705369",
+  "name": "fish ball",
+  "description": "balls made from fish paste which are then boiled or deep-fried",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-ball-q705369/fish-ball-q705369-1.jpg",
+    "images/fish-ball-q705369/fish-ball-q705369-2.jpg",
+    "images/fish-ball-q705369/fish-ball-q705369-3.png",
+    "images/fish-ball-q705369/fish-ball-q705369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q705369",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7124372",
+  "name": "pagliata",
+  "description": "Italian dish from Rome",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pagliata-q7124372/pagliata-q7124372-1.jpg",
+    "images/pagliata-q7124372/pagliata-q7124372-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7124372",
+    "themealdb": null
+  }
+}

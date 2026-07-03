@@ -1,0 +1,17 @@
+{
+  "id": "Q6966108",
+  "name": "Hêkerûn",
+  "description": "Type of omelette",
+  "nationality": [
+    "Kurdistan"
+  ],
+  "region_cuisine": [
+    "Kurdish cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6966108",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q701628",
+  "name": "stinky tofu",
+  "description": "Chinese fermented tofu with a strong odor; usually sold at night markets or roadside stands as a snack, or in lunch bars as a side dish, rather than in restaurants",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stinky-tofu-q701628/stinky-tofu-q701628-1.jpg",
+    "images/stinky-tofu-q701628/stinky-tofu-q701628-2.jpg",
+    "images/stinky-tofu-q701628/stinky-tofu-q701628-3.jpg",
+    "images/stinky-tofu-q701628/stinky-tofu-q701628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q701628",
+    "themealdb": null
+  }
+}

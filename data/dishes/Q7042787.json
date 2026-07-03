@@ -1,0 +1,18 @@
+{
+  "id": "Q7042787",
+  "name": "no-knead bread",
+  "description": "bread prepared with dough that is not kneaded",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/no-knead-bread-q7042787/no-knead-bread-q7042787-1.jpg",
+    "images/no-knead-bread-q7042787/no-knead-bread-q7042787-2.jpg",
+    "images/no-knead-bread-q7042787/no-knead-bread-q7042787-3.jpg",
+    "images/no-knead-bread-q7042787/no-knead-bread-q7042787-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7042787",
+    "themealdb": null
+  }
+}

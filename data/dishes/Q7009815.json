@@ -1,0 +1,20 @@
+{
+  "id": "Q7009815",
+  "name": "Patîle",
+  "description": "Kurdish name for a type of bread",
+  "nationality": [
+    "Kurdistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/patile-q7009815/patile-q7009815-1.jpg",
+    "images/patile-q7009815/patile-q7009815-2.jpg",
+    "images/patile-q7009815/patile-q7009815-3.jpg",
+    "images/patile-q7009815/patile-q7009815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7009815",
+    "themealdb": null
+  }
+}

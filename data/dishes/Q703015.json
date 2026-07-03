@@ -1,0 +1,20 @@
+{
+  "id": "Q703015",
+  "name": "doenjang-jjigae",
+  "description": "Korean dish of soybean paste stew",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doenjang-jjigae-q703015/doenjang-jjigae-q703015-1.jpg",
+    "images/doenjang-jjigae-q703015/doenjang-jjigae-q703015-2.jpg",
+    "images/doenjang-jjigae-q703015/doenjang-jjigae-q703015-3.jpg",
+    "images/doenjang-jjigae-q703015/doenjang-jjigae-q703015-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q703015",
+    "themealdb": null
+  }
+}

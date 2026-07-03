@@ -1,0 +1,20 @@
+{
+  "id": "Q6996558",
+  "name": "Nero",
+  "description": "Norwegian candy bar",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nero-q6996558/nero-q6996558-1.jpg",
+    "images/nero-q6996558/nero-q6996558-2.jpg",
+    "images/nero-q6996558/nero-q6996558-3.jpg",
+    "images/nero-q6996558/nero-q6996558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6996558",
+    "themealdb": null
+  }
+}

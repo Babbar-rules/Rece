@@ -1,0 +1,20 @@
+{
+  "id": "Q704006",
+  "name": "budae-jjigae",
+  "description": "jjigae (Korean stew) made with ham, sausage, Spam, baked beans, kimchi and gochujang, invented shortly after the Korean War from scrounged or smuggled surplus foods from the U. S. army bases, after which the dish is named",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/budae-jjigae-q704006/budae-jjigae-q704006-1.jpg",
+    "images/budae-jjigae-q704006/budae-jjigae-q704006-2.jpg",
+    "images/budae-jjigae-q704006/budae-jjigae-q704006-3.jpg",
+    "images/budae-jjigae-q704006/budae-jjigae-q704006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q704006",
+    "themealdb": null
+  }
+}

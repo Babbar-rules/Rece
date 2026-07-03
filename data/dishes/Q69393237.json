@@ -1,0 +1,18 @@
+{
+  "id": "Q69393237",
+  "name": "stuffed flatbread",
+  "description": "flat bread traditionally filled with e.g. lettuce, tomato, onion and meat, popular in the Middle East and the Mediterranean",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-flatbread-q69393237/stuffed-flatbread-q69393237-1.jpg",
+    "images/stuffed-flatbread-q69393237/stuffed-flatbread-q69393237-2.jpg",
+    "images/stuffed-flatbread-q69393237/stuffed-flatbread-q69393237-3.jpg",
+    "images/stuffed-flatbread-q69393237/stuffed-flatbread-q69393237-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q69393237",
+    "themealdb": null
+  }
+}

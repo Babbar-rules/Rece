@@ -1,0 +1,20 @@
+{
+  "id": "Q697498",
+  "name": "beef noodle soup",
+  "description": "noodle soup with beef",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-noodle-soup-q697498/beef-noodle-soup-q697498-1.jpg",
+    "images/beef-noodle-soup-q697498/beef-noodle-soup-q697498-2.jpg",
+    "images/beef-noodle-soup-q697498/beef-noodle-soup-q697498-3.jpg",
+    "images/beef-noodle-soup-q697498/beef-noodle-soup-q697498-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q697498",
+    "themealdb": null
+  }
+}

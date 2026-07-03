@@ -1,0 +1,20 @@
+{
+  "id": "Q7022462",
+  "name": "Ngo hiang",
+  "description": "Hokkien and Teochew dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ngo-hiang-q7022462/ngo-hiang-q7022462-1.jpg",
+    "images/ngo-hiang-q7022462/ngo-hiang-q7022462-2.jpg",
+    "images/ngo-hiang-q7022462/ngo-hiang-q7022462-3.jpg",
+    "images/ngo-hiang-q7022462/ngo-hiang-q7022462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7022462",
+    "themealdb": null
+  }
+}

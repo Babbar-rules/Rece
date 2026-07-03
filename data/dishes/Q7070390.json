@@ -1,0 +1,18 @@
+{
+  "id": "Q7070390",
+  "name": "NutRageous",
+  "description": "chocolate bar by Hershey's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nutrageous-q7070390/nutrageous-q7070390-1.jpg",
+    "images/nutrageous-q7070390/nutrageous-q7070390-2.jpg",
+    "images/nutrageous-q7070390/nutrageous-q7070390-3.png",
+    "images/nutrageous-q7070390/nutrageous-q7070390-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7070390",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q6978633",
+  "name": "Kuftetirş",
+  "description": "Meatball from Kurdish cuisine",
+  "nationality": [
+    "Kurdistan"
+  ],
+  "region_cuisine": [
+    "Kurdish cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6978633",
+    "themealdb": null
+  }
+}

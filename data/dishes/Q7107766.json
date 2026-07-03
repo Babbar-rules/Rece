@@ -1,0 +1,21 @@
+{
+  "id": "Q7107766",
+  "name": "Ostropel",
+  "description": "ostropel",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [
+    "Romanian cuisine",
+    "Moldovan cuisine"
+  ],
+  "images": [
+    "images/ostropel-q7107766/ostropel-q7107766-1.png",
+    "images/ostropel-q7107766/ostropel-q7107766-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7107766",
+    "themealdb": null
+  }
+}

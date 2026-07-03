@@ -1,0 +1,21 @@
+{
+  "id": "Q710618",
+  "name": "oyster omelette",
+  "description": "dish",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oyster-omelette-q710618/oyster-omelette-q710618-1.jpg",
+    "images/oyster-omelette-q710618/oyster-omelette-q710618-2.jpg",
+    "images/oyster-omelette-q710618/oyster-omelette-q710618-3.jpg",
+    "images/oyster-omelette-q710618/oyster-omelette-q710618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q710618",
+    "themealdb": null
+  }
+}

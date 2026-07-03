@@ -1,0 +1,20 @@
+{
+  "id": "Q7125915",
+  "name": "Pakistani rice dishes",
+  "description": "varieties of Pakistani cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Pakistani cuisine"
+  ],
+  "images": [
+    "images/pakistani-rice-dishes-q7125915/pakistani-rice-dishes-q7125915-1.jpg",
+    "images/pakistani-rice-dishes-q7125915/pakistani-rice-dishes-q7125915-2.jpg",
+    "images/pakistani-rice-dishes-q7125915/pakistani-rice-dishes-q7125915-3.jpg",
+    "images/pakistani-rice-dishes-q7125915/pakistani-rice-dishes-q7125915-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7125915",
+    "themealdb": null
+  }
+}

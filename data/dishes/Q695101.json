@@ -1,0 +1,18 @@
+{
+  "id": "Q695101",
+  "name": "pickled herring",
+  "description": "traditional way of preserving herring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-herring-q695101/pickled-herring-q695101-1.jpg",
+    "images/pickled-herring-q695101/pickled-herring-q695101-2.jpg",
+    "images/pickled-herring-q695101/pickled-herring-q695101-3.jpg",
+    "images/pickled-herring-q695101/pickled-herring-q695101-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q695101",
+    "themealdb": null
+  }
+}

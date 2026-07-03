@@ -1,0 +1,20 @@
+{
+  "id": "Q7088254",
+  "name": "Ollada",
+  "description": "French stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ollada-q7088254/ollada-q7088254-1.jpg",
+    "images/ollada-q7088254/ollada-q7088254-2.jpg",
+    "images/ollada-q7088254/ollada-q7088254-3.jpg",
+    "images/ollada-q7088254/ollada-q7088254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7088254",
+    "themealdb": null
+  }
+}

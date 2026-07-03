@@ -1,0 +1,20 @@
+{
+  "id": "Q6928712",
+  "name": "Mr. Goodbar",
+  "description": "Chocolate candy bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mr-goodbar-q6928712/mr-goodbar-q6928712-1.jpg",
+    "images/mr-goodbar-q6928712/mr-goodbar-q6928712-2.jpg",
+    "images/mr-goodbar-q6928712/mr-goodbar-q6928712-3.jpg",
+    "images/mr-goodbar-q6928712/mr-goodbar-q6928712-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6928712",
+    "themealdb": null
+  }
+}

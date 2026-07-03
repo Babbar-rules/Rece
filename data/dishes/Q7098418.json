@@ -1,0 +1,20 @@
+{
+  "id": "Q7098418",
+  "name": "opor ayam",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/opor-ayam-q7098418/opor-ayam-q7098418-1.jpg",
+    "images/opor-ayam-q7098418/opor-ayam-q7098418-2.jpg",
+    "images/opor-ayam-q7098418/opor-ayam-q7098418-3.jpg",
+    "images/opor-ayam-q7098418/opor-ayam-q7098418-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7098418",
+    "themealdb": null
+  }
+}

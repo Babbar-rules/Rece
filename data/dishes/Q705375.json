@@ -1,0 +1,20 @@
+{
+  "id": "Q705375",
+  "name": "haejang-guk",
+  "description": "Korean soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/haejang-guk-q705375/haejang-guk-q705375-1.jpg",
+    "images/haejang-guk-q705375/haejang-guk-q705375-2.jpg",
+    "images/haejang-guk-q705375/haejang-guk-q705375-3.jpg",
+    "images/haejang-guk-q705375/haejang-guk-q705375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q705375",
+    "themealdb": null
+  }
+}

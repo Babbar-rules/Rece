@@ -1,0 +1,20 @@
+{
+  "id": "Q6935657",
+  "name": "Munch",
+  "description": "brand of candy bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/munch-q6935657/munch-q6935657-1.jpg",
+    "images/munch-q6935657/munch-q6935657-2.jpg",
+    "images/munch-q6935657/munch-q6935657-3.jpg",
+    "images/munch-q6935657/munch-q6935657-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6935657",
+    "themealdb": null
+  }
+}

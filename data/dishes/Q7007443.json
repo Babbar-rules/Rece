@@ -1,0 +1,20 @@
+{
+  "id": "Q7007443",
+  "name": "clam bake",
+  "description": "dish of lobster, mussels, crabs, soft-shell clams, and/or quahogs, cooked by steaming the ingredients over seaweed; sometimes supplemented with vegetables, e.g. onions, carrots, and corn on the cob; eaten on festive occasions in New England",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/clam-bake-q7007443/clam-bake-q7007443-1.jpg",
+    "images/clam-bake-q7007443/clam-bake-q7007443-2.jpg",
+    "images/clam-bake-q7007443/clam-bake-q7007443-3.jpg",
+    "images/clam-bake-q7007443/clam-bake-q7007443-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7007443",
+    "themealdb": null
+  }
+}

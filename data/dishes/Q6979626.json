@@ -1,0 +1,20 @@
+{
+  "id": "Q6979626",
+  "name": "National loaf",
+  "description": "British bread made from wholemeal flour introduced during the Second World War",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/national-loaf-q6979626/national-loaf-q6979626-1.jpg",
+    "images/national-loaf-q6979626/national-loaf-q6979626-2.jpg",
+    "images/national-loaf-q6979626/national-loaf-q6979626-3.jpg",
+    "images/national-loaf-q6979626/national-loaf-q6979626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6979626",
+    "themealdb": null
+  }
+}

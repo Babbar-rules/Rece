@@ -1,0 +1,22 @@
+{
+  "id": "Q6950186",
+  "name": "Mì Quảng",
+  "description": "Vietnamese noodle dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [
+    "cuisine of Central Vietnam"
+  ],
+  "images": [
+    "images/mi-quang-q6950186/mi-quang-q6950186-1.jpg",
+    "images/mi-quang-q6950186/mi-quang-q6950186-2.jpg",
+    "images/mi-quang-q6950186/mi-quang-q6950186-3.jpg",
+    "images/mi-quang-q6950186/mi-quang-q6950186-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6950186",
+    "themealdb": null
+  }
+}

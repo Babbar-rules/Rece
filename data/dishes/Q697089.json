@@ -1,0 +1,23 @@
+{
+  "id": "Q697089",
+  "name": "tea egg",
+  "description": "Chinese savory food commonly sold as a snack",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/tea-egg-q697089/tea-egg-q697089-1.jpg",
+    "images/tea-egg-q697089/tea-egg-q697089-2.jpg",
+    "images/tea-egg-q697089/tea-egg-q697089-3.jpg",
+    "images/tea-egg-q697089/tea-egg-q697089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q697089",
+    "themealdb": null
+  }
+}

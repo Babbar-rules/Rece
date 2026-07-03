@@ -1,0 +1,18 @@
+{
+  "id": "Q7061284",
+  "name": "pariserbøf",
+  "description": "Danish dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pariserbf-q7061284/pariserbf-q7061284-1.jpg",
+    "images/pariserbf-q7061284/pariserbf-q7061284-2.jpg",
+    "images/pariserbf-q7061284/pariserbf-q7061284-3.jpg",
+    "images/pariserbf-q7061284/pariserbf-q7061284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7061284",
+    "themealdb": null
+  }
+}

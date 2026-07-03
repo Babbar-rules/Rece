@@ -1,0 +1,20 @@
+{
+  "id": "Q701075",
+  "name": "okonomiyaki",
+  "description": "Japanese savory pancake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/okonomiyaki-q701075/okonomiyaki-q701075-1.jpg",
+    "images/okonomiyaki-q701075/okonomiyaki-q701075-2.jpg",
+    "images/okonomiyaki-q701075/okonomiyaki-q701075-3.jpg",
+    "images/okonomiyaki-q701075/okonomiyaki-q701075-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q701075",
+    "themealdb": null
+  }
+}

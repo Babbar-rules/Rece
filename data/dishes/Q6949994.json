@@ -1,0 +1,19 @@
+{
+  "id": "Q6949994",
+  "name": "Mässmogge",
+  "description": "Swiss type of candy",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/massmogge-q6949994/massmogge-q6949994-1.jpg",
+    "images/massmogge-q6949994/massmogge-q6949994-2.jpg",
+    "images/massmogge-q6949994/massmogge-q6949994-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6949994",
+    "themealdb": null
+  }
+}

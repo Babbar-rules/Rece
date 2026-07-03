@@ -1,0 +1,22 @@
+{
+  "id": "Q708823",
+  "name": "brittle",
+  "description": "candy typically made with seeds or nuts",
+  "nationality": [
+    "Italy",
+    "France",
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brittle-q708823/brittle-q708823-1.jpg",
+    "images/brittle-q708823/brittle-q708823-2.jpg",
+    "images/brittle-q708823/brittle-q708823-3.jpg",
+    "images/brittle-q708823/brittle-q708823-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q708823",
+    "themealdb": null
+  }
+}

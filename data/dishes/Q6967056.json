@@ -1,0 +1,20 @@
+{
+  "id": "Q6967056",
+  "name": "nasi tim",
+  "description": "Indonesian rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-tim-q6967056/nasi-tim-q6967056-1.jpg",
+    "images/nasi-tim-q6967056/nasi-tim-q6967056-2.jpg",
+    "images/nasi-tim-q6967056/nasi-tim-q6967056-3.jpg",
+    "images/nasi-tim-q6967056/nasi-tim-q6967056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6967056",
+    "themealdb": null
+  }
+}

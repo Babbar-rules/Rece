@@ -1,0 +1,20 @@
+{
+  "id": "Q700643",
+  "name": "shiruko",
+  "description": "Japanese dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shiruko-q700643/shiruko-q700643-1.jpg",
+    "images/shiruko-q700643/shiruko-q700643-2.jpg",
+    "images/shiruko-q700643/shiruko-q700643-3.jpg",
+    "images/shiruko-q700643/shiruko-q700643-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q700643",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q697951",
+  "name": "oyster vermicelli",
+  "description": "Taiwanese noodle soup",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oyster-vermicelli-q697951/oyster-vermicelli-q697951-1.jpg",
+    "images/oyster-vermicelli-q697951/oyster-vermicelli-q697951-2.jpg",
+    "images/oyster-vermicelli-q697951/oyster-vermicelli-q697951-3.jpg",
+    "images/oyster-vermicelli-q697951/oyster-vermicelli-q697951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q697951",
+    "themealdb": null
+  }
+}

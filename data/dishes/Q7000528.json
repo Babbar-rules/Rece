@@ -1,0 +1,20 @@
+{
+  "id": "Q7000528",
+  "name": "nettle soup",
+  "description": "traditional soup prepared from stinging nettles",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nettle-soup-q7000528/nettle-soup-q7000528-1.jpg",
+    "images/nettle-soup-q7000528/nettle-soup-q7000528-2.jpg",
+    "images/nettle-soup-q7000528/nettle-soup-q7000528-3.jpg",
+    "images/nettle-soup-q7000528/nettle-soup-q7000528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7000528",
+    "themealdb": null
+  }
+}

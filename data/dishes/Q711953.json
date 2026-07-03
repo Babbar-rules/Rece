@@ -1,0 +1,22 @@
+{
+  "id": "Q711953",
+  "name": "bibim guksu",
+  "description": "Korean cold, spicy dish made with thin wheat flour noodles",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/bibim-guksu-q711953/bibim-guksu-q711953-1.jpg",
+    "images/bibim-guksu-q711953/bibim-guksu-q711953-2.jpg",
+    "images/bibim-guksu-q711953/bibim-guksu-q711953-3.jpg",
+    "images/bibim-guksu-q711953/bibim-guksu-q711953-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q711953",
+    "themealdb": null
+  }
+}

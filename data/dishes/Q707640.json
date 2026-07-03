@@ -1,0 +1,20 @@
+{
+  "id": "Q707640",
+  "name": "Tangpyeongchae",
+  "description": "Korean salad dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tangpyeongchae-q707640/tangpyeongchae-q707640-1.jpg",
+    "images/tangpyeongchae-q707640/tangpyeongchae-q707640-2.jpg",
+    "images/tangpyeongchae-q707640/tangpyeongchae-q707640-3.jpg",
+    "images/tangpyeongchae-q707640/tangpyeongchae-q707640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q707640",
+    "themealdb": null
+  }
+}

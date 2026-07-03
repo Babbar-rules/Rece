@@ -1,0 +1,21 @@
+{
+  "id": "Q70612",
+  "name": "granita",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy",
+    "Sicily"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/granita-q70612/granita-q70612-1.jpg",
+    "images/granita-q70612/granita-q70612-2.jpg",
+    "images/granita-q70612/granita-q70612-3.jpg",
+    "images/granita-q70612/granita-q70612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70612",
+    "themealdb": null
+  }
+}

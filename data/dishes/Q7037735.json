@@ -1,0 +1,22 @@
+{
+  "id": "Q7037735",
+  "name": "nimono",
+  "description": "Japanese simmered dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/nimono-q7037735/nimono-q7037735-1.jpg",
+    "images/nimono-q7037735/nimono-q7037735-2.jpg",
+    "images/nimono-q7037735/nimono-q7037735-3.jpg",
+    "images/nimono-q7037735/nimono-q7037735-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7037735",
+    "themealdb": null
+  }
+}

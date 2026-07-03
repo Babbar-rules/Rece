@@ -1,0 +1,22 @@
+{
+  "id": "Q708908",
+  "name": "Lo mai chi",
+  "description": "glutinous rice pastry with coconut powder and mungo cream",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/lo-mai-chi-q708908/lo-mai-chi-q708908-1.jpg",
+    "images/lo-mai-chi-q708908/lo-mai-chi-q708908-2.jpg",
+    "images/lo-mai-chi-q708908/lo-mai-chi-q708908-3.jpg",
+    "images/lo-mai-chi-q708908/lo-mai-chi-q708908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q708908",
+    "themealdb": null
+  }
+}

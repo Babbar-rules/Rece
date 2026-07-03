@@ -1,0 +1,20 @@
+{
+  "id": "Q7034226",
+  "name": "nihari",
+  "description": "Indian meat stew",
+  "nationality": [
+    "Indian subcontinent"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nihari-q7034226/nihari-q7034226-1.jpg",
+    "images/nihari-q7034226/nihari-q7034226-2.jpg",
+    "images/nihari-q7034226/nihari-q7034226-3.jpg",
+    "images/nihari-q7034226/nihari-q7034226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7034226",
+    "themealdb": null
+  }
+}

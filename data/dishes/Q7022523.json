@@ -1,0 +1,20 @@
+{
+  "id": "Q7022523",
+  "name": "Ngome",
+  "description": "flatbread",
+  "nationality": [
+    "Mali"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ngome-q7022523/ngome-q7022523-1.jpg",
+    "images/ngome-q7022523/ngome-q7022523-2.jpg",
+    "images/ngome-q7022523/ngome-q7022523-3.jpg",
+    "images/ngome-q7022523/ngome-q7022523-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7022523",
+    "themealdb": null
+  }
+}

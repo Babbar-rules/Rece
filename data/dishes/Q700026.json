@@ -1,0 +1,20 @@
+{
+  "id": "Q700026",
+  "name": "Black Forest ham",
+  "description": "German meat preparation",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-forest-ham-q700026/black-forest-ham-q700026-1.jpg",
+    "images/black-forest-ham-q700026/black-forest-ham-q700026-2.jpg",
+    "images/black-forest-ham-q700026/black-forest-ham-q700026-3.jpg",
+    "images/black-forest-ham-q700026/black-forest-ham-q700026-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q700026",
+    "themealdb": null
+  }
+}

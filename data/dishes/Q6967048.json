@@ -1,0 +1,22 @@
+{
+  "id": "Q6967048",
+  "name": "Nasi liwet",
+  "description": "Indonesian rice dish originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/nasi-liwet-q6967048/nasi-liwet-q6967048-1.jpg",
+    "images/nasi-liwet-q6967048/nasi-liwet-q6967048-2.jpg",
+    "images/nasi-liwet-q6967048/nasi-liwet-q6967048-3.jpg",
+    "images/nasi-liwet-q6967048/nasi-liwet-q6967048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6967048",
+    "themealdb": null
+  }
+}

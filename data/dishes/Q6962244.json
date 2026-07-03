@@ -1,0 +1,19 @@
+{
+  "id": "Q6962244",
+  "name": "nan gyi thohk",
+  "description": "Burmese chicken chilli noodle salad",
+  "nationality": [
+    "Myanmar"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nan-gyi-thohk-q6962244/nan-gyi-thohk-q6962244-1.gif",
+    "images/nan-gyi-thohk-q6962244/nan-gyi-thohk-q6962244-2.jpg",
+    "images/nan-gyi-thohk-q6962244/nan-gyi-thohk-q6962244-3.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6962244",
+    "themealdb": null
+  }
+}

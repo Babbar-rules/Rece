@@ -1,0 +1,18 @@
+{
+  "id": "Q6935668",
+  "name": "Munchies confectionery",
+  "description": "Confectionery brand of Nestlé",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/munchies-confectionery-q6935668/munchies-confectionery-q6935668-1.jpg",
+    "images/munchies-confectionery-q6935668/munchies-confectionery-q6935668-2.png",
+    "images/munchies-confectionery-q6935668/munchies-confectionery-q6935668-3.jpg",
+    "images/munchies-confectionery-q6935668/munchies-confectionery-q6935668-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6935668",
+    "themealdb": null
+  }
+}

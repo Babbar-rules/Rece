@@ -1,0 +1,18 @@
+{
+  "id": "Q6997912",
+  "name": "Nestlé Chunky",
+  "description": "Candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nestle-chunky-q6997912/nestle-chunky-q6997912-1.jpg",
+    "images/nestle-chunky-q6997912/nestle-chunky-q6997912-2.jpg",
+    "images/nestle-chunky-q6997912/nestle-chunky-q6997912-3.jpg",
+    "images/nestle-chunky-q6997912/nestle-chunky-q6997912-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6997912",
+    "themealdb": null
+  }
+}

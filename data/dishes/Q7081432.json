@@ -1,0 +1,20 @@
+{
+  "id": "Q7081432",
+  "name": "oil noodles",
+  "description": "type of Chinese noodles",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oil-noodles-q7081432/oil-noodles-q7081432-1.jpg",
+    "images/oil-noodles-q7081432/oil-noodles-q7081432-2.jpg",
+    "images/oil-noodles-q7081432/oil-noodles-q7081432-3.jpg",
+    "images/oil-noodles-q7081432/oil-noodles-q7081432-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7081432",
+    "themealdb": null
+  }
+}

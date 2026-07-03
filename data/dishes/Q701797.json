@@ -1,0 +1,20 @@
+{
+  "id": "Q701797",
+  "name": "takuan",
+  "description": "pickled daikon radish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/takuan-q701797/takuan-q701797-1.jpg",
+    "images/takuan-q701797/takuan-q701797-2.jpg",
+    "images/takuan-q701797/takuan-q701797-3.jpg",
+    "images/takuan-q701797/takuan-q701797-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q701797",
+    "themealdb": null
+  }
+}

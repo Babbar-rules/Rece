@@ -1,0 +1,20 @@
+{
+  "id": "Q6955858",
+  "name": "imitation crab",
+  "description": "Chinese egg dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/imitation-crab-q6955858/imitation-crab-q6955858-1.jpg",
+    "images/imitation-crab-q6955858/imitation-crab-q6955858-2.jpg",
+    "images/imitation-crab-q6955858/imitation-crab-q6955858-3.jpg",
+    "images/imitation-crab-q6955858/imitation-crab-q6955858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6955858",
+    "themealdb": null
+  }
+}

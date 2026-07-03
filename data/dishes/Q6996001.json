@@ -1,0 +1,18 @@
+{
+  "id": "Q6996001",
+  "name": "Nerds",
+  "description": "brand of candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nerds-q6996001/nerds-q6996001-1.jpg",
+    "images/nerds-q6996001/nerds-q6996001-2.jpg",
+    "images/nerds-q6996001/nerds-q6996001-3.jpg",
+    "images/nerds-q6996001/nerds-q6996001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6996001",
+    "themealdb": null
+  }
+}

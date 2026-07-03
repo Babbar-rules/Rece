@@ -1,0 +1,18 @@
+{
+  "id": "Q71129654",
+  "name": "veggie patty",
+  "description": "vegetarian patty for burger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veggie-patty-q71129654/veggie-patty-q71129654-1.jpg",
+    "images/veggie-patty-q71129654/veggie-patty-q71129654-2.jpg",
+    "images/veggie-patty-q71129654/veggie-patty-q71129654-3.jpg",
+    "images/veggie-patty-q71129654/veggie-patty-q71129654-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q71129654",
+    "themealdb": null
+  }
+}

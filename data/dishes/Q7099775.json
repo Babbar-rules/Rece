@@ -1,0 +1,20 @@
+{
+  "id": "Q7099775",
+  "name": "Orange jelly candy",
+  "description": "type of confectionery",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/orange-jelly-candy-q7099775/orange-jelly-candy-q7099775-1.jpg",
+    "images/orange-jelly-candy-q7099775/orange-jelly-candy-q7099775-2.jpg",
+    "images/orange-jelly-candy-q7099775/orange-jelly-candy-q7099775-3.jpg",
+    "images/orange-jelly-candy-q7099775/orange-jelly-candy-q7099775-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7099775",
+    "themealdb": null
+  }
+}

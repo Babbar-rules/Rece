@@ -1,0 +1,20 @@
+{
+  "id": "Q6960656",
+  "name": "Nakji bokkeum",
+  "description": "Korean stir-fried octopus dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nakji-bokkeum-q6960656/nakji-bokkeum-q6960656-1.jpg",
+    "images/nakji-bokkeum-q6960656/nakji-bokkeum-q6960656-2.jpg",
+    "images/nakji-bokkeum-q6960656/nakji-bokkeum-q6960656-3.jpg",
+    "images/nakji-bokkeum-q6960656/nakji-bokkeum-q6960656-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6960656",
+    "themealdb": null
+  }
+}

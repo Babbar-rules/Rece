@@ -1,0 +1,18 @@
+{
+  "id": "Q7070595",
+  "name": "Nutty bars",
+  "description": "American cookie brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nutty-bars-q7070595/nutty-bars-q7070595-1.jpg",
+    "images/nutty-bars-q7070595/nutty-bars-q7070595-2.jpg",
+    "images/nutty-bars-q7070595/nutty-bars-q7070595-3.jpg",
+    "images/nutty-bars-q7070595/nutty-bars-q7070595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7070595",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7070588",
+  "name": "Nutty Buddy",
+  "description": "US ice cream brand",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nutty-buddy-q7070588/nutty-buddy-q7070588-1.jpg",
+    "images/nutty-buddy-q7070588/nutty-buddy-q7070588-2.jpg",
+    "images/nutty-buddy-q7070588/nutty-buddy-q7070588-3.jpg",
+    "images/nutty-buddy-q7070588/nutty-buddy-q7070588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7070588",
+    "themealdb": null
+  }
+}

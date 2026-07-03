@@ -1,0 +1,18 @@
+{
+  "id": "Q7124365",
+  "name": "Pagit-pagit",
+  "description": "North Sumatran dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pagit-pagit-q7124365/pagit-pagit-q7124365-1.jpg",
+    "images/pagit-pagit-q7124365/pagit-pagit-q7124365-2.jpg",
+    "images/pagit-pagit-q7124365/pagit-pagit-q7124365-3.jpg",
+    "images/pagit-pagit-q7124365/pagit-pagit-q7124365-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7124365",
+    "themealdb": null
+  }
+}

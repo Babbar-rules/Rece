@@ -1,0 +1,18 @@
+{
+  "id": "Q6953102",
+  "name": "agristada",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/agristada-q6953102/agristada-q6953102-1.jpg",
+    "images/agristada-q6953102/agristada-q6953102-2.jpg",
+    "images/agristada-q6953102/agristada-q6953102-3.jpg",
+    "images/agristada-q6953102/agristada-q6953102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6953102",
+    "themealdb": null
+  }
+}

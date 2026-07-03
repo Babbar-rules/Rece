@@ -1,0 +1,18 @@
+{
+  "id": "Q6941325",
+  "name": "mushroom gravy",
+  "description": "type of sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mushroom-gravy-q6941325/mushroom-gravy-q6941325-1.jpg",
+    "images/mushroom-gravy-q6941325/mushroom-gravy-q6941325-2.jpg",
+    "images/mushroom-gravy-q6941325/mushroom-gravy-q6941325-3.jpg",
+    "images/mushroom-gravy-q6941325/mushroom-gravy-q6941325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6941325",
+    "themealdb": null
+  }
+}

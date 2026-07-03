@@ -1,0 +1,26 @@
+{
+  "id": "Q70241",
+  "name": "cold borscht",
+  "description": "traditional Ukrainian, Latvian, or Polish chilled soup made from beets and kefir",
+  "nationality": [
+    "Polish–Lithuanian Commonwealth"
+  ],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Ukrainian cuisine",
+    "Latvian cuisine",
+    "Belarusian cuisine",
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/cold-borscht-q70241/cold-borscht-q70241-1.jpg",
+    "images/cold-borscht-q70241/cold-borscht-q70241-2.jpg",
+    "images/cold-borscht-q70241/cold-borscht-q70241-3.jpg",
+    "images/cold-borscht-q70241/cold-borscht-q70241-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70241",
+    "themealdb": null
+  }
+}

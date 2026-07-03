@@ -1,0 +1,20 @@
+{
+  "id": "Q7079882",
+  "name": "ogbono soup",
+  "description": "soup made with dry, ground Irvingia gabonensis (ogbono) seeds",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ogbono-soup-q7079882/ogbono-soup-q7079882-1.jpg",
+    "images/ogbono-soup-q7079882/ogbono-soup-q7079882-2.jpg",
+    "images/ogbono-soup-q7079882/ogbono-soup-q7079882-3.jpg",
+    "images/ogbono-soup-q7079882/ogbono-soup-q7079882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7079882",
+    "themealdb": null
+  }
+}

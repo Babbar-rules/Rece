@@ -1,0 +1,25 @@
+{
+  "id": "Q6966528",
+  "name": "Naryn",
+  "description": "Central Asian noodle dish",
+  "nationality": [
+    "Uzbekistan",
+    "Kyrgyzstan"
+  ],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Kazakh cuisine",
+    "Cuisine of Uzbekistan"
+  ],
+  "images": [
+    "images/naryn-q6966528/naryn-q6966528-1.jpg",
+    "images/naryn-q6966528/naryn-q6966528-2.png",
+    "images/naryn-q6966528/naryn-q6966528-3.jpg",
+    "images/naryn-q6966528/naryn-q6966528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6966528",
+    "themealdb": null
+  }
+}

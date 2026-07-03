@@ -1,0 +1,18 @@
+{
+  "id": "Q7116380",
+  "name": "oysters en brochette",
+  "description": "New Orleans Creole dish of skewered oysters and bacon",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oysters-en-brochette-q7116380/oysters-en-brochette-q7116380-1.jpg",
+    "images/oysters-en-brochette-q7116380/oysters-en-brochette-q7116380-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7116380",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7118457",
+  "name": "PB Max",
+  "description": "discontinued brand of candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pb-max-q7118457/pb-max-q7118457-1.jpg",
+    "images/pb-max-q7118457/pb-max-q7118457-2.png",
+    "images/pb-max-q7118457/pb-max-q7118457-3.jpg",
+    "images/pb-max-q7118457/pb-max-q7118457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7118457",
+    "themealdb": null
+  }
+}

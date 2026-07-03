@@ -1,0 +1,20 @@
+{
+  "id": "Q709554",
+  "name": "bindae-tteok",
+  "description": "mung bean pancake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bindae-tteok-q709554/bindae-tteok-q709554-1.jpg",
+    "images/bindae-tteok-q709554/bindae-tteok-q709554-2.jpg",
+    "images/bindae-tteok-q709554/bindae-tteok-q709554-3.jpg",
+    "images/bindae-tteok-q709554/bindae-tteok-q709554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q709554",
+    "themealdb": null
+  }
+}

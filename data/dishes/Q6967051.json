@@ -1,0 +1,18 @@
+{
+  "id": "Q6967051",
+  "name": "Nasi paprik",
+  "description": "Thai dish of fried rice flavoured with sauteed chilli paste",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-paprik-q6967051/nasi-paprik-q6967051-1.jpg",
+    "images/nasi-paprik-q6967051/nasi-paprik-q6967051-2.jpg",
+    "images/nasi-paprik-q6967051/nasi-paprik-q6967051-3.jpg",
+    "images/nasi-paprik-q6967051/nasi-paprik-q6967051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6967051",
+    "themealdb": null
+  }
+}

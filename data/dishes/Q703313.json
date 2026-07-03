@@ -1,0 +1,21 @@
+{
+  "id": "Q703313",
+  "name": "sour rye soup",
+  "description": "traditional West Slavic soup",
+  "nationality": [
+    "Poland",
+    "Bohemia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sour-rye-soup-q703313/sour-rye-soup-q703313-1.jpg",
+    "images/sour-rye-soup-q703313/sour-rye-soup-q703313-2.jpg",
+    "images/sour-rye-soup-q703313/sour-rye-soup-q703313-3.jpg",
+    "images/sour-rye-soup-q703313/sour-rye-soup-q703313-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q703313",
+    "themealdb": null
+  }
+}

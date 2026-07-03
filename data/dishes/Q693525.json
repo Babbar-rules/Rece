@@ -1,0 +1,20 @@
+{
+  "id": "Q693525",
+  "name": "Kruidnoten",
+  "description": "Dutch candies",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kruidnoten-q693525/kruidnoten-q693525-1.jpg",
+    "images/kruidnoten-q693525/kruidnoten-q693525-2.jpg",
+    "images/kruidnoten-q693525/kruidnoten-q693525-3.jpg",
+    "images/kruidnoten-q693525/kruidnoten-q693525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q693525",
+    "themealdb": null
+  }
+}

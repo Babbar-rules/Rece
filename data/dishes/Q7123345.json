@@ -1,0 +1,18 @@
+{
+  "id": "Q7123345",
+  "name": "Paddle Pop",
+  "description": "ice cream brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paddle-pop-q7123345/paddle-pop-q7123345-1.jpg",
+    "images/paddle-pop-q7123345/paddle-pop-q7123345-2.jpg",
+    "images/paddle-pop-q7123345/paddle-pop-q7123345-3.jpg",
+    "images/paddle-pop-q7123345/paddle-pop-q7123345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7123345",
+    "themealdb": null
+  }
+}

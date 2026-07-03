@@ -1,0 +1,69 @@
+{
+  "id": "Q702104",
+  "name": "stuffed peppers",
+  "description": "dish involving filling the cavities of a pepper with other food",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Macedonian cuisine",
+    "Azerbaijani cuisine",
+    "Moldovan cuisine",
+    "Spanish cuisine",
+    "Bulgarian cuisine",
+    "Romanian cuisine",
+    "Basque cuisine",
+    "Peruvian cuisine",
+    "Turkish cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/stuffed-peppers-q702104/stuffed-peppers-q702104-1.jpg",
+    "images/stuffed-peppers-q702104/stuffed-peppers-q702104-2.jpg",
+    "images/stuffed-peppers-q702104/stuffed-peppers-q702104-3.jpg",
+    "images/stuffed-peppers-q702104/stuffed-peppers-q702104-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53490",
+    "category": "Vegetarian",
+    "area": null,
+    "instructions": "Cut the peppers lengthwise and remove the seeds.\r\nIn a bowl combine 3.5 oz (100 grams) Feta cheese, 7 oz (200 grams) cottage cheese, 1 tbsp chopped chives (optional), 1 tbsp chopped parsley (optional), 1/4 tsp salt (more or less to taste) and 1 tbsp lemon juice.\r\nFill the peppers with the mixture. Top with chopped chives and parsley.\r\nServe.",
+    "ingredients": [
+      {
+        "ingredient": "Red Pepper",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Feta",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Cottage Cheese",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Chives",
+        "measure": "1 tablespoon chopped"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "1 tablespoon chopped"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "1 tablespoon"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/w0rsga1782683912.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q702104",
+    "themealdb": "53490"
+  }
+}

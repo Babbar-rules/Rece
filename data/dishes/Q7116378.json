@@ -1,0 +1,22 @@
+{
+  "id": "Q7116378",
+  "name": "Oysters Rockefeller",
+  "description": "Type of oyster dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Louisiana Creole cuisine"
+  ],
+  "images": [
+    "images/oysters-rockefeller-q7116378/oysters-rockefeller-q7116378-1.jpg",
+    "images/oysters-rockefeller-q7116378/oysters-rockefeller-q7116378-2.jpg",
+    "images/oysters-rockefeller-q7116378/oysters-rockefeller-q7116378-3.jpg",
+    "images/oysters-rockefeller-q7116378/oysters-rockefeller-q7116378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7116378",
+    "themealdb": null
+  }
+}

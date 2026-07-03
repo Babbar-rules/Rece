@@ -1,0 +1,22 @@
+{
+  "id": "Q701519",
+  "name": "Ló͘-bah-pn̄g",
+  "description": "rice dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/lo-bah-png-q701519/lo-bah-png-q701519-1.jpg",
+    "images/lo-bah-png-q701519/lo-bah-png-q701519-2.jpg",
+    "images/lo-bah-png-q701519/lo-bah-png-q701519-3.jpg",
+    "images/lo-bah-png-q701519/lo-bah-png-q701519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q701519",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7087234",
+  "name": "Olive salad",
+  "description": "Type of salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/olive-salad-q7087234/olive-salad-q7087234-1.jpg",
+    "images/olive-salad-q7087234/olive-salad-q7087234-2.jpg",
+    "images/olive-salad-q7087234/olive-salad-q7087234-3.jpg",
+    "images/olive-salad-q7087234/olive-salad-q7087234-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7087234",
+    "themealdb": null
+  }
+}

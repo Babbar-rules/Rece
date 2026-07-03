@@ -1,0 +1,20 @@
+{
+  "id": "Q709812",
+  "name": "Ci fan tuan",
+  "description": "Chinese glutinous rice dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ci-fan-tuan-q709812/ci-fan-tuan-q709812-1.jpg",
+    "images/ci-fan-tuan-q709812/ci-fan-tuan-q709812-2.png",
+    "images/ci-fan-tuan-q709812/ci-fan-tuan-q709812-3.jpg",
+    "images/ci-fan-tuan-q709812/ci-fan-tuan-q709812-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q709812",
+    "themealdb": null
+  }
+}

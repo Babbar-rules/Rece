@@ -1,0 +1,22 @@
+{
+  "id": "Q71183889",
+  "name": "Petite marmite",
+  "description": "French soup cooked in earthenware pot",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/petite-marmite-q71183889/petite-marmite-q71183889-1.jpg",
+    "images/petite-marmite-q71183889/petite-marmite-q71183889-2.jpg",
+    "images/petite-marmite-q71183889/petite-marmite-q71183889-3.jpg",
+    "images/petite-marmite-q71183889/petite-marmite-q71183889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q71183889",
+    "themealdb": null
+  }
+}

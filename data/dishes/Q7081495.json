@@ -1,0 +1,20 @@
+{
+  "id": "Q7081495",
+  "name": "Oille",
+  "description": "French soup",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oille-q7081495/oille-q7081495-1.jpg",
+    "images/oille-q7081495/oille-q7081495-2.jpg",
+    "images/oille-q7081495/oille-q7081495-3.jpg",
+    "images/oille-q7081495/oille-q7081495-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7081495",
+    "themealdb": null
+  }
+}

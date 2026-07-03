@@ -1,0 +1,16 @@
+{
+  "id": "Q6929903",
+  "name": "Mrs. Wagner's Pies",
+  "description": "single-serving pies sold in waxed paper",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mrs-wagners-pies-q6929903/mrs-wagners-pies-q6929903-1.jpg",
+    "images/mrs-wagners-pies-q6929903/mrs-wagners-pies-q6929903-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6929903",
+    "themealdb": null
+  }
+}

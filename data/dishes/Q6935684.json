@@ -1,0 +1,19 @@
+{
+  "id": "Q6935684",
+  "name": "munchy box",
+  "description": "fast food product",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/munchy-box-q6935684/munchy-box-q6935684-1.jpg",
+    "images/munchy-box-q6935684/munchy-box-q6935684-2.jpg",
+    "images/munchy-box-q6935684/munchy-box-q6935684-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6935684",
+    "themealdb": null
+  }
+}

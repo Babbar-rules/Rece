@@ -1,0 +1,21 @@
+{
+  "id": "Q708972",
+  "name": "sanbeiji",
+  "description": "Chinese and Taiwanese dish of chicken in soy sauce, sesame oil, and rice wine",
+  "nationality": [
+    "People's Republic of China",
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sanbeiji-q708972/sanbeiji-q708972-1.jpg",
+    "images/sanbeiji-q708972/sanbeiji-q708972-2.jpg",
+    "images/sanbeiji-q708972/sanbeiji-q708972-3.jpg",
+    "images/sanbeiji-q708972/sanbeiji-q708972-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q708972",
+    "themealdb": null
+  }
+}

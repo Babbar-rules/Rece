@@ -1,0 +1,20 @@
+{
+  "id": "Q701870",
+  "name": "Japanese curry",
+  "description": "Japanese cuisine",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/japanese-curry-q701870/japanese-curry-q701870-1.jpg",
+    "images/japanese-curry-q701870/japanese-curry-q701870-2.jpg",
+    "images/japanese-curry-q701870/japanese-curry-q701870-3.jpg",
+    "images/japanese-curry-q701870/japanese-curry-q701870-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q701870",
+    "themealdb": null
+  }
+}

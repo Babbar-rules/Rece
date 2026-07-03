@@ -1,0 +1,20 @@
+{
+  "id": "Q7083004",
+  "name": "Caldo tlalpeño",
+  "description": "chicken and vegetable soup in Mexican cuisine",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-tlalpeno-q7083004/caldo-tlalpeno-q7083004-1.jpg",
+    "images/caldo-tlalpeno-q7083004/caldo-tlalpeno-q7083004-2.jpg",
+    "images/caldo-tlalpeno-q7083004/caldo-tlalpeno-q7083004-3.jpg",
+    "images/caldo-tlalpeno-q7083004/caldo-tlalpeno-q7083004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7083004",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7049965",
+  "name": "Nopalito",
+  "description": "Mexican dish made with cactus",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nopalito-q7049965/nopalito-q7049965-1.jpg",
+    "images/nopalito-q7049965/nopalito-q7049965-2.jpg",
+    "images/nopalito-q7049965/nopalito-q7049965-3.jpg",
+    "images/nopalito-q7049965/nopalito-q7049965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7049965",
+    "themealdb": null
+  }
+}

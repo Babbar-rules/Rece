@@ -1,0 +1,20 @@
+{
+  "id": "Q712554",
+  "name": "kimchi fried rice",
+  "description": "kimchi fried rice",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kimchi-fried-rice-q712554/kimchi-fried-rice-q712554-1.jpg",
+    "images/kimchi-fried-rice-q712554/kimchi-fried-rice-q712554-2.jpg",
+    "images/kimchi-fried-rice-q712554/kimchi-fried-rice-q712554-3.jpg",
+    "images/kimchi-fried-rice-q712554/kimchi-fried-rice-q712554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q712554",
+    "themealdb": null
+  }
+}

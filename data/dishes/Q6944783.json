@@ -1,0 +1,18 @@
+{
+  "id": "Q6944783",
+  "name": "My-T-Fine",
+  "description": "pudding brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/my-t-fine-q6944783/my-t-fine-q6944783-1.jpg",
+    "images/my-t-fine-q6944783/my-t-fine-q6944783-2.jpg",
+    "images/my-t-fine-q6944783/my-t-fine-q6944783-3.jpg",
+    "images/my-t-fine-q6944783/my-t-fine-q6944783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6944783",
+    "themealdb": null
+  }
+}

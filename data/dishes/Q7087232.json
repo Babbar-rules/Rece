@@ -1,0 +1,18 @@
+{
+  "id": "Q7087232",
+  "name": "olive loaf",
+  "description": "type of meatloaf stuffed with olives",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/olive-loaf-q7087232/olive-loaf-q7087232-1.jpg",
+    "images/olive-loaf-q7087232/olive-loaf-q7087232-2.jpg",
+    "images/olive-loaf-q7087232/olive-loaf-q7087232-3.jpg",
+    "images/olive-loaf-q7087232/olive-loaf-q7087232-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7087232",
+    "themealdb": null
+  }
+}

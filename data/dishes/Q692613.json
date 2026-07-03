@@ -1,0 +1,20 @@
+{
+  "id": "Q692613",
+  "name": "Tirggel",
+  "description": "Swiss traditional Christmas biscuit",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tirggel-q692613/tirggel-q692613-1.jpg",
+    "images/tirggel-q692613/tirggel-q692613-2.jpg",
+    "images/tirggel-q692613/tirggel-q692613-3.jpg",
+    "images/tirggel-q692613/tirggel-q692613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q692613",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q703413",
+  "name": "tteok",
+  "description": "rice cakes in Korean cuisine",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tteok-q703413/tteok-q703413-1.jpg",
+    "images/tteok-q703413/tteok-q703413-2.jpg",
+    "images/tteok-q703413/tteok-q703413-3.jpg",
+    "images/tteok-q703413/tteok-q703413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q703413",
+    "themealdb": null
+  }
+}

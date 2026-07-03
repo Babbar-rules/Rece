@@ -1,0 +1,18 @@
+{
+  "id": "Q6926273",
+  "name": "Moustalevria",
+  "description": "Traditional Greek dessert",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moustalevria-q6926273/moustalevria-q6926273-1.jpg",
+    "images/moustalevria-q6926273/moustalevria-q6926273-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6926273",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q711328",
+  "name": "scallion pancake",
+  "description": "Chinese savoury, non-leavened flatbread folded with oil and minced scallions (green onions)",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scallion-pancake-q711328/scallion-pancake-q711328-1.jpg",
+    "images/scallion-pancake-q711328/scallion-pancake-q711328-2.jpg",
+    "images/scallion-pancake-q711328/scallion-pancake-q711328-3.jpg",
+    "images/scallion-pancake-q711328/scallion-pancake-q711328-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q711328",
+    "themealdb": null
+  }
+}

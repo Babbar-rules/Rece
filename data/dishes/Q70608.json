@@ -1,0 +1,18 @@
+{
+  "id": "Q70608",
+  "name": "smoked fish",
+  "description": "fish preserved by smoking",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-fish-q70608/smoked-fish-q70608-1.jpg",
+    "images/smoked-fish-q70608/smoked-fish-q70608-2.jpg",
+    "images/smoked-fish-q70608/smoked-fish-q70608-3.jpg",
+    "images/smoked-fish-q70608/smoked-fish-q70608-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q70608",
+    "themealdb": null
+  }
+}
