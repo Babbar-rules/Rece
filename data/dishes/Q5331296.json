@@ -1,0 +1,18 @@
+{
+  "id": "Q5331296",
+  "name": "eating live seafood",
+  "description": "practice of eating seafood that is still alive",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eating-live-seafood-q5331296/eating-live-seafood-q5331296-1.jpg",
+    "images/eating-live-seafood-q5331296/eating-live-seafood-q5331296-2.jpg",
+    "images/eating-live-seafood-q5331296/eating-live-seafood-q5331296-3.jpg",
+    "images/eating-live-seafood-q5331296/eating-live-seafood-q5331296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5331296",
+    "themealdb": null
+  }
+}

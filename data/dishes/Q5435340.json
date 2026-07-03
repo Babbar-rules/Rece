@@ -1,0 +1,21 @@
+{
+  "id": "Q5435340",
+  "name": "farinata",
+  "description": "unleavened crêpe made from chickpea flour",
+  "nationality": [
+    "Italy",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/farinata-q5435340/farinata-q5435340-1.jpg",
+    "images/farinata-q5435340/farinata-q5435340-2.jpg",
+    "images/farinata-q5435340/farinata-q5435340-3.jpg",
+    "images/farinata-q5435340/farinata-q5435340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5435340",
+    "themealdb": null
+  }
+}

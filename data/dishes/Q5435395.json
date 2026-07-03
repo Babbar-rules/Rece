@@ -1,0 +1,20 @@
+{
+  "id": "Q5435395",
+  "name": "Farl",
+  "description": "Scottish and Irish three-cornered flatbreads and cakes",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/farl-q5435395/farl-q5435395-1.jpg",
+    "images/farl-q5435395/farl-q5435395-2.jpg",
+    "images/farl-q5435395/farl-q5435395-3.jpg",
+    "images/farl-q5435395/farl-q5435395-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5435395",
+    "themealdb": null
+  }
+}

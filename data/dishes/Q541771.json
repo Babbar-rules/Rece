@@ -1,0 +1,20 @@
+{
+  "id": "Q541771",
+  "name": "Appenzeller Biber",
+  "description": "biscuits",
+  "nationality": [],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/appenzeller-biber-q541771/appenzeller-biber-q541771-1.jpg",
+    "images/appenzeller-biber-q541771/appenzeller-biber-q541771-2.jpg",
+    "images/appenzeller-biber-q541771/appenzeller-biber-q541771-3.jpg",
+    "images/appenzeller-biber-q541771/appenzeller-biber-q541771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q541771",
+    "themealdb": null
+  }
+}

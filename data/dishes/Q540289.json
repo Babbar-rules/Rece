@@ -1,0 +1,20 @@
+{
+  "id": "Q540289",
+  "name": "Baked Alaska",
+  "description": "dessert dish of ice cream, sponge cake and meringue",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baked-alaska-q540289/baked-alaska-q540289-1.jpg",
+    "images/baked-alaska-q540289/baked-alaska-q540289-2.jpg",
+    "images/baked-alaska-q540289/baked-alaska-q540289-3.jpg",
+    "images/baked-alaska-q540289/baked-alaska-q540289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q540289",
+    "themealdb": null
+  }
+}

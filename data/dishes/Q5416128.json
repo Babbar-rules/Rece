@@ -1,0 +1,20 @@
+{
+  "id": "Q5416128",
+  "name": "Eve's pudding",
+  "description": "Traditional British pudding",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eves-pudding-q5416128/eves-pudding-q5416128-1.jpg",
+    "images/eves-pudding-q5416128/eves-pudding-q5416128-2.jpg",
+    "images/eves-pudding-q5416128/eves-pudding-q5416128-3.jpg",
+    "images/eves-pudding-q5416128/eves-pudding-q5416128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5416128",
+    "themealdb": null
+  }
+}

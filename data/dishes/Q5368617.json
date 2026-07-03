@@ -1,0 +1,20 @@
+{
+  "id": "Q5368617",
+  "name": "fagottini",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fagottini-q5368617/fagottini-q5368617-1.jpg",
+    "images/fagottini-q5368617/fagottini-q5368617-2.jpg",
+    "images/fagottini-q5368617/fagottini-q5368617-3.jpg",
+    "images/fagottini-q5368617/fagottini-q5368617-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5368617",
+    "themealdb": null
+  }
+}

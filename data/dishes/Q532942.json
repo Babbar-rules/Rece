@@ -1,0 +1,18 @@
+{
+  "id": "Q532942",
+  "name": "Choorrillanaz",
+  "description": "Chilean tipical food",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/choorrillanaz-q532942/choorrillanaz-q532942-1.jpg",
+    "images/choorrillanaz-q532942/choorrillanaz-q532942-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q532942",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5369104",
+  "name": "ojingeo-chae-bokkeum",
+  "description": "Korea dish of squid, dried and shredded, cut into short pieces, stir-fried in oil, coated with a gochujang sauce, and sprinkled with sesame seeds",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ojingeo-chae-bokkeum-q5369104/ojingeo-chae-bokkeum-q5369104-1.jpg",
+    "images/ojingeo-chae-bokkeum-q5369104/ojingeo-chae-bokkeum-q5369104-2.jpg",
+    "images/ojingeo-chae-bokkeum-q5369104/ojingeo-chae-bokkeum-q5369104-3.jpg",
+    "images/ojingeo-chae-bokkeum-q5369104/ojingeo-chae-bokkeum-q5369104-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5369104",
+    "themealdb": null
+  }
+}

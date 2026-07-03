@@ -1,0 +1,20 @@
+{
+  "id": "Q531184",
+  "name": "coronation chicken",
+  "description": "English chicken dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coronation-chicken-q531184/coronation-chicken-q531184-1.jpg",
+    "images/coronation-chicken-q531184/coronation-chicken-q531184-2.jpg",
+    "images/coronation-chicken-q531184/coronation-chicken-q531184-3.jpg",
+    "images/coronation-chicken-q531184/coronation-chicken-q531184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q531184",
+    "themealdb": null
+  }
+}

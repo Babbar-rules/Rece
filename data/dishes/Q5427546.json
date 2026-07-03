@@ -1,0 +1,20 @@
+{
+  "id": "Q5427546",
+  "name": "Fa gao",
+  "description": "Chinese steamed cake",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fa-gao-q5427546/fa-gao-q5427546-1.jpg",
+    "images/fa-gao-q5427546/fa-gao-q5427546-2.jpg",
+    "images/fa-gao-q5427546/fa-gao-q5427546-3.jpg",
+    "images/fa-gao-q5427546/fa-gao-q5427546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5427546",
+    "themealdb": null
+  }
+}

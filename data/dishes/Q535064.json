@@ -1,0 +1,20 @@
+{
+  "id": "Q535064",
+  "name": "magiritsa",
+  "description": "Greek lamb offal soup associated with Easter",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/magiritsa-q535064/magiritsa-q535064-1.jpg",
+    "images/magiritsa-q535064/magiritsa-q535064-2.jpg",
+    "images/magiritsa-q535064/magiritsa-q535064-3.jpg",
+    "images/magiritsa-q535064/magiritsa-q535064-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q535064",
+    "themealdb": null
+  }
+}

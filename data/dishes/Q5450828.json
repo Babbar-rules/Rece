@@ -1,0 +1,20 @@
+{
+  "id": "Q5450828",
+  "name": "Finnish bread",
+  "description": "Bread of Finland",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/finnish-bread-q5450828/finnish-bread-q5450828-1.jpg",
+    "images/finnish-bread-q5450828/finnish-bread-q5450828-2.jpg",
+    "images/finnish-bread-q5450828/finnish-bread-q5450828-3.jpg",
+    "images/finnish-bread-q5450828/finnish-bread-q5450828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5450828",
+    "themealdb": null
+  }
+}

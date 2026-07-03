@@ -1,0 +1,17 @@
+{
+  "id": "Q5369089",
+  "name": "Oritang",
+  "description": "Korean duck stew",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/oritang-q5369089/oritang-q5369089-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5369089",
+    "themealdb": null
+  }
+}

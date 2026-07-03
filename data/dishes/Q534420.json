@@ -1,0 +1,20 @@
+{
+  "id": "Q534420",
+  "name": "Bauernfrühstück",
+  "description": "potato dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bauernfruhstuck-q534420/bauernfruhstuck-q534420-1.jpg",
+    "images/bauernfruhstuck-q534420/bauernfruhstuck-q534420-2.jpg",
+    "images/bauernfruhstuck-q534420/bauernfruhstuck-q534420-3.jpg",
+    "images/bauernfruhstuck-q534420/bauernfruhstuck-q534420-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q534420",
+    "themealdb": null
+  }
+}

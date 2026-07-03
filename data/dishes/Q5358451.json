@@ -1,0 +1,18 @@
+{
+  "id": "Q5358451",
+  "name": "suksil-gwa",
+  "description": "cooked fruit confection",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suksil-gwa-q5358451/suksil-gwa-q5358451-1.jpg",
+    "images/suksil-gwa-q5358451/suksil-gwa-q5358451-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5358451",
+    "themealdb": null
+  }
+}

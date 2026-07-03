@@ -1,0 +1,18 @@
+{
+  "id": "Q532718",
+  "name": "Kartoffelwurst",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kartoffelwurst-q532718/kartoffelwurst-q532718-1.jpg",
+    "images/kartoffelwurst-q532718/kartoffelwurst-q532718-2.jpg",
+    "images/kartoffelwurst-q532718/kartoffelwurst-q532718-3.jpg",
+    "images/kartoffelwurst-q532718/kartoffelwurst-q532718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q532718",
+    "themealdb": null
+  }
+}

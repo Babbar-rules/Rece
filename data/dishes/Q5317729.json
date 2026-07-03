@@ -1,0 +1,20 @@
+{
+  "id": "Q5317729",
+  "name": "gajar ka halwa",
+  "description": "South Asian sweet",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gajar-ka-halwa-q5317729/gajar-ka-halwa-q5317729-1.jpg",
+    "images/gajar-ka-halwa-q5317729/gajar-ka-halwa-q5317729-2.jpg",
+    "images/gajar-ka-halwa-q5317729/gajar-ka-halwa-q5317729-3.jpg",
+    "images/gajar-ka-halwa-q5317729/gajar-ka-halwa-q5317729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5317729",
+    "themealdb": null
+  }
+}

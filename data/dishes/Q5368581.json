@@ -1,0 +1,18 @@
+{
+  "id": "Q5368581",
+  "name": "futomaki matsuri sushi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/futomaki-matsuri-sushi-q5368581/futomaki-matsuri-sushi-q5368581-1.jpg",
+    "images/futomaki-matsuri-sushi-q5368581/futomaki-matsuri-sushi-q5368581-2.jpg",
+    "images/futomaki-matsuri-sushi-q5368581/futomaki-matsuri-sushi-q5368581-3.jpg",
+    "images/futomaki-matsuri-sushi-q5368581/futomaki-matsuri-sushi-q5368581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5368581",
+    "themealdb": null
+  }
+}

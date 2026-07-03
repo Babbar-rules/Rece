@@ -1,0 +1,20 @@
+{
+  "id": "Q5359207",
+  "name": "Elenski but",
+  "description": "dry-cured ham from the town of Elena in northern Bulgaria",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/elenski-but-q5359207/elenski-but-q5359207-1.jpg",
+    "images/elenski-but-q5359207/elenski-but-q5359207-2.jpg",
+    "images/elenski-but-q5359207/elenski-but-q5359207-3.jpg",
+    "images/elenski-but-q5359207/elenski-but-q5359207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5359207",
+    "themealdb": null
+  }
+}

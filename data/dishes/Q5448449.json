@@ -1,0 +1,19 @@
+{
+  "id": "Q5448449",
+  "name": "Filindeu",
+  "description": "pasta from the Barbagia region of Sardinia",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/filindeu-q5448449/filindeu-q5448449-1.jpg",
+    "images/filindeu-q5448449/filindeu-q5448449-2.jpg",
+    "images/filindeu-q5448449/filindeu-q5448449-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5448449",
+    "themealdb": null
+  }
+}

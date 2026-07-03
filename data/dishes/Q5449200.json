@@ -1,0 +1,20 @@
+{
+  "id": "Q5449200",
+  "name": "Filone",
+  "description": "Italian bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/filone-q5449200/filone-q5449200-1.jpg",
+    "images/filone-q5449200/filone-q5449200-2.jpg",
+    "images/filone-q5449200/filone-q5449200-3.jpg",
+    "images/filone-q5449200/filone-q5449200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5449200",
+    "themealdb": null
+  }
+}

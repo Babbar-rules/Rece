@@ -1,0 +1,23 @@
+{
+  "id": "Q53925330",
+  "name": "Lapek bugih",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Padang cuisine",
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lapek-bugih-q53925330/lapek-bugih-q53925330-1.jpg",
+    "images/lapek-bugih-q53925330/lapek-bugih-q53925330-2.jpg",
+    "images/lapek-bugih-q53925330/lapek-bugih-q53925330-3.jpg",
+    "images/lapek-bugih-q53925330/lapek-bugih-q53925330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53925330",
+    "themealdb": null
+  }
+}

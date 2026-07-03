@@ -1,0 +1,18 @@
+{
+  "id": "Q53844640",
+  "name": "Broodje gezond",
+  "description": "Dutch sandwich translates as \"healthy sandwich\"",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/broodje-gezond-q53844640/broodje-gezond-q53844640-1.jpg",
+    "images/broodje-gezond-q53844640/broodje-gezond-q53844640-2.jpg",
+    "images/broodje-gezond-q53844640/broodje-gezond-q53844640-3.jpg",
+    "images/broodje-gezond-q53844640/broodje-gezond-q53844640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53844640",
+    "themealdb": null
+  }
+}

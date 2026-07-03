@@ -1,0 +1,20 @@
+{
+  "id": "Q5366160",
+  "name": "scrapple",
+  "description": "American pork offal mush",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scrapple-q5366160/scrapple-q5366160-1.jpg",
+    "images/scrapple-q5366160/scrapple-q5366160-2.jpg",
+    "images/scrapple-q5366160/scrapple-q5366160-3.jpg",
+    "images/scrapple-q5366160/scrapple-q5366160-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5366160",
+    "themealdb": null
+  }
+}

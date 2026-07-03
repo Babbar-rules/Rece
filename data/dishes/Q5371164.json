@@ -1,0 +1,18 @@
+{
+  "id": "Q5371164",
+  "name": "Hokkien fried rice",
+  "description": "Hong Kong fried rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hokkien-fried-rice-q5371164/hokkien-fried-rice-q5371164-1.jpg",
+    "images/hokkien-fried-rice-q5371164/hokkien-fried-rice-q5371164-2.jpg",
+    "images/hokkien-fried-rice-q5371164/hokkien-fried-rice-q5371164-3.jpg",
+    "images/hokkien-fried-rice-q5371164/hokkien-fried-rice-q5371164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5371164",
+    "themealdb": null
+  }
+}

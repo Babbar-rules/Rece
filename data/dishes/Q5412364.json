@@ -1,0 +1,20 @@
+{
+  "id": "Q5412364",
+  "name": "birote",
+  "description": "a type of Mexican sourdough bread",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/birote-q5412364/birote-q5412364-1.jpg",
+    "images/birote-q5412364/birote-q5412364-2.jpg",
+    "images/birote-q5412364/birote-q5412364-3.jpg",
+    "images/birote-q5412364/birote-q5412364-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5412364",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5372471",
+  "name": "Western confection",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/western-confection-q5372471/western-confection-q5372471-1.jpg",
+    "images/western-confection-q5372471/western-confection-q5372471-2.jpg",
+    "images/western-confection-q5372471/western-confection-q5372471-3.jpg",
+    "images/western-confection-q5372471/western-confection-q5372471-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5372471",
+    "themealdb": null
+  }
+}

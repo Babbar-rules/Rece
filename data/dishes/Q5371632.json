@@ -1,0 +1,20 @@
+{
+  "id": "Q5371632",
+  "name": "golbaengi-muchim",
+  "description": "Korean salad",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/golbaengi-muchim-q5371632/golbaengi-muchim-q5371632-1.jpg",
+    "images/golbaengi-muchim-q5371632/golbaengi-muchim-q5371632-2.jpg",
+    "images/golbaengi-muchim-q5371632/golbaengi-muchim-q5371632-3.jpg",
+    "images/golbaengi-muchim-q5371632/golbaengi-muchim-q5371632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5371632",
+    "themealdb": null
+  }
+}

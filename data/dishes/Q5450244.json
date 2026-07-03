@@ -1,0 +1,18 @@
+{
+  "id": "Q5450244",
+  "name": "finger steak",
+  "description": "deep-fried steak strips",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/finger-steak-q5450244/finger-steak-q5450244-1.jpg",
+    "images/finger-steak-q5450244/finger-steak-q5450244-2.jpg",
+    "images/finger-steak-q5450244/finger-steak-q5450244-3.jpg",
+    "images/finger-steak-q5450244/finger-steak-q5450244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5450244",
+    "themealdb": null
+  }
+}

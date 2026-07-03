@@ -1,0 +1,18 @@
+{
+  "id": "Q54423330",
+  "name": "fish sandwich",
+  "description": "a sandwich or burger made with fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-sandwich-q54423330/fish-sandwich-q54423330-1.jpg",
+    "images/fish-sandwich-q54423330/fish-sandwich-q54423330-2.jpg",
+    "images/fish-sandwich-q54423330/fish-sandwich-q54423330-3.jpg",
+    "images/fish-sandwich-q54423330/fish-sandwich-q54423330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54423330",
+    "themealdb": null
+  }
+}

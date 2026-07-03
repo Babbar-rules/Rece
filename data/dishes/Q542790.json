@@ -1,0 +1,20 @@
+{
+  "id": "Q542790",
+  "name": "hujiao bing",
+  "description": "Chinese baked bun",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hujiao-bing-q542790/hujiao-bing-q542790-1.jpg",
+    "images/hujiao-bing-q542790/hujiao-bing-q542790-2.jpg",
+    "images/hujiao-bing-q542790/hujiao-bing-q542790-3.jpg",
+    "images/hujiao-bing-q542790/hujiao-bing-q542790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q542790",
+    "themealdb": null
+  }
+}

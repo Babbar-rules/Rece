@@ -1,0 +1,16 @@
+{
+  "id": "Q5438829",
+  "name": "Mallorcan soup",
+  "description": "type of vegetable soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mallorcan-soup-q5438829/mallorcan-soup-q5438829-1.jpg",
+    "images/mallorcan-soup-q5438829/mallorcan-soup-q5438829-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5438829",
+    "themealdb": null
+  }
+}

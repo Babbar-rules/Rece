@@ -1,0 +1,20 @@
+{
+  "id": "Q5368607",
+  "name": "narezushi",
+  "description": "fermented sushi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/narezushi-q5368607/narezushi-q5368607-1.jpg",
+    "images/narezushi-q5368607/narezushi-q5368607-2.jpg",
+    "images/narezushi-q5368607/narezushi-q5368607-3.jpg",
+    "images/narezushi-q5368607/narezushi-q5368607-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5368607",
+    "themealdb": null
+  }
+}

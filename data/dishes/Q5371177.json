@@ -1,0 +1,22 @@
+{
+  "id": "Q5371177",
+  "name": "imitation shark's fin soup",
+  "description": "Hong Kong dish",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/imitation-sharks-fin-soup-q5371177/imitation-sharks-fin-soup-q5371177-1.jpg",
+    "images/imitation-sharks-fin-soup-q5371177/imitation-sharks-fin-soup-q5371177-2.jpg",
+    "images/imitation-sharks-fin-soup-q5371177/imitation-sharks-fin-soup-q5371177-3.jpg",
+    "images/imitation-sharks-fin-soup-q5371177/imitation-sharks-fin-soup-q5371177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5371177",
+    "themealdb": null
+  }
+}

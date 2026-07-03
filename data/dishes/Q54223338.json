@@ -1,0 +1,18 @@
+{
+  "id": "Q54223338",
+  "name": "salmon pizza",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salmon-pizza-q54223338/salmon-pizza-q54223338-1.jpg",
+    "images/salmon-pizza-q54223338/salmon-pizza-q54223338-2.jpg",
+    "images/salmon-pizza-q54223338/salmon-pizza-q54223338-3.jpg",
+    "images/salmon-pizza-q54223338/salmon-pizza-q54223338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54223338",
+    "themealdb": null
+  }
+}

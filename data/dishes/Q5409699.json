@@ -1,0 +1,20 @@
+{
+  "id": "Q5409699",
+  "name": "euneo-juk",
+  "description": "Korean porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/euneo-juk-q5409699/euneo-juk-q5409699-1.jpg",
+    "images/euneo-juk-q5409699/euneo-juk-q5409699-2.jpg",
+    "images/euneo-juk-q5409699/euneo-juk-q5409699-3.jpg",
+    "images/euneo-juk-q5409699/euneo-juk-q5409699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5409699",
+    "themealdb": null
+  }
+}

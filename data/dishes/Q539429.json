@@ -1,0 +1,21 @@
+{
+  "id": "Q539429",
+  "name": "funnel cake",
+  "description": "deep-fried batter",
+  "nationality": [
+    "United States",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/funnel-cake-q539429/funnel-cake-q539429-1.jpg",
+    "images/funnel-cake-q539429/funnel-cake-q539429-2.jpg",
+    "images/funnel-cake-q539429/funnel-cake-q539429-3.jpg",
+    "images/funnel-cake-q539429/funnel-cake-q539429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q539429",
+    "themealdb": null
+  }
+}

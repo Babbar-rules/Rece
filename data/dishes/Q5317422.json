@@ -1,0 +1,22 @@
+{
+  "id": "Q5317422",
+  "name": "Dutch baby pancake",
+  "description": "baked American pancake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the Western United States"
+  ],
+  "images": [
+    "images/dutch-baby-pancake-q5317422/dutch-baby-pancake-q5317422-1.jpg",
+    "images/dutch-baby-pancake-q5317422/dutch-baby-pancake-q5317422-2.jpg",
+    "images/dutch-baby-pancake-q5317422/dutch-baby-pancake-q5317422-3.jpg",
+    "images/dutch-baby-pancake-q5317422/dutch-baby-pancake-q5317422-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5317422",
+    "themealdb": null
+  }
+}

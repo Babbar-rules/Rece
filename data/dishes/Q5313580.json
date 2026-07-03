@@ -1,0 +1,18 @@
+{
+  "id": "Q5313580",
+  "name": "Dum Dum Pop",
+  "description": "Lollipops",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dum-dum-pop-q5313580/dum-dum-pop-q5313580-1.jpg",
+    "images/dum-dum-pop-q5313580/dum-dum-pop-q5313580-2.png",
+    "images/dum-dum-pop-q5313580/dum-dum-pop-q5313580-3.jpg",
+    "images/dum-dum-pop-q5313580/dum-dum-pop-q5313580-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5313580",
+    "themealdb": null
+  }
+}

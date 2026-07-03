@@ -1,0 +1,20 @@
+{
+  "id": "Q534023",
+  "name": "turducken",
+  "description": "US dish consisting of a deboned chicken stuffed into a deboned duck which is then stuffed into a deboned turkey",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turducken-q534023/turducken-q534023-1.jpg",
+    "images/turducken-q534023/turducken-q534023-2.jpg",
+    "images/turducken-q534023/turducken-q534023-3.jpg",
+    "images/turducken-q534023/turducken-q534023-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q534023",
+    "themealdb": null
+  }
+}

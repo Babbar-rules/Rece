@@ -1,0 +1,19 @@
+{
+  "id": "Q54165556",
+  "name": "Kunga cake",
+  "description": "East African food",
+  "nationality": [
+    "Tanzania",
+    "Malawi",
+    "Mozambique"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kunga-cake-q54165556/kunga-cake-q54165556-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54165556",
+    "themealdb": null
+  }
+}

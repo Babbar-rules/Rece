@@ -1,0 +1,22 @@
+{
+  "id": "Q5420610",
+  "name": "potage",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [
+    "English cuisine",
+    "Spanish cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/potage-q5420610/potage-q5420610-1.jpg",
+    "images/potage-q5420610/potage-q5420610-2.jpg",
+    "images/potage-q5420610/potage-q5420610-3.jpg",
+    "images/potage-q5420610/potage-q5420610-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5420610",
+    "themealdb": null
+  }
+}

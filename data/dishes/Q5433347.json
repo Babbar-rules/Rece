@@ -1,0 +1,18 @@
+{
+  "id": "Q5433347",
+  "name": "family meal",
+  "description": "staff meal at a restaurant",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/family-meal-q5433347/family-meal-q5433347-1.jpg",
+    "images/family-meal-q5433347/family-meal-q5433347-2.jpg",
+    "images/family-meal-q5433347/family-meal-q5433347-3.jpg",
+    "images/family-meal-q5433347/family-meal-q5433347-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5433347",
+    "themealdb": null
+  }
+}

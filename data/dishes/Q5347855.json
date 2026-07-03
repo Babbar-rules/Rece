@@ -1,0 +1,18 @@
+{
+  "id": "Q5347855",
+  "name": "egg roast",
+  "description": "egg dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-roast-q5347855/egg-roast-q5347855-1.jpg",
+    "images/egg-roast-q5347855/egg-roast-q5347855-2.jpg",
+    "images/egg-roast-q5347855/egg-roast-q5347855-3.jpg",
+    "images/egg-roast-q5347855/egg-roast-q5347855-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5347855",
+    "themealdb": null
+  }
+}

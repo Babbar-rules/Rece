@@ -1,0 +1,20 @@
+{
+  "id": "Q5347834",
+  "name": "egg and chips",
+  "description": "popular dish in the United Kingdom",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-and-chips-q5347834/egg-and-chips-q5347834-1.jpg",
+    "images/egg-and-chips-q5347834/egg-and-chips-q5347834-2.jpg",
+    "images/egg-and-chips-q5347834/egg-and-chips-q5347834-3.jpg",
+    "images/egg-and-chips-q5347834/egg-and-chips-q5347834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5347834",
+    "themealdb": null
+  }
+}

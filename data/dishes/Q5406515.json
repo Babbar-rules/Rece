@@ -1,0 +1,18 @@
+{
+  "id": "Q5406515",
+  "name": "patasca",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/patasca-q5406515/patasca-q5406515-1.jpg",
+    "images/patasca-q5406515/patasca-q5406515-2.jpg",
+    "images/patasca-q5406515/patasca-q5406515-3.jpg",
+    "images/patasca-q5406515/patasca-q5406515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5406515",
+    "themealdb": null
+  }
+}

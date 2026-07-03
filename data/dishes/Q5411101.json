@@ -1,0 +1,20 @@
+{
+  "id": "Q5411101",
+  "name": "Bica",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Galician cuisine"
+  ],
+  "images": [
+    "images/bica-q5411101/bica-q5411101-1.jpg",
+    "images/bica-q5411101/bica-q5411101-2.jpg",
+    "images/bica-q5411101/bica-q5411101-3.jpg",
+    "images/bica-q5411101/bica-q5411101-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5411101",
+    "themealdb": null
+  }
+}

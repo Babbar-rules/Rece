@@ -1,0 +1,22 @@
+{
+  "id": "Q5373825",
+  "name": "empal gentong",
+  "description": "Indonesian beef soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/empal-gentong-q5373825/empal-gentong-q5373825-1.jpg",
+    "images/empal-gentong-q5373825/empal-gentong-q5373825-2.jpg",
+    "images/empal-gentong-q5373825/empal-gentong-q5373825-3.jpg",
+    "images/empal-gentong-q5373825/empal-gentong-q5373825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5373825",
+    "themealdb": null
+  }
+}

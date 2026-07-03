@@ -1,0 +1,21 @@
+{
+  "id": "Q542335",
+  "name": "pickled egg",
+  "description": "regional cuisine",
+  "nationality": [],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "British cuisine"
+  ],
+  "images": [
+    "images/pickled-egg-q542335/pickled-egg-q542335-1.jpg",
+    "images/pickled-egg-q542335/pickled-egg-q542335-2.jpg",
+    "images/pickled-egg-q542335/pickled-egg-q542335-3.jpg",
+    "images/pickled-egg-q542335/pickled-egg-q542335-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q542335",
+    "themealdb": null
+  }
+}

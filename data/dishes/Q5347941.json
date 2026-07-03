@@ -1,0 +1,18 @@
+{
+  "id": "Q5347941",
+  "name": "eggs and brains",
+  "description": "breakfast dish of eggs and brains",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eggs-and-brains-q5347941/eggs-and-brains-q5347941-1.jpg",
+    "images/eggs-and-brains-q5347941/eggs-and-brains-q5347941-2.jpg",
+    "images/eggs-and-brains-q5347941/eggs-and-brains-q5347941-3.png",
+    "images/eggs-and-brains-q5347941/eggs-and-brains-q5347941-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5347941",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q53619707",
+  "name": "egg pasta",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-pasta-q53619707/egg-pasta-q53619707-1.jpg",
+    "images/egg-pasta-q53619707/egg-pasta-q53619707-2.jpg",
+    "images/egg-pasta-q53619707/egg-pasta-q53619707-3.jpg",
+    "images/egg-pasta-q53619707/egg-pasta-q53619707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53619707",
+    "themealdb": null
+  }
+}

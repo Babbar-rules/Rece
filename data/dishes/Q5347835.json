@@ -1,0 +1,20 @@
+{
+  "id": "Q5347835",
+  "name": "egg bhurji",
+  "description": "South Asian dish of eggs, onions, chilies, and spices",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-bhurji-q5347835/egg-bhurji-q5347835-1.jpg",
+    "images/egg-bhurji-q5347835/egg-bhurji-q5347835-2.jpg",
+    "images/egg-bhurji-q5347835/egg-bhurji-q5347835-3.jpg",
+    "images/egg-bhurji-q5347835/egg-bhurji-q5347835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5347835",
+    "themealdb": null
+  }
+}

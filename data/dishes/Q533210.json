@@ -1,0 +1,18 @@
+{
+  "id": "Q533210",
+  "name": "Schupfnudel",
+  "description": "Central European recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schupfnudel-q533210/schupfnudel-q533210-1.jpg",
+    "images/schupfnudel-q533210/schupfnudel-q533210-2.jpg",
+    "images/schupfnudel-q533210/schupfnudel-q533210-3.jpg",
+    "images/schupfnudel-q533210/schupfnudel-q533210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q533210",
+    "themealdb": null
+  }
+}

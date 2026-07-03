@@ -1,0 +1,20 @@
+{
+  "id": "Q5371719",
+  "name": "Seon",
+  "description": "Korean traditional dishes",
+  "nationality": [],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/seon-q5371719/seon-q5371719-1.jpg",
+    "images/seon-q5371719/seon-q5371719-2.jpg",
+    "images/seon-q5371719/seon-q5371719-3.jpg",
+    "images/seon-q5371719/seon-q5371719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5371719",
+    "themealdb": null
+  }
+}

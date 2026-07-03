@@ -1,0 +1,18 @@
+{
+  "id": "Q5319091",
+  "name": "dynamite roll",
+  "description": "type of Western-style sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dynamite-roll-q5319091/dynamite-roll-q5319091-1.jpg",
+    "images/dynamite-roll-q5319091/dynamite-roll-q5319091-2.jpg",
+    "images/dynamite-roll-q5319091/dynamite-roll-q5319091-3.jpg",
+    "images/dynamite-roll-q5319091/dynamite-roll-q5319091-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5319091",
+    "themealdb": null
+  }
+}

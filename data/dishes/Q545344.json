@@ -1,0 +1,18 @@
+{
+  "id": "Q545344",
+  "name": "chipa guasu",
+  "description": "Paraguayan savory corn cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chipa-guasu-q545344/chipa-guasu-q545344-1.jpg",
+    "images/chipa-guasu-q545344/chipa-guasu-q545344-2.jpg",
+    "images/chipa-guasu-q545344/chipa-guasu-q545344-3.jpg",
+    "images/chipa-guasu-q545344/chipa-guasu-q545344-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q545344",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5390330",
+  "name": "tongue toast",
+  "description": "open sandwich of beef tongue and eggs",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tongue-toast-q5390330/tongue-toast-q5390330-1.jpg",
+    "images/tongue-toast-q5390330/tongue-toast-q5390330-2.jpg",
+    "images/tongue-toast-q5390330/tongue-toast-q5390330-3.jpg",
+    "images/tongue-toast-q5390330/tongue-toast-q5390330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5390330",
+    "themealdb": null
+  }
+}

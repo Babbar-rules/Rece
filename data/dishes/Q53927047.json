@@ -1,0 +1,22 @@
+{
+  "id": "Q53927047",
+  "name": "Egyptian Martabak",
+  "description": "Indonesian food, one type of bread",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/egyptian-martabak-q53927047/egyptian-martabak-q53927047-1.jpg",
+    "images/egyptian-martabak-q53927047/egyptian-martabak-q53927047-2.jpg",
+    "images/egyptian-martabak-q53927047/egyptian-martabak-q53927047-3.jpg",
+    "images/egyptian-martabak-q53927047/egyptian-martabak-q53927047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53927047",
+    "themealdb": null
+  }
+}

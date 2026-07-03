@@ -1,0 +1,20 @@
+{
+  "id": "Q5396648",
+  "name": "es teler",
+  "description": "Indonesian dessert",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/es-teler-q5396648/es-teler-q5396648-1.jpg",
+    "images/es-teler-q5396648/es-teler-q5396648-2.jpg",
+    "images/es-teler-q5396648/es-teler-q5396648-3.jpg",
+    "images/es-teler-q5396648/es-teler-q5396648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5396648",
+    "themealdb": null
+  }
+}

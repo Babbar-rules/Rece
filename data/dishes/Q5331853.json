@@ -1,0 +1,20 @@
+{
+  "id": "Q5331853",
+  "name": "chili shrimp",
+  "description": "stir-fried shrimp in chili sauce",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chili-shrimp-q5331853/chili-shrimp-q5331853-1.jpg",
+    "images/chili-shrimp-q5331853/chili-shrimp-q5331853-2.jpg",
+    "images/chili-shrimp-q5331853/chili-shrimp-q5331853-3.jpg",
+    "images/chili-shrimp-q5331853/chili-shrimp-q5331853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5331853",
+    "themealdb": null
+  }
+}

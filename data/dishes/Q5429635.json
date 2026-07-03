@@ -1,0 +1,20 @@
+{
+  "id": "Q5429635",
+  "name": "Fahsa",
+  "description": "Lamb dish",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fahsa-q5429635/fahsa-q5429635-1.jpg",
+    "images/fahsa-q5429635/fahsa-q5429635-2.jpg",
+    "images/fahsa-q5429635/fahsa-q5429635-3.jpg",
+    "images/fahsa-q5429635/fahsa-q5429635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5429635",
+    "themealdb": null
+  }
+}

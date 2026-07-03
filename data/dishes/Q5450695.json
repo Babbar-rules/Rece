@@ -1,0 +1,22 @@
+{
+  "id": "Q5450695",
+  "name": "Finnan haddie",
+  "description": "cold-smoked haddock, representative of a regional method of smoking with green wood and peat in north-east Scotland",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [
+    "Scottish cuisine"
+  ],
+  "images": [
+    "images/finnan-haddie-q5450695/finnan-haddie-q5450695-1.jpeg",
+    "images/finnan-haddie-q5450695/finnan-haddie-q5450695-2.jpeg",
+    "images/finnan-haddie-q5450695/finnan-haddie-q5450695-3.jpeg",
+    "images/finnan-haddie-q5450695/finnan-haddie-q5450695-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5450695",
+    "themealdb": null
+  }
+}

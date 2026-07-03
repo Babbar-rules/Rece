@@ -1,0 +1,20 @@
+{
+  "id": "Q5311505",
+  "name": "duckanoo",
+  "description": "Caribbean cornmeal dessert",
+  "nationality": [
+    "Caribbean"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duckanoo-q5311505/duckanoo-q5311505-1.jpg",
+    "images/duckanoo-q5311505/duckanoo-q5311505-2.jpg",
+    "images/duckanoo-q5311505/duckanoo-q5311505-3.jpg",
+    "images/duckanoo-q5311505/duckanoo-q5311505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5311505",
+    "themealdb": null
+  }
+}

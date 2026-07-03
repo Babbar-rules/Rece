@@ -1,0 +1,19 @@
+{
+  "id": "Q540543",
+  "name": "Kartoffelkäse",
+  "description": "potato dish",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kartoffelkase-q540543/kartoffelkase-q540543-1.jpg",
+    "images/kartoffelkase-q540543/kartoffelkase-q540543-2.jpg",
+    "images/kartoffelkase-q540543/kartoffelkase-q540543-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q540543",
+    "themealdb": null
+  }
+}

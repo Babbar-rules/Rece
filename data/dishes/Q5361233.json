@@ -1,0 +1,20 @@
+{
+  "id": "Q5361233",
+  "name": "rotini",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rotini-q5361233/rotini-q5361233-1.jpg",
+    "images/rotini-q5361233/rotini-q5361233-2.jpg",
+    "images/rotini-q5361233/rotini-q5361233-3.jpg",
+    "images/rotini-q5361233/rotini-q5361233-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5361233",
+    "themealdb": null
+  }
+}

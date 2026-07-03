@@ -1,0 +1,20 @@
+{
+  "id": "Q5338306",
+  "name": "Edinburgh rock",
+  "description": "type of candy from Scotland",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/edinburgh-rock-q5338306/edinburgh-rock-q5338306-1.jpg",
+    "images/edinburgh-rock-q5338306/edinburgh-rock-q5338306-2.jpg",
+    "images/edinburgh-rock-q5338306/edinburgh-rock-q5338306-3.jpg",
+    "images/edinburgh-rock-q5338306/edinburgh-rock-q5338306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5338306",
+    "themealdb": null
+  }
+}

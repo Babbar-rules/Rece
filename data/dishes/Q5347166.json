@@ -1,0 +1,20 @@
+{
+  "id": "Q5347166",
+  "name": "Eetch",
+  "description": "Armenian side dish",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eetch-q5347166/eetch-q5347166-1.jpg",
+    "images/eetch-q5347166/eetch-q5347166-2.jpg",
+    "images/eetch-q5347166/eetch-q5347166-3.jpg",
+    "images/eetch-q5347166/eetch-q5347166-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5347166",
+    "themealdb": null
+  }
+}

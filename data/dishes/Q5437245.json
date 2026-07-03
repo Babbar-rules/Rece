@@ -1,0 +1,20 @@
+{
+  "id": "Q5437245",
+  "name": "Fat rascal",
+  "description": "Traditional cake from Yorkshire",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fat-rascal-q5437245/fat-rascal-q5437245-1.jpg",
+    "images/fat-rascal-q5437245/fat-rascal-q5437245-2.jpg",
+    "images/fat-rascal-q5437245/fat-rascal-q5437245-3.jpg",
+    "images/fat-rascal-q5437245/fat-rascal-q5437245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5437245",
+    "themealdb": null
+  }
+}

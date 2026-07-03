@@ -1,0 +1,15 @@
+{
+  "id": "Q5422785",
+  "name": "Eyerlekh",
+  "description": "unlaid eggs found inside just-slaughtered chickens",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eyerlekh-q5422785/eyerlekh-q5422785-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5422785",
+    "themealdb": null
+  }
+}

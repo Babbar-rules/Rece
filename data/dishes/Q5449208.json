@@ -1,0 +1,18 @@
+{
+  "id": "Q5449208",
+  "name": "Filoz",
+  "description": "pancake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/filoz-q5449208/filoz-q5449208-1.jpg",
+    "images/filoz-q5449208/filoz-q5449208-2.jpg",
+    "images/filoz-q5449208/filoz-q5449208-3.jpg",
+    "images/filoz-q5449208/filoz-q5449208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5449208",
+    "themealdb": null
+  }
+}

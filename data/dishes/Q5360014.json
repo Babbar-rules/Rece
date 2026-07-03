@@ -1,0 +1,18 @@
+{
+  "id": "Q5360014",
+  "name": "tofu puff",
+  "description": "food product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-puff-q5360014/tofu-puff-q5360014-1.jpg",
+    "images/tofu-puff-q5360014/tofu-puff-q5360014-2.jpg",
+    "images/tofu-puff-q5360014/tofu-puff-q5360014-3.jpg",
+    "images/tofu-puff-q5360014/tofu-puff-q5360014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5360014",
+    "themealdb": null
+  }
+}

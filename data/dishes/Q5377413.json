@@ -1,0 +1,18 @@
+{
+  "id": "Q5377413",
+  "name": "Engagement Chicken",
+  "description": "American dish rumored to lead to marriage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/engagement-chicken-q5377413/engagement-chicken-q5377413-1.jpg",
+    "images/engagement-chicken-q5377413/engagement-chicken-q5377413-2.jpg",
+    "images/engagement-chicken-q5377413/engagement-chicken-q5377413-3.jpg",
+    "images/engagement-chicken-q5377413/engagement-chicken-q5377413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5377413",
+    "themealdb": null
+  }
+}

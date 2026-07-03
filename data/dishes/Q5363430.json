@@ -1,0 +1,20 @@
+{
+  "id": "Q5363430",
+  "name": "chicken rice",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-rice-q5363430/chicken-rice-q5363430-1.jpg",
+    "images/chicken-rice-q5363430/chicken-rice-q5363430-2.jpg",
+    "images/chicken-rice-q5363430/chicken-rice-q5363430-3.jpg",
+    "images/chicken-rice-q5363430/chicken-rice-q5363430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5363430",
+    "themealdb": null
+  }
+}

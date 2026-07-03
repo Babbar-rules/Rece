@@ -1,0 +1,20 @@
+{
+  "id": "Q5454466",
+  "name": "Fish-shaped pastry",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-shaped-pastry-q5454466/fish-shaped-pastry-q5454466-1.jpg",
+    "images/fish-shaped-pastry-q5454466/fish-shaped-pastry-q5454466-2.jpg",
+    "images/fish-shaped-pastry-q5454466/fish-shaped-pastry-q5454466-3.jpg",
+    "images/fish-shaped-pastry-q5454466/fish-shaped-pastry-q5454466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454466",
+    "themealdb": null
+  }
+}

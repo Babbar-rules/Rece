@@ -1,0 +1,18 @@
+{
+  "id": "Q53748108",
+  "name": "Lemon curd",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-curd-q53748108/lemon-curd-q53748108-1.jpg",
+    "images/lemon-curd-q53748108/lemon-curd-q53748108-2.jpg",
+    "images/lemon-curd-q53748108/lemon-curd-q53748108-3.jpg",
+    "images/lemon-curd-q53748108/lemon-curd-q53748108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q53748108",
+    "themealdb": null
+  }
+}

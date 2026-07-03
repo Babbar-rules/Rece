@@ -1,0 +1,19 @@
+{
+  "id": "Q5371715",
+  "name": "Yeonpotang",
+  "description": "Korean beef soup dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yeonpotang-q5371715/yeonpotang-q5371715-1.jpg",
+    "images/yeonpotang-q5371715/yeonpotang-q5371715-2.jpg",
+    "images/yeonpotang-q5371715/yeonpotang-q5371715-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5371715",
+    "themealdb": null
+  }
+}

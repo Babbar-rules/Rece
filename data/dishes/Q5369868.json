@@ -1,0 +1,20 @@
+{
+  "id": "Q5369868",
+  "name": "rice burger",
+  "description": "sandwich, whose buns are made of rice",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-burger-q5369868/rice-burger-q5369868-1.jpg",
+    "images/rice-burger-q5369868/rice-burger-q5369868-2.jpg",
+    "images/rice-burger-q5369868/rice-burger-q5369868-3.jpg",
+    "images/rice-burger-q5369868/rice-burger-q5369868-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5369868",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5368786",
+  "name": "Garae-tteok",
+  "description": "Korean rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/garae-tteok-q5368786/garae-tteok-q5368786-1.jpg",
+    "images/garae-tteok-q5368786/garae-tteok-q5368786-2.png",
+    "images/garae-tteok-q5368786/garae-tteok-q5368786-3.jpg",
+    "images/garae-tteok-q5368786/garae-tteok-q5368786-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5368786",
+    "themealdb": null
+  }
+}

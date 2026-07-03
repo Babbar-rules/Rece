@@ -1,0 +1,20 @@
+{
+  "id": "Q5361273",
+  "name": "fiori",
+  "description": "decorative shape of extruded pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fiori-q5361273/fiori-q5361273-1.jpg",
+    "images/fiori-q5361273/fiori-q5361273-2.jpg",
+    "images/fiori-q5361273/fiori-q5361273-3.jpg",
+    "images/fiori-q5361273/fiori-q5361273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5361273",
+    "themealdb": null
+  }
+}

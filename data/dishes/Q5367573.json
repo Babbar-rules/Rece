@@ -1,0 +1,20 @@
+{
+  "id": "Q5367573",
+  "name": "meat pie",
+  "description": "pie with a filling of meat",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-pie-q5367573/meat-pie-q5367573-1.jpg",
+    "images/meat-pie-q5367573/meat-pie-q5367573-2.jpg",
+    "images/meat-pie-q5367573/meat-pie-q5367573-3.jpg",
+    "images/meat-pie-q5367573/meat-pie-q5367573-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5367573",
+    "themealdb": null
+  }
+}

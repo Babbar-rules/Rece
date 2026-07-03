@@ -1,0 +1,20 @@
+{
+  "id": "Q5390483",
+  "name": "Medovník",
+  "description": "cake from USSR",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/medovnik-q5390483/medovnik-q5390483-1.jpg",
+    "images/medovnik-q5390483/medovnik-q5390483-2.jpg",
+    "images/medovnik-q5390483/medovnik-q5390483-3.jpg",
+    "images/medovnik-q5390483/medovnik-q5390483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5390483",
+    "themealdb": null
+  }
+}

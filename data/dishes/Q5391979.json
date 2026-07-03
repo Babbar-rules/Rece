@@ -1,0 +1,19 @@
+{
+  "id": "Q5391979",
+  "name": "gul-gukbap",
+  "description": "Korean rice soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gul-gukbap-q5391979/gul-gukbap-q5391979-1.jpg",
+    "images/gul-gukbap-q5391979/gul-gukbap-q5391979-2.jpg",
+    "images/gul-gukbap-q5391979/gul-gukbap-q5391979-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5391979",
+    "themealdb": null
+  }
+}

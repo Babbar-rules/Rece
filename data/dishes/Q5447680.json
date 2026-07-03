@@ -1,0 +1,21 @@
+{
+  "id": "Q5447680",
+  "name": "Fig roll",
+  "description": "snack food",
+  "nationality": [
+    "Egypt",
+    "Ancient Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fig-roll-q5447680/fig-roll-q5447680-1.jpg",
+    "images/fig-roll-q5447680/fig-roll-q5447680-2.jpg",
+    "images/fig-roll-q5447680/fig-roll-q5447680-3.jpg",
+    "images/fig-roll-q5447680/fig-roll-q5447680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5447680",
+    "themealdb": null
+  }
+}

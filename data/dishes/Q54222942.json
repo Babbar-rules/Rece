@@ -1,0 +1,18 @@
+{
+  "id": "Q54222942",
+  "name": "Vegetable risotto",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegetable-risotto-q54222942/vegetable-risotto-q54222942-1.jpg",
+    "images/vegetable-risotto-q54222942/vegetable-risotto-q54222942-2.jpg",
+    "images/vegetable-risotto-q54222942/vegetable-risotto-q54222942-3.jpg",
+    "images/vegetable-risotto-q54222942/vegetable-risotto-q54222942-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54222942",
+    "themealdb": null
+  }
+}

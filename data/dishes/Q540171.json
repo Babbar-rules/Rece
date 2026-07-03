@@ -1,0 +1,20 @@
+{
+  "id": "Q540171",
+  "name": "Kompeitō",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kompeito-q540171/kompeito-q540171-1.jpg",
+    "images/kompeito-q540171/kompeito-q540171-2.jpg",
+    "images/kompeito-q540171/kompeito-q540171-3.jpg",
+    "images/kompeito-q540171/kompeito-q540171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q540171",
+    "themealdb": null
+  }
+}
