@@ -1,0 +1,18 @@
+{
+  "id": "Q7456014",
+  "name": "Sesame chicken",
+  "description": "chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sesame-chicken-q7456014/sesame-chicken-q7456014-1.jpg",
+    "images/sesame-chicken-q7456014/sesame-chicken-q7456014-2.jpg",
+    "images/sesame-chicken-q7456014/sesame-chicken-q7456014-3.jpg",
+    "images/sesame-chicken-q7456014/sesame-chicken-q7456014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7456014",
+    "themealdb": null
+  }
+}

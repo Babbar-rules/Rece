@@ -1,0 +1,18 @@
+{
+  "id": "Q7542234",
+  "name": "slugburger",
+  "description": "southern United States food",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slugburger-q7542234/slugburger-q7542234-1.jpg",
+    "images/slugburger-q7542234/slugburger-q7542234-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7542234",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7386962",
+  "name": "Rượu nếp",
+  "description": "Mildly alcoholic Vietnamese pudding or wine made from fermented glutinous rice",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ruou-nep-q7386962/ruou-nep-q7386962-1.jpg",
+    "images/ruou-nep-q7386962/ruou-nep-q7386962-2.jpg",
+    "images/ruou-nep-q7386962/ruou-nep-q7386962-3.jpg",
+    "images/ruou-nep-q7386962/ruou-nep-q7386962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7386962",
+    "themealdb": null
+  }
+}

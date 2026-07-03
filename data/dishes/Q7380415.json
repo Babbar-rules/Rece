@@ -1,0 +1,20 @@
+{
+  "id": "Q7380415",
+  "name": "Layered Rye Bread",
+  "description": "traditional Latvian dessert",
+  "nationality": [
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/layered-rye-bread-q7380415/layered-rye-bread-q7380415-1.jpg",
+    "images/layered-rye-bread-q7380415/layered-rye-bread-q7380415-2.jpg",
+    "images/layered-rye-bread-q7380415/layered-rye-bread-q7380415-3.jpg",
+    "images/layered-rye-bread-q7380415/layered-rye-bread-q7380415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7380415",
+    "themealdb": null
+  }
+}

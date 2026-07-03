@@ -1,0 +1,18 @@
+{
+  "id": "Q7395806",
+  "name": "Sabaayad",
+  "description": "Meal in Somalia and Djibouti",
+  "nationality": [
+    "Somalia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sabaayad-q7395806/sabaayad-q7395806-1.jpg",
+    "images/sabaayad-q7395806/sabaayad-q7395806-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7395806",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q742186",
+  "name": "Yassa (edziban)",
+  "description": "Senegalese spicy marinated poultry, lamb or fish dish",
+  "nationality": [
+    "Senegal"
+  ],
+  "region_cuisine": [
+    "Senegalese cuisine"
+  ],
+  "images": [
+    "images/yassa-edziban-q742186/yassa-edziban-q742186-1.jpg",
+    "images/yassa-edziban-q742186/yassa-edziban-q742186-2.jpg",
+    "images/yassa-edziban-q742186/yassa-edziban-q742186-3.jpg",
+    "images/yassa-edziban-q742186/yassa-edziban-q742186-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q742186",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7545923",
+  "name": "smoked salmon cheesecake",
+  "description": "Savoury cheesecake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-salmon-cheesecake-q7545923/smoked-salmon-cheesecake-q7545923-1.jpg",
+    "images/smoked-salmon-cheesecake-q7545923/smoked-salmon-cheesecake-q7545923-2.jpg",
+    "images/smoked-salmon-cheesecake-q7545923/smoked-salmon-cheesecake-q7545923-3.jpg",
+    "images/smoked-salmon-cheesecake-q7545923/smoked-salmon-cheesecake-q7545923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7545923",
+    "themealdb": null
+  }
+}

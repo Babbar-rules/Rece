@@ -1,0 +1,18 @@
+{
+  "id": "Q748611",
+  "name": "finger food",
+  "description": "food to be consumed without utensils",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/finger-food-q748611/finger-food-q748611-1.jpg",
+    "images/finger-food-q748611/finger-food-q748611-2.jpg",
+    "images/finger-food-q748611/finger-food-q748611-3.jpg",
+    "images/finger-food-q748611/finger-food-q748611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q748611",
+    "themealdb": null
+  }
+}

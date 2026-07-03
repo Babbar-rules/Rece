@@ -1,0 +1,20 @@
+{
+  "id": "Q7440353",
+  "name": "seafoam salad",
+  "description": "US dessert salad made of lime-flavored gelatin",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seafoam-salad-q7440353/seafoam-salad-q7440353-1.jpg",
+    "images/seafoam-salad-q7440353/seafoam-salad-q7440353-2.jpg",
+    "images/seafoam-salad-q7440353/seafoam-salad-q7440353-3.jpg",
+    "images/seafoam-salad-q7440353/seafoam-salad-q7440353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7440353",
+    "themealdb": null
+  }
+}

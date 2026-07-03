@@ -1,0 +1,21 @@
+{
+  "id": "Q7438301",
+  "name": "Scouse",
+  "description": "Lamb or beef stew",
+  "nationality": [
+    "Norway",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scouse-q7438301/scouse-q7438301-1.jpg",
+    "images/scouse-q7438301/scouse-q7438301-2.jpg",
+    "images/scouse-q7438301/scouse-q7438301-3.jpg",
+    "images/scouse-q7438301/scouse-q7438301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7438301",
+    "themealdb": null
+  }
+}

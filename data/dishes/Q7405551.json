@@ -1,0 +1,18 @@
+{
+  "id": "Q7405551",
+  "name": "salmon burger",
+  "description": "fishcake made from salmon in the style of a hamburger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salmon-burger-q7405551/salmon-burger-q7405551-1.jpg",
+    "images/salmon-burger-q7405551/salmon-burger-q7405551-2.jpg",
+    "images/salmon-burger-q7405551/salmon-burger-q7405551-3.jpg",
+    "images/salmon-burger-q7405551/salmon-burger-q7405551-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7405551",
+    "themealdb": null
+  }
+}

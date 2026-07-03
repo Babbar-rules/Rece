@@ -1,0 +1,17 @@
+{
+  "id": "Q7504005",
+  "name": "Shrimp DeJonghe",
+  "description": "Food dish of Chicago, Illinois, US",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-dejonghe-q7504005/shrimp-dejonghe-q7504005-1.jpg",
+    "images/shrimp-dejonghe-q7504005/shrimp-dejonghe-q7504005-2.jpg",
+    "images/shrimp-dejonghe-q7504005/shrimp-dejonghe-q7504005-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7504005",
+    "themealdb": null
+  }
+}

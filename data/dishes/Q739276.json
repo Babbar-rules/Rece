@@ -1,0 +1,18 @@
+{
+  "id": "Q739276",
+  "name": "suquet de peix",
+  "description": "Catalan seafood potato stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suquet-de-peix-q739276/suquet-de-peix-q739276-1.jpg",
+    "images/suquet-de-peix-q739276/suquet-de-peix-q739276-2.jpg",
+    "images/suquet-de-peix-q739276/suquet-de-peix-q739276-3.jpg",
+    "images/suquet-de-peix-q739276/suquet-de-peix-q739276-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q739276",
+    "themealdb": null
+  }
+}

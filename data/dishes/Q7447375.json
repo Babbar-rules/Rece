@@ -1,0 +1,22 @@
+{
+  "id": "Q7447375",
+  "name": "Sel roti",
+  "description": "Nepalese ring-shaped sweet rice bread",
+  "nationality": [
+    "Nepal"
+  ],
+  "region_cuisine": [
+    "Nepalese cuisine"
+  ],
+  "images": [
+    "images/sel-roti-q7447375/sel-roti-q7447375-1.jpg",
+    "images/sel-roti-q7447375/sel-roti-q7447375-2.jpg",
+    "images/sel-roti-q7447375/sel-roti-q7447375-3.jpg",
+    "images/sel-roti-q7447375/sel-roti-q7447375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7447375",
+    "themealdb": null
+  }
+}

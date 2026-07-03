@@ -1,0 +1,20 @@
+{
+  "id": "Q7547731",
+  "name": "snickerdoodle",
+  "description": "type of cookie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snickerdoodle-q7547731/snickerdoodle-q7547731-1.jpg",
+    "images/snickerdoodle-q7547731/snickerdoodle-q7547731-2.jpg",
+    "images/snickerdoodle-q7547731/snickerdoodle-q7547731-3.jpg",
+    "images/snickerdoodle-q7547731/snickerdoodle-q7547731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7547731",
+    "themealdb": null
+  }
+}

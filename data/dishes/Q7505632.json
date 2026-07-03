@@ -1,0 +1,20 @@
+{
+  "id": "Q7505632",
+  "name": "Shuto",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shuto-q7505632/shuto-q7505632-1.png",
+    "images/shuto-q7505632/shuto-q7505632-2.png",
+    "images/shuto-q7505632/shuto-q7505632-3.jpg",
+    "images/shuto-q7505632/shuto-q7505632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7505632",
+    "themealdb": null
+  }
+}

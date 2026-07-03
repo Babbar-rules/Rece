@@ -1,0 +1,18 @@
+{
+  "id": "Q7383771",
+  "name": "Ry-Krisp",
+  "description": "American brand of rye crispbread",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ry-krisp-q7383771/ry-krisp-q7383771-1.jpg",
+    "images/ry-krisp-q7383771/ry-krisp-q7383771-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7383771",
+    "themealdb": null
+  }
+}

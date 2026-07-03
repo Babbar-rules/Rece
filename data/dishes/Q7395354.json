@@ -1,0 +1,20 @@
+{
+  "id": "Q7395354",
+  "name": "Nasi tumpang",
+  "description": "Rice dish originating from Kelantanese",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-tumpang-q7395354/nasi-tumpang-q7395354-1.jpg",
+    "images/nasi-tumpang-q7395354/nasi-tumpang-q7395354-2.jpg",
+    "images/nasi-tumpang-q7395354/nasi-tumpang-q7395354-3.jpg",
+    "images/nasi-tumpang-q7395354/nasi-tumpang-q7395354-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7395354",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q7440367",
+  "name": "Seafood birdsnest",
+  "description": "Chinese cuisine dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seafood-birdsnest-q7440367/seafood-birdsnest-q7440367-1.jpg",
+    "images/seafood-birdsnest-q7440367/seafood-birdsnest-q7440367-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7440367",
+    "themealdb": null
+  }
+}

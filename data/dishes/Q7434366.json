@@ -1,0 +1,20 @@
+{
+  "id": "Q7434366",
+  "name": "Scooby Snack",
+  "description": "hamburger sold primarily in Glasgow, Scotland",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scooby-snack-q7434366/scooby-snack-q7434366-1.jpg",
+    "images/scooby-snack-q7434366/scooby-snack-q7434366-2.jpg",
+    "images/scooby-snack-q7434366/scooby-snack-q7434366-3.jpg",
+    "images/scooby-snack-q7434366/scooby-snack-q7434366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7434366",
+    "themealdb": null
+  }
+}

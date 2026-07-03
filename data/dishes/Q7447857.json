@@ -1,0 +1,22 @@
+{
+  "id": "Q7447857",
+  "name": "Teh Talua",
+  "description": "Indonesian beverage from West Sumatra",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/teh-talua-q7447857/teh-talua-q7447857-1.jpg",
+    "images/teh-talua-q7447857/teh-talua-q7447857-2.jpg",
+    "images/teh-talua-q7447857/teh-talua-q7447857-3.jpg",
+    "images/teh-talua-q7447857/teh-talua-q7447857-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7447857",
+    "themealdb": null
+  }
+}

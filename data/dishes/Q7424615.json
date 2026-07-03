@@ -1,0 +1,23 @@
+{
+  "id": "Q7424615",
+  "name": "sarson da saag",
+  "description": "vegetarian dish from the Indian subcontinent",
+  "nationality": [
+    "India",
+    "Pakistan"
+  ],
+  "region_cuisine": [
+    "Punjabi cuisine"
+  ],
+  "images": [
+    "images/sarson-da-saag-q7424615/sarson-da-saag-q7424615-1.jpg",
+    "images/sarson-da-saag-q7424615/sarson-da-saag-q7424615-2.jpg",
+    "images/sarson-da-saag-q7424615/sarson-da-saag-q7424615-3.jpg",
+    "images/sarson-da-saag-q7424615/sarson-da-saag-q7424615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7424615",
+    "themealdb": null
+  }
+}

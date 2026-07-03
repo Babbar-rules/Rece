@@ -1,0 +1,18 @@
+{
+  "id": "Q7541951",
+  "name": "Slow Bread",
+  "description": "type of bread made using very little yeast",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/slow-bread-q7541951/slow-bread-q7541951-1.jpg",
+    "images/slow-bread-q7541951/slow-bread-q7541951-2.jpg",
+    "images/slow-bread-q7541951/slow-bread-q7541951-3.jpg",
+    "images/slow-bread-q7541951/slow-bread-q7541951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7541951",
+    "themealdb": null
+  }
+}

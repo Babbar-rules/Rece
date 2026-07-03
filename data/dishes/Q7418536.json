@@ -1,0 +1,20 @@
+{
+  "id": "Q7418536",
+  "name": "sanjeok",
+  "description": "beef and vegetable skewers",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sanjeok-q7418536/sanjeok-q7418536-1.png",
+    "images/sanjeok-q7418536/sanjeok-q7418536-2.jpg",
+    "images/sanjeok-q7418536/sanjeok-q7418536-3.jpg",
+    "images/sanjeok-q7418536/sanjeok-q7418536-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7418536",
+    "themealdb": null
+  }
+}

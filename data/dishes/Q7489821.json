@@ -1,0 +1,20 @@
+{
+  "id": "Q7489821",
+  "name": "Shark chutney",
+  "description": "Seychelles dish",
+  "nationality": [
+    "Seychelles"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shark-chutney-q7489821/shark-chutney-q7489821-1.jpg",
+    "images/shark-chutney-q7489821/shark-chutney-q7489821-2.jpg",
+    "images/shark-chutney-q7489821/shark-chutney-q7489821-3.jpg",
+    "images/shark-chutney-q7489821/shark-chutney-q7489821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7489821",
+    "themealdb": null
+  }
+}

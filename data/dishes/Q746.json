@@ -1,0 +1,20 @@
+{
+  "id": "Q746",
+  "name": "croque-madame",
+  "description": "baked or fried ham and cheese sandwich served with a poached or lightly fried egg on top",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/croque-madame-q746/croque-madame-q746-1.jpg",
+    "images/croque-madame-q746/croque-madame-q746-2.jpg",
+    "images/croque-madame-q746/croque-madame-q746-3.jpg",
+    "images/croque-madame-q746/croque-madame-q746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q746",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7405557",
+  "name": "salmon tartare",
+  "description": "raw fish dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salmon-tartare-q7405557/salmon-tartare-q7405557-1.jpg",
+    "images/salmon-tartare-q7405557/salmon-tartare-q7405557-2.jpg",
+    "images/salmon-tartare-q7405557/salmon-tartare-q7405557-3.jpg",
+    "images/salmon-tartare-q7405557/salmon-tartare-q7405557-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7405557",
+    "themealdb": null
+  }
+}

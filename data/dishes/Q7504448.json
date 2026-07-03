@@ -1,0 +1,21 @@
+{
+  "id": "Q7504448",
+  "name": "Shuangbaotai",
+  "description": "Deep-fried dough from Taiwanese and Chinese cuisine",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/shuangbaotai-q7504448/shuangbaotai-q7504448-1.jpg",
+    "images/shuangbaotai-q7504448/shuangbaotai-q7504448-2.jpg",
+    "images/shuangbaotai-q7504448/shuangbaotai-q7504448-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7504448",
+    "themealdb": null
+  }
+}

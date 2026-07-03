@@ -1,0 +1,20 @@
+{
+  "id": "Q755372",
+  "name": "makowiec",
+  "description": "dough layered with ground poppy seed, sugar and dried fruit",
+  "nationality": [
+    "Europe"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/makowiec-q755372/makowiec-q755372-1.jpg",
+    "images/makowiec-q755372/makowiec-q755372-2.png",
+    "images/makowiec-q755372/makowiec-q755372-3.jpg",
+    "images/makowiec-q755372/makowiec-q755372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q755372",
+    "themealdb": null
+  }
+}

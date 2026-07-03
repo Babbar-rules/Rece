@@ -1,0 +1,22 @@
+{
+  "id": "Q741389",
+  "name": "Mesir macunu",
+  "description": "Turkish confectionery",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/mesir-macunu-q741389/mesir-macunu-q741389-1.jpg",
+    "images/mesir-macunu-q741389/mesir-macunu-q741389-2.jpg",
+    "images/mesir-macunu-q741389/mesir-macunu-q741389-3.jpg",
+    "images/mesir-macunu-q741389/mesir-macunu-q741389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q741389",
+    "themealdb": null
+  }
+}

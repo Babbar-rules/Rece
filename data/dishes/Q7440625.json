@@ -1,0 +1,18 @@
+{
+  "id": "Q7440625",
+  "name": "sealed crustless sandwich",
+  "description": "mass produced sandwich foodstuff",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sealed-crustless-sandwich-q7440625/sealed-crustless-sandwich-q7440625-1.jpg",
+    "images/sealed-crustless-sandwich-q7440625/sealed-crustless-sandwich-q7440625-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7440625",
+    "themealdb": null
+  }
+}

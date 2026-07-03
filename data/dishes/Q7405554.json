@@ -1,0 +1,18 @@
+{
+  "id": "Q7405554",
+  "name": "salmon pie",
+  "description": "savoury fish pie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salmon-pie-q7405554/salmon-pie-q7405554-1.jpg",
+    "images/salmon-pie-q7405554/salmon-pie-q7405554-2.jpg",
+    "images/salmon-pie-q7405554/salmon-pie-q7405554-3.jpg",
+    "images/salmon-pie-q7405554/salmon-pie-q7405554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7405554",
+    "themealdb": null
+  }
+}

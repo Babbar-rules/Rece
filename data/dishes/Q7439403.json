@@ -1,0 +1,18 @@
+{
+  "id": "Q7439403",
+  "name": "Scuffler",
+  "description": "Type of Traditional West Riding of Yorkshire Bread Roll",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/scuffler-q7439403/scuffler-q7439403-1.jpg",
+    "images/scuffler-q7439403/scuffler-q7439403-2.jpg",
+    "images/scuffler-q7439403/scuffler-q7439403-3.jpg",
+    "images/scuffler-q7439403/scuffler-q7439403-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7439403",
+    "themealdb": null
+  }
+}

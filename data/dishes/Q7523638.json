@@ -1,0 +1,20 @@
+{
+  "id": "Q7523638",
+  "name": "Singing hinny",
+  "description": "type of bannock, griddle cake or scone",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/singing-hinny-q7523638/singing-hinny-q7523638-1.jpg",
+    "images/singing-hinny-q7523638/singing-hinny-q7523638-2.jpg",
+    "images/singing-hinny-q7523638/singing-hinny-q7523638-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7523638",
+    "themealdb": null
+  }
+}

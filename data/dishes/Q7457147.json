@@ -1,0 +1,18 @@
+{
+  "id": "Q7457147",
+  "name": "seven-layer salad",
+  "description": "American salad dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/seven-layer-salad-q7457147/seven-layer-salad-q7457147-1.jpg",
+    "images/seven-layer-salad-q7457147/seven-layer-salad-q7457147-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7457147",
+    "themealdb": null
+  }
+}

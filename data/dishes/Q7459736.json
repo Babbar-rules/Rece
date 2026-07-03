@@ -1,0 +1,20 @@
+{
+  "id": "Q7459736",
+  "name": "Sfouf",
+  "description": "cake from Lebanon",
+  "nationality": [
+    "Lebanon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sfouf-q7459736/sfouf-q7459736-1.jpg",
+    "images/sfouf-q7459736/sfouf-q7459736-2.jpg",
+    "images/sfouf-q7459736/sfouf-q7459736-3.jpg",
+    "images/sfouf-q7459736/sfouf-q7459736-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7459736",
+    "themealdb": null
+  }
+}

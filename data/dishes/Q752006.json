@@ -1,0 +1,20 @@
+{
+  "id": "Q752006",
+  "name": "chapati",
+  "description": "unleavened wheat flatbread",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chapati-q752006/chapati-q752006-1.jpg",
+    "images/chapati-q752006/chapati-q752006-2.jpg",
+    "images/chapati-q752006/chapati-q752006-3.jpg",
+    "images/chapati-q752006/chapati-q752006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q752006",
+    "themealdb": null
+  }
+}

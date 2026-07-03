@@ -1,0 +1,18 @@
+{
+  "id": "Q7427595",
+  "name": "sausage sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sausage-sandwich-q7427595/sausage-sandwich-q7427595-1.jpg",
+    "images/sausage-sandwich-q7427595/sausage-sandwich-q7427595-2.jpg",
+    "images/sausage-sandwich-q7427595/sausage-sandwich-q7427595-3.jpg",
+    "images/sausage-sandwich-q7427595/sausage-sandwich-q7427595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7427595",
+    "themealdb": null
+  }
+}

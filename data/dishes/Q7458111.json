@@ -1,0 +1,18 @@
+{
+  "id": "Q7458111",
+  "name": "sevruga caviar",
+  "description": "eggs from starry sturgeon (Acipenser stellatus)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sevruga-caviar-q7458111/sevruga-caviar-q7458111-1.jpg",
+    "images/sevruga-caviar-q7458111/sevruga-caviar-q7458111-2.jpg",
+    "images/sevruga-caviar-q7458111/sevruga-caviar-q7458111-3.png",
+    "images/sevruga-caviar-q7458111/sevruga-caviar-q7458111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7458111",
+    "themealdb": null
+  }
+}

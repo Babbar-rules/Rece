@@ -1,0 +1,18 @@
+{
+  "id": "Q7448821",
+  "name": "selsko meso",
+  "description": "Balkan pork and mushroom stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/selsko-meso-q7448821/selsko-meso-q7448821-1.jpg",
+    "images/selsko-meso-q7448821/selsko-meso-q7448821-2.jpg",
+    "images/selsko-meso-q7448821/selsko-meso-q7448821-3.jpg",
+    "images/selsko-meso-q7448821/selsko-meso-q7448821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7448821",
+    "themealdb": null
+  }
+}

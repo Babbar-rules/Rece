@@ -1,0 +1,18 @@
+{
+  "id": "Q7439103",
+  "name": "screwball",
+  "description": "type of frozen confection that first appeared in the 1970s",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/screwball-q7439103/screwball-q7439103-1.jpg",
+    "images/screwball-q7439103/screwball-q7439103-2.jpg",
+    "images/screwball-q7439103/screwball-q7439103-3.jpg",
+    "images/screwball-q7439103/screwball-q7439103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7439103",
+    "themealdb": null
+  }
+}

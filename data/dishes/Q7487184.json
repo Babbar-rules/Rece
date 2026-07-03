@@ -1,0 +1,22 @@
+{
+  "id": "Q7487184",
+  "name": "Shalgam",
+  "description": "Kazakhstan salad",
+  "nationality": [
+    "Kazakhstan"
+  ],
+  "region_cuisine": [
+    "Kazakh cuisine"
+  ],
+  "images": [
+    "images/shalgam-q7487184/shalgam-q7487184-1.jpg",
+    "images/shalgam-q7487184/shalgam-q7487184-2.jpg",
+    "images/shalgam-q7487184/shalgam-q7487184-3.jpg",
+    "images/shalgam-q7487184/shalgam-q7487184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7487184",
+    "themealdb": null
+  }
+}

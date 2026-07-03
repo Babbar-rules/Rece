@@ -1,0 +1,17 @@
+{
+  "id": "Q7547736",
+  "name": "Snickers pie",
+  "description": "chocolate dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/snickers-pie-q7547736/snickers-pie-q7547736-1.jpg",
+    "images/snickers-pie-q7547736/snickers-pie-q7547736-2.jpg",
+    "images/snickers-pie-q7547736/snickers-pie-q7547736-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7547736",
+    "themealdb": null
+  }
+}

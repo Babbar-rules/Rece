@@ -1,0 +1,22 @@
+{
+  "id": "Q7439701",
+  "name": "Soto Madura",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-madura-q7439701/soto-madura-q7439701-1.jpg",
+    "images/soto-madura-q7439701/soto-madura-q7439701-2.jpg",
+    "images/soto-madura-q7439701/soto-madura-q7439701-3.jpg",
+    "images/soto-madura-q7439701/soto-madura-q7439701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7439701",
+    "themealdb": null
+  }
+}

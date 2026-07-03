@@ -1,0 +1,20 @@
+{
+  "id": "Q7398745",
+  "name": "saffron rice",
+  "description": "Dish made from saffron, white rice and usually vegetable bouillon",
+  "nationality": [
+    "Seychelles"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saffron-rice-q7398745/saffron-rice-q7398745-1.jpg",
+    "images/saffron-rice-q7398745/saffron-rice-q7398745-2.jpg",
+    "images/saffron-rice-q7398745/saffron-rice-q7398745-3.jpg",
+    "images/saffron-rice-q7398745/saffron-rice-q7398745-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7398745",
+    "themealdb": null
+  }
+}

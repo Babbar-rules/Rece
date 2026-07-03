@@ -1,0 +1,18 @@
+{
+  "id": "Q7402697",
+  "name": "Sajji",
+  "description": "foodstuff",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sajji-q7402697/sajji-q7402697-1.jpg",
+    "images/sajji-q7402697/sajji-q7402697-2.jpg",
+    "images/sajji-q7402697/sajji-q7402697-3.jpg",
+    "images/sajji-q7402697/sajji-q7402697-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7402697",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7446149",
+  "name": "Rice Jamblang",
+  "description": "Indonesian rice dish originating from Java island",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rice-jamblang-q7446149/rice-jamblang-q7446149-1.jpg",
+    "images/rice-jamblang-q7446149/rice-jamblang-q7446149-2.jpg",
+    "images/rice-jamblang-q7446149/rice-jamblang-q7446149-3.jpg",
+    "images/rice-jamblang-q7446149/rice-jamblang-q7446149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7446149",
+    "themealdb": null
+  }
+}

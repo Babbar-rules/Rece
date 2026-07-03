@@ -1,0 +1,20 @@
+{
+  "id": "Q7476252",
+  "name": "Tahu Gejrot",
+  "description": "Indonesian fried tofu dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tahu-gejrot-q7476252/tahu-gejrot-q7476252-1.jpg",
+    "images/tahu-gejrot-q7476252/tahu-gejrot-q7476252-2.jpg",
+    "images/tahu-gejrot-q7476252/tahu-gejrot-q7476252-3.jpg",
+    "images/tahu-gejrot-q7476252/tahu-gejrot-q7476252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7476252",
+    "themealdb": null
+  }
+}

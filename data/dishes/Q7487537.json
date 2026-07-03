@@ -1,0 +1,20 @@
+{
+  "id": "Q7487537",
+  "name": "Shami kebab",
+  "description": "variety of kebab, originating from the Indian subcontinent; consists of a small patty of minced meat (often lamb or mutton, occasionally chicken), with ground chickpeas, egg to hold it together, and spices",
+  "nationality": [
+    "Mughal Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shami-kebab-q7487537/shami-kebab-q7487537-1.jpg",
+    "images/shami-kebab-q7487537/shami-kebab-q7487537-2.jpg",
+    "images/shami-kebab-q7487537/shami-kebab-q7487537-3.jpg",
+    "images/shami-kebab-q7487537/shami-kebab-q7487537-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7487537",
+    "themealdb": null
+  }
+}

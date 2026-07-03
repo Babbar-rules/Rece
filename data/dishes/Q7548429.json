@@ -1,0 +1,21 @@
+{
+  "id": "Q7548429",
+  "name": "snow skin mooncake",
+  "description": "mooncake with a glutinous rice crust invented in Hong Kong, which is eaten during the Mid-Autumn Festival",
+  "nationality": [
+    "People's Republic of China",
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snow-skin-mooncake-q7548429/snow-skin-mooncake-q7548429-1.jpg",
+    "images/snow-skin-mooncake-q7548429/snow-skin-mooncake-q7548429-2.jpg",
+    "images/snow-skin-mooncake-q7548429/snow-skin-mooncake-q7548429-3.jpg",
+    "images/snow-skin-mooncake-q7548429/snow-skin-mooncake-q7548429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7548429",
+    "themealdb": null
+  }
+}

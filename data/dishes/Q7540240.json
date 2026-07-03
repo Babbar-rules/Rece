@@ -1,0 +1,20 @@
+{
+  "id": "Q7540240",
+  "name": "sliced fish soup",
+  "description": "Singaporean soup",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sliced-fish-soup-q7540240/sliced-fish-soup-q7540240-1.jpg",
+    "images/sliced-fish-soup-q7540240/sliced-fish-soup-q7540240-2.jpg",
+    "images/sliced-fish-soup-q7540240/sliced-fish-soup-q7540240-3.jpg",
+    "images/sliced-fish-soup-q7540240/sliced-fish-soup-q7540240-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7540240",
+    "themealdb": null
+  }
+}

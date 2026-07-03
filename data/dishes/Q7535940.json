@@ -1,0 +1,18 @@
+{
+  "id": "Q7535940",
+  "name": "Skirts and kidneys",
+  "description": "Irish stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/skirts-and-kidneys-q7535940/skirts-and-kidneys-q7535940-1.jpg",
+    "images/skirts-and-kidneys-q7535940/skirts-and-kidneys-q7535940-2.jpg",
+    "images/skirts-and-kidneys-q7535940/skirts-and-kidneys-q7535940-3.jpg",
+    "images/skirts-and-kidneys-q7535940/skirts-and-kidneys-q7535940-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7535940",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q7442044",
+  "name": "Seattle-style hot dog",
+  "description": "hot dog topped with cream cheese and sauteed onions",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Pacific Northwest cuisine",
+    "cuisine of the Western United States"
+  ],
+  "images": [
+    "images/seattle-style-hot-dog-q7442044/seattle-style-hot-dog-q7442044-1.jpg",
+    "images/seattle-style-hot-dog-q7442044/seattle-style-hot-dog-q7442044-2.jpg",
+    "images/seattle-style-hot-dog-q7442044/seattle-style-hot-dog-q7442044-3.jpg",
+    "images/seattle-style-hot-dog-q7442044/seattle-style-hot-dog-q7442044-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7442044",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7418601",
+  "name": "rujak cingur",
+  "description": "Indonesian salad",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/rujak-cingur-q7418601/rujak-cingur-q7418601-1.jpg",
+    "images/rujak-cingur-q7418601/rujak-cingur-q7418601-2.jpg",
+    "images/rujak-cingur-q7418601/rujak-cingur-q7418601-3.jpg",
+    "images/rujak-cingur-q7418601/rujak-cingur-q7418601-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7418601",
+    "themealdb": null
+  }
+}

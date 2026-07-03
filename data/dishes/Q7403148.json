@@ -1,0 +1,20 @@
+{
+  "id": "Q7403148",
+  "name": "Sakuma drops",
+  "description": "Japanese hard candy",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sakuma-drops-q7403148/sakuma-drops-q7403148-1.jpg",
+    "images/sakuma-drops-q7403148/sakuma-drops-q7403148-2.jpg",
+    "images/sakuma-drops-q7403148/sakuma-drops-q7403148-3.jpg",
+    "images/sakuma-drops-q7403148/sakuma-drops-q7403148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7403148",
+    "themealdb": null
+  }
+}

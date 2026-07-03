@@ -1,0 +1,18 @@
+{
+  "id": "Q7456013",
+  "name": "sesame seed cake",
+  "description": "dessert cake made with sesame seeds",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sesame-seed-cake-q7456013/sesame-seed-cake-q7456013-1.jpg",
+    "images/sesame-seed-cake-q7456013/sesame-seed-cake-q7456013-2.jpg",
+    "images/sesame-seed-cake-q7456013/sesame-seed-cake-q7456013-3.jpg",
+    "images/sesame-seed-cake-q7456013/sesame-seed-cake-q7456013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7456013",
+    "themealdb": null
+  }
+}

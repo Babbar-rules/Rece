@@ -1,0 +1,20 @@
+{
+  "id": "Q742224",
+  "name": "pressed duck",
+  "description": "traditional French duck dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pressed-duck-q742224/pressed-duck-q742224-1.jpg",
+    "images/pressed-duck-q742224/pressed-duck-q742224-2.jpg",
+    "images/pressed-duck-q742224/pressed-duck-q742224-3.jpg",
+    "images/pressed-duck-q742224/pressed-duck-q742224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q742224",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7378690",
+  "name": "rui-be",
+  "description": "Japanese frozen raw salmon dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Ainu cuisine"
+  ],
+  "images": [
+    "images/rui-be-q7378690/rui-be-q7378690-1.jpg",
+    "images/rui-be-q7378690/rui-be-q7378690-2.jpg",
+    "images/rui-be-q7378690/rui-be-q7378690-3.jpg",
+    "images/rui-be-q7378690/rui-be-q7378690-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7378690",
+    "themealdb": null
+  }
+}

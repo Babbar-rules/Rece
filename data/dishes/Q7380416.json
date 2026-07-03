@@ -1,0 +1,20 @@
+{
+  "id": "Q7380416",
+  "name": "rupjmaize",
+  "description": "Latvian rye bread",
+  "nationality": [
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rupjmaize-q7380416/rupjmaize-q7380416-1.jpg",
+    "images/rupjmaize-q7380416/rupjmaize-q7380416-2.jpg",
+    "images/rupjmaize-q7380416/rupjmaize-q7380416-3.jpg",
+    "images/rupjmaize-q7380416/rupjmaize-q7380416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7380416",
+    "themealdb": null
+  }
+}

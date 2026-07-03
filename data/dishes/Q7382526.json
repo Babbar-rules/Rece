@@ -1,0 +1,18 @@
+{
+  "id": "Q7382526",
+  "name": "Rustlers",
+  "description": "hamburgers and sandwiches made by Kepak",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rustlers-q7382526/rustlers-q7382526-1.jpg",
+    "images/rustlers-q7382526/rustlers-q7382526-2.jpg",
+    "images/rustlers-q7382526/rustlers-q7382526-3.jpg",
+    "images/rustlers-q7382526/rustlers-q7382526-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7382526",
+    "themealdb": null
+  }
+}

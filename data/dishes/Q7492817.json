@@ -1,0 +1,20 @@
+{
+  "id": "Q7492817",
+  "name": "Sheftalia",
+  "description": "Traditional Cypriot food",
+  "nationality": [
+    "Cyprus"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sheftalia-q7492817/sheftalia-q7492817-1.jpg",
+    "images/sheftalia-q7492817/sheftalia-q7492817-2.jpg",
+    "images/sheftalia-q7492817/sheftalia-q7492817-3.jpg",
+    "images/sheftalia-q7492817/sheftalia-q7492817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7492817",
+    "themealdb": null
+  }
+}

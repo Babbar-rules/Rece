@@ -1,0 +1,20 @@
+{
+  "id": "Q738",
+  "name": "croque-monsieur",
+  "description": "baked or fried ham and cheese sandwich",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/croque-monsieur-q738/croque-monsieur-q738-1.jpg",
+    "images/croque-monsieur-q738/croque-monsieur-q738-2.jpg",
+    "images/croque-monsieur-q738/croque-monsieur-q738-3.jpg",
+    "images/croque-monsieur-q738/croque-monsieur-q738-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q738",
+    "themealdb": null
+  }
+}

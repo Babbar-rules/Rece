@@ -1,0 +1,20 @@
+{
+  "id": "Q7448729",
+  "name": "Tepek",
+  "description": "traditional Malay cake",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tepek-q7448729/tepek-q7448729-1.jpg",
+    "images/tepek-q7448729/tepek-q7448729-2.jpeg",
+    "images/tepek-q7448729/tepek-q7448729-3.jpg",
+    "images/tepek-q7448729/tepek-q7448729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7448729",
+    "themealdb": null
+  }
+}

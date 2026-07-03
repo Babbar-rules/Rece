@@ -1,0 +1,22 @@
+{
+  "id": "Q7525342",
+  "name": "Siomay",
+  "description": "Indonesian cuisine",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/siomay-q7525342/siomay-q7525342-1.jpg",
+    "images/siomay-q7525342/siomay-q7525342-2.jpg",
+    "images/siomay-q7525342/siomay-q7525342-3.jpg",
+    "images/siomay-q7525342/siomay-q7525342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7525342",
+    "themealdb": null
+  }
+}

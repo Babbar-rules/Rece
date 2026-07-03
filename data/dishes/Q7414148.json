@@ -1,0 +1,18 @@
+{
+  "id": "Q7414148",
+  "name": "San Francisco burrito",
+  "description": "San Francisco food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/san-francisco-burrito-q7414148/san-francisco-burrito-q7414148-1.jpg",
+    "images/san-francisco-burrito-q7414148/san-francisco-burrito-q7414148-2.jpg",
+    "images/san-francisco-burrito-q7414148/san-francisco-burrito-q7414148-3.jpg",
+    "images/san-francisco-burrito-q7414148/san-francisco-burrito-q7414148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7414148",
+    "themealdb": null
+  }
+}

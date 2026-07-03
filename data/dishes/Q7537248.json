@@ -1,0 +1,18 @@
+{
+  "id": "Q7537248",
+  "name": "Sky Bar",
+  "description": "American candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sky-bar-q7537248/sky-bar-q7537248-1.jpg",
+    "images/sky-bar-q7537248/sky-bar-q7537248-2.jpg",
+    "images/sky-bar-q7537248/sky-bar-q7537248-3.jpg",
+    "images/sky-bar-q7537248/sky-bar-q7537248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7537248",
+    "themealdb": null
+  }
+}

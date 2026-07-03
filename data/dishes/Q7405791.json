@@ -1,0 +1,18 @@
+{
+  "id": "Q7405791",
+  "name": "salt-rising bread",
+  "description": "Style of bacteria-risen bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salt-rising-bread-q7405791/salt-rising-bread-q7405791-1.jpg",
+    "images/salt-rising-bread-q7405791/salt-rising-bread-q7405791-2.jpg",
+    "images/salt-rising-bread-q7405791/salt-rising-bread-q7405791-3.jpg",
+    "images/salt-rising-bread-q7405791/salt-rising-bread-q7405791-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7405791",
+    "themealdb": null
+  }
+}

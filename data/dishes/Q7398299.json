@@ -1,0 +1,20 @@
+{
+  "id": "Q7398299",
+  "name": "Saengchae",
+  "description": "Korean salad",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saengchae-q7398299/saengchae-q7398299-1.jpg",
+    "images/saengchae-q7398299/saengchae-q7398299-2.jpg",
+    "images/saengchae-q7398299/saengchae-q7398299-3.jpg",
+    "images/saengchae-q7398299/saengchae-q7398299-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7398299",
+    "themealdb": null
+  }
+}

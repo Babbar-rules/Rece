@@ -1,0 +1,20 @@
+{
+  "id": "Q7406015",
+  "name": "Salt water taffy",
+  "description": "type of soft candy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salt-water-taffy-q7406015/salt-water-taffy-q7406015-1.jpg",
+    "images/salt-water-taffy-q7406015/salt-water-taffy-q7406015-2.jpg",
+    "images/salt-water-taffy-q7406015/salt-water-taffy-q7406015-3.jpg",
+    "images/salt-water-taffy-q7406015/salt-water-taffy-q7406015-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7406015",
+    "themealdb": null
+  }
+}

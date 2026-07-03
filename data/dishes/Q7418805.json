@@ -1,0 +1,20 @@
+{
+  "id": "Q7418805",
+  "name": "Sanna",
+  "description": "spongy steamed savoury rice cake",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sanna-q7418805/sanna-q7418805-1.jpg",
+    "images/sanna-q7418805/sanna-q7418805-2.jpg",
+    "images/sanna-q7418805/sanna-q7418805-3.jpg",
+    "images/sanna-q7418805/sanna-q7418805-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7418805",
+    "themealdb": null
+  }
+}

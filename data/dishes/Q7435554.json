@@ -1,0 +1,20 @@
+{
+  "id": "Q7435554",
+  "name": "Scotch woodcock",
+  "description": "British savoury dish",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scotch-woodcock-q7435554/scotch-woodcock-q7435554-1.jpg",
+    "images/scotch-woodcock-q7435554/scotch-woodcock-q7435554-2.jpg",
+    "images/scotch-woodcock-q7435554/scotch-woodcock-q7435554-3.jpg",
+    "images/scotch-woodcock-q7435554/scotch-woodcock-q7435554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7435554",
+    "themealdb": null
+  }
+}

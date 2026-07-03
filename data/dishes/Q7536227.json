@@ -1,0 +1,17 @@
+{
+  "id": "Q7536227",
+  "name": "Skomakarlåda",
+  "description": "Swedish meat dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/skomakarlada-q7536227/skomakarlada-q7536227-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7536227",
+    "themealdb": null
+  }
+}

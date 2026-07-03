@@ -1,0 +1,20 @@
+{
+  "id": "Q7399325",
+  "name": "sagnarelli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sagnarelli-q7399325/sagnarelli-q7399325-1.jpg",
+    "images/sagnarelli-q7399325/sagnarelli-q7399325-2.jpg",
+    "images/sagnarelli-q7399325/sagnarelli-q7399325-3.jpg",
+    "images/sagnarelli-q7399325/sagnarelli-q7399325-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7399325",
+    "themealdb": null
+  }
+}

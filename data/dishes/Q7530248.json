@@ -1,0 +1,18 @@
+{
+  "id": "Q7530248",
+  "name": "paya",
+  "description": "South Asian spicy meat soup or curry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paya-q7530248/paya-q7530248-1.jpg",
+    "images/paya-q7530248/paya-q7530248-2.jpg",
+    "images/paya-q7530248/paya-q7530248-3.jpg",
+    "images/paya-q7530248/paya-q7530248-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7530248",
+    "themealdb": null
+  }
+}

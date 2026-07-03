@@ -1,0 +1,20 @@
+{
+  "id": "Q7450022",
+  "name": "Senate bean soup",
+  "description": "soup made with navy beans, ham hocks, and onion, served in the dining room of the United States Senate",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/senate-bean-soup-q7450022/senate-bean-soup-q7450022-1.jpg",
+    "images/senate-bean-soup-q7450022/senate-bean-soup-q7450022-2.jpg",
+    "images/senate-bean-soup-q7450022/senate-bean-soup-q7450022-3.jpg",
+    "images/senate-bean-soup-q7450022/senate-bean-soup-q7450022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7450022",
+    "themealdb": null
+  }
+}

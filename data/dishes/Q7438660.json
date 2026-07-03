@@ -1,0 +1,20 @@
+{
+  "id": "Q7438660",
+  "name": "Scovardă",
+  "description": "Romanian pastry",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scovarda-q7438660/scovarda-q7438660-1.jpg",
+    "images/scovarda-q7438660/scovarda-q7438660-2.jpg",
+    "images/scovarda-q7438660/scovarda-q7438660-3.jpg",
+    "images/scovarda-q7438660/scovarda-q7438660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7438660",
+    "themealdb": null
+  }
+}

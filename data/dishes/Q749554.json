@@ -1,0 +1,20 @@
+{
+  "id": "Q749554",
+  "name": "Malabar",
+  "description": "trademark",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malabar-q749554/malabar-q749554-1.jpg",
+    "images/malabar-q749554/malabar-q749554-2.jpg",
+    "images/malabar-q749554/malabar-q749554-3.jpg",
+    "images/malabar-q749554/malabar-q749554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q749554",
+    "themealdb": null
+  }
+}

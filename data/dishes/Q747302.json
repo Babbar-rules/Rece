@@ -1,0 +1,20 @@
+{
+  "id": "Q747302",
+  "name": "tamagoyaki",
+  "description": "Japanese rolled omelettes",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamagoyaki-q747302/tamagoyaki-q747302-1.jpg",
+    "images/tamagoyaki-q747302/tamagoyaki-q747302-2.jpg",
+    "images/tamagoyaki-q747302/tamagoyaki-q747302-3.jpg",
+    "images/tamagoyaki-q747302/tamagoyaki-q747302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q747302",
+    "themealdb": null
+  }
+}

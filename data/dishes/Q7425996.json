@@ -1,0 +1,22 @@
+{
+  "id": "Q7425996",
+  "name": "padang satay",
+  "description": "satay variant with yellow sauce",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/padang-satay-q7425996/padang-satay-q7425996-1.jpg",
+    "images/padang-satay-q7425996/padang-satay-q7425996-2.jpg",
+    "images/padang-satay-q7425996/padang-satay-q7425996-3.jpg",
+    "images/padang-satay-q7425996/padang-satay-q7425996-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7425996",
+    "themealdb": null
+  }
+}

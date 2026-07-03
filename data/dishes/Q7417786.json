@@ -1,0 +1,20 @@
+{
+  "id": "Q7417786",
+  "name": "Sangak",
+  "description": "Iranian whole wheat leavened flatbread",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sangak-q7417786/sangak-q7417786-1.jpg",
+    "images/sangak-q7417786/sangak-q7417786-2.jpg",
+    "images/sangak-q7417786/sangak-q7417786-3.jpg",
+    "images/sangak-q7417786/sangak-q7417786-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7417786",
+    "themealdb": null
+  }
+}

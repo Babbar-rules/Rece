@@ -1,0 +1,18 @@
+{
+  "id": "Q7541369",
+  "name": "Slopper",
+  "description": "Colorado burger dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/slopper-q7541369/slopper-q7541369-1.png",
+    "images/slopper-q7541369/slopper-q7541369-2.jpg",
+    "images/slopper-q7541369/slopper-q7541369-3.png",
+    "images/slopper-q7541369/slopper-q7541369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7541369",
+    "themealdb": null
+  }
+}

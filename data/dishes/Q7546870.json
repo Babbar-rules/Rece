@@ -1,0 +1,16 @@
+{
+  "id": "Q7546870",
+  "name": "Snack Barz",
+  "description": "Candy bar by The Hershey Company.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/snack-barz-q7546870/snack-barz-q7546870-1.jpg",
+    "images/snack-barz-q7546870/snack-barz-q7546870-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7546870",
+    "themealdb": null
+  }
+}

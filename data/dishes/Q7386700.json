@@ -1,0 +1,18 @@
+{
+  "id": "Q7386700",
+  "name": "rössypottu",
+  "description": "traditional Finnish dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rossypottu-q7386700/rossypottu-q7386700-1.jpg",
+    "images/rossypottu-q7386700/rossypottu-q7386700-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7386700",
+    "themealdb": null
+  }
+}

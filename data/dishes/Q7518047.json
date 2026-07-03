@@ -1,0 +1,20 @@
+{
+  "id": "Q7518047",
+  "name": "Simnel cake",
+  "description": "Light fruit cake with two layers of almond paste or marzipan, one in the middle and one on top, that is toasted and eaten during the Easter period",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/simnel-cake-q7518047/simnel-cake-q7518047-1.jpg",
+    "images/simnel-cake-q7518047/simnel-cake-q7518047-2.jpg",
+    "images/simnel-cake-q7518047/simnel-cake-q7518047-3.jpg",
+    "images/simnel-cake-q7518047/simnel-cake-q7518047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7518047",
+    "themealdb": null
+  }
+}

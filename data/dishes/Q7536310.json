@@ -1,0 +1,20 @@
+{
+  "id": "Q7536310",
+  "name": "Skor",
+  "description": "toffee candy bar from The Hershey Company",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/skor-q7536310/skor-q7536310-1.jpg",
+    "images/skor-q7536310/skor-q7536310-2.jpg",
+    "images/skor-q7536310/skor-q7536310-3.jpg",
+    "images/skor-q7536310/skor-q7536310-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7536310",
+    "themealdb": null
+  }
+}

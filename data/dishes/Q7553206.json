@@ -1,0 +1,18 @@
+{
+  "id": "Q7553206",
+  "name": "soda sữa hột gà",
+  "description": "Vietnamese beverage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soda-sua-hot-ga-q7553206/soda-sua-hot-ga-q7553206-1.jpg",
+    "images/soda-sua-hot-ga-q7553206/soda-sua-hot-ga-q7553206-2.jpg",
+    "images/soda-sua-hot-ga-q7553206/soda-sua-hot-ga-q7553206-3.jpg",
+    "images/soda-sua-hot-ga-q7553206/soda-sua-hot-ga-q7553206-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7553206",
+    "themealdb": null
+  }
+}

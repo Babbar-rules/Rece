@@ -1,0 +1,20 @@
+{
+  "id": "Q7425852",
+  "name": "Sata",
+  "description": "Malaysian dish",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sata-q7425852/sata-q7425852-1.jpg",
+    "images/sata-q7425852/sata-q7425852-2.jpg",
+    "images/sata-q7425852/sata-q7425852-3.jpg",
+    "images/sata-q7425852/sata-q7425852-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7425852",
+    "themealdb": null
+  }
+}

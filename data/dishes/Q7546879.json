@@ -1,0 +1,18 @@
+{
+  "id": "Q7546879",
+  "name": "snack cake",
+  "description": "type of food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/snack-cake-q7546879/snack-cake-q7546879-1.jpg",
+    "images/snack-cake-q7546879/snack-cake-q7546879-2.jpg",
+    "images/snack-cake-q7546879/snack-cake-q7546879-3.jpg",
+    "images/snack-cake-q7546879/snack-cake-q7546879-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7546879",
+    "themealdb": null
+  }
+}

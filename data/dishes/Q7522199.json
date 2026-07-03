@@ -1,0 +1,19 @@
+{
+  "id": "Q7522199",
+  "name": "Sindhi biryani",
+  "description": "variety of biryani",
+  "nationality": [
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sindhi-biryani-q7522199/sindhi-biryani-q7522199-1.jpg",
+    "images/sindhi-biryani-q7522199/sindhi-biryani-q7522199-2.jpg",
+    "images/sindhi-biryani-q7522199/sindhi-biryani-q7522199-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7522199",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7557379",
+  "name": "soldiers",
+  "description": "thin strip of bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/soldiers-q7557379/soldiers-q7557379-1.jpg",
+    "images/soldiers-q7557379/soldiers-q7557379-2.jpg",
+    "images/soldiers-q7557379/soldiers-q7557379-3.jpg",
+    "images/soldiers-q7557379/soldiers-q7557379-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7557379",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q7423529",
+  "name": "Sarburma",
+  "description": "Crimean Tatar meat pie",
+  "nationality": [
+    "Poland",
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sarburma-q7423529/sarburma-q7423529-1.jpg",
+    "images/sarburma-q7423529/sarburma-q7423529-2.jpg",
+    "images/sarburma-q7423529/sarburma-q7423529-3.jpg",
+    "images/sarburma-q7423529/sarburma-q7423529-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7423529",
+    "themealdb": null
+  }
+}

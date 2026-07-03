@@ -1,0 +1,20 @@
+{
+  "id": "Q7548366",
+  "name": "Snow White salad",
+  "description": "Bulgarian yogurt salad",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snow-white-salad-q7548366/snow-white-salad-q7548366-1.jpg",
+    "images/snow-white-salad-q7548366/snow-white-salad-q7548366-2.jpg",
+    "images/snow-white-salad-q7548366/snow-white-salad-q7548366-3.jpg",
+    "images/snow-white-salad-q7548366/snow-white-salad-q7548366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7548366",
+    "themealdb": null
+  }
+}

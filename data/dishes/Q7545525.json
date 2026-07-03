@@ -1,0 +1,20 @@
+{
+  "id": "Q7545525",
+  "name": "Smithfield ham",
+  "description": "specific form of the country ham",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smithfield-ham-q7545525/smithfield-ham-q7545525-1.jpg",
+    "images/smithfield-ham-q7545525/smithfield-ham-q7545525-2.jpg",
+    "images/smithfield-ham-q7545525/smithfield-ham-q7545525-3.jpg",
+    "images/smithfield-ham-q7545525/smithfield-ham-q7545525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7545525",
+    "themealdb": null
+  }
+}
