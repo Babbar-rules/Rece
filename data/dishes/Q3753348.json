@@ -1,0 +1,20 @@
+{
+  "id": "Q3753348",
+  "name": "friselle",
+  "description": "Pugliese rusk bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/friselle-q3753348/friselle-q3753348-1.jpg",
+    "images/friselle-q3753348/friselle-q3753348-2.jpg",
+    "images/friselle-q3753348/friselle-q3753348-3.jpg",
+    "images/friselle-q3753348/friselle-q3753348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3753348",
+    "themealdb": null
+  }
+}

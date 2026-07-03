@@ -1,0 +1,20 @@
+{
+  "id": "Q3668413",
+  "name": "kesme",
+  "description": "traditional egg noodles found in various Turkic cuisines",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kesme-q3668413/kesme-q3668413-1.jpg",
+    "images/kesme-q3668413/kesme-q3668413-2.jpg",
+    "images/kesme-q3668413/kesme-q3668413-3.jpg",
+    "images/kesme-q3668413/kesme-q3668413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3668413",
+    "themealdb": null
+  }
+}

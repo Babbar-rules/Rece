@@ -1,0 +1,21 @@
+{
+  "id": "Q3676186",
+  "name": "kuymak",
+  "description": "cornmeal, butter and cheese dish from the central-eastern Black Sea Region of Turkey",
+  "nationality": [
+    "Turkey",
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuymak-q3676186/kuymak-q3676186-1.jpg",
+    "images/kuymak-q3676186/kuymak-q3676186-2.jpg",
+    "images/kuymak-q3676186/kuymak-q3676186-3.jpg",
+    "images/kuymak-q3676186/kuymak-q3676186-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3676186",
+    "themealdb": null
+  }
+}

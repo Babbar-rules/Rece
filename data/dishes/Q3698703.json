@@ -1,0 +1,22 @@
+{
+  "id": "Q3698703",
+  "name": "Crostata",
+  "description": "Italian baked tart or pie",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/crostata-q3698703/crostata-q3698703-1.jpg",
+    "images/crostata-q3698703/crostata-q3698703-2.jpg",
+    "images/crostata-q3698703/crostata-q3698703-3.jpg",
+    "images/crostata-q3698703/crostata-q3698703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3698703",
+    "themealdb": null
+  }
+}

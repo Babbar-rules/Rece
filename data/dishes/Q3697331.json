@@ -1,0 +1,20 @@
+{
+  "id": "Q3697331",
+  "name": "Rice crispies",
+  "description": "typical Sicilian product made from rice",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-crispies-q3697331/rice-crispies-q3697331-1.jpg",
+    "images/rice-crispies-q3697331/rice-crispies-q3697331-2.jpg",
+    "images/rice-crispies-q3697331/rice-crispies-q3697331-3.jpg",
+    "images/rice-crispies-q3697331/rice-crispies-q3697331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3697331",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3848253",
+  "name": "stroganina",
+  "description": "Siberian dish",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stroganina-q3848253/stroganina-q3848253-1.jpg",
+    "images/stroganina-q3848253/stroganina-q3848253-2.jpg",
+    "images/stroganina-q3848253/stroganina-q3848253-3.jpg",
+    "images/stroganina-q3848253/stroganina-q3848253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3848253",
+    "themealdb": null
+  }
+}

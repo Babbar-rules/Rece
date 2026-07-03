@@ -1,0 +1,20 @@
+{
+  "id": "Q3646195",
+  "name": "Bruscitti",
+  "description": "Italian beaf dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bruscitti-q3646195/bruscitti-q3646195-1.jpg",
+    "images/bruscitti-q3646195/bruscitti-q3646195-2.jpg",
+    "images/bruscitti-q3646195/bruscitti-q3646195-3.jpg",
+    "images/bruscitti-q3646195/bruscitti-q3646195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3646195",
+    "themealdb": null
+  }
+}

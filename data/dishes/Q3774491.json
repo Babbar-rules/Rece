@@ -1,0 +1,20 @@
+{
+  "id": "Q3774491",
+  "name": "Alicot",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alicot-q3774491/alicot-q3774491-1.jpg",
+    "images/alicot-q3774491/alicot-q3774491-2.jpg",
+    "images/alicot-q3774491/alicot-q3774491-3.jpg",
+    "images/alicot-q3774491/alicot-q3774491-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3774491",
+    "themealdb": null
+  }
+}

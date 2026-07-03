@@ -1,0 +1,20 @@
+{
+  "id": "Q38277833",
+  "name": "Rumando",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rumando-q38277833/rumando-q38277833-1.jpg",
+    "images/rumando-q38277833/rumando-q38277833-2.jpg",
+    "images/rumando-q38277833/rumando-q38277833-3.jpg",
+    "images/rumando-q38277833/rumando-q38277833-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q38277833",
+    "themealdb": null
+  }
+}

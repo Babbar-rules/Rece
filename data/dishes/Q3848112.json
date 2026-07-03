@@ -1,0 +1,20 @@
+{
+  "id": "Q3848112",
+  "name": "carcamusa",
+  "description": "traditional Spanish dish",
+  "nationality": [
+    "Spain",
+    "Toledo Province"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carcamusa-q3848112/carcamusa-q3848112-1.jpg",
+    "images/carcamusa-q3848112/carcamusa-q3848112-2.jpg",
+    "images/carcamusa-q3848112/carcamusa-q3848112-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3848112",
+    "themealdb": null
+  }
+}

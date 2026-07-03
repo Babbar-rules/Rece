@@ -1,0 +1,20 @@
+{
+  "id": "Q3776096",
+  "name": "Scaloppine",
+  "description": "Italian meat dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scaloppine-q3776096/scaloppine-q3776096-1.jpg",
+    "images/scaloppine-q3776096/scaloppine-q3776096-2.jpg",
+    "images/scaloppine-q3776096/scaloppine-q3776096-3.jpg",
+    "images/scaloppine-q3776096/scaloppine-q3776096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3776096",
+    "themealdb": null
+  }
+}

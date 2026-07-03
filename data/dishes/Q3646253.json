@@ -1,0 +1,20 @@
+{
+  "id": "Q3646253",
+  "name": "Buccellato di Lucca",
+  "description": "sweet bread; cake typical of Lucca, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buccellato-di-lucca-q3646253/buccellato-di-lucca-q3646253-1.png",
+    "images/buccellato-di-lucca-q3646253/buccellato-di-lucca-q3646253-2.jpg",
+    "images/buccellato-di-lucca-q3646253/buccellato-di-lucca-q3646253-3.jpg",
+    "images/buccellato-di-lucca-q3646253/buccellato-di-lucca-q3646253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3646253",
+    "themealdb": null
+  }
+}

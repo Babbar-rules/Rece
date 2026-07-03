@@ -1,0 +1,22 @@
+{
+  "id": "Q3848094",
+  "name": "bap",
+  "description": "cooked rice and/or other cereal dish in Korean cuisine",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/bap-q3848094/bap-q3848094-1.jpg",
+    "images/bap-q3848094/bap-q3848094-2.jpg",
+    "images/bap-q3848094/bap-q3848094-3.jpg",
+    "images/bap-q3848094/bap-q3848094-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3848094",
+    "themealdb": null
+  }
+}

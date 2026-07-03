@@ -1,0 +1,19 @@
+{
+  "id": "Q3638622",
+  "name": "Berlingozzo",
+  "description": "Italian ring-shaped cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/berlingozzo-q3638622/berlingozzo-q3638622-1.jpg",
+    "images/berlingozzo-q3638622/berlingozzo-q3638622-2.jpg",
+    "images/berlingozzo-q3638622/berlingozzo-q3638622-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3638622",
+    "themealdb": null
+  }
+}

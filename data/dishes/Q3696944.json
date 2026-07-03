@@ -1,0 +1,18 @@
+{
+  "id": "Q3696944",
+  "name": "hazelnut spread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hazelnut-spread-q3696944/hazelnut-spread-q3696944-1.jpg",
+    "images/hazelnut-spread-q3696944/hazelnut-spread-q3696944-2.jpg",
+    "images/hazelnut-spread-q3696944/hazelnut-spread-q3696944-3.jpg",
+    "images/hazelnut-spread-q3696944/hazelnut-spread-q3696944-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3696944",
+    "themealdb": null
+  }
+}

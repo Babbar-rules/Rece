@@ -1,0 +1,20 @@
+{
+  "id": "Q3775525",
+  "name": "motsunabe",
+  "description": "Japanese hot pot dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/motsunabe-q3775525/motsunabe-q3775525-1.jpg",
+    "images/motsunabe-q3775525/motsunabe-q3775525-2.jpg",
+    "images/motsunabe-q3775525/motsunabe-q3775525-3.jpg",
+    "images/motsunabe-q3775525/motsunabe-q3775525-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3775525",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3676248",
+  "name": "Ciambella romagnola",
+  "description": "traditional loaf shaped cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciambella-romagnola-q3676248/ciambella-romagnola-q3676248-1.jpg",
+    "images/ciambella-romagnola-q3676248/ciambella-romagnola-q3676248-2.jpg",
+    "images/ciambella-romagnola-q3676248/ciambella-romagnola-q3676248-3.jpg",
+    "images/ciambella-romagnola-q3676248/ciambella-romagnola-q3676248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3676248",
+    "themealdb": null
+  }
+}

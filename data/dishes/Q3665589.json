@@ -1,0 +1,22 @@
+{
+  "id": "Q3665589",
+  "name": "Baumkuchen",
+  "description": "German spit cake",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/baumkuchen-q3665589/baumkuchen-q3665589-1.jpg",
+    "images/baumkuchen-q3665589/baumkuchen-q3665589-2.jpg",
+    "images/baumkuchen-q3665589/baumkuchen-q3665589-3.jpg",
+    "images/baumkuchen-q3665589/baumkuchen-q3665589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3665589",
+    "themealdb": null
+  }
+}

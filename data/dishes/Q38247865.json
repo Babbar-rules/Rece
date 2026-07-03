@@ -1,0 +1,20 @@
+{
+  "id": "Q38247865",
+  "name": "fried rice with salted fish and chicken",
+  "description": "",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-rice-with-salted-fish-and-chicken-q38247865/fried-rice-with-salted-fish-and-chicken-q38247865-1.jpg",
+    "images/fried-rice-with-salted-fish-and-chicken-q38247865/fried-rice-with-salted-fish-and-chicken-q38247865-2.jpg",
+    "images/fried-rice-with-salted-fish-and-chicken-q38247865/fried-rice-with-salted-fish-and-chicken-q38247865-3.jpg",
+    "images/fried-rice-with-salted-fish-and-chicken-q38247865/fried-rice-with-salted-fish-and-chicken-q38247865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q38247865",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3823549",
+  "name": "suspiro de limeña",
+  "description": "dessert of Peruvian gastronomy",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suspiro-de-limena-q3823549/suspiro-de-limena-q3823549-1.jpg",
+    "images/suspiro-de-limena-q3823549/suspiro-de-limena-q3823549-2.jpg",
+    "images/suspiro-de-limena-q3823549/suspiro-de-limena-q3823549-3.jpg",
+    "images/suspiro-de-limena-q3823549/suspiro-de-limena-q3823549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3823549",
+    "themealdb": null
+  }
+}

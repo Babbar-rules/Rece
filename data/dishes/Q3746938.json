@@ -1,0 +1,18 @@
+{
+  "id": "Q3746938",
+  "name": "Focaccia novese",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/focaccia-novese-q3746938/focaccia-novese-q3746938-1.png",
+    "images/focaccia-novese-q3746938/focaccia-novese-q3746938-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3746938",
+    "themealdb": null
+  }
+}

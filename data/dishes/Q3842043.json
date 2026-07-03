@@ -1,0 +1,22 @@
+{
+  "id": "Q3842043",
+  "name": "Maccu",
+  "description": "sicilian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Sicilian cuisine"
+  ],
+  "images": [
+    "images/maccu-q3842043/maccu-q3842043-1.jpg",
+    "images/maccu-q3842043/maccu-q3842043-2.jpg",
+    "images/maccu-q3842043/maccu-q3842043-3.png",
+    "images/maccu-q3842043/maccu-q3842043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3842043",
+    "themealdb": null
+  }
+}

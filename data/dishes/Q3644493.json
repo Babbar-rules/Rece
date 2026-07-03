@@ -1,0 +1,20 @@
+{
+  "id": "Q3644493",
+  "name": "samp",
+  "description": "South African corn kernel dish",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/samp-q3644493/samp-q3644493-1.jpg",
+    "images/samp-q3644493/samp-q3644493-2.jpg",
+    "images/samp-q3644493/samp-q3644493-3.jpg",
+    "images/samp-q3644493/samp-q3644493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3644493",
+    "themealdb": null
+  }
+}

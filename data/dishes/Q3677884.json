@@ -1,0 +1,20 @@
+{
+  "id": "Q3677884",
+  "name": "Ezogelin soup",
+  "description": "Turkish soup",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ezogelin-soup-q3677884/ezogelin-soup-q3677884-1.jpg",
+    "images/ezogelin-soup-q3677884/ezogelin-soup-q3677884-2.jpg",
+    "images/ezogelin-soup-q3677884/ezogelin-soup-q3677884-3.jpg",
+    "images/ezogelin-soup-q3677884/ezogelin-soup-q3677884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3677884",
+    "themealdb": null
+  }
+}

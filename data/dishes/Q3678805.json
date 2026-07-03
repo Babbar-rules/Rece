@@ -1,0 +1,20 @@
+{
+  "id": "Q3678805",
+  "name": "civraxiu",
+  "description": "Sardinian round bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/civraxiu-q3678805/civraxiu-q3678805-1.jpg",
+    "images/civraxiu-q3678805/civraxiu-q3678805-2.jpg",
+    "images/civraxiu-q3678805/civraxiu-q3678805-3.jpg",
+    "images/civraxiu-q3678805/civraxiu-q3678805-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3678805",
+    "themealdb": null
+  }
+}

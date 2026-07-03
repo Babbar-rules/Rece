@@ -1,0 +1,20 @@
+{
+  "id": "Q3753245",
+  "name": "Boquerones en vinagre",
+  "description": "Anchovy tapa appetizer",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boquerones-en-vinagre-q3753245/boquerones-en-vinagre-q3753245-1.jpg",
+    "images/boquerones-en-vinagre-q3753245/boquerones-en-vinagre-q3753245-2.jpg",
+    "images/boquerones-en-vinagre-q3753245/boquerones-en-vinagre-q3753245-3.jpg",
+    "images/boquerones-en-vinagre-q3753245/boquerones-en-vinagre-q3753245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3753245",
+    "themealdb": null
+  }
+}

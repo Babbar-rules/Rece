@@ -1,0 +1,18 @@
+{
+  "id": "Q36808801",
+  "name": "spinach noodles",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spinach-noodles-q36808801/spinach-noodles-q36808801-1.jpg",
+    "images/spinach-noodles-q36808801/spinach-noodles-q36808801-2.jpg",
+    "images/spinach-noodles-q36808801/spinach-noodles-q36808801-3.jpg",
+    "images/spinach-noodles-q36808801/spinach-noodles-q36808801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36808801",
+    "themealdb": null
+  }
+}

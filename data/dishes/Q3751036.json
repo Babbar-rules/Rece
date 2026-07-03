@@ -1,0 +1,21 @@
+{
+  "id": "Q3751036",
+  "name": "Esgarrat",
+  "description": "valencian cod dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Valencian cuisine"
+  ],
+  "images": [
+    "images/esgarrat-q3751036/esgarrat-q3751036-1.jpg",
+    "images/esgarrat-q3751036/esgarrat-q3751036-2.jpg",
+    "images/esgarrat-q3751036/esgarrat-q3751036-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3751036",
+    "themealdb": null
+  }
+}

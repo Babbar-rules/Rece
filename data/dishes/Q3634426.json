@@ -1,0 +1,20 @@
+{
+  "id": "Q3634426",
+  "name": "Rumali Roti",
+  "description": "Types of flatbreads",
+  "nationality": [
+    "Hyderabad State"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rumali-roti-q3634426/rumali-roti-q3634426-1.jpg",
+    "images/rumali-roti-q3634426/rumali-roti-q3634426-2.jpg",
+    "images/rumali-roti-q3634426/rumali-roti-q3634426-3.jpg",
+    "images/rumali-roti-q3634426/rumali-roti-q3634426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3634426",
+    "themealdb": null
+  }
+}

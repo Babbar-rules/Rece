@@ -1,0 +1,23 @@
+{
+  "id": "Q3772620",
+  "name": "gnocco fritto",
+  "description": "bread from the Emilia region of Italy, also called a crescentina",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Modena",
+    "Emilian cuisine"
+  ],
+  "images": [
+    "images/gnocco-fritto-q3772620/gnocco-fritto-q3772620-1.jpg",
+    "images/gnocco-fritto-q3772620/gnocco-fritto-q3772620-2.jpg",
+    "images/gnocco-fritto-q3772620/gnocco-fritto-q3772620-3.jpg",
+    "images/gnocco-fritto-q3772620/gnocco-fritto-q3772620-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3772620",
+    "themealdb": null
+  }
+}

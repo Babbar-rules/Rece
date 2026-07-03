@@ -1,0 +1,21 @@
+{
+  "id": "Q3785698",
+  "name": "Himbasha",
+  "description": "indigenous bread of Ethiopia and Eritrea",
+  "nationality": [
+    "Ethiopia",
+    "Eritrea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/himbasha-q3785698/himbasha-q3785698-1.jpg",
+    "images/himbasha-q3785698/himbasha-q3785698-2.jpg",
+    "images/himbasha-q3785698/himbasha-q3785698-3.jpg",
+    "images/himbasha-q3785698/himbasha-q3785698-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3785698",
+    "themealdb": null
+  }
+}

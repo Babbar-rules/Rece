@@ -1,0 +1,20 @@
+{
+  "id": "Q3822761",
+  "name": "pansotti",
+  "description": "Italian stuffed pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pansotti-q3822761/pansotti-q3822761-1.jpg",
+    "images/pansotti-q3822761/pansotti-q3822761-2.jpg",
+    "images/pansotti-q3822761/pansotti-q3822761-3.jpg",
+    "images/pansotti-q3822761/pansotti-q3822761-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3822761",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3753984",
+  "name": "Tacu-tacu",
+  "description": "Peruvian rice and bean dish",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tacu-tacu-q3753984/tacu-tacu-q3753984-1.jpg",
+    "images/tacu-tacu-q3753984/tacu-tacu-q3753984-2.jpg",
+    "images/tacu-tacu-q3753984/tacu-tacu-q3753984-3.jpg",
+    "images/tacu-tacu-q3753984/tacu-tacu-q3753984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3753984",
+    "themealdb": null
+  }
+}

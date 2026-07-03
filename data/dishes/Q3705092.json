@@ -1,0 +1,19 @@
+{
+  "id": "Q3705092",
+  "name": "delizia al limone",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/delizia-al-limone-q3705092/delizia-al-limone-q3705092-1.jpg",
+    "images/delizia-al-limone-q3705092/delizia-al-limone-q3705092-2.jpg",
+    "images/delizia-al-limone-q3705092/delizia-al-limone-q3705092-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3705092",
+    "themealdb": null
+  }
+}

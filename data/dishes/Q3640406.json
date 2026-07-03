@@ -1,0 +1,21 @@
+{
+  "id": "Q3640406",
+  "name": "bisciola",
+  "description": "Italian sweet bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Valtellina"
+  ],
+  "images": [
+    "images/bisciola-q3640406/bisciola-q3640406-1.jpeg",
+    "images/bisciola-q3640406/bisciola-q3640406-2.jpg",
+    "images/bisciola-q3640406/bisciola-q3640406-3.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3640406",
+    "themealdb": null
+  }
+}

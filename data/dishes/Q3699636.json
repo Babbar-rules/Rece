@@ -1,0 +1,20 @@
+{
+  "id": "Q3699636",
+  "name": "macaroon",
+  "description": "type of cookie",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/macaroon-q3699636/macaroon-q3699636-1.jpg",
+    "images/macaroon-q3699636/macaroon-q3699636-2.jpeg",
+    "images/macaroon-q3699636/macaroon-q3699636-3.jpg",
+    "images/macaroon-q3699636/macaroon-q3699636-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3699636",
+    "themealdb": null
+  }
+}

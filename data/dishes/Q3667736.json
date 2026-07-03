@@ -1,0 +1,22 @@
+{
+  "id": "Q3667736",
+  "name": "chicharrón",
+  "description": "Spanish and Latin American dish of pork belly or pork rind",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Andalusian cuisine"
+  ],
+  "images": [
+    "images/chicharron-q3667736/chicharron-q3667736-1.jpg",
+    "images/chicharron-q3667736/chicharron-q3667736-2.jpg",
+    "images/chicharron-q3667736/chicharron-q3667736-3.jpg",
+    "images/chicharron-q3667736/chicharron-q3667736-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3667736",
+    "themealdb": null
+  }
+}

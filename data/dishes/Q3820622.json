@@ -1,0 +1,20 @@
+{
+  "id": "Q3820622",
+  "name": "Paris ham",
+  "description": "cooked ham from France",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paris-ham-q3820622/paris-ham-q3820622-1.jpg",
+    "images/paris-ham-q3820622/paris-ham-q3820622-2.png",
+    "images/paris-ham-q3820622/paris-ham-q3820622-3.png",
+    "images/paris-ham-q3820622/paris-ham-q3820622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3820622",
+    "themealdb": null
+  }
+}

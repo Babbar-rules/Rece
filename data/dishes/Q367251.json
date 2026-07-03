@@ -1,0 +1,20 @@
+{
+  "id": "Q367251",
+  "name": "Kit Kat",
+  "description": "brand of chocolate products",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kit-kat-q367251/kit-kat-q367251-1.jpg",
+    "images/kit-kat-q367251/kit-kat-q367251-2.jpg",
+    "images/kit-kat-q367251/kit-kat-q367251-3.jpg",
+    "images/kit-kat-q367251/kit-kat-q367251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q367251",
+    "themealdb": null
+  }
+}

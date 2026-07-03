@@ -1,0 +1,18 @@
+{
+  "id": "Q3712615",
+  "name": "Christmas dessert",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-dessert-q3712615/christmas-dessert-q3712615-1.jpg",
+    "images/christmas-dessert-q3712615/christmas-dessert-q3712615-2.jpg",
+    "images/christmas-dessert-q3712615/christmas-dessert-q3712615-3.jpg",
+    "images/christmas-dessert-q3712615/christmas-dessert-q3712615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3712615",
+    "themealdb": null
+  }
+}

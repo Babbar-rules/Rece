@@ -1,0 +1,20 @@
+{
+  "id": "Q3694877",
+  "name": "Corunda",
+  "description": "Mexican type of tamale",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/corunda-q3694877/corunda-q3694877-1.jpg",
+    "images/corunda-q3694877/corunda-q3694877-2.jpg",
+    "images/corunda-q3694877/corunda-q3694877-3.jpg",
+    "images/corunda-q3694877/corunda-q3694877-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3694877",
+    "themealdb": null
+  }
+}

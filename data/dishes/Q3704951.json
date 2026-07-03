@@ -1,0 +1,18 @@
+{
+  "id": "Q3704951",
+  "name": "Nanjing Salted Duck",
+  "description": "Chinese duck dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nanjing-salted-duck-q3704951/nanjing-salted-duck-q3704951-1.jpg",
+    "images/nanjing-salted-duck-q3704951/nanjing-salted-duck-q3704951-2.jpg",
+    "images/nanjing-salted-duck-q3704951/nanjing-salted-duck-q3704951-3.jpg",
+    "images/nanjing-salted-duck-q3704951/nanjing-salted-duck-q3704951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3704951",
+    "themealdb": null
+  }
+}

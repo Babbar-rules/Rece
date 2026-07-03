@@ -1,0 +1,22 @@
+{
+  "id": "Q3708874",
+  "name": "diples",
+  "description": "Greek dessert",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [
+    "Greek cuisine"
+  ],
+  "images": [
+    "images/diples-q3708874/diples-q3708874-1.jpg",
+    "images/diples-q3708874/diples-q3708874-2.jpg",
+    "images/diples-q3708874/diples-q3708874-3.jpg",
+    "images/diples-q3708874/diples-q3708874-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3708874",
+    "themealdb": null
+  }
+}

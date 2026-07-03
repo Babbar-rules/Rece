@@ -1,0 +1,17 @@
+{
+  "id": "Q3757419",
+  "name": "Milkybar",
+  "description": "brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milkybar-q3757419/milkybar-q3757419-1.jpg",
+    "images/milkybar-q3757419/milkybar-q3757419-2.jpg",
+    "images/milkybar-q3757419/milkybar-q3757419-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3757419",
+    "themealdb": null
+  }
+}

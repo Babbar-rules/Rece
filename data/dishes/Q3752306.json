@@ -1,0 +1,20 @@
+{
+  "id": "Q3752306",
+  "name": "Frascarelli",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frascarelli-q3752306/frascarelli-q3752306-1.jpg",
+    "images/frascarelli-q3752306/frascarelli-q3752306-2.jpg",
+    "images/frascarelli-q3752306/frascarelli-q3752306-3.jpg",
+    "images/frascarelli-q3752306/frascarelli-q3752306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3752306",
+    "themealdb": null
+  }
+}

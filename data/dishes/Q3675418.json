@@ -1,0 +1,20 @@
+{
+  "id": "Q3675418",
+  "name": "choritos a la chalaca",
+  "description": "Peruvian mussels dish",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/choritos-a-la-chalaca-q3675418/choritos-a-la-chalaca-q3675418-1.jpg",
+    "images/choritos-a-la-chalaca-q3675418/choritos-a-la-chalaca-q3675418-2.jpg",
+    "images/choritos-a-la-chalaca-q3675418/choritos-a-la-chalaca-q3675418-3.jpg",
+    "images/choritos-a-la-chalaca-q3675418/choritos-a-la-chalaca-q3675418-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3675418",
+    "themealdb": null
+  }
+}

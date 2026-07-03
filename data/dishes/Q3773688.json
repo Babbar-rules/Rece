@@ -1,0 +1,18 @@
+{
+  "id": "Q3773688",
+  "name": "hae mee",
+  "description": "prawn noodle soup of Penang",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hae-mee-q3773688/hae-mee-q3773688-1.jpg",
+    "images/hae-mee-q3773688/hae-mee-q3773688-2.jpg",
+    "images/hae-mee-q3773688/hae-mee-q3773688-3.jpg",
+    "images/hae-mee-q3773688/hae-mee-q3773688-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3773688",
+    "themealdb": null
+  }
+}

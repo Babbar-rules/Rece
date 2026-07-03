@@ -1,0 +1,20 @@
+{
+  "id": "Q3776725",
+  "name": "Blaa",
+  "description": "doughy, white bread bun particular to Waterford City and County, Ireland",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blaa-q3776725/blaa-q3776725-1.jpg",
+    "images/blaa-q3776725/blaa-q3776725-2.jpg",
+    "images/blaa-q3776725/blaa-q3776725-3.jpg",
+    "images/blaa-q3776725/blaa-q3776725-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3776725",
+    "themealdb": null
+  }
+}

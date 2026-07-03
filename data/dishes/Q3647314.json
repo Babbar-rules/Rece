@@ -1,0 +1,19 @@
+{
+  "id": "Q3647314",
+  "name": "Buridda",
+  "description": "seafood soup or stew from Liguria, in Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buridda-q3647314/buridda-q3647314-1.jpg",
+    "images/buridda-q3647314/buridda-q3647314-2.jpg",
+    "images/buridda-q3647314/buridda-q3647314-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3647314",
+    "themealdb": null
+  }
+}

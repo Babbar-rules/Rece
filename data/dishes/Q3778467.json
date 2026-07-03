@@ -1,0 +1,20 @@
+{
+  "id": "Q3778467",
+  "name": "gubana",
+  "description": "Frioulian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gubana-q3778467/gubana-q3778467-1.jpg",
+    "images/gubana-q3778467/gubana-q3778467-2.jpg",
+    "images/gubana-q3778467/gubana-q3778467-3.jpg",
+    "images/gubana-q3778467/gubana-q3778467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3778467",
+    "themealdb": null
+  }
+}

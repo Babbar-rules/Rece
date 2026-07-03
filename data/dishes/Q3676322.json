@@ -1,0 +1,20 @@
+{
+  "id": "Q3676322",
+  "name": "ciavarro",
+  "description": "Italian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciavarro-q3676322/ciavarro-q3676322-1.jpg",
+    "images/ciavarro-q3676322/ciavarro-q3676322-2.png",
+    "images/ciavarro-q3676322/ciavarro-q3676322-3.png",
+    "images/ciavarro-q3676322/ciavarro-q3676322-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3676322",
+    "themealdb": null
+  }
+}

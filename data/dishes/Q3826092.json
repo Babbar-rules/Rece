@@ -1,0 +1,20 @@
+{
+  "id": "Q3826092",
+  "name": "Rossejat",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rossejat-q3826092/rossejat-q3826092-1.jpg",
+    "images/rossejat-q3826092/rossejat-q3826092-2.jpg",
+    "images/rossejat-q3826092/rossejat-q3826092-3.jpg",
+    "images/rossejat-q3826092/rossejat-q3826092-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3826092",
+    "themealdb": null
+  }
+}

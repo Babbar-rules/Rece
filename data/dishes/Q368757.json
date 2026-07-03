@@ -1,0 +1,20 @@
+{
+  "id": "Q368757",
+  "name": "szaloncukor",
+  "description": "candies used to decorate Christmas trees in Hungary",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/szaloncukor-q368757/szaloncukor-q368757-1.jpg",
+    "images/szaloncukor-q368757/szaloncukor-q368757-2.jpg",
+    "images/szaloncukor-q368757/szaloncukor-q368757-3.jpg",
+    "images/szaloncukor-q368757/szaloncukor-q368757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q368757",
+    "themealdb": null
+  }
+}

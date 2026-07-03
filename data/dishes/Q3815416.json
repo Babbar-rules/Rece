@@ -1,0 +1,20 @@
+{
+  "id": "Q3815416",
+  "name": "King Kong milk candy",
+  "description": "Peruvian cuisine dessert",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/king-kong-milk-candy-q3815416/king-kong-milk-candy-q3815416-1.jpg",
+    "images/king-kong-milk-candy-q3815416/king-kong-milk-candy-q3815416-2.jpg",
+    "images/king-kong-milk-candy-q3815416/king-kong-milk-candy-q3815416-3.jpg",
+    "images/king-kong-milk-candy-q3815416/king-kong-milk-candy-q3815416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3815416",
+    "themealdb": null
+  }
+}

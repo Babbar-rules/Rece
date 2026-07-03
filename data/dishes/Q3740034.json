@@ -1,0 +1,20 @@
+{
+  "id": "Q3740034",
+  "name": "fatayer",
+  "description": "filled savory pie from Arab and Levantine cuisine",
+  "nationality": [
+    "Lebanon"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fatayer-q3740034/fatayer-q3740034-1.jpg",
+    "images/fatayer-q3740034/fatayer-q3740034-2.jpg",
+    "images/fatayer-q3740034/fatayer-q3740034-3.jpg",
+    "images/fatayer-q3740034/fatayer-q3740034-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3740034",
+    "themealdb": null
+  }
+}

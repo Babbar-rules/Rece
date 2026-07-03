@@ -1,0 +1,20 @@
+{
+  "id": "Q3696961",
+  "name": "Cremino",
+  "description": "Italian layered chocolate",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cremino-q3696961/cremino-q3696961-1.jpg",
+    "images/cremino-q3696961/cremino-q3696961-2.jpg",
+    "images/cremino-q3696961/cremino-q3696961-3.jpg",
+    "images/cremino-q3696961/cremino-q3696961-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3696961",
+    "themealdb": null
+  }
+}

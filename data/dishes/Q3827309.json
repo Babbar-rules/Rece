@@ -1,0 +1,20 @@
+{
+  "id": "Q3827309",
+  "name": "lasagne sheet",
+  "description": "flat rectangle-shaped pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lasagne-sheet-q3827309/lasagne-sheet-q3827309-1.png",
+    "images/lasagne-sheet-q3827309/lasagne-sheet-q3827309-2.png",
+    "images/lasagne-sheet-q3827309/lasagne-sheet-q3827309-3.png",
+    "images/lasagne-sheet-q3827309/lasagne-sheet-q3827309-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3827309",
+    "themealdb": null
+  }
+}

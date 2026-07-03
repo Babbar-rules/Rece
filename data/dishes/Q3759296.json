@@ -1,0 +1,20 @@
+{
+  "id": "Q3759296",
+  "name": "Gelo di melone",
+  "description": "jellied watermelon pudding",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gelo-di-melone-q3759296/gelo-di-melone-q3759296-1.jpg",
+    "images/gelo-di-melone-q3759296/gelo-di-melone-q3759296-2.jpg",
+    "images/gelo-di-melone-q3759296/gelo-di-melone-q3759296-3.jpg",
+    "images/gelo-di-melone-q3759296/gelo-di-melone-q3759296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3759296",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3746935",
+  "name": "focaccia con il formaggio",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/focaccia-con-il-formaggio-q3746935/focaccia-con-il-formaggio-q3746935-1.jpg",
+    "images/focaccia-con-il-formaggio-q3746935/focaccia-con-il-formaggio-q3746935-2.jpg",
+    "images/focaccia-con-il-formaggio-q3746935/focaccia-con-il-formaggio-q3746935-3.jpg",
+    "images/focaccia-con-il-formaggio-q3746935/focaccia-con-il-formaggio-q3746935-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3746935",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3674722",
+  "name": "chimaki",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chimaki-q3674722/chimaki-q3674722-1.jpg",
+    "images/chimaki-q3674722/chimaki-q3674722-2.jpg",
+    "images/chimaki-q3674722/chimaki-q3674722-3.jpg",
+    "images/chimaki-q3674722/chimaki-q3674722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3674722",
+    "themealdb": null
+  }
+}

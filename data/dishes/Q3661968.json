@@ -1,0 +1,20 @@
+{
+  "id": "Q3661968",
+  "name": "cassatelle",
+  "description": "Sicilian deep-fried Italian pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cassatelle-q3661968/cassatelle-q3661968-1.jpg",
+    "images/cassatelle-q3661968/cassatelle-q3661968-2.jpg",
+    "images/cassatelle-q3661968/cassatelle-q3661968-3.jpg",
+    "images/cassatelle-q3661968/cassatelle-q3661968-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3661968",
+    "themealdb": null
+  }
+}

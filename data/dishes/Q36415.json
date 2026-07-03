@@ -1,0 +1,20 @@
+{
+  "id": "Q36415",
+  "name": "roast goose",
+  "description": "dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roast-goose-q36415/roast-goose-q36415-1.jpg",
+    "images/roast-goose-q36415/roast-goose-q36415-2.jpg",
+    "images/roast-goose-q36415/roast-goose-q36415-3.jpg",
+    "images/roast-goose-q36415/roast-goose-q36415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36415",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3676383",
+  "name": "Cicerchiata",
+  "description": "Italian carnival dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cicerchiata-q3676383/cicerchiata-q3676383-1.jpg",
+    "images/cicerchiata-q3676383/cicerchiata-q3676383-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3676383",
+    "themealdb": null
+  }
+}

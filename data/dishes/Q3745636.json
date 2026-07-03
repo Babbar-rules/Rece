@@ -1,0 +1,18 @@
+{
+  "id": "Q3745636",
+  "name": "finanziera",
+  "description": "Italian offal stew",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/finanziera-q3745636/finanziera-q3745636-1.jpg",
+    "images/finanziera-q3745636/finanziera-q3745636-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3745636",
+    "themealdb": null
+  }
+}

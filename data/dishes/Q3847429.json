@@ -1,0 +1,20 @@
+{
+  "id": "Q3847429",
+  "name": "higashi",
+  "description": "traditional Japanese confectionery with very little moisture",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/higashi-q3847429/higashi-q3847429-1.jpg",
+    "images/higashi-q3847429/higashi-q3847429-2.jpg",
+    "images/higashi-q3847429/higashi-q3847429-3.jpeg",
+    "images/higashi-q3847429/higashi-q3847429-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3847429",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3847402",
+  "name": "hanabiramochi",
+  "description": "Japanese sweet",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hanabiramochi-q3847402/hanabiramochi-q3847402-1.jpg",
+    "images/hanabiramochi-q3847402/hanabiramochi-q3847402-2.jpeg",
+    "images/hanabiramochi-q3847402/hanabiramochi-q3847402-3.jpg",
+    "images/hanabiramochi-q3847402/hanabiramochi-q3847402-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3847402",
+    "themealdb": null
+  }
+}

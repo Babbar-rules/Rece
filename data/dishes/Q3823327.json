@@ -1,0 +1,20 @@
+{
+  "id": "Q3823327",
+  "name": "country ham",
+  "description": "American cured and smoked ham",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/country-ham-q3823327/country-ham-q3823327-1.jpg",
+    "images/country-ham-q3823327/country-ham-q3823327-2.jpg",
+    "images/country-ham-q3823327/country-ham-q3823327-3.jpg",
+    "images/country-ham-q3823327/country-ham-q3823327-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3823327",
+    "themealdb": null
+  }
+}

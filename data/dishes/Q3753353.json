@@ -1,0 +1,20 @@
+{
+  "id": "Q3753353",
+  "name": "Frisk",
+  "description": "line of breath mint candies",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frisk-q3753353/frisk-q3753353-1.jpg",
+    "images/frisk-q3753353/frisk-q3753353-2.jpg",
+    "images/frisk-q3753353/frisk-q3753353-3.jpg",
+    "images/frisk-q3753353/frisk-q3753353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3753353",
+    "themealdb": null
+  }
+}

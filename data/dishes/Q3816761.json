@@ -1,0 +1,18 @@
+{
+  "id": "Q3816761",
+  "name": "Krabby Patty",
+  "description": "fictional hamburger in the animated series SpongeBob SquarePants",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krabby-patty-q3816761/krabby-patty-q3816761-1.jpg",
+    "images/krabby-patty-q3816761/krabby-patty-q3816761-2.jpg",
+    "images/krabby-patty-q3816761/krabby-patty-q3816761-3.jpg",
+    "images/krabby-patty-q3816761/krabby-patty-q3816761-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3816761",
+    "themealdb": null
+  }
+}

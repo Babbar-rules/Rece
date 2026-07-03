@@ -1,0 +1,20 @@
+{
+  "id": "Q3849360",
+  "name": "maritozzo",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maritozzo-q3849360/maritozzo-q3849360-1.jpg",
+    "images/maritozzo-q3849360/maritozzo-q3849360-2.jpg",
+    "images/maritozzo-q3849360/maritozzo-q3849360-3.jpg",
+    "images/maritozzo-q3849360/maritozzo-q3849360-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3849360",
+    "themealdb": null
+  }
+}

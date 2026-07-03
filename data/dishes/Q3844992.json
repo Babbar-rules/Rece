@@ -1,0 +1,20 @@
+{
+  "id": "Q3844992",
+  "name": "New York-style pizza",
+  "description": "large hand-tossed thin crust pizza",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/new-york-style-pizza-q3844992/new-york-style-pizza-q3844992-1.jpg",
+    "images/new-york-style-pizza-q3844992/new-york-style-pizza-q3844992-2.png",
+    "images/new-york-style-pizza-q3844992/new-york-style-pizza-q3844992-3.png",
+    "images/new-york-style-pizza-q3844992/new-york-style-pizza-q3844992-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3844992",
+    "themealdb": null
+  }
+}

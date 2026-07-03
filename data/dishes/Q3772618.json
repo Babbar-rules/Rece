@@ -1,0 +1,20 @@
+{
+  "id": "Q3772618",
+  "name": "gnocchi di zucca",
+  "description": "Italian gnocchi made with pumpkin",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gnocchi-di-zucca-q3772618/gnocchi-di-zucca-q3772618-1.jpg",
+    "images/gnocchi-di-zucca-q3772618/gnocchi-di-zucca-q3772618-2.jpg",
+    "images/gnocchi-di-zucca-q3772618/gnocchi-di-zucca-q3772618-3.jpg",
+    "images/gnocchi-di-zucca-q3772618/gnocchi-di-zucca-q3772618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3772618",
+    "themealdb": null
+  }
+}

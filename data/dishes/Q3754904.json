@@ -1,0 +1,20 @@
+{
+  "id": "Q3754904",
+  "name": "fusilli bucati",
+  "description": "hollow fusilli pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fusilli-bucati-q3754904/fusilli-bucati-q3754904-1.jpg",
+    "images/fusilli-bucati-q3754904/fusilli-bucati-q3754904-2.jpg",
+    "images/fusilli-bucati-q3754904/fusilli-bucati-q3754904-3.jpg",
+    "images/fusilli-bucati-q3754904/fusilli-bucati-q3754904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3754904",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3645416",
+  "name": "Brovada",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brovada-q3645416/brovada-q3645416-1.jpg",
+    "images/brovada-q3645416/brovada-q3645416-2.jpg",
+    "images/brovada-q3645416/brovada-q3645416-3.jpg",
+    "images/brovada-q3645416/brovada-q3645416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3645416",
+    "themealdb": null
+  }
+}

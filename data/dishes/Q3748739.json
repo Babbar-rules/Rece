@@ -1,0 +1,20 @@
+{
+  "id": "Q3748739",
+  "name": "Amaretto macaron",
+  "description": "Italian biscuit",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amaretto-macaron-q3748739/amaretto-macaron-q3748739-1.jpg",
+    "images/amaretto-macaron-q3748739/amaretto-macaron-q3748739-2.jpg",
+    "images/amaretto-macaron-q3748739/amaretto-macaron-q3748739-3.jpg",
+    "images/amaretto-macaron-q3748739/amaretto-macaron-q3748739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3748739",
+    "themealdb": null
+  }
+}

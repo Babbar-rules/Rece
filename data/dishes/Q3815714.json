@@ -1,0 +1,20 @@
+{
+  "id": "Q3815714",
+  "name": "Kitcha",
+  "description": "unleavened bread in Ethiopian and Eritrean culinary tradition",
+  "nationality": [
+    "Ethiopia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kitcha-q3815714/kitcha-q3815714-1.jpg",
+    "images/kitcha-q3815714/kitcha-q3815714-2.jpg",
+    "images/kitcha-q3815714/kitcha-q3815714-3.jpg",
+    "images/kitcha-q3815714/kitcha-q3815714-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3815714",
+    "themealdb": null
+  }
+}

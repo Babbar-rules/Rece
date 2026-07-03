@@ -1,0 +1,20 @@
+{
+  "id": "Q3746933",
+  "name": "focaccia barese",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/focaccia-barese-q3746933/focaccia-barese-q3746933-1.jpg",
+    "images/focaccia-barese-q3746933/focaccia-barese-q3746933-2.jpg",
+    "images/focaccia-barese-q3746933/focaccia-barese-q3746933-3.jpg",
+    "images/focaccia-barese-q3746933/focaccia-barese-q3746933-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3746933",
+    "themealdb": null
+  }
+}

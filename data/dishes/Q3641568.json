@@ -1,0 +1,20 @@
+{
+  "id": "Q3641568",
+  "name": "Boeuf à la mode",
+  "description": "French braised beef dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boeuf-a-la-mode-q3641568/boeuf-a-la-mode-q3641568-1.jpg",
+    "images/boeuf-a-la-mode-q3641568/boeuf-a-la-mode-q3641568-2.jpg",
+    "images/boeuf-a-la-mode-q3641568/boeuf-a-la-mode-q3641568-3.jpg",
+    "images/boeuf-a-la-mode-q3641568/boeuf-a-la-mode-q3641568-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3641568",
+    "themealdb": null
+  }
+}

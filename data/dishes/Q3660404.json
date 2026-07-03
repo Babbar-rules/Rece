@@ -1,0 +1,18 @@
+{
+  "id": "Q3660404",
+  "name": "carne cruda alla piemontese",
+  "description": "Italian version of steak tartare",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-cruda-alla-piemontese-q3660404/carne-cruda-alla-piemontese-q3660404-1.jpg",
+    "images/carne-cruda-alla-piemontese-q3660404/carne-cruda-alla-piemontese-q3660404-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3660404",
+    "themealdb": null
+  }
+}

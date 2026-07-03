@@ -1,0 +1,18 @@
+{
+  "id": "Q370799",
+  "name": "freeze-dried ice cream",
+  "description": "ice cream that has had most of the water removed from it by a freeze-drying process",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/freeze-dried-ice-cream-q370799/freeze-dried-ice-cream-q370799-1.jpg",
+    "images/freeze-dried-ice-cream-q370799/freeze-dried-ice-cream-q370799-2.jpg",
+    "images/freeze-dried-ice-cream-q370799/freeze-dried-ice-cream-q370799-3.jpg",
+    "images/freeze-dried-ice-cream-q370799/freeze-dried-ice-cream-q370799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q370799",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q37258522",
+  "name": "twisted doughnut",
+  "description": "Types of bread",
+  "nationality": [
+    "Philippines",
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/twisted-doughnut-q37258522/twisted-doughnut-q37258522-1.jpg",
+    "images/twisted-doughnut-q37258522/twisted-doughnut-q37258522-2.jpg",
+    "images/twisted-doughnut-q37258522/twisted-doughnut-q37258522-3.jpg",
+    "images/twisted-doughnut-q37258522/twisted-doughnut-q37258522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q37258522",
+    "themealdb": null
+  }
+}

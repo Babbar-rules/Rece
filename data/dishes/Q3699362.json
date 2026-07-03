@@ -1,0 +1,20 @@
+{
+  "id": "Q3699362",
+  "name": "culurgiones",
+  "description": "type of stuffed pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/culurgiones-q3699362/culurgiones-q3699362-1.jpg",
+    "images/culurgiones-q3699362/culurgiones-q3699362-2.jpg",
+    "images/culurgiones-q3699362/culurgiones-q3699362-3.jpg",
+    "images/culurgiones-q3699362/culurgiones-q3699362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3699362",
+    "themealdb": null
+  }
+}

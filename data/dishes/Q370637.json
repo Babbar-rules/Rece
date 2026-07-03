@@ -1,0 +1,23 @@
+{
+  "id": "Q370637",
+  "name": "lecsó",
+  "description": "pepper-based vegetable dish of Hungarian origin",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Central European cuisine",
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/lecso-q370637/lecso-q370637-1.jpg",
+    "images/lecso-q370637/lecso-q370637-2.jpg",
+    "images/lecso-q370637/lecso-q370637-3.jpg",
+    "images/lecso-q370637/lecso-q370637-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q370637",
+    "themealdb": null
+  }
+}

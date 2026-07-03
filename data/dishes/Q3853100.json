@@ -1,0 +1,16 @@
+{
+  "id": "Q3853100",
+  "name": "Maxibon",
+  "description": "brand of ice cream sandwich made by Froneri",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/maxibon-q3853100/maxibon-q3853100-1.png",
+    "images/maxibon-q3853100/maxibon-q3853100-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3853100",
+    "themealdb": null
+  }
+}

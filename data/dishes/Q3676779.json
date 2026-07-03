@@ -1,0 +1,20 @@
+{
+  "id": "Q3676779",
+  "name": "cima alla Genovese",
+  "description": "Genovese meat loaf",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cima-alla-genovese-q3676779/cima-alla-genovese-q3676779-1.jpg",
+    "images/cima-alla-genovese-q3676779/cima-alla-genovese-q3676779-2.jpg",
+    "images/cima-alla-genovese-q3676779/cima-alla-genovese-q3676779-3.jpg",
+    "images/cima-alla-genovese-q3676779/cima-alla-genovese-q3676779-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3676779",
+    "themealdb": null
+  }
+}

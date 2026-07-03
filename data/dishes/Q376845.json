@@ -1,0 +1,20 @@
+{
+  "id": "Q376845",
+  "name": "Vanillekipferl",
+  "description": "Traditional Christmas Cookie",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vanillekipferl-q376845/vanillekipferl-q376845-1.jpg",
+    "images/vanillekipferl-q376845/vanillekipferl-q376845-2.jpg",
+    "images/vanillekipferl-q376845/vanillekipferl-q376845-3.jpg",
+    "images/vanillekipferl-q376845/vanillekipferl-q376845-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q376845",
+    "themealdb": null
+  }
+}

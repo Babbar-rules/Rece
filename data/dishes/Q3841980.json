@@ -1,0 +1,18 @@
+{
+  "id": "Q3841980",
+  "name": "Maccheroni con le noci",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maccheroni-con-le-noci-q3841980/maccheroni-con-le-noci-q3841980-1.jpg",
+    "images/maccheroni-con-le-noci-q3841980/maccheroni-con-le-noci-q3841980-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3841980",
+    "themealdb": null
+  }
+}

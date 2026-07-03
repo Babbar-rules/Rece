@@ -1,0 +1,20 @@
+{
+  "id": "Q3657790",
+  "name": "Cappon magro",
+  "description": "Italian seafood salad",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cappon-magro-q3657790/cappon-magro-q3657790-1.jpg",
+    "images/cappon-magro-q3657790/cappon-magro-q3657790-2.jpg",
+    "images/cappon-magro-q3657790/cappon-magro-q3657790-3.jpg",
+    "images/cappon-magro-q3657790/cappon-magro-q3657790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3657790",
+    "themealdb": null
+  }
+}

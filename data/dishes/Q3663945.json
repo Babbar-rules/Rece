@@ -1,0 +1,20 @@
+{
+  "id": "Q3663945",
+  "name": "Cavallucci",
+  "description": "Italian Christmas pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cavallucci-q3663945/cavallucci-q3663945-1.jpg",
+    "images/cavallucci-q3663945/cavallucci-q3663945-2.jpg",
+    "images/cavallucci-q3663945/cavallucci-q3663945-3.jpg",
+    "images/cavallucci-q3663945/cavallucci-q3663945-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3663945",
+    "themealdb": null
+  }
+}

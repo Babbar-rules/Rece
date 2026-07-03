@@ -1,0 +1,22 @@
+{
+  "id": "Q3642641",
+  "name": "Borlengo",
+  "description": "Italian thin flatbread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Modena"
+  ],
+  "images": [
+    "images/borlengo-q3642641/borlengo-q3642641-1.jpg",
+    "images/borlengo-q3642641/borlengo-q3642641-2.jpg",
+    "images/borlengo-q3642641/borlengo-q3642641-3.jpg",
+    "images/borlengo-q3642641/borlengo-q3642641-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3642641",
+    "themealdb": null
+  }
+}

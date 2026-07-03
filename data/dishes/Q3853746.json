@@ -1,0 +1,18 @@
+{
+  "id": "Q3853746",
+  "name": "eggah",
+  "description": "Arab egg dish of eggs cooked in a pancake, bound to fillings (vegetable or meat) with spices, similar to a frittata",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eggah-q3853746/eggah-q3853746-1.jpg",
+    "images/eggah-q3853746/eggah-q3853746-2.jpg",
+    "images/eggah-q3853746/eggah-q3853746-3.jpg",
+    "images/eggah-q3853746/eggah-q3853746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3853746",
+    "themealdb": null
+  }
+}

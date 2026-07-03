@@ -1,0 +1,18 @@
+{
+  "id": "Q3640409",
+  "name": "Biscottini di Prosto",
+  "description": "Typical biscuits of Valchiavenna, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biscottini-di-prosto-q3640409/biscottini-di-prosto-q3640409-1.jpg",
+    "images/biscottini-di-prosto-q3640409/biscottini-di-prosto-q3640409-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3640409",
+    "themealdb": null
+  }
+}

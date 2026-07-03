@@ -1,0 +1,20 @@
+{
+  "id": "Q3646108",
+  "name": "Brutti e buoni",
+  "description": "cookie of Italian origin",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brutti-e-buoni-q3646108/brutti-e-buoni-q3646108-1.jpg",
+    "images/brutti-e-buoni-q3646108/brutti-e-buoni-q3646108-2.jpg",
+    "images/brutti-e-buoni-q3646108/brutti-e-buoni-q3646108-3.jpg",
+    "images/brutti-e-buoni-q3646108/brutti-e-buoni-q3646108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3646108",
+    "themealdb": null
+  }
+}

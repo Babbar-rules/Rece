@@ -1,0 +1,24 @@
+{
+  "id": "Q3668429",
+  "name": "keşkek",
+  "description": "an Anatolian meat and grain stew that is listed in the UNESCO World Intangible Cultural Heritage List",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Iranian cuisine",
+    "Greek cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/keskek-q3668429/keskek-q3668429-1.jpg",
+    "images/keskek-q3668429/keskek-q3668429-2.jpg",
+    "images/keskek-q3668429/keskek-q3668429-3.jpg",
+    "images/keskek-q3668429/keskek-q3668429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3668429",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3772863",
+  "name": "Pebre",
+  "description": "Chilean condiment",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pebre-q3772863/pebre-q3772863-1.jpg",
+    "images/pebre-q3772863/pebre-q3772863-2.jpg",
+    "images/pebre-q3772863/pebre-q3772863-3.jpg",
+    "images/pebre-q3772863/pebre-q3772863-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3772863",
+    "themealdb": null
+  }
+}

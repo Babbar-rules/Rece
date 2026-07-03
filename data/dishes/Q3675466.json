@@ -1,0 +1,22 @@
+{
+  "id": "Q3675466",
+  "name": "Kattama",
+  "description": "flatbread from the Turkish and Central Asian cuisines",
+  "nationality": [],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Kazakh cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/kattama-q3675466/kattama-q3675466-1.jpg",
+    "images/kattama-q3675466/kattama-q3675466-2.jpg",
+    "images/kattama-q3675466/kattama-q3675466-3.jpg",
+    "images/kattama-q3675466/kattama-q3675466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3675466",
+    "themealdb": null
+  }
+}

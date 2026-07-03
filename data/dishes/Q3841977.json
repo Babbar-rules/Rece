@@ -1,0 +1,22 @@
+{
+  "id": "Q3841977",
+  "name": "maccheroncini di Campofilone",
+  "description": "type of thin pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Marche"
+  ],
+  "images": [
+    "images/maccheroncini-di-campofilone-q3841977/maccheroncini-di-campofilone-q3841977-1.jpg",
+    "images/maccheroncini-di-campofilone-q3841977/maccheroncini-di-campofilone-q3841977-2.jpg",
+    "images/maccheroncini-di-campofilone-q3841977/maccheroncini-di-campofilone-q3841977-3.jpg",
+    "images/maccheroncini-di-campofilone-q3841977/maccheroncini-di-campofilone-q3841977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3841977",
+    "themealdb": null
+  }
+}

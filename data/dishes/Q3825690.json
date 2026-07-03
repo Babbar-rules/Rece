@@ -1,0 +1,18 @@
+{
+  "id": "Q3825690",
+  "name": "100 Grand Bar",
+  "description": "candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/100-grand-bar-q3825690/100-grand-bar-q3825690-1.jpg",
+    "images/100-grand-bar-q3825690/100-grand-bar-q3825690-2.jpg",
+    "images/100-grand-bar-q3825690/100-grand-bar-q3825690-3.jpg",
+    "images/100-grand-bar-q3825690/100-grand-bar-q3825690-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3825690",
+    "themealdb": null
+  }
+}

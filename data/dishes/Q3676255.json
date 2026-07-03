@@ -1,0 +1,19 @@
+{
+  "id": "Q3676255",
+  "name": "Ciambotta",
+  "description": "Italian stew",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciambotta-q3676255/ciambotta-q3676255-1.jpg",
+    "images/ciambotta-q3676255/ciambotta-q3676255-2.jpg",
+    "images/ciambotta-q3676255/ciambotta-q3676255-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3676255",
+    "themealdb": null
+  }
+}

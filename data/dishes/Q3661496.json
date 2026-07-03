@@ -1,0 +1,22 @@
+{
+  "id": "Q3661496",
+  "name": "Casatiello",
+  "description": "Italian leavened savory bread",
+  "nationality": [
+    "Kingdom of Naples"
+  ],
+  "region_cuisine": [
+    "Neapolitan cuisine"
+  ],
+  "images": [
+    "images/casatiello-q3661496/casatiello-q3661496-1.jpg",
+    "images/casatiello-q3661496/casatiello-q3661496-2.jpg",
+    "images/casatiello-q3661496/casatiello-q3661496-3.jpg",
+    "images/casatiello-q3661496/casatiello-q3661496-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3661496",
+    "themealdb": null
+  }
+}

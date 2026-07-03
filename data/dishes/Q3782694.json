@@ -1,0 +1,18 @@
+{
+  "id": "Q3782694",
+  "name": "ham and cheese sandwich",
+  "description": "common type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-and-cheese-sandwich-q3782694/ham-and-cheese-sandwich-q3782694-1.jpg",
+    "images/ham-and-cheese-sandwich-q3782694/ham-and-cheese-sandwich-q3782694-2.jpg",
+    "images/ham-and-cheese-sandwich-q3782694/ham-and-cheese-sandwich-q3782694-3.jpg",
+    "images/ham-and-cheese-sandwich-q3782694/ham-and-cheese-sandwich-q3782694-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3782694",
+    "themealdb": null
+  }
+}

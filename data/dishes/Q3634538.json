@@ -1,0 +1,23 @@
+{
+  "id": "Q3634538",
+  "name": "Sheermal",
+  "description": "Iranian flatbread",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [
+    "Iranian cuisine",
+    "Awadhi cuisine"
+  ],
+  "images": [
+    "images/sheermal-q3634538/sheermal-q3634538-1.jpg",
+    "images/sheermal-q3634538/sheermal-q3634538-2.jpg",
+    "images/sheermal-q3634538/sheermal-q3634538-3.jpg",
+    "images/sheermal-q3634538/sheermal-q3634538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3634538",
+    "themealdb": null
+  }
+}

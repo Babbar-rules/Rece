@@ -1,0 +1,20 @@
+{
+  "id": "Q3666048",
+  "name": "chomchom",
+  "description": "traditional Bengali sweet",
+  "nationality": [
+    "British Raj"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chomchom-q3666048/chomchom-q3666048-1.jpg",
+    "images/chomchom-q3666048/chomchom-q3666048-2.jpg",
+    "images/chomchom-q3666048/chomchom-q3666048-3.jpg",
+    "images/chomchom-q3666048/chomchom-q3666048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3666048",
+    "themealdb": null
+  }
+}

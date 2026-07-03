@@ -1,0 +1,18 @@
+{
+  "id": "Q3778015",
+  "name": "blöta",
+  "description": "dish of crisp flatbread soaked in a hot meat broth or milk, originating in northern Sweden",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blota-q3778015/blota-q3778015-1.jpg",
+    "images/blota-q3778015/blota-q3778015-2.jpg",
+    "images/blota-q3778015/blota-q3778015-3.jpg",
+    "images/blota-q3778015/blota-q3778015-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3778015",
+    "themealdb": null
+  }
+}

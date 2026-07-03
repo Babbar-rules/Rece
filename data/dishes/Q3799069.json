@@ -1,0 +1,18 @@
+{
+  "id": "Q3799069",
+  "name": "seafood salad",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seafood-salad-q3799069/seafood-salad-q3799069-1.jpg",
+    "images/seafood-salad-q3799069/seafood-salad-q3799069-2.jpg",
+    "images/seafood-salad-q3799069/seafood-salad-q3799069-3.jpg",
+    "images/seafood-salad-q3799069/seafood-salad-q3799069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3799069",
+    "themealdb": null
+  }
+}

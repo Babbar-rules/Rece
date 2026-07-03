@@ -1,0 +1,20 @@
+{
+  "id": "Q3678143",
+  "name": "ciriola",
+  "description": "Roman bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciriola-q3678143/ciriola-q3678143-1.jpg",
+    "images/ciriola-q3678143/ciriola-q3678143-2.png",
+    "images/ciriola-q3678143/ciriola-q3678143-3.jpg",
+    "images/ciriola-q3678143/ciriola-q3678143-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3678143",
+    "themealdb": null
+  }
+}

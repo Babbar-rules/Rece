@@ -1,0 +1,22 @@
+{
+  "id": "Q3693169",
+  "name": "coppetta",
+  "description": "Italian sweet",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Valtellina"
+  ],
+  "images": [
+    "images/coppetta-q3693169/coppetta-q3693169-1.jpg",
+    "images/coppetta-q3693169/coppetta-q3693169-2.jpg",
+    "images/coppetta-q3693169/coppetta-q3693169-3.jpg",
+    "images/coppetta-q3693169/coppetta-q3693169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3693169",
+    "themealdb": null
+  }
+}

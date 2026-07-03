@@ -1,0 +1,20 @@
+{
+  "id": "Q3844010",
+  "name": "maltagliati",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maltagliati-q3844010/maltagliati-q3844010-1.jpg",
+    "images/maltagliati-q3844010/maltagliati-q3844010-2.jpg",
+    "images/maltagliati-q3844010/maltagliati-q3844010-3.jpg",
+    "images/maltagliati-q3844010/maltagliati-q3844010-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3844010",
+    "themealdb": null
+  }
+}

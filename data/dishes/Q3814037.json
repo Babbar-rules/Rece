@@ -1,0 +1,20 @@
+{
+  "id": "Q3814037",
+  "name": "Buko pie",
+  "description": "Filipino coconut custard pie",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buko-pie-q3814037/buko-pie-q3814037-1.jpg",
+    "images/buko-pie-q3814037/buko-pie-q3814037-2.jpg",
+    "images/buko-pie-q3814037/buko-pie-q3814037-3.jpg",
+    "images/buko-pie-q3814037/buko-pie-q3814037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3814037",
+    "themealdb": null
+  }
+}

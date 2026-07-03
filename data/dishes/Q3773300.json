@@ -1,0 +1,20 @@
+{
+  "id": "Q3773300",
+  "name": "Steamed meatball",
+  "description": "Cantonese dim sum dish",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-meatball-q3773300/steamed-meatball-q3773300-1.jpg",
+    "images/steamed-meatball-q3773300/steamed-meatball-q3773300-2.jpg",
+    "images/steamed-meatball-q3773300/steamed-meatball-q3773300-3.jpg",
+    "images/steamed-meatball-q3773300/steamed-meatball-q3773300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3773300",
+    "themealdb": null
+  }
+}

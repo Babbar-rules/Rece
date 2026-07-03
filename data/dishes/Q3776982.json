@@ -1,0 +1,18 @@
+{
+  "id": "Q3776982",
+  "name": "prawn cocktail",
+  "description": "dish of prawns",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prawn-cocktail-q3776982/prawn-cocktail-q3776982-1.jpg",
+    "images/prawn-cocktail-q3776982/prawn-cocktail-q3776982-2.jpg",
+    "images/prawn-cocktail-q3776982/prawn-cocktail-q3776982-3.jpg",
+    "images/prawn-cocktail-q3776982/prawn-cocktail-q3776982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3776982",
+    "themealdb": null
+  }
+}

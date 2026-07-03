@@ -1,0 +1,18 @@
+{
+  "id": "Q383284",
+  "name": "Afikoman",
+  "description": "portion of matza set aside during the Passover meal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/afikoman-q383284/afikoman-q383284-1.jpg",
+    "images/afikoman-q383284/afikoman-q383284-2.jpg",
+    "images/afikoman-q383284/afikoman-q383284-3.jpg",
+    "images/afikoman-q383284/afikoman-q383284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q383284",
+    "themealdb": null
+  }
+}

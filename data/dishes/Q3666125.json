@@ -1,0 +1,20 @@
+{
+  "id": "Q3666125",
+  "name": "chanfaina",
+  "description": "lamb stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chanfaina-q3666125/chanfaina-q3666125-1.jpg",
+    "images/chanfaina-q3666125/chanfaina-q3666125-2.jpg",
+    "images/chanfaina-q3666125/chanfaina-q3666125-3.jpg",
+    "images/chanfaina-q3666125/chanfaina-q3666125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3666125",
+    "themealdb": null
+  }
+}
