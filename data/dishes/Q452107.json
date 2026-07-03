@@ -1,0 +1,20 @@
+{
+  "id": "Q452107",
+  "name": "Spreewald gherkins",
+  "description": "trademarked gherkins",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spreewald-gherkins-q452107/spreewald-gherkins-q452107-1.jpg",
+    "images/spreewald-gherkins-q452107/spreewald-gherkins-q452107-2.jpg",
+    "images/spreewald-gherkins-q452107/spreewald-gherkins-q452107-3.jpg",
+    "images/spreewald-gherkins-q452107/spreewald-gherkins-q452107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q452107",
+    "themealdb": null
+  }
+}

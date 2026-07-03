@@ -1,0 +1,20 @@
+{
+  "id": "Q4385016",
+  "name": "saimin",
+  "description": "Hawaiian noodle soup dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saimin-q4385016/saimin-q4385016-1.jpg",
+    "images/saimin-q4385016/saimin-q4385016-2.jpg",
+    "images/saimin-q4385016/saimin-q4385016-3.jpg",
+    "images/saimin-q4385016/saimin-q4385016-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4385016",
+    "themealdb": null
+  }
+}

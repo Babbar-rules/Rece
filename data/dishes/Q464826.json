@@ -1,0 +1,20 @@
+{
+  "id": "Q464826",
+  "name": "Matsumaezuke",
+  "description": "Japanese pickles",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/matsumaezuke-q464826/matsumaezuke-q464826-1.jpg",
+    "images/matsumaezuke-q464826/matsumaezuke-q464826-2.jpg",
+    "images/matsumaezuke-q464826/matsumaezuke-q464826-3.jpg",
+    "images/matsumaezuke-q464826/matsumaezuke-q464826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q464826",
+    "themealdb": null
+  }
+}

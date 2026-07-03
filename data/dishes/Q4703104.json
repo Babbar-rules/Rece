@@ -1,0 +1,20 @@
+{
+  "id": "Q4703104",
+  "name": "Se'i",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sei-q4703104/sei-q4703104-1.jpg",
+    "images/sei-q4703104/sei-q4703104-2.jpg",
+    "images/sei-q4703104/sei-q4703104-3.jpg",
+    "images/sei-q4703104/sei-q4703104-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4703104",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q43731351",
+  "name": "boiled dog meat",
+  "description": "",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boiled-dog-meat-q43731351/boiled-dog-meat-q43731351-1.jpg",
+    "images/boiled-dog-meat-q43731351/boiled-dog-meat-q43731351-2.jpg",
+    "images/boiled-dog-meat-q43731351/boiled-dog-meat-q43731351-3.jpg",
+    "images/boiled-dog-meat-q43731351/boiled-dog-meat-q43731351-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43731351",
+    "themealdb": null
+  }
+}

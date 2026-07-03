@@ -1,0 +1,19 @@
+{
+  "id": "Q4516736",
+  "name": "Chikhirtma",
+  "description": "traditional Georgian chicken soup",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chikhirtma-q4516736/chikhirtma-q4516736-1.jpg",
+    "images/chikhirtma-q4516736/chikhirtma-q4516736-2.jpg",
+    "images/chikhirtma-q4516736/chikhirtma-q4516736-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4516736",
+    "themealdb": null
+  }
+}

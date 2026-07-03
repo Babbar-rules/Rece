@@ -1,0 +1,20 @@
+{
+  "id": "Q4452497",
+  "name": "Soto Bandung",
+  "description": "Indonesian traditional soup dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soto-bandung-q4452497/soto-bandung-q4452497-1.jpg",
+    "images/soto-bandung-q4452497/soto-bandung-q4452497-2.jpg",
+    "images/soto-bandung-q4452497/soto-bandung-q4452497-3.jpg",
+    "images/soto-bandung-q4452497/soto-bandung-q4452497-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4452497",
+    "themealdb": null
+  }
+}

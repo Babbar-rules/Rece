@@ -1,0 +1,20 @@
+{
+  "id": "Q47004974",
+  "name": "Okoho",
+  "description": "Nigerian soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/okoho-q47004974/okoho-q47004974-1.jpg",
+    "images/okoho-q47004974/okoho-q47004974-2.jpg",
+    "images/okoho-q47004974/okoho-q47004974-3.jpg",
+    "images/okoho-q47004974/okoho-q47004974-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47004974",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q4701981",
+  "name": "Akuri",
+  "description": "Persian and Indian Parsi dish of scrambled eggs with mint or coriander and turmeric",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Iranian cuisine",
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/akuri-q4701981/akuri-q4701981-1.jpg",
+    "images/akuri-q4701981/akuri-q4701981-2.jpg",
+    "images/akuri-q4701981/akuri-q4701981-3.jpg",
+    "images/akuri-q4701981/akuri-q4701981-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4701981",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4663628",
+  "name": "Abba-Zaba",
+  "description": "candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/abba-zaba-q4663628/abba-zaba-q4663628-1.jpg",
+    "images/abba-zaba-q4663628/abba-zaba-q4663628-2.jpg",
+    "images/abba-zaba-q4663628/abba-zaba-q4663628-3.jpg",
+    "images/abba-zaba-q4663628/abba-zaba-q4663628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4663628",
+    "themealdb": null
+  }
+}

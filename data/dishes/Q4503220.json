@@ -1,0 +1,15 @@
+{
+  "id": "Q4503220",
+  "name": "Bomba toledana",
+  "description": "Typical tapas from Toledo, Spain",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bomba-toledana-q4503220/bomba-toledana-q4503220-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4503220",
+    "themealdb": null
+  }
+}

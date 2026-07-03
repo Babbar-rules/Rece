@@ -1,0 +1,20 @@
+{
+  "id": "Q4381008",
+  "name": "Philadelphia roll",
+  "description": "type of sushi",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/philadelphia-roll-q4381008/philadelphia-roll-q4381008-1.jpg",
+    "images/philadelphia-roll-q4381008/philadelphia-roll-q4381008-2.jpg",
+    "images/philadelphia-roll-q4381008/philadelphia-roll-q4381008-3.jpg",
+    "images/philadelphia-roll-q4381008/philadelphia-roll-q4381008-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4381008",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q449506",
+  "name": "goat meat",
+  "description": "meat from the domestic goat used as food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-meat-q449506/goat-meat-q449506-1.jpg",
+    "images/goat-meat-q449506/goat-meat-q449506-2.jpg",
+    "images/goat-meat-q449506/goat-meat-q449506-3.jpg",
+    "images/goat-meat-q449506/goat-meat-q449506-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q449506",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q470995",
+  "name": "Carambar",
+  "description": "French caramel candy brand",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carambar-q470995/carambar-q470995-1.jpg",
+    "images/carambar-q470995/carambar-q470995-2.jpg",
+    "images/carambar-q470995/carambar-q470995-3.jpg",
+    "images/carambar-q470995/carambar-q470995-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q470995",
+    "themealdb": null
+  }
+}

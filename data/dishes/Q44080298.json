@@ -1,0 +1,18 @@
+{
+  "id": "Q44080298",
+  "name": "Banglar Rosogolla",
+  "description": "sweet of Bengal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banglar-rosogolla-q44080298/banglar-rosogolla-q44080298-1.jpg",
+    "images/banglar-rosogolla-q44080298/banglar-rosogolla-q44080298-2.jpg",
+    "images/banglar-rosogolla-q44080298/banglar-rosogolla-q44080298-3.jpg",
+    "images/banglar-rosogolla-q44080298/banglar-rosogolla-q44080298-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q44080298",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q44480854",
+  "name": "raw fish dish",
+  "description": "food preparation based on raw fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raw-fish-dish-q44480854/raw-fish-dish-q44480854-1.jpg",
+    "images/raw-fish-dish-q44480854/raw-fish-dish-q44480854-2.jpg",
+    "images/raw-fish-dish-q44480854/raw-fish-dish-q44480854-3.jpg",
+    "images/raw-fish-dish-q44480854/raw-fish-dish-q44480854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q44480854",
+    "themealdb": null
+  }
+}

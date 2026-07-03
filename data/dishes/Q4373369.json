@@ -1,0 +1,18 @@
+{
+  "id": "Q4373369",
+  "name": "heotjesabap",
+  "description": "Korean bibimbap variant",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/heotjesabap-q4373369/heotjesabap-q4373369-1.jpg",
+    "images/heotjesabap-q4373369/heotjesabap-q4373369-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4373369",
+    "themealdb": null
+  }
+}

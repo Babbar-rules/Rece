@@ -1,0 +1,20 @@
+{
+  "id": "Q4517033",
+  "name": "Chogi",
+  "description": "Georgian salad",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chogi-q4517033/chogi-q4517033-1.jpg",
+    "images/chogi-q4517033/chogi-q4517033-2.jpg",
+    "images/chogi-q4517033/chogi-q4517033-3.jpg",
+    "images/chogi-q4517033/chogi-q4517033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4517033",
+    "themealdb": null
+  }
+}

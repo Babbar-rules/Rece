@@ -1,0 +1,20 @@
+{
+  "id": "Q47089226",
+  "name": "sukhoe",
+  "description": "blanched seafood, vegetables, or offals",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sukhoe-q47089226/sukhoe-q47089226-1.jpg",
+    "images/sukhoe-q47089226/sukhoe-q47089226-2.jpg",
+    "images/sukhoe-q47089226/sukhoe-q47089226-3.jpg",
+    "images/sukhoe-q47089226/sukhoe-q47089226-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47089226",
+    "themealdb": null
+  }
+}

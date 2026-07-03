@@ -1,0 +1,20 @@
+{
+  "id": "Q4701369",
+  "name": "Akki rotti",
+  "description": "karnataka Cuisine",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akki-rotti-q4701369/akki-rotti-q4701369-1.jpg",
+    "images/akki-rotti-q4701369/akki-rotti-q4701369-2.jpg",
+    "images/akki-rotti-q4701369/akki-rotti-q4701369-3.jpg",
+    "images/akki-rotti-q4701369/akki-rotti-q4701369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4701369",
+    "themealdb": null
+  }
+}

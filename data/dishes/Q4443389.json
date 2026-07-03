@@ -1,0 +1,18 @@
+{
+  "id": "Q4443389",
+  "name": "Strasbourg pie",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strasbourg-pie-q4443389/strasbourg-pie-q4443389-1.jpg",
+    "images/strasbourg-pie-q4443389/strasbourg-pie-q4443389-2.jpg",
+    "images/strasbourg-pie-q4443389/strasbourg-pie-q4443389-3.jpg",
+    "images/strasbourg-pie-q4443389/strasbourg-pie-q4443389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4443389",
+    "themealdb": null
+  }
+}

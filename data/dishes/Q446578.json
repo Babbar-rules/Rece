@@ -1,0 +1,22 @@
+{
+  "id": "Q446578",
+  "name": "arrosticini",
+  "description": "lamb dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Abruzzese cuisine"
+  ],
+  "images": [
+    "images/arrosticini-q446578/arrosticini-q446578-1.jpg",
+    "images/arrosticini-q446578/arrosticini-q446578-2.jpg",
+    "images/arrosticini-q446578/arrosticini-q446578-3.jpg",
+    "images/arrosticini-q446578/arrosticini-q446578-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q446578",
+    "themealdb": null
+  }
+}

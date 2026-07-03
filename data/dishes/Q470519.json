@@ -1,0 +1,20 @@
+{
+  "id": "Q470519",
+  "name": "mochi",
+  "description": "Japanese rice cake made of mochigome",
+  "nationality": [
+    "Southeast Asia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mochi-q470519/mochi-q470519-1.jpg",
+    "images/mochi-q470519/mochi-q470519-2.jpg",
+    "images/mochi-q470519/mochi-q470519-3.jpg",
+    "images/mochi-q470519/mochi-q470519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q470519",
+    "themealdb": null
+  }
+}

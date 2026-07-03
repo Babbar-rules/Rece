@@ -1,0 +1,18 @@
+{
+  "id": "Q4575827",
+  "name": "Troika",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/troika-q4575827/troika-q4575827-1.jpg",
+    "images/troika-q4575827/troika-q4575827-2.jpg",
+    "images/troika-q4575827/troika-q4575827-3.webp",
+    "images/troika-q4575827/troika-q4575827-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4575827",
+    "themealdb": null
+  }
+}

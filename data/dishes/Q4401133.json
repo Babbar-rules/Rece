@@ -1,0 +1,17 @@
+{
+  "id": "Q4401133",
+  "name": "ichigoni",
+  "description": "Japanese seafood soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ichigoni-q4401133/ichigoni-q4401133-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4401133",
+    "themealdb": null
+  }
+}

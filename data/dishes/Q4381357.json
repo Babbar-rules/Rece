@@ -1,0 +1,20 @@
+{
+  "id": "Q4381357",
+  "name": "Jucy Lucy",
+  "description": "cheeseburger that has the cheese inside the meat patty instead of on top, resulting in a melted core of cheese within the patty",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jucy-lucy-q4381357/jucy-lucy-q4381357-1.jpg",
+    "images/jucy-lucy-q4381357/jucy-lucy-q4381357-2.jpg",
+    "images/jucy-lucy-q4381357/jucy-lucy-q4381357-3.jpg",
+    "images/jucy-lucy-q4381357/jucy-lucy-q4381357-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4381357",
+    "themealdb": null
+  }
+}

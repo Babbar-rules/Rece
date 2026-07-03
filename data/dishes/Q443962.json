@@ -1,0 +1,20 @@
+{
+  "id": "Q443962",
+  "name": "capuns",
+  "description": "Stuffed chard leaves from Swiss cuisine",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/capuns-q443962/capuns-q443962-1.jpg",
+    "images/capuns-q443962/capuns-q443962-2.jpg",
+    "images/capuns-q443962/capuns-q443962-3.jpeg",
+    "images/capuns-q443962/capuns-q443962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q443962",
+    "themealdb": null
+  }
+}

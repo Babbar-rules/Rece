@@ -1,0 +1,20 @@
+{
+  "id": "Q4545971",
+  "name": "gelatin dessert",
+  "description": "dessert made with gelatin",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gelatin-dessert-q4545971/gelatin-dessert-q4545971-1.jpg",
+    "images/gelatin-dessert-q4545971/gelatin-dessert-q4545971-2.jpg",
+    "images/gelatin-dessert-q4545971/gelatin-dessert-q4545971-3.jpg",
+    "images/gelatin-dessert-q4545971/gelatin-dessert-q4545971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4545971",
+    "themealdb": null
+  }
+}

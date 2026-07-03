@@ -1,0 +1,20 @@
+{
+  "id": "Q4661429",
+  "name": "Aam papad",
+  "description": "fruit leather made out of mango pulp",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aam-papad-q4661429/aam-papad-q4661429-1.jpg",
+    "images/aam-papad-q4661429/aam-papad-q4661429-2.jpg",
+    "images/aam-papad-q4661429/aam-papad-q4661429-3.jpg",
+    "images/aam-papad-q4661429/aam-papad-q4661429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4661429",
+    "themealdb": null
+  }
+}

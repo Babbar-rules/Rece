@@ -1,0 +1,18 @@
+{
+  "id": "Q4683966",
+  "name": "Adobada",
+  "description": "Mexican dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/adobada-q4683966/adobada-q4683966-1.jpg",
+    "images/adobada-q4683966/adobada-q4683966-2.jpg",
+    "images/adobada-q4683966/adobada-q4683966-3.jpg",
+    "images/adobada-q4683966/adobada-q4683966-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4683966",
+    "themealdb": null
+  }
+}

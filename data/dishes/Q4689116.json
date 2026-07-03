@@ -1,0 +1,20 @@
+{
+  "id": "Q4689116",
+  "name": "Afghan biscuit",
+  "description": "traditional New Zealand biscuit containing cornflakes and cocoa powder, topped with chocolate icing and walnut",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/afghan-biscuit-q4689116/afghan-biscuit-q4689116-1.jpg",
+    "images/afghan-biscuit-q4689116/afghan-biscuit-q4689116-2.jpg",
+    "images/afghan-biscuit-q4689116/afghan-biscuit-q4689116-3.jpg",
+    "images/afghan-biscuit-q4689116/afghan-biscuit-q4689116-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4689116",
+    "themealdb": null
+  }
+}

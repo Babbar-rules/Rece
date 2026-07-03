@@ -1,0 +1,18 @@
+{
+  "id": "Q4697660",
+  "name": "AirHeads",
+  "description": "brand of taffy candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airheads-q4697660/airheads-q4697660-1.jpg",
+    "images/airheads-q4697660/airheads-q4697660-2.jpg",
+    "images/airheads-q4697660/airheads-q4697660-3.jpg",
+    "images/airheads-q4697660/airheads-q4697660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4697660",
+    "themealdb": null
+  }
+}

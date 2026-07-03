@@ -1,0 +1,20 @@
+{
+  "id": "Q45790414",
+  "name": "Mie cakalang",
+  "description": "Indonesian traditional noodle",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mie-cakalang-q45790414/mie-cakalang-q45790414-1.jpg",
+    "images/mie-cakalang-q45790414/mie-cakalang-q45790414-2.jpg",
+    "images/mie-cakalang-q45790414/mie-cakalang-q45790414-3.jpg",
+    "images/mie-cakalang-q45790414/mie-cakalang-q45790414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45790414",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q44683918",
+  "name": "raw beef dish",
+  "description": "uncooked meat beef dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raw-beef-dish-q44683918/raw-beef-dish-q44683918-1.jpg",
+    "images/raw-beef-dish-q44683918/raw-beef-dish-q44683918-2.jpg",
+    "images/raw-beef-dish-q44683918/raw-beef-dish-q44683918-3.jpg",
+    "images/raw-beef-dish-q44683918/raw-beef-dish-q44683918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q44683918",
+    "themealdb": null
+  }
+}

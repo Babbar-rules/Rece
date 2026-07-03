@@ -1,0 +1,18 @@
+{
+  "id": "Q4448062",
+  "name": "cheese soup",
+  "description": "type of soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-soup-q4448062/cheese-soup-q4448062-1.jpg",
+    "images/cheese-soup-q4448062/cheese-soup-q4448062-2.jpg",
+    "images/cheese-soup-q4448062/cheese-soup-q4448062-3.jpg",
+    "images/cheese-soup-q4448062/cheese-soup-q4448062-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4448062",
+    "themealdb": null
+  }
+}

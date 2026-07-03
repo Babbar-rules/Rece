@@ -1,0 +1,20 @@
+{
+  "id": "Q453174",
+  "name": "Onsen tamago",
+  "description": "egg dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/onsen-tamago-q453174/onsen-tamago-q453174-1.jpg",
+    "images/onsen-tamago-q453174/onsen-tamago-q453174-2.jpg",
+    "images/onsen-tamago-q453174/onsen-tamago-q453174-3.jpg",
+    "images/onsen-tamago-q453174/onsen-tamago-q453174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q453174",
+    "themealdb": null
+  }
+}

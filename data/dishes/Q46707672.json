@@ -1,0 +1,23 @@
+{
+  "id": "Q46707672",
+  "name": "hong dou tang",
+  "description": "dessert",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/hong-dou-tang-q46707672/hong-dou-tang-q46707672-1.jpg",
+    "images/hong-dou-tang-q46707672/hong-dou-tang-q46707672-2.jpg",
+    "images/hong-dou-tang-q46707672/hong-dou-tang-q46707672-3.jpg",
+    "images/hong-dou-tang-q46707672/hong-dou-tang-q46707672-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46707672",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q461919",
+  "name": "Kurume ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kurume-ramen-q461919/kurume-ramen-q461919-1.jpg",
+    "images/kurume-ramen-q461919/kurume-ramen-q461919-2.jpg",
+    "images/kurume-ramen-q461919/kurume-ramen-q461919-3.jpg",
+    "images/kurume-ramen-q461919/kurume-ramen-q461919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q461919",
+    "themealdb": null
+  }
+}

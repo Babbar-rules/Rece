@@ -1,0 +1,23 @@
+{
+  "id": "Q451645",
+  "name": "streuselkuchen",
+  "description": "food",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "Polish cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/streuselkuchen-q451645/streuselkuchen-q451645-1.jpg",
+    "images/streuselkuchen-q451645/streuselkuchen-q451645-2.jpg",
+    "images/streuselkuchen-q451645/streuselkuchen-q451645-3.jpg",
+    "images/streuselkuchen-q451645/streuselkuchen-q451645-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q451645",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4413006",
+  "name": "Tupla",
+  "description": "Finnish chocolate bar brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tupla-q4413006/tupla-q4413006-1.png",
+    "images/tupla-q4413006/tupla-q4413006-2.jpg",
+    "images/tupla-q4413006/tupla-q4413006-3.png",
+    "images/tupla-q4413006/tupla-q4413006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4413006",
+    "themealdb": null
+  }
+}

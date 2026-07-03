@@ -1,0 +1,22 @@
+{
+  "id": "Q4675762",
+  "name": "head cheese",
+  "description": "cold cut non-dairy meat jelly or terrine",
+  "nationality": [
+    "Italy",
+    "Switzerland",
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/head-cheese-q4675762/head-cheese-q4675762-1.jpg",
+    "images/head-cheese-q4675762/head-cheese-q4675762-2.jpg",
+    "images/head-cheese-q4675762/head-cheese-q4675762-3.jpg",
+    "images/head-cheese-q4675762/head-cheese-q4675762-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4675762",
+    "themealdb": null
+  }
+}

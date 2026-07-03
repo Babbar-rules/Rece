@@ -1,0 +1,23 @@
+{
+  "id": "Q471866",
+  "name": "miso soup",
+  "description": "Japanese soup flavored with miso",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/miso-soup-q471866/miso-soup-q471866-1.jpg",
+    "images/miso-soup-q471866/miso-soup-q471866-2.jpg",
+    "images/miso-soup-q471866/miso-soup-q471866-3.jpg",
+    "images/miso-soup-q471866/miso-soup-q471866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q471866",
+    "themealdb": null
+  }
+}

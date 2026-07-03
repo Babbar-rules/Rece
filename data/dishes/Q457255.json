@@ -1,0 +1,20 @@
+{
+  "id": "Q457255",
+  "name": "Frankfurter Kranz",
+  "description": "German buttercream cake from Frankfurt",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frankfurter-kranz-q457255/frankfurter-kranz-q457255-1.jpg",
+    "images/frankfurter-kranz-q457255/frankfurter-kranz-q457255-2.jpg",
+    "images/frankfurter-kranz-q457255/frankfurter-kranz-q457255-3.jpg",
+    "images/frankfurter-kranz-q457255/frankfurter-kranz-q457255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q457255",
+    "themealdb": null
+  }
+}

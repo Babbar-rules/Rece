@@ -1,0 +1,23 @@
+{
+  "id": "Q4506424",
+  "name": "chicken tabaka",
+  "description": "chicken dish",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [
+    "Soviet cuisine",
+    "Georgian cuisine"
+  ],
+  "images": [
+    "images/chicken-tabaka-q4506424/chicken-tabaka-q4506424-1.jpg",
+    "images/chicken-tabaka-q4506424/chicken-tabaka-q4506424-2.jpg",
+    "images/chicken-tabaka-q4506424/chicken-tabaka-q4506424-3.png",
+    "images/chicken-tabaka-q4506424/chicken-tabaka-q4506424-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4506424",
+    "themealdb": null
+  }
+}

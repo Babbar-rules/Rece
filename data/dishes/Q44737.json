@@ -1,0 +1,20 @@
+{
+  "id": "Q44737",
+  "name": "zhajiangmian",
+  "description": "north Chinese noodle dish of cumian with a sauce of stir-fried minced meat and fermented soybean paste",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zhajiangmian-q44737/zhajiangmian-q44737-1.jpg",
+    "images/zhajiangmian-q44737/zhajiangmian-q44737-2.jpg",
+    "images/zhajiangmian-q44737/zhajiangmian-q44737-3.jpg",
+    "images/zhajiangmian-q44737/zhajiangmian-q44737-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q44737",
+    "themealdb": null
+  }
+}

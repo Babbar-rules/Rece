@@ -1,0 +1,20 @@
+{
+  "id": "Q4550892",
+  "name": "15 bean soup",
+  "description": "packaged dry bean soup product from the N.K. Hurst Co.",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/15-bean-soup-q4550892/15-bean-soup-q4550892-1.jpg",
+    "images/15-bean-soup-q4550892/15-bean-soup-q4550892-2.jpg",
+    "images/15-bean-soup-q4550892/15-bean-soup-q4550892-3.jpg",
+    "images/15-bean-soup-q4550892/15-bean-soup-q4550892-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4550892",
+    "themealdb": null
+  }
+}

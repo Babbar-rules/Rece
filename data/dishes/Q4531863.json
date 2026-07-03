@@ -1,0 +1,20 @@
+{
+  "id": "Q4531863",
+  "name": "slavink",
+  "description": "meat dish",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slavink-q4531863/slavink-q4531863-1.jpg",
+    "images/slavink-q4531863/slavink-q4531863-2.jpg",
+    "images/slavink-q4531863/slavink-q4531863-3.jpg",
+    "images/slavink-q4531863/slavink-q4531863-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4531863",
+    "themealdb": null
+  }
+}

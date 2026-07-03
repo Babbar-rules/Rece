@@ -1,0 +1,18 @@
+{
+  "id": "Q4382275",
+  "name": "pot pie",
+  "description": "type of savory pie, often with meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pot-pie-q4382275/pot-pie-q4382275-1.jpg",
+    "images/pot-pie-q4382275/pot-pie-q4382275-2.jpg",
+    "images/pot-pie-q4382275/pot-pie-q4382275-3.jpg",
+    "images/pot-pie-q4382275/pot-pie-q4382275-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4382275",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q46208",
+  "name": "Swiss wing",
+  "description": "chicken wing dish of Hong Kong",
+  "nationality": [
+    "People's Republic of China",
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/swiss-wing-q46208/swiss-wing-q46208-1.jpg",
+    "images/swiss-wing-q46208/swiss-wing-q46208-2.jpg",
+    "images/swiss-wing-q46208/swiss-wing-q46208-3.jpg",
+    "images/swiss-wing-q46208/swiss-wing-q46208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46208",
+    "themealdb": null
+  }
+}

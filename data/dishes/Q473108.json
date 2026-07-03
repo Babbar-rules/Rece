@@ -1,0 +1,18 @@
+{
+  "id": "Q473108",
+  "name": "Ammerländer Schinken",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ammerlander-schinken-q473108/ammerlander-schinken-q473108-1.jpg",
+    "images/ammerlander-schinken-q473108/ammerlander-schinken-q473108-2.jpg",
+    "images/ammerlander-schinken-q473108/ammerlander-schinken-q473108-3.jpg",
+    "images/ammerlander-schinken-q473108/ammerlander-schinken-q473108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q473108",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4499565",
+  "name": "Milanesa napolitana",
+  "description": "Argentinean meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milanesa-napolitana-q4499565/milanesa-napolitana-q4499565-1.jpg",
+    "images/milanesa-napolitana-q4499565/milanesa-napolitana-q4499565-2.jpg",
+    "images/milanesa-napolitana-q4499565/milanesa-napolitana-q4499565-3.jpg",
+    "images/milanesa-napolitana-q4499565/milanesa-napolitana-q4499565-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4499565",
+    "themealdb": null
+  }
+}

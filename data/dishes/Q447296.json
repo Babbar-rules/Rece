@@ -1,0 +1,20 @@
+{
+  "id": "Q447296",
+  "name": "aloo gobi",
+  "description": "Indian curry dish with cauliflower and potatoes",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aloo-gobi-q447296/aloo-gobi-q447296-1.jpg",
+    "images/aloo-gobi-q447296/aloo-gobi-q447296-2.jpg",
+    "images/aloo-gobi-q447296/aloo-gobi-q447296-3.jpg",
+    "images/aloo-gobi-q447296/aloo-gobi-q447296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q447296",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q448043",
+  "name": "Hangikjöt",
+  "description": "lamb dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hangikjot-q448043/hangikjot-q448043-1.jpg",
+    "images/hangikjot-q448043/hangikjot-q448043-2.jpg",
+    "images/hangikjot-q448043/hangikjot-q448043-3.jpg",
+    "images/hangikjot-q448043/hangikjot-q448043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q448043",
+    "themealdb": null
+  }
+}

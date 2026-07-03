@@ -1,0 +1,20 @@
+{
+  "id": "Q4733893",
+  "name": "Almond Joy",
+  "description": "candy consisting of a coconut patty topped with a whole almond, coated in milk chocolate",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/almond-joy-q4733893/almond-joy-q4733893-1.jpg",
+    "images/almond-joy-q4733893/almond-joy-q4733893-2.jpg",
+    "images/almond-joy-q4733893/almond-joy-q4733893-3.jpg",
+    "images/almond-joy-q4733893/almond-joy-q4733893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4733893",
+    "themealdb": null
+  }
+}

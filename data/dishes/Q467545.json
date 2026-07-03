@@ -1,0 +1,20 @@
+{
+  "id": "Q467545",
+  "name": "pla ra",
+  "description": "Southeast Asian fermented fish seasoning",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pla-ra-q467545/pla-ra-q467545-1.jpg",
+    "images/pla-ra-q467545/pla-ra-q467545-2.jpg",
+    "images/pla-ra-q467545/pla-ra-q467545-3.jpg",
+    "images/pla-ra-q467545/pla-ra-q467545-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q467545",
+    "themealdb": null
+  }
+}

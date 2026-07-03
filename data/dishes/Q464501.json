@@ -1,0 +1,18 @@
+{
+  "id": "Q464501",
+  "name": "Kinder Happy Hippo",
+  "description": "trademark",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-happy-hippo-q464501/kinder-happy-hippo-q464501-1.jpg",
+    "images/kinder-happy-hippo-q464501/kinder-happy-hippo-q464501-2.jpg",
+    "images/kinder-happy-hippo-q464501/kinder-happy-hippo-q464501-3.jpg",
+    "images/kinder-happy-hippo-q464501/kinder-happy-hippo-q464501-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q464501",
+    "themealdb": null
+  }
+}

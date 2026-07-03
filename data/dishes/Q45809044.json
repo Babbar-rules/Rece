@@ -1,0 +1,20 @@
+{
+  "id": "Q45809044",
+  "name": "kheer",
+  "description": "Indian dessert",
+  "nationality": [
+    "Bengal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kheer-q45809044/kheer-q45809044-1.jpg",
+    "images/kheer-q45809044/kheer-q45809044-2.jpg",
+    "images/kheer-q45809044/kheer-q45809044-3.jpg",
+    "images/kheer-q45809044/kheer-q45809044-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45809044",
+    "themealdb": null
+  }
+}

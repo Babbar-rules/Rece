@@ -1,0 +1,20 @@
+{
+  "id": "Q4388689",
+  "name": "bialy",
+  "description": "yeasted bread roll",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bialy-q4388689/bialy-q4388689-1.jpg",
+    "images/bialy-q4388689/bialy-q4388689-2.jpg",
+    "images/bialy-q4388689/bialy-q4388689-3.jpg",
+    "images/bialy-q4388689/bialy-q4388689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4388689",
+    "themealdb": null
+  }
+}

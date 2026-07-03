@@ -1,0 +1,20 @@
+{
+  "id": "Q468828",
+  "name": "Balisto",
+  "description": "brand of biscuits",
+  "nationality": [
+    "West Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balisto-q468828/balisto-q468828-1.jpg",
+    "images/balisto-q468828/balisto-q468828-2.jpg",
+    "images/balisto-q468828/balisto-q468828-3.jpg",
+    "images/balisto-q468828/balisto-q468828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q468828",
+    "themealdb": null
+  }
+}

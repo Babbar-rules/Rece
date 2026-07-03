@@ -1,0 +1,21 @@
+{
+  "id": "Q453741",
+  "name": "Leipziger Lerche",
+  "description": "Pastry from Leipzig, Saxony, Germany",
+  "nationality": [
+    "Germany",
+    "German Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/leipziger-lerche-q453741/leipziger-lerche-q453741-1.jpg",
+    "images/leipziger-lerche-q453741/leipziger-lerche-q453741-2.jpg",
+    "images/leipziger-lerche-q453741/leipziger-lerche-q453741-3.jpg",
+    "images/leipziger-lerche-q453741/leipziger-lerche-q453741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q453741",
+    "themealdb": null
+  }
+}

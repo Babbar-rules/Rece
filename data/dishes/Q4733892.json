@@ -1,0 +1,20 @@
+{
+  "id": "Q4733892",
+  "name": "Almond Roca",
+  "description": "Chocolate-Almond-Toffee candy from Tacoma's Brown and Haley Co.",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/almond-roca-q4733892/almond-roca-q4733892-1.jpg",
+    "images/almond-roca-q4733892/almond-roca-q4733892-2.jpg",
+    "images/almond-roca-q4733892/almond-roca-q4733892-3.jpg",
+    "images/almond-roca-q4733892/almond-roca-q4733892-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4733892",
+    "themealdb": null
+  }
+}

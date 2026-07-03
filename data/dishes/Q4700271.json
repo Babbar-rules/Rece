@@ -1,0 +1,20 @@
+{
+  "id": "Q4700271",
+  "name": "Akanés",
+  "description": "regional Greek Sweet",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akanes-q4700271/akanes-q4700271-1.jpg",
+    "images/akanes-q4700271/akanes-q4700271-2.jpg",
+    "images/akanes-q4700271/akanes-q4700271-3.jpg",
+    "images/akanes-q4700271/akanes-q4700271-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4700271",
+    "themealdb": null
+  }
+}

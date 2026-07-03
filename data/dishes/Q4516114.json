@@ -1,0 +1,18 @@
+{
+  "id": "Q4516114",
+  "name": "Chipwich",
+  "description": "ice cream sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chipwich-q4516114/chipwich-q4516114-1.jpg",
+    "images/chipwich-q4516114/chipwich-q4516114-2.jpg",
+    "images/chipwich-q4516114/chipwich-q4516114-3.jpg",
+    "images/chipwich-q4516114/chipwich-q4516114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4516114",
+    "themealdb": null
+  }
+}

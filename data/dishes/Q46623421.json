@@ -1,0 +1,20 @@
+{
+  "id": "Q46623421",
+  "name": "veneziana",
+  "description": "Italian sweet pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/veneziana-q46623421/veneziana-q46623421-1.jpg",
+    "images/veneziana-q46623421/veneziana-q46623421-2.jpg",
+    "images/veneziana-q46623421/veneziana-q46623421-3.jpg",
+    "images/veneziana-q46623421/veneziana-q46623421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46623421",
+    "themealdb": null
+  }
+}

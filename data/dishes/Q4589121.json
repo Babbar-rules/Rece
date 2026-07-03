@@ -1,0 +1,15 @@
+{
+  "id": "Q4589121",
+  "name": "Boknafisk",
+  "description": "Variant of stockfish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boknafisk-q4589121/boknafisk-q4589121-1.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4589121",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q463872",
+  "name": "Ketwurst",
+  "description": "style of hot dog created in the GDR",
+  "nationality": [
+    "German Democratic Republic"
+  ],
+  "region_cuisine": [
+    "cuisine of the German Democratic Republic"
+  ],
+  "images": [
+    "images/ketwurst-q463872/ketwurst-q463872-1.jpg",
+    "images/ketwurst-q463872/ketwurst-q463872-2.png",
+    "images/ketwurst-q463872/ketwurst-q463872-3.jpg",
+    "images/ketwurst-q463872/ketwurst-q463872-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q463872",
+    "themealdb": null
+  }
+}

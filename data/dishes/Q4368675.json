@@ -1,0 +1,22 @@
+{
+  "id": "Q4368675",
+  "name": "Pozharsky cutlet",
+  "description": "Russian meat dish",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/pozharsky-cutlet-q4368675/pozharsky-cutlet-q4368675-1.jpg",
+    "images/pozharsky-cutlet-q4368675/pozharsky-cutlet-q4368675-2.jpg",
+    "images/pozharsky-cutlet-q4368675/pozharsky-cutlet-q4368675-3.png",
+    "images/pozharsky-cutlet-q4368675/pozharsky-cutlet-q4368675-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4368675",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4698754",
+  "name": "Airline chicken",
+  "description": "food dish composed of a boneless chicken breast with the drumette attached",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/airline-chicken-q4698754/airline-chicken-q4698754-1.jpg",
+    "images/airline-chicken-q4698754/airline-chicken-q4698754-2.jpg",
+    "images/airline-chicken-q4698754/airline-chicken-q4698754-3.jpg",
+    "images/airline-chicken-q4698754/airline-chicken-q4698754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4698754",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q43688521",
+  "name": "lemon sorbet",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-sorbet-q43688521/lemon-sorbet-q43688521-1.jpg",
+    "images/lemon-sorbet-q43688521/lemon-sorbet-q43688521-2.jpg",
+    "images/lemon-sorbet-q43688521/lemon-sorbet-q43688521-3.jpg",
+    "images/lemon-sorbet-q43688521/lemon-sorbet-q43688521-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43688521",
+    "themealdb": null
+  }
+}

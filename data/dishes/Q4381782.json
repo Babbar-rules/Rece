@@ -1,0 +1,20 @@
+{
+  "id": "Q4381782",
+  "name": "Chạo tôm",
+  "description": "traditional Vietnamese dish",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chao-tom-q4381782/chao-tom-q4381782-1.jpg",
+    "images/chao-tom-q4381782/chao-tom-q4381782-2.jpg",
+    "images/chao-tom-q4381782/chao-tom-q4381782-3.jpg",
+    "images/chao-tom-q4381782/chao-tom-q4381782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4381782",
+    "themealdb": null
+  }
+}

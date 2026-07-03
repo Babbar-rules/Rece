@@ -1,0 +1,20 @@
+{
+  "id": "Q4701955",
+  "name": "akumaki",
+  "description": "Japanese-style confection, which is made in South Kyushu",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akumaki-q4701955/akumaki-q4701955-1.jpg",
+    "images/akumaki-q4701955/akumaki-q4701955-2.jpg",
+    "images/akumaki-q4701955/akumaki-q4701955-3.jpg",
+    "images/akumaki-q4701955/akumaki-q4701955-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4701955",
+    "themealdb": null
+  }
+}

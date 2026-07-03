@@ -1,0 +1,20 @@
+{
+  "id": "Q4667156",
+  "name": "Abernethy biscuit",
+  "description": "biscuit",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/abernethy-biscuit-q4667156/abernethy-biscuit-q4667156-1.jpg",
+    "images/abernethy-biscuit-q4667156/abernethy-biscuit-q4667156-2.jpg",
+    "images/abernethy-biscuit-q4667156/abernethy-biscuit-q4667156-3.jpg",
+    "images/abernethy-biscuit-q4667156/abernethy-biscuit-q4667156-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4667156",
+    "themealdb": null
+  }
+}

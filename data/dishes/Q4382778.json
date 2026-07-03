@@ -1,0 +1,18 @@
+{
+  "id": "Q4382778",
+  "name": "gingerbread house",
+  "description": "Model house made of gingerbread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gingerbread-house-q4382778/gingerbread-house-q4382778-1.jpg",
+    "images/gingerbread-house-q4382778/gingerbread-house-q4382778-2.jpg",
+    "images/gingerbread-house-q4382778/gingerbread-house-q4382778-3.jpg",
+    "images/gingerbread-house-q4382778/gingerbread-house-q4382778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4382778",
+    "themealdb": null
+  }
+}

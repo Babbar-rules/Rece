@@ -1,0 +1,18 @@
+{
+  "id": "Q4732020",
+  "name": "Allen's",
+  "description": "Australian confectionery brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/allens-q4732020/allens-q4732020-1.jpg",
+    "images/allens-q4732020/allens-q4732020-2.jpg",
+    "images/allens-q4732020/allens-q4732020-3.jpg",
+    "images/allens-q4732020/allens-q4732020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4732020",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q473271",
+  "name": "pepernoot",
+  "description": "tiny Dutch cookie made from many rich ingredients",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [
+    "Dutch cuisine"
+  ],
+  "images": [
+    "images/pepernoot-q473271/pepernoot-q473271-1.jpg",
+    "images/pepernoot-q473271/pepernoot-q473271-2.jpg",
+    "images/pepernoot-q473271/pepernoot-q473271-3.jpg",
+    "images/pepernoot-q473271/pepernoot-q473271-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q473271",
+    "themealdb": null
+  }
+}

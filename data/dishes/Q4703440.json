@@ -1,0 +1,20 @@
+{
+  "id": "Q4703440",
+  "name": "Lalap",
+  "description": "Indonesian raw vegetable salad",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lalap-q4703440/lalap-q4703440-1.jpg",
+    "images/lalap-q4703440/lalap-q4703440-2.jpg",
+    "images/lalap-q4703440/lalap-q4703440-3.jpg",
+    "images/lalap-q4703440/lalap-q4703440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4703440",
+    "themealdb": null
+  }
+}

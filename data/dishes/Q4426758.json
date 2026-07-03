@@ -1,0 +1,18 @@
+{
+  "id": "Q4426758",
+  "name": "fermented bean paste",
+  "description": "fermented foods made from ground soybeans",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fermented-bean-paste-q4426758/fermented-bean-paste-q4426758-1.jpg",
+    "images/fermented-bean-paste-q4426758/fermented-bean-paste-q4426758-2.jpg",
+    "images/fermented-bean-paste-q4426758/fermented-bean-paste-q4426758-3.jpg",
+    "images/fermented-bean-paste-q4426758/fermented-bean-paste-q4426758-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4426758",
+    "themealdb": null
+  }
+}

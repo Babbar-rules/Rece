@@ -1,0 +1,20 @@
+{
+  "id": "Q4674758",
+  "name": "Acqua pazza",
+  "description": "Italian cuisine",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/acqua-pazza-q4674758/acqua-pazza-q4674758-1.jpg",
+    "images/acqua-pazza-q4674758/acqua-pazza-q4674758-2.jpg",
+    "images/acqua-pazza-q4674758/acqua-pazza-q4674758-3.jpg",
+    "images/acqua-pazza-q4674758/acqua-pazza-q4674758-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4674758",
+    "themealdb": null
+  }
+}

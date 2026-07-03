@@ -1,0 +1,20 @@
+{
+  "id": "Q4388197",
+  "name": "Ikayaki",
+  "description": "Japanese grilled squid",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ikayaki-q4388197/ikayaki-q4388197-1.jpg",
+    "images/ikayaki-q4388197/ikayaki-q4388197-2.jpg",
+    "images/ikayaki-q4388197/ikayaki-q4388197-3.jpg",
+    "images/ikayaki-q4388197/ikayaki-q4388197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4388197",
+    "themealdb": null
+  }
+}

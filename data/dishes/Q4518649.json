@@ -1,0 +1,18 @@
+{
+  "id": "Q4518649",
+  "name": "beluga caviar",
+  "description": "caviar made of the roe of the beluga sturgeon (Huso huso)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beluga-caviar-q4518649/beluga-caviar-q4518649-1.jpg",
+    "images/beluga-caviar-q4518649/beluga-caviar-q4518649-2.jpg",
+    "images/beluga-caviar-q4518649/beluga-caviar-q4518649-3.jpg",
+    "images/beluga-caviar-q4518649/beluga-caviar-q4518649-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4518649",
+    "themealdb": null
+  }
+}

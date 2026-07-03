@@ -1,0 +1,20 @@
+{
+  "id": "Q4522744",
+  "name": "Shelpek",
+  "description": "kazakh flatbread, using butter, milk and sugar",
+  "nationality": [
+    "Kazakhstan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shelpek-q4522744/shelpek-q4522744-1.jpg",
+    "images/shelpek-q4522744/shelpek-q4522744-2.jpg",
+    "images/shelpek-q4522744/shelpek-q4522744-3.jpg",
+    "images/shelpek-q4522744/shelpek-q4522744-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4522744",
+    "themealdb": null
+  }
+}

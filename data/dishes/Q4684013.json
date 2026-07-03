@@ -1,0 +1,20 @@
+{
+  "id": "Q4684013",
+  "name": "Adobe bread",
+  "description": "type of oven bread from southwest USA",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/adobe-bread-q4684013/adobe-bread-q4684013-1.jpg",
+    "images/adobe-bread-q4684013/adobe-bread-q4684013-2.jpg",
+    "images/adobe-bread-q4684013/adobe-bread-q4684013-3.jpg",
+    "images/adobe-bread-q4684013/adobe-bread-q4684013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4684013",
+    "themealdb": null
+  }
+}

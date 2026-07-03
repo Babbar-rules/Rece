@@ -1,0 +1,17 @@
+{
+  "id": "Q4445281",
+  "name": "sugudai",
+  "description": "Russian fish dish",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sugudai-q4445281/sugudai-q4445281-1.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4445281",
+    "themealdb": null
+  }
+}

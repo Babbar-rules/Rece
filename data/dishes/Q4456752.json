@@ -1,0 +1,20 @@
+{
+  "id": "Q4456752",
+  "name": "Tetyorki cookies",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/tetyorki-cookies-q4456752/tetyorki-cookies-q4456752-1.png",
+    "images/tetyorki-cookies-q4456752/tetyorki-cookies-q4456752-2.png",
+    "images/tetyorki-cookies-q4456752/tetyorki-cookies-q4456752-3.jpg",
+    "images/tetyorki-cookies-q4456752/tetyorki-cookies-q4456752-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4456752",
+    "themealdb": null
+  }
+}

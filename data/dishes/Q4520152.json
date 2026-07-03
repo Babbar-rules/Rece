@@ -1,0 +1,22 @@
+{
+  "id": "Q4520152",
+  "name": "Shanga",
+  "description": "open pies in Komi, Mari, Russian and Udmurt cuisines",
+  "nationality": [],
+  "region_cuisine": [
+    "Udmurt cuisine",
+    "Mari cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/shanga-q4520152/shanga-q4520152-1.jpg",
+    "images/shanga-q4520152/shanga-q4520152-2.jpg",
+    "images/shanga-q4520152/shanga-q4520152-3.jpg",
+    "images/shanga-q4520152/shanga-q4520152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4520152",
+    "themealdb": null
+  }
+}

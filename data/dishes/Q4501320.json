@@ -1,0 +1,22 @@
+{
+  "id": "Q4501320",
+  "name": "khrenovina",
+  "description": "horseradish-based sauce in Russian cuisine",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/khrenovina-q4501320/khrenovina-q4501320-1.jpg",
+    "images/khrenovina-q4501320/khrenovina-q4501320-2.jpg",
+    "images/khrenovina-q4501320/khrenovina-q4501320-3.jpg",
+    "images/khrenovina-q4501320/khrenovina-q4501320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4501320",
+    "themealdb": null
+  }
+}

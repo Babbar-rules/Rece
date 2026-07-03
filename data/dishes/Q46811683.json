@@ -1,0 +1,22 @@
+{
+  "id": "Q46811683",
+  "name": "jungguk-naengmyeon",
+  "description": "korean-Chinese noodle dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "Korean Chinese cuisine"
+  ],
+  "images": [
+    "images/jungguk-naengmyeon-q46811683/jungguk-naengmyeon-q46811683-1.jpg",
+    "images/jungguk-naengmyeon-q46811683/jungguk-naengmyeon-q46811683-2.jpg",
+    "images/jungguk-naengmyeon-q46811683/jungguk-naengmyeon-q46811683-3.jpg",
+    "images/jungguk-naengmyeon-q46811683/jungguk-naengmyeon-q46811683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46811683",
+    "themealdb": null
+  }
+}

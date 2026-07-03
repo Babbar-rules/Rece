@@ -1,0 +1,22 @@
+{
+  "id": "Q4646989",
+  "name": "a-gei",
+  "description": "Taiwanese dish",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/a-gei-q4646989/a-gei-q4646989-1.jpg",
+    "images/a-gei-q4646989/a-gei-q4646989-2.jpg",
+    "images/a-gei-q4646989/a-gei-q4646989-3.jpg",
+    "images/a-gei-q4646989/a-gei-q4646989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4646989",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q452383",
+  "name": "Lübeck Marzipan",
+  "description": "regional marzipan speciality",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lubeck-marzipan-q452383/lubeck-marzipan-q452383-1.jpg",
+    "images/lubeck-marzipan-q452383/lubeck-marzipan-q452383-2.jpg",
+    "images/lubeck-marzipan-q452383/lubeck-marzipan-q452383-3.jpg",
+    "images/lubeck-marzipan-q452383/lubeck-marzipan-q452383-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q452383",
+    "themealdb": null
+  }
+}

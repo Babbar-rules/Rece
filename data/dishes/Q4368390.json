@@ -1,0 +1,18 @@
+{
+  "id": "Q4368390",
+  "name": "Crispo",
+  "description": "chocolate confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crispo-q4368390/crispo-q4368390-1.jpg",
+    "images/crispo-q4368390/crispo-q4368390-2.jpg",
+    "images/crispo-q4368390/crispo-q4368390-3.jpg",
+    "images/crispo-q4368390/crispo-q4368390-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4368390",
+    "themealdb": null
+  }
+}

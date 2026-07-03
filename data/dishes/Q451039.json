@@ -1,0 +1,18 @@
+{
+  "id": "Q451039",
+  "name": "Leipziger Allerlei",
+  "description": "Vegetable dish, also with crab or chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/leipziger-allerlei-q451039/leipziger-allerlei-q451039-1.jpg",
+    "images/leipziger-allerlei-q451039/leipziger-allerlei-q451039-2.jpg",
+    "images/leipziger-allerlei-q451039/leipziger-allerlei-q451039-3.jpg",
+    "images/leipziger-allerlei-q451039/leipziger-allerlei-q451039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q451039",
+    "themealdb": null
+  }
+}

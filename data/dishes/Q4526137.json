@@ -1,0 +1,20 @@
+{
+  "id": "Q4526137",
+  "name": "char siu rice",
+  "description": "rice dish in Hong Kong",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/char-siu-rice-q4526137/char-siu-rice-q4526137-1.jpg",
+    "images/char-siu-rice-q4526137/char-siu-rice-q4526137-2.jpg",
+    "images/char-siu-rice-q4526137/char-siu-rice-q4526137-3.jpg",
+    "images/char-siu-rice-q4526137/char-siu-rice-q4526137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4526137",
+    "themealdb": null
+  }
+}

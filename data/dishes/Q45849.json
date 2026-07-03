@@ -1,0 +1,20 @@
+{
+  "id": "Q45849",
+  "name": "pastel de Tentúgal",
+  "description": "Portuguese pastry",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastel-de-tentugal-q45849/pastel-de-tentugal-q45849-1.jpg",
+    "images/pastel-de-tentugal-q45849/pastel-de-tentugal-q45849-2.jpg",
+    "images/pastel-de-tentugal-q45849/pastel-de-tentugal-q45849-3.jpg",
+    "images/pastel-de-tentugal-q45849/pastel-de-tentugal-q45849-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45849",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q47038431",
+  "name": "Elarji",
+  "description": "",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/elarji-q47038431/elarji-q47038431-1.jpg",
+    "images/elarji-q47038431/elarji-q47038431-2.jpg",
+    "images/elarji-q47038431/elarji-q47038431-3.jpg",
+    "images/elarji-q47038431/elarji-q47038431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47038431",
+    "themealdb": null
+  }
+}

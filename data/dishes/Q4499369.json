@@ -1,0 +1,20 @@
+{
+  "id": "Q4499369",
+  "name": "aukstā zupa",
+  "description": "cold beet soup",
+  "nationality": [
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/auksta-zupa-q4499369/auksta-zupa-q4499369-1.jpg",
+    "images/auksta-zupa-q4499369/auksta-zupa-q4499369-2.jpg",
+    "images/auksta-zupa-q4499369/auksta-zupa-q4499369-3.jpg",
+    "images/auksta-zupa-q4499369/auksta-zupa-q4499369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4499369",
+    "themealdb": null
+  }
+}

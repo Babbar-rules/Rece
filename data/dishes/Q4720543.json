@@ -1,0 +1,20 @@
+{
+  "id": "Q4720543",
+  "name": "Alexandertorte",
+  "description": "dessert",
+  "nationality": [
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alexandertorte-q4720543/alexandertorte-q4720543-1.jpg",
+    "images/alexandertorte-q4720543/alexandertorte-q4720543-2.jpg",
+    "images/alexandertorte-q4720543/alexandertorte-q4720543-3.jpg",
+    "images/alexandertorte-q4720543/alexandertorte-q4720543-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4720543",
+    "themealdb": null
+  }
+}

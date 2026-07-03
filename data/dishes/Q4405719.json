@@ -1,0 +1,20 @@
+{
+  "id": "Q4405719",
+  "name": "Snickers salad",
+  "description": "US dessert dish of Snickers bars, apples, and whipped cream",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snickers-salad-q4405719/snickers-salad-q4405719-1.jpg",
+    "images/snickers-salad-q4405719/snickers-salad-q4405719-2.jpg",
+    "images/snickers-salad-q4405719/snickers-salad-q4405719-3.jpg",
+    "images/snickers-salad-q4405719/snickers-salad-q4405719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4405719",
+    "themealdb": null
+  }
+}

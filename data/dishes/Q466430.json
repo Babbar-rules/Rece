@@ -1,0 +1,22 @@
+{
+  "id": "Q466430",
+  "name": "nachos",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/nachos-q466430/nachos-q466430-1.jpg",
+    "images/nachos-q466430/nachos-q466430-2.jpg",
+    "images/nachos-q466430/nachos-q466430-3.jpg",
+    "images/nachos-q466430/nachos-q466430-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q466430",
+    "themealdb": null
+  }
+}

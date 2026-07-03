@@ -1,0 +1,22 @@
+{
+  "id": "Q43770676",
+  "name": "Pan dei morti",
+  "description": "Italian cake for All Saints' Day celebrations",
+  "nationality": [
+    "Lombardy"
+  ],
+  "region_cuisine": [
+    "Lombard cuisine"
+  ],
+  "images": [
+    "images/pan-dei-morti-q43770676/pan-dei-morti-q43770676-1.jpg",
+    "images/pan-dei-morti-q43770676/pan-dei-morti-q43770676-2.jpg",
+    "images/pan-dei-morti-q43770676/pan-dei-morti-q43770676-3.jpg",
+    "images/pan-dei-morti-q43770676/pan-dei-morti-q43770676-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q43770676",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q46324654",
+  "name": "Deram-deram",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deram-deram-q46324654/deram-deram-q46324654-1.jpg",
+    "images/deram-deram-q46324654/deram-deram-q46324654-2.png",
+    "images/deram-deram-q46324654/deram-deram-q46324654-3.jpg",
+    "images/deram-deram-q46324654/deram-deram-q46324654-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46324654",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q45901803",
+  "name": "chapssal doughnut",
+  "description": "Korean sweet glutinous rice doughnuts",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chapssal-doughnut-q45901803/chapssal-doughnut-q45901803-1.jpg",
+    "images/chapssal-doughnut-q45901803/chapssal-doughnut-q45901803-2.png",
+    "images/chapssal-doughnut-q45901803/chapssal-doughnut-q45901803-3.jpg",
+    "images/chapssal-doughnut-q45901803/chapssal-doughnut-q45901803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45901803",
+    "themealdb": null
+  }
+}

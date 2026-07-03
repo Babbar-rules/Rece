@@ -1,0 +1,20 @@
+{
+  "id": "Q4389530",
+  "name": "ehōmaki",
+  "description": "sushi roll eaten during setsubun",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ehomaki-q4389530/ehomaki-q4389530-1.jpg",
+    "images/ehomaki-q4389530/ehomaki-q4389530-2.jpg",
+    "images/ehomaki-q4389530/ehomaki-q4389530-3.jpg",
+    "images/ehomaki-q4389530/ehomaki-q4389530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4389530",
+    "themealdb": null
+  }
+}

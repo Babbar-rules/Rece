@@ -1,0 +1,18 @@
+{
+  "id": "Q4670754",
+  "name": "kintsuba",
+  "description": "Japanese candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kintsuba-q4670754/kintsuba-q4670754-1.jpg",
+    "images/kintsuba-q4670754/kintsuba-q4670754-2.jpg",
+    "images/kintsuba-q4670754/kintsuba-q4670754-3.jpg",
+    "images/kintsuba-q4670754/kintsuba-q4670754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4670754",
+    "themealdb": null
+  }
+}
