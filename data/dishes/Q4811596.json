@@ -1,0 +1,20 @@
+{
+  "id": "Q4811596",
+  "name": "bazlama",
+  "description": "Turkish flatbread",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bazlama-q4811596/bazlama-q4811596-1.jpg",
+    "images/bazlama-q4811596/bazlama-q4811596-2.jpg",
+    "images/bazlama-q4811596/bazlama-q4811596-3.jpg",
+    "images/bazlama-q4811596/bazlama-q4811596-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4811596",
+    "themealdb": null
+  }
+}

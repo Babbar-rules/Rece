@@ -1,0 +1,20 @@
+{
+  "id": "Q4823701",
+  "name": "şekerpare",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sekerpare-q4823701/sekerpare-q4823701-1.jpg",
+    "images/sekerpare-q4823701/sekerpare-q4823701-2.jpg",
+    "images/sekerpare-q4823701/sekerpare-q4823701-3.jpg",
+    "images/sekerpare-q4823701/sekerpare-q4823701-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4823701",
+    "themealdb": null
+  }
+}

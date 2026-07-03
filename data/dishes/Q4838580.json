@@ -1,0 +1,17 @@
+{
+  "id": "Q4838580",
+  "name": "Bacalaíto",
+  "description": "seafood dish from Puerto Rico",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalaito-q4838580/bacalaito-q4838580-1.jpg",
+    "images/bacalaito-q4838580/bacalaito-q4838580-2.jpg",
+    "images/bacalaito-q4838580/bacalaito-q4838580-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4838580",
+    "themealdb": null
+  }
+}

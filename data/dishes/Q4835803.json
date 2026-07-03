@@ -1,0 +1,18 @@
+{
+  "id": "Q4835803",
+  "name": "Burger King sliders",
+  "description": "series of sandwiches sold by Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-sliders-q4835803/burger-king-sliders-q4835803-1.jpg",
+    "images/burger-king-sliders-q4835803/burger-king-sliders-q4835803-2.jpg",
+    "images/burger-king-sliders-q4835803/burger-king-sliders-q4835803-3.jpg",
+    "images/burger-king-sliders-q4835803/burger-king-sliders-q4835803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4835803",
+    "themealdb": null
+  }
+}

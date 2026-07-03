@@ -1,0 +1,18 @@
+{
+  "id": "Q48741336",
+  "name": "Trenton tomato pie",
+  "description": "type of Italian tomato pie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trenton-tomato-pie-q48741336/trenton-tomato-pie-q48741336-1.jpg",
+    "images/trenton-tomato-pie-q48741336/trenton-tomato-pie-q48741336-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48741336",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q47471957",
+  "name": "tuna pizza",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tuna-pizza-q47471957/tuna-pizza-q47471957-1.jpg",
+    "images/tuna-pizza-q47471957/tuna-pizza-q47471957-2.jpg",
+    "images/tuna-pizza-q47471957/tuna-pizza-q47471957-3.jpg",
+    "images/tuna-pizza-q47471957/tuna-pizza-q47471957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47471957",
+    "themealdb": null
+  }
+}

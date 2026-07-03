@@ -1,0 +1,20 @@
+{
+  "id": "Q4807004",
+  "name": "asinan",
+  "description": "pickled vegetable or fruit dish from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/asinan-q4807004/asinan-q4807004-1.jpg",
+    "images/asinan-q4807004/asinan-q4807004-2.jpg",
+    "images/asinan-q4807004/asinan-q4807004-3.jpg",
+    "images/asinan-q4807004/asinan-q4807004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4807004",
+    "themealdb": null
+  }
+}

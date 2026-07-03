@@ -1,0 +1,18 @@
+{
+  "id": "Q4764082",
+  "name": "Burger King premium burgers",
+  "description": "overview article",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-premium-burgers-q4764082/burger-king-premium-burgers-q4764082-1.jpg",
+    "images/burger-king-premium-burgers-q4764082/burger-king-premium-burgers-q4764082-2.jpg",
+    "images/burger-king-premium-burgers-q4764082/burger-king-premium-burgers-q4764082-3.jpg",
+    "images/burger-king-premium-burgers-q4764082/burger-king-premium-burgers-q4764082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4764082",
+    "themealdb": null
+  }
+}

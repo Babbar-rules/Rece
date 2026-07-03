@@ -1,0 +1,20 @@
+{
+  "id": "Q4822264",
+  "name": "şehriye",
+  "description": "Turkish pasta used in soups and other dishes",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sehriye-q4822264/sehriye-q4822264-1.jpg",
+    "images/sehriye-q4822264/sehriye-q4822264-2.jpg",
+    "images/sehriye-q4822264/sehriye-q4822264-3.jpg",
+    "images/sehriye-q4822264/sehriye-q4822264-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4822264",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4737104",
+  "name": "Alu Potala Rasa",
+  "description": "Pointed gourd and potato curry",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alu-potala-rasa-q4737104/alu-potala-rasa-q4737104-1.jpg",
+    "images/alu-potala-rasa-q4737104/alu-potala-rasa-q4737104-2.jpg",
+    "images/alu-potala-rasa-q4737104/alu-potala-rasa-q4737104-3.png",
+    "images/alu-potala-rasa-q4737104/alu-potala-rasa-q4737104-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4737104",
+    "themealdb": null
+  }
+}

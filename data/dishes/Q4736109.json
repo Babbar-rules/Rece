@@ -1,0 +1,20 @@
+{
+  "id": "Q4736109",
+  "name": "Kinema",
+  "description": "food of Nepal",
+  "nationality": [
+    "Nepal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinema-q4736109/kinema-q4736109-1.jpg",
+    "images/kinema-q4736109/kinema-q4736109-2.jpg",
+    "images/kinema-q4736109/kinema-q4736109-3.jpg",
+    "images/kinema-q4736109/kinema-q4736109-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4736109",
+    "themealdb": null
+  }
+}

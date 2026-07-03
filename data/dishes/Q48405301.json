@@ -1,0 +1,20 @@
+{
+  "id": "Q48405301",
+  "name": "conchiglioni",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/conchiglioni-q48405301/conchiglioni-q48405301-1.jpg",
+    "images/conchiglioni-q48405301/conchiglioni-q48405301-2.png",
+    "images/conchiglioni-q48405301/conchiglioni-q48405301-3.jpg",
+    "images/conchiglioni-q48405301/conchiglioni-q48405301-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48405301",
+    "themealdb": null
+  }
+}

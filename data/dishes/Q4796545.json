@@ -1,0 +1,22 @@
+{
+  "id": "Q4796545",
+  "name": "Arsik",
+  "description": "Indonesian Batak carp fish with spicy ingredients",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/arsik-q4796545/arsik-q4796545-1.jpg",
+    "images/arsik-q4796545/arsik-q4796545-2.jpg",
+    "images/arsik-q4796545/arsik-q4796545-3.jpg",
+    "images/arsik-q4796545/arsik-q4796545-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4796545",
+    "themealdb": null
+  }
+}

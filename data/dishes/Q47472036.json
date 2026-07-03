@@ -1,0 +1,18 @@
+{
+  "id": "Q47472036",
+  "name": "Raspberry pie",
+  "description": "pie with a raspberry filling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raspberry-pie-q47472036/raspberry-pie-q47472036-1.jpg",
+    "images/raspberry-pie-q47472036/raspberry-pie-q47472036-2.jpg",
+    "images/raspberry-pie-q47472036/raspberry-pie-q47472036-3.jpg",
+    "images/raspberry-pie-q47472036/raspberry-pie-q47472036-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472036",
+    "themealdb": null
+  }
+}

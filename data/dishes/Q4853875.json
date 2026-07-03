@@ -1,0 +1,22 @@
+{
+  "id": "Q4853875",
+  "name": "banana pudding",
+  "description": "pudding made with bananas",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/banana-pudding-q4853875/banana-pudding-q4853875-1.jpg",
+    "images/banana-pudding-q4853875/banana-pudding-q4853875-2.jpg",
+    "images/banana-pudding-q4853875/banana-pudding-q4853875-3.jpg",
+    "images/banana-pudding-q4853875/banana-pudding-q4853875-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4853875",
+    "themealdb": null
+  }
+}

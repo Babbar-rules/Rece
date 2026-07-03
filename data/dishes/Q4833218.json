@@ -1,0 +1,20 @@
+{
+  "id": "Q4833218",
+  "name": "açaí na tigela",
+  "description": "Brazilian dessert made from açaí palm fruit",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/acai-na-tigela-q4833218/acai-na-tigela-q4833218-1.jpeg",
+    "images/acai-na-tigela-q4833218/acai-na-tigela-q4833218-2.jpeg",
+    "images/acai-na-tigela-q4833218/acai-na-tigela-q4833218-3.jpg",
+    "images/acai-na-tigela-q4833218/acai-na-tigela-q4833218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4833218",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q4818958",
+  "name": "bülbülyuvası",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey",
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bulbulyuvas-q4818958/bulbulyuvas-q4818958-1.jpg",
+    "images/bulbulyuvas-q4818958/bulbulyuvas-q4818958-2.jpg",
+    "images/bulbulyuvas-q4818958/bulbulyuvas-q4818958-3.jpg",
+    "images/bulbulyuvas-q4818958/bulbulyuvas-q4818958-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4818958",
+    "themealdb": null
+  }
+}

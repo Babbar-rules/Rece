@@ -1,0 +1,18 @@
+{
+  "id": "Q47472060",
+  "name": "papaya jam",
+  "description": "jam made from papayas",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papaya-jam-q47472060/papaya-jam-q47472060-1.jpg",
+    "images/papaya-jam-q47472060/papaya-jam-q47472060-2.jpg",
+    "images/papaya-jam-q47472060/papaya-jam-q47472060-3.jpg",
+    "images/papaya-jam-q47472060/papaya-jam-q47472060-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472060",
+    "themealdb": null
+  }
+}

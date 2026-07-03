@@ -1,0 +1,18 @@
+{
+  "id": "Q4785296",
+  "name": "Arch Deluxe",
+  "description": "Type of McDonald's hamburger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arch-deluxe-q4785296/arch-deluxe-q4785296-1.png",
+    "images/arch-deluxe-q4785296/arch-deluxe-q4785296-2.jpg",
+    "images/arch-deluxe-q4785296/arch-deluxe-q4785296-3.jpg",
+    "images/arch-deluxe-q4785296/arch-deluxe-q4785296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4785296",
+    "themealdb": null
+  }
+}

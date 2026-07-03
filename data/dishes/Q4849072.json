@@ -1,0 +1,18 @@
+{
+  "id": "Q4849072",
+  "name": "Baker's Chocolate",
+  "description": "Brand of baking chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bakers-chocolate-q4849072/bakers-chocolate-q4849072-1.jpg",
+    "images/bakers-chocolate-q4849072/bakers-chocolate-q4849072-2.jpg",
+    "images/bakers-chocolate-q4849072/bakers-chocolate-q4849072-3.jpg",
+    "images/bakers-chocolate-q4849072/bakers-chocolate-q4849072-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4849072",
+    "themealdb": null
+  }
+}

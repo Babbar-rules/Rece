@@ -1,0 +1,20 @@
+{
+  "id": "Q4784939",
+  "name": "Arbroath smokie",
+  "description": "hot-smoked haddock from Arbroath, Angus, Scotland",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arbroath-smokie-q4784939/arbroath-smokie-q4784939-1.jpg",
+    "images/arbroath-smokie-q4784939/arbroath-smokie-q4784939-2.jpg",
+    "images/arbroath-smokie-q4784939/arbroath-smokie-q4784939-3.jpg",
+    "images/arbroath-smokie-q4784939/arbroath-smokie-q4784939-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4784939",
+    "themealdb": null
+  }
+}

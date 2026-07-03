@@ -1,0 +1,19 @@
+{
+  "id": "Q47347125",
+  "name": "Torta paesana",
+  "description": "cake made from stale bread soaked in milk",
+  "nationality": [
+    "Italy",
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-paesana-q47347125/torta-paesana-q47347125-1.jpg",
+    "images/torta-paesana-q47347125/torta-paesana-q47347125-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47347125",
+    "themealdb": null
+  }
+}

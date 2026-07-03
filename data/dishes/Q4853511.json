@@ -1,0 +1,20 @@
+{
+  "id": "Q4853511",
+  "name": "bammy",
+  "description": "Jamaican flatbread",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bammy-q4853511/bammy-q4853511-1.jpg",
+    "images/bammy-q4853511/bammy-q4853511-2.jpg",
+    "images/bammy-q4853511/bammy-q4853511-3.jpg",
+    "images/bammy-q4853511/bammy-q4853511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4853511",
+    "themealdb": null
+  }
+}

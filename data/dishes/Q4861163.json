@@ -1,0 +1,20 @@
+{
+  "id": "Q4861163",
+  "name": "barley bread",
+  "description": "type of bread made from barley flour",
+  "nationality": [
+    "Middle East"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barley-bread-q4861163/barley-bread-q4861163-1.jpg",
+    "images/barley-bread-q4861163/barley-bread-q4861163-2.jpg",
+    "images/barley-bread-q4861163/barley-bread-q4861163-3.jpg",
+    "images/barley-bread-q4861163/barley-bread-q4861163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4861163",
+    "themealdb": null
+  }
+}

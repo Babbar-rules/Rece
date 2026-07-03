@@ -1,0 +1,21 @@
+{
+  "id": "Q4784160",
+  "name": "Aranygaluska",
+  "description": "traditional Hungarian dessert",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/aranygaluska-q4784160/aranygaluska-q4784160-1.jpg",
+    "images/aranygaluska-q4784160/aranygaluska-q4784160-2.jpg",
+    "images/aranygaluska-q4784160/aranygaluska-q4784160-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4784160",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4849349",
+  "name": "Bakewell pudding",
+  "description": "traditional food originating in Bakewell",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bakewell-pudding-q4849349/bakewell-pudding-q4849349-1.jpg",
+    "images/bakewell-pudding-q4849349/bakewell-pudding-q4849349-2.jpg",
+    "images/bakewell-pudding-q4849349/bakewell-pudding-q4849349-3.jpg",
+    "images/bakewell-pudding-q4849349/bakewell-pudding-q4849349-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4849349",
+    "themealdb": null
+  }
+}

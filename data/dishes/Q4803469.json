@@ -1,0 +1,22 @@
+{
+  "id": "Q4803469",
+  "name": "asam pedas",
+  "description": "Malay and Minangkabau food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/asam-pedas-q4803469/asam-pedas-q4803469-1.jpg",
+    "images/asam-pedas-q4803469/asam-pedas-q4803469-2.jpg",
+    "images/asam-pedas-q4803469/asam-pedas-q4803469-3.jpg",
+    "images/asam-pedas-q4803469/asam-pedas-q4803469-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4803469",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q477334",
+  "name": "Edy's Pie",
+  "description": "ice cream bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/edys-pie-q477334/edys-pie-q477334-1.jpg",
+    "images/edys-pie-q477334/edys-pie-q477334-2.jpg",
+    "images/edys-pie-q477334/edys-pie-q477334-3.jpg",
+    "images/edys-pie-q477334/edys-pie-q477334-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q477334",
+    "themealdb": null
+  }
+}

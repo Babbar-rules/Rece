@@ -1,0 +1,18 @@
+{
+  "id": "Q4806808",
+  "name": "Asian soup",
+  "description": "East Asian Varieties of Soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/asian-soup-q4806808/asian-soup-q4806808-1.jpg",
+    "images/asian-soup-q4806808/asian-soup-q4806808-2.jpg",
+    "images/asian-soup-q4806808/asian-soup-q4806808-3.jpg",
+    "images/asian-soup-q4806808/asian-soup-q4806808-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4806808",
+    "themealdb": null
+  }
+}

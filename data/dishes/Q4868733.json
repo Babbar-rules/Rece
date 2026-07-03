@@ -1,0 +1,20 @@
+{
+  "id": "Q4868733",
+  "name": "Batchoy",
+  "description": "Filipino Noodle Dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/batchoy-q4868733/batchoy-q4868733-1.jpg",
+    "images/batchoy-q4868733/batchoy-q4868733-2.jpg",
+    "images/batchoy-q4868733/batchoy-q4868733-3.jpg",
+    "images/batchoy-q4868733/batchoy-q4868733-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4868733",
+    "themealdb": null
+  }
+}

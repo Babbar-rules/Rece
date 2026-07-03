@@ -1,0 +1,18 @@
+{
+  "id": "Q4843243",
+  "name": "Baik kut kyee kaik",
+  "description": "Noodle dish from Myanmar",
+  "nationality": [
+    "Myanmar"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baik-kut-kyee-kaik-q4843243/baik-kut-kyee-kaik-q4843243-1.jpg",
+    "images/baik-kut-kyee-kaik-q4843243/baik-kut-kyee-kaik-q4843243-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4843243",
+    "themealdb": null
+  }
+}

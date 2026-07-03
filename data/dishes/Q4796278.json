@@ -1,0 +1,20 @@
+{
+  "id": "Q4796278",
+  "name": "Arroz a la Cubana",
+  "description": "rice dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-a-la-cubana-q4796278/arroz-a-la-cubana-q4796278-1.jpg",
+    "images/arroz-a-la-cubana-q4796278/arroz-a-la-cubana-q4796278-2.jpg",
+    "images/arroz-a-la-cubana-q4796278/arroz-a-la-cubana-q4796278-3.jpg",
+    "images/arroz-a-la-cubana-q4796278/arroz-a-la-cubana-q4796278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4796278",
+    "themealdb": null
+  }
+}

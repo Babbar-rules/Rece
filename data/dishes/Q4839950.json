@@ -1,0 +1,18 @@
+{
+  "id": "Q4839950",
+  "name": "bacon sundae",
+  "description": "sundae prepared using typical sundae ingredients and bacon",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-sundae-q4839950/bacon-sundae-q4839950-1.jpg",
+    "images/bacon-sundae-q4839950/bacon-sundae-q4839950-2.jpg",
+    "images/bacon-sundae-q4839950/bacon-sundae-q4839950-3.jpg",
+    "images/bacon-sundae-q4839950/bacon-sundae-q4839950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4839950",
+    "themealdb": null
+  }
+}

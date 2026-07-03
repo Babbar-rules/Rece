@@ -1,0 +1,20 @@
+{
+  "id": "Q48749228",
+  "name": "Shichifukujin arare",
+  "description": "Japanese rice cracker",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shichifukujin-arare-q48749228/shichifukujin-arare-q48749228-1.jpg",
+    "images/shichifukujin-arare-q48749228/shichifukujin-arare-q48749228-2.jpg",
+    "images/shichifukujin-arare-q48749228/shichifukujin-arare-q48749228-3.jpg",
+    "images/shichifukujin-arare-q48749228/shichifukujin-arare-q48749228-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48749228",
+    "themealdb": null
+  }
+}

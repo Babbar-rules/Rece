@@ -1,0 +1,22 @@
+{
+  "id": "Q48034588",
+  "name": "pinsa",
+  "description": "Italian pizza variant",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Roman cuisine"
+  ],
+  "images": [
+    "images/pinsa-q48034588/pinsa-q48034588-1.jpg",
+    "images/pinsa-q48034588/pinsa-q48034588-2.jpg",
+    "images/pinsa-q48034588/pinsa-q48034588-3.jpg",
+    "images/pinsa-q48034588/pinsa-q48034588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48034588",
+    "themealdb": null
+  }
+}

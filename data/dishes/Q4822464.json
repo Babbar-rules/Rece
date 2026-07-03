@@ -1,0 +1,19 @@
+{
+  "id": "Q4822464",
+  "name": "nokul",
+  "description": "Turkish dessert, especially from the central Black Sea Region",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nokul-q4822464/nokul-q4822464-1.jpg",
+    "images/nokul-q4822464/nokul-q4822464-2.jpg",
+    "images/nokul-q4822464/nokul-q4822464-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4822464",
+    "themealdb": null
+  }
+}

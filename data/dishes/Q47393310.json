@@ -1,0 +1,20 @@
+{
+  "id": "Q47393310",
+  "name": "Lobster Yee Mein",
+  "description": "lobster dish of Hong Kong, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobster-yee-mein-q47393310/lobster-yee-mein-q47393310-1.jpg",
+    "images/lobster-yee-mein-q47393310/lobster-yee-mein-q47393310-2.jpg",
+    "images/lobster-yee-mein-q47393310/lobster-yee-mein-q47393310-3.jpg",
+    "images/lobster-yee-mein-q47393310/lobster-yee-mein-q47393310-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47393310",
+    "themealdb": null
+  }
+}

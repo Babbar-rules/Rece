@@ -1,0 +1,20 @@
+{
+  "id": "Q4745482",
+  "name": "khao phat amerikan",
+  "description": "Thai fried rice dish with \"American\" side ingredients like fried chicken, ham, hot dogs, raisins, ketchup, and croutons",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/khao-phat-amerikan-q4745482/khao-phat-amerikan-q4745482-1.jpg",
+    "images/khao-phat-amerikan-q4745482/khao-phat-amerikan-q4745482-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4745482",
+    "themealdb": null
+  }
+}

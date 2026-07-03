@@ -1,0 +1,18 @@
+{
+  "id": "Q477374",
+  "name": "eggnog",
+  "description": "sweetened dairy-based beverage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eggnog-q477374/eggnog-q477374-1.jpg",
+    "images/eggnog-q477374/eggnog-q477374-2.jpg",
+    "images/eggnog-q477374/eggnog-q477374-3.jpg",
+    "images/eggnog-q477374/eggnog-q477374-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q477374",
+    "themealdb": null
+  }
+}

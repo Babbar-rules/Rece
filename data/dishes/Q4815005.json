@@ -1,0 +1,23 @@
+{
+  "id": "Q4815005",
+  "name": "pide",
+  "description": "Turkish oven-baked flatbread",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Crimean Tatar cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/pide-q4815005/pide-q4815005-1.jpg",
+    "images/pide-q4815005/pide-q4815005-2.jpg",
+    "images/pide-q4815005/pide-q4815005-3.jpg",
+    "images/pide-q4815005/pide-q4815005-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4815005",
+    "themealdb": null
+  }
+}

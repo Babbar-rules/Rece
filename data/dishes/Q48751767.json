@@ -1,0 +1,18 @@
+{
+  "id": "Q48751767",
+  "name": "miso potatoes",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miso-potatoes-q48751767/miso-potatoes-q48751767-1.jpg",
+    "images/miso-potatoes-q48751767/miso-potatoes-q48751767-2.jpg",
+    "images/miso-potatoes-q48751767/miso-potatoes-q48751767-3.jpg",
+    "images/miso-potatoes-q48751767/miso-potatoes-q48751767-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48751767",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4835825",
+  "name": "BK XXL",
+  "description": "family of cheeseburgers sold by Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bk-xxl-q4835825/bk-xxl-q4835825-1.jpg",
+    "images/bk-xxl-q4835825/bk-xxl-q4835825-2.jpg",
+    "images/bk-xxl-q4835825/bk-xxl-q4835825-3.jpg",
+    "images/bk-xxl-q4835825/bk-xxl-q4835825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4835825",
+    "themealdb": null
+  }
+}

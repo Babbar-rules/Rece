@@ -1,0 +1,18 @@
+{
+  "id": "Q47472139",
+  "name": "cherry jam",
+  "description": "jam made from cherrys",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-jam-q47472139/cherry-jam-q47472139-1.jpg",
+    "images/cherry-jam-q47472139/cherry-jam-q47472139-2.jpg",
+    "images/cherry-jam-q47472139/cherry-jam-q47472139-3.jpg",
+    "images/cherry-jam-q47472139/cherry-jam-q47472139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472139",
+    "themealdb": null
+  }
+}

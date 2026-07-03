@@ -1,0 +1,21 @@
+{
+  "id": "Q4774679",
+  "name": "iberico ham",
+  "description": "Bellota ham",
+  "nationality": [
+    "Spain",
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iberico-ham-q4774679/iberico-ham-q4774679-1.jpeg",
+    "images/iberico-ham-q4774679/iberico-ham-q4774679-2.jpg",
+    "images/iberico-ham-q4774679/iberico-ham-q4774679-3.jpg",
+    "images/iberico-ham-q4774679/iberico-ham-q4774679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4774679",
+    "themealdb": null
+  }
+}

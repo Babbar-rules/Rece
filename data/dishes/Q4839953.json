@@ -1,0 +1,20 @@
+{
+  "id": "Q4839953",
+  "name": "bacon sandwich",
+  "description": "sandwich of cooked bacon",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-sandwich-q4839953/bacon-sandwich-q4839953-1.jpg",
+    "images/bacon-sandwich-q4839953/bacon-sandwich-q4839953-2.jpg",
+    "images/bacon-sandwich-q4839953/bacon-sandwich-q4839953-3.jpg",
+    "images/bacon-sandwich-q4839953/bacon-sandwich-q4839953-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4839953",
+    "themealdb": null
+  }
+}

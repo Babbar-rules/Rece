@@ -1,0 +1,20 @@
+{
+  "id": "Q4841270",
+  "name": "baeksuk",
+  "description": "Korean culinary term",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baeksuk-q4841270/baeksuk-q4841270-1.jpg",
+    "images/baeksuk-q4841270/baeksuk-q4841270-2.jpg",
+    "images/baeksuk-q4841270/baeksuk-q4841270-3.jpg",
+    "images/baeksuk-q4841270/baeksuk-q4841270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4841270",
+    "themealdb": null
+  }
+}

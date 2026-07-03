@@ -1,0 +1,18 @@
+{
+  "id": "Q47472068",
+  "name": "pear jam",
+  "description": "jam made from pears",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pear-jam-q47472068/pear-jam-q47472068-1.jpg",
+    "images/pear-jam-q47472068/pear-jam-q47472068-2.png",
+    "images/pear-jam-q47472068/pear-jam-q47472068-3.jpg",
+    "images/pear-jam-q47472068/pear-jam-q47472068-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472068",
+    "themealdb": null
+  }
+}

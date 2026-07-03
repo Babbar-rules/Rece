@@ -1,0 +1,18 @@
+{
+  "id": "Q47464157",
+  "name": "barbecue sandwich",
+  "description": "barbecue-style sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/barbecue-sandwich-q47464157/barbecue-sandwich-q47464157-1.jpg",
+    "images/barbecue-sandwich-q47464157/barbecue-sandwich-q47464157-2.jpg",
+    "images/barbecue-sandwich-q47464157/barbecue-sandwich-q47464157-3.jpg",
+    "images/barbecue-sandwich-q47464157/barbecue-sandwich-q47464157-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47464157",
+    "themealdb": null
+  }
+}

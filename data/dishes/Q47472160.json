@@ -1,0 +1,18 @@
+{
+  "id": "Q47472160",
+  "name": "chocolate croissant",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-croissant-q47472160/chocolate-croissant-q47472160-1.jpg",
+    "images/chocolate-croissant-q47472160/chocolate-croissant-q47472160-2.jpg",
+    "images/chocolate-croissant-q47472160/chocolate-croissant-q47472160-3.jpg",
+    "images/chocolate-croissant-q47472160/chocolate-croissant-q47472160-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472160",
+    "themealdb": null
+  }
+}

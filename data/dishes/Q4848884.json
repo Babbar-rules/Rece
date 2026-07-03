@@ -1,0 +1,20 @@
+{
+  "id": "Q4848884",
+  "name": "baji",
+  "description": "type of beaten rice eaten in Nepal",
+  "nationality": [
+    "Nepal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baji-q4848884/baji-q4848884-1.jpg",
+    "images/baji-q4848884/baji-q4848884-2.jpg",
+    "images/baji-q4848884/baji-q4848884-3.jpg",
+    "images/baji-q4848884/baji-q4848884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4848884",
+    "themealdb": null
+  }
+}

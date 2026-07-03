@@ -1,0 +1,20 @@
+{
+  "id": "Q4861253",
+  "name": "barm cake",
+  "description": "soft, round, flattish bread roll from North West England",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/barm-cake-q4861253/barm-cake-q4861253-1.jpg",
+    "images/barm-cake-q4861253/barm-cake-q4861253-2.jpg",
+    "images/barm-cake-q4861253/barm-cake-q4861253-3.jpg",
+    "images/barm-cake-q4861253/barm-cake-q4861253-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4861253",
+    "themealdb": null
+  }
+}

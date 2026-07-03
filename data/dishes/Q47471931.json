@@ -1,0 +1,18 @@
+{
+  "id": "Q47471931",
+  "name": "chorizo pizza",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chorizo-pizza-q47471931/chorizo-pizza-q47471931-1.jpg",
+    "images/chorizo-pizza-q47471931/chorizo-pizza-q47471931-2.jpg",
+    "images/chorizo-pizza-q47471931/chorizo-pizza-q47471931-3.jpg",
+    "images/chorizo-pizza-q47471931/chorizo-pizza-q47471931-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47471931",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q4838221",
+  "name": "Baby Bottle Pop",
+  "description": "brand of confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-bottle-pop-q4838221/baby-bottle-pop-q4838221-1.jpg",
+    "images/baby-bottle-pop-q4838221/baby-bottle-pop-q4838221-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4838221",
+    "themealdb": null
+  }
+}

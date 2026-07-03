@@ -1,0 +1,18 @@
+{
+  "id": "Q4765304",
+  "name": "Aniseed twist",
+  "description": "boiled sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aniseed-twist-q4765304/aniseed-twist-q4765304-1.jpg",
+    "images/aniseed-twist-q4765304/aniseed-twist-q4765304-2.png",
+    "images/aniseed-twist-q4765304/aniseed-twist-q4765304-3.jpg",
+    "images/aniseed-twist-q4765304/aniseed-twist-q4765304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4765304",
+    "themealdb": null
+  }
+}

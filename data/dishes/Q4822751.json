@@ -1,0 +1,24 @@
+{
+  "id": "Q4822751",
+  "name": "Aush",
+  "description": "soup from various countries in the Middle East",
+  "nationality": [
+    "Turkey",
+    "Azerbaijan",
+    "Armenia",
+    "Iran",
+    "Afghanistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aush-q4822751/aush-q4822751-1.jpg",
+    "images/aush-q4822751/aush-q4822751-2.jpg",
+    "images/aush-q4822751/aush-q4822751-3.jpg",
+    "images/aush-q4822751/aush-q4822751-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4822751",
+    "themealdb": null
+  }
+}

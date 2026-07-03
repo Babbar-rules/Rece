@@ -1,0 +1,20 @@
+{
+  "id": "Q4804429",
+  "name": "Ash Reshteh",
+  "description": "type of aush",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ash-reshteh-q4804429/ash-reshteh-q4804429-1.jpg",
+    "images/ash-reshteh-q4804429/ash-reshteh-q4804429-2.jpg",
+    "images/ash-reshteh-q4804429/ash-reshteh-q4804429-3.jpg",
+    "images/ash-reshteh-q4804429/ash-reshteh-q4804429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4804429",
+    "themealdb": null
+  }
+}

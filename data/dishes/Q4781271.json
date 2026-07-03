@@ -1,0 +1,18 @@
+{
+  "id": "Q4781271",
+  "name": "apple crisp",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-crisp-q4781271/apple-crisp-q4781271-1.jpg",
+    "images/apple-crisp-q4781271/apple-crisp-q4781271-2.jpg",
+    "images/apple-crisp-q4781271/apple-crisp-q4781271-3.jpg",
+    "images/apple-crisp-q4781271/apple-crisp-q4781271-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4781271",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4838581",
+  "name": "Bacalhau com todos",
+  "description": "Cod recipe in Portuguese cuisine",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalhau-com-todos-q4838581/bacalhau-com-todos-q4838581-1.jpg",
+    "images/bacalhau-com-todos-q4838581/bacalhau-com-todos-q4838581-2.jpg",
+    "images/bacalhau-com-todos-q4838581/bacalhau-com-todos-q4838581-3.jpg",
+    "images/bacalhau-com-todos-q4838581/bacalhau-com-todos-q4838581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4838581",
+    "themealdb": null
+  }
+}

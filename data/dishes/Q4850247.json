@@ -1,0 +1,20 @@
+{
+  "id": "Q4850247",
+  "name": "balchão",
+  "description": "South Asian dish with a spicy and sour sauce",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balchao-q4850247/balchao-q4850247-1.jpg",
+    "images/balchao-q4850247/balchao-q4850247-2.jpg",
+    "images/balchao-q4850247/balchao-q4850247-3.jpg",
+    "images/balchao-q4850247/balchao-q4850247-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4850247",
+    "themealdb": null
+  }
+}

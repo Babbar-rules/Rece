@@ -1,0 +1,20 @@
+{
+  "id": "Q4742021",
+  "name": "ambuyat",
+  "description": "traditional Brunei, Sabah and Sarawak dish",
+  "nationality": [
+    "Brunei"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ambuyat-q4742021/ambuyat-q4742021-1.jpg",
+    "images/ambuyat-q4742021/ambuyat-q4742021-2.jpg",
+    "images/ambuyat-q4742021/ambuyat-q4742021-3.jpg",
+    "images/ambuyat-q4742021/ambuyat-q4742021-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4742021",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4868531",
+  "name": "batagor",
+  "description": "Sundanese food from Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/batagor-q4868531/batagor-q4868531-1.jpg",
+    "images/batagor-q4868531/batagor-q4868531-2.jpg",
+    "images/batagor-q4868531/batagor-q4868531-3.jpg",
+    "images/batagor-q4868531/batagor-q4868531-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4868531",
+    "themealdb": null
+  }
+}

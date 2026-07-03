@@ -1,0 +1,20 @@
+{
+  "id": "Q4811799",
+  "name": "Ekmek kadayıfı",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ekmek-kadayf-q4811799/ekmek-kadayf-q4811799-1.jpg",
+    "images/ekmek-kadayf-q4811799/ekmek-kadayf-q4811799-2.jpg",
+    "images/ekmek-kadayf-q4811799/ekmek-kadayf-q4811799-3.jpg",
+    "images/ekmek-kadayf-q4811799/ekmek-kadayf-q4811799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4811799",
+    "themealdb": null
+  }
+}

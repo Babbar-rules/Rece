@@ -1,0 +1,18 @@
+{
+  "id": "Q4765302",
+  "name": "Aniseed ball",
+  "description": "hard round sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aniseed-ball-q4765302/aniseed-ball-q4765302-1.jpg",
+    "images/aniseed-ball-q4765302/aniseed-ball-q4765302-2.jpg",
+    "images/aniseed-ball-q4765302/aniseed-ball-q4765302-3.jpg",
+    "images/aniseed-ball-q4765302/aniseed-ball-q4765302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4765302",
+    "themealdb": null
+  }
+}

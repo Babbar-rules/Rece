@@ -1,0 +1,20 @@
+{
+  "id": "Q4804467",
+  "name": "Cochinita pibil",
+  "description": "Mexican slow-roasted pork dish",
+  "nationality": [
+    "Yucatán"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cochinita-pibil-q4804467/cochinita-pibil-q4804467-1.jpg",
+    "images/cochinita-pibil-q4804467/cochinita-pibil-q4804467-2.jpg",
+    "images/cochinita-pibil-q4804467/cochinita-pibil-q4804467-3.jpg",
+    "images/cochinita-pibil-q4804467/cochinita-pibil-q4804467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4804467",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4796283",
+  "name": "arroz à grega",
+  "description": "Brazilian rice dish",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-a-grega-q4796283/arroz-a-grega-q4796283-1.jpg",
+    "images/arroz-a-grega-q4796283/arroz-a-grega-q4796283-2.jpg",
+    "images/arroz-a-grega-q4796283/arroz-a-grega-q4796283-3.jpg",
+    "images/arroz-a-grega-q4796283/arroz-a-grega-q4796283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4796283",
+    "themealdb": null
+  }
+}

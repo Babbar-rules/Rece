@@ -1,0 +1,20 @@
+{
+  "id": "Q4849055",
+  "name": "baked bean sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baked-bean-sandwich-q4849055/baked-bean-sandwich-q4849055-1.jpg",
+    "images/baked-bean-sandwich-q4849055/baked-bean-sandwich-q4849055-2.jpg",
+    "images/baked-bean-sandwich-q4849055/baked-bean-sandwich-q4849055-3.jpg",
+    "images/baked-bean-sandwich-q4849055/baked-bean-sandwich-q4849055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4849055",
+    "themealdb": null
+  }
+}

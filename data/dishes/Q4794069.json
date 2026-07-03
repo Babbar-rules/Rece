@@ -1,0 +1,18 @@
+{
+  "id": "Q4794069",
+  "name": "Army & Navy Sweets",
+  "description": "traditional boiled sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/army-navy-sweets-q4794069/army-navy-sweets-q4794069-1.jpg",
+    "images/army-navy-sweets-q4794069/army-navy-sweets-q4794069-2.jpg",
+    "images/army-navy-sweets-q4794069/army-navy-sweets-q4794069-3.jpg",
+    "images/army-navy-sweets-q4794069/army-navy-sweets-q4794069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4794069",
+    "themealdb": null
+  }
+}

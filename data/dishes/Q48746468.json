@@ -1,0 +1,60 @@
+{
+  "id": "Q48746468",
+  "name": "Sky",
+  "description": "",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [
+    "Pork"
+  ],
+  "images": [
+    "images/sky-q48746468/sky-q48746468-1.jpg",
+    "images/sky-q48746468/sky-q48746468-2.jpg",
+    "images/sky-q48746468/sky-q48746468-3.jpg",
+    "images/sky-q48746468/sky-q48746468-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53190",
+    "category": "Pork",
+    "area": "Slovakia",
+    "instructions": "1. Prepare the Dough\r\nGrate the potatoes finely using a hand grater or food processor. Place the grated potatoes in a bowl and mix them with flour, egg, and salt until a sticky dough forms. The consistency should be thick but pliable.\r\n\r\n2. Cook the Dumplings\r\nBring a large pot of salted water to a boil. Using a halušky maker (similar to a spaetzle maker), press the dough directly into the boiling water. If you don’t have one, use a tilted cutting board and a knife to scrape small pieces of dough into the water.\r\n\r\nLet the dumplings cook until they float to the surface, usually within 2-3 minutes. Scoop them out with a slotted spoon and set aside in a large bowl.\r\n\r\n3. Prepare the Toppings\r\nChop the bacon into small pieces and fry in a skillet over medium heat until crispy. If using a bryndza substitute, mix crumbled feta with a dollop of sour cream to mimic the tangy flavour of traditional Slovak sheep cheese.\r\n\r\n4. Assemble the Dish\r\nToss the cooked dumplings with the bryndza cheese (or substitute) until they’re well-coated and creamy. Top with the crispy bacon and its drippings. Garnish with chopped chives or parsley for an extra touch of colour and flavour.",
+    "ingredients": [
+      {
+        "ingredient": "Potatoes",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Plain Flour",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 teaspoon"
+      },
+      {
+        "ingredient": "Bryndza cheese",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Bacon",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Chives",
+        "measure": "Garnish"
+      }
+    ],
+    "youtube": "https://www.youtube.com/shorts/IPF_VpH7FzI",
+    "thumb": "https://www.themealdb.com/images/media/meals/g33c901763365484.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48746468",
+    "themealdb": "53190"
+  }
+}

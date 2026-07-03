@@ -1,0 +1,24 @@
+{
+  "id": "Q4873584",
+  "name": "baursak",
+  "description": "traditional fried dough food peculiar to the cuisines of Central Asia, Bashkortostan and Middle East",
+  "nationality": [],
+  "region_cuisine": [
+    "Kyrgyz cuisine",
+    "Cuisine of Uzbekistan",
+    "Tatarstan cuisine",
+    "Kazakh cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/baursak-q4873584/baursak-q4873584-1.jpg",
+    "images/baursak-q4873584/baursak-q4873584-2.jpg",
+    "images/baursak-q4873584/baursak-q4873584-3.jpg",
+    "images/baursak-q4873584/baursak-q4873584-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4873584",
+    "themealdb": null
+  }
+}

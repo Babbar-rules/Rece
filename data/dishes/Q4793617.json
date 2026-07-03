@@ -1,0 +1,18 @@
+{
+  "id": "Q4793617",
+  "name": "Hershey bar",
+  "description": "Candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hershey-bar-q4793617/hershey-bar-q4793617-1.jpg",
+    "images/hershey-bar-q4793617/hershey-bar-q4793617-2.jpg",
+    "images/hershey-bar-q4793617/hershey-bar-q4793617-3.jpg",
+    "images/hershey-bar-q4793617/hershey-bar-q4793617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4793617",
+    "themealdb": null
+  }
+}

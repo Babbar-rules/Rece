@@ -1,0 +1,20 @@
+{
+  "id": "Q4745483",
+  "name": "American goulash",
+  "description": "U.S. dish of pasta, ground beef cooked with aromatics, tomatoes, and cheese",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/american-goulash-q4745483/american-goulash-q4745483-1.jpg",
+    "images/american-goulash-q4745483/american-goulash-q4745483-2.jpg",
+    "images/american-goulash-q4745483/american-goulash-q4745483-3.jpg",
+    "images/american-goulash-q4745483/american-goulash-q4745483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4745483",
+    "themealdb": null
+  }
+}

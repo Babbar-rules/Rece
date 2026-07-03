@@ -1,0 +1,18 @@
+{
+  "id": "Q47472171",
+  "name": "Bolognese pizzas",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bolognese-pizzas-q47472171/bolognese-pizzas-q47472171-1.jpg",
+    "images/bolognese-pizzas-q47472171/bolognese-pizzas-q47472171-2.jpg",
+    "images/bolognese-pizzas-q47472171/bolognese-pizzas-q47472171-3.jpg",
+    "images/bolognese-pizzas-q47472171/bolognese-pizzas-q47472171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472171",
+    "themealdb": null
+  }
+}

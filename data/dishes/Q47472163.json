@@ -1,0 +1,18 @@
+{
+  "id": "Q47472163",
+  "name": "chocolate dessert",
+  "description": "dessert made primarily of chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-dessert-q47472163/chocolate-dessert-q47472163-1.jpg",
+    "images/chocolate-dessert-q47472163/chocolate-dessert-q47472163-2.jpg",
+    "images/chocolate-dessert-q47472163/chocolate-dessert-q47472163-3.jpg",
+    "images/chocolate-dessert-q47472163/chocolate-dessert-q47472163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472163",
+    "themealdb": null
+  }
+}

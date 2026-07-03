@@ -1,0 +1,20 @@
+{
+  "id": "Q4855649",
+  "name": "bánh canh",
+  "description": "Vietnamese thick noodle soup",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banh-canh-q4855649/banh-canh-q4855649-1.jpg",
+    "images/banh-canh-q4855649/banh-canh-q4855649-2.jpg",
+    "images/banh-canh-q4855649/banh-canh-q4855649-3.jpg",
+    "images/banh-canh-q4855649/banh-canh-q4855649-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4855649",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q47408669",
+  "name": "parmatieddi",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parmatieddi-q47408669/parmatieddi-q47408669-1.jpg",
+    "images/parmatieddi-q47408669/parmatieddi-q47408669-2.jpg",
+    "images/parmatieddi-q47408669/parmatieddi-q47408669-3.jpg",
+    "images/parmatieddi-q47408669/parmatieddi-q47408669-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47408669",
+    "themealdb": null
+  }
+}

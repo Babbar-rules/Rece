@@ -1,0 +1,20 @@
+{
+  "id": "Q4857446",
+  "name": "Chhoah-peng",
+  "description": "shaved ice dessert",
+  "nationality": [
+    "Taiwan under Japanese rule"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chhoah-peng-q4857446/chhoah-peng-q4857446-1.jpg",
+    "images/chhoah-peng-q4857446/chhoah-peng-q4857446-2.jpg",
+    "images/chhoah-peng-q4857446/chhoah-peng-q4857446-3.jpg",
+    "images/chhoah-peng-q4857446/chhoah-peng-q4857446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4857446",
+    "themealdb": null
+  }
+}

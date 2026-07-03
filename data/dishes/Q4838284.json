@@ -1,0 +1,18 @@
+{
+  "id": "Q4838284",
+  "name": "Baby Gaga",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-gaga-q4838284/baby-gaga-q4838284-1.jpg",
+    "images/baby-gaga-q4838284/baby-gaga-q4838284-2.jpg",
+    "images/baby-gaga-q4838284/baby-gaga-q4838284-3.jpg",
+    "images/baby-gaga-q4838284/baby-gaga-q4838284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4838284",
+    "themealdb": null
+  }
+}

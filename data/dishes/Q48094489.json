@@ -1,0 +1,18 @@
+{
+  "id": "Q48094489",
+  "name": "grilled dog",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grilled-dog-q48094489/grilled-dog-q48094489-1.jpg",
+    "images/grilled-dog-q48094489/grilled-dog-q48094489-2.jpg",
+    "images/grilled-dog-q48094489/grilled-dog-q48094489-3.jpg",
+    "images/grilled-dog-q48094489/grilled-dog-q48094489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48094489",
+    "themealdb": null
+  }
+}

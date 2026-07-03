@@ -1,0 +1,20 @@
+{
+  "id": "Q4796280",
+  "name": "arroz chaufa",
+  "description": "Chinese-Peruvian dish of fried rice",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-chaufa-q4796280/arroz-chaufa-q4796280-1.jpg",
+    "images/arroz-chaufa-q4796280/arroz-chaufa-q4796280-2.jpg",
+    "images/arroz-chaufa-q4796280/arroz-chaufa-q4796280-3.jpg",
+    "images/arroz-chaufa-q4796280/arroz-chaufa-q4796280-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4796280",
+    "themealdb": null
+  }
+}

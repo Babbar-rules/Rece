@@ -1,0 +1,18 @@
+{
+  "id": "Q4781270",
+  "name": "Apple drops",
+  "description": "British confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-drops-q4781270/apple-drops-q4781270-1.jpg",
+    "images/apple-drops-q4781270/apple-drops-q4781270-2.jpg",
+    "images/apple-drops-q4781270/apple-drops-q4781270-3.jpg",
+    "images/apple-drops-q4781270/apple-drops-q4781270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4781270",
+    "themealdb": null
+  }
+}

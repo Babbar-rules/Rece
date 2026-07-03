@@ -1,0 +1,20 @@
+{
+  "id": "Q4839932",
+  "name": "Bacon Deluxe",
+  "description": "hamburger sold by Wendy's",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-deluxe-q4839932/bacon-deluxe-q4839932-1.jpg",
+    "images/bacon-deluxe-q4839932/bacon-deluxe-q4839932-2.jpg",
+    "images/bacon-deluxe-q4839932/bacon-deluxe-q4839932-3.jpg",
+    "images/bacon-deluxe-q4839932/bacon-deluxe-q4839932-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4839932",
+    "themealdb": null
+  }
+}

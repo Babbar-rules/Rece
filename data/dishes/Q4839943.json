@@ -1,0 +1,18 @@
+{
+  "id": "Q4839943",
+  "name": "bacon and egg pie",
+  "description": "savoury pie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-and-egg-pie-q4839943/bacon-and-egg-pie-q4839943-1.jpg",
+    "images/bacon-and-egg-pie-q4839943/bacon-and-egg-pie-q4839943-2.jpg",
+    "images/bacon-and-egg-pie-q4839943/bacon-and-egg-pie-q4839943-3.jpg",
+    "images/bacon-and-egg-pie-q4839943/bacon-and-egg-pie-q4839943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4839943",
+    "themealdb": null
+  }
+}

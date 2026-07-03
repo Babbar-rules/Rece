@@ -1,0 +1,20 @@
+{
+  "id": "Q4745436",
+  "name": "American chop suey",
+  "description": "New England dish of macaroni, ground beef, tomato sauce, and vegetables",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/american-chop-suey-q4745436/american-chop-suey-q4745436-1.jpg",
+    "images/american-chop-suey-q4745436/american-chop-suey-q4745436-2.jpg",
+    "images/american-chop-suey-q4745436/american-chop-suey-q4745436-3.jpg",
+    "images/american-chop-suey-q4745436/american-chop-suey-q4745436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4745436",
+    "themealdb": null
+  }
+}

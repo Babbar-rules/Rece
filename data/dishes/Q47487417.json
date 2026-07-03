@@ -1,0 +1,19 @@
+{
+  "id": "Q47487417",
+  "name": "koulouria",
+  "description": "traditional food of Rhodes, Greece",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koulouria-q47487417/koulouria-q47487417-1.jpg",
+    "images/koulouria-q47487417/koulouria-q47487417-2.jpg",
+    "images/koulouria-q47487417/koulouria-q47487417-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47487417",
+    "themealdb": null
+  }
+}

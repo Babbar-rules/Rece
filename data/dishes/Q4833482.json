@@ -1,0 +1,20 @@
+{
+  "id": "Q4833482",
+  "name": "kumru",
+  "description": "Turkish sandwich, especially from the Aegean region (İzmir and env.)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kumru-q4833482/kumru-q4833482-1.jpg",
+    "images/kumru-q4833482/kumru-q4833482-2.jpg",
+    "images/kumru-q4833482/kumru-q4833482-3.jpg",
+    "images/kumru-q4833482/kumru-q4833482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4833482",
+    "themealdb": null
+  }
+}

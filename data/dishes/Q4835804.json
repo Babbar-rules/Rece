@@ -1,0 +1,18 @@
+{
+  "id": "Q4835804",
+  "name": "BK Chicken Fries",
+  "description": "fried chicken product sold by Burger King",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bk-chicken-fries-q4835804/bk-chicken-fries-q4835804-1.jpg",
+    "images/bk-chicken-fries-q4835804/bk-chicken-fries-q4835804-2.jpg",
+    "images/bk-chicken-fries-q4835804/bk-chicken-fries-q4835804-3.jpg",
+    "images/bk-chicken-fries-q4835804/bk-chicken-fries-q4835804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4835804",
+    "themealdb": null
+  }
+}

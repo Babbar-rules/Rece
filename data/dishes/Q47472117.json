@@ -1,0 +1,18 @@
+{
+  "id": "Q47472117",
+  "name": "ham croissant",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ham-croissant-q47472117/ham-croissant-q47472117-1.jpg",
+    "images/ham-croissant-q47472117/ham-croissant-q47472117-2.jpg",
+    "images/ham-croissant-q47472117/ham-croissant-q47472117-3.jpg",
+    "images/ham-croissant-q47472117/ham-croissant-q47472117-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47472117",
+    "themealdb": null
+  }
+}

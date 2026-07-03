@@ -1,0 +1,18 @@
+{
+  "id": "Q47530595",
+  "name": "savoury pie",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/savoury-pie-q47530595/savoury-pie-q47530595-1.jpeg",
+    "images/savoury-pie-q47530595/savoury-pie-q47530595-2.jpg",
+    "images/savoury-pie-q47530595/savoury-pie-q47530595-3.jpg",
+    "images/savoury-pie-q47530595/savoury-pie-q47530595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47530595",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q483163",
+  "name": "yakitori",
+  "description": "Japanese type of skewered chicken",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yakitori-q483163/yakitori-q483163-1.jpg",
+    "images/yakitori-q483163/yakitori-q483163-2.jpg",
+    "images/yakitori-q483163/yakitori-q483163-3.jpg",
+    "images/yakitori-q483163/yakitori-q483163-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q483163",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4853862",
+  "name": "banana cue",
+  "description": "barbequed banana dish from the Philippines",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-cue-q4853862/banana-cue-q4853862-1.jpg",
+    "images/banana-cue-q4853862/banana-cue-q4853862-2.jpg",
+    "images/banana-cue-q4853862/banana-cue-q4853862-3.jpg",
+    "images/banana-cue-q4853862/banana-cue-q4853862-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4853862",
+    "themealdb": null
+  }
+}

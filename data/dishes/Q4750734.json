@@ -1,0 +1,18 @@
+{
+  "id": "Q4750734",
+  "name": "Anadama bread",
+  "description": "yeast bread from the northeastern United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anadama-bread-q4750734/anadama-bread-q4750734-1.jpg",
+    "images/anadama-bread-q4750734/anadama-bread-q4750734-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4750734",
+    "themealdb": null
+  }
+}

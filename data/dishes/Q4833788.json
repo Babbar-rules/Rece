@@ -1,0 +1,20 @@
+{
+  "id": "Q4833788",
+  "name": "B.C. roll",
+  "description": "sushi containing barbecued salmon and cucumber",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bc-roll-q4833788/bc-roll-q4833788-1.jpg",
+    "images/bc-roll-q4833788/bc-roll-q4833788-2.jpg",
+    "images/bc-roll-q4833788/bc-roll-q4833788-3.jpg",
+    "images/bc-roll-q4833788/bc-roll-q4833788-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4833788",
+    "themealdb": null
+  }
+}

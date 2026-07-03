@@ -1,0 +1,20 @@
+{
+  "id": "Q48745707",
+  "name": "Ogi yōkan",
+  "description": "Japanese confectionery",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ogi-yokan-q48745707/ogi-yokan-q48745707-1.jpg",
+    "images/ogi-yokan-q48745707/ogi-yokan-q48745707-2.jpg",
+    "images/ogi-yokan-q48745707/ogi-yokan-q48745707-3.jpg",
+    "images/ogi-yokan-q48745707/ogi-yokan-q48745707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48745707",
+    "themealdb": null
+  }
+}

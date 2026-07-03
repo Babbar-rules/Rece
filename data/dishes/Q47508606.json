@@ -1,0 +1,18 @@
+{
+  "id": "Q47508606",
+  "name": "beef ravioli",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-ravioli-q47508606/beef-ravioli-q47508606-1.jpg",
+    "images/beef-ravioli-q47508606/beef-ravioli-q47508606-2.jpg",
+    "images/beef-ravioli-q47508606/beef-ravioli-q47508606-3.jpg",
+    "images/beef-ravioli-q47508606/beef-ravioli-q47508606-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q47508606",
+    "themealdb": null
+  }
+}

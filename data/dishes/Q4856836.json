@@ -1,0 +1,21 @@
+{
+  "id": "Q4856836",
+  "name": "Banmian",
+  "description": "Chinese noodle dish",
+  "nationality": [
+    "People's Republic of China",
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banmian-q4856836/banmian-q4856836-1.jpg",
+    "images/banmian-q4856836/banmian-q4856836-2.jpg",
+    "images/banmian-q4856836/banmian-q4856836-3.jpg",
+    "images/banmian-q4856836/banmian-q4856836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4856836",
+    "themealdb": null
+  }
+}

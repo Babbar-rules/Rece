@@ -1,0 +1,18 @@
+{
+  "id": "Q4781285",
+  "name": "apple soup",
+  "description": "soup prepared using apples as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-soup-q4781285/apple-soup-q4781285-1.jpg",
+    "images/apple-soup-q4781285/apple-soup-q4781285-2.jpg",
+    "images/apple-soup-q4781285/apple-soup-q4781285-3.jpg",
+    "images/apple-soup-q4781285/apple-soup-q4781285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4781285",
+    "themealdb": null
+  }
+}

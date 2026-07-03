@@ -1,0 +1,20 @@
+{
+  "id": "Q4850672",
+  "name": "Tamalito de maíz con frijoles",
+  "description": "traditional Honduran dish",
+  "nationality": [
+    "Honduras"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamalito-de-maiz-con-frijoles-q4850672/tamalito-de-maiz-con-frijoles-q4850672-1.jpg",
+    "images/tamalito-de-maiz-con-frijoles-q4850672/tamalito-de-maiz-con-frijoles-q4850672-2.jpg",
+    "images/tamalito-de-maiz-con-frijoles-q4850672/tamalito-de-maiz-con-frijoles-q4850672-3.jpg",
+    "images/tamalito-de-maiz-con-frijoles-q4850672/tamalito-de-maiz-con-frijoles-q4850672-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4850672",
+    "themealdb": null
+  }
+}

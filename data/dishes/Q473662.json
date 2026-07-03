@@ -1,0 +1,20 @@
+{
+  "id": "Q473662",
+  "name": "Mutschel",
+  "description": "bread",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mutschel-q473662/mutschel-q473662-1.jpg",
+    "images/mutschel-q473662/mutschel-q473662-2.jpg",
+    "images/mutschel-q473662/mutschel-q473662-3.jpg",
+    "images/mutschel-q473662/mutschel-q473662-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q473662",
+    "themealdb": null
+  }
+}

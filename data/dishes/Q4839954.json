@@ -1,0 +1,20 @@
+{
+  "id": "Q4839954",
+  "name": "Baconator",
+  "description": "hamburger sold by Wendy's",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baconator-q4839954/baconator-q4839954-1.jpg",
+    "images/baconator-q4839954/baconator-q4839954-2.jpg",
+    "images/baconator-q4839954/baconator-q4839954-3.jpg",
+    "images/baconator-q4839954/baconator-q4839954-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4839954",
+    "themealdb": null
+  }
+}

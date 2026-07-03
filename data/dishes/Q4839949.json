@@ -1,0 +1,18 @@
+{
+  "id": "Q4839949",
+  "name": "Bacon soup",
+  "description": "type of soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-soup-q4839949/bacon-soup-q4839949-1.jpg",
+    "images/bacon-soup-q4839949/bacon-soup-q4839949-2.jpg",
+    "images/bacon-soup-q4839949/bacon-soup-q4839949-3.jpg",
+    "images/bacon-soup-q4839949/bacon-soup-q4839949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4839949",
+    "themealdb": null
+  }
+}

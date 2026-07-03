@@ -1,0 +1,18 @@
+{
+  "id": "Q48731366",
+  "name": "Pakistani bread",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pakistani-bread-q48731366/pakistani-bread-q48731366-1.jpg",
+    "images/pakistani-bread-q48731366/pakistani-bread-q48731366-2.jpg",
+    "images/pakistani-bread-q48731366/pakistani-bread-q48731366-3.jpg",
+    "images/pakistani-bread-q48731366/pakistani-bread-q48731366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q48731366",
+    "themealdb": null
+  }
+}

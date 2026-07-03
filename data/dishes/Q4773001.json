@@ -1,0 +1,21 @@
+{
+  "id": "Q4773001",
+  "name": "qistibi",
+  "description": "bashkir, Tatar and Udmurt flatbread dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Bashkir cuisine",
+    "Tatarstan cuisine"
+  ],
+  "images": [
+    "images/qistibi-q4773001/qistibi-q4773001-1.jpg",
+    "images/qistibi-q4773001/qistibi-q4773001-2.jpg",
+    "images/qistibi-q4773001/qistibi-q4773001-3.jpg",
+    "images/qistibi-q4773001/qistibi-q4773001-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4773001",
+    "themealdb": null
+  }
+}
