@@ -1,0 +1,20 @@
+{
+  "id": "Q16910416",
+  "name": "pârjoale",
+  "description": "Romanian and Moldovan meatballs",
+  "nationality": [
+    "Moldavia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parjoale-q16910416/parjoale-q16910416-1.jpg",
+    "images/parjoale-q16910416/parjoale-q16910416-2.jpg",
+    "images/parjoale-q16910416/parjoale-q16910416-3.jpg",
+    "images/parjoale-q16910416/parjoale-q16910416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16910416",
+    "themealdb": null
+  }
+}

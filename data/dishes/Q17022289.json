@@ -1,0 +1,21 @@
+{
+  "id": "Q17022289",
+  "name": "Staffordshire oatcake",
+  "description": "savoury pancake",
+  "nationality": [
+    "England",
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/staffordshire-oatcake-q17022289/staffordshire-oatcake-q17022289-1.jpg",
+    "images/staffordshire-oatcake-q17022289/staffordshire-oatcake-q17022289-2.jpg",
+    "images/staffordshire-oatcake-q17022289/staffordshire-oatcake-q17022289-3.jpg",
+    "images/staffordshire-oatcake-q17022289/staffordshire-oatcake-q17022289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17022289",
+    "themealdb": null
+  }
+}

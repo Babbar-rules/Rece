@@ -1,0 +1,15 @@
+{
+  "id": "Q16934063",
+  "name": "Mirik meatball",
+  "description": "Turkish Food",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16934063",
+    "themealdb": null
+  }
+}

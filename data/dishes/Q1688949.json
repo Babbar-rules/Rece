@@ -1,0 +1,22 @@
+{
+  "id": "Q1688949",
+  "name": "kürtőskalács",
+  "description": "spit cake",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/kurtoskalacs-q1688949/kurtoskalacs-q1688949-1.jpg",
+    "images/kurtoskalacs-q1688949/kurtoskalacs-q1688949-2.jpg",
+    "images/kurtoskalacs-q1688949/kurtoskalacs-q1688949-3.jpg",
+    "images/kurtoskalacs-q1688949/kurtoskalacs-q1688949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1688949",
+    "themealdb": null
+  }
+}

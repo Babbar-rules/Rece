@@ -1,0 +1,22 @@
+{
+  "id": "Q17031582",
+  "name": "salty biscuit",
+  "description": "Taiwanese salty biscuit",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/salty-biscuit-q17031582/salty-biscuit-q17031582-1.jpg",
+    "images/salty-biscuit-q17031582/salty-biscuit-q17031582-2.jpg",
+    "images/salty-biscuit-q17031582/salty-biscuit-q17031582-3.jpg",
+    "images/salty-biscuit-q17031582/salty-biscuit-q17031582-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17031582",
+    "themealdb": null
+  }
+}

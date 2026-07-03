@@ -1,0 +1,20 @@
+{
+  "id": "Q16909052",
+  "name": "Lobiani",
+  "description": "traditional Georgian dish",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lobiani-q16909052/lobiani-q16909052-1.jpg",
+    "images/lobiani-q16909052/lobiani-q16909052-2.jpg",
+    "images/lobiani-q16909052/lobiani-q16909052-3.jpg",
+    "images/lobiani-q16909052/lobiani-q16909052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16909052",
+    "themealdb": null
+  }
+}

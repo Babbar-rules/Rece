@@ -1,0 +1,20 @@
+{
+  "id": "Q16930441",
+  "name": "şakşuka",
+  "description": "Turkish meze made with eggplant and other veggies fried in olive oil and covered with a tomato-garlic sauce",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saksuka-q16930441/saksuka-q16930441-1.jpg",
+    "images/saksuka-q16930441/saksuka-q16930441-2.jpg",
+    "images/saksuka-q16930441/saksuka-q16930441-3.jpg",
+    "images/saksuka-q16930441/saksuka-q16930441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16930441",
+    "themealdb": null
+  }
+}

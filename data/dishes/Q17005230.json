@@ -1,0 +1,23 @@
+{
+  "id": "Q17005230",
+  "name": "palm nut soup",
+  "description": "soup made from palm fruit",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [
+    "Nigerian cuisine",
+    "Cameroonian cuisine"
+  ],
+  "images": [
+    "images/palm-nut-soup-q17005230/palm-nut-soup-q17005230-1.jpg",
+    "images/palm-nut-soup-q17005230/palm-nut-soup-q17005230-2.jpg",
+    "images/palm-nut-soup-q17005230/palm-nut-soup-q17005230-3.jpg",
+    "images/palm-nut-soup-q17005230/palm-nut-soup-q17005230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17005230",
+    "themealdb": null
+  }
+}

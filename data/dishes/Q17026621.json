@@ -1,0 +1,20 @@
+{
+  "id": "Q17026621",
+  "name": "guodanpi",
+  "description": "fruit leather food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guodanpi-q17026621/guodanpi-q17026621-1.jpg",
+    "images/guodanpi-q17026621/guodanpi-q17026621-2.jpg",
+    "images/guodanpi-q17026621/guodanpi-q17026621-3.jpg",
+    "images/guodanpi-q17026621/guodanpi-q17026621-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17026621",
+    "themealdb": null
+  }
+}

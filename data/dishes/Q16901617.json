@@ -1,0 +1,18 @@
+{
+  "id": "Q16901617",
+  "name": "bolinho de chuva",
+  "description": "small fried dough balls tossed in sugar and cinnamon",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bolinho-de-chuva-q16901617/bolinho-de-chuva-q16901617-1.jpg",
+    "images/bolinho-de-chuva-q16901617/bolinho-de-chuva-q16901617-2.jpg",
+    "images/bolinho-de-chuva-q16901617/bolinho-de-chuva-q16901617-3.jpg",
+    "images/bolinho-de-chuva-q16901617/bolinho-de-chuva-q16901617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16901617",
+    "themealdb": null
+  }
+}

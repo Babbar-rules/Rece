@@ -1,0 +1,17 @@
+{
+  "id": "Q16917893",
+  "name": "Poutchine au sac",
+  "description": "métis bag pudding",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poutchine-au-sac-q16917893/poutchine-au-sac-q16917893-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16917893",
+    "themealdb": null
+  }
+}

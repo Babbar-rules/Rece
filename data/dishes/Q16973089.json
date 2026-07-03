@@ -1,0 +1,20 @@
+{
+  "id": "Q16973089",
+  "name": "Cueritos",
+  "description": "pig skin, usually pickled in vinegar, and can be made with a spicy sauce",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cueritos-q16973089/cueritos-q16973089-1.jpg",
+    "images/cueritos-q16973089/cueritos-q16973089-2.jpg",
+    "images/cueritos-q16973089/cueritos-q16973089-3.jpg",
+    "images/cueritos-q16973089/cueritos-q16973089-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16973089",
+    "themealdb": null
+  }
+}

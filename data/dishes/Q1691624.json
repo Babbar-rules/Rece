@@ -1,0 +1,19 @@
+{
+  "id": "Q1691624",
+  "name": "Piernik of Nysa",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Slavic cuisine",
+    "Silesian cuisine"
+  ],
+  "images": [
+    "images/piernik-of-nysa-q1691624/piernik-of-nysa-q1691624-1.jpg",
+    "images/piernik-of-nysa-q1691624/piernik-of-nysa-q1691624-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1691624",
+    "themealdb": null
+  }
+}

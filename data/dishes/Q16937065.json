@@ -1,0 +1,20 @@
+{
+  "id": "Q16937065",
+  "name": "Kashk e badamjan",
+  "description": "Persian eggplant dish",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kashk-e-badamjan-q16937065/kashk-e-badamjan-q16937065-1.jpg",
+    "images/kashk-e-badamjan-q16937065/kashk-e-badamjan-q16937065-2.jpg",
+    "images/kashk-e-badamjan-q16937065/kashk-e-badamjan-q16937065-3.jpg",
+    "images/kashk-e-badamjan-q16937065/kashk-e-badamjan-q16937065-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16937065",
+    "themealdb": null
+  }
+}

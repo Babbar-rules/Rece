@@ -1,0 +1,20 @@
+{
+  "id": "Q16952446",
+  "name": "crab puff",
+  "description": "ball of crab meat deep-fried in batter",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-puff-q16952446/crab-puff-q16952446-1.jpg",
+    "images/crab-puff-q16952446/crab-puff-q16952446-2.jpg",
+    "images/crab-puff-q16952446/crab-puff-q16952446-3.jpg",
+    "images/crab-puff-q16952446/crab-puff-q16952446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16952446",
+    "themealdb": null
+  }
+}

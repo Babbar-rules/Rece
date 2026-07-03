@@ -1,0 +1,18 @@
+{
+  "id": "Q16947964",
+  "name": "lamb's fry",
+  "description": "lamb offal served as food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lambs-fry-q16947964/lambs-fry-q16947964-1.jpg",
+    "images/lambs-fry-q16947964/lambs-fry-q16947964-2.jpg",
+    "images/lambs-fry-q16947964/lambs-fry-q16947964-3.jpg",
+    "images/lambs-fry-q16947964/lambs-fry-q16947964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16947964",
+    "themealdb": null
+  }
+}

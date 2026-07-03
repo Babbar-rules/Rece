@@ -1,0 +1,21 @@
+{
+  "id": "Q16937041",
+  "name": "Duck à l'orange",
+  "description": "French duck dish",
+  "nationality": [
+    "France",
+    "Béarn"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/duck-a-lorange-q16937041/duck-a-lorange-q16937041-1.jpg",
+    "images/duck-a-lorange-q16937041/duck-a-lorange-q16937041-2.jpg",
+    "images/duck-a-lorange-q16937041/duck-a-lorange-q16937041-3.jpg",
+    "images/duck-a-lorange-q16937041/duck-a-lorange-q16937041-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16937041",
+    "themealdb": null
+  }
+}

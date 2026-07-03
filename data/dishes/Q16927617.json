@@ -1,0 +1,20 @@
+{
+  "id": "Q16927617",
+  "name": "Oysters Bienville",
+  "description": "Seafood recipe",
+  "nationality": [],
+  "region_cuisine": [
+    "Louisiana Creole cuisine"
+  ],
+  "images": [
+    "images/oysters-bienville-q16927617/oysters-bienville-q16927617-1.jpg",
+    "images/oysters-bienville-q16927617/oysters-bienville-q16927617-2.jpg",
+    "images/oysters-bienville-q16927617/oysters-bienville-q16927617-3.jpg",
+    "images/oysters-bienville-q16927617/oysters-bienville-q16927617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16927617",
+    "themealdb": null
+  }
+}

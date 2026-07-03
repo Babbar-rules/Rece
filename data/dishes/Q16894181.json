@@ -1,0 +1,19 @@
+{
+  "id": "Q16894181",
+  "name": "Shottsuru",
+  "description": "Japanese fish sauce",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shottsuru-q16894181/shottsuru-q16894181-1.jpg",
+    "images/shottsuru-q16894181/shottsuru-q16894181-2.jpg",
+    "images/shottsuru-q16894181/shottsuru-q16894181-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16894181",
+    "themealdb": null
+  }
+}

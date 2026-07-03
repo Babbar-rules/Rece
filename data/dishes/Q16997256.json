@@ -1,0 +1,18 @@
+{
+  "id": "Q16997256",
+  "name": "Malvern pudding",
+  "description": "Fruit and custard pudding",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/malvern-pudding-q16997256/malvern-pudding-q16997256-1.jpg",
+    "images/malvern-pudding-q16997256/malvern-pudding-q16997256-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16997256",
+    "themealdb": null
+  }
+}

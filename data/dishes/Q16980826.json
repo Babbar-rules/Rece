@@ -1,0 +1,18 @@
+{
+  "id": "Q16980826",
+  "name": "Jolly Rancher",
+  "description": "candy brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jolly-rancher-q16980826/jolly-rancher-q16980826-1.jpg",
+    "images/jolly-rancher-q16980826/jolly-rancher-q16980826-2.jpg",
+    "images/jolly-rancher-q16980826/jolly-rancher-q16980826-3.jpg",
+    "images/jolly-rancher-q16980826/jolly-rancher-q16980826-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16980826",
+    "themealdb": null
+  }
+}

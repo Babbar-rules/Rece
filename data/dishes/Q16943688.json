@@ -1,0 +1,20 @@
+{
+  "id": "Q16943688",
+  "name": "Pio Quinto",
+  "description": "desert in Nicaragua",
+  "nationality": [
+    "Nicaragua"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pio-quinto-q16943688/pio-quinto-q16943688-1.jpg",
+    "images/pio-quinto-q16943688/pio-quinto-q16943688-2.jpg",
+    "images/pio-quinto-q16943688/pio-quinto-q16943688-3.jpg",
+    "images/pio-quinto-q16943688/pio-quinto-q16943688-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16943688",
+    "themealdb": null
+  }
+}

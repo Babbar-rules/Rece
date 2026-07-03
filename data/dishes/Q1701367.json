@@ -1,0 +1,20 @@
+{
+  "id": "Q1701367",
+  "name": "hutspot",
+  "description": "boiled vegetable dish associated with Dutch cuisine",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hutspot-q1701367/hutspot-q1701367-1.jpg",
+    "images/hutspot-q1701367/hutspot-q1701367-2.jpg",
+    "images/hutspot-q1701367/hutspot-q1701367-3.png",
+    "images/hutspot-q1701367/hutspot-q1701367-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1701367",
+    "themealdb": null
+  }
+}

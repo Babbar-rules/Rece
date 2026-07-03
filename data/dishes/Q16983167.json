@@ -1,0 +1,23 @@
+{
+  "id": "Q16983167",
+  "name": "Hamburg steak",
+  "description": "dish consisting of a patty of ground beef",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine",
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/hamburg-steak-q16983167/hamburg-steak-q16983167-1.jpg",
+    "images/hamburg-steak-q16983167/hamburg-steak-q16983167-2.jpg",
+    "images/hamburg-steak-q16983167/hamburg-steak-q16983167-3.jpg",
+    "images/hamburg-steak-q16983167/hamburg-steak-q16983167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16983167",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16900667",
+  "name": "Salbut",
+  "description": "Tortilla dish from the Yucatán peninsula",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salbut-q16900667/salbut-q16900667-1.jpg",
+    "images/salbut-q16900667/salbut-q16900667-2.jpg",
+    "images/salbut-q16900667/salbut-q16900667-3.jpg",
+    "images/salbut-q16900667/salbut-q16900667-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16900667",
+    "themealdb": null
+  }
+}

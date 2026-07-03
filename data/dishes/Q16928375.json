@@ -1,0 +1,20 @@
+{
+  "id": "Q16928375",
+  "name": "herring soup",
+  "description": "fish soup consisting of a thick mix of water, barley-meal and red herring",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/herring-soup-q16928375/herring-soup-q16928375-1.jpg",
+    "images/herring-soup-q16928375/herring-soup-q16928375-2.jpg",
+    "images/herring-soup-q16928375/herring-soup-q16928375-3.jpg",
+    "images/herring-soup-q16928375/herring-soup-q16928375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16928375",
+    "themealdb": null
+  }
+}

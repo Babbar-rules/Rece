@@ -1,0 +1,20 @@
+{
+  "id": "Q17016362",
+  "name": "Sabich salad",
+  "description": "",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sabich-salad-q17016362/sabich-salad-q17016362-1.jpg",
+    "images/sabich-salad-q17016362/sabich-salad-q17016362-2.jpg",
+    "images/sabich-salad-q17016362/sabich-salad-q17016362-3.jpg",
+    "images/sabich-salad-q17016362/sabich-salad-q17016362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17016362",
+    "themealdb": null
+  }
+}

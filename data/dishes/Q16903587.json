@@ -1,0 +1,18 @@
+{
+  "id": "Q16903587",
+  "name": "Manicotti",
+  "description": "type of tube pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/manicotti-q16903587/manicotti-q16903587-1.jpg",
+    "images/manicotti-q16903587/manicotti-q16903587-2.jpg",
+    "images/manicotti-q16903587/manicotti-q16903587-3.jpg",
+    "images/manicotti-q16903587/manicotti-q16903587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16903587",
+    "themealdb": null
+  }
+}

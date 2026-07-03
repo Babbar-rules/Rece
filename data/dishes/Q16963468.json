@@ -1,0 +1,20 @@
+{
+  "id": "Q16963468",
+  "name": "Mu kratha",
+  "description": "Thai Table-cooked dish",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mu-kratha-q16963468/mu-kratha-q16963468-1.jpg",
+    "images/mu-kratha-q16963468/mu-kratha-q16963468-2.jpg",
+    "images/mu-kratha-q16963468/mu-kratha-q16963468-3.jpg",
+    "images/mu-kratha-q16963468/mu-kratha-q16963468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16963468",
+    "themealdb": null
+  }
+}

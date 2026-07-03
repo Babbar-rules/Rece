@@ -1,0 +1,20 @@
+{
+  "id": "Q17015916",
+  "name": "roscón de reyes",
+  "description": "Spanish and Southern France pastry, traditionally eaten to celebrate Epiphany, with an oval shape and decorated with figs, quinces, cherries, or dried and candied fruits",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roscon-de-reyes-q17015916/roscon-de-reyes-q17015916-1.jpg",
+    "images/roscon-de-reyes-q17015916/roscon-de-reyes-q17015916-2.jpg",
+    "images/roscon-de-reyes-q17015916/roscon-de-reyes-q17015916-3.jpg",
+    "images/roscon-de-reyes-q17015916/roscon-de-reyes-q17015916-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17015916",
+    "themealdb": null
+  }
+}

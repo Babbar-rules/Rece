@@ -1,0 +1,20 @@
+{
+  "id": "Q17002268",
+  "name": "Berner Haselnusslebkuchen",
+  "description": "Swiss gingerbread specialty",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/berner-haselnusslebkuchen-q17002268/berner-haselnusslebkuchen-q17002268-1.png",
+    "images/berner-haselnusslebkuchen-q17002268/berner-haselnusslebkuchen-q17002268-2.png",
+    "images/berner-haselnusslebkuchen-q17002268/berner-haselnusslebkuchen-q17002268-3.jpg",
+    "images/berner-haselnusslebkuchen-q17002268/berner-haselnusslebkuchen-q17002268-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17002268",
+    "themealdb": null
+  }
+}

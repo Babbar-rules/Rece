@@ -1,0 +1,90 @@
+{
+  "id": "Q17027457",
+  "name": "brown stew chicken",
+  "description": "Caribbean dish",
+  "nationality": [
+    "Barbados",
+    "Trinidad and Tobago",
+    "Saint Lucia",
+    "Jamaica",
+    "Grenada",
+    "Antigua and Barbuda",
+    "Dominica"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/brown-stew-chicken-q17027457/brown-stew-chicken-q17027457-1.jpg",
+    "images/brown-stew-chicken-q17027457/brown-stew-chicken-q17027457-2.jpg",
+    "images/brown-stew-chicken-q17027457/brown-stew-chicken-q17027457-3.jpg",
+    "images/brown-stew-chicken-q17027457/brown-stew-chicken-q17027457-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52940",
+    "category": "Chicken",
+    "area": "Jamaican",
+    "instructions": "Squeeze lime over chicken and rub well. Drain off excess lime juice.\r\nCombine tomato, scallion, onion, garlic, pepper, thyme, pimento and soy sauce in a large bowl with the chicken pieces. Cover and marinate at least one hour.\r\nHeat oil in a dutch pot or large saucepan. Shake off the seasonings as you remove each piece of chicken from the marinade. Reserve the marinade for sauce.\r\nLightly brown the chicken a few pieces at a time in very hot oil. Place browned chicken pieces on a plate to rest while you brown the remaining pieces.\r\nDrain off excess oil and return the chicken to the pan. Pour the marinade over the chicken and add the carrots. Stir and cook over medium heat for 10 minutes.\r\nMix flour and coconut milk and add to stew, stirring constantly. Turn heat down to minimum and cook another 20 minutes or until tender.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken",
+        "measure": "1 whole"
+      },
+      {
+        "ingredient": "Tomato",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Onions",
+        "measure": "2 chopped"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "2 chopped"
+      },
+      {
+        "ingredient": "Red Pepper",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Allspice",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "1 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=_gFB1fkNhXs",
+    "thumb": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17027457",
+    "themealdb": "52940"
+  }
+}

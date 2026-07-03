@@ -1,0 +1,22 @@
+{
+  "id": "Q17009352",
+  "name": "Maltese bread",
+  "description": "sourdough bread from Malta",
+  "nationality": [
+    "Malta"
+  ],
+  "region_cuisine": [
+    "Maltese cuisine"
+  ],
+  "images": [
+    "images/maltese-bread-q17009352/maltese-bread-q17009352-1.jpg",
+    "images/maltese-bread-q17009352/maltese-bread-q17009352-2.jpg",
+    "images/maltese-bread-q17009352/maltese-bread-q17009352-3.jpg",
+    "images/maltese-bread-q17009352/maltese-bread-q17009352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17009352",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q16946787",
+  "name": "Majjige huli",
+  "description": "Vegetable curry from Karnataka",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Karnataka cuisine"
+  ],
+  "images": [
+    "images/majjige-huli-q16946787/majjige-huli-q16946787-1.jpg",
+    "images/majjige-huli-q16946787/majjige-huli-q16946787-2.jpg",
+    "images/majjige-huli-q16946787/majjige-huli-q16946787-3.jpg",
+    "images/majjige-huli-q16946787/majjige-huli-q16946787-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16946787",
+    "themealdb": null
+  }
+}

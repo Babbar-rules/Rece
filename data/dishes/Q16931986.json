@@ -1,0 +1,20 @@
+{
+  "id": "Q16931986",
+  "name": "şöbiyet",
+  "description": "a yufka-based dessert from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sobiyet-q16931986/sobiyet-q16931986-1.jpg",
+    "images/sobiyet-q16931986/sobiyet-q16931986-2.jpg",
+    "images/sobiyet-q16931986/sobiyet-q16931986-3.jpg",
+    "images/sobiyet-q16931986/sobiyet-q16931986-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16931986",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q16976976",
+  "name": "Haitian patty",
+  "description": "baked puff pastry",
+  "nationality": [
+    "Haiti"
+  ],
+  "region_cuisine": [
+    "Haitian cuisine"
+  ],
+  "images": [
+    "images/haitian-patty-q16976976/haitian-patty-q16976976-1.jpg",
+    "images/haitian-patty-q16976976/haitian-patty-q16976976-2.jpg",
+    "images/haitian-patty-q16976976/haitian-patty-q16976976-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16976976",
+    "themealdb": null
+  }
+}

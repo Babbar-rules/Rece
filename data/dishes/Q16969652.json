@@ -1,0 +1,20 @@
+{
+  "id": "Q16969652",
+  "name": "shrimp and grits",
+  "description": "dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-and-grits-q16969652/shrimp-and-grits-q16969652-1.jpg",
+    "images/shrimp-and-grits-q16969652/shrimp-and-grits-q16969652-2.jpg",
+    "images/shrimp-and-grits-q16969652/shrimp-and-grits-q16969652-3.jpg",
+    "images/shrimp-and-grits-q16969652/shrimp-and-grits-q16969652-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16969652",
+    "themealdb": null
+  }
+}

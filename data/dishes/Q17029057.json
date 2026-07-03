@@ -1,0 +1,20 @@
+{
+  "id": "Q17029057",
+  "name": "Youbing",
+  "description": "fried dough flatbread of China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/youbing-q17029057/youbing-q17029057-1.jpg",
+    "images/youbing-q17029057/youbing-q17029057-2.jpg",
+    "images/youbing-q17029057/youbing-q17029057-3.jpg",
+    "images/youbing-q17029057/youbing-q17029057-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17029057",
+    "themealdb": null
+  }
+}

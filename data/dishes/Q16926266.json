@@ -1,0 +1,18 @@
+{
+  "id": "Q16926266",
+  "name": "Tong Sui Shop",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tong-sui-shop-q16926266/tong-sui-shop-q16926266-1.jpg",
+    "images/tong-sui-shop-q16926266/tong-sui-shop-q16926266-2.jpg",
+    "images/tong-sui-shop-q16926266/tong-sui-shop-q16926266-3.jpg",
+    "images/tong-sui-shop-q16926266/tong-sui-shop-q16926266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16926266",
+    "themealdb": null
+  }
+}

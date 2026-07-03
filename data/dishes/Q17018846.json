@@ -1,0 +1,22 @@
+{
+  "id": "Q17018846",
+  "name": "potted shrimps",
+  "description": "traditional Lancashire dish of brown shrimp in nutmeg-flavoured butter, which has set in a small pot, the butter acting as a preservative; traditionally eaten with bread.",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/potted-shrimps-q17018846/potted-shrimps-q17018846-1.jpg",
+    "images/potted-shrimps-q17018846/potted-shrimps-q17018846-2.jpg",
+    "images/potted-shrimps-q17018846/potted-shrimps-q17018846-3.jpg",
+    "images/potted-shrimps-q17018846/potted-shrimps-q17018846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17018846",
+    "themealdb": null
+  }
+}

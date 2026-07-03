@@ -1,0 +1,18 @@
+{
+  "id": "Q16941232",
+  "name": "Steak de Burgo",
+  "description": "beef dish from the Midwestern United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-de-burgo-q16941232/steak-de-burgo-q16941232-1.jpg",
+    "images/steak-de-burgo-q16941232/steak-de-burgo-q16941232-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16941232",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17006976",
+  "name": "Shanghai pork chop",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shanghai-pork-chop-q17006976/shanghai-pork-chop-q17006976-1.jpg",
+    "images/shanghai-pork-chop-q17006976/shanghai-pork-chop-q17006976-2.jpg",
+    "images/shanghai-pork-chop-q17006976/shanghai-pork-chop-q17006976-3.jpg",
+    "images/shanghai-pork-chop-q17006976/shanghai-pork-chop-q17006976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17006976",
+    "themealdb": null
+  }
+}

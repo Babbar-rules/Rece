@@ -1,0 +1,18 @@
+{
+  "id": "Q16887568",
+  "name": "Seafood cocktail",
+  "description": "food recipe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/seafood-cocktail-q16887568/seafood-cocktail-q16887568-1.jpg",
+    "images/seafood-cocktail-q16887568/seafood-cocktail-q16887568-2.jpg",
+    "images/seafood-cocktail-q16887568/seafood-cocktail-q16887568-3.jpg",
+    "images/seafood-cocktail-q16887568/seafood-cocktail-q16887568-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16887568",
+    "themealdb": null
+  }
+}

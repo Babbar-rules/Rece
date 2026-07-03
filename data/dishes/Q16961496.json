@@ -1,0 +1,20 @@
+{
+  "id": "Q16961496",
+  "name": "Maxwell Street Polish",
+  "description": "Sausage from Chicago",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maxwell-street-polish-q16961496/maxwell-street-polish-q16961496-1.jpg",
+    "images/maxwell-street-polish-q16961496/maxwell-street-polish-q16961496-2.jpg",
+    "images/maxwell-street-polish-q16961496/maxwell-street-polish-q16961496-3.jpg",
+    "images/maxwell-street-polish-q16961496/maxwell-street-polish-q16961496-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16961496",
+    "themealdb": null
+  }
+}

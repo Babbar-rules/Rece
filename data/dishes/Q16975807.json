@@ -1,0 +1,20 @@
+{
+  "id": "Q16975807",
+  "name": "Cheese slaw",
+  "description": "Salad",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-slaw-q16975807/cheese-slaw-q16975807-1.jpg",
+    "images/cheese-slaw-q16975807/cheese-slaw-q16975807-2.jpg",
+    "images/cheese-slaw-q16975807/cheese-slaw-q16975807-3.jpg",
+    "images/cheese-slaw-q16975807/cheese-slaw-q16975807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16975807",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q16963428",
+  "name": "sulu köfte",
+  "description": "Turkish \"köfte\" dish with its own soup or broth, or better a Turkish stew with meatballs",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sulu-kofte-q16963428/sulu-kofte-q16963428-1.jpg",
+    "images/sulu-kofte-q16963428/sulu-kofte-q16963428-2.jpg",
+    "images/sulu-kofte-q16963428/sulu-kofte-q16963428-3.jpg",
+    "images/sulu-kofte-q16963428/sulu-kofte-q16963428-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16963428",
+    "themealdb": null
+  }
+}

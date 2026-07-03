@@ -1,0 +1,18 @@
+{
+  "id": "Q16911670",
+  "name": "Jhunka",
+  "description": "vegetarian traditional dish of India",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jhunka-q16911670/jhunka-q16911670-1.jpg",
+    "images/jhunka-q16911670/jhunka-q16911670-2.jpg",
+    "images/jhunka-q16911670/jhunka-q16911670-3.jpg",
+    "images/jhunka-q16911670/jhunka-q16911670-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16911670",
+    "themealdb": null
+  }
+}

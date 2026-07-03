@@ -1,0 +1,18 @@
+{
+  "id": "Q17031604",
+  "name": "Spiral Cookies",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spiral-cookies-q17031604/spiral-cookies-q17031604-1.jpg",
+    "images/spiral-cookies-q17031604/spiral-cookies-q17031604-2.jpg",
+    "images/spiral-cookies-q17031604/spiral-cookies-q17031604-3.jpg",
+    "images/spiral-cookies-q17031604/spiral-cookies-q17031604-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17031604",
+    "themealdb": null
+  }
+}

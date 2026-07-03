@@ -1,0 +1,18 @@
+{
+  "id": "Q16957893",
+  "name": "choc ice",
+  "description": "Frozen dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/choc-ice-q16957893/choc-ice-q16957893-1.jpg",
+    "images/choc-ice-q16957893/choc-ice-q16957893-2.jpg",
+    "images/choc-ice-q16957893/choc-ice-q16957893-3.jpg",
+    "images/choc-ice-q16957893/choc-ice-q16957893-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16957893",
+    "themealdb": null
+  }
+}

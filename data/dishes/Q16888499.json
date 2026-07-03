@@ -1,0 +1,20 @@
+{
+  "id": "Q16888499",
+  "name": "Frikkadel",
+  "description": "South African dish",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frikkadel-q16888499/frikkadel-q16888499-1.jpg",
+    "images/frikkadel-q16888499/frikkadel-q16888499-2.jpg",
+    "images/frikkadel-q16888499/frikkadel-q16888499-3.jpg",
+    "images/frikkadel-q16888499/frikkadel-q16888499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16888499",
+    "themealdb": null
+  }
+}

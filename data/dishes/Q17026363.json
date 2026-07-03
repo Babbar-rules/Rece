@@ -1,0 +1,19 @@
+{
+  "id": "Q17026363",
+  "name": "Pixian doubanjiang",
+  "description": "Chinese cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pixian-doubanjiang-q17026363/pixian-doubanjiang-q17026363-1.jpg",
+    "images/pixian-doubanjiang-q17026363/pixian-doubanjiang-q17026363-2.jpg",
+    "images/pixian-doubanjiang-q17026363/pixian-doubanjiang-q17026363-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17026363",
+    "themealdb": null
+  }
+}

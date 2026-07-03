@@ -1,0 +1,22 @@
+{
+  "id": "Q17010544",
+  "name": "Burmese salad",
+  "description": "category of dishes in Burmese cuisine, made of cooked and raw ingredients mixed by hand",
+  "nationality": [
+    "Myanmar"
+  ],
+  "region_cuisine": [
+    "Burmese cuisine"
+  ],
+  "images": [
+    "images/burmese-salad-q17010544/burmese-salad-q17010544-1.jpg",
+    "images/burmese-salad-q17010544/burmese-salad-q17010544-2.jpg",
+    "images/burmese-salad-q17010544/burmese-salad-q17010544-3.jpg",
+    "images/burmese-salad-q17010544/burmese-salad-q17010544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17010544",
+    "themealdb": null
+  }
+}

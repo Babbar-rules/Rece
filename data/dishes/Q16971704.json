@@ -1,0 +1,16 @@
+{
+  "id": "Q16971704",
+  "name": "Bookbinder Soup",
+  "description": "type of seafood soup originating in the USA",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bookbinder-soup-q16971704/bookbinder-soup-q16971704-1.jpg",
+    "images/bookbinder-soup-q16971704/bookbinder-soup-q16971704-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16971704",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q16984961",
+  "name": "hot chicken sandwich",
+  "description": "type of chicken sandwich covered with gravy eaten with utensils, popular in Quebec",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-chicken-sandwich-q16984961/hot-chicken-sandwich-q16984961-1.jpg",
+    "images/hot-chicken-sandwich-q16984961/hot-chicken-sandwich-q16984961-2.jpg",
+    "images/hot-chicken-sandwich-q16984961/hot-chicken-sandwich-q16984961-3.jpg",
+    "images/hot-chicken-sandwich-q16984961/hot-chicken-sandwich-q16984961-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16984961",
+    "themealdb": null
+  }
+}

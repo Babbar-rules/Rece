@@ -1,0 +1,20 @@
+{
+  "id": "Q16979517",
+  "name": "Umai",
+  "description": "Dish of sliced raw fish with vegetables",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/umai-q16979517/umai-q16979517-1.jpg",
+    "images/umai-q16979517/umai-q16979517-2.jpg",
+    "images/umai-q16979517/umai-q16979517-3.jpg",
+    "images/umai-q16979517/umai-q16979517-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16979517",
+    "themealdb": null
+  }
+}

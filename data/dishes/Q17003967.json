@@ -1,0 +1,17 @@
+{
+  "id": "Q17003967",
+  "name": "Guthuk",
+  "description": "Tibetan noodle soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/guthuk-q17003967/guthuk-q17003967-1.jpg",
+    "images/guthuk-q17003967/guthuk-q17003967-2.jpg",
+    "images/guthuk-q17003967/guthuk-q17003967-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17003967",
+    "themealdb": null
+  }
+}

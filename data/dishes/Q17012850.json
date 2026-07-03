@@ -1,0 +1,18 @@
+{
+  "id": "Q17012850",
+  "name": "apple cider cookie",
+  "description": "cookie made with apple cider",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-cider-cookie-q17012850/apple-cider-cookie-q17012850-1.jpg",
+    "images/apple-cider-cookie-q17012850/apple-cider-cookie-q17012850-2.png",
+    "images/apple-cider-cookie-q17012850/apple-cider-cookie-q17012850-3.jpg",
+    "images/apple-cider-cookie-q17012850/apple-cider-cookie-q17012850-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17012850",
+    "themealdb": null
+  }
+}

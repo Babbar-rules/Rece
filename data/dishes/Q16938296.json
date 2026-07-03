@@ -1,0 +1,18 @@
+{
+  "id": "Q16938296",
+  "name": "lufu",
+  "description": "type of fermented bean curd",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lufu-q16938296/lufu-q16938296-1.jpg",
+    "images/lufu-q16938296/lufu-q16938296-2.jpg",
+    "images/lufu-q16938296/lufu-q16938296-3.png",
+    "images/lufu-q16938296/lufu-q16938296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16938296",
+    "themealdb": null
+  }
+}

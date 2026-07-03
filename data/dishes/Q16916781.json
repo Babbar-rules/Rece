@@ -1,0 +1,19 @@
+{
+  "id": "Q16916781",
+  "name": "Shrimp Louie",
+  "description": "salad dish from California, United States",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-louie-q16916781/shrimp-louie-q16916781-1.jpg",
+    "images/shrimp-louie-q16916781/shrimp-louie-q16916781-2.jpg",
+    "images/shrimp-louie-q16916781/shrimp-louie-q16916781-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16916781",
+    "themealdb": null
+  }
+}

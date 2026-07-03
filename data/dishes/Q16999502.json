@@ -1,0 +1,20 @@
+{
+  "id": "Q16999502",
+  "name": "Mami soup",
+  "description": "type of noodle soup",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mami-soup-q16999502/mami-soup-q16999502-1.jpg",
+    "images/mami-soup-q16999502/mami-soup-q16999502-2.jpg",
+    "images/mami-soup-q16999502/mami-soup-q16999502-3.jpg",
+    "images/mami-soup-q16999502/mami-soup-q16999502-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16999502",
+    "themealdb": null
+  }
+}

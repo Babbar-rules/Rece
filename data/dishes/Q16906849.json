@@ -1,0 +1,22 @@
+{
+  "id": "Q16906849",
+  "name": "kuru fasulye",
+  "description": "Turkish bean stew",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/kuru-fasulye-q16906849/kuru-fasulye-q16906849-1.jpg",
+    "images/kuru-fasulye-q16906849/kuru-fasulye-q16906849-2.jpg",
+    "images/kuru-fasulye-q16906849/kuru-fasulye-q16906849-3.jpg",
+    "images/kuru-fasulye-q16906849/kuru-fasulye-q16906849-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16906849",
+    "themealdb": null
+  }
+}

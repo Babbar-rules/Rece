@@ -1,0 +1,18 @@
+{
+  "id": "Q16902896",
+  "name": "platter",
+  "description": "dish or a meal served on a platter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/platter-q16902896/platter-q16902896-1.jpg",
+    "images/platter-q16902896/platter-q16902896-2.jpg",
+    "images/platter-q16902896/platter-q16902896-3.jpg",
+    "images/platter-q16902896/platter-q16902896-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16902896",
+    "themealdb": null
+  }
+}

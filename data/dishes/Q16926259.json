@@ -1,0 +1,20 @@
+{
+  "id": "Q16926259",
+  "name": "snake soup",
+  "description": "Cantonese soup, consisting of the meats of multiple types of snakes, chrysanthemum leaves and spices",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/snake-soup-q16926259/snake-soup-q16926259-1.jpg",
+    "images/snake-soup-q16926259/snake-soup-q16926259-2.jpg",
+    "images/snake-soup-q16926259/snake-soup-q16926259-3.jpg",
+    "images/snake-soup-q16926259/snake-soup-q16926259-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16926259",
+    "themealdb": null
+  }
+}

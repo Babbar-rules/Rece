@@ -1,0 +1,20 @@
+{
+  "id": "Q17011735",
+  "name": "pearl meatballs",
+  "description": "Steamed pork meatballs in sticky rice",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pearl-meatballs-q17011735/pearl-meatballs-q17011735-1.jpg",
+    "images/pearl-meatballs-q17011735/pearl-meatballs-q17011735-2.jpg",
+    "images/pearl-meatballs-q17011735/pearl-meatballs-q17011735-3.jpg",
+    "images/pearl-meatballs-q17011735/pearl-meatballs-q17011735-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17011735",
+    "themealdb": null
+  }
+}

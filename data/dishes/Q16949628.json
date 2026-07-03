@@ -1,0 +1,18 @@
+{
+  "id": "Q16949628",
+  "name": "Coconut drop",
+  "description": "Jamaican cuisine dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-drop-q16949628/coconut-drop-q16949628-1.jpg",
+    "images/coconut-drop-q16949628/coconut-drop-q16949628-2.jpg",
+    "images/coconut-drop-q16949628/coconut-drop-q16949628-3.jpg",
+    "images/coconut-drop-q16949628/coconut-drop-q16949628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16949628",
+    "themealdb": null
+  }
+}

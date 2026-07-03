@@ -1,0 +1,20 @@
+{
+  "id": "Q1690265",
+  "name": "Kugelis",
+  "description": "Lithuanian potato dish",
+  "nationality": [
+    "Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kugelis-q1690265/kugelis-q1690265-1.jpg",
+    "images/kugelis-q1690265/kugelis-q1690265-2.jpg",
+    "images/kugelis-q1690265/kugelis-q1690265-3.jpg",
+    "images/kugelis-q1690265/kugelis-q1690265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1690265",
+    "themealdb": null
+  }
+}

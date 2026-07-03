@@ -1,0 +1,19 @@
+{
+  "id": "Q16943314",
+  "name": "Scali bread",
+  "description": "braided Italian bread from Boston",
+  "nationality": [
+    "United States",
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scali-bread-q16943314/scali-bread-q16943314-1.jpg",
+    "images/scali-bread-q16943314/scali-bread-q16943314-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16943314",
+    "themealdb": null
+  }
+}

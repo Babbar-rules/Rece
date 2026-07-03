@@ -1,0 +1,20 @@
+{
+  "id": "Q17005444",
+  "name": "Imqaret",
+  "description": "Maltese date pastry",
+  "nationality": [],
+  "region_cuisine": [
+    "Maltese cuisine"
+  ],
+  "images": [
+    "images/imqaret-q17005444/imqaret-q17005444-1.jpg",
+    "images/imqaret-q17005444/imqaret-q17005444-2.jpg",
+    "images/imqaret-q17005444/imqaret-q17005444-3.jpg",
+    "images/imqaret-q17005444/imqaret-q17005444-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17005444",
+    "themealdb": null
+  }
+}

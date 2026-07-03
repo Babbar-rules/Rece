@@ -1,0 +1,22 @@
+{
+  "id": "Q16999470",
+  "name": "Shizuoka oden",
+  "description": "food in Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/shizuoka-oden-q16999470/shizuoka-oden-q16999470-1.jpg",
+    "images/shizuoka-oden-q16999470/shizuoka-oden-q16999470-2.jpg",
+    "images/shizuoka-oden-q16999470/shizuoka-oden-q16999470-3.jpg",
+    "images/shizuoka-oden-q16999470/shizuoka-oden-q16999470-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16999470",
+    "themealdb": null
+  }
+}
