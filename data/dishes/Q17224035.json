@@ -1,0 +1,20 @@
+{
+  "id": "Q17224035",
+  "name": "tofu steak",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tofu-steak-q17224035/tofu-steak-q17224035-1.jpg",
+    "images/tofu-steak-q17224035/tofu-steak-q17224035-2.jpg",
+    "images/tofu-steak-q17224035/tofu-steak-q17224035-3.jpg",
+    "images/tofu-steak-q17224035/tofu-steak-q17224035-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17224035",
+    "themealdb": null
+  }
+}

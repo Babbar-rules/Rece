@@ -1,0 +1,25 @@
+{
+  "id": "Q1726195",
+  "name": "Syrniki",
+  "description": "fried cheese pancakes from Eastern cuisine",
+  "nationality": [
+    "Ukraine",
+    "Eastern Europe"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/syrniki-q1726195/syrniki-q1726195-1.jpg",
+    "images/syrniki-q1726195/syrniki-q1726195-2.jpg",
+    "images/syrniki-q1726195/syrniki-q1726195-3.jpg",
+    "images/syrniki-q1726195/syrniki-q1726195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1726195",
+    "themealdb": null
+  }
+}

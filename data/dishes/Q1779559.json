@@ -1,0 +1,20 @@
+{
+  "id": "Q1779559",
+  "name": "kololak",
+  "description": "",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/kololak-q1779559/kololak-q1779559-1.jpg",
+    "images/kololak-q1779559/kololak-q1779559-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1779559",
+    "themealdb": null
+  }
+}

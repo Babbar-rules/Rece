@@ -1,0 +1,22 @@
+{
+  "id": "Q1776997",
+  "name": "Cozonac",
+  "description": "sweet leavened bread, traditional in the Balkans",
+  "nationality": [
+    "Moldova",
+    "Romania",
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cozonac-q1776997/cozonac-q1776997-1.jpg",
+    "images/cozonac-q1776997/cozonac-q1776997-2.jpg",
+    "images/cozonac-q1776997/cozonac-q1776997-3.jpg",
+    "images/cozonac-q1776997/cozonac-q1776997-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1776997",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Q177",
+  "name": "pizza",
+  "description": "Italian universal popular dish with a flat dough-based base and toppings",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/pizza-q177/pizza-q177-1.jpg",
+    "images/pizza-q177/pizza-q177-2.jpg",
+    "images/pizza-q177/pizza-q177-3.jpg",
+    "images/pizza-q177/pizza-q177-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53330",
+    "category": "Pork",
+    "area": "Venezuela",
+    "instructions": "Preheat the oven to 200ºC.\r\nCut the bacon or chorizo into medium pieces and the paprika into strips.\r\nSpread a little tomato sauce and mozzarella cheese on each portion of cassava.\r\nAdd the bacon or chorizo, corn, turkey ham, some olives and paprika.\r\nBake for 7 to 10 minutes.\r\nRemove from the oven and enjoy.",
+    "ingredients": [
+      {
+        "ingredient": "Casabe",
+        "measure": "6 cut thick slices"
+      },
+      {
+        "ingredient": "Tomato Sauce",
+        "measure": "450g"
+      },
+      {
+        "ingredient": "Chorizo",
+        "measure": "225g"
+      },
+      {
+        "ingredient": "Turkey Ham",
+        "measure": "225g"
+      },
+      {
+        "ingredient": "Sweetcorn",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Green Olives",
+        "measure": "40g"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "55g"
+      },
+      {
+        "ingredient": "Mozzarella",
+        "measure": "50g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=3fK4zsa2AYM",
+    "thumb": "https://www.themealdb.com/images/media/meals/lrfdwz1764438393.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q177",
+    "themealdb": "53330"
+  }
+}

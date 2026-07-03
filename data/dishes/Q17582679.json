@@ -1,0 +1,18 @@
+{
+  "id": "Q17582679",
+  "name": "bird's nest soup",
+  "description": "soup made from the saliva of the edible-nest swiftlet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/birds-nest-soup-q17582679/birds-nest-soup-q17582679-1.jpg",
+    "images/birds-nest-soup-q17582679/birds-nest-soup-q17582679-2.jpg",
+    "images/birds-nest-soup-q17582679/birds-nest-soup-q17582679-3.jpg",
+    "images/birds-nest-soup-q17582679/birds-nest-soup-q17582679-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17582679",
+    "themealdb": null
+  }
+}

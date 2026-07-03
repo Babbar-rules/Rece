@@ -1,0 +1,21 @@
+{
+  "id": "Q1756289",
+  "name": "fried bread",
+  "description": "bread that was cooked in hot fat or oil by a shallow pan",
+  "nationality": [
+    "Bohemia",
+    "Moravia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-bread-q1756289/fried-bread-q1756289-1.jpg",
+    "images/fried-bread-q1756289/fried-bread-q1756289-2.jpg",
+    "images/fried-bread-q1756289/fried-bread-q1756289-3.jpg",
+    "images/fried-bread-q1756289/fried-bread-q1756289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1756289",
+    "themealdb": null
+  }
+}

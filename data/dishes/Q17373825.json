@@ -1,0 +1,20 @@
+{
+  "id": "Q17373825",
+  "name": "pandispanya",
+  "description": "Turkish cake",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pandispanya-q17373825/pandispanya-q17373825-1.png",
+    "images/pandispanya-q17373825/pandispanya-q17373825-2.png",
+    "images/pandispanya-q17373825/pandispanya-q17373825-3.jpg",
+    "images/pandispanya-q17373825/pandispanya-q17373825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17373825",
+    "themealdb": null
+  }
+}

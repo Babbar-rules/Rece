@@ -1,0 +1,20 @@
+{
+  "id": "Q1790835",
+  "name": "cioccolato di Modica",
+  "description": "Italian specialty chocolate",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cioccolato-di-modica-q1790835/cioccolato-di-modica-q1790835-1.jpg",
+    "images/cioccolato-di-modica-q1790835/cioccolato-di-modica-q1790835-2.jpg",
+    "images/cioccolato-di-modica-q1790835/cioccolato-di-modica-q1790835-3.jpg",
+    "images/cioccolato-di-modica-q1790835/cioccolato-di-modica-q1790835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1790835",
+    "themealdb": null
+  }
+}

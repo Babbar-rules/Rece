@@ -1,0 +1,22 @@
+{
+  "id": "Q177564",
+  "name": "pico de gallo",
+  "description": "Mexican condiment",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Mexican cuisine"
+  ],
+  "images": [
+    "images/pico-de-gallo-q177564/pico-de-gallo-q177564-1.jpg",
+    "images/pico-de-gallo-q177564/pico-de-gallo-q177564-2.jpg",
+    "images/pico-de-gallo-q177564/pico-de-gallo-q177564-3.jpg",
+    "images/pico-de-gallo-q177564/pico-de-gallo-q177564-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q177564",
+    "themealdb": null
+  }
+}

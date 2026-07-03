@@ -1,0 +1,20 @@
+{
+  "id": "Q17229022",
+  "name": "Taiwan mazesoba",
+  "description": "Japanese dry noodle dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taiwan-mazesoba-q17229022/taiwan-mazesoba-q17229022-1.jpg",
+    "images/taiwan-mazesoba-q17229022/taiwan-mazesoba-q17229022-2.jpg",
+    "images/taiwan-mazesoba-q17229022/taiwan-mazesoba-q17229022-3.jpg",
+    "images/taiwan-mazesoba-q17229022/taiwan-mazesoba-q17229022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17229022",
+    "themealdb": null
+  }
+}

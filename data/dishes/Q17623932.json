@@ -1,0 +1,17 @@
+{
+  "id": "Q17623932",
+  "name": "whole stuffed camel",
+  "description": "fictional dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/whole-stuffed-camel-q17623932/whole-stuffed-camel-q17623932-1.jpg",
+    "images/whole-stuffed-camel-q17623932/whole-stuffed-camel-q17623932-2.jpg",
+    "images/whole-stuffed-camel-q17623932/whole-stuffed-camel-q17623932-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17623932",
+    "themealdb": null
+  }
+}

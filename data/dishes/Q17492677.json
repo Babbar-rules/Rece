@@ -1,0 +1,18 @@
+{
+  "id": "Q17492677",
+  "name": "Mugoyo",
+  "description": "Mashed sweet potatoes and beans",
+  "nationality": [
+    "Uganda"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mugoyo-q17492677/mugoyo-q17492677-1.jpg",
+    "images/mugoyo-q17492677/mugoyo-q17492677-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17492677",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17747219",
+  "name": "Ansom chek",
+  "description": "",
+  "nationality": [
+    "Cambodia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ansom-chek-q17747219/ansom-chek-q17747219-1.jpg",
+    "images/ansom-chek-q17747219/ansom-chek-q17747219-2.jpg",
+    "images/ansom-chek-q17747219/ansom-chek-q17747219-3.jpg",
+    "images/ansom-chek-q17747219/ansom-chek-q17747219-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17747219",
+    "themealdb": null
+  }
+}

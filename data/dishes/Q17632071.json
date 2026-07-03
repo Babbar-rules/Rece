@@ -1,0 +1,17 @@
+{
+  "id": "Q17632071",
+  "name": "tripa mishki",
+  "description": "tripe dish",
+  "nationality": [
+    "Ecuador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tripa-mishki-q17632071/tripa-mishki-q17632071-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17632071",
+    "themealdb": null
+  }
+}

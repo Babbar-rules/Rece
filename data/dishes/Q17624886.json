@@ -1,0 +1,18 @@
+{
+  "id": "Q17624886",
+  "name": "pepián",
+  "description": "Guatemalan stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pepian-q17624886/pepian-q17624886-1.jpg",
+    "images/pepian-q17624886/pepian-q17624886-2.jpg",
+    "images/pepian-q17624886/pepian-q17624886-3.jpg",
+    "images/pepian-q17624886/pepian-q17624886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17624886",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17213511",
+  "name": "Funabashi sauce ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/funabashi-sauce-ramen-q17213511/funabashi-sauce-ramen-q17213511-1.jpg",
+    "images/funabashi-sauce-ramen-q17213511/funabashi-sauce-ramen-q17213511-2.jpg",
+    "images/funabashi-sauce-ramen-q17213511/funabashi-sauce-ramen-q17213511-3.jpg",
+    "images/funabashi-sauce-ramen-q17213511/funabashi-sauce-ramen-q17213511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17213511",
+    "themealdb": null
+  }
+}

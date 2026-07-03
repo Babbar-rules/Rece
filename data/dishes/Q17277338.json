@@ -1,0 +1,20 @@
+{
+  "id": "Q17277338",
+  "name": "iga penyet",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iga-penyet-q17277338/iga-penyet-q17277338-1.jpg",
+    "images/iga-penyet-q17277338/iga-penyet-q17277338-2.jpg",
+    "images/iga-penyet-q17277338/iga-penyet-q17277338-3.jpg",
+    "images/iga-penyet-q17277338/iga-penyet-q17277338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17277338",
+    "themealdb": null
+  }
+}

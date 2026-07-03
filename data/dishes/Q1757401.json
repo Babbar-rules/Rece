@@ -1,0 +1,18 @@
+{
+  "id": "Q1757401",
+  "name": "Svið",
+  "description": "Icelandic dish made from sheep's head",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/svi-q1757401/svi-q1757401-1.jpg",
+    "images/svi-q1757401/svi-q1757401-2.jpg",
+    "images/svi-q1757401/svi-q1757401-3.jpg",
+    "images/svi-q1757401/svi-q1757401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1757401",
+    "themealdb": null
+  }
+}

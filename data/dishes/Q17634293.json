@@ -1,0 +1,17 @@
+{
+  "id": "Q17634293",
+  "name": "miód kurpiowski",
+  "description": "Polish honey",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miod-kurpiowski-q17634293/miod-kurpiowski-q17634293-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17634293",
+    "themealdb": null
+  }
+}

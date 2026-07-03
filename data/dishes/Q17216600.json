@@ -1,0 +1,18 @@
+{
+  "id": "Q17216600",
+  "name": "kurobō",
+  "description": "Japanese baked confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kurobo-q17216600/kurobo-q17216600-1.jpg",
+    "images/kurobo-q17216600/kurobo-q17216600-2.jpg",
+    "images/kurobo-q17216600/kurobo-q17216600-3.jpg",
+    "images/kurobo-q17216600/kurobo-q17216600-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17216600",
+    "themealdb": null
+  }
+}

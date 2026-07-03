@@ -1,0 +1,20 @@
+{
+  "id": "Q17499646",
+  "name": "tea dessert",
+  "description": "food consumed while drinking tea",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tea-dessert-q17499646/tea-dessert-q17499646-1.jpg",
+    "images/tea-dessert-q17499646/tea-dessert-q17499646-2.jpg",
+    "images/tea-dessert-q17499646/tea-dessert-q17499646-3.jpg",
+    "images/tea-dessert-q17499646/tea-dessert-q17499646-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17499646",
+    "themealdb": null
+  }
+}

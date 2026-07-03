@@ -1,0 +1,21 @@
+{
+  "id": "Q1778505",
+  "name": "Bamsemums",
+  "description": "bear shaped chocolate-covered marshmallow candy from Norway",
+  "nationality": [
+    "Norway",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bamsemums-q1778505/bamsemums-q1778505-1.jpg",
+    "images/bamsemums-q1778505/bamsemums-q1778505-2.jpg",
+    "images/bamsemums-q1778505/bamsemums-q1778505-3.jpg",
+    "images/bamsemums-q1778505/bamsemums-q1778505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1778505",
+    "themealdb": null
+  }
+}

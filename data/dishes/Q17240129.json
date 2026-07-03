@@ -1,0 +1,19 @@
+{
+  "id": "Q17240129",
+  "name": "Kinugasadon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kinugasadon-q17240129/kinugasadon-q17240129-1.jpg",
+    "images/kinugasadon-q17240129/kinugasadon-q17240129-2.jpg",
+    "images/kinugasadon-q17240129/kinugasadon-q17240129-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17240129",
+    "themealdb": null
+  }
+}

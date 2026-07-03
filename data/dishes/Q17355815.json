@@ -1,0 +1,20 @@
+{
+  "id": "Q17355815",
+  "name": "balık ekmek",
+  "description": "fried or grilled fish in a bread loaf",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balk-ekmek-q17355815/balk-ekmek-q17355815-1.jpg",
+    "images/balk-ekmek-q17355815/balk-ekmek-q17355815-2.jpg",
+    "images/balk-ekmek-q17355815/balk-ekmek-q17355815-3.jpg",
+    "images/balk-ekmek-q17355815/balk-ekmek-q17355815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17355815",
+    "themealdb": null
+  }
+}

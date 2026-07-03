@@ -1,0 +1,20 @@
+{
+  "id": "Q17219214",
+  "name": "sujikon",
+  "description": "Japanese dish; Beef tendon and konnyaku",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sujikon-q17219214/sujikon-q17219214-1.jpg",
+    "images/sujikon-q17219214/sujikon-q17219214-2.jpg",
+    "images/sujikon-q17219214/sujikon-q17219214-3.jpg",
+    "images/sujikon-q17219214/sujikon-q17219214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17219214",
+    "themealdb": null
+  }
+}

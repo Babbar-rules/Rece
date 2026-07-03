@@ -1,0 +1,18 @@
+{
+  "id": "Q17501980",
+  "name": "nigori",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nigori-q17501980/nigori-q17501980-1.jpg",
+    "images/nigori-q17501980/nigori-q17501980-2.jpg",
+    "images/nigori-q17501980/nigori-q17501980-3.jpg",
+    "images/nigori-q17501980/nigori-q17501980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17501980",
+    "themealdb": null
+  }
+}

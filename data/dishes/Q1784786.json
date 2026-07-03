@@ -1,0 +1,72 @@
+{
+  "id": "Q1784786",
+  "name": "Pisto",
+  "description": "Spanish dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/pisto-q1784786/pisto-q1784786-1.jpg",
+    "images/pisto-q1784786/pisto-q1784786-2.jpg",
+    "images/pisto-q1784786/pisto-q1784786-3.jpg",
+    "images/pisto-q1784786/pisto-q1784786-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52911",
+    "category": "Vegetarian",
+    "area": "France",
+    "instructions": "Heat the oil in a large pan and fry the leeks and courgette for 5 mins to soften. Pour in the stock, add three-quarters of the haricot beans with the green beans, half the tomatoes, and simmer for 5-8 mins until the vegetables are tender.\r\nMeanwhile, blitz the remaining beans and tomatoes, the garlic and basil in a food processor (or in a bowl with a stick blender) until smooth, then stir in the Parmesan. Stir the sauce into the soup, cook for 1 min, then ladle half into bowls or pour into a flask for a packed lunch. Chill the remainder. Will keep for a couple of days.",
+    "ingredients": [
+      {
+        "ingredient": "Rapeseed Oil",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Leek",
+        "measure": "2 finely chopped"
+      },
+      {
+        "ingredient": "Courgettes",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Vegetable Stock",
+        "measure": "1L"
+      },
+      {
+        "ingredient": "Cannellini Beans",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Green Beans",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "3 chopped"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "3 chopped"
+      },
+      {
+        "ingredient": "Basil",
+        "measure": "Small pack"
+      },
+      {
+        "ingredient": "Parmesan",
+        "measure": "40g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=fyeqZJKEXp0",
+    "thumb": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1784786",
+    "themealdb": "52911"
+  }
+}

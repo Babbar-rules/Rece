@@ -1,0 +1,18 @@
+{
+  "id": "Q1785926",
+  "name": "Freia Melkesjokolade",
+  "description": "chocolate product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/freia-melkesjokolade-q1785926/freia-melkesjokolade-q1785926-1.jpg",
+    "images/freia-melkesjokolade-q1785926/freia-melkesjokolade-q1785926-2.jpg",
+    "images/freia-melkesjokolade-q1785926/freia-melkesjokolade-q1785926-3.jpg",
+    "images/freia-melkesjokolade-q1785926/freia-melkesjokolade-q1785926-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1785926",
+    "themealdb": null
+  }
+}

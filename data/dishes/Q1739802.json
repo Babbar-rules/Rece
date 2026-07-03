@@ -1,0 +1,22 @@
+{
+  "id": "Q1739802",
+  "name": "Cooked pig's head",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "Czech cuisine",
+    "Austrian cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/cooked-pigs-head-q1739802/cooked-pigs-head-q1739802-1.jpg",
+    "images/cooked-pigs-head-q1739802/cooked-pigs-head-q1739802-2.jpg",
+    "images/cooked-pigs-head-q1739802/cooked-pigs-head-q1739802-3.jpg",
+    "images/cooked-pigs-head-q1739802/cooked-pigs-head-q1739802-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1739802",
+    "themealdb": null
+  }
+}

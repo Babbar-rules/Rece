@@ -1,0 +1,20 @@
+{
+  "id": "Q17223469",
+  "name": "Korzh",
+  "description": "Ukrainian flatbread",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/korzh-q17223469/korzh-q17223469-1.jpg",
+    "images/korzh-q17223469/korzh-q17223469-2.jpg",
+    "images/korzh-q17223469/korzh-q17223469-3.jpg",
+    "images/korzh-q17223469/korzh-q17223469-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17223469",
+    "themealdb": null
+  }
+}

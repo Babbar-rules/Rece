@@ -1,0 +1,20 @@
+{
+  "id": "Q1759775",
+  "name": "tartiflette",
+  "description": "French baked potato dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tartiflette-q1759775/tartiflette-q1759775-1.jpg",
+    "images/tartiflette-q1759775/tartiflette-q1759775-2.jpg",
+    "images/tartiflette-q1759775/tartiflette-q1759775-3.jpg",
+    "images/tartiflette-q1759775/tartiflette-q1759775-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1759775",
+    "themealdb": null
+  }
+}

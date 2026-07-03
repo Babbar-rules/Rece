@@ -1,0 +1,20 @@
+{
+  "id": "Q179158",
+  "name": "cream of mushroom soup",
+  "description": "type of soup",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cream-of-mushroom-soup-q179158/cream-of-mushroom-soup-q179158-1.jpg",
+    "images/cream-of-mushroom-soup-q179158/cream-of-mushroom-soup-q179158-2.jpg",
+    "images/cream-of-mushroom-soup-q179158/cream-of-mushroom-soup-q179158-3.jpg",
+    "images/cream-of-mushroom-soup-q179158/cream-of-mushroom-soup-q179158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q179158",
+    "themealdb": null
+  }
+}

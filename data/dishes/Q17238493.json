@@ -1,0 +1,18 @@
+{
+  "id": "Q17238493",
+  "name": "Ippon Manzoku Bar",
+  "description": "Japanese chocolate bar bland",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ippon-manzoku-bar-q17238493/ippon-manzoku-bar-q17238493-1.png",
+    "images/ippon-manzoku-bar-q17238493/ippon-manzoku-bar-q17238493-2.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17238493",
+    "themealdb": null
+  }
+}

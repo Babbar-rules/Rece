@@ -1,0 +1,18 @@
+{
+  "id": "Q1759129",
+  "name": "Solero",
+  "description": "brand of ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/solero-q1759129/solero-q1759129-1.jpg",
+    "images/solero-q1759129/solero-q1759129-2.jpg",
+    "images/solero-q1759129/solero-q1759129-3.jpg",
+    "images/solero-q1759129/solero-q1759129-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1759129",
+    "themealdb": null
+  }
+}

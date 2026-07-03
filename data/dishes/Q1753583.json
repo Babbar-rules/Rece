@@ -1,0 +1,18 @@
+{
+  "id": "Q1753583",
+  "name": "Hefekranz",
+  "description": "sweet bread from the Germanic region",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hefekranz-q1753583/hefekranz-q1753583-1.jpg",
+    "images/hefekranz-q1753583/hefekranz-q1753583-2.jpg",
+    "images/hefekranz-q1753583/hefekranz-q1753583-3.jpg",
+    "images/hefekranz-q1753583/hefekranz-q1753583-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1753583",
+    "themealdb": null
+  }
+}

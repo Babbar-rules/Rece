@@ -1,0 +1,21 @@
+{
+  "id": "Q1787022",
+  "name": "crab soup",
+  "description": "German and French dish usually consumed during Lent",
+  "nationality": [
+    "France",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-soup-q1787022/crab-soup-q1787022-1.jpg",
+    "images/crab-soup-q1787022/crab-soup-q1787022-2.jpg",
+    "images/crab-soup-q1787022/crab-soup-q1787022-3.jpg",
+    "images/crab-soup-q1787022/crab-soup-q1787022-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1787022",
+    "themealdb": null
+  }
+}

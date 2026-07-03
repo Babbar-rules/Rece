@@ -1,0 +1,18 @@
+{
+  "id": "Q17274349",
+  "name": "asado con cuero",
+  "description": "Argentine beef dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/asado-con-cuero-q17274349/asado-con-cuero-q17274349-1.jpg",
+    "images/asado-con-cuero-q17274349/asado-con-cuero-q17274349-2.jpg",
+    "images/asado-con-cuero-q17274349/asado-con-cuero-q17274349-3.jpg",
+    "images/asado-con-cuero-q17274349/asado-con-cuero-q17274349-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17274349",
+    "themealdb": null
+  }
+}

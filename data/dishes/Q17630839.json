@@ -1,0 +1,20 @@
+{
+  "id": "Q17630839",
+  "name": "escabeche oriental",
+  "description": "Mexican fish dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/escabeche-oriental-q17630839/escabeche-oriental-q17630839-1.jpg",
+    "images/escabeche-oriental-q17630839/escabeche-oriental-q17630839-2.jpg",
+    "images/escabeche-oriental-q17630839/escabeche-oriental-q17630839-3.jpg",
+    "images/escabeche-oriental-q17630839/escabeche-oriental-q17630839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17630839",
+    "themealdb": null
+  }
+}

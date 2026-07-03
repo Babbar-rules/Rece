@@ -1,0 +1,18 @@
+{
+  "id": "Q17451766",
+  "name": "Sinjski arambaši",
+  "description": "Croatian meat dish",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sinjski-arambasi-q17451766/sinjski-arambasi-q17451766-1.jpg",
+    "images/sinjski-arambasi-q17451766/sinjski-arambasi-q17451766-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17451766",
+    "themealdb": null
+  }
+}

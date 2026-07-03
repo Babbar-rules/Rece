@@ -1,0 +1,20 @@
+{
+  "id": "Q17192296",
+  "name": "alfort",
+  "description": "Japanese chocolate biscuit",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/alfort-q17192296/alfort-q17192296-1.jpg",
+    "images/alfort-q17192296/alfort-q17192296-2.jpg",
+    "images/alfort-q17192296/alfort-q17192296-3.jpg",
+    "images/alfort-q17192296/alfort-q17192296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17192296",
+    "themealdb": null
+  }
+}

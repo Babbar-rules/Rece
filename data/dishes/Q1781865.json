@@ -1,0 +1,20 @@
+{
+  "id": "Q1781865",
+  "name": "Konowata",
+  "description": "Japanese seafood",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/konowata-q1781865/konowata-q1781865-1.jpg",
+    "images/konowata-q1781865/konowata-q1781865-2.jpg",
+    "images/konowata-q1781865/konowata-q1781865-3.jpg",
+    "images/konowata-q1781865/konowata-q1781865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1781865",
+    "themealdb": null
+  }
+}

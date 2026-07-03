@@ -1,0 +1,18 @@
+{
+  "id": "Q1746803",
+  "name": "small pastry",
+  "description": "pastry category",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/small-pastry-q1746803/small-pastry-q1746803-1.jpg",
+    "images/small-pastry-q1746803/small-pastry-q1746803-2.jpg",
+    "images/small-pastry-q1746803/small-pastry-q1746803-3.jpg",
+    "images/small-pastry-q1746803/small-pastry-q1746803-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1746803",
+    "themealdb": null
+  }
+}

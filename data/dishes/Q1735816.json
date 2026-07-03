@@ -1,0 +1,15 @@
+{
+  "id": "Q1735816",
+  "name": "katemeshi",
+  "description": "Japanese peasant food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/katemeshi-q1735816/katemeshi-q1735816-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1735816",
+    "themealdb": null
+  }
+}

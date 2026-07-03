@@ -1,0 +1,20 @@
+{
+  "id": "Q17255569",
+  "name": "Haşhaşlı çörek",
+  "description": "Turkish \"çörek\" with poppy seeds.",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hashasl-corek-q17255569/hashasl-corek-q17255569-1.jpg",
+    "images/hashasl-corek-q17255569/hashasl-corek-q17255569-2.jpg",
+    "images/hashasl-corek-q17255569/hashasl-corek-q17255569-3.jpg",
+    "images/hashasl-corek-q17255569/hashasl-corek-q17255569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17255569",
+    "themealdb": null
+  }
+}

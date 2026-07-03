@@ -1,0 +1,16 @@
+{
+  "id": "Q17217665",
+  "name": "kenkera",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kenkera-q17217665/kenkera-q17217665-1.jpg",
+    "images/kenkera-q17217665/kenkera-q17217665-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17217665",
+    "themealdb": null
+  }
+}

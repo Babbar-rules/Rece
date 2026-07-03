@@ -1,0 +1,18 @@
+{
+  "id": "Q17637181",
+  "name": "Président",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/president-q17637181/president-q17637181-1.jpg",
+    "images/president-q17637181/president-q17637181-2.png",
+    "images/president-q17637181/president-q17637181-3.jpg",
+    "images/president-q17637181/president-q17637181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17637181",
+    "themealdb": null
+  }
+}

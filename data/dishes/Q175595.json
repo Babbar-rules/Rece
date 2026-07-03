@@ -1,0 +1,20 @@
+{
+  "id": "Q175595",
+  "name": "kaiseki",
+  "description": "traditional multi-course Japanese dinner",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaiseki-q175595/kaiseki-q175595-1.jpg",
+    "images/kaiseki-q175595/kaiseki-q175595-2.jpg",
+    "images/kaiseki-q175595/kaiseki-q175595-3.jpg",
+    "images/kaiseki-q175595/kaiseki-q175595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q175595",
+    "themealdb": null
+  }
+}

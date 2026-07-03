@@ -1,0 +1,20 @@
+{
+  "id": "Q176063",
+  "name": "currywurst",
+  "description": "fast food dish of German origin",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/currywurst-q176063/currywurst-q176063-1.jpg",
+    "images/currywurst-q176063/currywurst-q176063-2.jpg",
+    "images/currywurst-q176063/currywurst-q176063-3.jpg",
+    "images/currywurst-q176063/currywurst-q176063-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q176063",
+    "themealdb": null
+  }
+}

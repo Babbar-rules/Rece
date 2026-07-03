@@ -1,0 +1,17 @@
+{
+  "id": "Q17210625",
+  "name": "takosen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/takosen-q17210625/takosen-q17210625-1.jpeg",
+    "images/takosen-q17210625/takosen-q17210625-2.jpeg",
+    "images/takosen-q17210625/takosen-q17210625-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17210625",
+    "themealdb": null
+  }
+}

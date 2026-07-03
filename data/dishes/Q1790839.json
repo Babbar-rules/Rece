@@ -1,0 +1,20 @@
+{
+  "id": "Q1790839",
+  "name": "Pulla",
+  "description": "Finnish pastry",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pulla-q1790839/pulla-q1790839-1.jpg",
+    "images/pulla-q1790839/pulla-q1790839-2.jpg",
+    "images/pulla-q1790839/pulla-q1790839-3.jpg",
+    "images/pulla-q1790839/pulla-q1790839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1790839",
+    "themealdb": null
+  }
+}

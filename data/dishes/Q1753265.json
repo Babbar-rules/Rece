@@ -1,0 +1,20 @@
+{
+  "id": "Q1753265",
+  "name": "skordalia",
+  "description": "potato-based dish",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/skordalia-q1753265/skordalia-q1753265-1.jpg",
+    "images/skordalia-q1753265/skordalia-q1753265-2.jpg",
+    "images/skordalia-q1753265/skordalia-q1753265-3.jpg",
+    "images/skordalia-q1753265/skordalia-q1753265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1753265",
+    "themealdb": null
+  }
+}

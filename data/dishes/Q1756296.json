@@ -1,0 +1,22 @@
+{
+  "id": "Q1756296",
+  "name": "Spaghettieis",
+  "description": "German ice cream dish",
+  "nationality": [
+    "West Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/spaghettieis-q1756296/spaghettieis-q1756296-1.jpg",
+    "images/spaghettieis-q1756296/spaghettieis-q1756296-2.jpg",
+    "images/spaghettieis-q1756296/spaghettieis-q1756296-3.jpg",
+    "images/spaghettieis-q1756296/spaghettieis-q1756296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1756296",
+    "themealdb": null
+  }
+}

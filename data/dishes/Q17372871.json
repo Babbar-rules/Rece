@@ -1,0 +1,20 @@
+{
+  "id": "Q17372871",
+  "name": "boyoz",
+  "description": "Turkish sephardic \"çörek\" or bun",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boyoz-q17372871/boyoz-q17372871-1.jpg",
+    "images/boyoz-q17372871/boyoz-q17372871-2.jpg",
+    "images/boyoz-q17372871/boyoz-q17372871-3.jpg",
+    "images/boyoz-q17372871/boyoz-q17372871-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17372871",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1781099",
+  "name": "surf and turf",
+  "description": "U.S. dish of seafood (e.g. lobster) and red meat (e.g. beefsteak)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/surf-and-turf-q1781099/surf-and-turf-q1781099-1.jpg",
+    "images/surf-and-turf-q1781099/surf-and-turf-q1781099-2.jpg",
+    "images/surf-and-turf-q1781099/surf-and-turf-q1781099-3.jpg",
+    "images/surf-and-turf-q1781099/surf-and-turf-q1781099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1781099",
+    "themealdb": null
+  }
+}

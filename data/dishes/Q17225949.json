@@ -1,0 +1,20 @@
+{
+  "id": "Q17225949",
+  "name": "Sasebo burger",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sasebo-burger-q17225949/sasebo-burger-q17225949-1.jpg",
+    "images/sasebo-burger-q17225949/sasebo-burger-q17225949-2.jpg",
+    "images/sasebo-burger-q17225949/sasebo-burger-q17225949-3.jpg",
+    "images/sasebo-burger-q17225949/sasebo-burger-q17225949-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17225949",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1755668",
+  "name": "taimen",
+  "description": "Noodle cooked in sea bream broth",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taimen-q1755668/taimen-q1755668-1.jpg",
+    "images/taimen-q1755668/taimen-q1755668-2.jpg",
+    "images/taimen-q1755668/taimen-q1755668-3.jpg",
+    "images/taimen-q1755668/taimen-q1755668-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1755668",
+    "themealdb": null
+  }
+}

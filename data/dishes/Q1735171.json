@@ -1,0 +1,72 @@
+{
+  "id": "Q1735171",
+  "name": "Kaspressknödel",
+  "description": "",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/kaspressknodel-q1735171/kaspressknodel-q1735171-1.jpg",
+    "images/kaspressknodel-q1735171/kaspressknodel-q1735171-2.jpg",
+    "images/kaspressknodel-q1735171/kaspressknodel-q1735171-3.jpg",
+    "images/kaspressknodel-q1735171/kaspressknodel-q1735171-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53445",
+    "category": "Vegetarian",
+    "area": null,
+    "instructions": "Step 1\r\nMix the cubed white bread with the milk, season with salt, and let the mixture rest for a while.\r\n\r\nStep 2\r\nNow add the shredded potatoes, the grated cheese, eggs, and parsley.\r\n\r\nStep 3\r\nMelt the butter and fry the cubed onions until golden brown in colour and put into the mixture.\r\n\r\nStep 4\r\nAdd the flour and gently knead the dough. Shape it into round dumplings, gently press them flat and fry them on both sides in butter until golden brown.\r\n\r\nStep 5\r\nServe in clear broth.",
+    "ingredients": [
+      {
+        "ingredient": "Bread",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Cheese",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Potatoes",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Flour",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "250ml"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "For frying"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/x26z3y1780155760.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1735171",
+    "themealdb": "53445"
+  }
+}

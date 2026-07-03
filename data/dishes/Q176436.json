@@ -1,0 +1,24 @@
+{
+  "id": "Q176436",
+  "name": "zrazy",
+  "description": "meat roulade dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Polish cuisine",
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/zrazy-q176436/zrazy-q176436-1.jpg",
+    "images/zrazy-q176436/zrazy-q176436-2.jpg",
+    "images/zrazy-q176436/zrazy-q176436-3.jpg",
+    "images/zrazy-q176436/zrazy-q176436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q176436",
+    "themealdb": null
+  }
+}

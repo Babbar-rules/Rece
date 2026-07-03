@@ -1,0 +1,18 @@
+{
+  "id": "Q1722629",
+  "name": "cold platter",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cold-platter-q1722629/cold-platter-q1722629-1.jpg",
+    "images/cold-platter-q1722629/cold-platter-q1722629-2.jpg",
+    "images/cold-platter-q1722629/cold-platter-q1722629-3.jpg",
+    "images/cold-platter-q1722629/cold-platter-q1722629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1722629",
+    "themealdb": null
+  }
+}

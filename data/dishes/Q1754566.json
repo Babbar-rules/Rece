@@ -1,0 +1,18 @@
+{
+  "id": "Q1754566",
+  "name": "chocolate spread",
+  "description": "sweet chocolate-flavored spread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-spread-q1754566/chocolate-spread-q1754566-1.jpg",
+    "images/chocolate-spread-q1754566/chocolate-spread-q1754566-2.jpg",
+    "images/chocolate-spread-q1754566/chocolate-spread-q1754566-3.jpg",
+    "images/chocolate-spread-q1754566/chocolate-spread-q1754566-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1754566",
+    "themealdb": null
+  }
+}

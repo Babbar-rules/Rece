@@ -1,0 +1,18 @@
+{
+  "id": "Q1769523",
+  "name": "fondant",
+  "description": "a type of icing used to decorate cakes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fondant-q1769523/fondant-q1769523-1.jpg",
+    "images/fondant-q1769523/fondant-q1769523-2.jpg",
+    "images/fondant-q1769523/fondant-q1769523-3.jpg",
+    "images/fondant-q1769523/fondant-q1769523-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1769523",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1749682",
+  "name": "Hollandse Nieuwe",
+  "description": "raw herring soaked in a mild preserving liquid",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hollandse-nieuwe-q1749682/hollandse-nieuwe-q1749682-1.jpg",
+    "images/hollandse-nieuwe-q1749682/hollandse-nieuwe-q1749682-2.jpg",
+    "images/hollandse-nieuwe-q1749682/hollandse-nieuwe-q1749682-3.jpg",
+    "images/hollandse-nieuwe-q1749682/hollandse-nieuwe-q1749682-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1749682",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17680151",
+  "name": "Eggplant Caviar",
+  "description": "Paste made from eggplant / aubergine / brinjal",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eggplant-caviar-q17680151/eggplant-caviar-q17680151-1.jpg",
+    "images/eggplant-caviar-q17680151/eggplant-caviar-q17680151-2.jpg",
+    "images/eggplant-caviar-q17680151/eggplant-caviar-q17680151-3.jpg",
+    "images/eggplant-caviar-q17680151/eggplant-caviar-q17680151-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17680151",
+    "themealdb": null
+  }
+}

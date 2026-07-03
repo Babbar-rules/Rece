@@ -1,0 +1,18 @@
+{
+  "id": "Q1750052",
+  "name": "reindling",
+  "description": "traditional Carinthian cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reindling-q1750052/reindling-q1750052-1.jpg",
+    "images/reindling-q1750052/reindling-q1750052-2.jpg",
+    "images/reindling-q1750052/reindling-q1750052-3.jpg",
+    "images/reindling-q1750052/reindling-q1750052-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1750052",
+    "themealdb": null
+  }
+}

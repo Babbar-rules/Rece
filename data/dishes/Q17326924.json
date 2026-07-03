@@ -1,0 +1,20 @@
+{
+  "id": "Q17326924",
+  "name": "Weggli",
+  "description": "Swiss milk-based bread roll",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/weggli-q17326924/weggli-q17326924-1.jpg",
+    "images/weggli-q17326924/weggli-q17326924-2.png",
+    "images/weggli-q17326924/weggli-q17326924-3.png",
+    "images/weggli-q17326924/weggli-q17326924-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17326924",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17175691",
+  "name": "casse-croûte",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/casse-croute-q17175691/casse-croute-q17175691-1.jpg",
+    "images/casse-croute-q17175691/casse-croute-q17175691-2.jpg",
+    "images/casse-croute-q17175691/casse-croute-q17175691-3.jpg",
+    "images/casse-croute-q17175691/casse-croute-q17175691-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17175691",
+    "themealdb": null
+  }
+}

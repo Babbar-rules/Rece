@@ -1,0 +1,20 @@
+{
+  "id": "Q17271604",
+  "name": "pilav",
+  "description": "Turkish style rice, bulgur or pasta dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pilav-q17271604/pilav-q17271604-1.jpg",
+    "images/pilav-q17271604/pilav-q17271604-2.jpg",
+    "images/pilav-q17271604/pilav-q17271604-3.jpg",
+    "images/pilav-q17271604/pilav-q17271604-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17271604",
+    "themealdb": null
+  }
+}

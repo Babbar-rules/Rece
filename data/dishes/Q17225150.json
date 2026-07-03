@@ -1,0 +1,16 @@
+{
+  "id": "Q17225150",
+  "name": "otaguri",
+  "description": "local cuisine; horse offal stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/otaguri-q17225150/otaguri-q17225150-1.jpg",
+    "images/otaguri-q17225150/otaguri-q17225150-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17225150",
+    "themealdb": null
+  }
+}

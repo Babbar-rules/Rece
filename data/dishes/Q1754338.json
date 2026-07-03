@@ -1,0 +1,20 @@
+{
+  "id": "Q1754338",
+  "name": "Mbejú paraguayo",
+  "description": "comida tipica paraguaya",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mbeju-paraguayo-q1754338/mbeju-paraguayo-q1754338-1.jpg",
+    "images/mbeju-paraguayo-q1754338/mbeju-paraguayo-q1754338-2.jpg",
+    "images/mbeju-paraguayo-q1754338/mbeju-paraguayo-q1754338-3.jpg",
+    "images/mbeju-paraguayo-q1754338/mbeju-paraguayo-q1754338-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1754338",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q1718008",
+  "name": "Sugus",
+  "description": "Swiss candy brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugus-q1718008/sugus-q1718008-1.jpg",
+    "images/sugus-q1718008/sugus-q1718008-2.jpg",
+    "images/sugus-q1718008/sugus-q1718008-3.jpg",
+    "images/sugus-q1718008/sugus-q1718008-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1718008",
+    "themealdb": null
+  }
+}

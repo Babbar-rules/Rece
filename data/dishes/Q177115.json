@@ -1,0 +1,22 @@
+{
+  "id": "Q177115",
+  "name": "ploughman's lunch",
+  "description": "British cold meal based around bread, cheese, and fresh or pickled onions",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/ploughmans-lunch-q177115/ploughmans-lunch-q177115-1.jpg",
+    "images/ploughmans-lunch-q177115/ploughmans-lunch-q177115-2.jpg",
+    "images/ploughmans-lunch-q177115/ploughmans-lunch-q177115-3.jpg",
+    "images/ploughmans-lunch-q177115/ploughmans-lunch-q177115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q177115",
+    "themealdb": null
+  }
+}

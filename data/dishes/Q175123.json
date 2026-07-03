@@ -1,0 +1,20 @@
+{
+  "id": "Q175123",
+  "name": "kroppkaka",
+  "description": "Swedish potato dumpling",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/kroppkaka-q175123/kroppkaka-q175123-1.jpg",
+    "images/kroppkaka-q175123/kroppkaka-q175123-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q175123",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1759289",
+  "name": "laddu",
+  "description": "Sphere shaped sweet originating from the Indian sub-continent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laddu-q1759289/laddu-q1759289-1.jpg",
+    "images/laddu-q1759289/laddu-q1759289-2.jpg",
+    "images/laddu-q1759289/laddu-q1759289-3.jpg",
+    "images/laddu-q1759289/laddu-q1759289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1759289",
+    "themealdb": null
+  }
+}

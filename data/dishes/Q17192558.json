@@ -1,0 +1,18 @@
+{
+  "id": "Q17192558",
+  "name": "candied angelica",
+  "description": "candied stems of angelica species",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/candied-angelica-q17192558/candied-angelica-q17192558-1.jpg",
+    "images/candied-angelica-q17192558/candied-angelica-q17192558-2.jpg",
+    "images/candied-angelica-q17192558/candied-angelica-q17192558-3.jpg",
+    "images/candied-angelica-q17192558/candied-angelica-q17192558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17192558",
+    "themealdb": null
+  }
+}

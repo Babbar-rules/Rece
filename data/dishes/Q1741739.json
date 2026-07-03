@@ -1,0 +1,18 @@
+{
+  "id": "Q1741739",
+  "name": "Kinder Freude",
+  "description": "brand of chocolate eggs owned by Ferrero SpA",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-freude-q1741739/kinder-freude-q1741739-1.jpg",
+    "images/kinder-freude-q1741739/kinder-freude-q1741739-2.jpg",
+    "images/kinder-freude-q1741739/kinder-freude-q1741739-3.jpg",
+    "images/kinder-freude-q1741739/kinder-freude-q1741739-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1741739",
+    "themealdb": null
+  }
+}

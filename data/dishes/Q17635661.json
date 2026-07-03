@@ -1,0 +1,20 @@
+{
+  "id": "Q17635661",
+  "name": "Nekkache",
+  "description": "",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nekkache-q17635661/nekkache-q17635661-1.jpg",
+    "images/nekkache-q17635661/nekkache-q17635661-2.png",
+    "images/nekkache-q17635661/nekkache-q17635661-3.jpg",
+    "images/nekkache-q17635661/nekkache-q17635661-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17635661",
+    "themealdb": null
+  }
+}

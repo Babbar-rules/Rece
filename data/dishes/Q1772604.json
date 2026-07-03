@@ -1,0 +1,22 @@
+{
+  "id": "Q1772604",
+  "name": "faworki",
+  "description": "dish of Poland",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/faworki-q1772604/faworki-q1772604-1.jpg",
+    "images/faworki-q1772604/faworki-q1772604-2.jpg",
+    "images/faworki-q1772604/faworki-q1772604-3.jpg",
+    "images/faworki-q1772604/faworki-q1772604-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1772604",
+    "themealdb": null
+  }
+}

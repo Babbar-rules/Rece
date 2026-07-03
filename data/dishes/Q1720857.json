@@ -1,0 +1,20 @@
+{
+  "id": "Q1720857",
+  "name": "Kabsa",
+  "description": "Arab rice dish",
+  "nationality": [
+    "Yemen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kabsa-q1720857/kabsa-q1720857-1.jpg",
+    "images/kabsa-q1720857/kabsa-q1720857-2.jpg",
+    "images/kabsa-q1720857/kabsa-q1720857-3.jpg",
+    "images/kabsa-q1720857/kabsa-q1720857-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1720857",
+    "themealdb": null
+  }
+}

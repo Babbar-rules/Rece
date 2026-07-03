@@ -1,0 +1,17 @@
+{
+  "id": "Q17189867",
+  "name": "JAL de SKY",
+  "description": "world first airline cup noodle series",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jal-de-sky-q17189867/jal-de-sky-q17189867-1.jpg",
+    "images/jal-de-sky-q17189867/jal-de-sky-q17189867-2.jpg",
+    "images/jal-de-sky-q17189867/jal-de-sky-q17189867-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17189867",
+    "themealdb": null
+  }
+}

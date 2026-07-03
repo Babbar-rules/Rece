@@ -1,0 +1,20 @@
+{
+  "id": "Q1772569",
+  "name": "Ahlgrens bilar",
+  "description": "type of sweets",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ahlgrens-bilar-q1772569/ahlgrens-bilar-q1772569-1.jpg",
+    "images/ahlgrens-bilar-q1772569/ahlgrens-bilar-q1772569-2.jpg",
+    "images/ahlgrens-bilar-q1772569/ahlgrens-bilar-q1772569-3.jpg",
+    "images/ahlgrens-bilar-q1772569/ahlgrens-bilar-q1772569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1772569",
+    "themealdb": null
+  }
+}

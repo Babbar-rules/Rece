@@ -1,0 +1,18 @@
+{
+  "id": "Q1780501",
+  "name": "Raffaello",
+  "description": "Italian brand of confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raffaello-q1780501/raffaello-q1780501-1.jpg",
+    "images/raffaello-q1780501/raffaello-q1780501-2.jpg",
+    "images/raffaello-q1780501/raffaello-q1780501-3.png",
+    "images/raffaello-q1780501/raffaello-q1780501-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1780501",
+    "themealdb": null
+  }
+}

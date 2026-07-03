@@ -1,0 +1,20 @@
+{
+  "id": "Q17280693",
+  "name": "Baccalà alla lucana",
+  "description": "christmas dish of cod and red peppers from Basilicata, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baccala-alla-lucana-q17280693/baccala-alla-lucana-q17280693-1.jpg",
+    "images/baccala-alla-lucana-q17280693/baccala-alla-lucana-q17280693-2.jpg",
+    "images/baccala-alla-lucana-q17280693/baccala-alla-lucana-q17280693-3.jpg",
+    "images/baccala-alla-lucana-q17280693/baccala-alla-lucana-q17280693-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17280693",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q1742211",
+  "name": "Kenkey",
+  "description": "staple dish",
+  "nationality": [
+    "Ghana"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kenkey-q1742211/kenkey-q1742211-1.jpg",
+    "images/kenkey-q1742211/kenkey-q1742211-2.jpg",
+    "images/kenkey-q1742211/kenkey-q1742211-3.jpg",
+    "images/kenkey-q1742211/kenkey-q1742211-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1742211",
+    "themealdb": null
+  }
+}

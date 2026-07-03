@@ -1,0 +1,20 @@
+{
+  "id": "Q1791462",
+  "name": "coulibiac",
+  "description": "Russian pie",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coulibiac-q1791462/coulibiac-q1791462-1.jpg",
+    "images/coulibiac-q1791462/coulibiac-q1791462-2.jpg",
+    "images/coulibiac-q1791462/coulibiac-q1791462-3.jpg",
+    "images/coulibiac-q1791462/coulibiac-q1791462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1791462",
+    "themealdb": null
+  }
+}

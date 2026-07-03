@@ -1,0 +1,23 @@
+{
+  "id": "Q17747125",
+  "name": "Dal dhokli",
+  "description": "Indian lentil dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Rajasthani cuisine",
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/dal-dhokli-q17747125/dal-dhokli-q17747125-1.jpg",
+    "images/dal-dhokli-q17747125/dal-dhokli-q17747125-2.jpg",
+    "images/dal-dhokli-q17747125/dal-dhokli-q17747125-3.jpg",
+    "images/dal-dhokli-q17747125/dal-dhokli-q17747125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17747125",
+    "themealdb": null
+  }
+}

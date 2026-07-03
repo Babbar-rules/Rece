@@ -1,0 +1,18 @@
+{
+  "id": "Q1762398",
+  "name": "Mohnkuchen",
+  "description": "poppy seed dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mohnkuchen-q1762398/mohnkuchen-q1762398-1.jpg",
+    "images/mohnkuchen-q1762398/mohnkuchen-q1762398-2.jpg",
+    "images/mohnkuchen-q1762398/mohnkuchen-q1762398-3.jpg",
+    "images/mohnkuchen-q1762398/mohnkuchen-q1762398-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1762398",
+    "themealdb": null
+  }
+}

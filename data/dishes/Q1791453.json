@@ -1,0 +1,26 @@
+{
+  "id": "Q1791453",
+  "name": "kulish",
+  "description": "dish from Belarusian and Ukrainian cuisine",
+  "nationality": [
+    "Belarus",
+    "Ukraine"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Hungarian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/kulish-q1791453/kulish-q1791453-1.png",
+    "images/kulish-q1791453/kulish-q1791453-2.jpg",
+    "images/kulish-q1791453/kulish-q1791453-3.jpg",
+    "images/kulish-q1791453/kulish-q1791453-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1791453",
+    "themealdb": null
+  }
+}

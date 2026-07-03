@@ -1,0 +1,20 @@
+{
+  "id": "Q1752705",
+  "name": "Milky Way",
+  "description": "chocolate bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/milky-way-q1752705/milky-way-q1752705-1.jpg",
+    "images/milky-way-q1752705/milky-way-q1752705-2.jpg",
+    "images/milky-way-q1752705/milky-way-q1752705-3.jpg",
+    "images/milky-way-q1752705/milky-way-q1752705-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1752705",
+    "themealdb": null
+  }
+}

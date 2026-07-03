@@ -1,0 +1,20 @@
+{
+  "id": "Q178143",
+  "name": "ketchup",
+  "description": "table condiment usually made of tomatoes",
+  "nationality": [
+    "Ukrainian Soviet Socialist Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ketchup-q178143/ketchup-q178143-1.jpg",
+    "images/ketchup-q178143/ketchup-q178143-2.jpg",
+    "images/ketchup-q178143/ketchup-q178143-3.jpg",
+    "images/ketchup-q178143/ketchup-q178143-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q178143",
+    "themealdb": null
+  }
+}

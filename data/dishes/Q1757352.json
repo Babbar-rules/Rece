@@ -1,0 +1,18 @@
+{
+  "id": "Q1757352",
+  "name": "soy yogurt",
+  "description": "yogurt prepared with soy milk-",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-yogurt-q1757352/soy-yogurt-q1757352-1.jpg",
+    "images/soy-yogurt-q1757352/soy-yogurt-q1757352-2.jpg",
+    "images/soy-yogurt-q1757352/soy-yogurt-q1757352-3.jpg",
+    "images/soy-yogurt-q1757352/soy-yogurt-q1757352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1757352",
+    "themealdb": null
+  }
+}

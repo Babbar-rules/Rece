@@ -1,0 +1,20 @@
+{
+  "id": "Q1748014",
+  "name": "Baby Ruth",
+  "description": "candy bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-ruth-q1748014/baby-ruth-q1748014-1.jpg",
+    "images/baby-ruth-q1748014/baby-ruth-q1748014-2.jpg",
+    "images/baby-ruth-q1748014/baby-ruth-q1748014-3.jpg",
+    "images/baby-ruth-q1748014/baby-ruth-q1748014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1748014",
+    "themealdb": null
+  }
+}

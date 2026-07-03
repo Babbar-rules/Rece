@@ -1,0 +1,18 @@
+{
+  "id": "Q1737564",
+  "name": "kazunoko",
+  "description": "Japanese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kazunoko-q1737564/kazunoko-q1737564-1.jpg",
+    "images/kazunoko-q1737564/kazunoko-q1737564-2.jpg",
+    "images/kazunoko-q1737564/kazunoko-q1737564-3.jpg",
+    "images/kazunoko-q1737564/kazunoko-q1737564-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1737564",
+    "themealdb": null
+  }
+}

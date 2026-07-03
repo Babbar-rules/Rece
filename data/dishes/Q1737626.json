@@ -1,0 +1,20 @@
+{
+  "id": "Q1737626",
+  "name": "presnitz",
+  "description": "pastry from Trieste, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/presnitz-q1737626/presnitz-q1737626-1.jpg",
+    "images/presnitz-q1737626/presnitz-q1737626-2.jpg",
+    "images/presnitz-q1737626/presnitz-q1737626-3.jpg",
+    "images/presnitz-q1737626/presnitz-q1737626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1737626",
+    "themealdb": null
+  }
+}

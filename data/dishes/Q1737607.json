@@ -1,0 +1,18 @@
+{
+  "id": "Q1737607",
+  "name": "Schmandkuchen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schmandkuchen-q1737607/schmandkuchen-q1737607-1.jpg",
+    "images/schmandkuchen-q1737607/schmandkuchen-q1737607-2.jpg",
+    "images/schmandkuchen-q1737607/schmandkuchen-q1737607-3.jpg",
+    "images/schmandkuchen-q1737607/schmandkuchen-q1737607-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1737607",
+    "themealdb": null
+  }
+}

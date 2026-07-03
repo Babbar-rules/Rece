@@ -1,0 +1,18 @@
+{
+  "id": "Q1763170",
+  "name": "Ritz Crackers",
+  "description": "brand of snack cracker",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ritz-crackers-q1763170/ritz-crackers-q1763170-1.jpg",
+    "images/ritz-crackers-q1763170/ritz-crackers-q1763170-2.jpg",
+    "images/ritz-crackers-q1763170/ritz-crackers-q1763170-3.jpg",
+    "images/ritz-crackers-q1763170/ritz-crackers-q1763170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1763170",
+    "themealdb": null
+  }
+}

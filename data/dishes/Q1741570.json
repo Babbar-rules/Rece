@@ -1,0 +1,20 @@
+{
+  "id": "Q1741570",
+  "name": "Linzer Augen",
+  "description": "Austrian cookie",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/linzer-augen-q1741570/linzer-augen-q1741570-1.jpg",
+    "images/linzer-augen-q1741570/linzer-augen-q1741570-2.jpg",
+    "images/linzer-augen-q1741570/linzer-augen-q1741570-3.jpg",
+    "images/linzer-augen-q1741570/linzer-augen-q1741570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1741570",
+    "themealdb": null
+  }
+}

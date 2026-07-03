@@ -1,0 +1,19 @@
+{
+  "id": "Q17635889",
+  "name": "kak'ik",
+  "description": "Guatemalan turkey leg stew",
+  "nationality": [
+    "Guatemala"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kakik-q17635889/kakik-q17635889-1.png",
+    "images/kakik-q17635889/kakik-q17635889-2.jpg",
+    "images/kakik-q17635889/kakik-q17635889-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17635889",
+    "themealdb": null
+  }
+}
