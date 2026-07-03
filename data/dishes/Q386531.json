@@ -1,0 +1,18 @@
+{
+  "id": "Q386531",
+  "name": "Death by Chocolate",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/death-by-chocolate-q386531/death-by-chocolate-q386531-1.jpg",
+    "images/death-by-chocolate-q386531/death-by-chocolate-q386531-2.jpg",
+    "images/death-by-chocolate-q386531/death-by-chocolate-q386531-3.jpg",
+    "images/death-by-chocolate-q386531/death-by-chocolate-q386531-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q386531",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3950519",
+  "name": "Sardenaira",
+  "description": "type of focaccia from Sanremo, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sardenaira-q3950519/sardenaira-q3950519-1.jpg",
+    "images/sardenaira-q3950519/sardenaira-q3950519-2.jpg",
+    "images/sardenaira-q3950519/sardenaira-q3950519-3.jpg",
+    "images/sardenaira-q3950519/sardenaira-q3950519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3950519",
+    "themealdb": null
+  }
+}

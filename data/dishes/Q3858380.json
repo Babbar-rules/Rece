@@ -1,0 +1,23 @@
+{
+  "id": "Q3858380",
+  "name": "wedding soup",
+  "description": "Italian soup consisting of green vegetables and meat",
+  "nationality": [
+    "United States",
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/wedding-soup-q3858380/wedding-soup-q3858380-1.jpg",
+    "images/wedding-soup-q3858380/wedding-soup-q3858380-2.jpg",
+    "images/wedding-soup-q3858380/wedding-soup-q3858380-3.jpg",
+    "images/wedding-soup-q3858380/wedding-soup-q3858380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3858380",
+    "themealdb": null
+  }
+}

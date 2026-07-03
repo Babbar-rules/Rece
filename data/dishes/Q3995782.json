@@ -1,0 +1,21 @@
+{
+  "id": "Q3995782",
+  "name": "Torrone Nurzia",
+  "description": "Italian chocolate nougat",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Abruzzese cuisine"
+  ],
+  "images": [
+    "images/torrone-nurzia-q3995782/torrone-nurzia-q3995782-1.jpg",
+    "images/torrone-nurzia-q3995782/torrone-nurzia-q3995782-2.jpg",
+    "images/torrone-nurzia-q3995782/torrone-nurzia-q3995782-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995782",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4001072",
+  "name": "Twister",
+  "description": "ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/twister-q4001072/twister-q4001072-1.jpg",
+    "images/twister-q4001072/twister-q4001072-2.jpg",
+    "images/twister-q4001072/twister-q4001072-3.jpg",
+    "images/twister-q4001072/twister-q4001072-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4001072",
+    "themealdb": null
+  }
+}

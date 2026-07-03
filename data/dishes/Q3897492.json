@@ -1,0 +1,19 @@
+{
+  "id": "Q3897492",
+  "name": "paste di meliga",
+  "description": "Italian cookie",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paste-di-meliga-q3897492/paste-di-meliga-q3897492-1.jpg",
+    "images/paste-di-meliga-q3897492/paste-di-meliga-q3897492-2.jpg",
+    "images/paste-di-meliga-q3897492/paste-di-meliga-q3897492-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3897492",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q4097120",
+  "name": "brtuch",
+  "description": "",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/brtuch-q4097120/brtuch-q4097120-1.jpg",
+    "images/brtuch-q4097120/brtuch-q4097120-2.jpg",
+    "images/brtuch-q4097120/brtuch-q4097120-3.jpg",
+    "images/brtuch-q4097120/brtuch-q4097120-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4097120",
+    "themealdb": null
+  }
+}

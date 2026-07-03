@@ -1,0 +1,18 @@
+{
+  "id": "Q3995832",
+  "name": "tortionata",
+  "description": "Italian almond cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortionata-q3995832/tortionata-q3995832-1.jpg",
+    "images/tortionata-q3995832/tortionata-q3995832-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995832",
+    "themealdb": null
+  }
+}

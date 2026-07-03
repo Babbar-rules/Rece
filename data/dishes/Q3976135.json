@@ -1,0 +1,21 @@
+{
+  "id": "Q3976135",
+  "name": "strucchi",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy",
+    "Slovenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/strucchi-q3976135/strucchi-q3976135-1.jpg",
+    "images/strucchi-q3976135/strucchi-q3976135-2.jpg",
+    "images/strucchi-q3976135/strucchi-q3976135-3.jpeg",
+    "images/strucchi-q3976135/strucchi-q3976135-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3976135",
+    "themealdb": null
+  }
+}

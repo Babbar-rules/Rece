@@ -1,0 +1,21 @@
+{
+  "id": "Q3980014",
+  "name": "Tacacho con cecina",
+  "description": "",
+  "nationality": [
+    "Peru",
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tacacho-con-cecina-q3980014/tacacho-con-cecina-q3980014-1.jpg",
+    "images/tacacho-con-cecina-q3980014/tacacho-con-cecina-q3980014-2.jpg",
+    "images/tacacho-con-cecina-q3980014/tacacho-con-cecina-q3980014-3.jpg",
+    "images/tacacho-con-cecina-q3980014/tacacho-con-cecina-q3980014-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3980014",
+    "themealdb": null
+  }
+}

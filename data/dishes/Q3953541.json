@@ -1,0 +1,20 @@
+{
+  "id": "Q3953541",
+  "name": "Sebada",
+  "description": "Sardinian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sebada-q3953541/sebada-q3953541-1.jpg",
+    "images/sebada-q3953541/sebada-q3953541-2.jpg",
+    "images/sebada-q3953541/sebada-q3953541-3.jpg",
+    "images/sebada-q3953541/sebada-q3953541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3953541",
+    "themealdb": null
+  }
+}

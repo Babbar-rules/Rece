@@ -1,0 +1,20 @@
+{
+  "id": "Q3905960",
+  "name": "pizza al metro",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-al-metro-q3905960/pizza-al-metro-q3905960-1.jpg",
+    "images/pizza-al-metro-q3905960/pizza-al-metro-q3905960-2.jpg",
+    "images/pizza-al-metro-q3905960/pizza-al-metro-q3905960-3.jpg",
+    "images/pizza-al-metro-q3905960/pizza-al-metro-q3905960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3905960",
+    "themealdb": null
+  }
+}

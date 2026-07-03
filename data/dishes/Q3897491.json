@@ -1,0 +1,22 @@
+{
+  "id": "Q3897491",
+  "name": "stuffed pasta",
+  "description": "food that consists of a thin layer of dough wrapped around a filling",
+  "nationality": [
+    "Italy",
+    "Greece",
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-pasta-q3897491/stuffed-pasta-q3897491-1.jpg",
+    "images/stuffed-pasta-q3897491/stuffed-pasta-q3897491-2.jpg",
+    "images/stuffed-pasta-q3897491/stuffed-pasta-q3897491-3.jpg",
+    "images/stuffed-pasta-q3897491/stuffed-pasta-q3897491-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3897491",
+    "themealdb": null
+  }
+}

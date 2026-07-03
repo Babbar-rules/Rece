@@ -1,0 +1,20 @@
+{
+  "id": "Q3924068",
+  "name": "Prosciutto di Sauris",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prosciutto-di-sauris-q3924068/prosciutto-di-sauris-q3924068-1.jpg",
+    "images/prosciutto-di-sauris-q3924068/prosciutto-di-sauris-q3924068-2.jpg",
+    "images/prosciutto-di-sauris-q3924068/prosciutto-di-sauris-q3924068-3.jpg",
+    "images/prosciutto-di-sauris-q3924068/prosciutto-di-sauris-q3924068-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924068",
+    "themealdb": null
+  }
+}

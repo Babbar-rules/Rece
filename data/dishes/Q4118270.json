@@ -1,0 +1,18 @@
+{
+  "id": "Q4118270",
+  "name": "mixed nuts",
+  "description": "snack food consisting of any mixture of mechanically or manually combined nuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mixed-nuts-q4118270/mixed-nuts-q4118270-1.jpg",
+    "images/mixed-nuts-q4118270/mixed-nuts-q4118270-2.jpg",
+    "images/mixed-nuts-q4118270/mixed-nuts-q4118270-3.jpg",
+    "images/mixed-nuts-q4118270/mixed-nuts-q4118270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4118270",
+    "themealdb": null
+  }
+}

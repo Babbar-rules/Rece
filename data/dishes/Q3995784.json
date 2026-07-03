@@ -1,0 +1,20 @@
+{
+  "id": "Q3995784",
+  "name": "turrón de Alicante",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turron-de-alicante-q3995784/turron-de-alicante-q3995784-1.jpg",
+    "images/turron-de-alicante-q3995784/turron-de-alicante-q3995784-2.jpg",
+    "images/turron-de-alicante-q3995784/turron-de-alicante-q3995784-3.jpg",
+    "images/turron-de-alicante-q3995784/turron-de-alicante-q3995784-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995784",
+    "themealdb": null
+  }
+}

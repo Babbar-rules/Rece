@@ -1,0 +1,20 @@
+{
+  "id": "Q3945602",
+  "name": "mehari-zushi",
+  "description": "rice wrapped in takana leaf",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mehari-zushi-q3945602/mehari-zushi-q3945602-1.jpg",
+    "images/mehari-zushi-q3945602/mehari-zushi-q3945602-2.jpg",
+    "images/mehari-zushi-q3945602/mehari-zushi-q3945602-3.jpg",
+    "images/mehari-zushi-q3945602/mehari-zushi-q3945602-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3945602",
+    "themealdb": null
+  }
+}

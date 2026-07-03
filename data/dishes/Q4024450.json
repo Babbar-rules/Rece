@@ -1,0 +1,22 @@
+{
+  "id": "Q4024450",
+  "name": "zimino",
+  "description": "Sardinian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Sardinia"
+  ],
+  "images": [
+    "images/zimino-q4024450/zimino-q4024450-1.jpg",
+    "images/zimino-q4024450/zimino-q4024450-2.jpg",
+    "images/zimino-q4024450/zimino-q4024450-3.jpg",
+    "images/zimino-q4024450/zimino-q4024450-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4024450",
+    "themealdb": null
+  }
+}

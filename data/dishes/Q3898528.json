@@ -1,0 +1,22 @@
+{
+  "id": "Q3898528",
+  "name": "pecora alla callara",
+  "description": "main course typical of Abruzzo",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Abruzzese cuisine"
+  ],
+  "images": [
+    "images/pecora-alla-callara-q3898528/pecora-alla-callara-q3898528-1.jpg",
+    "images/pecora-alla-callara-q3898528/pecora-alla-callara-q3898528-2.jpg",
+    "images/pecora-alla-callara-q3898528/pecora-alla-callara-q3898528-3.jpg",
+    "images/pecora-alla-callara-q3898528/pecora-alla-callara-q3898528-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3898528",
+    "themealdb": null
+  }
+}

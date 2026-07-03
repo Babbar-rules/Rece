@@ -1,0 +1,19 @@
+{
+  "id": "Q3976730",
+  "name": "sugolo",
+  "description": "Italian dessert",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sugolo-q3976730/sugolo-q3976730-1.jpg",
+    "images/sugolo-q3976730/sugolo-q3976730-2.jpg",
+    "images/sugolo-q3976730/sugolo-q3976730-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3976730",
+    "themealdb": null
+  }
+}

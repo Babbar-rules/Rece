@@ -1,0 +1,18 @@
+{
+  "id": "Q38595513",
+  "name": "Cabeza",
+  "description": "Mexican dish of beef head",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cabeza-q38595513/cabeza-q38595513-1.jpg",
+    "images/cabeza-q38595513/cabeza-q38595513-2.jpg",
+    "images/cabeza-q38595513/cabeza-q38595513-3.jpg",
+    "images/cabeza-q38595513/cabeza-q38595513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q38595513",
+    "themealdb": null
+  }
+}

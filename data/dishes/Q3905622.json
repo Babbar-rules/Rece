@@ -1,0 +1,20 @@
+{
+  "id": "Q3905622",
+  "name": "pitilla",
+  "description": "Italian flatbread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pitilla-q3905622/pitilla-q3905622-1.jpg",
+    "images/pitilla-q3905622/pitilla-q3905622-2.jpg",
+    "images/pitilla-q3905622/pitilla-q3905622-3.jpg",
+    "images/pitilla-q3905622/pitilla-q3905622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3905622",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3998215",
+  "name": "Treets",
+  "description": "brand of confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/treets-q3998215/treets-q3998215-1.jpg",
+    "images/treets-q3998215/treets-q3998215-2.jpg",
+    "images/treets-q3998215/treets-q3998215-3.jpg",
+    "images/treets-q3998215/treets-q3998215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3998215",
+    "themealdb": null
+  }
+}

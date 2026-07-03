@@ -1,0 +1,18 @@
+{
+  "id": "Q4046948",
+  "name": "Cadbury Picnic",
+  "description": "Chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cadbury-picnic-q4046948/cadbury-picnic-q4046948-1.jpg",
+    "images/cadbury-picnic-q4046948/cadbury-picnic-q4046948-2.jpg",
+    "images/cadbury-picnic-q4046948/cadbury-picnic-q4046948-3.jpg",
+    "images/cadbury-picnic-q4046948/cadbury-picnic-q4046948-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4046948",
+    "themealdb": null
+  }
+}

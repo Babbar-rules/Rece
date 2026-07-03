@@ -1,0 +1,20 @@
+{
+  "id": "Q3893492",
+  "name": "panuozzo",
+  "description": "Italian sandwich of pizza bread stuffed with fillings of meat and vegetables",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panuozzo-q3893492/panuozzo-q3893492-1.jpg",
+    "images/panuozzo-q3893492/panuozzo-q3893492-2.jpg",
+    "images/panuozzo-q3893492/panuozzo-q3893492-3.jpg",
+    "images/panuozzo-q3893492/panuozzo-q3893492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3893492",
+    "themealdb": null
+  }
+}

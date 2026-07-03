@@ -1,0 +1,20 @@
+{
+  "id": "Q3905969",
+  "name": "Carne pizzaiola",
+  "description": "Italian meat dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/carne-pizzaiola-q3905969/carne-pizzaiola-q3905969-1.jpg",
+    "images/carne-pizzaiola-q3905969/carne-pizzaiola-q3905969-2.jpg",
+    "images/carne-pizzaiola-q3905969/carne-pizzaiola-q3905969-3.jpg",
+    "images/carne-pizzaiola-q3905969/carne-pizzaiola-q3905969-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3905969",
+    "themealdb": null
+  }
+}

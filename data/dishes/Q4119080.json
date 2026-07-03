@@ -1,0 +1,20 @@
+{
+  "id": "Q4119080",
+  "name": "Eggo",
+  "description": "brand of frozen waffles",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/eggo-q4119080/eggo-q4119080-1.jpg",
+    "images/eggo-q4119080/eggo-q4119080-2.jpg",
+    "images/eggo-q4119080/eggo-q4119080-3.jpg",
+    "images/eggo-q4119080/eggo-q4119080-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4119080",
+    "themealdb": null
+  }
+}

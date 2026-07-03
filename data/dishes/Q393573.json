@@ -1,0 +1,19 @@
+{
+  "id": "Q393573",
+  "name": "Basler Brot",
+  "description": "bread traditionally made in the Swiss cantons of Basel-Stadt and Basel-Landschaft",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/basler-brot-q393573/basler-brot-q393573-1.jpg",
+    "images/basler-brot-q393573/basler-brot-q393573-2.jpg",
+    "images/basler-brot-q393573/basler-brot-q393573-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q393573",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q3924065",
+  "name": "Prosciutto Toscano",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prosciutto-toscano-q3924065/prosciutto-toscano-q3924065-1.jpg",
+    "images/prosciutto-toscano-q3924065/prosciutto-toscano-q3924065-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924065",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4118252",
+  "name": "pizza-ghetti",
+  "description": "Quebecois casual restaurant dish",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-ghetti-q4118252/pizza-ghetti-q4118252-1.jpg",
+    "images/pizza-ghetti-q4118252/pizza-ghetti-q4118252-2.jpg",
+    "images/pizza-ghetti-q4118252/pizza-ghetti-q4118252-3.jpg",
+    "images/pizza-ghetti-q4118252/pizza-ghetti-q4118252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4118252",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3893374",
+  "name": "Panone",
+  "description": "Italian Christmas Cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panone-q3893374/panone-q3893374-1.jpg",
+    "images/panone-q3893374/panone-q3893374-2.jpg",
+    "images/panone-q3893374/panone-q3893374-3.jpg",
+    "images/panone-q3893374/panone-q3893374-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3893374",
+    "themealdb": null
+  }
+}

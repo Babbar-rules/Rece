@@ -1,0 +1,22 @@
+{
+  "id": "Q392935",
+  "name": "akara",
+  "description": "peeled beans formed into a ball and deep-fried in palm oil",
+  "nationality": [
+    "Ghana",
+    "Brazil",
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akara-q392935/akara-q392935-1.jpg",
+    "images/akara-q392935/akara-q392935-2.jpg",
+    "images/akara-q392935/akara-q392935-3.jpg",
+    "images/akara-q392935/akara-q392935-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q392935",
+    "themealdb": null
+  }
+}

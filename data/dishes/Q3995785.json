@@ -1,0 +1,20 @@
+{
+  "id": "Q3995785",
+  "name": "jijona",
+  "description": "Spanish nougat",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jijona-q3995785/jijona-q3995785-1.jpg",
+    "images/jijona-q3995785/jijona-q3995785-2.jpg",
+    "images/jijona-q3995785/jijona-q3995785-3.jpg",
+    "images/jijona-q3995785/jijona-q3995785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995785",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4024125",
+  "name": "Zelten",
+  "description": "type of cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zelten-q4024125/zelten-q4024125-1.jpg",
+    "images/zelten-q4024125/zelten-q4024125-2.jpg",
+    "images/zelten-q4024125/zelten-q4024125-3.jpg",
+    "images/zelten-q4024125/zelten-q4024125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4024125",
+    "themealdb": null
+  }
+}

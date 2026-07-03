@@ -1,0 +1,18 @@
+{
+  "id": "Q3897499",
+  "name": "bakelse",
+  "description": "sweet pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bakelse-q3897499/bakelse-q3897499-1.jpg",
+    "images/bakelse-q3897499/bakelse-q3897499-2.jpg",
+    "images/bakelse-q3897499/bakelse-q3897499-3.jpg",
+    "images/bakelse-q3897499/bakelse-q3897499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3897499",
+    "themealdb": null
+  }
+}

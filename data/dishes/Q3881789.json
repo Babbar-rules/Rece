@@ -1,0 +1,20 @@
+{
+  "id": "Q3881789",
+  "name": "Olive no Hana",
+  "description": "Type of Japanese rice cracker",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/olive-no-hana-q3881789/olive-no-hana-q3881789-1.jpg",
+    "images/olive-no-hana-q3881789/olive-no-hana-q3881789-2.jpg",
+    "images/olive-no-hana-q3881789/olive-no-hana-q3881789-3.jpg",
+    "images/olive-no-hana-q3881789/olive-no-hana-q3881789-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3881789",
+    "themealdb": null
+  }
+}

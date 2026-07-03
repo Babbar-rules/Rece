@@ -1,0 +1,18 @@
+{
+  "id": "Q4080173",
+  "name": "Bashkir honey",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bashkir-honey-q4080173/bashkir-honey-q4080173-1.jpg",
+    "images/bashkir-honey-q4080173/bashkir-honey-q4080173-2.jpg",
+    "images/bashkir-honey-q4080173/bashkir-honey-q4080173-3.jpg",
+    "images/bashkir-honey-q4080173/bashkir-honey-q4080173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4080173",
+    "themealdb": null
+  }
+}

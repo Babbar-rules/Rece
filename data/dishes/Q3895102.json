@@ -1,0 +1,17 @@
+{
+  "id": "Q3895102",
+  "name": "Paradello",
+  "description": "cake of Lake Como",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the province of Como"
+  ],
+  "images": [
+    "images/paradello-q3895102/paradello-q3895102-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3895102",
+    "themealdb": null
+  }
+}

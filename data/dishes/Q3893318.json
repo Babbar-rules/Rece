@@ -1,0 +1,20 @@
+{
+  "id": "Q3893318",
+  "name": "panissa",
+  "description": "Italian dish of risotto and beans",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panissa-q3893318/panissa-q3893318-1.jpg",
+    "images/panissa-q3893318/panissa-q3893318-2.jpg",
+    "images/panissa-q3893318/panissa-q3893318-3.jpg",
+    "images/panissa-q3893318/panissa-q3893318-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3893318",
+    "themealdb": null
+  }
+}

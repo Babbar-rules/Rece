@@ -1,0 +1,20 @@
+{
+  "id": "Q3951313",
+  "name": "Sbrisolona",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sbrisolona-q3951313/sbrisolona-q3951313-1.jpg",
+    "images/sbrisolona-q3951313/sbrisolona-q3951313-2.jpg",
+    "images/sbrisolona-q3951313/sbrisolona-q3951313-3.jpg",
+    "images/sbrisolona-q3951313/sbrisolona-q3951313-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3951313",
+    "themealdb": null
+  }
+}

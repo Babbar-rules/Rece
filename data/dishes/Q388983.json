@@ -1,0 +1,21 @@
+{
+  "id": "Q388983",
+  "name": "takikomi gohan",
+  "description": "Japanese rice dish",
+  "nationality": [
+    "Japan",
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/takikomi-gohan-q388983/takikomi-gohan-q388983-1.jpg",
+    "images/takikomi-gohan-q388983/takikomi-gohan-q388983-2.jpg",
+    "images/takikomi-gohan-q388983/takikomi-gohan-q388983-3.jpg",
+    "images/takikomi-gohan-q388983/takikomi-gohan-q388983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q388983",
+    "themealdb": null
+  }
+}

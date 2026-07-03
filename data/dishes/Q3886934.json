@@ -1,0 +1,18 @@
+{
+  "id": "Q3886934",
+  "name": "Silesian dumplings",
+  "description": "traditional Silesian potato dumplings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/silesian-dumplings-q3886934/silesian-dumplings-q3886934-1.jpg",
+    "images/silesian-dumplings-q3886934/silesian-dumplings-q3886934-2.jpg",
+    "images/silesian-dumplings-q3886934/silesian-dumplings-q3886934-3.jpg",
+    "images/silesian-dumplings-q3886934/silesian-dumplings-q3886934-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3886934",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q4116140",
+  "name": "Fesikh",
+  "description": "traditional Egyptian fish dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fesikh-q4116140/fesikh-q4116140-1.jpg",
+    "images/fesikh-q4116140/fesikh-q4116140-2.jpg",
+    "images/fesikh-q4116140/fesikh-q4116140-3.jpg",
+    "images/fesikh-q4116140/fesikh-q4116140-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4116140",
+    "themealdb": null
+  }
+}

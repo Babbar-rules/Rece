@@ -1,0 +1,22 @@
+{
+  "id": "Q4025002",
+  "name": "zuppa toscana",
+  "description": "Italian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cucina povera"
+  ],
+  "images": [
+    "images/zuppa-toscana-q4025002/zuppa-toscana-q4025002-1.jpg",
+    "images/zuppa-toscana-q4025002/zuppa-toscana-q4025002-2.jpg",
+    "images/zuppa-toscana-q4025002/zuppa-toscana-q4025002-3.jpg",
+    "images/zuppa-toscana-q4025002/zuppa-toscana-q4025002-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4025002",
+    "themealdb": null
+  }
+}

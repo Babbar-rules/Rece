@@ -1,0 +1,18 @@
+{
+  "id": "Q4122095",
+  "name": "fruitcake",
+  "description": "cake made with chopped candied fruit and/or dried fruit, nuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruitcake-q4122095/fruitcake-q4122095-1.jpg",
+    "images/fruitcake-q4122095/fruitcake-q4122095-2.jpg",
+    "images/fruitcake-q4122095/fruitcake-q4122095-3.jpg",
+    "images/fruitcake-q4122095/fruitcake-q4122095-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4122095",
+    "themealdb": null
+  }
+}

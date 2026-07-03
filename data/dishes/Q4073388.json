@@ -1,0 +1,20 @@
+{
+  "id": "Q4073388",
+  "name": "Achma",
+  "description": "dish from Georgia",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/achma-q4073388/achma-q4073388-1.jpg",
+    "images/achma-q4073388/achma-q4073388-2.jpg",
+    "images/achma-q4073388/achma-q4073388-3.jpg",
+    "images/achma-q4073388/achma-q4073388-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4073388",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3893215",
+  "name": "panera (dessert)",
+  "description": "semifreddo (semi-frozen dessert) specialty of Genoa",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panera-dessert-q3893215/panera-dessert-q3893215-1.jpg",
+    "images/panera-dessert-q3893215/panera-dessert-q3893215-2.jpg",
+    "images/panera-dessert-q3893215/panera-dessert-q3893215-3.jpg",
+    "images/panera-dessert-q3893215/panera-dessert-q3893215-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3893215",
+    "themealdb": null
+  }
+}

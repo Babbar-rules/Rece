@@ -1,0 +1,18 @@
+{
+  "id": "Q4115072",
+  "name": "Mövenpick Ice Cream",
+  "description": "Swiss brand of ice cream produced by Nestlé",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/movenpick-ice-cream-q4115072/movenpick-ice-cream-q4115072-1.jpg",
+    "images/movenpick-ice-cream-q4115072/movenpick-ice-cream-q4115072-2.jpg",
+    "images/movenpick-ice-cream-q4115072/movenpick-ice-cream-q4115072-3.jpg",
+    "images/movenpick-ice-cream-q4115072/movenpick-ice-cream-q4115072-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4115072",
+    "themealdb": null
+  }
+}

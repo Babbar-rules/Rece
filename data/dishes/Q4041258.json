@@ -1,0 +1,20 @@
+{
+  "id": "Q4041258",
+  "name": "Idaho Spud",
+  "description": "Candy bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/idaho-spud-q4041258/idaho-spud-q4041258-1.jpg",
+    "images/idaho-spud-q4041258/idaho-spud-q4041258-2.jpg",
+    "images/idaho-spud-q4041258/idaho-spud-q4041258-3.jpg",
+    "images/idaho-spud-q4041258/idaho-spud-q4041258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4041258",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3985208",
+  "name": "testaroli",
+  "description": "type of pasta prepared using water, flour and salt",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/testaroli-q3985208/testaroli-q3985208-1.jpg",
+    "images/testaroli-q3985208/testaroli-q3985208-2.jpg",
+    "images/testaroli-q3985208/testaroli-q3985208-3.jpg",
+    "images/testaroli-q3985208/testaroli-q3985208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3985208",
+    "themealdb": null
+  }
+}

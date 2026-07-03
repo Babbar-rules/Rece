@@ -1,0 +1,19 @@
+{
+  "id": "Q3937060",
+  "name": "risotto alla pilota",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/risotto-alla-pilota-q3937060/risotto-alla-pilota-q3937060-1.jpg",
+    "images/risotto-alla-pilota-q3937060/risotto-alla-pilota-q3937060-2.jpg",
+    "images/risotto-alla-pilota-q3937060/risotto-alla-pilota-q3937060-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3937060",
+    "themealdb": null
+  }
+}

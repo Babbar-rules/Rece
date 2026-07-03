@@ -1,0 +1,18 @@
+{
+  "id": "Q39262547",
+  "name": "fruit tart",
+  "description": "tart with fruits",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-tart-q39262547/fruit-tart-q39262547-1.png",
+    "images/fruit-tart-q39262547/fruit-tart-q39262547-2.png",
+    "images/fruit-tart-q39262547/fruit-tart-q39262547-3.jpg",
+    "images/fruit-tart-q39262547/fruit-tart-q39262547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q39262547",
+    "themealdb": null
+  }
+}

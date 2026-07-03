@@ -1,0 +1,19 @@
+{
+  "id": "Q40978520",
+  "name": "pljukanci",
+  "description": "Istrian type of pasta",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pljukanci-q40978520/pljukanci-q40978520-1.jpg",
+    "images/pljukanci-q40978520/pljukanci-q40978520-2.jpg",
+    "images/pljukanci-q40978520/pljukanci-q40978520-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40978520",
+    "themealdb": null
+  }
+}

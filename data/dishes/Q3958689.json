@@ -1,0 +1,20 @@
+{
+  "id": "Q3958689",
+  "name": "Sfinci di San Giuseppe",
+  "description": "Sicilian doughnut",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sfinci-di-san-giuseppe-q3958689/sfinci-di-san-giuseppe-q3958689-1.jpg",
+    "images/sfinci-di-san-giuseppe-q3958689/sfinci-di-san-giuseppe-q3958689-2.jpg",
+    "images/sfinci-di-san-giuseppe-q3958689/sfinci-di-san-giuseppe-q3958689-3.jpg",
+    "images/sfinci-di-san-giuseppe-q3958689/sfinci-di-san-giuseppe-q3958689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3958689",
+    "themealdb": null
+  }
+}

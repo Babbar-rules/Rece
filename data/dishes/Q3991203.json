@@ -1,0 +1,20 @@
+{
+  "id": "Q3991203",
+  "name": "Tiella",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiella-q3991203/tiella-q3991203-1.jpg",
+    "images/tiella-q3991203/tiella-q3991203-2.jpg",
+    "images/tiella-q3991203/tiella-q3991203-3.jpg",
+    "images/tiella-q3991203/tiella-q3991203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3991203",
+    "themealdb": null
+  }
+}

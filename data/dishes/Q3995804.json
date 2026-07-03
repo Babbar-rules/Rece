@@ -1,0 +1,22 @@
+{
+  "id": "Q3995804",
+  "name": "torta della nonna",
+  "description": "Italian pastry pie",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/torta-della-nonna-q3995804/torta-della-nonna-q3995804-1.jpg",
+    "images/torta-della-nonna-q3995804/torta-della-nonna-q3995804-2.jpg",
+    "images/torta-della-nonna-q3995804/torta-della-nonna-q3995804-3.jpg",
+    "images/torta-della-nonna-q3995804/torta-della-nonna-q3995804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995804",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q3944659",
+  "name": "sacripantina",
+  "description": "Italian cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sacripantina-q3944659/sacripantina-q3944659-1.jpg",
+    "images/sacripantina-q3944659/sacripantina-q3944659-2.jpeg",
+    "images/sacripantina-q3944659/sacripantina-q3944659-3.jpg",
+    "images/sacripantina-q3944659/sacripantina-q3944659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3944659",
+    "themealdb": null
+  }
+}

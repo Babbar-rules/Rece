@@ -1,0 +1,19 @@
+{
+  "id": "Q3966710",
+  "name": "spiedo bresciano",
+  "description": "Italian barbeque dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spiedo-bresciano-q3966710/spiedo-bresciano-q3966710-1.jpg",
+    "images/spiedo-bresciano-q3966710/spiedo-bresciano-q3966710-2.jpg",
+    "images/spiedo-bresciano-q3966710/spiedo-bresciano-q3966710-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3966710",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q4077486",
+  "name": "Banusz",
+  "description": "Ukrainian Dish",
+  "nationality": [
+    "Ukraine",
+    "Galicia"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/banusz-q4077486/banusz-q4077486-1.jpg",
+    "images/banusz-q4077486/banusz-q4077486-2.jpg",
+    "images/banusz-q4077486/banusz-q4077486-3.jpg",
+    "images/banusz-q4077486/banusz-q4077486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4077486",
+    "themealdb": null
+  }
+}

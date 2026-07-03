@@ -1,0 +1,22 @@
+{
+  "id": "Q3952312",
+  "name": "sciatt",
+  "description": "fritters dish from Valtellina",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of Valtellina"
+  ],
+  "images": [
+    "images/sciatt-q3952312/sciatt-q3952312-1.jpg",
+    "images/sciatt-q3952312/sciatt-q3952312-2.jpg",
+    "images/sciatt-q3952312/sciatt-q3952312-3.jpg",
+    "images/sciatt-q3952312/sciatt-q3952312-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3952312",
+    "themealdb": null
+  }
+}

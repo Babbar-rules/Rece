@@ -1,0 +1,20 @@
+{
+  "id": "Q3895837",
+  "name": "Jalea",
+  "description": "Peruvian seafood dish",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jalea-q3895837/jalea-q3895837-1.jpg",
+    "images/jalea-q3895837/jalea-q3895837-2.jpg",
+    "images/jalea-q3895837/jalea-q3895837-3.jpg",
+    "images/jalea-q3895837/jalea-q3895837-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3895837",
+    "themealdb": null
+  }
+}

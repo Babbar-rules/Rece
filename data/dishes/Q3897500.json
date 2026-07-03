@@ -1,0 +1,20 @@
+{
+  "id": "Q3897500",
+  "name": "pasticciotto",
+  "description": "type of filled Italian pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasticciotto-q3897500/pasticciotto-q3897500-1.jpg",
+    "images/pasticciotto-q3897500/pasticciotto-q3897500-2.jpg",
+    "images/pasticciotto-q3897500/pasticciotto-q3897500-3.jpg",
+    "images/pasticciotto-q3897500/pasticciotto-q3897500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3897500",
+    "themealdb": null
+  }
+}

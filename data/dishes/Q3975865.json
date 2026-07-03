@@ -1,0 +1,20 @@
+{
+  "id": "Q3975865",
+  "name": "strascinati",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/strascinati-q3975865/strascinati-q3975865-1.jpg",
+    "images/strascinati-q3975865/strascinati-q3975865-2.jpg",
+    "images/strascinati-q3975865/strascinati-q3975865-3.jpg",
+    "images/strascinati-q3975865/strascinati-q3975865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3975865",
+    "themealdb": null
+  }
+}

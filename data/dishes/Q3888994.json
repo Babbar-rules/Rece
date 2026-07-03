@@ -1,0 +1,22 @@
+{
+  "id": "Q3888994",
+  "name": "Naporitan",
+  "description": "Japanese pasta dish, consisting of spaghetti, tomato ketchup, sausage, mushrooms, onions, and green peppers",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/naporitan-q3888994/naporitan-q3888994-1.jpg",
+    "images/naporitan-q3888994/naporitan-q3888994-2.jpg",
+    "images/naporitan-q3888994/naporitan-q3888994-3.jpg",
+    "images/naporitan-q3888994/naporitan-q3888994-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3888994",
+    "themealdb": null
+  }
+}

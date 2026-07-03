@@ -1,0 +1,22 @@
+{
+  "id": "Q3907811",
+  "name": "banana ketchup",
+  "description": "sauce made from bananas",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [
+    "Filipino cuisine"
+  ],
+  "images": [
+    "images/banana-ketchup-q3907811/banana-ketchup-q3907811-1.jpg",
+    "images/banana-ketchup-q3907811/banana-ketchup-q3907811-2.jpg",
+    "images/banana-ketchup-q3907811/banana-ketchup-q3907811-3.jpg",
+    "images/banana-ketchup-q3907811/banana-ketchup-q3907811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3907811",
+    "themealdb": null
+  }
+}

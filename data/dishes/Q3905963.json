@@ -1,0 +1,20 @@
+{
+  "id": "Q3905963",
+  "name": "pizza di Pasqua",
+  "description": "easter cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-di-pasqua-q3905963/pizza-di-pasqua-q3905963-1.jpg",
+    "images/pizza-di-pasqua-q3905963/pizza-di-pasqua-q3905963-2.jpg",
+    "images/pizza-di-pasqua-q3905963/pizza-di-pasqua-q3905963-3.jpg",
+    "images/pizza-di-pasqua-q3905963/pizza-di-pasqua-q3905963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3905963",
+    "themealdb": null
+  }
+}

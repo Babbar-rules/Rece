@@ -1,0 +1,20 @@
+{
+  "id": "Q392172",
+  "name": "Tortas de Aceite",
+  "description": "trademark",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortas-de-aceite-q392172/tortas-de-aceite-q392172-1.jpg",
+    "images/tortas-de-aceite-q392172/tortas-de-aceite-q392172-2.jpg",
+    "images/tortas-de-aceite-q392172/tortas-de-aceite-q392172-3.jpg",
+    "images/tortas-de-aceite-q392172/tortas-de-aceite-q392172-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q392172",
+    "themealdb": null
+  }
+}

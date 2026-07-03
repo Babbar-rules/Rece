@@ -1,0 +1,20 @@
+{
+  "id": "Q4102828",
+  "name": "biscuit roll",
+  "description": "crispy rolled wafer pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biscuit-roll-q4102828/biscuit-roll-q4102828-1.jpg",
+    "images/biscuit-roll-q4102828/biscuit-roll-q4102828-2.jpg",
+    "images/biscuit-roll-q4102828/biscuit-roll-q4102828-3.jpg",
+    "images/biscuit-roll-q4102828/biscuit-roll-q4102828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4102828",
+    "themealdb": null
+  }
+}

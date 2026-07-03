@@ -1,0 +1,22 @@
+{
+  "id": "Q391869",
+  "name": "Fiadone",
+  "description": "corsican cheesecake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Abruzzese cuisine"
+  ],
+  "images": [
+    "images/fiadone-q391869/fiadone-q391869-1.jpg",
+    "images/fiadone-q391869/fiadone-q391869-2.jpg",
+    "images/fiadone-q391869/fiadone-q391869-3.jpg",
+    "images/fiadone-q391869/fiadone-q391869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q391869",
+    "themealdb": null
+  }
+}

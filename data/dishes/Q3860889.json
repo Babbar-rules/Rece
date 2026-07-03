@@ -1,0 +1,20 @@
+{
+  "id": "Q3860889",
+  "name": "Monk's",
+  "description": "Balsamic sweet brand",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/monks-q3860889/monks-q3860889-1.jpg",
+    "images/monks-q3860889/monks-q3860889-2.jpg",
+    "images/monks-q3860889/monks-q3860889-3.jpg",
+    "images/monks-q3860889/monks-q3860889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3860889",
+    "themealdb": null
+  }
+}

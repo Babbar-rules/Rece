@@ -1,0 +1,18 @@
+{
+  "id": "Q3906768",
+  "name": "plum cake",
+  "description": "range of cakes made with dried or fresh fruit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plum-cake-q3906768/plum-cake-q3906768-1.jpg",
+    "images/plum-cake-q3906768/plum-cake-q3906768-2.jpg",
+    "images/plum-cake-q3906768/plum-cake-q3906768-3.jpg",
+    "images/plum-cake-q3906768/plum-cake-q3906768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3906768",
+    "themealdb": null
+  }
+}

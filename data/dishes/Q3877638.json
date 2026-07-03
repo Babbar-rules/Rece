@@ -1,0 +1,18 @@
+{
+  "id": "Q3877638",
+  "name": "Bottom sirloin",
+  "description": "animal meat used in restaurants in steaks and hamburgers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bottom-sirloin-q3877638/bottom-sirloin-q3877638-1.jpg",
+    "images/bottom-sirloin-q3877638/bottom-sirloin-q3877638-2.jpg",
+    "images/bottom-sirloin-q3877638/bottom-sirloin-q3877638-3.jpg",
+    "images/bottom-sirloin-q3877638/bottom-sirloin-q3877638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3877638",
+    "themealdb": null
+  }
+}

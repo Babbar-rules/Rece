@@ -1,0 +1,18 @@
+{
+  "id": "Q4036160",
+  "name": "Chocodile",
+  "description": "confection created by the Hostess Brands company",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocodile-q4036160/chocodile-q4036160-1.jpg",
+    "images/chocodile-q4036160/chocodile-q4036160-2.jpg",
+    "images/chocodile-q4036160/chocodile-q4036160-3.jpg",
+    "images/chocodile-q4036160/chocodile-q4036160-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4036160",
+    "themealdb": null
+  }
+}

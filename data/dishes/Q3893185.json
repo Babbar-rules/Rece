@@ -1,0 +1,20 @@
+{
+  "id": "Q3893185",
+  "name": "Pane di Altamura",
+  "description": "type of bread made from durum flour from the Altamura area of the Provincia di Bari, in the South East of Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pane-di-altamura-q3893185/pane-di-altamura-q3893185-1.jpg",
+    "images/pane-di-altamura-q3893185/pane-di-altamura-q3893185-2.jpg",
+    "images/pane-di-altamura-q3893185/pane-di-altamura-q3893185-3.jpg",
+    "images/pane-di-altamura-q3893185/pane-di-altamura-q3893185-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3893185",
+    "themealdb": null
+  }
+}

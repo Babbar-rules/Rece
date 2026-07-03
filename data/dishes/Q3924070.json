@@ -1,0 +1,20 @@
+{
+  "id": "Q3924070",
+  "name": "Prosciutto di Modena",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Modena"
+  ],
+  "images": [
+    "images/prosciutto-di-modena-q3924070/prosciutto-di-modena-q3924070-1.jpg",
+    "images/prosciutto-di-modena-q3924070/prosciutto-di-modena-q3924070-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924070",
+    "themealdb": null
+  }
+}

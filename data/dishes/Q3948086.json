@@ -1,0 +1,20 @@
+{
+  "id": "Q3948086",
+  "name": "sancochado",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sancochado-q3948086/sancochado-q3948086-1.jpg",
+    "images/sancochado-q3948086/sancochado-q3948086-2.jpg",
+    "images/sancochado-q3948086/sancochado-q3948086-3.jpg",
+    "images/sancochado-q3948086/sancochado-q3948086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3948086",
+    "themealdb": null
+  }
+}

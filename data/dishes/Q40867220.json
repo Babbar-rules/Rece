@@ -1,0 +1,18 @@
+{
+  "id": "Q40867220",
+  "name": "lemon marmalade",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-marmalade-q40867220/lemon-marmalade-q40867220-1.jpg",
+    "images/lemon-marmalade-q40867220/lemon-marmalade-q40867220-2.jpg",
+    "images/lemon-marmalade-q40867220/lemon-marmalade-q40867220-3.jpg",
+    "images/lemon-marmalade-q40867220/lemon-marmalade-q40867220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40867220",
+    "themealdb": null
+  }
+}

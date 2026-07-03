@@ -1,0 +1,20 @@
+{
+  "id": "Q3898320",
+  "name": "Pavesini",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pavesini-q3898320/pavesini-q3898320-1.jpg",
+    "images/pavesini-q3898320/pavesini-q3898320-2.jpg",
+    "images/pavesini-q3898320/pavesini-q3898320-3.jpg",
+    "images/pavesini-q3898320/pavesini-q3898320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3898320",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q4118695",
+  "name": "Colonial goose",
+  "description": "preparation of roast leg of lamb or mutton",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/colonial-goose-q4118695/colonial-goose-q4118695-1.jpg",
+    "images/colonial-goose-q4118695/colonial-goose-q4118695-2.jpg",
+    "images/colonial-goose-q4118695/colonial-goose-q4118695-3.jpg",
+    "images/colonial-goose-q4118695/colonial-goose-q4118695-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4118695",
+    "themealdb": null
+  }
+}

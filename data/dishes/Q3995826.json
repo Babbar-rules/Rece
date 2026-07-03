@@ -1,0 +1,19 @@
+{
+  "id": "Q3995826",
+  "name": "tortello amaro di Castel Goffredo",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortello-amaro-di-castel-goffredo-q3995826/tortello-amaro-di-castel-goffredo-q3995826-1.jpg",
+    "images/tortello-amaro-di-castel-goffredo-q3995826/tortello-amaro-di-castel-goffredo-q3995826-2.jpg",
+    "images/tortello-amaro-di-castel-goffredo-q3995826/tortello-amaro-di-castel-goffredo-q3995826-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995826",
+    "themealdb": null
+  }
+}

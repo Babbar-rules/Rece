@@ -1,0 +1,20 @@
+{
+  "id": "Q3952291",
+  "name": "scialatelli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scialatelli-q3952291/scialatelli-q3952291-1.jpg",
+    "images/scialatelli-q3952291/scialatelli-q3952291-2.jpg",
+    "images/scialatelli-q3952291/scialatelli-q3952291-3.jpg",
+    "images/scialatelli-q3952291/scialatelli-q3952291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3952291",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q39087079",
+  "name": "salted squid",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/salted-squid-q39087079/salted-squid-q39087079-1.jpg",
+    "images/salted-squid-q39087079/salted-squid-q39087079-2.jpg",
+    "images/salted-squid-q39087079/salted-squid-q39087079-3.jpg",
+    "images/salted-squid-q39087079/salted-squid-q39087079-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q39087079",
+    "themealdb": null
+  }
+}

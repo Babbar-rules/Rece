@@ -1,0 +1,20 @@
+{
+  "id": "Q3905962",
+  "name": "deep-fried pizza",
+  "description": "dish originating from central and southern Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-pizza-q3905962/deep-fried-pizza-q3905962-1.jpg",
+    "images/deep-fried-pizza-q3905962/deep-fried-pizza-q3905962-2.jpg",
+    "images/deep-fried-pizza-q3905962/deep-fried-pizza-q3905962-3.jpg",
+    "images/deep-fried-pizza-q3905962/deep-fried-pizza-q3905962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3905962",
+    "themealdb": null
+  }
+}

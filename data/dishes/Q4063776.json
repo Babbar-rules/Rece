@@ -1,0 +1,18 @@
+{
+  "id": "Q4063776",
+  "name": "Alyonka chocolate",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alyonka-chocolate-q4063776/alyonka-chocolate-q4063776-1.jpg",
+    "images/alyonka-chocolate-q4063776/alyonka-chocolate-q4063776-2.jpg",
+    "images/alyonka-chocolate-q4063776/alyonka-chocolate-q4063776-3.jpg",
+    "images/alyonka-chocolate-q4063776/alyonka-chocolate-q4063776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4063776",
+    "themealdb": null
+  }
+}

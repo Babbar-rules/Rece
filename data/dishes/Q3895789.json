@@ -1,0 +1,20 @@
+{
+  "id": "Q3895789",
+  "name": "pardulas",
+  "description": "small Italian ricotta-based pies",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pardulas-q3895789/pardulas-q3895789-1.jpg",
+    "images/pardulas-q3895789/pardulas-q3895789-2.jpg",
+    "images/pardulas-q3895789/pardulas-q3895789-3.jpg",
+    "images/pardulas-q3895789/pardulas-q3895789-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3895789",
+    "themealdb": null
+  }
+}

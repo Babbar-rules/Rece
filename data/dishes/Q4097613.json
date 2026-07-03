@@ -1,0 +1,21 @@
+{
+  "id": "Q4097613",
+  "name": "bubert",
+  "description": "",
+  "nationality": [
+    "Germany",
+    "Latvia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bubert-q4097613/bubert-q4097613-1.jpg",
+    "images/bubert-q4097613/bubert-q4097613-2.jpg",
+    "images/bubert-q4097613/bubert-q4097613-3.jpg",
+    "images/bubert-q4097613/bubert-q4097613-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4097613",
+    "themealdb": null
+  }
+}

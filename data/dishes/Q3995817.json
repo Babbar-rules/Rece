@@ -1,0 +1,20 @@
+{
+  "id": "Q3995817",
+  "name": "tortelli cremaschi",
+  "description": "main dish of traditional Cremasque cuisine",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortelli-cremaschi-q3995817/tortelli-cremaschi-q3995817-1.png",
+    "images/tortelli-cremaschi-q3995817/tortelli-cremaschi-q3995817-2.png",
+    "images/tortelli-cremaschi-q3995817/tortelli-cremaschi-q3995817-3.jpg",
+    "images/tortelli-cremaschi-q3995817/tortelli-cremaschi-q3995817-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995817",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q3995799",
+  "name": "Torta Tre Monti",
+  "description": "Traditional Sammarinese cake",
+  "nationality": [
+    "San Marino"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-tre-monti-q3995799/torta-tre-monti-q3995799-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3995799",
+    "themealdb": null
+  }
+}

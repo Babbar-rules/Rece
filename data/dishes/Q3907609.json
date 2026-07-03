@@ -1,0 +1,20 @@
+{
+  "id": "Q3907609",
+  "name": "Pollo a la Brasa",
+  "description": "common Peruvian rotisserie chicken dish, originating in Lima in the 1950s",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pollo-a-la-brasa-q3907609/pollo-a-la-brasa-q3907609-1.jpg",
+    "images/pollo-a-la-brasa-q3907609/pollo-a-la-brasa-q3907609-2.jpg",
+    "images/pollo-a-la-brasa-q3907609/pollo-a-la-brasa-q3907609-3.jpg",
+    "images/pollo-a-la-brasa-q3907609/pollo-a-la-brasa-q3907609-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3907609",
+    "themealdb": null
+  }
+}

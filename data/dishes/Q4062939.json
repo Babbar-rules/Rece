@@ -1,0 +1,21 @@
+{
+  "id": "Q4062939",
+  "name": "Altai honey",
+  "description": "",
+  "nationality": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/altai-honey-q4062939/altai-honey-q4062939-1.jpg",
+    "images/altai-honey-q4062939/altai-honey-q4062939-2.jpg",
+    "images/altai-honey-q4062939/altai-honey-q4062939-3.jpg",
+    "images/altai-honey-q4062939/altai-honey-q4062939-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4062939",
+    "themealdb": null
+  }
+}

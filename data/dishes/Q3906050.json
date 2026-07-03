@@ -1,0 +1,20 @@
+{
+  "id": "Q3906050",
+  "name": "pizzolo",
+  "description": "type of pizza from Sicily",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizzolo-q3906050/pizzolo-q3906050-1.jpg",
+    "images/pizzolo-q3906050/pizzolo-q3906050-2.jpg",
+    "images/pizzolo-q3906050/pizzolo-q3906050-3.jpg",
+    "images/pizzolo-q3906050/pizzolo-q3906050-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3906050",
+    "themealdb": null
+  }
+}

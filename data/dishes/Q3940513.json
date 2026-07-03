@@ -1,0 +1,18 @@
+{
+  "id": "Q3940513",
+  "name": "zarangollo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zarangollo-q3940513/zarangollo-q3940513-1.jpg",
+    "images/zarangollo-q3940513/zarangollo-q3940513-2.jpg",
+    "images/zarangollo-q3940513/zarangollo-q3940513-3.jpg",
+    "images/zarangollo-q3940513/zarangollo-q3940513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3940513",
+    "themealdb": null
+  }
+}

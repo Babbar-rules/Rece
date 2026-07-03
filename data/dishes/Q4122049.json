@@ -1,0 +1,20 @@
+{
+  "id": "Q4122049",
+  "name": "rusk",
+  "description": "form of rusk",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rusk-q4122049/rusk-q4122049-1.jpg",
+    "images/rusk-q4122049/rusk-q4122049-2.jpg",
+    "images/rusk-q4122049/rusk-q4122049-3.jpg",
+    "images/rusk-q4122049/rusk-q4122049-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4122049",
+    "themealdb": null
+  }
+}

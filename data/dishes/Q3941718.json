@@ -1,0 +1,20 @@
+{
+  "id": "Q3941718",
+  "name": "Rosticciana",
+  "description": "Italian pork dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosticciana-q3941718/rosticciana-q3941718-1.jpg",
+    "images/rosticciana-q3941718/rosticciana-q3941718-2.jpg",
+    "images/rosticciana-q3941718/rosticciana-q3941718-3.jpg",
+    "images/rosticciana-q3941718/rosticciana-q3941718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3941718",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q39055774",
+  "name": "cherry ice cream",
+  "description": "ice cream with natural or artificial cherry flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-ice-cream-q39055774/cherry-ice-cream-q39055774-1.jpg",
+    "images/cherry-ice-cream-q39055774/cherry-ice-cream-q39055774-2.jpg",
+    "images/cherry-ice-cream-q39055774/cherry-ice-cream-q39055774-3.jpg",
+    "images/cherry-ice-cream-q39055774/cherry-ice-cream-q39055774-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q39055774",
+    "themealdb": null
+  }
+}

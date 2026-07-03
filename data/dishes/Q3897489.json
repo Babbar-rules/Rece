@@ -1,0 +1,22 @@
+{
+  "id": "Q3897489",
+  "name": "Pasta mollicata",
+  "description": "Italian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Sicilian cuisine"
+  ],
+  "images": [
+    "images/pasta-mollicata-q3897489/pasta-mollicata-q3897489-1.jpg",
+    "images/pasta-mollicata-q3897489/pasta-mollicata-q3897489-2.jpg",
+    "images/pasta-mollicata-q3897489/pasta-mollicata-q3897489-3.jpg",
+    "images/pasta-mollicata-q3897489/pasta-mollicata-q3897489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3897489",
+    "themealdb": null
+  }
+}

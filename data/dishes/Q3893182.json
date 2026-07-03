@@ -1,0 +1,19 @@
+{
+  "id": "Q3893182",
+  "name": "pane di Matera",
+  "description": "Italian sourdough bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pane-di-matera-q3893182/pane-di-matera-q3893182-1.jpg",
+    "images/pane-di-matera-q3893182/pane-di-matera-q3893182-2.jpg",
+    "images/pane-di-matera-q3893182/pane-di-matera-q3893182-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3893182",
+    "themealdb": null
+  }
+}

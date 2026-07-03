@@ -1,0 +1,18 @@
+{
+  "id": "Q3991202",
+  "name": "Tiella of Gaeta",
+  "description": "traditional fish-based food from Gaeta, Lazio, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiella-of-gaeta-q3991202/tiella-of-gaeta-q3991202-1.jpg",
+    "images/tiella-of-gaeta-q3991202/tiella-of-gaeta-q3991202-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3991202",
+    "themealdb": null
+  }
+}

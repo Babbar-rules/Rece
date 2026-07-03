@@ -1,0 +1,20 @@
+{
+  "id": "Q3892935",
+  "name": "pan di ramerino",
+  "description": "sweet Tuscan rosemary bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-di-ramerino-q3892935/pan-di-ramerino-q3892935-1.jpg",
+    "images/pan-di-ramerino-q3892935/pan-di-ramerino-q3892935-2.jpg",
+    "images/pan-di-ramerino-q3892935/pan-di-ramerino-q3892935-3.jpg",
+    "images/pan-di-ramerino-q3892935/pan-di-ramerino-q3892935-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3892935",
+    "themealdb": null
+  }
+}

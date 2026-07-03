@@ -1,0 +1,19 @@
+{
+  "id": "Q3892904",
+  "name": "pampanella",
+  "description": "Italian pork dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pampanella-q3892904/pampanella-q3892904-1.jpg",
+    "images/pampanella-q3892904/pampanella-q3892904-2.jpg",
+    "images/pampanella-q3892904/pampanella-q3892904-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3892904",
+    "themealdb": null
+  }
+}

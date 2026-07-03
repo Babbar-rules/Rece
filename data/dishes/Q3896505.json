@@ -1,0 +1,19 @@
+{
+  "id": "Q3896505",
+  "name": "parrozzo",
+  "description": "traditional cake from the Abruzzo region of Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parrozzo-q3896505/parrozzo-q3896505-1.jpg",
+    "images/parrozzo-q3896505/parrozzo-q3896505-2.jpg",
+    "images/parrozzo-q3896505/parrozzo-q3896505-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3896505",
+    "themealdb": null
+  }
+}

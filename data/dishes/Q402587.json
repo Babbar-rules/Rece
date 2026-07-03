@@ -1,0 +1,21 @@
+{
+  "id": "Q402587",
+  "name": "maple sugar",
+  "description": "food",
+  "nationality": [
+    "Canada",
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maple-sugar-q402587/maple-sugar-q402587-1.jpg",
+    "images/maple-sugar-q402587/maple-sugar-q402587-2.jpg",
+    "images/maple-sugar-q402587/maple-sugar-q402587-3.jpg",
+    "images/maple-sugar-q402587/maple-sugar-q402587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q402587",
+    "themealdb": null
+  }
+}

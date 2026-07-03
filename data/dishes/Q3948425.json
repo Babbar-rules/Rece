@@ -1,0 +1,19 @@
+{
+  "id": "Q3948425",
+  "name": "sanguinaccio dolce",
+  "description": "Italian dessert made from pig's blood",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sanguinaccio-dolce-q3948425/sanguinaccio-dolce-q3948425-1.jpg",
+    "images/sanguinaccio-dolce-q3948425/sanguinaccio-dolce-q3948425-2.jpg",
+    "images/sanguinaccio-dolce-q3948425/sanguinaccio-dolce-q3948425-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3948425",
+    "themealdb": null
+  }
+}

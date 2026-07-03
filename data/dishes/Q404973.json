@@ -1,0 +1,22 @@
+{
+  "id": "Q404973",
+  "name": "Peking duck",
+  "description": "roast duck from Beijing (Peking)",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Beijing cuisine"
+  ],
+  "images": [
+    "images/peking-duck-q404973/peking-duck-q404973-1.jpg",
+    "images/peking-duck-q404973/peking-duck-q404973-2.jpg",
+    "images/peking-duck-q404973/peking-duck-q404973-3.jpg",
+    "images/peking-duck-q404973/peking-duck-q404973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q404973",
+    "themealdb": null
+  }
+}

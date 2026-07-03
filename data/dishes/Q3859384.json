@@ -1,0 +1,20 @@
+{
+  "id": "Q3859384",
+  "name": "Misoltin",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Como"
+  ],
+  "images": [
+    "images/misoltin-q3859384/misoltin-q3859384-1.jpg",
+    "images/misoltin-q3859384/misoltin-q3859384-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3859384",
+    "themealdb": null
+  }
+}

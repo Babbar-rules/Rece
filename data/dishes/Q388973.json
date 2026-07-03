@@ -1,0 +1,18 @@
+{
+  "id": "Q388973",
+  "name": "After Eight",
+  "description": "chocolate brand of Nestle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/after-eight-q388973/after-eight-q388973-1.jpg",
+    "images/after-eight-q388973/after-eight-q388973-2.jpg",
+    "images/after-eight-q388973/after-eight-q388973-3.jpg",
+    "images/after-eight-q388973/after-eight-q388973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q388973",
+    "themealdb": null
+  }
+}

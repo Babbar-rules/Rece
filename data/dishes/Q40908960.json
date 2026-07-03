@@ -1,0 +1,20 @@
+{
+  "id": "Q40908960",
+  "name": "mattang",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mattang-q40908960/mattang-q40908960-1.jpg",
+    "images/mattang-q40908960/mattang-q40908960-2.jpg",
+    "images/mattang-q40908960/mattang-q40908960-3.jpg",
+    "images/mattang-q40908960/mattang-q40908960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q40908960",
+    "themealdb": null
+  }
+}
