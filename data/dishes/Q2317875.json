@@ -1,0 +1,20 @@
+{
+  "id": "Q2317875",
+  "name": "basbousa",
+  "description": "semolina or farina cake soaked in simple syrup, it was invented in the 12-16 century",
+  "nationality": [
+    "Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/basbousa-q2317875/basbousa-q2317875-1.jpg",
+    "images/basbousa-q2317875/basbousa-q2317875-2.jpg",
+    "images/basbousa-q2317875/basbousa-q2317875-3.jpg",
+    "images/basbousa-q2317875/basbousa-q2317875-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2317875",
+    "themealdb": null
+  }
+}

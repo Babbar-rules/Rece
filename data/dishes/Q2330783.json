@@ -1,0 +1,20 @@
+{
+  "id": "Q2330783",
+  "name": "angel cake",
+  "description": "British layer cake",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/angel-cake-q2330783/angel-cake-q2330783-1.jpg",
+    "images/angel-cake-q2330783/angel-cake-q2330783-2.jpg",
+    "images/angel-cake-q2330783/angel-cake-q2330783-3.gif",
+    "images/angel-cake-q2330783/angel-cake-q2330783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2330783",
+    "themealdb": null
+  }
+}

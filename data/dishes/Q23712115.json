@@ -1,0 +1,18 @@
+{
+  "id": "Q23712115",
+  "name": "avocado cake",
+  "description": "cake using avocado as a primary ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/avocado-cake-q23712115/avocado-cake-q23712115-1.jpg",
+    "images/avocado-cake-q23712115/avocado-cake-q23712115-2.jpg",
+    "images/avocado-cake-q23712115/avocado-cake-q23712115-3.jpg",
+    "images/avocado-cake-q23712115/avocado-cake-q23712115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23712115",
+    "themealdb": null
+  }
+}

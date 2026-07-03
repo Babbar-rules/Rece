@@ -1,0 +1,18 @@
+{
+  "id": "Q22949248",
+  "name": "Mughlai paratha",
+  "description": "popular street food originated in Bengal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mughlai-paratha-q22949248/mughlai-paratha-q22949248-1.jpg",
+    "images/mughlai-paratha-q22949248/mughlai-paratha-q22949248-2.jpg",
+    "images/mughlai-paratha-q22949248/mughlai-paratha-q22949248-3.jpg",
+    "images/mughlai-paratha-q22949248/mughlai-paratha-q22949248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22949248",
+    "themealdb": null
+  }
+}

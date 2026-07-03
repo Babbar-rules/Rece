@@ -1,0 +1,18 @@
+{
+  "id": "Q23824434",
+  "name": "obwarzanek",
+  "description": "A kind of Polish bagel",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/obwarzanek-q23824434/obwarzanek-q23824434-1.jpg",
+    "images/obwarzanek-q23824434/obwarzanek-q23824434-2.jpg",
+    "images/obwarzanek-q23824434/obwarzanek-q23824434-3.jpg",
+    "images/obwarzanek-q23824434/obwarzanek-q23824434-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23824434",
+    "themealdb": null
+  }
+}

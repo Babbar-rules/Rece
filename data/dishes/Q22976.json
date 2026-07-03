@@ -1,0 +1,25 @@
+{
+  "id": "Q22976",
+  "name": "Dampfnudel",
+  "description": "German steamed and pan-fried dumpling",
+  "nationality": [
+    "France",
+    "Germany"
+  ],
+  "region_cuisine": [
+    "Alsatian cuisine",
+    "German cuisine",
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/dampfnudel-q22976/dampfnudel-q22976-1.jpg",
+    "images/dampfnudel-q22976/dampfnudel-q22976-2.jpg",
+    "images/dampfnudel-q22976/dampfnudel-q22976-3.jpg",
+    "images/dampfnudel-q22976/dampfnudel-q22976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22976",
+    "themealdb": null
+  }
+}

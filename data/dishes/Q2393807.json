@@ -1,0 +1,20 @@
+{
+  "id": "Q2393807",
+  "name": "taquito",
+  "description": "Mesoamerican food dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taquito-q2393807/taquito-q2393807-1.jpg",
+    "images/taquito-q2393807/taquito-q2393807-2.jpg",
+    "images/taquito-q2393807/taquito-q2393807-3.jpg",
+    "images/taquito-q2393807/taquito-q2393807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2393807",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2255814",
+  "name": "pig's ear",
+  "description": "cooked ear of pig for human food consumption",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pigs-ear-q2255814/pigs-ear-q2255814-1.jpg",
+    "images/pigs-ear-q2255814/pigs-ear-q2255814-2.jpg",
+    "images/pigs-ear-q2255814/pigs-ear-q2255814-3.jpg",
+    "images/pigs-ear-q2255814/pigs-ear-q2255814-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2255814",
+    "themealdb": null
+  }
+}

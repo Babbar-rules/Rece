@@ -1,0 +1,20 @@
+{
+  "id": "Q2227296",
+  "name": "pestiños",
+  "description": "Andalusian sweet pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pestinos-q2227296/pestinos-q2227296-1.jpg",
+    "images/pestinos-q2227296/pestinos-q2227296-2.jpg",
+    "images/pestinos-q2227296/pestinos-q2227296-3.jpg",
+    "images/pestinos-q2227296/pestinos-q2227296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2227296",
+    "themealdb": null
+  }
+}

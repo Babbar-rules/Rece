@@ -1,0 +1,18 @@
+{
+  "id": "Q24054513",
+  "name": "Regina pizza",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/regina-pizza-q24054513/regina-pizza-q24054513-1.jpg",
+    "images/regina-pizza-q24054513/regina-pizza-q24054513-2.jpg",
+    "images/regina-pizza-q24054513/regina-pizza-q24054513-3.jpg",
+    "images/regina-pizza-q24054513/regina-pizza-q24054513-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24054513",
+    "themealdb": null
+  }
+}

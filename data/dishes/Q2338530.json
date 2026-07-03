@@ -1,0 +1,20 @@
+{
+  "id": "Q2338530",
+  "name": "Cuban bread",
+  "description": "Cuban-American bread recipe",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cuban-bread-q2338530/cuban-bread-q2338530-1.jpg",
+    "images/cuban-bread-q2338530/cuban-bread-q2338530-2.jpg",
+    "images/cuban-bread-q2338530/cuban-bread-q2338530-3.jpg",
+    "images/cuban-bread-q2338530/cuban-bread-q2338530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2338530",
+    "themealdb": null
+  }
+}

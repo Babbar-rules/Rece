@@ -1,0 +1,20 @@
+{
+  "id": "Q2394623",
+  "name": "Suikerbrood",
+  "description": "buurman",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suikerbrood-q2394623/suikerbrood-q2394623-1.jpg",
+    "images/suikerbrood-q2394623/suikerbrood-q2394623-2.jpg",
+    "images/suikerbrood-q2394623/suikerbrood-q2394623-3.jpg",
+    "images/suikerbrood-q2394623/suikerbrood-q2394623-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2394623",
+    "themealdb": null
+  }
+}

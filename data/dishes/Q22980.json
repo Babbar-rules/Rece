@@ -1,0 +1,20 @@
+{
+  "id": "Q22980",
+  "name": "Zwiebelkuchen",
+  "description": "German onion cake",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zwiebelkuchen-q22980/zwiebelkuchen-q22980-1.jpg",
+    "images/zwiebelkuchen-q22980/zwiebelkuchen-q22980-2.jpg",
+    "images/zwiebelkuchen-q22980/zwiebelkuchen-q22980-3.jpg",
+    "images/zwiebelkuchen-q22980/zwiebelkuchen-q22980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22980",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2223254",
+  "name": "Amandine",
+  "description": "Romanian prepared dessert",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amandine-q2223254/amandine-q2223254-1.jpg",
+    "images/amandine-q2223254/amandine-q2223254-2.jpg",
+    "images/amandine-q2223254/amandine-q2223254-3.jpg",
+    "images/amandine-q2223254/amandine-q2223254-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2223254",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Q2395693",
+  "name": "forshmak",
+  "description": "Eastern European dish made of salty minced fish",
+  "nationality": [
+    "Eastern Europe"
+  ],
+  "region_cuisine": [
+    "Brandenburg cuisine",
+    "Jewish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/forshmak-q2395693/forshmak-q2395693-1.jpg",
+    "images/forshmak-q2395693/forshmak-q2395693-2.jpg",
+    "images/forshmak-q2395693/forshmak-q2395693-3.jpg",
+    "images/forshmak-q2395693/forshmak-q2395693-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2395693",
+    "themealdb": null
+  }
+}

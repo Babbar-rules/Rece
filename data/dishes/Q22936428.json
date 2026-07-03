@@ -1,0 +1,20 @@
+{
+  "id": "Q22936428",
+  "name": "Calamarata",
+  "description": "type of pasta",
+  "nationality": [
+    "Naples"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/calamarata-q22936428/calamarata-q22936428-1.jpg",
+    "images/calamarata-q22936428/calamarata-q22936428-2.jpg",
+    "images/calamarata-q22936428/calamarata-q22936428-3.jpg",
+    "images/calamarata-q22936428/calamarata-q22936428-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22936428",
+    "themealdb": null
+  }
+}

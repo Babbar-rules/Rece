@@ -1,0 +1,18 @@
+{
+  "id": "Q24090752",
+  "name": "Coconut shrimp",
+  "description": "dish composed of shrimp and coconut",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-shrimp-q24090752/coconut-shrimp-q24090752-1.jpg",
+    "images/coconut-shrimp-q24090752/coconut-shrimp-q24090752-2.jpg",
+    "images/coconut-shrimp-q24090752/coconut-shrimp-q24090752-3.jpg",
+    "images/coconut-shrimp-q24090752/coconut-shrimp-q24090752-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24090752",
+    "themealdb": null
+  }
+}

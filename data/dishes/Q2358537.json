@@ -1,0 +1,18 @@
+{
+  "id": "Q2358537",
+  "name": "Reese's Pieces",
+  "description": "American peanut butter candy in shells",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reeses-pieces-q2358537/reeses-pieces-q2358537-1.jpg",
+    "images/reeses-pieces-q2358537/reeses-pieces-q2358537-2.jpg",
+    "images/reeses-pieces-q2358537/reeses-pieces-q2358537-3.jpg",
+    "images/reeses-pieces-q2358537/reeses-pieces-q2358537-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2358537",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q24196624",
+  "name": "spice bag",
+  "description": "Fast food dish created in Ireland",
+  "nationality": [
+    "Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spice-bag-q24196624/spice-bag-q24196624-1.jpg",
+    "images/spice-bag-q24196624/spice-bag-q24196624-2.jpg",
+    "images/spice-bag-q24196624/spice-bag-q24196624-3.jpg",
+    "images/spice-bag-q24196624/spice-bag-q24196624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24196624",
+    "themealdb": null
+  }
+}

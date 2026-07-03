@@ -1,0 +1,18 @@
+{
+  "id": "Q227999",
+  "name": "Zuckerrenkerl",
+  "description": "Carinthian specialty, sweet pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zuckerrenkerl-q227999/zuckerrenkerl-q227999-1.jpg",
+    "images/zuckerrenkerl-q227999/zuckerrenkerl-q227999-2.jpg",
+    "images/zuckerrenkerl-q227999/zuckerrenkerl-q227999-3.jpg",
+    "images/zuckerrenkerl-q227999/zuckerrenkerl-q227999-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q227999",
+    "themealdb": null
+  }
+}

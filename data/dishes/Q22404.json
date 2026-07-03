@@ -1,0 +1,20 @@
+{
+  "id": "Q22404",
+  "name": "egg tart",
+  "description": "type of dessert consisting of an outer pastry crust filled with egg custard",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-tart-q22404/egg-tart-q22404-1.jpg",
+    "images/egg-tart-q22404/egg-tart-q22404-2.jpg",
+    "images/egg-tart-q22404/egg-tart-q22404-3.jpg",
+    "images/egg-tart-q22404/egg-tart-q22404-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22404",
+    "themealdb": null
+  }
+}

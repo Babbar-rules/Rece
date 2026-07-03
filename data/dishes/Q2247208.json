@@ -1,0 +1,20 @@
+{
+  "id": "Q2247208",
+  "name": "Schneeball",
+  "description": "German dessert",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schneeball-q2247208/schneeball-q2247208-1.jpeg",
+    "images/schneeball-q2247208/schneeball-q2247208-2.jpg",
+    "images/schneeball-q2247208/schneeball-q2247208-3.jpeg",
+    "images/schneeball-q2247208/schneeball-q2247208-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2247208",
+    "themealdb": null
+  }
+}

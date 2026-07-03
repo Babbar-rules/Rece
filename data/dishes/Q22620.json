@@ -1,0 +1,18 @@
+{
+  "id": "Q22620",
+  "name": "sausage soup broth",
+  "description": "broth made from cooking sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sausage-soup-broth-q22620/sausage-soup-broth-q22620-1.jpg",
+    "images/sausage-soup-broth-q22620/sausage-soup-broth-q22620-2.jpg",
+    "images/sausage-soup-broth-q22620/sausage-soup-broth-q22620-3.jpg",
+    "images/sausage-soup-broth-q22620/sausage-soup-broth-q22620-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22620",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Q2336063",
+  "name": "soda bread",
+  "description": "wheat bread leavened with baking soda",
+  "nationality": [
+    "North America"
+  ],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/soda-bread-q2336063/soda-bread-q2336063-1.jpg",
+    "images/soda-bread-q2336063/soda-bread-q2336063-2.jpg",
+    "images/soda-bread-q2336063/soda-bread-q2336063-3.jpg",
+    "images/soda-bread-q2336063/soda-bread-q2336063-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53408",
+    "category": "Side",
+    "area": null,
+    "instructions": "1\r\nPrepare\r\nOn a large baking tray or a clean work surface, mix together the dry ingredients - flour, baking soda and salt.\r\n2\r\nMake a well in the middle and add the yogurt. Using your hands slowly combined the ingredients together to start to form a dough.\r\n3\r\nKneed the dough on a floured surface, adding extra flour if you find the texture too sticky. The dough is ready when it is of a pizza dough texture and still very slightly sticky, this should only take a few minutes.\r\n4\r\nOn a baking tray add a little oil and put the dough on top. Shape and flatten the dough into a circle shape ensuring the height of the dough is about 5cm.\r\n5\r\nCover the dough with a little bit of olive oil, ensure it is fully covered.\r\n6\r\nYou can bake the Kulaç as it is or you can create patterns which also helps with even cooking. The most common patterns are using the back of a fork to slightly press down to create line dents all over or spiking the dough with the fork.\r\n7\r\nBaking\r\nPlace on the bottom shelf of a pre heated oven. Bake for 40 minutes or until the dough is golden and firm to touch.\r\n8\r\nCooling\r\nOnce removed from the oven, stand upright or place on a cooling rack to allow the Kulaç to cool.\r\n9\r\nServing\r\nCut the Kulaç the way you would a cake into 8 slices. If you are serving warm you may want to snap and pull apart the bread with your hands instead.",
+    "ingredients": [
+      {
+        "ingredient": "Flour",
+        "measure": "450g"
+      },
+      {
+        "ingredient": "Greek Yogurt",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "Splash"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=h05_zOhGedo",
+    "thumb": "https://www.themealdb.com/images/media/meals/9aia021779646058.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2336063",
+    "themealdb": "53408"
+  }
+}

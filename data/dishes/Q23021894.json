@@ -1,0 +1,20 @@
+{
+  "id": "Q23021894",
+  "name": "ciorbă de burtă",
+  "description": "Rumanian tripe soup",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciorba-de-burta-q23021894/ciorba-de-burta-q23021894-1.jpg",
+    "images/ciorba-de-burta-q23021894/ciorba-de-burta-q23021894-2.png",
+    "images/ciorba-de-burta-q23021894/ciorba-de-burta-q23021894-3.jpg",
+    "images/ciorba-de-burta-q23021894/ciorba-de-burta-q23021894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23021894",
+    "themealdb": null
+  }
+}

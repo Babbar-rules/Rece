@@ -1,0 +1,18 @@
+{
+  "id": "Q2270680",
+  "name": "McKroket",
+  "description": "mcDonald's product in the Netherlands",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mckroket-q2270680/mckroket-q2270680-1.jpg",
+    "images/mckroket-q2270680/mckroket-q2270680-2.jpg",
+    "images/mckroket-q2270680/mckroket-q2270680-3.jpg",
+    "images/mckroket-q2270680/mckroket-q2270680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2270680",
+    "themealdb": null
+  }
+}

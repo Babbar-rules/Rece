@@ -1,0 +1,18 @@
+{
+  "id": "Q2383238",
+  "name": "poularde",
+  "description": "chicken that is at least 120 days old at the time of slaughter and fattened with a rich diet that delays egg production",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poularde-q2383238/poularde-q2383238-1.jpg",
+    "images/poularde-q2383238/poularde-q2383238-2.jpg",
+    "images/poularde-q2383238/poularde-q2383238-3.jpg",
+    "images/poularde-q2383238/poularde-q2383238-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2383238",
+    "themealdb": null
+  }
+}

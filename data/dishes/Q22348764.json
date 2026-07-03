@@ -1,0 +1,20 @@
+{
+  "id": "Q22348764",
+  "name": "filet américain",
+  "description": "Brussels meat dish of raw lean beef",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/filet-americain-q22348764/filet-americain-q22348764-1.jpg",
+    "images/filet-americain-q22348764/filet-americain-q22348764-2.jpg",
+    "images/filet-americain-q22348764/filet-americain-q22348764-3.jpg",
+    "images/filet-americain-q22348764/filet-americain-q22348764-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22348764",
+    "themealdb": null
+  }
+}

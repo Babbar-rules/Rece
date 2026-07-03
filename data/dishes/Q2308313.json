@@ -1,0 +1,18 @@
+{
+  "id": "Q2308313",
+  "name": "bacon dumplings",
+  "description": "bacon dumpling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-dumplings-q2308313/bacon-dumplings-q2308313-1.jpg",
+    "images/bacon-dumplings-q2308313/bacon-dumplings-q2308313-2.jpg",
+    "images/bacon-dumplings-q2308313/bacon-dumplings-q2308313-3.jpg",
+    "images/bacon-dumplings-q2308313/bacon-dumplings-q2308313-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2308313",
+    "themealdb": null
+  }
+}

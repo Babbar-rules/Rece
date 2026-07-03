@@ -1,0 +1,20 @@
+{
+  "id": "Q2253902",
+  "name": "punsch-roll",
+  "description": "Swedish pastry",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/punsch-roll-q2253902/punsch-roll-q2253902-1.jpg",
+    "images/punsch-roll-q2253902/punsch-roll-q2253902-2.jpg",
+    "images/punsch-roll-q2253902/punsch-roll-q2253902-3.jpg",
+    "images/punsch-roll-q2253902/punsch-roll-q2253902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2253902",
+    "themealdb": null
+  }
+}

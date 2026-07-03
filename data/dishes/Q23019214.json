@@ -1,0 +1,20 @@
+{
+  "id": "Q23019214",
+  "name": "basashi",
+  "description": "raw horse meat",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/basashi-q23019214/basashi-q23019214-1.jpg",
+    "images/basashi-q23019214/basashi-q23019214-2.jpg",
+    "images/basashi-q23019214/basashi-q23019214-3.jpg",
+    "images/basashi-q23019214/basashi-q23019214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23019214",
+    "themealdb": null
+  }
+}

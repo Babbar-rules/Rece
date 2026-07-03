@@ -1,0 +1,18 @@
+{
+  "id": "Q2382369",
+  "name": "sweet dish",
+  "description": "sweetened dishes from the warm and the cold kitchen",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-dish-q2382369/sweet-dish-q2382369-1.jpg",
+    "images/sweet-dish-q2382369/sweet-dish-q2382369-2.jpg",
+    "images/sweet-dish-q2382369/sweet-dish-q2382369-3.jpg",
+    "images/sweet-dish-q2382369/sweet-dish-q2382369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2382369",
+    "themealdb": null
+  }
+}

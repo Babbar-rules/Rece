@@ -1,0 +1,17 @@
+{
+  "id": "Q23461168",
+  "name": "Nestlé Tex",
+  "description": "South African chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nestle-tex-q23461168/nestle-tex-q23461168-1.jpg",
+    "images/nestle-tex-q23461168/nestle-tex-q23461168-2.jpg",
+    "images/nestle-tex-q23461168/nestle-tex-q23461168-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23461168",
+    "themealdb": null
+  }
+}

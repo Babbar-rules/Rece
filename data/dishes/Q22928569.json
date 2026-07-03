@@ -1,0 +1,18 @@
+{
+  "id": "Q22928569",
+  "name": "Qrishlat",
+  "description": "Moroccan sweets",
+  "nationality": [
+    "Morocco"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/qrishlat-q22928569/qrishlat-q22928569-1.jpg",
+    "images/qrishlat-q22928569/qrishlat-q22928569-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22928569",
+    "themealdb": null
+  }
+}

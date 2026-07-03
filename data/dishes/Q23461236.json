@@ -1,0 +1,18 @@
+{
+  "id": "Q23461236",
+  "name": "Trio",
+  "description": "chocolate bar popular in the UK",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/trio-q23461236/trio-q23461236-1.jpg",
+    "images/trio-q23461236/trio-q23461236-2.jpg",
+    "images/trio-q23461236/trio-q23461236-3.jpg",
+    "images/trio-q23461236/trio-q23461236-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23461236",
+    "themealdb": null
+  }
+}

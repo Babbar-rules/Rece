@@ -1,0 +1,20 @@
+{
+  "id": "Q2270630",
+  "name": "Gianduja",
+  "description": "confection made of chocolate and hazelnut",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gianduja-q2270630/gianduja-q2270630-1.jpg",
+    "images/gianduja-q2270630/gianduja-q2270630-2.jpg",
+    "images/gianduja-q2270630/gianduja-q2270630-3.jpg",
+    "images/gianduja-q2270630/gianduja-q2270630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2270630",
+    "themealdb": null
+  }
+}

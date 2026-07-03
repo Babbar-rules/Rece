@@ -1,0 +1,20 @@
+{
+  "id": "Q2402333",
+  "name": "Buddha's delight",
+  "description": "vegetarian dish of China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buddhas-delight-q2402333/buddhas-delight-q2402333-1.jpg",
+    "images/buddhas-delight-q2402333/buddhas-delight-q2402333-2.jpg",
+    "images/buddhas-delight-q2402333/buddhas-delight-q2402333-3.jpg",
+    "images/buddhas-delight-q2402333/buddhas-delight-q2402333-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2402333",
+    "themealdb": null
+  }
+}

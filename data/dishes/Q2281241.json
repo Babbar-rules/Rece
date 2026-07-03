@@ -1,0 +1,18 @@
+{
+  "id": "Q2281241",
+  "name": "Bokkenpootje",
+  "description": "type of meringue cookie in the Netherlands",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bokkenpootje-q2281241/bokkenpootje-q2281241-1.jpg",
+    "images/bokkenpootje-q2281241/bokkenpootje-q2281241-2.jpg",
+    "images/bokkenpootje-q2281241/bokkenpootje-q2281241-3.jpg",
+    "images/bokkenpootje-q2281241/bokkenpootje-q2281241-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2281241",
+    "themealdb": null
+  }
+}

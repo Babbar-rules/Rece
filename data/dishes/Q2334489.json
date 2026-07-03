@@ -1,0 +1,20 @@
+{
+  "id": "Q2334489",
+  "name": "marron glacé",
+  "description": "candied chestnut",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marron-glace-q2334489/marron-glace-q2334489-1.jpg",
+    "images/marron-glace-q2334489/marron-glace-q2334489-2.jpg",
+    "images/marron-glace-q2334489/marron-glace-q2334489-3.jpg",
+    "images/marron-glace-q2334489/marron-glace-q2334489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2334489",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2378108",
+  "name": "Chanakhi",
+  "description": "traditional Georgian dish",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chanakhi-q2378108/chanakhi-q2378108-1.jpg",
+    "images/chanakhi-q2378108/chanakhi-q2378108-2.jpg",
+    "images/chanakhi-q2378108/chanakhi-q2378108-3.png",
+    "images/chanakhi-q2378108/chanakhi-q2378108-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2378108",
+    "themealdb": null
+  }
+}

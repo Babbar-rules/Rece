@@ -1,0 +1,20 @@
+{
+  "id": "Q2308476",
+  "name": "vlaflip",
+  "description": "Dutch dessert with custard, yoghurt and lemonade syrup",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vlaflip-q2308476/vlaflip-q2308476-1.jpg",
+    "images/vlaflip-q2308476/vlaflip-q2308476-2.jpg",
+    "images/vlaflip-q2308476/vlaflip-q2308476-3.jpg",
+    "images/vlaflip-q2308476/vlaflip-q2308476-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2308476",
+    "themealdb": null
+  }
+}

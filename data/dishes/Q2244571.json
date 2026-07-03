@@ -1,0 +1,20 @@
+{
+  "id": "Q2244571",
+  "name": "baby potato",
+  "description": "dish of small potatoes",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baby-potato-q2244571/baby-potato-q2244571-1.jpg",
+    "images/baby-potato-q2244571/baby-potato-q2244571-2.jpg",
+    "images/baby-potato-q2244571/baby-potato-q2244571-3.jpg",
+    "images/baby-potato-q2244571/baby-potato-q2244571-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2244571",
+    "themealdb": null
+  }
+}

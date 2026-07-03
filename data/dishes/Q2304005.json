@@ -1,0 +1,25 @@
+{
+  "id": "Q2304005",
+  "name": "uszka",
+  "description": "small dumplings",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Ukrainian cuisine",
+    "Polish cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/uszka-q2304005/uszka-q2304005-1.jpg",
+    "images/uszka-q2304005/uszka-q2304005-2.jpg",
+    "images/uszka-q2304005/uszka-q2304005-3.jpg",
+    "images/uszka-q2304005/uszka-q2304005-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2304005",
+    "themealdb": null
+  }
+}

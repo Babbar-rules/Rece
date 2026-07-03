@@ -1,0 +1,18 @@
+{
+  "id": "Q23925811",
+  "name": "boat noodles",
+  "description": "Hong Kong cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boat-noodles-q23925811/boat-noodles-q23925811-1.jpg",
+    "images/boat-noodles-q23925811/boat-noodles-q23925811-2.jpg",
+    "images/boat-noodles-q23925811/boat-noodles-q23925811-3.jpg",
+    "images/boat-noodles-q23925811/boat-noodles-q23925811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23925811",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q23015",
+  "name": "suckling pig",
+  "description": "piglet fed on its mother's milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/suckling-pig-q23015/suckling-pig-q23015-1.jpg",
+    "images/suckling-pig-q23015/suckling-pig-q23015-2.jpg",
+    "images/suckling-pig-q23015/suckling-pig-q23015-3.jpg",
+    "images/suckling-pig-q23015/suckling-pig-q23015-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23015",
+    "themealdb": null
+  }
+}

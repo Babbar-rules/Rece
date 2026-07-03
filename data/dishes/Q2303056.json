@@ -1,0 +1,23 @@
+{
+  "id": "Q2303056",
+  "name": "shepherd's pie",
+  "description": "meat pie with a crust or topping of mashed potato",
+  "nationality": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/shepherds-pie-q2303056/shepherds-pie-q2303056-1.jpg",
+    "images/shepherds-pie-q2303056/shepherds-pie-q2303056-2.jpg",
+    "images/shepherds-pie-q2303056/shepherds-pie-q2303056-3.jpg",
+    "images/shepherds-pie-q2303056/shepherds-pie-q2303056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2303056",
+    "themealdb": null
+  }
+}

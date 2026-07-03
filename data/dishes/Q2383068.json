@@ -1,0 +1,19 @@
+{
+  "id": "Q2383068",
+  "name": "Skerpikjøt",
+  "description": "Wind-dried mutton from the Faroe Islands",
+  "nationality": [
+    "Faroe Islands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/skerpikjt-q2383068/skerpikjt-q2383068-1.jpg",
+    "images/skerpikjt-q2383068/skerpikjt-q2383068-2.jpg",
+    "images/skerpikjt-q2383068/skerpikjt-q2383068-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2383068",
+    "themealdb": null
+  }
+}

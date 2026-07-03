@@ -1,0 +1,20 @@
+{
+  "id": "Q2315099",
+  "name": "Matbucha",
+  "description": "cooked tomato and roasted bell pepper salad",
+  "nationality": [
+    "Maghreb"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/matbucha-q2315099/matbucha-q2315099-1.jpg",
+    "images/matbucha-q2315099/matbucha-q2315099-2.jpg",
+    "images/matbucha-q2315099/matbucha-q2315099-3.png",
+    "images/matbucha-q2315099/matbucha-q2315099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2315099",
+    "themealdb": null
+  }
+}

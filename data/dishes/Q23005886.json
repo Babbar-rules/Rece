@@ -1,0 +1,18 @@
+{
+  "id": "Q23005886",
+  "name": "Hernhutter",
+  "description": "cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hernhutter-q23005886/hernhutter-q23005886-1.jpg",
+    "images/hernhutter-q23005886/hernhutter-q23005886-2.jpg",
+    "images/hernhutter-q23005886/hernhutter-q23005886-3.jpg",
+    "images/hernhutter-q23005886/hernhutter-q23005886-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23005886",
+    "themealdb": null
+  }
+}

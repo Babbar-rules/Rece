@@ -1,0 +1,22 @@
+{
+  "id": "Q2372494",
+  "name": "Plăcintă",
+  "description": "stuffed deep-fried pastry prepared with a variety of fillings",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine"
+  ],
+  "images": [
+    "images/placinta-q2372494/placinta-q2372494-1.jpg",
+    "images/placinta-q2372494/placinta-q2372494-2.jpg",
+    "images/placinta-q2372494/placinta-q2372494-3.jpg",
+    "images/placinta-q2372494/placinta-q2372494-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2372494",
+    "themealdb": null
+  }
+}

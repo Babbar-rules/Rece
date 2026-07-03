@@ -1,0 +1,18 @@
+{
+  "id": "Q2252452",
+  "name": "Schuxen",
+  "description": "German pastry",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schuxen-q2252452/schuxen-q2252452-1.jpg",
+    "images/schuxen-q2252452/schuxen-q2252452-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2252452",
+    "themealdb": null
+  }
+}

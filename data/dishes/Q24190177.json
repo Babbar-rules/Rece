@@ -1,0 +1,18 @@
+{
+  "id": "Q24190177",
+  "name": "Pal-o-mine",
+  "description": "Canadian chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pal-o-mine-q24190177/pal-o-mine-q24190177-1.jpg",
+    "images/pal-o-mine-q24190177/pal-o-mine-q24190177-2.jpg",
+    "images/pal-o-mine-q24190177/pal-o-mine-q24190177-3.jpg",
+    "images/pal-o-mine-q24190177/pal-o-mine-q24190177-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24190177",
+    "themealdb": null
+  }
+}

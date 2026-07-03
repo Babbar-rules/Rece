@@ -1,0 +1,18 @@
+{
+  "id": "Q2221627",
+  "name": "fried noodle",
+  "description": "stir-fried noodle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-noodle-q2221627/fried-noodle-q2221627-1.png",
+    "images/fried-noodle-q2221627/fried-noodle-q2221627-2.png",
+    "images/fried-noodle-q2221627/fried-noodle-q2221627-3.jpg",
+    "images/fried-noodle-q2221627/fried-noodle-q2221627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2221627",
+    "themealdb": null
+  }
+}

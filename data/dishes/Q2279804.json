@@ -1,0 +1,20 @@
+{
+  "id": "Q2279804",
+  "name": "shoofly pie",
+  "description": "molasses pie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shoofly-pie-q2279804/shoofly-pie-q2279804-1.jpg",
+    "images/shoofly-pie-q2279804/shoofly-pie-q2279804-2.jpg",
+    "images/shoofly-pie-q2279804/shoofly-pie-q2279804-3.png",
+    "images/shoofly-pie-q2279804/shoofly-pie-q2279804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2279804",
+    "themealdb": null
+  }
+}

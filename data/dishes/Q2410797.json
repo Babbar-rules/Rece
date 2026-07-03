@@ -1,0 +1,18 @@
+{
+  "id": "Q2410797",
+  "name": "Raspatat",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/raspatat-q2410797/raspatat-q2410797-1.jpg",
+    "images/raspatat-q2410797/raspatat-q2410797-2.jpg",
+    "images/raspatat-q2410797/raspatat-q2410797-3.jpg",
+    "images/raspatat-q2410797/raspatat-q2410797-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2410797",
+    "themealdb": null
+  }
+}

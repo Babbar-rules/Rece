@@ -1,0 +1,22 @@
+{
+  "id": "Q2267393",
+  "name": "mola salsa",
+  "description": "Ancient roman ritual food",
+  "nationality": [
+    "Ancient Rome"
+  ],
+  "region_cuisine": [
+    "Ancient Roman cuisine"
+  ],
+  "images": [
+    "images/mola-salsa-q2267393/mola-salsa-q2267393-1.jpg",
+    "images/mola-salsa-q2267393/mola-salsa-q2267393-2.jpg",
+    "images/mola-salsa-q2267393/mola-salsa-q2267393-3.jpg",
+    "images/mola-salsa-q2267393/mola-salsa-q2267393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2267393",
+    "themealdb": null
+  }
+}

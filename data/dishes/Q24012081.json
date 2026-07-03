@@ -1,0 +1,18 @@
+{
+  "id": "Q24012081",
+  "name": "Pappardelle with wild boar",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pappardelle-with-wild-boar-q24012081/pappardelle-with-wild-boar-q24012081-1.jpg",
+    "images/pappardelle-with-wild-boar-q24012081/pappardelle-with-wild-boar-q24012081-2.jpg",
+    "images/pappardelle-with-wild-boar-q24012081/pappardelle-with-wild-boar-q24012081-3.jpg",
+    "images/pappardelle-with-wild-boar-q24012081/pappardelle-with-wild-boar-q24012081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24012081",
+    "themealdb": null
+  }
+}

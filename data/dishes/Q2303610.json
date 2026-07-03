@@ -1,0 +1,20 @@
+{
+  "id": "Q2303610",
+  "name": "Tournedos Rossini",
+  "description": "French steak dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tournedos-rossini-q2303610/tournedos-rossini-q2303610-1.jpg",
+    "images/tournedos-rossini-q2303610/tournedos-rossini-q2303610-2.jpg",
+    "images/tournedos-rossini-q2303610/tournedos-rossini-q2303610-3.jpg",
+    "images/tournedos-rossini-q2303610/tournedos-rossini-q2303610-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2303610",
+    "themealdb": null
+  }
+}

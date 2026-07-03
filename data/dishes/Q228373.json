@@ -1,0 +1,22 @@
+{
+  "id": "Q228373",
+  "name": "Zuger Kirschtorte",
+  "description": "Swiss cake",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/zuger-kirschtorte-q228373/zuger-kirschtorte-q228373-1.jpg",
+    "images/zuger-kirschtorte-q228373/zuger-kirschtorte-q228373-2.jpg",
+    "images/zuger-kirschtorte-q228373/zuger-kirschtorte-q228373-3.jpg",
+    "images/zuger-kirschtorte-q228373/zuger-kirschtorte-q228373-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q228373",
+    "themealdb": null
+  }
+}

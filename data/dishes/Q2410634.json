@@ -1,0 +1,20 @@
+{
+  "id": "Q2410634",
+  "name": "green bean casserole",
+  "description": "American dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/green-bean-casserole-q2410634/green-bean-casserole-q2410634-1.jpg",
+    "images/green-bean-casserole-q2410634/green-bean-casserole-q2410634-2.jpg",
+    "images/green-bean-casserole-q2410634/green-bean-casserole-q2410634-3.jpg",
+    "images/green-bean-casserole-q2410634/green-bean-casserole-q2410634-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2410634",
+    "themealdb": null
+  }
+}

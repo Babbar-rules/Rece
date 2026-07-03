@@ -1,0 +1,18 @@
+{
+  "id": "Q23417616",
+  "name": "Puntas (Mexican dish)",
+  "description": "Culinary dish in Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puntas-mexican-dish-q23417616/puntas-mexican-dish-q23417616-1.jpg",
+    "images/puntas-mexican-dish-q23417616/puntas-mexican-dish-q23417616-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23417616",
+    "themealdb": null
+  }
+}

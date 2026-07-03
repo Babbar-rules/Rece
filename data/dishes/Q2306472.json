@@ -1,0 +1,20 @@
+{
+  "id": "Q2306472",
+  "name": "Neapolitan ragù",
+  "description": "Italian meat sauce",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neapolitan-ragu-q2306472/neapolitan-ragu-q2306472-1.jpg",
+    "images/neapolitan-ragu-q2306472/neapolitan-ragu-q2306472-2.jpg",
+    "images/neapolitan-ragu-q2306472/neapolitan-ragu-q2306472-3.jpg",
+    "images/neapolitan-ragu-q2306472/neapolitan-ragu-q2306472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2306472",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q22984746",
+  "name": "Volkswagen currywurst",
+  "description": "currywurst produced by Volkswagen",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/volkswagen-currywurst-q22984746/volkswagen-currywurst-q22984746-1.jpg",
+    "images/volkswagen-currywurst-q22984746/volkswagen-currywurst-q22984746-2.jpg",
+    "images/volkswagen-currywurst-q22984746/volkswagen-currywurst-q22984746-3.jpg",
+    "images/volkswagen-currywurst-q22984746/volkswagen-currywurst-q22984746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22984746",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2297811",
+  "name": "succade",
+  "description": "candied citrus peel",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/succade-q2297811/succade-q2297811-1.jpg",
+    "images/succade-q2297811/succade-q2297811-2.jpg",
+    "images/succade-q2297811/succade-q2297811-3.jpg",
+    "images/succade-q2297811/succade-q2297811-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2297811",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "Q240923",
+  "name": "Souvlaki",
+  "description": "Greek fast food",
+  "nationality": [
+    "Greece",
+    "Cyprus"
+  ],
+  "region_cuisine": [
+    "Lamb"
+  ],
+  "images": [
+    "images/souvlaki-q240923/souvlaki-q240923-1.jpg",
+    "images/souvlaki-q240923/souvlaki-q240923-2.jpg",
+    "images/souvlaki-q240923/souvlaki-q240923-3.jpg",
+    "images/souvlaki-q240923/souvlaki-q240923-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53009",
+    "category": "Lamb",
+    "area": "Greek",
+    "instructions": "Pound the garlic with sea salt in a pestle and mortar (or use a small food processor), until the garlic forms a paste. Whisk together the oil, lemon juice, zest, dill and garlic. Mix in the lamb and combine well. Cover and marinate for at least 2 hrs or overnight in the fridge. If you’re going to use bamboo skewers, soak them in cold water.\r\n\r\nIf you’ve prepared the lamb the previous day, take it out of the fridge 30 mins before cooking. Thread the meat onto the soaked or metal skewers. Heat the grill to high or have a hot griddle pan or barbecue ready. Cook the skewers for 2-3 mins on each side, basting with the remaining marinade. Heat the pitta or flatbreads briefly, then stuff with the souvlaki. Add Greek salad (see 'Goes well with', right) and Tzatziki (below), if you like.",
+    "ingredients": [
+      {
+        "ingredient": "Garlic",
+        "measure": "2 cloves"
+      },
+      {
+        "ingredient": "Sea Salt",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "4 tbs"
+      },
+      {
+        "ingredient": "Lemon",
+        "measure": "Zest and juice of 1"
+      },
+      {
+        "ingredient": "Dill",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Lamb Leg",
+        "measure": "750g"
+      },
+      {
+        "ingredient": "Pita Bread",
+        "measure": "To serve"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=krR4rhjR75Y",
+    "thumb": "https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q240923",
+    "themealdb": "53009"
+  }
+}

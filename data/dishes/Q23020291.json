@@ -1,0 +1,18 @@
+{
+  "id": "Q23020291",
+  "name": "Tiparos",
+  "description": "food brand and company",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tiparos-q23020291/tiparos-q23020291-1.jpg",
+    "images/tiparos-q23020291/tiparos-q23020291-2.jpg",
+    "images/tiparos-q23020291/tiparos-q23020291-3.png",
+    "images/tiparos-q23020291/tiparos-q23020291-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23020291",
+    "themealdb": null
+  }
+}

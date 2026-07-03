@@ -1,0 +1,18 @@
+{
+  "id": "Q2251745",
+  "name": "baked good",
+  "description": "foods made from dough or batter (cereals or cereal products) that are cooked by baking",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baked-good-q2251745/baked-good-q2251745-1.jpg",
+    "images/baked-good-q2251745/baked-good-q2251745-2.gif",
+    "images/baked-good-q2251745/baked-good-q2251745-3.jpg",
+    "images/baked-good-q2251745/baked-good-q2251745-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2251745",
+    "themealdb": null
+  }
+}

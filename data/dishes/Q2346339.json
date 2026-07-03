@@ -1,0 +1,18 @@
+{
+  "id": "Q2346339",
+  "name": "pasztecik szczeciński",
+  "description": "Deep-fried stuffed yeast dough from Szczecin, Poland.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pasztecik-szczecinski-q2346339/pasztecik-szczecinski-q2346339-1.jpg",
+    "images/pasztecik-szczecinski-q2346339/pasztecik-szczecinski-q2346339-2.jpg",
+    "images/pasztecik-szczecinski-q2346339/pasztecik-szczecinski-q2346339-3.jpg",
+    "images/pasztecik-szczecinski-q2346339/pasztecik-szczecinski-q2346339-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2346339",
+    "themealdb": null
+  }
+}

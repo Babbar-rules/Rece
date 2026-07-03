@@ -1,0 +1,18 @@
+{
+  "id": "Q2348879",
+  "name": "Viennetta",
+  "description": "brand of ice cream dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/viennetta-q2348879/viennetta-q2348879-1.jpg",
+    "images/viennetta-q2348879/viennetta-q2348879-2.jpg",
+    "images/viennetta-q2348879/viennetta-q2348879-3.jpg",
+    "images/viennetta-q2348879/viennetta-q2348879-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2348879",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q2338350",
+  "name": "Cezerye",
+  "description": "semi-gelatinous Turkish confectionery made from caramelised carrots",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cezerye-q2338350/cezerye-q2338350-1.jpg",
+    "images/cezerye-q2338350/cezerye-q2338350-2.jpg",
+    "images/cezerye-q2338350/cezerye-q2338350-3.jpg",
+    "images/cezerye-q2338350/cezerye-q2338350-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2338350",
+    "themealdb": null
+  }
+}

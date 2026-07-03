@@ -1,0 +1,20 @@
+{
+  "id": "Q23034858",
+  "name": "türlü",
+  "description": "Turkish vegetable stew",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turlu-q23034858/turlu-q23034858-1.jpg",
+    "images/turlu-q23034858/turlu-q23034858-2.jpg",
+    "images/turlu-q23034858/turlu-q23034858-3.jpg",
+    "images/turlu-q23034858/turlu-q23034858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23034858",
+    "themealdb": null
+  }
+}

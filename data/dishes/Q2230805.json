@@ -1,0 +1,17 @@
+{
+  "id": "Q2230805",
+  "name": "Garibaldi biscuit",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garibaldi-biscuit-q2230805/garibaldi-biscuit-q2230805-1.jpg",
+    "images/garibaldi-biscuit-q2230805/garibaldi-biscuit-q2230805-2.jpg",
+    "images/garibaldi-biscuit-q2230805/garibaldi-biscuit-q2230805-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2230805",
+    "themealdb": null
+  }
+}

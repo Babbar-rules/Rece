@@ -1,0 +1,22 @@
+{
+  "id": "Q22348247",
+  "name": "kavarma",
+  "description": "",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [
+    "Balkan cuisine"
+  ],
+  "images": [
+    "images/kavarma-q22348247/kavarma-q22348247-1.jpeg",
+    "images/kavarma-q22348247/kavarma-q22348247-2.jpg",
+    "images/kavarma-q22348247/kavarma-q22348247-3.jpg",
+    "images/kavarma-q22348247/kavarma-q22348247-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22348247",
+    "themealdb": null
+  }
+}

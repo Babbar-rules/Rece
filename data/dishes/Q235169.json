@@ -1,0 +1,22 @@
+{
+  "id": "Q235169",
+  "name": "miso",
+  "description": "fermented soybean paste",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/miso-q235169/miso-q235169-1.jpg",
+    "images/miso-q235169/miso-q235169-2.jpg",
+    "images/miso-q235169/miso-q235169-3.jpg",
+    "images/miso-q235169/miso-q235169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q235169",
+    "themealdb": null
+  }
+}

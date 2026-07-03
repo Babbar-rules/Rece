@@ -1,0 +1,20 @@
+{
+  "id": "Q22907436",
+  "name": "confiture",
+  "description": "fruit jam in thick syrup",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/confiture-q22907436/confiture-q22907436-1.jpg",
+    "images/confiture-q22907436/confiture-q22907436-2.jpg",
+    "images/confiture-q22907436/confiture-q22907436-3.jpg",
+    "images/confiture-q22907436/confiture-q22907436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22907436",
+    "themealdb": null
+  }
+}

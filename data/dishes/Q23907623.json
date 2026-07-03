@@ -1,0 +1,20 @@
+{
+  "id": "Q23907623",
+  "name": "Pate acha",
+  "description": "Northern Nigeria meal",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-acha-q23907623/pate-acha-q23907623-1.jpg",
+    "images/pate-acha-q23907623/pate-acha-q23907623-2.jpg",
+    "images/pate-acha-q23907623/pate-acha-q23907623-3.jpg",
+    "images/pate-acha-q23907623/pate-acha-q23907623-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23907623",
+    "themealdb": null
+  }
+}

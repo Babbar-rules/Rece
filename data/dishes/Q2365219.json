@@ -1,0 +1,17 @@
+{
+  "id": "Q2365219",
+  "name": "Bappir",
+  "description": "sumerian Dish of Twice-baked barley bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bappir-q2365219/bappir-q2365219-1.jpg",
+    "images/bappir-q2365219/bappir-q2365219-2.jpg",
+    "images/bappir-q2365219/bappir-q2365219-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2365219",
+    "themealdb": null
+  }
+}

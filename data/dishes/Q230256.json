@@ -1,0 +1,20 @@
+{
+  "id": "Q230256",
+  "name": "zuppa inglese",
+  "description": "dessert of Italian cuisine",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zuppa-inglese-q230256/zuppa-inglese-q230256-1.jpg",
+    "images/zuppa-inglese-q230256/zuppa-inglese-q230256-2.jpg",
+    "images/zuppa-inglese-q230256/zuppa-inglese-q230256-3.jpg",
+    "images/zuppa-inglese-q230256/zuppa-inglese-q230256-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q230256",
+    "themealdb": null
+  }
+}

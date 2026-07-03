@@ -1,0 +1,18 @@
+{
+  "id": "Q230246",
+  "name": "Zuppa Romana",
+  "description": "a variation of the Italian dessert zuppa inglese alla romana",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zuppa-romana-q230246/zuppa-romana-q230246-1.png",
+    "images/zuppa-romana-q230246/zuppa-romana-q230246-2.jpg",
+    "images/zuppa-romana-q230246/zuppa-romana-q230246-3.jpg",
+    "images/zuppa-romana-q230246/zuppa-romana-q230246-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q230246",
+    "themealdb": null
+  }
+}

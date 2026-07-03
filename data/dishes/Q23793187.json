@@ -1,0 +1,20 @@
+{
+  "id": "Q23793187",
+  "name": "hoşaf",
+  "description": "Turkish dried fruit compote",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hosaf-q23793187/hosaf-q23793187-1.jpg",
+    "images/hosaf-q23793187/hosaf-q23793187-2.jpg",
+    "images/hosaf-q23793187/hosaf-q23793187-3.jpg",
+    "images/hosaf-q23793187/hosaf-q23793187-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23793187",
+    "themealdb": null
+  }
+}

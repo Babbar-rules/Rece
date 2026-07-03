@@ -1,0 +1,15 @@
+{
+  "id": "Q23930009",
+  "name": "krupenik",
+  "description": "Russian dish",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23930009",
+    "themealdb": null
+  }
+}

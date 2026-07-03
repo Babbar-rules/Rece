@@ -1,0 +1,20 @@
+{
+  "id": "Q229777",
+  "name": "zundamochi",
+  "description": "soy-based Japanese sweet",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zundamochi-q229777/zundamochi-q229777-1.jpg",
+    "images/zundamochi-q229777/zundamochi-q229777-2.jpg",
+    "images/zundamochi-q229777/zundamochi-q229777-3.jpg",
+    "images/zundamochi-q229777/zundamochi-q229777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q229777",
+    "themealdb": null
+  }
+}

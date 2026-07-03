@@ -1,0 +1,20 @@
+{
+  "id": "Q2284646",
+  "name": "sigara böreği",
+  "description": "fried \"börek\" from the Turkish cuisine shaped like a cigar or cigarette",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sigara-boregi-q2284646/sigara-boregi-q2284646-1.jpg",
+    "images/sigara-boregi-q2284646/sigara-boregi-q2284646-2.jpg",
+    "images/sigara-boregi-q2284646/sigara-boregi-q2284646-3.jpg",
+    "images/sigara-boregi-q2284646/sigara-boregi-q2284646-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2284646",
+    "themealdb": null
+  }
+}

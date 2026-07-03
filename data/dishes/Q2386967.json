@@ -1,0 +1,20 @@
+{
+  "id": "Q2386967",
+  "name": "Taco al pastor",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taco-al-pastor-q2386967/taco-al-pastor-q2386967-1.jpg",
+    "images/taco-al-pastor-q2386967/taco-al-pastor-q2386967-2.jpg",
+    "images/taco-al-pastor-q2386967/taco-al-pastor-q2386967-3.jpg",
+    "images/taco-al-pastor-q2386967/taco-al-pastor-q2386967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2386967",
+    "themealdb": null
+  }
+}

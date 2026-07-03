@@ -1,0 +1,20 @@
+{
+  "id": "Q2398830",
+  "name": "Salambo",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/salambo-q2398830/salambo-q2398830-1.jpg",
+    "images/salambo-q2398830/salambo-q2398830-2.jpg",
+    "images/salambo-q2398830/salambo-q2398830-3.jpg",
+    "images/salambo-q2398830/salambo-q2398830-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2398830",
+    "themealdb": null
+  }
+}

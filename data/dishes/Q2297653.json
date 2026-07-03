@@ -1,0 +1,18 @@
+{
+  "id": "Q2297653",
+  "name": "Kinder Bueno",
+  "description": "chocolate bar made by Ferrero",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kinder-bueno-q2297653/kinder-bueno-q2297653-1.jpg",
+    "images/kinder-bueno-q2297653/kinder-bueno-q2297653-2.jpg",
+    "images/kinder-bueno-q2297653/kinder-bueno-q2297653-3.jpg",
+    "images/kinder-bueno-q2297653/kinder-bueno-q2297653-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2297653",
+    "themealdb": null
+  }
+}

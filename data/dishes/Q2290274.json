@@ -1,0 +1,20 @@
+{
+  "id": "Q2290274",
+  "name": "Belgian praline",
+  "description": "chocolate shell with a softer, sometimes liquid, filling",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/belgian-praline-q2290274/belgian-praline-q2290274-1.jpg",
+    "images/belgian-praline-q2290274/belgian-praline-q2290274-2.jpg",
+    "images/belgian-praline-q2290274/belgian-praline-q2290274-3.jpg",
+    "images/belgian-praline-q2290274/belgian-praline-q2290274-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2290274",
+    "themealdb": null
+  }
+}

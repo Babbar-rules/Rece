@@ -1,0 +1,23 @@
+{
+  "id": "Q23004",
+  "name": "bread roll",
+  "description": "small, usually round or oblong individual loaf of bread served as a meal accompaniment",
+  "nationality": [
+    "Italy",
+    "Austria",
+    "Russia",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-roll-q23004/bread-roll-q23004-1.jpg",
+    "images/bread-roll-q23004/bread-roll-q23004-2.jpg",
+    "images/bread-roll-q23004/bread-roll-q23004-3.jpg",
+    "images/bread-roll-q23004/bread-roll-q23004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23004",
+    "themealdb": null
+  }
+}

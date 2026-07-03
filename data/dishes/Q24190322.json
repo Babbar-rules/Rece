@@ -1,0 +1,18 @@
+{
+  "id": "Q24190322",
+  "name": "rotisserie chicken",
+  "description": "whole seasoned chicken roasted in a rotisserie machine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rotisserie-chicken-q24190322/rotisserie-chicken-q24190322-1.jpg",
+    "images/rotisserie-chicken-q24190322/rotisserie-chicken-q24190322-2.jpg",
+    "images/rotisserie-chicken-q24190322/rotisserie-chicken-q24190322-3.jpg",
+    "images/rotisserie-chicken-q24190322/rotisserie-chicken-q24190322-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24190322",
+    "themealdb": null
+  }
+}

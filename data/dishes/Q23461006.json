@@ -1,0 +1,18 @@
+{
+  "id": "Q23461006",
+  "name": "Halloween cake",
+  "description": "Cake prepared for holiday",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/halloween-cake-q23461006/halloween-cake-q23461006-1.jpg",
+    "images/halloween-cake-q23461006/halloween-cake-q23461006-2.jpg",
+    "images/halloween-cake-q23461006/halloween-cake-q23461006-3.jpg",
+    "images/halloween-cake-q23461006/halloween-cake-q23461006-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23461006",
+    "themealdb": null
+  }
+}

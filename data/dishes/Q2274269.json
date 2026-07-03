@@ -1,0 +1,22 @@
+{
+  "id": "Q2274269",
+  "name": "serviettenknödel",
+  "description": "German bread dumpling",
+  "nationality": [
+    "Austria",
+    "Germany",
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/serviettenknodel-q2274269/serviettenknodel-q2274269-1.jpg",
+    "images/serviettenknodel-q2274269/serviettenknodel-q2274269-2.jpg",
+    "images/serviettenknodel-q2274269/serviettenknodel-q2274269-3.jpg",
+    "images/serviettenknodel-q2274269/serviettenknodel-q2274269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2274269",
+    "themealdb": null
+  }
+}

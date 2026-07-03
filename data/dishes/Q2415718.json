@@ -1,0 +1,20 @@
+{
+  "id": "Q2415718",
+  "name": "panzanella",
+  "description": "salad",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panzanella-q2415718/panzanella-q2415718-1.jpg",
+    "images/panzanella-q2415718/panzanella-q2415718-2.jpg",
+    "images/panzanella-q2415718/panzanella-q2415718-3.jpg",
+    "images/panzanella-q2415718/panzanella-q2415718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2415718",
+    "themealdb": null
+  }
+}

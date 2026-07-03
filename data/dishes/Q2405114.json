@@ -1,0 +1,18 @@
+{
+  "id": "Q2405114",
+  "name": "eierbal",
+  "description": "hard-boiled egg surrounded by breaded meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eierbal-q2405114/eierbal-q2405114-1.jpg",
+    "images/eierbal-q2405114/eierbal-q2405114-2.jpg",
+    "images/eierbal-q2405114/eierbal-q2405114-3.jpg",
+    "images/eierbal-q2405114/eierbal-q2405114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2405114",
+    "themealdb": null
+  }
+}

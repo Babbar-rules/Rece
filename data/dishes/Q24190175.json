@@ -1,0 +1,18 @@
+{
+  "id": "Q24190175",
+  "name": "Jersey Milk",
+  "description": "chocolate bar brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jersey-milk-q24190175/jersey-milk-q24190175-1.jpg",
+    "images/jersey-milk-q24190175/jersey-milk-q24190175-2.jpg",
+    "images/jersey-milk-q24190175/jersey-milk-q24190175-3.jpg",
+    "images/jersey-milk-q24190175/jersey-milk-q24190175-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24190175",
+    "themealdb": null
+  }
+}

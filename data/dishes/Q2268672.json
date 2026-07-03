@@ -1,0 +1,22 @@
+{
+  "id": "Q2268672",
+  "name": "tom kha kai",
+  "description": "Thai coconut milk and chicken soup",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/tom-kha-kai-q2268672/tom-kha-kai-q2268672-1.jpg",
+    "images/tom-kha-kai-q2268672/tom-kha-kai-q2268672-2.jpg",
+    "images/tom-kha-kai-q2268672/tom-kha-kai-q2268672-3.jpg",
+    "images/tom-kha-kai-q2268672/tom-kha-kai-q2268672-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2268672",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q2391835",
+  "name": "Cha-Cha",
+  "description": "Belgian candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cha-cha-q2391835/cha-cha-q2391835-1.jpg",
+    "images/cha-cha-q2391835/cha-cha-q2391835-2.jpg",
+    "images/cha-cha-q2391835/cha-cha-q2391835-3.jpg",
+    "images/cha-cha-q2391835/cha-cha-q2391835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2391835",
+    "themealdb": null
+  }
+}

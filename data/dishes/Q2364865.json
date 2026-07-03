@@ -1,0 +1,20 @@
+{
+  "id": "Q2364865",
+  "name": "gazelle ankles",
+  "description": "traditional Maghrebi cookie made with almond paste and orange blossom water",
+  "nationality": [
+    "Maghreb"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gazelle-ankles-q2364865/gazelle-ankles-q2364865-1.png",
+    "images/gazelle-ankles-q2364865/gazelle-ankles-q2364865-2.jpg",
+    "images/gazelle-ankles-q2364865/gazelle-ankles-q2364865-3.jpg",
+    "images/gazelle-ankles-q2364865/gazelle-ankles-q2364865-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2364865",
+    "themealdb": null
+  }
+}

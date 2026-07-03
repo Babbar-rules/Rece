@@ -1,0 +1,22 @@
+{
+  "id": "Q23815638",
+  "name": "Rigó Jancsi",
+  "description": "cake",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/rigo-jancsi-q23815638/rigo-jancsi-q23815638-1.jpg",
+    "images/rigo-jancsi-q23815638/rigo-jancsi-q23815638-2.jpg",
+    "images/rigo-jancsi-q23815638/rigo-jancsi-q23815638-3.jpg",
+    "images/rigo-jancsi-q23815638/rigo-jancsi-q23815638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23815638",
+    "themealdb": null
+  }
+}

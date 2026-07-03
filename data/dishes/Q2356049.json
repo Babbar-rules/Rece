@@ -1,0 +1,20 @@
+{
+  "id": "Q2356049",
+  "name": "Khapse",
+  "description": "Tibetian deep-fried biscut",
+  "nationality": [
+    "Tibet"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khapse-q2356049/khapse-q2356049-1.jpg",
+    "images/khapse-q2356049/khapse-q2356049-2.jpg",
+    "images/khapse-q2356049/khapse-q2356049-3.jpg",
+    "images/khapse-q2356049/khapse-q2356049-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2356049",
+    "themealdb": null
+  }
+}

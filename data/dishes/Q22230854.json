@@ -1,0 +1,18 @@
+{
+  "id": "Q22230854",
+  "name": "lakh",
+  "description": "millet porridge",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lakh-q22230854/lakh-q22230854-1.jpg",
+    "images/lakh-q22230854/lakh-q22230854-2.jpg",
+    "images/lakh-q22230854/lakh-q22230854-3.jpg",
+    "images/lakh-q22230854/lakh-q22230854-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22230854",
+    "themealdb": null
+  }
+}

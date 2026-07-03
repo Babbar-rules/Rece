@@ -1,0 +1,18 @@
+{
+  "id": "Q23000048",
+  "name": "clementine cake",
+  "description": "cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clementine-cake-q23000048/clementine-cake-q23000048-1.png",
+    "images/clementine-cake-q23000048/clementine-cake-q23000048-2.jpg",
+    "images/clementine-cake-q23000048/clementine-cake-q23000048-3.png",
+    "images/clementine-cake-q23000048/clementine-cake-q23000048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23000048",
+    "themealdb": null
+  }
+}

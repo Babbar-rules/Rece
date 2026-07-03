@@ -1,0 +1,20 @@
+{
+  "id": "Q22914816",
+  "name": "Yam khai dao",
+  "description": "Thai dish made from fried chicken or duck eggs",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yam-khai-dao-q22914816/yam-khai-dao-q22914816-1.jpg",
+    "images/yam-khai-dao-q22914816/yam-khai-dao-q22914816-2.jpg",
+    "images/yam-khai-dao-q22914816/yam-khai-dao-q22914816-3.jpg",
+    "images/yam-khai-dao-q22914816/yam-khai-dao-q22914816-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22914816",
+    "themealdb": null
+  }
+}

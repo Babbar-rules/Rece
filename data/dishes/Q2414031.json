@@ -1,0 +1,22 @@
+{
+  "id": "Q2414031",
+  "name": "lemper",
+  "description": "Indonesia traditional food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/lemper-q2414031/lemper-q2414031-1.jpg",
+    "images/lemper-q2414031/lemper-q2414031-2.jpg",
+    "images/lemper-q2414031/lemper-q2414031-3.jpg",
+    "images/lemper-q2414031/lemper-q2414031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2414031",
+    "themealdb": null
+  }
+}

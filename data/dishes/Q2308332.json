@@ -1,0 +1,24 @@
+{
+  "id": "Q2308332",
+  "name": "Speckkuchen",
+  "description": "Flatbread with a topping of crushed bacon",
+  "nationality": [
+    "Hungary",
+    "Germany"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/speckkuchen-q2308332/speckkuchen-q2308332-1.jpg",
+    "images/speckkuchen-q2308332/speckkuchen-q2308332-2.jpg",
+    "images/speckkuchen-q2308332/speckkuchen-q2308332-3.jpg",
+    "images/speckkuchen-q2308332/speckkuchen-q2308332-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2308332",
+    "themealdb": null
+  }
+}

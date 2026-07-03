@@ -1,0 +1,20 @@
+{
+  "id": "Q2314498",
+  "name": "Spunk",
+  "description": "Danish candy brand, launched in 1971 by manufacturers Galle & Jessen",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spunk-q2314498/spunk-q2314498-1.jpg",
+    "images/spunk-q2314498/spunk-q2314498-2.jpg",
+    "images/spunk-q2314498/spunk-q2314498-3.jpg",
+    "images/spunk-q2314498/spunk-q2314498-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2314498",
+    "themealdb": null
+  }
+}

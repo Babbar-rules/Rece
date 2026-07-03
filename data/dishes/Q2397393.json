@@ -1,0 +1,22 @@
+{
+  "id": "Q2397393",
+  "name": "Picarones",
+  "description": "Peruvian dessert",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [
+    "Peruvian cuisine"
+  ],
+  "images": [
+    "images/picarones-q2397393/picarones-q2397393-1.jpg",
+    "images/picarones-q2397393/picarones-q2397393-2.jpg",
+    "images/picarones-q2397393/picarones-q2397393-3.jpg",
+    "images/picarones-q2397393/picarones-q2397393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2397393",
+    "themealdb": null
+  }
+}
