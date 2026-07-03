@@ -1,0 +1,20 @@
+{
+  "id": "Q552291",
+  "name": "dacquoise",
+  "description": "dessert cake with layers of almond and hazelnut meringue and whipped cream or buttercream",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dacquoise-q552291/dacquoise-q552291-1.jpg",
+    "images/dacquoise-q552291/dacquoise-q552291-2.jpg",
+    "images/dacquoise-q552291/dacquoise-q552291-3.jpg",
+    "images/dacquoise-q552291/dacquoise-q552291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q552291",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5511397",
+  "name": "Fánk",
+  "description": "traditional Hungarian donut",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fank-q5511397/fank-q5511397-1.jpg",
+    "images/fank-q5511397/fank-q5511397-2.jpg",
+    "images/fank-q5511397/fank-q5511397-3.jpg",
+    "images/fank-q5511397/fank-q5511397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5511397",
+    "themealdb": null
+  }
+}

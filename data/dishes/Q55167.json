@@ -1,0 +1,22 @@
+{
+  "id": "Q55167",
+  "name": "pineapple cake",
+  "description": "food",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/pineapple-cake-q55167/pineapple-cake-q55167-1.jpg",
+    "images/pineapple-cake-q55167/pineapple-cake-q55167-2.jpg",
+    "images/pineapple-cake-q55167/pineapple-cake-q55167-3.jpg",
+    "images/pineapple-cake-q55167/pineapple-cake-q55167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55167",
+    "themealdb": null
+  }
+}

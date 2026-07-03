@@ -1,0 +1,20 @@
+{
+  "id": "Q5503409",
+  "name": "Fricot",
+  "description": "traditional Acadian dish",
+  "nationality": [
+    "Acadia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fricot-q5503409/fricot-q5503409-1.jpg",
+    "images/fricot-q5503409/fricot-q5503409-2.jpg",
+    "images/fricot-q5503409/fricot-q5503409-3.jpg",
+    "images/fricot-q5503409/fricot-q5503409-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503409",
+    "themealdb": null
+  }
+}

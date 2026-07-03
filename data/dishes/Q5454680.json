@@ -1,0 +1,18 @@
+{
+  "id": "Q5454680",
+  "name": "fish tea",
+  "description": "spicy soup in Caribbean cuisine, similar to a fish bouillon; includes ground yam, pumpkin, cassava, potatoes and green bananas, cooked until very soft",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-tea-q5454680/fish-tea-q5454680-1.jpg",
+    "images/fish-tea-q5454680/fish-tea-q5454680-2.jpg",
+    "images/fish-tea-q5454680/fish-tea-q5454680-3.jpg",
+    "images/fish-tea-q5454680/fish-tea-q5454680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454680",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5464121",
+  "name": "Foglie d'ulivo",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/foglie-dulivo-q5464121/foglie-dulivo-q5464121-1.jpg",
+    "images/foglie-dulivo-q5464121/foglie-dulivo-q5464121-2.jpg",
+    "images/foglie-dulivo-q5464121/foglie-dulivo-q5464121-3.jpg",
+    "images/foglie-dulivo-q5464121/foglie-dulivo-q5464121-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5464121",
+    "themealdb": null
+  }
+}

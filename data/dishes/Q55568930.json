@@ -1,0 +1,18 @@
+{
+  "id": "Q55568930",
+  "name": "rabbit dish",
+  "description": "type of dish using rabbit meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rabbit-dish-q55568930/rabbit-dish-q55568930-1.jpg",
+    "images/rabbit-dish-q55568930/rabbit-dish-q55568930-2.jpeg",
+    "images/rabbit-dish-q55568930/rabbit-dish-q55568930-3.jpg",
+    "images/rabbit-dish-q55568930/rabbit-dish-q55568930-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55568930",
+    "themealdb": null
+  }
+}

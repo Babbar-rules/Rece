@@ -1,0 +1,16 @@
+{
+  "id": "Q5454601",
+  "name": "Fish and brewis",
+  "description": "traditional Newfoundland meal consisting of cod and hard bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-and-brewis-q5454601/fish-and-brewis-q5454601-1.jpg",
+    "images/fish-and-brewis-q5454601/fish-and-brewis-q5454601-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454601",
+    "themealdb": null
+  }
+}

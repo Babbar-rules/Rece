@@ -1,0 +1,18 @@
+{
+  "id": "Q5454630",
+  "name": "fish fry",
+  "description": "dish consisting of battered or breaded fried fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-fry-q5454630/fish-fry-q5454630-1.jpg",
+    "images/fish-fry-q5454630/fish-fry-q5454630-2.jpg",
+    "images/fish-fry-q5454630/fish-fry-q5454630-3.jpg",
+    "images/fish-fry-q5454630/fish-fry-q5454630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454630",
+    "themealdb": null
+  }
+}

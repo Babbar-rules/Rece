@@ -1,0 +1,16 @@
+{
+  "id": "Q54962774",
+  "name": "Campanian pasta",
+  "description": "pasta of Campania region, Italy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/campanian-pasta-q54962774/campanian-pasta-q54962774-1.jpeg",
+    "images/campanian-pasta-q54962774/campanian-pasta-q54962774-2.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54962774",
+    "themealdb": null
+  }
+}

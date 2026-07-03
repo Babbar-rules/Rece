@@ -1,0 +1,20 @@
+{
+  "id": "Q5488067",
+  "name": "soy sauce chicken",
+  "description": "traditional Cantonese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soy-sauce-chicken-q5488067/soy-sauce-chicken-q5488067-1.jpg",
+    "images/soy-sauce-chicken-q5488067/soy-sauce-chicken-q5488067-2.jpg",
+    "images/soy-sauce-chicken-q5488067/soy-sauce-chicken-q5488067-3.jpg",
+    "images/soy-sauce-chicken-q5488067/soy-sauce-chicken-q5488067-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5488067",
+    "themealdb": null
+  }
+}

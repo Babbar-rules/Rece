@@ -1,0 +1,18 @@
+{
+  "id": "Q5523588",
+  "name": "garnacha",
+  "description": "Mesoamerican dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garnacha-q5523588/garnacha-q5523588-1.jpg",
+    "images/garnacha-q5523588/garnacha-q5523588-2.jpg",
+    "images/garnacha-q5523588/garnacha-q5523588-3.jpg",
+    "images/garnacha-q5523588/garnacha-q5523588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5523588",
+    "themealdb": null
+  }
+}

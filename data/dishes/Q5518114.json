@@ -1,0 +1,18 @@
+{
+  "id": "Q5518114",
+  "name": "Galaxy Bubbles",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galaxy-bubbles-q5518114/galaxy-bubbles-q5518114-1.jpg",
+    "images/galaxy-bubbles-q5518114/galaxy-bubbles-q5518114-2.png",
+    "images/galaxy-bubbles-q5518114/galaxy-bubbles-q5518114-3.jpg",
+    "images/galaxy-bubbles-q5518114/galaxy-bubbles-q5518114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5518114",
+    "themealdb": null
+  }
+}

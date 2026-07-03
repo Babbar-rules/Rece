@@ -1,0 +1,19 @@
+{
+  "id": "Q5550390",
+  "name": "Gerber sandwich",
+  "description": "open-faced sandwich with ham and cheese",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gerber-sandwich-q5550390/gerber-sandwich-q5550390-1.jpg",
+    "images/gerber-sandwich-q5550390/gerber-sandwich-q5550390-2.png",
+    "images/gerber-sandwich-q5550390/gerber-sandwich-q5550390-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5550390",
+    "themealdb": null
+  }
+}

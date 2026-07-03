@@ -1,0 +1,17 @@
+{
+  "id": "Q5507065",
+  "name": "Fudge Rounds",
+  "description": "Round snack cake made by Little Debbie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fudge-rounds-q5507065/fudge-rounds-q5507065-1.jpg",
+    "images/fudge-rounds-q5507065/fudge-rounds-q5507065-2.jpg",
+    "images/fudge-rounds-q5507065/fudge-rounds-q5507065-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5507065",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5504556",
+  "name": "frijoles negros",
+  "description": "Latin American dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Latin American cuisine"
+  ],
+  "images": [
+    "images/frijoles-negros-q5504556/frijoles-negros-q5504556-1.jpg",
+    "images/frijoles-negros-q5504556/frijoles-negros-q5504556-2.jpg",
+    "images/frijoles-negros-q5504556/frijoles-negros-q5504556-3.jpg",
+    "images/frijoles-negros-q5504556/frijoles-negros-q5504556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5504556",
+    "themealdb": null
+  }
+}

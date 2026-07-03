@@ -1,0 +1,20 @@
+{
+  "id": "Q5496835",
+  "name": "Freddo",
+  "description": "Chocolate bar brand of Cadbury",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/freddo-q5496835/freddo-q5496835-1.jpg",
+    "images/freddo-q5496835/freddo-q5496835-2.jpg",
+    "images/freddo-q5496835/freddo-q5496835-3.jpg",
+    "images/freddo-q5496835/freddo-q5496835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5496835",
+    "themealdb": null
+  }
+}

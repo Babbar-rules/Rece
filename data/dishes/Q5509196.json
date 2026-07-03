@@ -1,0 +1,20 @@
+{
+  "id": "Q5509196",
+  "name": "Funing big cake",
+  "description": "type of cake found in Funing County, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/funing-big-cake-q5509196/funing-big-cake-q5509196-1.jpg",
+    "images/funing-big-cake-q5509196/funing-big-cake-q5509196-2.jpg",
+    "images/funing-big-cake-q5509196/funing-big-cake-q5509196-3.jpg",
+    "images/funing-big-cake-q5509196/funing-big-cake-q5509196-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5509196",
+    "themealdb": null
+  }
+}

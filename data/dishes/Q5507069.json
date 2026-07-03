@@ -1,0 +1,18 @@
+{
+  "id": "Q5507069",
+  "name": "chocolate fudge cake",
+  "description": "chocolate cake containing fudge",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-fudge-cake-q5507069/chocolate-fudge-cake-q5507069-1.jpg",
+    "images/chocolate-fudge-cake-q5507069/chocolate-fudge-cake-q5507069-2.jpg",
+    "images/chocolate-fudge-cake-q5507069/chocolate-fudge-cake-q5507069-3.jpg",
+    "images/chocolate-fudge-cake-q5507069/chocolate-fudge-cake-q5507069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5507069",
+    "themealdb": null
+  }
+}

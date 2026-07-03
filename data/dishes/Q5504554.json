@@ -1,0 +1,18 @@
+{
+  "id": "Q5504554",
+  "name": "Frijoles charros",
+  "description": "Mexican pinto bean dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frijoles-charros-q5504554/frijoles-charros-q5504554-1.jpg",
+    "images/frijoles-charros-q5504554/frijoles-charros-q5504554-2.jpg",
+    "images/frijoles-charros-q5504554/frijoles-charros-q5504554-3.jpg",
+    "images/frijoles-charros-q5504554/frijoles-charros-q5504554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5504554",
+    "themealdb": null
+  }
+}

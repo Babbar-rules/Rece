@@ -1,0 +1,18 @@
+{
+  "id": "Q5506553",
+  "name": "Fry's Turkish Delight",
+  "description": "Chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frys-turkish-delight-q5506553/frys-turkish-delight-q5506553-1.jpg",
+    "images/frys-turkish-delight-q5506553/frys-turkish-delight-q5506553-2.jpg",
+    "images/frys-turkish-delight-q5506553/frys-turkish-delight-q5506553-3.jpg",
+    "images/frys-turkish-delight-q5506553/frys-turkish-delight-q5506553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5506553",
+    "themealdb": null
+  }
+}

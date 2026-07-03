@@ -1,0 +1,20 @@
+{
+  "id": "Q5503629",
+  "name": "Fried pie",
+  "description": "Type of dessert pie",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-pie-q5503629/fried-pie-q5503629-1.jpg",
+    "images/fried-pie-q5503629/fried-pie-q5503629-2.jpg",
+    "images/fried-pie-q5503629/fried-pie-q5503629-3.jpg",
+    "images/fried-pie-q5503629/fried-pie-q5503629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503629",
+    "themealdb": null
+  }
+}

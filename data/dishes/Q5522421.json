@@ -1,0 +1,18 @@
+{
+  "id": "Q5522421",
+  "name": "garden salad",
+  "description": "type of salad that uses a base of leafy greens",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garden-salad-q5522421/garden-salad-q5522421-1.jpg",
+    "images/garden-salad-q5522421/garden-salad-q5522421-2.jpg",
+    "images/garden-salad-q5522421/garden-salad-q5522421-3.jpg",
+    "images/garden-salad-q5522421/garden-salad-q5522421-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5522421",
+    "themealdb": null
+  }
+}

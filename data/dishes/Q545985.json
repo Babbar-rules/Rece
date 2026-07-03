@@ -1,0 +1,24 @@
+{
+  "id": "Q545985",
+  "name": "fish sauce",
+  "description": "an amber-coloured liquid extracted from the fermentation of fish with sea salt",
+  "nationality": [
+    "India",
+    "China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine",
+    "Thai cuisine"
+  ],
+  "images": [
+    "images/fish-sauce-q545985/fish-sauce-q545985-1.jpg",
+    "images/fish-sauce-q545985/fish-sauce-q545985-2.jpg",
+    "images/fish-sauce-q545985/fish-sauce-q545985-3.jpg",
+    "images/fish-sauce-q545985/fish-sauce-q545985-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q545985",
+    "themealdb": null
+  }
+}

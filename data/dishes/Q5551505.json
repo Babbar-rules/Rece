@@ -1,0 +1,20 @@
+{
+  "id": "Q5551505",
+  "name": "Patay",
+  "description": "Cake made of white carob flour",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/patay-q5551505/patay-q5551505-1.jpg",
+    "images/patay-q5551505/patay-q5551505-2.jpg",
+    "images/patay-q5551505/patay-q5551505-3.jpg",
+    "images/patay-q5551505/patay-q5551505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5551505",
+    "themealdb": null
+  }
+}

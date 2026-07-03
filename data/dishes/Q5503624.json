@@ -1,0 +1,21 @@
+{
+  "id": "Q5503624",
+  "name": "fried dough",
+  "description": "North American fried dough pastry",
+  "nationality": [
+    "Canada",
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-dough-q5503624/fried-dough-q5503624-1.jpg",
+    "images/fried-dough-q5503624/fried-dough-q5503624-2.jpg",
+    "images/fried-dough-q5503624/fried-dough-q5503624-3.jpg",
+    "images/fried-dough-q5503624/fried-dough-q5503624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503624",
+    "themealdb": null
+  }
+}

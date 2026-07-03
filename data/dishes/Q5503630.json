@@ -1,0 +1,18 @@
+{
+  "id": "Q5503630",
+  "name": "fried potatoes",
+  "description": "potato dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-potatoes-q5503630/fried-potatoes-q5503630-1.jpg",
+    "images/fried-potatoes-q5503630/fried-potatoes-q5503630-2.jpg",
+    "images/fried-potatoes-q5503630/fried-potatoes-q5503630-3.jpg",
+    "images/fried-potatoes-q5503630/fried-potatoes-q5503630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503630",
+    "themealdb": null
+  }
+}

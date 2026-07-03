@@ -1,0 +1,20 @@
+{
+  "id": "Q55228866",
+  "name": "Pantesca salad",
+  "description": "typical dish of the island of Pantelleria",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pantesca-salad-q55228866/pantesca-salad-q55228866-1.jpg",
+    "images/pantesca-salad-q55228866/pantesca-salad-q55228866-2.jpg",
+    "images/pantesca-salad-q55228866/pantesca-salad-q55228866-3.jpg",
+    "images/pantesca-salad-q55228866/pantesca-salad-q55228866-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55228866",
+    "themealdb": null
+  }
+}

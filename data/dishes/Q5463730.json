@@ -1,0 +1,19 @@
+{
+  "id": "Q5463730",
+  "name": "fläskpannkaka",
+  "description": "pancake with pork made in the oven",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flaskpannkaka-q5463730/flaskpannkaka-q5463730-1.jpg",
+    "images/flaskpannkaka-q5463730/flaskpannkaka-q5463730-2.jpg",
+    "images/flaskpannkaka-q5463730/flaskpannkaka-q5463730-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5463730",
+    "themealdb": null
+  }
+}

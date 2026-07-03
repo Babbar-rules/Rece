@@ -1,0 +1,15 @@
+{
+  "id": "Q5522433",
+  "name": "Gardenburger",
+  "description": "American brand of veggie burgers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gardenburger-q5522433/gardenburger-q5522433-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5522433",
+    "themealdb": null
+  }
+}

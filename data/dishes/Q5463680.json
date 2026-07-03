@@ -1,0 +1,18 @@
+{
+  "id": "Q5463680",
+  "name": "Flyte",
+  "description": "chocolate bar manufactured by Mars",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/flyte-q5463680/flyte-q5463680-1.jpg",
+    "images/flyte-q5463680/flyte-q5463680-2.jpg",
+    "images/flyte-q5463680/flyte-q5463680-3.jpg",
+    "images/flyte-q5463680/flyte-q5463680-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5463680",
+    "themealdb": null
+  }
+}

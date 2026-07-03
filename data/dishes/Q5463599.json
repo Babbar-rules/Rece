@@ -1,0 +1,20 @@
+{
+  "id": "Q5463599",
+  "name": "flying saucer",
+  "description": "confectionery",
+  "nationality": [
+    "Belgium"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flying-saucer-q5463599/flying-saucer-q5463599-1.jpg",
+    "images/flying-saucer-q5463599/flying-saucer-q5463599-2.jpg",
+    "images/flying-saucer-q5463599/flying-saucer-q5463599-3.png",
+    "images/flying-saucer-q5463599/flying-saucer-q5463599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5463599",
+    "themealdb": null
+  }
+}

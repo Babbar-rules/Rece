@@ -1,0 +1,23 @@
+{
+  "id": "Q552492",
+  "name": "trdelník",
+  "description": "pastry",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [
+    "Slovak cuisine",
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/trdelnik-q552492/trdelnik-q552492-1.jpg",
+    "images/trdelnik-q552492/trdelnik-q552492-2.jpg",
+    "images/trdelnik-q552492/trdelnik-q552492-3.jpg",
+    "images/trdelnik-q552492/trdelnik-q552492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q552492",
+    "themealdb": null
+  }
+}

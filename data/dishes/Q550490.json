@@ -1,0 +1,27 @@
+{
+  "id": "Q550490",
+  "name": "solyanka",
+  "description": "soup",
+  "nationality": [
+    "Russian Empire"
+  ],
+  "region_cuisine": [
+    "Belarusian cuisine",
+    "cuisine of the German Democratic Republic",
+    "Soviet cuisine",
+    "Ukrainian cuisine",
+    "cuisine of Berlin",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/solyanka-q550490/solyanka-q550490-1.jpg",
+    "images/solyanka-q550490/solyanka-q550490-2.jpg",
+    "images/solyanka-q550490/solyanka-q550490-3.jpg",
+    "images/solyanka-q550490/solyanka-q550490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q550490",
+    "themealdb": null
+  }
+}

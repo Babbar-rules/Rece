@@ -1,0 +1,18 @@
+{
+  "id": "Q5505245",
+  "name": "frogeye salad",
+  "description": "type of pasta salad, made with acini di pepe pasta, whipped topping, egg yolks, often with fruit (e.g. mandarin orange, pineapple), sometimes topped with marshmallows",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frogeye-salad-q5505245/frogeye-salad-q5505245-1.jpg",
+    "images/frogeye-salad-q5505245/frogeye-salad-q5505245-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5505245",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5506414",
+  "name": "Fruit sours",
+  "description": "type of confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-sours-q5506414/fruit-sours-q5506414-1.jpg",
+    "images/fruit-sours-q5506414/fruit-sours-q5506414-2.jpg",
+    "images/fruit-sours-q5506414/fruit-sours-q5506414-3.jpg",
+    "images/fruit-sours-q5506414/fruit-sours-q5506414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5506414",
+    "themealdb": null
+  }
+}

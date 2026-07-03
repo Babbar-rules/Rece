@@ -1,0 +1,18 @@
+{
+  "id": "Q5503603",
+  "name": "fried-brain sandwich",
+  "description": "sandwich of sliced calves' brains on sliced bread",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-brain-sandwich-q5503603/fried-brain-sandwich-q5503603-1.jpg",
+    "images/fried-brain-sandwich-q5503603/fried-brain-sandwich-q5503603-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503603",
+    "themealdb": null
+  }
+}

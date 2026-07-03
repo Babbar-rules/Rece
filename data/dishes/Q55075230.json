@@ -1,0 +1,20 @@
+{
+  "id": "Q55075230",
+  "name": "Smiley Cookies",
+  "description": "Cookie brand in Homestead, Pennsylvania",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/smiley-cookies-q55075230/smiley-cookies-q55075230-1.jpg",
+    "images/smiley-cookies-q55075230/smiley-cookies-q55075230-2.jpg",
+    "images/smiley-cookies-q55075230/smiley-cookies-q55075230-3.jpg",
+    "images/smiley-cookies-q55075230/smiley-cookies-q55075230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55075230",
+    "themealdb": null
+  }
+}

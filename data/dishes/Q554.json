@@ -1,0 +1,22 @@
+{
+  "id": "Q554",
+  "name": "Cervelle de canut",
+  "description": "French cheese spread; specialty of Lyon",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/cervelle-de-canut-q554/cervelle-de-canut-q554-1.jpg",
+    "images/cervelle-de-canut-q554/cervelle-de-canut-q554-2.jpg",
+    "images/cervelle-de-canut-q554/cervelle-de-canut-q554-3.jpg",
+    "images/cervelle-de-canut-q554/cervelle-de-canut-q554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q554",
+    "themealdb": null
+  }
+}

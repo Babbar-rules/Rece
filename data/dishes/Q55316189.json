@@ -1,0 +1,18 @@
+{
+  "id": "Q55316189",
+  "name": "crab cake sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-cake-sandwich-q55316189/crab-cake-sandwich-q55316189-1.jpg",
+    "images/crab-cake-sandwich-q55316189/crab-cake-sandwich-q55316189-2.jpg",
+    "images/crab-cake-sandwich-q55316189/crab-cake-sandwich-q55316189-3.jpg",
+    "images/crab-cake-sandwich-q55316189/crab-cake-sandwich-q55316189-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55316189",
+    "themealdb": null
+  }
+}

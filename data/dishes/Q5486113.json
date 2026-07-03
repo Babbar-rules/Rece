@@ -1,0 +1,20 @@
+{
+  "id": "Q5486113",
+  "name": "Tomaticán",
+  "description": "Chilean stew",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomatican-q5486113/tomatican-q5486113-1.jpeg",
+    "images/tomatican-q5486113/tomatican-q5486113-2.jpg",
+    "images/tomatican-q5486113/tomatican-q5486113-3.jpeg",
+    "images/tomatican-q5486113/tomatican-q5486113-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5486113",
+    "themealdb": null
+  }
+}

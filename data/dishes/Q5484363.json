@@ -1,0 +1,20 @@
+{
+  "id": "Q5484363",
+  "name": "asado negro",
+  "description": "Venezuelan beef dish",
+  "nationality": [
+    "Venezuela"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/asado-negro-q5484363/asado-negro-q5484363-1.jpg",
+    "images/asado-negro-q5484363/asado-negro-q5484363-2.jpg",
+    "images/asado-negro-q5484363/asado-negro-q5484363-3.jpg",
+    "images/asado-negro-q5484363/asado-negro-q5484363-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5484363",
+    "themealdb": null
+  }
+}

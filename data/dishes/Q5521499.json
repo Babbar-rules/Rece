@@ -1,0 +1,20 @@
+{
+  "id": "Q5521499",
+  "name": "Gansito",
+  "description": "Mexican dessert",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gansito-q5521499/gansito-q5521499-1.jpg",
+    "images/gansito-q5521499/gansito-q5521499-2.jpg",
+    "images/gansito-q5521499/gansito-q5521499-3.jpg",
+    "images/gansito-q5521499/gansito-q5521499-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5521499",
+    "themealdb": null
+  }
+}

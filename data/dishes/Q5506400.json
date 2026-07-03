@@ -1,0 +1,20 @@
+{
+  "id": "Q5506400",
+  "name": "fruit hat",
+  "description": "British steamed pudding made with a pastry of suet and flour, and filled with fruit",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-hat-q5506400/fruit-hat-q5506400-1.jpg",
+    "images/fruit-hat-q5506400/fruit-hat-q5506400-2.jpg",
+    "images/fruit-hat-q5506400/fruit-hat-q5506400-3.jpg",
+    "images/fruit-hat-q5506400/fruit-hat-q5506400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5506400",
+    "themealdb": null
+  }
+}

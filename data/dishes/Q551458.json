@@ -1,0 +1,20 @@
+{
+  "id": "Q551458",
+  "name": "deviled egg",
+  "description": "egg-based dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deviled-egg-q551458/deviled-egg-q551458-1.jpg",
+    "images/deviled-egg-q551458/deviled-egg-q551458-2.jpg",
+    "images/deviled-egg-q551458/deviled-egg-q551458-3.jpg",
+    "images/deviled-egg-q551458/deviled-egg-q551458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q551458",
+    "themealdb": null
+  }
+}

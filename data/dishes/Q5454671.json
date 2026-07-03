@@ -1,0 +1,18 @@
+{
+  "id": "Q5454671",
+  "name": "Fish steak",
+  "description": "Type of meat cut",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-steak-q5454671/fish-steak-q5454671-1.jpg",
+    "images/fish-steak-q5454671/fish-steak-q5454671-2.jpg",
+    "images/fish-steak-q5454671/fish-steak-q5454671-3.jpg",
+    "images/fish-steak-q5454671/fish-steak-q5454671-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454671",
+    "themealdb": null
+  }
+}

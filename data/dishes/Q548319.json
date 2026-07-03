@@ -1,0 +1,20 @@
+{
+  "id": "Q548319",
+  "name": "kouign-amann",
+  "description": "cake from Brittany, France.",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kouign-amann-q548319/kouign-amann-q548319-1.jpg",
+    "images/kouign-amann-q548319/kouign-amann-q548319-2.jpg",
+    "images/kouign-amann-q548319/kouign-amann-q548319-3.jpg",
+    "images/kouign-amann-q548319/kouign-amann-q548319-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q548319",
+    "themealdb": null
+  }
+}

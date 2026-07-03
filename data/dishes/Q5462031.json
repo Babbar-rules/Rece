@@ -1,0 +1,18 @@
+{
+  "id": "Q5462031",
+  "name": "flourless chocolate cake",
+  "description": "dense cake made from an aerated chocolate custard",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/flourless-chocolate-cake-q5462031/flourless-chocolate-cake-q5462031-1.jpg",
+    "images/flourless-chocolate-cake-q5462031/flourless-chocolate-cake-q5462031-2.jpg",
+    "images/flourless-chocolate-cake-q5462031/flourless-chocolate-cake-q5462031-3.jpg",
+    "images/flourless-chocolate-cake-q5462031/flourless-chocolate-cake-q5462031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5462031",
+    "themealdb": null
+  }
+}

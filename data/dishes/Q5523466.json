@@ -1,0 +1,20 @@
+{
+  "id": "Q5523466",
+  "name": "garlic knot",
+  "description": "type of garlic bread, originating from New York City, made from pizza dough scraps",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/garlic-knot-q5523466/garlic-knot-q5523466-1.jpg",
+    "images/garlic-knot-q5523466/garlic-knot-q5523466-2.jpg",
+    "images/garlic-knot-q5523466/garlic-knot-q5523466-3.jpg",
+    "images/garlic-knot-q5523466/garlic-knot-q5523466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5523466",
+    "themealdb": null
+  }
+}

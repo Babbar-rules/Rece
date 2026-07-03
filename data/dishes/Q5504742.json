@@ -1,0 +1,18 @@
+{
+  "id": "Q5504742",
+  "name": "Fritaja",
+  "description": "Mediterranean Croatian and Slovenian dish",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fritaja-q5504742/fritaja-q5504742-1.jpg",
+    "images/fritaja-q5504742/fritaja-q5504742-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5504742",
+    "themealdb": null
+  }
+}

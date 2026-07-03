@@ -1,0 +1,20 @@
+{
+  "id": "Q54952472",
+  "name": "pizza puff",
+  "description": "deep-fried dough pocket filled with cheese, tomato sauce, and pizza toppings (sausage, pepperoni etc.), indigenous to Chicago",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-puff-q54952472/pizza-puff-q54952472-1.jpg",
+    "images/pizza-puff-q54952472/pizza-puff-q54952472-2.jpg",
+    "images/pizza-puff-q54952472/pizza-puff-q54952472-3.jpg",
+    "images/pizza-puff-q54952472/pizza-puff-q54952472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54952472",
+    "themealdb": null
+  }
+}

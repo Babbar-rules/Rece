@@ -1,0 +1,18 @@
+{
+  "id": "Q5458522",
+  "name": "Fleischkuekle",
+  "description": "Deep fried turnover with seasoned ground beef",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fleischkuekle-q5458522/fleischkuekle-q5458522-1.jpg",
+    "images/fleischkuekle-q5458522/fleischkuekle-q5458522-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5458522",
+    "themealdb": null
+  }
+}

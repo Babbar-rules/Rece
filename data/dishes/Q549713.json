@@ -1,0 +1,84 @@
+{
+  "id": "Q549713",
+  "name": "Kung Pao chicken",
+  "description": "spicy stir-fried dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/kung-pao-chicken-q549713/kung-pao-chicken-q549713-1.jpg",
+    "images/kung-pao-chicken-q549713/kung-pao-chicken-q549713-2.jpg",
+    "images/kung-pao-chicken-q549713/kung-pao-chicken-q549713-3.jpg",
+    "images/kung-pao-chicken-q549713/kung-pao-chicken-q549713-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52945",
+    "category": "Chicken",
+    "area": "Chinese",
+    "instructions": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.\r\nIn a glass dish or bowl, combine half of the sake mixture with the chicken pieces and toss to coat. Cover dish and place in refrigerator for about 30 minutes.\r\nIn a medium frying pan, combine remaining sake mixture, chillies, vinegar and sugar. Mix together and add spring onion, garlic, water chestnuts and peanuts. Heat sauce slowly over medium heat until aromatic.\r\nMeanwhile, remove chicken from marinade and sauté in a large frying pan until juices run clear. When sauce is aromatic, add sautéed chicken and let simmer together until sauce thickens.",
+    "ingredients": [
+      {
+        "ingredient": "Sake",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Soy Sauce",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Sesame Seed Oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Corn Flour",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Chicken",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Chilli Powder",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Rice Vinegar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Brown Sugar",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "4 Chopped"
+      },
+      {
+        "ingredient": "Garlic Clove",
+        "measure": "6 cloves"
+      },
+      {
+        "ingredient": "Water Chestnut",
+        "measure": "220g"
+      },
+      {
+        "ingredient": "Peanuts",
+        "measure": "100g"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=QqdcCHQlOe0",
+    "thumb": "https://www.themealdb.com/images/media/meals/1525872624.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q549713",
+    "themealdb": "52945"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5454639",
+  "name": "fish head curry",
+  "description": "Indonesian curry dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-head-curry-q5454639/fish-head-curry-q5454639-1.jpg",
+    "images/fish-head-curry-q5454639/fish-head-curry-q5454639-2.jpg",
+    "images/fish-head-curry-q5454639/fish-head-curry-q5454639-3.jpg",
+    "images/fish-head-curry-q5454639/fish-head-curry-q5454639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454639",
+    "themealdb": null
+  }
+}

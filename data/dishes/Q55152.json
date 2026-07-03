@@ -1,0 +1,20 @@
+{
+  "id": "Q55152",
+  "name": "Religieuse",
+  "description": "pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/religieuse-q55152/religieuse-q55152-1.jpg",
+    "images/religieuse-q55152/religieuse-q55152-2.jpg",
+    "images/religieuse-q55152/religieuse-q55152-3.jpg",
+    "images/religieuse-q55152/religieuse-q55152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55152",
+    "themealdb": null
+  }
+}

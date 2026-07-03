@@ -1,0 +1,20 @@
+{
+  "id": "Q54815990",
+  "name": "cacık",
+  "description": "Turkish dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cack-q54815990/cack-q54815990-1.jpg",
+    "images/cack-q54815990/cack-q54815990-2.jpg",
+    "images/cack-q54815990/cack-q54815990-3.jpg",
+    "images/cack-q54815990/cack-q54815990-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54815990",
+    "themealdb": null
+  }
+}

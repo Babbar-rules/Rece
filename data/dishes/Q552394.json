@@ -1,0 +1,20 @@
+{
+  "id": "Q552394",
+  "name": "Makówki",
+  "description": "Central European dessert",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/makowki-q552394/makowki-q552394-1.jpg",
+    "images/makowki-q552394/makowki-q552394-2.jpg",
+    "images/makowki-q552394/makowki-q552394-3.jpg",
+    "images/makowki-q552394/makowki-q552394-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q552394",
+    "themealdb": null
+  }
+}

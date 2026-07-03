@@ -1,0 +1,16 @@
+{
+  "id": "Q5507072",
+  "name": "Fudgie the Whale",
+  "description": "Ice cream cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fudgie-the-whale-q5507072/fudgie-the-whale-q5507072-1.jpg",
+    "images/fudgie-the-whale-q5507072/fudgie-the-whale-q5507072-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5507072",
+    "themealdb": null
+  }
+}

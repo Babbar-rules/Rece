@@ -1,0 +1,18 @@
+{
+  "id": "Q548437",
+  "name": "Werther's Original",
+  "description": "brand of caramel flavoured candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/werthers-original-q548437/werthers-original-q548437-1.jpg",
+    "images/werthers-original-q548437/werthers-original-q548437-2.jpg",
+    "images/werthers-original-q548437/werthers-original-q548437-3.jpg",
+    "images/werthers-original-q548437/werthers-original-q548437-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q548437",
+    "themealdb": null
+  }
+}

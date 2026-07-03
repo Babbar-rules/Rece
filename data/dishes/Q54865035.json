@@ -1,0 +1,18 @@
+{
+  "id": "Q54865035",
+  "name": "rice soup",
+  "description": "soup made with rice as basic ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-soup-q54865035/rice-soup-q54865035-1.jpg",
+    "images/rice-soup-q54865035/rice-soup-q54865035-2.jpg",
+    "images/rice-soup-q54865035/rice-soup-q54865035-3.jpg",
+    "images/rice-soup-q54865035/rice-soup-q54865035-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54865035",
+    "themealdb": null
+  }
+}

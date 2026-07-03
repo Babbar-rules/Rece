@@ -1,0 +1,18 @@
+{
+  "id": "Q5454605",
+  "name": "Fish boil",
+  "description": "culinary tradition in areas of Wisconsin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-boil-q5454605/fish-boil-q5454605-1.jpg",
+    "images/fish-boil-q5454605/fish-boil-q5454605-2.jpg",
+    "images/fish-boil-q5454605/fish-boil-q5454605-3.jpg",
+    "images/fish-boil-q5454605/fish-boil-q5454605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454605",
+    "themealdb": null
+  }
+}

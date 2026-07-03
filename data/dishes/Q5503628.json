@@ -1,0 +1,18 @@
+{
+  "id": "Q5503628",
+  "name": "fried plantain",
+  "description": "cooked dish made from plantains",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-plantain-q5503628/fried-plantain-q5503628-1.jpg",
+    "images/fried-plantain-q5503628/fried-plantain-q5503628-2.jpg",
+    "images/fried-plantain-q5503628/fried-plantain-q5503628-3.jpg",
+    "images/fried-plantain-q5503628/fried-plantain-q5503628-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503628",
+    "themealdb": null
+  }
+}

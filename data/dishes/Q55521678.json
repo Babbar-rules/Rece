@@ -1,0 +1,16 @@
+{
+  "id": "Q55521678",
+  "name": "konoshiro-zushi",
+  "description": "sushi made with konoshiro (Konosirus punctatus)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/konoshiro-zushi-q55521678/konoshiro-zushi-q55521678-1.jpg",
+    "images/konoshiro-zushi-q55521678/konoshiro-zushi-q55521678-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55521678",
+    "themealdb": null
+  }
+}

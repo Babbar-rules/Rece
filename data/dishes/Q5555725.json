@@ -1,0 +1,18 @@
+{
+  "id": "Q5555725",
+  "name": "Ghari",
+  "description": "sweet dish from Gujarati cuisine, from Surat, India",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ghari-q5555725/ghari-q5555725-1.jpg",
+    "images/ghari-q5555725/ghari-q5555725-2.jpg",
+    "images/ghari-q5555725/ghari-q5555725-3.jpg",
+    "images/ghari-q5555725/ghari-q5555725-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5555725",
+    "themealdb": null
+  }
+}

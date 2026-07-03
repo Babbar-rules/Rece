@@ -1,0 +1,18 @@
+{
+  "id": "Q55238847",
+  "name": "yam wun sen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yam-wun-sen-q55238847/yam-wun-sen-q55238847-1.jpg",
+    "images/yam-wun-sen-q55238847/yam-wun-sen-q55238847-2.jpg",
+    "images/yam-wun-sen-q55238847/yam-wun-sen-q55238847-3.jpg",
+    "images/yam-wun-sen-q55238847/yam-wun-sen-q55238847-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55238847",
+    "themealdb": null
+  }
+}

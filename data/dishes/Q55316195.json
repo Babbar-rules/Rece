@@ -1,0 +1,17 @@
+{
+  "id": "Q55316195",
+  "name": "coddie",
+  "description": "deep fried snack food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/coddie-q55316195/coddie-q55316195-1.png",
+    "images/coddie-q55316195/coddie-q55316195-2.png",
+    "images/coddie-q55316195/coddie-q55316195-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q55316195",
+    "themealdb": null
+  }
+}

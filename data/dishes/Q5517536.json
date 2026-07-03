@@ -1,0 +1,20 @@
+{
+  "id": "Q5517536",
+  "name": "gajak",
+  "description": "Indian sweet snack",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gajak-q5517536/gajak-q5517536-1.jpg",
+    "images/gajak-q5517536/gajak-q5517536-2.jpg",
+    "images/gajak-q5517536/gajak-q5517536-3.jpg",
+    "images/gajak-q5517536/gajak-q5517536-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5517536",
+    "themealdb": null
+  }
+}

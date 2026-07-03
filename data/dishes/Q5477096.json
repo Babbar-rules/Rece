@@ -1,0 +1,18 @@
+{
+  "id": "Q5477096",
+  "name": "rusk",
+  "description": "hard, dry biscuit or a twice-baked bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rusk-q5477096/rusk-q5477096-1.jpg",
+    "images/rusk-q5477096/rusk-q5477096-2.jpg",
+    "images/rusk-q5477096/rusk-q5477096-3.jpg",
+    "images/rusk-q5477096/rusk-q5477096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5477096",
+    "themealdb": null
+  }
+}

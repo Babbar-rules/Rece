@@ -1,0 +1,18 @@
+{
+  "id": "Q5506319",
+  "name": "frozen noodles",
+  "description": "types of instantly prepared noodles that are sold frozen or chilled",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frozen-noodles-q5506319/frozen-noodles-q5506319-1.jpg",
+    "images/frozen-noodles-q5506319/frozen-noodles-q5506319-2.jpg",
+    "images/frozen-noodles-q5506319/frozen-noodles-q5506319-3.jpg",
+    "images/frozen-noodles-q5506319/frozen-noodles-q5506319-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5506319",
+    "themealdb": null
+  }
+}

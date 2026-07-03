@@ -1,0 +1,18 @@
+{
+  "id": "Q5521946",
+  "name": "Garash cake",
+  "description": "Bulgarian chocolate and walnut cake of 5 thin layers with a chocolate frosting",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/garash-cake-q5521946/garash-cake-q5521946-1.jpg",
+    "images/garash-cake-q5521946/garash-cake-q5521946-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5521946",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q5506413",
+  "name": "fruit snack",
+  "description": "snack variety type having a gummy texture with fruit flavors or some fruit juice or pulp in small bite sized form",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-snack-q5506413/fruit-snack-q5506413-1.jpg",
+    "images/fruit-snack-q5506413/fruit-snack-q5506413-2.jpg",
+    "images/fruit-snack-q5506413/fruit-snack-q5506413-3.jpg",
+    "images/fruit-snack-q5506413/fruit-snack-q5506413-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5506413",
+    "themealdb": null
+  }
+}

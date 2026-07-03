@@ -1,0 +1,20 @@
+{
+  "id": "Q550574",
+  "name": "funeral potatoes",
+  "description": "potato dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/funeral-potatoes-q550574/funeral-potatoes-q550574-1.jpg",
+    "images/funeral-potatoes-q550574/funeral-potatoes-q550574-2.jpg",
+    "images/funeral-potatoes-q550574/funeral-potatoes-q550574-3.jpg",
+    "images/funeral-potatoes-q550574/funeral-potatoes-q550574-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q550574",
+    "themealdb": null
+  }
+}

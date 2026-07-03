@@ -1,0 +1,21 @@
+{
+  "id": "Q5509249",
+  "name": "Funkaso",
+  "description": "Hausa dish",
+  "nationality": [
+    "Nigeria",
+    "Northern Region"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/funkaso-q5509249/funkaso-q5509249-1.png",
+    "images/funkaso-q5509249/funkaso-q5509249-2.png",
+    "images/funkaso-q5509249/funkaso-q5509249-3.png",
+    "images/funkaso-q5509249/funkaso-q5509249-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5509249",
+    "themealdb": null
+  }
+}

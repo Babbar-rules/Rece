@@ -1,0 +1,17 @@
+{
+  "id": "Q5529895",
+  "name": "Geera pork",
+  "description": "Pork stew popular in Trinidad and Tobago",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/geera-pork-q5529895/geera-pork-q5529895-1.jpg",
+    "images/geera-pork-q5529895/geera-pork-q5529895-2.jpg",
+    "images/geera-pork-q5529895/geera-pork-q5529895-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5529895",
+    "themealdb": null
+  }
+}

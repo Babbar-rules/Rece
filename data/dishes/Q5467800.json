@@ -1,0 +1,18 @@
+{
+  "id": "Q5467800",
+  "name": "Ford Gum",
+  "description": "brand of bubble gum and chewing gum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ford-gum-q5467800/ford-gum-q5467800-1.jpg",
+    "images/ford-gum-q5467800/ford-gum-q5467800-2.jpg",
+    "images/ford-gum-q5467800/ford-gum-q5467800-3.jpg",
+    "images/ford-gum-q5467800/ford-gum-q5467800-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5467800",
+    "themealdb": null
+  }
+}

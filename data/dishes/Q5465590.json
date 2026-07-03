@@ -1,0 +1,20 @@
+{
+  "id": "Q5465590",
+  "name": "Fool's Gold Loaf",
+  "description": "sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fools-gold-loaf-q5465590/fools-gold-loaf-q5465590-1.jpg",
+    "images/fools-gold-loaf-q5465590/fools-gold-loaf-q5465590-2.jpg",
+    "images/fools-gold-loaf-q5465590/fools-gold-loaf-q5465590-3.jpg",
+    "images/fools-gold-loaf-q5465590/fools-gold-loaf-q5465590-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5465590",
+    "themealdb": null
+  }
+}

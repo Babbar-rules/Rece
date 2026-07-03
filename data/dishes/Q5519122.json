@@ -1,0 +1,15 @@
+{
+  "id": "Q5519122",
+  "name": "Gallo en chicha",
+  "description": "Central American chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gallo-en-chicha-q5519122/gallo-en-chicha-q5519122-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5519122",
+    "themealdb": null
+  }
+}

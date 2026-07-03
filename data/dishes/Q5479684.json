@@ -1,0 +1,20 @@
+{
+  "id": "Q5479684",
+  "name": "polkagris",
+  "description": "white caramel bar with red colored spiral shape and mint taste attributed to Gränna in Sweden",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/polkagris-q5479684/polkagris-q5479684-1.jpg",
+    "images/polkagris-q5479684/polkagris-q5479684-2.jpg",
+    "images/polkagris-q5479684/polkagris-q5479684-3.jpg",
+    "images/polkagris-q5479684/polkagris-q5479684-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5479684",
+    "themealdb": null
+  }
+}

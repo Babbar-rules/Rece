@@ -1,0 +1,18 @@
+{
+  "id": "Q5480841",
+  "name": "Morcipan",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/morcipan-q5480841/morcipan-q5480841-1.jpg",
+    "images/morcipan-q5480841/morcipan-q5480841-2.jpg",
+    "images/morcipan-q5480841/morcipan-q5480841-3.jpg",
+    "images/morcipan-q5480841/morcipan-q5480841-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5480841",
+    "themealdb": null
+  }
+}

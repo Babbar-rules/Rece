@@ -1,0 +1,18 @@
+{
+  "id": "Q5556168",
+  "name": "Gheimeh",
+  "description": "Iranian stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gheimeh-q5556168/gheimeh-q5556168-1.jpg",
+    "images/gheimeh-q5556168/gheimeh-q5556168-2.jpg",
+    "images/gheimeh-q5556168/gheimeh-q5556168-3.jpg",
+    "images/gheimeh-q5556168/gheimeh-q5556168-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5556168",
+    "themealdb": null
+  }
+}

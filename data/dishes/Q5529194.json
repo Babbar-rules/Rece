@@ -1,0 +1,22 @@
+{
+  "id": "Q5529194",
+  "name": "Gazpachuelo",
+  "description": "soup originating in Málaga, Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Andalusian cuisine"
+  ],
+  "images": [
+    "images/gazpachuelo-q5529194/gazpachuelo-q5529194-1.jpg",
+    "images/gazpachuelo-q5529194/gazpachuelo-q5529194-2.jpg",
+    "images/gazpachuelo-q5529194/gazpachuelo-q5529194-3.jpg",
+    "images/gazpachuelo-q5529194/gazpachuelo-q5529194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5529194",
+    "themealdb": null
+  }
+}

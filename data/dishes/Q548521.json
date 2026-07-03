@@ -1,0 +1,22 @@
+{
+  "id": "Q548521",
+  "name": "Pasta alla Norma",
+  "description": "pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Sicilian cuisine"
+  ],
+  "images": [
+    "images/pasta-alla-norma-q548521/pasta-alla-norma-q548521-1.jpg",
+    "images/pasta-alla-norma-q548521/pasta-alla-norma-q548521-2.jpg",
+    "images/pasta-alla-norma-q548521/pasta-alla-norma-q548521-3.jpg",
+    "images/pasta-alla-norma-q548521/pasta-alla-norma-q548521-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q548521",
+    "themealdb": null
+  }
+}

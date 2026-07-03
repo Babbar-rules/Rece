@@ -1,0 +1,22 @@
+{
+  "id": "Q5462783",
+  "name": "flummery",
+  "description": "dessert pudding",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/flummery-q5462783/flummery-q5462783-1.jpg",
+    "images/flummery-q5462783/flummery-q5462783-2.jpg",
+    "images/flummery-q5462783/flummery-q5462783-3.jpg",
+    "images/flummery-q5462783/flummery-q5462783-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5462783",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q550874",
+  "name": "home fries",
+  "description": "potato dish made by pan- or skillet-frying chunked, sliced, wedged or diced potatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/home-fries-q550874/home-fries-q550874-1.jpg",
+    "images/home-fries-q550874/home-fries-q550874-2.jpg",
+    "images/home-fries-q550874/home-fries-q550874-3.jpg",
+    "images/home-fries-q550874/home-fries-q550874-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q550874",
+    "themealdb": null
+  }
+}

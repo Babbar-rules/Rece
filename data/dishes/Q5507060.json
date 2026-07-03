@@ -1,0 +1,52 @@
+{
+  "id": "Q5507060",
+  "name": "Fudge",
+  "description": "brand of chocolate bar by Cadbury",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/fudge-q5507060/fudge-q5507060-1.jpg",
+    "images/fudge-q5507060/fudge-q5507060-2.jpg",
+    "images/fudge-q5507060/fudge-q5507060-3.jpg",
+    "images/fudge-q5507060/fudge-q5507060-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52786",
+    "category": "Dessert",
+    "area": "United States",
+    "instructions": "Line an 8-inch-square baking pan with wax paper or foil, and coat with non-stick spray.\r\nPour ½ cup of the miniature marshmallows into the bottom of the lined baking dish.\r\nIn a microwave-safe bowl, combine the chocolate chips and peanut butter. Microwave the chocolate mixture in 20-second intervals, stirring in between each interval, until the chocolate is melted.\r\nAdd the vanilla extract and stir well, until smooth.\r\nReserve 2 tablespoons of the chopped almonds or peanuts, and set aside.\r\nFold 1 ½ cups of the miniature marshmallows and the remaining chopped nuts into the chocolate mixture.\r\nTransfer the chocolate mixture into the prepared pan and spread into an even layer. Immediately top with the reserved chopped nuts and the mallow bits or additional miniature marshmallows, if using.\r\nRefrigerate for 4 hours, or until set.\r\nRemove the fudge and wax paper from the pan. Carefully peel all of wax paper from the fudge.\r\nCut the fudge into bite-sized pieces and serve.",
+    "ingredients": [
+      {
+        "ingredient": "Miniature Marshmallows",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Chocolate Chips",
+        "measure": "3 cups"
+      },
+      {
+        "ingredient": "Peanut Butter",
+        "measure": "½ cup"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Peanuts",
+        "measure": "1 ¼ cups"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=N1aJ3nEYXyg",
+    "thumb": "https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5507060",
+    "themealdb": "52786"
+  }
+}

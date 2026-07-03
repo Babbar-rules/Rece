@@ -1,0 +1,18 @@
+{
+  "id": "Q5476500",
+  "name": "Fox's U-bet chocolate syrup",
+  "description": "commercial chocolate syrup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/foxs-u-bet-chocolate-syrup-q5476500/foxs-u-bet-chocolate-syrup-q5476500-1.jpg",
+    "images/foxs-u-bet-chocolate-syrup-q5476500/foxs-u-bet-chocolate-syrup-q5476500-2.jpg",
+    "images/foxs-u-bet-chocolate-syrup-q5476500/foxs-u-bet-chocolate-syrup-q5476500-3.jpg",
+    "images/foxs-u-bet-chocolate-syrup-q5476500/foxs-u-bet-chocolate-syrup-q5476500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5476500",
+    "themealdb": null
+  }
+}

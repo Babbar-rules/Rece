@@ -1,0 +1,17 @@
+{
+  "id": "Q5518132",
+  "name": "Galaxy Minstrels",
+  "description": "brand of chocolate confectionery",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/galaxy-minstrels-q5518132/galaxy-minstrels-q5518132-1.jpg",
+    "images/galaxy-minstrels-q5518132/galaxy-minstrels-q5518132-2.jpg",
+    "images/galaxy-minstrels-q5518132/galaxy-minstrels-q5518132-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5518132",
+    "themealdb": null
+  }
+}

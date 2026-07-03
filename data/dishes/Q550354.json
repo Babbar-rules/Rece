@@ -1,0 +1,18 @@
+{
+  "id": "Q550354",
+  "name": "ice milk",
+  "description": "Dish from the United States",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-milk-q550354/ice-milk-q550354-1.jpg",
+    "images/ice-milk-q550354/ice-milk-q550354-2.jpg",
+    "images/ice-milk-q550354/ice-milk-q550354-3.jpg",
+    "images/ice-milk-q550354/ice-milk-q550354-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q550354",
+    "themealdb": null
+  }
+}

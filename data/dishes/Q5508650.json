@@ -1,0 +1,18 @@
+{
+  "id": "Q5508650",
+  "name": "Fun Dip",
+  "description": "candy brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fun-dip-q5508650/fun-dip-q5508650-1.jpg",
+    "images/fun-dip-q5508650/fun-dip-q5508650-2.jpg",
+    "images/fun-dip-q5508650/fun-dip-q5508650-3.jpg",
+    "images/fun-dip-q5508650/fun-dip-q5508650-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5508650",
+    "themealdb": null
+  }
+}

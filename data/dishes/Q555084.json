@@ -1,0 +1,25 @@
+{
+  "id": "Q555084",
+  "name": "quince cheese",
+  "description": "fruit preserve made from quince pulp",
+  "nationality": [
+    "Spain",
+    "Italy",
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Latin American cuisine",
+    "European cuisine"
+  ],
+  "images": [
+    "images/quince-cheese-q555084/quince-cheese-q555084-1.jpg",
+    "images/quince-cheese-q555084/quince-cheese-q555084-2.jpg",
+    "images/quince-cheese-q555084/quince-cheese-q555084-3.jpg",
+    "images/quince-cheese-q555084/quince-cheese-q555084-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q555084",
+    "themealdb": null
+  }
+}

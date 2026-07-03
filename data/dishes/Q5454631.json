@@ -1,0 +1,19 @@
+{
+  "id": "Q5454631",
+  "name": "fish head casserole",
+  "description": "Chinese cuisine",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-head-casserole-q5454631/fish-head-casserole-q5454631-1.jpg",
+    "images/fish-head-casserole-q5454631/fish-head-casserole-q5454631-2.jpg",
+    "images/fish-head-casserole-q5454631/fish-head-casserole-q5454631-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454631",
+    "themealdb": null
+  }
+}

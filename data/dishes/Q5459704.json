@@ -1,0 +1,20 @@
+{
+  "id": "Q5459704",
+  "name": "Flipper pie",
+  "description": "regional food dish in Canada",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flipper-pie-q5459704/flipper-pie-q5459704-1.jpg",
+    "images/flipper-pie-q5459704/flipper-pie-q5459704-2.jpg",
+    "images/flipper-pie-q5459704/flipper-pie-q5459704-3.jpg",
+    "images/flipper-pie-q5459704/flipper-pie-q5459704-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5459704",
+    "themealdb": null
+  }
+}

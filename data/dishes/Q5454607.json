@@ -1,0 +1,18 @@
+{
+  "id": "Q5454607",
+  "name": "fish chowder",
+  "description": "creamy soup containing fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-chowder-q5454607/fish-chowder-q5454607-1.jpg",
+    "images/fish-chowder-q5454607/fish-chowder-q5454607-2.jpg",
+    "images/fish-chowder-q5454607/fish-chowder-q5454607-3.jpg",
+    "images/fish-chowder-q5454607/fish-chowder-q5454607-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5454607",
+    "themealdb": null
+  }
+}

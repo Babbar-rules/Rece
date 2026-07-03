@@ -1,0 +1,18 @@
+{
+  "id": "Q553200",
+  "name": "guōbāoròu",
+  "description": "sweet and sour pork dish of Northeast China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/guobaorou-q553200/guobaorou-q553200-1.jpg",
+    "images/guobaorou-q553200/guobaorou-q553200-2.jpg",
+    "images/guobaorou-q553200/guobaorou-q553200-3.jpg",
+    "images/guobaorou-q553200/guobaorou-q553200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q553200",
+    "themealdb": null
+  }
+}

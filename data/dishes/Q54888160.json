@@ -1,0 +1,20 @@
+{
+  "id": "Q54888160",
+  "name": "Rundìtt",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/runditt-q54888160/runditt-q54888160-1.jpg",
+    "images/runditt-q54888160/runditt-q54888160-2.jpg",
+    "images/runditt-q54888160/runditt-q54888160-3.jpg",
+    "images/runditt-q54888160/runditt-q54888160-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q54888160",
+    "themealdb": null
+  }
+}

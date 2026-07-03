@@ -1,0 +1,18 @@
+{
+  "id": "Q5506393",
+  "name": "Fruit bun",
+  "description": "Sweet bread with fruit and spices",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-bun-q5506393/fruit-bun-q5506393-1.jpg",
+    "images/fruit-bun-q5506393/fruit-bun-q5506393-2.jpg",
+    "images/fruit-bun-q5506393/fruit-bun-q5506393-3.jpg",
+    "images/fruit-bun-q5506393/fruit-bun-q5506393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5506393",
+    "themealdb": null
+  }
+}

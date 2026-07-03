@@ -1,0 +1,20 @@
+{
+  "id": "Q5503620",
+  "name": "fried clams",
+  "description": "traditional New England seafood dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fried-clams-q5503620/fried-clams-q5503620-1.jpg",
+    "images/fried-clams-q5503620/fried-clams-q5503620-2.jpg",
+    "images/fried-clams-q5503620/fried-clams-q5503620-3.jpg",
+    "images/fried-clams-q5503620/fried-clams-q5503620-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5503620",
+    "themealdb": null
+  }
+}

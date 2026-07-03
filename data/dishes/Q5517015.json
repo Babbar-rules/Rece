@@ -1,0 +1,22 @@
+{
+  "id": "Q5517015",
+  "name": "gaifan",
+  "description": "Chinese meals based on rice",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/gaifan-q5517015/gaifan-q5517015-1.jpg",
+    "images/gaifan-q5517015/gaifan-q5517015-2.png",
+    "images/gaifan-q5517015/gaifan-q5517015-3.jpg",
+    "images/gaifan-q5517015/gaifan-q5517015-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5517015",
+    "themealdb": null
+  }
+}
