@@ -1,0 +1,20 @@
+{
+  "id": "Q6080770",
+  "name": "Isi ewu",
+  "description": "Nigerian soup made from goat's head",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/isi-ewu-q6080770/isi-ewu-q6080770-1.jpg",
+    "images/isi-ewu-q6080770/isi-ewu-q6080770-2.jpg",
+    "images/isi-ewu-q6080770/isi-ewu-q6080770-3.jpg",
+    "images/isi-ewu-q6080770/isi-ewu-q6080770-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6080770",
+    "themealdb": null
+  }
+}

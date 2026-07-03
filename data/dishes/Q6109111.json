@@ -1,0 +1,20 @@
+{
+  "id": "Q6109111",
+  "name": "Risotto alla milanese",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/risotto-alla-milanese-q6109111/risotto-alla-milanese-q6109111-1.jpg",
+    "images/risotto-alla-milanese-q6109111/risotto-alla-milanese-q6109111-2.jpg",
+    "images/risotto-alla-milanese-q6109111/risotto-alla-milanese-q6109111-3.jpg",
+    "images/risotto-alla-milanese-q6109111/risotto-alla-milanese-q6109111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6109111",
+    "themealdb": null
+  }
+}

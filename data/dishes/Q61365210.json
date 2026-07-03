@@ -1,0 +1,18 @@
+{
+  "id": "Q61365210",
+  "name": "Ambal",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ambal-q61365210/ambal-q61365210-1.jpg",
+    "images/ambal-q61365210/ambal-q61365210-2.jpg",
+    "images/ambal-q61365210/ambal-q61365210-3.jpg",
+    "images/ambal-q61365210/ambal-q61365210-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61365210",
+    "themealdb": null
+  }
+}

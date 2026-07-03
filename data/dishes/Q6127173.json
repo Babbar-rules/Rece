@@ -1,0 +1,22 @@
+{
+  "id": "Q6127173",
+  "name": "Lanzhou beef noodle soup",
+  "description": "beef noodle soup dish from Lanzhou, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/lanzhou-beef-noodle-soup-q6127173/lanzhou-beef-noodle-soup-q6127173-1.jpg",
+    "images/lanzhou-beef-noodle-soup-q6127173/lanzhou-beef-noodle-soup-q6127173-2.jpg",
+    "images/lanzhou-beef-noodle-soup-q6127173/lanzhou-beef-noodle-soup-q6127173-3.jpg",
+    "images/lanzhou-beef-noodle-soup-q6127173/lanzhou-beef-noodle-soup-q6127173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6127173",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q60769823",
+  "name": "pata tim",
+  "description": "Filipino braised pork hock dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pata-tim-q60769823/pata-tim-q60769823-1.jpg",
+    "images/pata-tim-q60769823/pata-tim-q60769823-2.jpg",
+    "images/pata-tim-q60769823/pata-tim-q60769823-3.jpg",
+    "images/pata-tim-q60769823/pata-tim-q60769823-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60769823",
+    "themealdb": null
+  }
+}

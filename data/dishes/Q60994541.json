@@ -1,0 +1,18 @@
+{
+  "id": "Q60994541",
+  "name": "Danjiao",
+  "description": "Jiaozi wrapped in omelet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/danjiao-q60994541/danjiao-q60994541-1.jpg",
+    "images/danjiao-q60994541/danjiao-q60994541-2.jpg",
+    "images/danjiao-q60994541/danjiao-q60994541-3.jpg",
+    "images/danjiao-q60994541/danjiao-q60994541-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60994541",
+    "themealdb": null
+  }
+}

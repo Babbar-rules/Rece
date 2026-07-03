@@ -1,0 +1,20 @@
+{
+  "id": "Q6154033",
+  "name": "jangguk-juk",
+  "description": "Korean porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jangguk-juk-q6154033/jangguk-juk-q6154033-1.jpg",
+    "images/jangguk-juk-q6154033/jangguk-juk-q6154033-2.jpg",
+    "images/jangguk-juk-q6154033/jangguk-juk-q6154033-3.jpg",
+    "images/jangguk-juk-q6154033/jangguk-juk-q6154033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6154033",
+    "themealdb": null
+  }
+}

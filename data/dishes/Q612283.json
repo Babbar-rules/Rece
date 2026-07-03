@@ -1,0 +1,20 @@
+{
+  "id": "Q612283",
+  "name": "Brandade",
+  "description": "dish of cod, olive oil, and potatoes",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brandade-q612283/brandade-q612283-1.jpg",
+    "images/brandade-q612283/brandade-q612283-2.jpg",
+    "images/brandade-q612283/brandade-q612283-3.jpg",
+    "images/brandade-q612283/brandade-q612283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q612283",
+    "themealdb": null
+  }
+}

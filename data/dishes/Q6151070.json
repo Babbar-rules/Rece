@@ -1,0 +1,18 @@
+{
+  "id": "Q6151070",
+  "name": "tostado",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tostado-q6151070/tostado-q6151070-1.jpg",
+    "images/tostado-q6151070/tostado-q6151070-2.jpg",
+    "images/tostado-q6151070/tostado-q6151070-3.jpg",
+    "images/tostado-q6151070/tostado-q6151070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6151070",
+    "themealdb": null
+  }
+}

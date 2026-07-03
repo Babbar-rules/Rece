@@ -1,0 +1,18 @@
+{
+  "id": "Q60987380",
+  "name": "tanukidon",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tanukidon-q60987380/tanukidon-q60987380-1.jpg",
+    "images/tanukidon-q60987380/tanukidon-q60987380-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60987380",
+    "themealdb": null
+  }
+}

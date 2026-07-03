@@ -1,0 +1,20 @@
+{
+  "id": "Q61054366",
+  "name": "arroz zambito",
+  "description": "Peruvian rice pudding",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-zambito-q61054366/arroz-zambito-q61054366-1.jpg",
+    "images/arroz-zambito-q61054366/arroz-zambito-q61054366-2.jpg",
+    "images/arroz-zambito-q61054366/arroz-zambito-q61054366-3.jpg",
+    "images/arroz-zambito-q61054366/arroz-zambito-q61054366-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61054366",
+    "themealdb": null
+  }
+}

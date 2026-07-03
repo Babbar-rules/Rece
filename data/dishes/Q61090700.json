@@ -1,0 +1,20 @@
+{
+  "id": "Q61090700",
+  "name": "Mul-kimchi",
+  "description": "Korean cuisine",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mul-kimchi-q61090700/mul-kimchi-q61090700-1.jpg",
+    "images/mul-kimchi-q61090700/mul-kimchi-q61090700-2.jpg",
+    "images/mul-kimchi-q61090700/mul-kimchi-q61090700-3.jpg",
+    "images/mul-kimchi-q61090700/mul-kimchi-q61090700-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61090700",
+    "themealdb": null
+  }
+}

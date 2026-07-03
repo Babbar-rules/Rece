@@ -1,0 +1,20 @@
+{
+  "id": "Q61407777",
+  "name": "Tapìt",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tapit-q61407777/tapit-q61407777-1.jpg",
+    "images/tapit-q61407777/tapit-q61407777-2.jpg",
+    "images/tapit-q61407777/tapit-q61407777-3.jpg",
+    "images/tapit-q61407777/tapit-q61407777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61407777",
+    "themealdb": null
+  }
+}

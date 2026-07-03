@@ -1,0 +1,18 @@
+{
+  "id": "Q6137769",
+  "name": "cheese platter",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-platter-q6137769/cheese-platter-q6137769-1.jpg",
+    "images/cheese-platter-q6137769/cheese-platter-q6137769-2.jpg",
+    "images/cheese-platter-q6137769/cheese-platter-q6137769-3.jpg",
+    "images/cheese-platter-q6137769/cheese-platter-q6137769-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6137769",
+    "themealdb": null
+  }
+}

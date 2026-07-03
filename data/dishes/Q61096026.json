@@ -1,0 +1,18 @@
+{
+  "id": "Q61096026",
+  "name": "momguk",
+  "description": "South Korean seaweed soup",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/momguk-q61096026/momguk-q61096026-1.jpg",
+    "images/momguk-q61096026/momguk-q61096026-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61096026",
+    "themealdb": null
+  }
+}

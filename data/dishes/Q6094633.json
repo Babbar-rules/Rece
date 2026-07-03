@@ -1,0 +1,20 @@
+{
+  "id": "Q6094633",
+  "name": "Ice cheeses",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-cheeses-q6094633/ice-cheeses-q6094633-1.jpg",
+    "images/ice-cheeses-q6094633/ice-cheeses-q6094633-2.jpg",
+    "images/ice-cheeses-q6094633/ice-cheeses-q6094633-3.jpg",
+    "images/ice-cheeses-q6094633/ice-cheeses-q6094633-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6094633",
+    "themealdb": null
+  }
+}

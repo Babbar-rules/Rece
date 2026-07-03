@@ -1,0 +1,18 @@
+{
+  "id": "Q60785285",
+  "name": "Pyshka",
+  "description": "Russian doughnut",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pyshka-q60785285/pyshka-q60785285-1.jpg",
+    "images/pyshka-q60785285/pyshka-q60785285-2.jpg",
+    "images/pyshka-q60785285/pyshka-q60785285-3.jpg",
+    "images/pyshka-q60785285/pyshka-q60785285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60785285",
+    "themealdb": null
+  }
+}

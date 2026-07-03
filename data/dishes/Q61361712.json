@@ -1,0 +1,17 @@
+{
+  "id": "Q61361712",
+  "name": "Beomuri",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beomuri-q61361712/beomuri-q61361712-1.jpg",
+    "images/beomuri-q61361712/beomuri-q61361712-2.jpg",
+    "images/beomuri-q61361712/beomuri-q61361712-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61361712",
+    "themealdb": null
+  }
+}

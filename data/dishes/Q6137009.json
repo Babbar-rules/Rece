@@ -1,0 +1,20 @@
+{
+  "id": "Q6137009",
+  "name": "Aliado",
+  "description": "Chilean sandwich",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/aliado-q6137009/aliado-q6137009-1.jpg",
+    "images/aliado-q6137009/aliado-q6137009-2.jpg",
+    "images/aliado-q6137009/aliado-q6137009-3.jpg",
+    "images/aliado-q6137009/aliado-q6137009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6137009",
+    "themealdb": null
+  }
+}

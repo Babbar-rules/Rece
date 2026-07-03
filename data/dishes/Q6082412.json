@@ -1,0 +1,18 @@
+{
+  "id": "Q6082412",
+  "name": "Ponderaciones",
+  "description": "Peruvian dessert of viceregal origin",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ponderaciones-q6082412/ponderaciones-q6082412-1.jpg",
+    "images/ponderaciones-q6082412/ponderaciones-q6082412-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6082412",
+    "themealdb": null
+  }
+}

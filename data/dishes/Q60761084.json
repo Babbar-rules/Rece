@@ -1,0 +1,20 @@
+{
+  "id": "Q60761084",
+  "name": "Ginataang mais",
+  "description": "Filipino sweet corn and rice gruel",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-mais-q60761084/ginataang-mais-q60761084-1.jpg",
+    "images/ginataang-mais-q60761084/ginataang-mais-q60761084-2.jpg",
+    "images/ginataang-mais-q60761084/ginataang-mais-q60761084-3.jpg",
+    "images/ginataang-mais-q60761084/ginataang-mais-q60761084-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60761084",
+    "themealdb": null
+  }
+}

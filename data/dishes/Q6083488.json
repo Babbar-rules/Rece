@@ -1,0 +1,16 @@
+{
+  "id": "Q6083488",
+  "name": "postre Balcarce",
+  "description": "Argentine dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/postre-balcarce-q6083488/postre-balcarce-q6083488-1.jpg",
+    "images/postre-balcarce-q6083488/postre-balcarce-q6083488-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6083488",
+    "themealdb": null
+  }
+}

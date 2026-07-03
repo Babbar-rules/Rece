@@ -1,0 +1,20 @@
+{
+  "id": "Q6127120",
+  "name": "jam sandwich",
+  "description": "simple sandwich of jam and bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jam-sandwich-q6127120/jam-sandwich-q6127120-1.jpg",
+    "images/jam-sandwich-q6127120/jam-sandwich-q6127120-2.jpg",
+    "images/jam-sandwich-q6127120/jam-sandwich-q6127120-3.jpg",
+    "images/jam-sandwich-q6127120/jam-sandwich-q6127120-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6127120",
+    "themealdb": null
+  }
+}

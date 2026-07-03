@@ -1,0 +1,17 @@
+{
+  "id": "Q61357071",
+  "name": "Kuriokowa",
+  "description": "Japanese dish containing chestnuts and rice usually eaten during the fall",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuriokowa-q61357071/kuriokowa-q61357071-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61357071",
+    "themealdb": null
+  }
+}

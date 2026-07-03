@@ -1,0 +1,20 @@
+{
+  "id": "Q6150972",
+  "name": "Torta helada",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-helada-q6150972/torta-helada-q6150972-1.jpg",
+    "images/torta-helada-q6150972/torta-helada-q6150972-2.jpg",
+    "images/torta-helada-q6150972/torta-helada-q6150972-3.jpg",
+    "images/torta-helada-q6150972/torta-helada-q6150972-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6150972",
+    "themealdb": null
+  }
+}

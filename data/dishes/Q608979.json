@@ -1,0 +1,20 @@
+{
+  "id": "Q608979",
+  "name": "Fesenjān",
+  "description": "Iranian stew",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fesenjan-q608979/fesenjan-q608979-1.jpg",
+    "images/fesenjan-q608979/fesenjan-q608979-2.jpg",
+    "images/fesenjan-q608979/fesenjan-q608979-3.jpg",
+    "images/fesenjan-q608979/fesenjan-q608979-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q608979",
+    "themealdb": null
+  }
+}

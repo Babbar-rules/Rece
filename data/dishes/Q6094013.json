@@ -1,0 +1,18 @@
+{
+  "id": "Q6094013",
+  "name": "Arabaşı soup",
+  "description": "a traditional soup in Turkish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arabas-soup-q6094013/arabas-soup-q6094013-1.jpg",
+    "images/arabas-soup-q6094013/arabas-soup-q6094013-2.jpg",
+    "images/arabas-soup-q6094013/arabas-soup-q6094013-3.jpg",
+    "images/arabas-soup-q6094013/arabas-soup-q6094013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6094013",
+    "themealdb": null
+  }
+}

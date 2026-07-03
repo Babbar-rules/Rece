@@ -1,0 +1,22 @@
+{
+  "id": "Q61117066",
+  "name": "Tanggo-tanggo",
+  "description": "Toba Batak food made from pork or dog meat",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tanggo-tanggo-q61117066/tanggo-tanggo-q61117066-1.jpg",
+    "images/tanggo-tanggo-q61117066/tanggo-tanggo-q61117066-2.jpg",
+    "images/tanggo-tanggo-q61117066/tanggo-tanggo-q61117066-3.jpg",
+    "images/tanggo-tanggo-q61117066/tanggo-tanggo-q61117066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61117066",
+    "themealdb": null
+  }
+}

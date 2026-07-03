@@ -1,0 +1,20 @@
+{
+  "id": "Q614448",
+  "name": "bruschetta",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bruschetta-q614448/bruschetta-q614448-1.jpg",
+    "images/bruschetta-q614448/bruschetta-q614448-2.jpg",
+    "images/bruschetta-q614448/bruschetta-q614448-3.jpg",
+    "images/bruschetta-q614448/bruschetta-q614448-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q614448",
+    "themealdb": null
+  }
+}

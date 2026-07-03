@@ -1,0 +1,18 @@
+{
+  "id": "Q607754",
+  "name": "chicken burger",
+  "description": "chicken patty served in a hamburger bun",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-burger-q607754/chicken-burger-q607754-1.jpg",
+    "images/chicken-burger-q607754/chicken-burger-q607754-2.jpg",
+    "images/chicken-burger-q607754/chicken-burger-q607754-3.jpg",
+    "images/chicken-burger-q607754/chicken-burger-q607754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q607754",
+    "themealdb": null
+  }
+}

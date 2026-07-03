@@ -1,0 +1,18 @@
+{
+  "id": "Q6126666",
+  "name": "jalapeño popper",
+  "description": "breaded, fried, stuffed jalapeño pepper",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jalapeno-popper-q6126666/jalapeno-popper-q6126666-1.jpg",
+    "images/jalapeno-popper-q6126666/jalapeno-popper-q6126666-2.jpg",
+    "images/jalapeno-popper-q6126666/jalapeno-popper-q6126666-3.jpg",
+    "images/jalapeno-popper-q6126666/jalapeno-popper-q6126666-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6126666",
+    "themealdb": null
+  }
+}

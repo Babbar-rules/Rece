@@ -1,0 +1,18 @@
+{
+  "id": "Q60996967",
+  "name": "kelp stock",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kelp-stock-q60996967/kelp-stock-q60996967-1.jpg",
+    "images/kelp-stock-q60996967/kelp-stock-q60996967-2.jpg",
+    "images/kelp-stock-q60996967/kelp-stock-q60996967-3.jpg",
+    "images/kelp-stock-q60996967/kelp-stock-q60996967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60996967",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6148036",
+  "name": "Tofi",
+  "description": "Argentine candy",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tofi-q6148036/tofi-q6148036-1.jpg",
+    "images/tofi-q6148036/tofi-q6148036-2.jpg",
+    "images/tofi-q6148036/tofi-q6148036-3.jpg",
+    "images/tofi-q6148036/tofi-q6148036-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6148036",
+    "themealdb": null
+  }
+}

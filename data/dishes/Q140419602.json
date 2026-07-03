@@ -1,0 +1,20 @@
+{
+  "id": "Q140419602",
+  "name": "Adidas",
+  "description": "",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/adidas-q140419602/adidas-q140419602-1.jpg",
+    "images/adidas-q140419602/adidas-q140419602-2.jpg",
+    "images/adidas-q140419602/adidas-q140419602-3.jpg",
+    "images/adidas-q140419602/adidas-q140419602-4.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140419602",
+    "themealdb": null
+  }
+}

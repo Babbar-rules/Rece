@@ -1,0 +1,68 @@
+{
+  "id": "Q615392",
+  "name": "bánh mì",
+  "description": "Vietnamese bread or roll or sandwich",
+  "nationality": [
+    "South Vietnam"
+  ],
+  "region_cuisine": [
+    "Vegan"
+  ],
+  "images": [
+    "images/banh-mi-q615392/banh-mi-q615392-1.jpg",
+    "images/banh-mi-q615392/banh-mi-q615392-2.jpg",
+    "images/banh-mi-q615392/banh-mi-q615392-3.jpg",
+    "images/banh-mi-q615392/banh-mi-q615392-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53250",
+    "category": "Vegan",
+    "area": "Vietnamese",
+    "instructions": "step 1\r\nPut the shredded veg in a bowl and add the vinegar, sugar and 1 tsp salt. Toss everything together, then set aside to pickle quickly while you prepare the rest of the sandwich.\r\n\r\nstep 2\r\nHeat oven to 180C/160C fan/gas 4. Cut the baguette into four, then slice each piece horizontally in half. Put the baguette pieces in the oven for 5 mins until lightly toasted and warm. Spread each piece with a layer of hummus, then top four pieces with the tempeh slices and pile the pickled veg on top. To serve, sprinkle over the herbs and squeeze over some hot sauce, then top with the other baguette pieces to make sandwiches.",
+    "ingredients": [
+      {
+        "ingredient": "Raw Vegetables",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Vegan White Wine Vinegar",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Golden Caster Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Baguette",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Hummus",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Tempeh",
+        "measure": "175g"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "Handful"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "Handful"
+      },
+      {
+        "ingredient": "Hotsauce",
+        "measure": "To serve"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=i0_C3eRTbgg",
+    "thumb": "https://www.themealdb.com/images/media/meals/sonirb1763782831.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q615392",
+    "themealdb": "53250"
+  }
+}

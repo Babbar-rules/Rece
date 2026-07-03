@@ -1,0 +1,18 @@
+{
+  "id": "Q60793741",
+  "name": "Tlačenka",
+  "description": "Czech and Slovak meat dish with brawn",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tlacenka-q60793741/tlacenka-q60793741-1.jpg",
+    "images/tlacenka-q60793741/tlacenka-q60793741-2.jpg",
+    "images/tlacenka-q60793741/tlacenka-q60793741-3.jpg",
+    "images/tlacenka-q60793741/tlacenka-q60793741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60793741",
+    "themealdb": null
+  }
+}

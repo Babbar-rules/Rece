@@ -1,0 +1,20 @@
+{
+  "id": "Q6150978",
+  "name": "Torta loca",
+  "description": "cake",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-loca-q6150978/torta-loca-q6150978-1.jpg",
+    "images/torta-loca-q6150978/torta-loca-q6150978-2.jpg",
+    "images/torta-loca-q6150978/torta-loca-q6150978-3.jpg",
+    "images/torta-loca-q6150978/torta-loca-q6150978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6150978",
+    "themealdb": null
+  }
+}

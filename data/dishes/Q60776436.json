@@ -1,0 +1,18 @@
+{
+  "id": "Q60776436",
+  "name": "meat-free sausage roll",
+  "description": "savoury pastry snack",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/meat-free-sausage-roll-q60776436/meat-free-sausage-roll-q60776436-1.jpg",
+    "images/meat-free-sausage-roll-q60776436/meat-free-sausage-roll-q60776436-2.jpg",
+    "images/meat-free-sausage-roll-q60776436/meat-free-sausage-roll-q60776436-3.jpg",
+    "images/meat-free-sausage-roll-q60776436/meat-free-sausage-roll-q60776436-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60776436",
+    "themealdb": null
+  }
+}

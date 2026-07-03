@@ -1,0 +1,18 @@
+{
+  "id": "Q6081918",
+  "name": "pollo al ajillo",
+  "description": "Spanish garlic chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pollo-al-ajillo-q6081918/pollo-al-ajillo-q6081918-1.jpg",
+    "images/pollo-al-ajillo-q6081918/pollo-al-ajillo-q6081918-2.jpg",
+    "images/pollo-al-ajillo-q6081918/pollo-al-ajillo-q6081918-3.jpg",
+    "images/pollo-al-ajillo-q6081918/pollo-al-ajillo-q6081918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6081918",
+    "themealdb": null
+  }
+}

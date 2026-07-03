@@ -1,0 +1,20 @@
+{
+  "id": "Q612128",
+  "name": "pupusa",
+  "description": "Salvadoran type of tortilla",
+  "nationality": [
+    "El Salvador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pupusa-q612128/pupusa-q612128-1.jpg",
+    "images/pupusa-q612128/pupusa-q612128-2.jpg",
+    "images/pupusa-q612128/pupusa-q612128-3.jpg",
+    "images/pupusa-q612128/pupusa-q612128-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q612128",
+    "themealdb": null
+  }
+}

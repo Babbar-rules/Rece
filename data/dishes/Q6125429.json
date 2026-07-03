@@ -1,0 +1,20 @@
+{
+  "id": "Q6125429",
+  "name": "Jakoten",
+  "description": "Fried surimi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jakoten-q6125429/jakoten-q6125429-1.jpg",
+    "images/jakoten-q6125429/jakoten-q6125429-2.jpg",
+    "images/jakoten-q6125429/jakoten-q6125429-3.jpg",
+    "images/jakoten-q6125429/jakoten-q6125429-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6125429",
+    "themealdb": null
+  }
+}

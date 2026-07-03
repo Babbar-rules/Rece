@@ -1,0 +1,18 @@
+{
+  "id": "Q61315167",
+  "name": "Narkeler naru",
+  "description": "Bengali sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/narkeler-naru-q61315167/narkeler-naru-q61315167-1.jpg",
+    "images/narkeler-naru-q61315167/narkeler-naru-q61315167-2.jpg",
+    "images/narkeler-naru-q61315167/narkeler-naru-q61315167-3.jpg",
+    "images/narkeler-naru-q61315167/narkeler-naru-q61315167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61315167",
+    "themealdb": null
+  }
+}

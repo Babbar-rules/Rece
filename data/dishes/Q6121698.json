@@ -1,0 +1,20 @@
+{
+  "id": "Q6121698",
+  "name": "jaecheop-guk",
+  "description": "Korean clam soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jaecheop-guk-q6121698/jaecheop-guk-q6121698-1.jpg",
+    "images/jaecheop-guk-q6121698/jaecheop-guk-q6121698-2.png",
+    "images/jaecheop-guk-q6121698/jaecheop-guk-q6121698-3.jpg",
+    "images/jaecheop-guk-q6121698/jaecheop-guk-q6121698-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6121698",
+    "themealdb": null
+  }
+}

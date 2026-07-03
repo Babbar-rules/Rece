@@ -1,0 +1,20 @@
+{
+  "id": "Q6150975",
+  "name": "Torta Imperial",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-imperial-q6150975/torta-imperial-q6150975-1.jpg",
+    "images/torta-imperial-q6150975/torta-imperial-q6150975-2.jpg",
+    "images/torta-imperial-q6150975/torta-imperial-q6150975-3.jpg",
+    "images/torta-imperial-q6150975/torta-imperial-q6150975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6150975",
+    "themealdb": null
+  }
+}

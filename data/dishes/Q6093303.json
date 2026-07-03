@@ -1,0 +1,20 @@
+{
+  "id": "Q6093303",
+  "name": "Italian hot dog",
+  "description": "style of hot dog popular in New Jersey, USA",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-hot-dog-q6093303/italian-hot-dog-q6093303-1.jpg",
+    "images/italian-hot-dog-q6093303/italian-hot-dog-q6093303-2.jpg",
+    "images/italian-hot-dog-q6093303/italian-hot-dog-q6093303-3.jpg",
+    "images/italian-hot-dog-q6093303/italian-hot-dog-q6093303-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6093303",
+    "themealdb": null
+  }
+}

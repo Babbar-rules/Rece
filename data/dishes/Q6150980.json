@@ -1,0 +1,22 @@
+{
+  "id": "Q6150980",
+  "name": "Torta parda",
+  "description": "typical sweet from Cádíz",
+  "nationality": [
+    "Spain",
+    "Andalusia",
+    "Medina Sidonia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-parda-q6150980/torta-parda-q6150980-1.jpg",
+    "images/torta-parda-q6150980/torta-parda-q6150980-2.jpg",
+    "images/torta-parda-q6150980/torta-parda-q6150980-3.jpg",
+    "images/torta-parda-q6150980/torta-parda-q6150980-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6150980",
+    "themealdb": null
+  }
+}

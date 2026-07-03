@@ -1,0 +1,22 @@
+{
+  "id": "Q6088454",
+  "name": "bici bici",
+  "description": "light summer dessert from Southern Turkey, especially Adana and Mersin provinces",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/bici-bici-q6088454/bici-bici-q6088454-1.jpg",
+    "images/bici-bici-q6088454/bici-bici-q6088454-2.jpg",
+    "images/bici-bici-q6088454/bici-bici-q6088454-3.jpg",
+    "images/bici-bici-q6088454/bici-bici-q6088454-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6088454",
+    "themealdb": null
+  }
+}

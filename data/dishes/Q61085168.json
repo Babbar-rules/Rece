@@ -1,0 +1,19 @@
+{
+  "id": "Q61085168",
+  "name": "Ciorbă de miel",
+  "description": "Romanian lamb soup",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciorba-de-miel-q61085168/ciorba-de-miel-q61085168-1.jpg",
+    "images/ciorba-de-miel-q61085168/ciorba-de-miel-q61085168-2.jpg",
+    "images/ciorba-de-miel-q61085168/ciorba-de-miel-q61085168-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61085168",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q60823349",
+  "name": "sugo alla puttanesca",
+  "description": "pasta sauce",
+  "nationality": [],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/sugo-alla-puttanesca-q60823349/sugo-alla-puttanesca-q60823349-1.jpg",
+    "images/sugo-alla-puttanesca-q60823349/sugo-alla-puttanesca-q60823349-2.jpg",
+    "images/sugo-alla-puttanesca-q60823349/sugo-alla-puttanesca-q60823349-3.jpg",
+    "images/sugo-alla-puttanesca-q60823349/sugo-alla-puttanesca-q60823349-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60823349",
+    "themealdb": null
+  }
+}

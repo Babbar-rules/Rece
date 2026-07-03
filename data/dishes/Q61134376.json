@@ -1,0 +1,20 @@
+{
+  "id": "Q61134376",
+  "name": "leskovačka kavurma",
+  "description": "Serbian pork dish",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/leskovacka-kavurma-q61134376/leskovacka-kavurma-q61134376-1.jpg",
+    "images/leskovacka-kavurma-q61134376/leskovacka-kavurma-q61134376-2.jpg",
+    "images/leskovacka-kavurma-q61134376/leskovacka-kavurma-q61134376-3.jpg",
+    "images/leskovacka-kavurma-q61134376/leskovacka-kavurma-q61134376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61134376",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q607690",
+  "name": "Tabbouleh",
+  "description": "Middle East vegetarian dish",
+  "nationality": [
+    "Lebanon",
+    "Syria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tabbouleh-q607690/tabbouleh-q607690-1.jpg",
+    "images/tabbouleh-q607690/tabbouleh-q607690-2.jpg",
+    "images/tabbouleh-q607690/tabbouleh-q607690-3.jpg",
+    "images/tabbouleh-q607690/tabbouleh-q607690-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q607690",
+    "themealdb": null
+  }
+}

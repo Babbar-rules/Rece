@@ -1,0 +1,17 @@
+{
+  "id": "Q6081922",
+  "name": "pollo al chipotle",
+  "description": "Mexican chicken dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pollo-al-chipotle-q6081922/pollo-al-chipotle-q6081922-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6081922",
+    "themealdb": null
+  }
+}

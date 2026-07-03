@@ -1,0 +1,20 @@
+{
+  "id": "Q60762070",
+  "name": "Embutido",
+  "description": "Filipino cuisine",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/embutido-q60762070/embutido-q60762070-1.jpg",
+    "images/embutido-q60762070/embutido-q60762070-2.jpg",
+    "images/embutido-q60762070/embutido-q60762070-3.jpg",
+    "images/embutido-q60762070/embutido-q60762070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60762070",
+    "themealdb": null
+  }
+}

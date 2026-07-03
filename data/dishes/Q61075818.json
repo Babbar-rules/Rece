@@ -1,0 +1,18 @@
+{
+  "id": "Q61075818",
+  "name": "atom",
+  "description": "dessert from Turkey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/atom-q61075818/atom-q61075818-1.jpg",
+    "images/atom-q61075818/atom-q61075818-2.jpg",
+    "images/atom-q61075818/atom-q61075818-3.png",
+    "images/atom-q61075818/atom-q61075818-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61075818",
+    "themealdb": null
+  }
+}

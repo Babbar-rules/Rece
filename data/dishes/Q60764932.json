@@ -1,0 +1,18 @@
+{
+  "id": "Q60764932",
+  "name": "Lumpiang keso",
+  "description": "Filipino deep-fried appetizer",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lumpiang-keso-q60764932/lumpiang-keso-q60764932-1.jpg",
+    "images/lumpiang-keso-q60764932/lumpiang-keso-q60764932-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60764932",
+    "themealdb": null
+  }
+}

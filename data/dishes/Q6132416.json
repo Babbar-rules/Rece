@@ -1,0 +1,16 @@
+{
+  "id": "Q6132416",
+  "name": "sopa Juliana",
+  "description": "Portuguese vegetable soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sopa-juliana-q6132416/sopa-juliana-q6132416-1.jpg",
+    "images/sopa-juliana-q6132416/sopa-juliana-q6132416-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6132416",
+    "themealdb": null
+  }
+}

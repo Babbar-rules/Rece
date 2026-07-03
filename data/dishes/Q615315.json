@@ -1,0 +1,20 @@
+{
+  "id": "Q615315",
+  "name": "Moelleux au chocolat",
+  "description": "small chocolate cake",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moelleux-au-chocolat-q615315/moelleux-au-chocolat-q615315-1.jpg",
+    "images/moelleux-au-chocolat-q615315/moelleux-au-chocolat-q615315-2.jpg",
+    "images/moelleux-au-chocolat-q615315/moelleux-au-chocolat-q615315-3.jpg",
+    "images/moelleux-au-chocolat-q615315/moelleux-au-chocolat-q615315-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q615315",
+    "themealdb": null
+  }
+}

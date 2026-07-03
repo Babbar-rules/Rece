@@ -1,0 +1,22 @@
+{
+  "id": "Q6132434",
+  "name": "Sopa de Gato",
+  "description": "A thick soup from southern Spain",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/sopa-de-gato-q6132434/sopa-de-gato-q6132434-1.jpg",
+    "images/sopa-de-gato-q6132434/sopa-de-gato-q6132434-2.jpg",
+    "images/sopa-de-gato-q6132434/sopa-de-gato-q6132434-3.jpg",
+    "images/sopa-de-gato-q6132434/sopa-de-gato-q6132434-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6132434",
+    "themealdb": null
+  }
+}

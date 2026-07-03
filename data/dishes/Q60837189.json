@@ -1,0 +1,20 @@
+{
+  "id": "Q60837189",
+  "name": "crostini Toscani",
+  "description": "Tuscan crostini",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crostini-toscani-q60837189/crostini-toscani-q60837189-1.png",
+    "images/crostini-toscani-q60837189/crostini-toscani-q60837189-2.jpg",
+    "images/crostini-toscani-q60837189/crostini-toscani-q60837189-3.jpg",
+    "images/crostini-toscani-q60837189/crostini-toscani-q60837189-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60837189",
+    "themealdb": null
+  }
+}

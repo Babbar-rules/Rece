@@ -1,0 +1,18 @@
+{
+  "id": "Q60945230",
+  "name": "dewberry jam",
+  "description": "jam made from dewberrys",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dewberry-jam-q60945230/dewberry-jam-q60945230-1.jpg",
+    "images/dewberry-jam-q60945230/dewberry-jam-q60945230-2.jpg",
+    "images/dewberry-jam-q60945230/dewberry-jam-q60945230-3.jpg",
+    "images/dewberry-jam-q60945230/dewberry-jam-q60945230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60945230",
+    "themealdb": null
+  }
+}

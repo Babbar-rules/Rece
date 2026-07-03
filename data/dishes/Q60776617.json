@@ -1,0 +1,20 @@
+{
+  "id": "Q60776617",
+  "name": "Lechon manok",
+  "description": "chicken dish in Filipino cuisine",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lechon-manok-q60776617/lechon-manok-q60776617-1.jpg",
+    "images/lechon-manok-q60776617/lechon-manok-q60776617-2.jpg",
+    "images/lechon-manok-q60776617/lechon-manok-q60776617-3.jpg",
+    "images/lechon-manok-q60776617/lechon-manok-q60776617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60776617",
+    "themealdb": null
+  }
+}

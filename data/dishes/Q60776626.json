@@ -1,0 +1,18 @@
+{
+  "id": "Q60776626",
+  "name": "Saikyoyaki",
+  "description": "fish marinating method",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saikyoyaki-q60776626/saikyoyaki-q60776626-1.jpg",
+    "images/saikyoyaki-q60776626/saikyoyaki-q60776626-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60776626",
+    "themealdb": null
+  }
+}

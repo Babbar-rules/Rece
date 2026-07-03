@@ -1,0 +1,18 @@
+{
+  "id": "Q61075670",
+  "name": "Hamsiköy sütlacı",
+  "description": "",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hamsikoy-sutlac-q61075670/hamsikoy-sutlac-q61075670-1.jpg",
+    "images/hamsikoy-sutlac-q61075670/hamsikoy-sutlac-q61075670-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61075670",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q60762782",
+  "name": "Pastil",
+  "description": "Philippine packed-rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pastil-q60762782/pastil-q60762782-1.jpg",
+    "images/pastil-q60762782/pastil-q60762782-2.jpg",
+    "images/pastil-q60762782/pastil-q60762782-3.jpg",
+    "images/pastil-q60762782/pastil-q60762782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60762782",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q60970570",
+  "name": "Pascal",
+  "description": "dish of Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pascal-q60970570/pascal-q60970570-1.jpg",
+    "images/pascal-q60970570/pascal-q60970570-2.jpg",
+    "images/pascal-q60970570/pascal-q60970570-3.jpg",
+    "images/pascal-q60970570/pascal-q60970570-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60970570",
+    "themealdb": null
+  }
+}

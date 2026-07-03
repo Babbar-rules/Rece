@@ -1,0 +1,18 @@
+{
+  "id": "Q6117020",
+  "name": "sajta de pollo",
+  "description": "Bolivian chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sajta-de-pollo-q6117020/sajta-de-pollo-q6117020-1.jpg",
+    "images/sajta-de-pollo-q6117020/sajta-de-pollo-q6117020-2.jpg",
+    "images/sajta-de-pollo-q6117020/sajta-de-pollo-q6117020-3.jpg",
+    "images/sajta-de-pollo-q6117020/sajta-de-pollo-q6117020-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6117020",
+    "themealdb": null
+  }
+}

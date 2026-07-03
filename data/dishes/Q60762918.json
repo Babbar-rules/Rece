@@ -1,0 +1,21 @@
+{
+  "id": "Q60762918",
+  "name": "Paelya",
+  "description": "Philippine rice dish",
+  "nationality": [
+    "Spain",
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paelya-q60762918/paelya-q60762918-1.jpg",
+    "images/paelya-q60762918/paelya-q60762918-2.jpg",
+    "images/paelya-q60762918/paelya-q60762918-3.jpg",
+    "images/paelya-q60762918/paelya-q60762918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60762918",
+    "themealdb": null
+  }
+}

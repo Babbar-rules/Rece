@@ -1,0 +1,20 @@
+{
+  "id": "Q6082952",
+  "name": "Porotos con riendas",
+  "description": "Chilean dish",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/porotos-con-riendas-q6082952/porotos-con-riendas-q6082952-1.jpg",
+    "images/porotos-con-riendas-q6082952/porotos-con-riendas-q6082952-2.jpg",
+    "images/porotos-con-riendas-q6082952/porotos-con-riendas-q6082952-3.jpg",
+    "images/porotos-con-riendas-q6082952/porotos-con-riendas-q6082952-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6082952",
+    "themealdb": null
+  }
+}

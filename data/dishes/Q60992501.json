@@ -1,0 +1,18 @@
+{
+  "id": "Q60992501",
+  "name": "Beijing barbecue",
+  "description": "barbecued dish of Beijing, China",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beijing-barbecue-q60992501/beijing-barbecue-q60992501-1.jpg",
+    "images/beijing-barbecue-q60992501/beijing-barbecue-q60992501-2.jpg",
+    "images/beijing-barbecue-q60992501/beijing-barbecue-q60992501-3.jpg",
+    "images/beijing-barbecue-q60992501/beijing-barbecue-q60992501-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60992501",
+    "themealdb": null
+  }
+}

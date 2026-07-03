@@ -1,0 +1,20 @@
+{
+  "id": "Q6077919",
+  "name": "Karadeniz pidesi",
+  "description": "Turkish oven-baked dish consisting of a \"pide\" flatbread with a filling or topping.",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/karadeniz-pidesi-q6077919/karadeniz-pidesi-q6077919-1.jpg",
+    "images/karadeniz-pidesi-q6077919/karadeniz-pidesi-q6077919-2.jpg",
+    "images/karadeniz-pidesi-q6077919/karadeniz-pidesi-q6077919-3.jpg",
+    "images/karadeniz-pidesi-q6077919/karadeniz-pidesi-q6077919-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6077919",
+    "themealdb": null
+  }
+}

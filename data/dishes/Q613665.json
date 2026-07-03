@@ -1,0 +1,20 @@
+{
+  "id": "Q613665",
+  "name": "cullen skink",
+  "description": "thick Scottish soup made of smoked haddock, potatoes and onions",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cullen-skink-q613665/cullen-skink-q613665-1.jpg",
+    "images/cullen-skink-q613665/cullen-skink-q613665-2.jpg",
+    "images/cullen-skink-q613665/cullen-skink-q613665-3.jpg",
+    "images/cullen-skink-q613665/cullen-skink-q613665-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q613665",
+    "themealdb": null
+  }
+}

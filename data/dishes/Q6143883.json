@@ -1,0 +1,20 @@
+{
+  "id": "Q6143883",
+  "name": "Puccho",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puccho-q6143883/puccho-q6143883-1.jpg",
+    "images/puccho-q6143883/puccho-q6143883-2.jpg",
+    "images/puccho-q6143883/puccho-q6143883-3.jpg",
+    "images/puccho-q6143883/puccho-q6143883-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6143883",
+    "themealdb": null
+  }
+}

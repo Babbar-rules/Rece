@@ -1,0 +1,20 @@
+{
+  "id": "Q60764509",
+  "name": "dinamita",
+  "description": "variant of lumpia",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dinamita-q60764509/dinamita-q60764509-1.jpg",
+    "images/dinamita-q60764509/dinamita-q60764509-2.jpg",
+    "images/dinamita-q60764509/dinamita-q60764509-3.jpg",
+    "images/dinamita-q60764509/dinamita-q60764509-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60764509",
+    "themealdb": null
+  }
+}

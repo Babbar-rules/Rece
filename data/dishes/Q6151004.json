@@ -1,0 +1,18 @@
+{
+  "id": "Q6151004",
+  "name": "tortilla paisana",
+  "description": "Spanish country-style omelette",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tortilla-paisana-q6151004/tortilla-paisana-q6151004-1.jpg",
+    "images/tortilla-paisana-q6151004/tortilla-paisana-q6151004-2.jpg",
+    "images/tortilla-paisana-q6151004/tortilla-paisana-q6151004-3.jpg",
+    "images/tortilla-paisana-q6151004/tortilla-paisana-q6151004-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6151004",
+    "themealdb": null
+  }
+}

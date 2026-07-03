@@ -1,0 +1,22 @@
+{
+  "id": "Q611164",
+  "name": "okroshka",
+  "description": "Russian cold soup",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/okroshka-q611164/okroshka-q611164-1.jpg",
+    "images/okroshka-q611164/okroshka-q611164-2.jpg",
+    "images/okroshka-q611164/okroshka-q611164-3.jpg",
+    "images/okroshka-q611164/okroshka-q611164-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q611164",
+    "themealdb": null
+  }
+}

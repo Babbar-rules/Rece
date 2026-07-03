@@ -1,0 +1,20 @@
+{
+  "id": "Q6132927",
+  "name": "soyo",
+  "description": "soup",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soyo-q6132927/soyo-q6132927-1.jpg",
+    "images/soyo-q6132927/soyo-q6132927-2.jpg",
+    "images/soyo-q6132927/soyo-q6132927-3.png",
+    "images/soyo-q6132927/soyo-q6132927-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6132927",
+    "themealdb": null
+  }
+}

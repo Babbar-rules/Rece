@@ -1,0 +1,22 @@
+{
+  "id": "Q60761467",
+  "name": "Burgo",
+  "description": "traditional food from Jambi, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/burgo-q60761467/burgo-q60761467-1.jpg",
+    "images/burgo-q60761467/burgo-q60761467-2.png",
+    "images/burgo-q60761467/burgo-q60761467-3.jpg",
+    "images/burgo-q60761467/burgo-q60761467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60761467",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q61095632",
+  "name": "eotang",
+  "description": "Korean fish soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/eotang-q61095632/eotang-q61095632-1.jpg",
+    "images/eotang-q61095632/eotang-q61095632-2.jpg",
+    "images/eotang-q61095632/eotang-q61095632-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q61095632",
+    "themealdb": null
+  }
+}

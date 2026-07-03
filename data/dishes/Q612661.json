@@ -1,0 +1,23 @@
+{
+  "id": "Q612661",
+  "name": "kalakukko",
+  "description": "traditional food from the Finnish region of Savonia",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [
+    "Karelian cuisine",
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/kalakukko-q612661/kalakukko-q612661-1.jpg",
+    "images/kalakukko-q612661/kalakukko-q612661-2.jpg",
+    "images/kalakukko-q612661/kalakukko-q612661-3.jpg",
+    "images/kalakukko-q612661/kalakukko-q612661-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q612661",
+    "themealdb": null
+  }
+}

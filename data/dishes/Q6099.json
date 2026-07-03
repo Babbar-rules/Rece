@@ -1,0 +1,20 @@
+{
+  "id": "Q6099",
+  "name": "escalope",
+  "description": "breaded, fried flat piece of meat",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/escalope-q6099/escalope-q6099-1.jpg",
+    "images/escalope-q6099/escalope-q6099-2.jpg",
+    "images/escalope-q6099/escalope-q6099-3.jpg",
+    "images/escalope-q6099/escalope-q6099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6099",
+    "themealdb": null
+  }
+}

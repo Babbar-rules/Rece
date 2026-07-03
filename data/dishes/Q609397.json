@@ -1,0 +1,18 @@
+{
+  "id": "Q609397",
+  "name": "Russischer Zupfkuchen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/russischer-zupfkuchen-q609397/russischer-zupfkuchen-q609397-1.jpg",
+    "images/russischer-zupfkuchen-q609397/russischer-zupfkuchen-q609397-2.jpg",
+    "images/russischer-zupfkuchen-q609397/russischer-zupfkuchen-q609397-3.jpg",
+    "images/russischer-zupfkuchen-q609397/russischer-zupfkuchen-q609397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q609397",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6076597",
+  "name": "pipirrana",
+  "description": "Spanish salad",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pipirrana-q6076597/pipirrana-q6076597-1.png",
+    "images/pipirrana-q6076597/pipirrana-q6076597-2.jpg",
+    "images/pipirrana-q6076597/pipirrana-q6076597-3.jpg",
+    "images/pipirrana-q6076597/pipirrana-q6076597-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6076597",
+    "themealdb": null
+  }
+}
