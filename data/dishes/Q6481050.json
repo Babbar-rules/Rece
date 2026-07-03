@@ -1,0 +1,18 @@
+{
+  "id": "Q6481050",
+  "name": "lamb fries",
+  "description": "lamb testicles used as food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lamb-fries-q6481050/lamb-fries-q6481050-1.jpg",
+    "images/lamb-fries-q6481050/lamb-fries-q6481050-2.jpg",
+    "images/lamb-fries-q6481050/lamb-fries-q6481050-3.jpg",
+    "images/lamb-fries-q6481050/lamb-fries-q6481050-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6481050",
+    "themealdb": null
+  }
+}

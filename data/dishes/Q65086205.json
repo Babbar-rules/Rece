@@ -1,0 +1,20 @@
+{
+  "id": "Q65086205",
+  "name": "Kiping",
+  "description": "Filipino food",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kiping-q65086205/kiping-q65086205-1.jpg",
+    "images/kiping-q65086205/kiping-q65086205-2.jpg",
+    "images/kiping-q65086205/kiping-q65086205-3.jpg",
+    "images/kiping-q65086205/kiping-q65086205-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65086205",
+    "themealdb": null
+  }
+}

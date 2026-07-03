@@ -1,0 +1,20 @@
+{
+  "id": "Q65059692",
+  "name": "Ginataang kuhol",
+  "description": "Filipino snail dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-kuhol-q65059692/ginataang-kuhol-q65059692-1.jpg",
+    "images/ginataang-kuhol-q65059692/ginataang-kuhol-q65059692-2.jpg",
+    "images/ginataang-kuhol-q65059692/ginataang-kuhol-q65059692-3.jpg",
+    "images/ginataang-kuhol-q65059692/ginataang-kuhol-q65059692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65059692",
+    "themealdb": null
+  }
+}

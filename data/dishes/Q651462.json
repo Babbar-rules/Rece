@@ -1,0 +1,18 @@
+{
+  "id": "Q651462",
+  "name": "couverture chocolate",
+  "description": "high-quality chocolate that contains a higher percentage of cocoa butter than baking or eating chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/couverture-chocolate-q651462/couverture-chocolate-q651462-1.jpg",
+    "images/couverture-chocolate-q651462/couverture-chocolate-q651462-2.jpg",
+    "images/couverture-chocolate-q651462/couverture-chocolate-q651462-3.jpg",
+    "images/couverture-chocolate-q651462/couverture-chocolate-q651462-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q651462",
+    "themealdb": null
+  }
+}

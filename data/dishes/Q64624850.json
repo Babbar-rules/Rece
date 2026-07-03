@@ -1,0 +1,18 @@
+{
+  "id": "Q64624850",
+  "name": "canned soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/canned-soup-q64624850/canned-soup-q64624850-1.jpg",
+    "images/canned-soup-q64624850/canned-soup-q64624850-2.jpg",
+    "images/canned-soup-q64624850/canned-soup-q64624850-3.jpg",
+    "images/canned-soup-q64624850/canned-soup-q64624850-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64624850",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q65054415",
+  "name": "Conveyor belt hot pot",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/conveyor-belt-hot-pot-q65054415/conveyor-belt-hot-pot-q65054415-1.jpg",
+    "images/conveyor-belt-hot-pot-q65054415/conveyor-belt-hot-pot-q65054415-2.jpg",
+    "images/conveyor-belt-hot-pot-q65054415/conveyor-belt-hot-pot-q65054415-3.jpg",
+    "images/conveyor-belt-hot-pot-q65054415/conveyor-belt-hot-pot-q65054415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65054415",
+    "themealdb": null
+  }
+}

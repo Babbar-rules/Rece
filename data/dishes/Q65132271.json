@@ -1,0 +1,19 @@
+{
+  "id": "Q65132271",
+  "name": "Plasmon biscuit",
+  "description": "Italian children's biscuits",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/plasmon-biscuit-q65132271/plasmon-biscuit-q65132271-1.jpg",
+    "images/plasmon-biscuit-q65132271/plasmon-biscuit-q65132271-2.jpg",
+    "images/plasmon-biscuit-q65132271/plasmon-biscuit-q65132271-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65132271",
+    "themealdb": null
+  }
+}

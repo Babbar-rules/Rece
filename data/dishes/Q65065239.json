@@ -1,0 +1,18 @@
+{
+  "id": "Q65065239",
+  "name": "Ginataang labong",
+  "description": "Filipino vegetable stew",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-labong-q65065239/ginataang-labong-q65065239-1.jpg",
+    "images/ginataang-labong-q65065239/ginataang-labong-q65065239-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65065239",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6493",
+  "name": "Labskaus",
+  "description": "culinary specialty from Northern Germany and Scandinavia",
+  "nationality": [],
+  "region_cuisine": [
+    "Danish cuisine",
+    "Norwegian cuisine",
+    "German cuisine"
+  ],
+  "images": [
+    "images/labskaus-q6493/labskaus-q6493-1.jpg",
+    "images/labskaus-q6493/labskaus-q6493-2.jpg",
+    "images/labskaus-q6493/labskaus-q6493-3.jpg",
+    "images/labskaus-q6493/labskaus-q6493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6493",
+    "themealdb": null
+  }
+}

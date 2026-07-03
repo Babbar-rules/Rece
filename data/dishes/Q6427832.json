@@ -1,0 +1,20 @@
+{
+  "id": "Q6427832",
+  "name": "Kolot",
+  "description": "Type of bread roll from Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kolot-q6427832/kolot-q6427832-1.jpg",
+    "images/kolot-q6427832/kolot-q6427832-2.jpg",
+    "images/kolot-q6427832/kolot-q6427832-3.png",
+    "images/kolot-q6427832/kolot-q6427832-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6427832",
+    "themealdb": null
+  }
+}

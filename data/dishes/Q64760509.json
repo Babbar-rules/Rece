@@ -1,0 +1,18 @@
+{
+  "id": "Q64760509",
+  "name": "bittersweet chocolate",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bittersweet-chocolate-q64760509/bittersweet-chocolate-q64760509-1.jpg",
+    "images/bittersweet-chocolate-q64760509/bittersweet-chocolate-q64760509-2.jpg",
+    "images/bittersweet-chocolate-q64760509/bittersweet-chocolate-q64760509-3.jpg",
+    "images/bittersweet-chocolate-q64760509/bittersweet-chocolate-q64760509-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64760509",
+    "themealdb": null
+  }
+}

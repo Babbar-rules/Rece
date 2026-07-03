@@ -1,0 +1,22 @@
+{
+  "id": "Q65210405",
+  "name": "Ayam panggang",
+  "description": "cocos (Keeling) Islands chicken dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/ayam-panggang-q65210405/ayam-panggang-q65210405-1.jpg",
+    "images/ayam-panggang-q65210405/ayam-panggang-q65210405-2.jpg",
+    "images/ayam-panggang-q65210405/ayam-panggang-q65210405-3.jpg",
+    "images/ayam-panggang-q65210405/ayam-panggang-q65210405-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65210405",
+    "themealdb": null
+  }
+}

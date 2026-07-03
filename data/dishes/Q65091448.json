@@ -1,0 +1,20 @@
+{
+  "id": "Q65091448",
+  "name": "Ginataang kalabasa",
+  "description": "Filipino vegetable stew",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-kalabasa-q65091448/ginataang-kalabasa-q65091448-1.jpg",
+    "images/ginataang-kalabasa-q65091448/ginataang-kalabasa-q65091448-2.jpg",
+    "images/ginataang-kalabasa-q65091448/ginataang-kalabasa-q65091448-3.jpg",
+    "images/ginataang-kalabasa-q65091448/ginataang-kalabasa-q65091448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65091448",
+    "themealdb": null
+  }
+}

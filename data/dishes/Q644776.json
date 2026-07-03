@@ -1,0 +1,21 @@
+{
+  "id": "Q644776",
+  "name": "Neapolitan ice cream",
+  "description": "an ice cream composed of three separate flavors (typically vanilla, chocolate, and strawberry) arranged side by side in the same container, usually without any barrier between them",
+  "nationality": [
+    "Italy",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/neapolitan-ice-cream-q644776/neapolitan-ice-cream-q644776-1.jpg",
+    "images/neapolitan-ice-cream-q644776/neapolitan-ice-cream-q644776-2.jpg",
+    "images/neapolitan-ice-cream-q644776/neapolitan-ice-cream-q644776-3.jpg",
+    "images/neapolitan-ice-cream-q644776/neapolitan-ice-cream-q644776-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q644776",
+    "themealdb": null
+  }
+}

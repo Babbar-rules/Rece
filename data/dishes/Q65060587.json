@@ -1,0 +1,20 @@
+{
+  "id": "Q65060587",
+  "name": "ice buko",
+  "description": "Filipino frozen dessert",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-buko-q65060587/ice-buko-q65060587-1.jpg",
+    "images/ice-buko-q65060587/ice-buko-q65060587-2.jpg",
+    "images/ice-buko-q65060587/ice-buko-q65060587-3.jpg",
+    "images/ice-buko-q65060587/ice-buko-q65060587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65060587",
+    "themealdb": null
+  }
+}

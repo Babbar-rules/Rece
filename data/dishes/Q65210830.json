@@ -1,0 +1,22 @@
+{
+  "id": "Q65210830",
+  "name": "Bakakak hayam",
+  "description": "traditional Sundanese chicken dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/bakakak-hayam-q65210830/bakakak-hayam-q65210830-1.jpg",
+    "images/bakakak-hayam-q65210830/bakakak-hayam-q65210830-2.jpg",
+    "images/bakakak-hayam-q65210830/bakakak-hayam-q65210830-3.jpg",
+    "images/bakakak-hayam-q65210830/bakakak-hayam-q65210830-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65210830",
+    "themealdb": null
+  }
+}

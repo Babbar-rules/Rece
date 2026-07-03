@@ -1,0 +1,18 @@
+{
+  "id": "Q64348073",
+  "name": "Murki",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/murki-q64348073/murki-q64348073-1.jpg",
+    "images/murki-q64348073/murki-q64348073-2.jpg",
+    "images/murki-q64348073/murki-q64348073-3.jpg",
+    "images/murki-q64348073/murki-q64348073-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64348073",
+    "themealdb": null
+  }
+}

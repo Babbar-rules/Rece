@@ -1,0 +1,18 @@
+{
+  "id": "Q64974558",
+  "name": "Chick-n-Strips",
+  "description": "food served at Chick-fil-a",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chick-n-strips-q64974558/chick-n-strips-q64974558-1.jpg",
+    "images/chick-n-strips-q64974558/chick-n-strips-q64974558-2.jpg",
+    "images/chick-n-strips-q64974558/chick-n-strips-q64974558-3.jpg",
+    "images/chick-n-strips-q64974558/chick-n-strips-q64974558-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64974558",
+    "themealdb": null
+  }
+}

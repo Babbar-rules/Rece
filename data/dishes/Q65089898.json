@@ -1,0 +1,20 @@
+{
+  "id": "Q65089898",
+  "name": "grandma pizza",
+  "description": "pizza variety originating from Long Island, New York",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grandma-pizza-q65089898/grandma-pizza-q65089898-1.jpg",
+    "images/grandma-pizza-q65089898/grandma-pizza-q65089898-2.jpg",
+    "images/grandma-pizza-q65089898/grandma-pizza-q65089898-3.jpg",
+    "images/grandma-pizza-q65089898/grandma-pizza-q65089898-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65089898",
+    "themealdb": null
+  }
+}

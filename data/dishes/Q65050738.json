@@ -1,0 +1,17 @@
+{
+  "id": "Q65050738",
+  "name": "Shuipen yangrou",
+  "description": "mutton soup in Shaanxi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shuipen-yangrou-q65050738/shuipen-yangrou-q65050738-1.jpg",
+    "images/shuipen-yangrou-q65050738/shuipen-yangrou-q65050738-2.jpg",
+    "images/shuipen-yangrou-q65050738/shuipen-yangrou-q65050738-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65050738",
+    "themealdb": null
+  }
+}

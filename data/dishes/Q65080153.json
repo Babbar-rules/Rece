@@ -1,0 +1,20 @@
+{
+  "id": "Q65080153",
+  "name": "Kuning",
+  "description": "Philippine cuisine",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuning-q65080153/kuning-q65080153-1.jpg",
+    "images/kuning-q65080153/kuning-q65080153-2.jpg",
+    "images/kuning-q65080153/kuning-q65080153-3.jpg",
+    "images/kuning-q65080153/kuning-q65080153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65080153",
+    "themealdb": null
+  }
+}

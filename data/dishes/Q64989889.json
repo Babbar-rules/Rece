@@ -1,0 +1,20 @@
+{
+  "id": "Q64989889",
+  "name": "coconut burger",
+  "description": "Filipino veggie burger",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-burger-q64989889/coconut-burger-q64989889-1.jpg",
+    "images/coconut-burger-q64989889/coconut-burger-q64989889-2.jpg",
+    "images/coconut-burger-q64989889/coconut-burger-q64989889-3.jpg",
+    "images/coconut-burger-q64989889/coconut-burger-q64989889-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64989889",
+    "themealdb": null
+  }
+}

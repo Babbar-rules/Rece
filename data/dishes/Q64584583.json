@@ -1,0 +1,20 @@
+{
+  "id": "Q64584583",
+  "name": "Burger King Double Bacon Cheeseburger",
+  "description": "Burger King sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-double-bacon-cheeseburger-q64584583/burger-king-double-bacon-cheeseburger-q64584583-1.jpg",
+    "images/burger-king-double-bacon-cheeseburger-q64584583/burger-king-double-bacon-cheeseburger-q64584583-2.jpg",
+    "images/burger-king-double-bacon-cheeseburger-q64584583/burger-king-double-bacon-cheeseburger-q64584583-3.jpg",
+    "images/burger-king-double-bacon-cheeseburger-q64584583/burger-king-double-bacon-cheeseburger-q64584583-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64584583",
+    "themealdb": null
+  }
+}

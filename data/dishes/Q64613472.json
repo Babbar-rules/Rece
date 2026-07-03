@@ -1,0 +1,18 @@
+{
+  "id": "Q64613472",
+  "name": "Kojak",
+  "description": "lollipop from Hungary",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kojak-q64613472/kojak-q64613472-1.jpg",
+    "images/kojak-q64613472/kojak-q64613472-2.jpg",
+    "images/kojak-q64613472/kojak-q64613472-3.jpg",
+    "images/kojak-q64613472/kojak-q64613472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64613472",
+    "themealdb": null
+  }
+}

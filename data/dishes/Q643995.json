@@ -1,0 +1,18 @@
+{
+  "id": "Q643995",
+  "name": "skirt steak",
+  "description": "skirt steak",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/skirt-steak-q643995/skirt-steak-q643995-1.png",
+    "images/skirt-steak-q643995/skirt-steak-q643995-2.jpg",
+    "images/skirt-steak-q643995/skirt-steak-q643995-3.jpg",
+    "images/skirt-steak-q643995/skirt-steak-q643995-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q643995",
+    "themealdb": null
+  }
+}

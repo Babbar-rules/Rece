@@ -1,0 +1,20 @@
+{
+  "id": "Q65086224",
+  "name": "Ginataang langka",
+  "description": "Filipino vegetable stew",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-langka-q65086224/ginataang-langka-q65086224-1.jpg",
+    "images/ginataang-langka-q65086224/ginataang-langka-q65086224-2.jpg",
+    "images/ginataang-langka-q65086224/ginataang-langka-q65086224-3.jpg",
+    "images/ginataang-langka-q65086224/ginataang-langka-q65086224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65086224",
+    "themealdb": null
+  }
+}

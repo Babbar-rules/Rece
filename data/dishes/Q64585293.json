@@ -1,0 +1,20 @@
+{
+  "id": "Q64585293",
+  "name": "Burger King Onion Rings",
+  "description": "dish at Burger King",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-onion-rings-q64585293/burger-king-onion-rings-q64585293-1.jpg",
+    "images/burger-king-onion-rings-q64585293/burger-king-onion-rings-q64585293-2.jpg",
+    "images/burger-king-onion-rings-q64585293/burger-king-onion-rings-q64585293-3.jpg",
+    "images/burger-king-onion-rings-q64585293/burger-king-onion-rings-q64585293-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64585293",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q65080132",
+  "name": "piyanggang manuk",
+  "description": "Filipino chicken dish",
+  "nationality": [
+    "Sultanate of Sulu"
+  ],
+  "region_cuisine": [
+    "Malaysian cuisine",
+    "Filipino cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65080132",
+    "themealdb": null
+  }
+}

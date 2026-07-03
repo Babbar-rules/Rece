@@ -1,0 +1,20 @@
+{
+  "id": "Q65059324",
+  "name": "Ginataang isda",
+  "description": "Filipino fish stew",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-isda-q65059324/ginataang-isda-q65059324-1.jpg",
+    "images/ginataang-isda-q65059324/ginataang-isda-q65059324-2.jpg",
+    "images/ginataang-isda-q65059324/ginataang-isda-q65059324-3.jpg",
+    "images/ginataang-isda-q65059324/ginataang-isda-q65059324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65059324",
+    "themealdb": null
+  }
+}

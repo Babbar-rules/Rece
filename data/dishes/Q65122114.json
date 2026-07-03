@@ -1,0 +1,20 @@
+{
+  "id": "Q65122114",
+  "name": "Vanilla slice",
+  "description": "two pastry sheets filled with custard, iced and cut into squares",
+  "nationality": [
+    "New Zealand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vanilla-slice-q65122114/vanilla-slice-q65122114-1.jpg",
+    "images/vanilla-slice-q65122114/vanilla-slice-q65122114-2.jpg",
+    "images/vanilla-slice-q65122114/vanilla-slice-q65122114-3.jpg",
+    "images/vanilla-slice-q65122114/vanilla-slice-q65122114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65122114",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6521356",
+  "name": "lemon drop",
+  "description": "sugar coated, lemon-flavored candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-drop-q6521356/lemon-drop-q6521356-1.jpg",
+    "images/lemon-drop-q6521356/lemon-drop-q6521356-2.jpg",
+    "images/lemon-drop-q6521356/lemon-drop-q6521356-3.jpg",
+    "images/lemon-drop-q6521356/lemon-drop-q6521356-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6521356",
+    "themealdb": null
+  }
+}

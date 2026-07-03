@@ -1,0 +1,20 @@
+{
+  "id": "Q6497852",
+  "name": "Wiener schnitzel",
+  "description": "breaded veal schnitzel",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wiener-schnitzel-q6497852/wiener-schnitzel-q6497852-1.jpg",
+    "images/wiener-schnitzel-q6497852/wiener-schnitzel-q6497852-2.jpg",
+    "images/wiener-schnitzel-q6497852/wiener-schnitzel-q6497852-3.jpg",
+    "images/wiener-schnitzel-q6497852/wiener-schnitzel-q6497852-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6497852",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q64343255",
+  "name": "Tiler Naru",
+  "description": "Bengali sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tiler-naru-q64343255/tiler-naru-q64343255-1.jpg",
+    "images/tiler-naru-q64343255/tiler-naru-q64343255-2.jpg",
+    "images/tiler-naru-q64343255/tiler-naru-q64343255-3.jpg",
+    "images/tiler-naru-q64343255/tiler-naru-q64343255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64343255",
+    "themealdb": null
+  }
+}

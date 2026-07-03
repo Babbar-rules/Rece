@@ -1,0 +1,20 @@
+{
+  "id": "Q6466695",
+  "name": "Laba congee",
+  "description": "congee served on the 8th day of the 12th month of Chinese lunar year",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laba-congee-q6466695/laba-congee-q6466695-1.jpg",
+    "images/laba-congee-q6466695/laba-congee-q6466695-2.jpg",
+    "images/laba-congee-q6466695/laba-congee-q6466695-3.jpg",
+    "images/laba-congee-q6466695/laba-congee-q6466695-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6466695",
+    "themealdb": null
+  }
+}

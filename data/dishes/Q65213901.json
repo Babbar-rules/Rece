@@ -1,0 +1,20 @@
+{
+  "id": "Q65213901",
+  "name": "pupu",
+  "description": "Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pupu-q65213901/pupu-q65213901-1.jpg",
+    "images/pupu-q65213901/pupu-q65213901-2.jpg",
+    "images/pupu-q65213901/pupu-q65213901-3.jpg",
+    "images/pupu-q65213901/pupu-q65213901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65213901",
+    "themealdb": null
+  }
+}

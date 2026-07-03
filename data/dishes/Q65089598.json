@@ -1,0 +1,20 @@
+{
+  "id": "Q65089598",
+  "name": "Ngohiong",
+  "description": "Filipino appetizer",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ngohiong-q65089598/ngohiong-q65089598-1.jpg",
+    "images/ngohiong-q65089598/ngohiong-q65089598-2.jpg",
+    "images/ngohiong-q65089598/ngohiong-q65089598-3.jpg",
+    "images/ngohiong-q65089598/ngohiong-q65089598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65089598",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q65057632",
+  "name": "hot and spicy cheese bread",
+  "description": "cheese bread from Madison, Wisconsin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hot-and-spicy-cheese-bread-q65057632/hot-and-spicy-cheese-bread-q65057632-1.jpg",
+    "images/hot-and-spicy-cheese-bread-q65057632/hot-and-spicy-cheese-bread-q65057632-2.jpg",
+    "images/hot-and-spicy-cheese-bread-q65057632/hot-and-spicy-cheese-bread-q65057632-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65057632",
+    "themealdb": null
+  }
+}

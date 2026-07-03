@@ -1,0 +1,20 @@
+{
+  "id": "Q649535",
+  "name": "Solomon Gundy",
+  "description": "Jamaican pickled fish pâté",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/solomon-gundy-q649535/solomon-gundy-q649535-1.jpg",
+    "images/solomon-gundy-q649535/solomon-gundy-q649535-2.jpg",
+    "images/solomon-gundy-q649535/solomon-gundy-q649535-3.jpg",
+    "images/solomon-gundy-q649535/solomon-gundy-q649535-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q649535",
+    "themealdb": null
+  }
+}

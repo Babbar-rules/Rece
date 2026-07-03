@@ -1,0 +1,20 @@
+{
+  "id": "Q65060609",
+  "name": "buko salad",
+  "description": "Filipino fruit salad dessert",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buko-salad-q65060609/buko-salad-q65060609-1.jpg",
+    "images/buko-salad-q65060609/buko-salad-q65060609-2.jpg",
+    "images/buko-salad-q65060609/buko-salad-q65060609-3.jpg",
+    "images/buko-salad-q65060609/buko-salad-q65060609-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65060609",
+    "themealdb": null
+  }
+}

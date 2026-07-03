@@ -1,0 +1,18 @@
+{
+  "id": "Q643633",
+  "name": "rosquilla",
+  "description": "Spanish sweet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rosquilla-q643633/rosquilla-q643633-1.jpg",
+    "images/rosquilla-q643633/rosquilla-q643633-2.jpg",
+    "images/rosquilla-q643633/rosquilla-q643633-3.jpg",
+    "images/rosquilla-q643633/rosquilla-q643633-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q643633",
+    "themealdb": null
+  }
+}

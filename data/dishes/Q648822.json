@@ -1,0 +1,20 @@
+{
+  "id": "Q648822",
+  "name": "zunda",
+  "description": "Japanese sweet bean paste",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zunda-q648822/zunda-q648822-1.jpg",
+    "images/zunda-q648822/zunda-q648822-2.jpg",
+    "images/zunda-q648822/zunda-q648822-3.jpg",
+    "images/zunda-q648822/zunda-q648822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q648822",
+    "themealdb": null
+  }
+}

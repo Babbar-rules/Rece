@@ -1,0 +1,20 @@
+{
+  "id": "Q65213789",
+  "name": "Abon Ikan Bandeng",
+  "description": "Makanan Khas Indonesia yang terbuat dari bahan baku ikan bandeng yang telah dipisahkan dari durinya yang dilumatkan kemudian dikukus dan dicampurkan bumbu rempah rempah yang kemudian digoreng hingga minyaknya berkurang dan kering.",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/abon-ikan-bandeng-q65213789/abon-ikan-bandeng-q65213789-1.jpg",
+    "images/abon-ikan-bandeng-q65213789/abon-ikan-bandeng-q65213789-2.jpg",
+    "images/abon-ikan-bandeng-q65213789/abon-ikan-bandeng-q65213789-3.jpg",
+    "images/abon-ikan-bandeng-q65213789/abon-ikan-bandeng-q65213789-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65213789",
+    "themealdb": null
+  }
+}

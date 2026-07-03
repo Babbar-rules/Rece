@@ -1,0 +1,23 @@
+{
+  "id": "Q645522",
+  "name": "Chicken paprikash",
+  "description": "dish",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine",
+    "Austrian cuisine"
+  ],
+  "images": [
+    "images/chicken-paprikash-q645522/chicken-paprikash-q645522-1.jpg",
+    "images/chicken-paprikash-q645522/chicken-paprikash-q645522-2.jpg",
+    "images/chicken-paprikash-q645522/chicken-paprikash-q645522-3.jpg",
+    "images/chicken-paprikash-q645522/chicken-paprikash-q645522-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q645522",
+    "themealdb": null
+  }
+}

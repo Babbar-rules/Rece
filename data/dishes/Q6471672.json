@@ -1,0 +1,18 @@
+{
+  "id": "Q6471672",
+  "name": "Laffy Taffy",
+  "description": "brand of taffy candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/laffy-taffy-q6471672/laffy-taffy-q6471672-1.jpg",
+    "images/laffy-taffy-q6471672/laffy-taffy-q6471672-2.jpg",
+    "images/laffy-taffy-q6471672/laffy-taffy-q6471672-3.jpg",
+    "images/laffy-taffy-q6471672/laffy-taffy-q6471672-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6471672",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6434112",
+  "name": "kotlet schabowy",
+  "description": "Polish variety of pork breaded cutlet",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/kotlet-schabowy-q6434112/kotlet-schabowy-q6434112-1.jpg",
+    "images/kotlet-schabowy-q6434112/kotlet-schabowy-q6434112-2.jpg",
+    "images/kotlet-schabowy-q6434112/kotlet-schabowy-q6434112-3.jpg",
+    "images/kotlet-schabowy-q6434112/kotlet-schabowy-q6434112-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6434112",
+    "themealdb": null
+  }
+}

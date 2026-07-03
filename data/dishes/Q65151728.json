@@ -1,0 +1,19 @@
+{
+  "id": "Q65151728",
+  "name": "Slavonski med",
+  "description": "Croatian honey",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [
+    "Croatian cuisine"
+  ],
+  "images": [
+    "images/slavonski-med-q65151728/slavonski-med-q65151728-1.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65151728",
+    "themealdb": null
+  }
+}

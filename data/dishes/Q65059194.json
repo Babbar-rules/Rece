@@ -1,0 +1,20 @@
+{
+  "id": "Q65059194",
+  "name": "Ginataang munggo",
+  "description": "Filipino dessert",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-munggo-q65059194/ginataang-munggo-q65059194-1.jpg",
+    "images/ginataang-munggo-q65059194/ginataang-munggo-q65059194-2.jpg",
+    "images/ginataang-munggo-q65059194/ginataang-munggo-q65059194-3.jpg",
+    "images/ginataang-munggo-q65059194/ginataang-munggo-q65059194-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65059194",
+    "themealdb": null
+  }
+}

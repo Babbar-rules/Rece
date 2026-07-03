@@ -1,0 +1,20 @@
+{
+  "id": "Q65090003",
+  "name": "Shakoy",
+  "description": "traditional Filipino deep-fried twisted doughnut",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shakoy-q65090003/shakoy-q65090003-1.jpg",
+    "images/shakoy-q65090003/shakoy-q65090003-2.jpg",
+    "images/shakoy-q65090003/shakoy-q65090003-3.jpg",
+    "images/shakoy-q65090003/shakoy-q65090003-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65090003",
+    "themealdb": null
+  }
+}

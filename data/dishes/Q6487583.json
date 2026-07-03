@@ -1,0 +1,20 @@
+{
+  "id": "Q6487583",
+  "name": "lanterne",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lanterne-q6487583/lanterne-q6487583-1.jpg",
+    "images/lanterne-q6487583/lanterne-q6487583-2.jpg",
+    "images/lanterne-q6487583/lanterne-q6487583-3.jpg",
+    "images/lanterne-q6487583/lanterne-q6487583-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6487583",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6499081",
+  "name": "Spettekaka",
+  "description": "cone-shaped cake mostly associated with the southernmost region of Sweden, Scania",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spettekaka-q6499081/spettekaka-q6499081-1.jpg",
+    "images/spettekaka-q6499081/spettekaka-q6499081-2.jpg",
+    "images/spettekaka-q6499081/spettekaka-q6499081-3.jpg",
+    "images/spettekaka-q6499081/spettekaka-q6499081-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6499081",
+    "themealdb": null
+  }
+}

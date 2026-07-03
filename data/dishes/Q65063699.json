@@ -1,0 +1,19 @@
+{
+  "id": "Q65063699",
+  "name": "Masa podrida",
+  "description": "traditional Filipino shortbread cookies",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/masa-podrida-q65063699/masa-podrida-q65063699-1.jpg",
+    "images/masa-podrida-q65063699/masa-podrida-q65063699-2.jpg",
+    "images/masa-podrida-q65063699/masa-podrida-q65063699-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65063699",
+    "themealdb": null
+  }
+}

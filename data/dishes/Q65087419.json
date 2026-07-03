@@ -1,0 +1,20 @@
+{
+  "id": "Q65087419",
+  "name": "Pinagong",
+  "description": "food item",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pinagong-q65087419/pinagong-q65087419-1.jpg",
+    "images/pinagong-q65087419/pinagong-q65087419-2.jpg",
+    "images/pinagong-q65087419/pinagong-q65087419-3.jpg",
+    "images/pinagong-q65087419/pinagong-q65087419-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65087419",
+    "themealdb": null
+  }
+}

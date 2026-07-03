@@ -1,0 +1,22 @@
+{
+  "id": "Q648352",
+  "name": "bibimbap",
+  "description": "Korean rice bowl dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/bibimbap-q648352/bibimbap-q648352-1.jpg",
+    "images/bibimbap-q648352/bibimbap-q648352-2.jpg",
+    "images/bibimbap-q648352/bibimbap-q648352-3.jpg",
+    "images/bibimbap-q648352/bibimbap-q648352-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q648352",
+    "themealdb": null
+  }
+}

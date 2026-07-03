@@ -1,0 +1,20 @@
+{
+  "id": "Q6449309",
+  "name": "kuzumochi",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuzumochi-q6449309/kuzumochi-q6449309-1.jpg",
+    "images/kuzumochi-q6449309/kuzumochi-q6449309-2.jpg",
+    "images/kuzumochi-q6449309/kuzumochi-q6449309-3.jpg",
+    "images/kuzumochi-q6449309/kuzumochi-q6449309-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6449309",
+    "themealdb": null
+  }
+}

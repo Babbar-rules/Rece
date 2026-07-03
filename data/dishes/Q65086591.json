@@ -1,0 +1,20 @@
+{
+  "id": "Q65086591",
+  "name": "yema cake",
+  "description": "Filipino chiffon cake with a custard filling known as yema",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yema-cake-q65086591/yema-cake-q65086591-1.jpg",
+    "images/yema-cake-q65086591/yema-cake-q65086591-2.jpg",
+    "images/yema-cake-q65086591/yema-cake-q65086591-3.jpg",
+    "images/yema-cake-q65086591/yema-cake-q65086591-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65086591",
+    "themealdb": null
+  }
+}

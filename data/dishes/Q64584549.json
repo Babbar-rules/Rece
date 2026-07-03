@@ -1,0 +1,19 @@
+{
+  "id": "Q64584549",
+  "name": "Burger King Crispy Chicken Tenders",
+  "description": "dish at Burger King",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/burger-king-crispy-chicken-tenders-q64584549/burger-king-crispy-chicken-tenders-q64584549-1.jpg",
+    "images/burger-king-crispy-chicken-tenders-q64584549/burger-king-crispy-chicken-tenders-q64584549-2.jpg",
+    "images/burger-king-crispy-chicken-tenders-q64584549/burger-king-crispy-chicken-tenders-q64584549-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64584549",
+    "themealdb": null
+  }
+}

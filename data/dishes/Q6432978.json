@@ -1,0 +1,20 @@
+{
+  "id": "Q6432978",
+  "name": "Kosambari",
+  "description": "Seasoned split pulses salad",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kosambari-q6432978/kosambari-q6432978-1.jpg",
+    "images/kosambari-q6432978/kosambari-q6432978-2.jpg",
+    "images/kosambari-q6432978/kosambari-q6432978-3.jpg",
+    "images/kosambari-q6432978/kosambari-q6432978-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6432978",
+    "themealdb": null
+  }
+}

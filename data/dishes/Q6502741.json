@@ -1,0 +1,18 @@
+{
+  "id": "Q6502741",
+  "name": "pitepalt",
+  "description": "Swedish meat-filled dumpling made from raw grated potatoes, barley flour, and/or wheat flour. boiled in salted water and served with lingonberries and butter",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pitepalt-q6502741/pitepalt-q6502741-1.jpg",
+    "images/pitepalt-q6502741/pitepalt-q6502741-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6502741",
+    "themealdb": null
+  }
+}

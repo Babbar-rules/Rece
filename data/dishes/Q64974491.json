@@ -1,0 +1,20 @@
+{
+  "id": "Q64974491",
+  "name": "Chick-fil-A Waffle Potato Fries",
+  "description": "food served at Chick-fil-A",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chick-fil-a-waffle-potato-fries-q64974491/chick-fil-a-waffle-potato-fries-q64974491-1.jpg",
+    "images/chick-fil-a-waffle-potato-fries-q64974491/chick-fil-a-waffle-potato-fries-q64974491-2.jpg",
+    "images/chick-fil-a-waffle-potato-fries-q64974491/chick-fil-a-waffle-potato-fries-q64974491-3.jpg",
+    "images/chick-fil-a-waffle-potato-fries-q64974491/chick-fil-a-waffle-potato-fries-q64974491-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64974491",
+    "themealdb": null
+  }
+}

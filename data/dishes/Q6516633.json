@@ -1,0 +1,18 @@
+{
+  "id": "Q6516633",
+  "name": "Toy",
+  "description": "Swedish chewing gum",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/toy-q6516633/toy-q6516633-1.jpg",
+    "images/toy-q6516633/toy-q6516633-2.jpg",
+    "images/toy-q6516633/toy-q6516633-3.jpg",
+    "images/toy-q6516633/toy-q6516633-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6516633",
+    "themealdb": null
+  }
+}

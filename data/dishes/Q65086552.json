@@ -1,0 +1,22 @@
+{
+  "id": "Q65086552",
+  "name": "Aparon",
+  "description": "Filippino dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [
+    "Filipino cuisine"
+  ],
+  "images": [
+    "images/aparon-q65086552/aparon-q65086552-1.jpg",
+    "images/aparon-q65086552/aparon-q65086552-2.jpg",
+    "images/aparon-q65086552/aparon-q65086552-3.jpg",
+    "images/aparon-q65086552/aparon-q65086552-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65086552",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q65064132",
+  "name": "Ginataang hipon",
+  "description": "Filipino seafood soup that does not use vegetables",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-hipon-q65064132/ginataang-hipon-q65064132-1.jpg",
+    "images/ginataang-hipon-q65064132/ginataang-hipon-q65064132-2.jpg",
+    "images/ginataang-hipon-q65064132/ginataang-hipon-q65064132-3.jpg",
+    "images/ginataang-hipon-q65064132/ginataang-hipon-q65064132-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65064132",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q65041957",
+  "name": "Aloor Chop",
+  "description": "snack originating from the Indian subcontinent",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/aloor-chop-q65041957/aloor-chop-q65041957-1.jpg",
+    "images/aloor-chop-q65041957/aloor-chop-q65041957-2.jpg",
+    "images/aloor-chop-q65041957/aloor-chop-q65041957-3.jpg",
+    "images/aloor-chop-q65041957/aloor-chop-q65041957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65041957",
+    "themealdb": null
+  }
+}

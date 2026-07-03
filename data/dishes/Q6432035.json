@@ -1,0 +1,20 @@
+{
+  "id": "Q6432035",
+  "name": "Korean taco",
+  "description": "Korean-Mexican fusion disk",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/korean-taco-q6432035/korean-taco-q6432035-1.jpg",
+    "images/korean-taco-q6432035/korean-taco-q6432035-2.jpg",
+    "images/korean-taco-q6432035/korean-taco-q6432035-3.jpg",
+    "images/korean-taco-q6432035/korean-taco-q6432035-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6432035",
+    "themealdb": null
+  }
+}

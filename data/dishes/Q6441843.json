@@ -1,0 +1,18 @@
+{
+  "id": "Q6441843",
+  "name": "kue cubit",
+  "description": "Indonesian snack",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kue-cubit-q6441843/kue-cubit-q6441843-1.jpg",
+    "images/kue-cubit-q6441843/kue-cubit-q6441843-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6441843",
+    "themealdb": null
+  }
+}

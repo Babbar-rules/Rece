@@ -1,0 +1,18 @@
+{
+  "id": "Q6466629",
+  "name": "komaj sehen",
+  "description": "Iranian pastry",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/komaj-sehen-q6466629/komaj-sehen-q6466629-1.jpg",
+    "images/komaj-sehen-q6466629/komaj-sehen-q6466629-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6466629",
+    "themealdb": null
+  }
+}

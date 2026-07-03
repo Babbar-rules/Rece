@@ -1,0 +1,20 @@
+{
+  "id": "Q6436743",
+  "name": "napoleonka",
+  "description": "cream pastry from Poland",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/napoleonka-q6436743/napoleonka-q6436743-1.jpg",
+    "images/napoleonka-q6436743/napoleonka-q6436743-2.jpg",
+    "images/napoleonka-q6436743/napoleonka-q6436743-3.jpg",
+    "images/napoleonka-q6436743/napoleonka-q6436743-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6436743",
+    "themealdb": null
+  }
+}

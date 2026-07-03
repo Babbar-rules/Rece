@@ -1,0 +1,20 @@
+{
+  "id": "Q65090435",
+  "name": "Dongaseu",
+  "description": "Korean pork dish",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dongaseu-q65090435/dongaseu-q65090435-1.jpg",
+    "images/dongaseu-q65090435/dongaseu-q65090435-2.jpg",
+    "images/dongaseu-q65090435/dongaseu-q65090435-3.jpg",
+    "images/dongaseu-q65090435/dongaseu-q65090435-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65090435",
+    "themealdb": null
+  }
+}

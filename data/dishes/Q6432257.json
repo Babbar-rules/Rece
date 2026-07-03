@@ -1,0 +1,20 @@
+{
+  "id": "Q6432257",
+  "name": "Kori Rotti",
+  "description": "Mangalorean dish of chicken (Kori in Tulu) curry with rice flakes called rutti",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kori-rotti-q6432257/kori-rotti-q6432257-1.jpg",
+    "images/kori-rotti-q6432257/kori-rotti-q6432257-2.jpg",
+    "images/kori-rotti-q6432257/kori-rotti-q6432257-3.jpg",
+    "images/kori-rotti-q6432257/kori-rotti-q6432257-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6432257",
+    "themealdb": null
+  }
+}

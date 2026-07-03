@@ -1,0 +1,18 @@
+{
+  "id": "Q6501598",
+  "name": "sirloin steak",
+  "description": "beef steak cut from the loin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sirloin-steak-q6501598/sirloin-steak-q6501598-1.jpg",
+    "images/sirloin-steak-q6501598/sirloin-steak-q6501598-2.jpg",
+    "images/sirloin-steak-q6501598/sirloin-steak-q6501598-3.jpg",
+    "images/sirloin-steak-q6501598/sirloin-steak-q6501598-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6501598",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q65163168",
+  "name": "tabernero",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tabernero-q65163168/tabernero-q65163168-1.jpg",
+    "images/tabernero-q65163168/tabernero-q65163168-2.jpeg",
+    "images/tabernero-q65163168/tabernero-q65163168-3.jpg",
+    "images/tabernero-q65163168/tabernero-q65163168-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65163168",
+    "themealdb": null
+  }
+}

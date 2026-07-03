@@ -1,0 +1,18 @@
+{
+  "id": "Q6497093",
+  "name": "lattice",
+  "description": "pattern of pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lattice-q6497093/lattice-q6497093-1.jpg",
+    "images/lattice-q6497093/lattice-q6497093-2.png",
+    "images/lattice-q6497093/lattice-q6497093-3.jpg",
+    "images/lattice-q6497093/lattice-q6497093-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6497093",
+    "themealdb": null
+  }
+}

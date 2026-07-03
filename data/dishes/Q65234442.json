@@ -1,0 +1,18 @@
+{
+  "id": "Q65234442",
+  "name": "katsu ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/katsu-ramen-q65234442/katsu-ramen-q65234442-1.jpg",
+    "images/katsu-ramen-q65234442/katsu-ramen-q65234442-2.jpg",
+    "images/katsu-ramen-q65234442/katsu-ramen-q65234442-3.jpg",
+    "images/katsu-ramen-q65234442/katsu-ramen-q65234442-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65234442",
+    "themealdb": null
+  }
+}

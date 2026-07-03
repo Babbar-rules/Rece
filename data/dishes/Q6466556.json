@@ -1,0 +1,18 @@
+{
+  "id": "Q6466556",
+  "name": "Laal maans",
+  "description": "ethnic food of Rajasthan",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laal-maans-q6466556/laal-maans-q6466556-1.jpg",
+    "images/laal-maans-q6466556/laal-maans-q6466556-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6466556",
+    "themealdb": null
+  }
+}

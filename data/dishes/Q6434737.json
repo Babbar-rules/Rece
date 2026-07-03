@@ -1,0 +1,29 @@
+{
+  "id": "Q6434737",
+  "name": "stuffed squash",
+  "description": "dish common in the former Ottoman Empire",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Egyptian cuisine",
+    "Lebanese cuisine",
+    "Jordanian cuisine",
+    "Palestinian cuisine",
+    "Levantine cuisine",
+    "Italian cuisine",
+    "Cypriot cuisine",
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/stuffed-squash-q6434737/stuffed-squash-q6434737-1.jpg",
+    "images/stuffed-squash-q6434737/stuffed-squash-q6434737-2.jpg",
+    "images/stuffed-squash-q6434737/stuffed-squash-q6434737-3.jpg",
+    "images/stuffed-squash-q6434737/stuffed-squash-q6434737-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6434737",
+    "themealdb": null
+  }
+}

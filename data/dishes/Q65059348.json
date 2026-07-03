@@ -1,0 +1,20 @@
+{
+  "id": "Q65059348",
+  "name": "Ginataang manok",
+  "description": "Filipino chicken soup",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginataang-manok-q65059348/ginataang-manok-q65059348-1.jpg",
+    "images/ginataang-manok-q65059348/ginataang-manok-q65059348-2.jpg",
+    "images/ginataang-manok-q65059348/ginataang-manok-q65059348-3.jpg",
+    "images/ginataang-manok-q65059348/ginataang-manok-q65059348-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65059348",
+    "themealdb": null
+  }
+}

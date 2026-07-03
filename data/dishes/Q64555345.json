@@ -1,0 +1,20 @@
+{
+  "id": "Q64555345",
+  "name": "Parihuela",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/parihuela-q64555345/parihuela-q64555345-1.jpg",
+    "images/parihuela-q64555345/parihuela-q64555345-2.jpg",
+    "images/parihuela-q64555345/parihuela-q64555345-3.jpg",
+    "images/parihuela-q64555345/parihuela-q64555345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q64555345",
+    "themealdb": null
+  }
+}

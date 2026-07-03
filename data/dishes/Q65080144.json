@@ -1,0 +1,22 @@
+{
+  "id": "Q65080144",
+  "name": "Piaparan",
+  "description": "Maranao dish",
+  "nationality": [
+    "Confederate States of Lanao"
+  ],
+  "region_cuisine": [
+    "Filipino cuisine"
+  ],
+  "images": [
+    "images/piaparan-q65080144/piaparan-q65080144-1.jpg",
+    "images/piaparan-q65080144/piaparan-q65080144-2.jpg",
+    "images/piaparan-q65080144/piaparan-q65080144-3.jpg",
+    "images/piaparan-q65080144/piaparan-q65080144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65080144",
+    "themealdb": null
+  }
+}

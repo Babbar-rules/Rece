@@ -1,0 +1,20 @@
+{
+  "id": "Q6516224",
+  "name": "leek soup",
+  "description": "vegetable-based soup dish",
+  "nationality": [
+    "Wales"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/leek-soup-q6516224/leek-soup-q6516224-1.jpg",
+    "images/leek-soup-q6516224/leek-soup-q6516224-2.jpg",
+    "images/leek-soup-q6516224/leek-soup-q6516224-3.jpg",
+    "images/leek-soup-q6516224/leek-soup-q6516224-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6516224",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q65084223",
+  "name": "balao-balao",
+  "description": "Filipino fermented shrimp and rice dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balao-balao-q65084223/balao-balao-q65084223-1.png",
+    "images/balao-balao-q65084223/balao-balao-q65084223-2.jpg",
+    "images/balao-balao-q65084223/balao-balao-q65084223-3.png",
+    "images/balao-balao-q65084223/balao-balao-q65084223-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65084223",
+    "themealdb": null
+  }
+}

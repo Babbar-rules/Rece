@@ -1,0 +1,18 @@
+{
+  "id": "Q65051309",
+  "name": "Surou",
+  "description": "fried pork dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/surou-q65051309/surou-q65051309-1.jpg",
+    "images/surou-q65051309/surou-q65051309-2.jpg",
+    "images/surou-q65051309/surou-q65051309-3.jpg",
+    "images/surou-q65051309/surou-q65051309-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65051309",
+    "themealdb": null
+  }
+}

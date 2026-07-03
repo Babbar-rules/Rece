@@ -1,0 +1,17 @@
+{
+  "id": "Q6466740",
+  "name": "Laban Seigmenn",
+  "description": "Brand of sweets",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/laban-seigmenn-q6466740/laban-seigmenn-q6466740-1.jpg",
+    "images/laban-seigmenn-q6466740/laban-seigmenn-q6466740-2.jpg",
+    "images/laban-seigmenn-q6466740/laban-seigmenn-q6466740-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6466740",
+    "themealdb": null
+  }
+}

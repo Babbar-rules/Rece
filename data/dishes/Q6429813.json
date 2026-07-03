@@ -1,0 +1,22 @@
+{
+  "id": "Q6429813",
+  "name": "Konro Soup",
+  "description": "beef ribs soup dish from Makasar",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/konro-soup-q6429813/konro-soup-q6429813-1.jpg",
+    "images/konro-soup-q6429813/konro-soup-q6429813-2.jpg",
+    "images/konro-soup-q6429813/konro-soup-q6429813-3.jpg",
+    "images/konro-soup-q6429813/konro-soup-q6429813-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6429813",
+    "themealdb": null
+  }
+}

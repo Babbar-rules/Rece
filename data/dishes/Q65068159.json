@@ -1,0 +1,18 @@
+{
+  "id": "Q65068159",
+  "name": "Bocadin",
+  "description": "Mexican chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bocadin-q65068159/bocadin-q65068159-1.jpg",
+    "images/bocadin-q65068159/bocadin-q65068159-2.png",
+    "images/bocadin-q65068159/bocadin-q65068159-3.jpg",
+    "images/bocadin-q65068159/bocadin-q65068159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65068159",
+    "themealdb": null
+  }
+}

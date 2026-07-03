@@ -1,0 +1,20 @@
+{
+  "id": "Q6441202",
+  "name": "Kubdari",
+  "description": "Georgian dish",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kubdari-q6441202/kubdari-q6441202-1.jpg",
+    "images/kubdari-q6441202/kubdari-q6441202-2.jpg",
+    "images/kubdari-q6441202/kubdari-q6441202-3.jpg",
+    "images/kubdari-q6441202/kubdari-q6441202-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6441202",
+    "themealdb": null
+  }
+}

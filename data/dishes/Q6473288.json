@@ -1,0 +1,18 @@
+{
+  "id": "Q6473288",
+  "name": "Lahndi",
+  "description": "Pashtun dried meat dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lahndi-q6473288/lahndi-q6473288-1.jpg",
+    "images/lahndi-q6473288/lahndi-q6473288-2.jpg",
+    "images/lahndi-q6473288/lahndi-q6473288-3.png",
+    "images/lahndi-q6473288/lahndi-q6473288-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6473288",
+    "themealdb": null
+  }
+}

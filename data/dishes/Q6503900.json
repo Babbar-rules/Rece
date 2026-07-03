@@ -1,0 +1,16 @@
+{
+  "id": "Q6503900",
+  "name": "okoshimono",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/okoshimono-q6503900/okoshimono-q6503900-1.jpg",
+    "images/okoshimono-q6503900/okoshimono-q6503900-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6503900",
+    "themealdb": null
+  }
+}

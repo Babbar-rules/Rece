@@ -1,0 +1,20 @@
+{
+  "id": "Q65064131",
+  "name": "nilasing na hipon",
+  "description": "Filipino shrimp dish",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nilasing-na-hipon-q65064131/nilasing-na-hipon-q65064131-1.jpg",
+    "images/nilasing-na-hipon-q65064131/nilasing-na-hipon-q65064131-2.jpg",
+    "images/nilasing-na-hipon-q65064131/nilasing-na-hipon-q65064131-3.jpg",
+    "images/nilasing-na-hipon-q65064131/nilasing-na-hipon-q65064131-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65064131",
+    "themealdb": null
+  }
+}

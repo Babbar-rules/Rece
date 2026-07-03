@@ -1,0 +1,20 @@
+{
+  "id": "Q65089369",
+  "name": "bagnet",
+  "description": "Filipino dish of deep-fried pork belly",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bagnet-q65089369/bagnet-q65089369-1.png",
+    "images/bagnet-q65089369/bagnet-q65089369-2.jpg",
+    "images/bagnet-q65089369/bagnet-q65089369-3.jpg",
+    "images/bagnet-q65089369/bagnet-q65089369-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65089369",
+    "themealdb": null
+  }
+}

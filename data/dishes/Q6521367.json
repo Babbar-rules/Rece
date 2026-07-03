@@ -1,0 +1,20 @@
+{
+  "id": "Q6521367",
+  "name": "lemon tart",
+  "description": "dessert dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-tart-q6521367/lemon-tart-q6521367-1.jpg",
+    "images/lemon-tart-q6521367/lemon-tart-q6521367-2.jpg",
+    "images/lemon-tart-q6521367/lemon-tart-q6521367-3.jpg",
+    "images/lemon-tart-q6521367/lemon-tart-q6521367-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6521367",
+    "themealdb": null
+  }
+}

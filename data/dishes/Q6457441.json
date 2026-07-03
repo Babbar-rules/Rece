@@ -1,0 +1,20 @@
+{
+  "id": "Q6457441",
+  "name": "yahni",
+  "description": "broth or stew",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yahni-q6457441/yahni-q6457441-1.jpg",
+    "images/yahni-q6457441/yahni-q6457441-2.jpg",
+    "images/yahni-q6457441/yahni-q6457441-3.jpg",
+    "images/yahni-q6457441/yahni-q6457441-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6457441",
+    "themealdb": null
+  }
+}

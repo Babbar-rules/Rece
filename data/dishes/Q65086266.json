@@ -1,0 +1,22 @@
+{
+  "id": "Q65086266",
+  "name": "Pilipit",
+  "description": "traditional Filipino doughnut",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [
+    "Filipino cuisine"
+  ],
+  "images": [
+    "images/pilipit-q65086266/pilipit-q65086266-1.jpg",
+    "images/pilipit-q65086266/pilipit-q65086266-2.jpg",
+    "images/pilipit-q65086266/pilipit-q65086266-3.jpg",
+    "images/pilipit-q65086266/pilipit-q65086266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65086266",
+    "themealdb": null
+  }
+}

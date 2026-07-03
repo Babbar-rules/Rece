@@ -1,0 +1,18 @@
+{
+  "id": "Q6435805",
+  "name": "Kraft Dinner",
+  "description": "macaroni and cheese dish by Kraft Foods",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kraft-dinner-q6435805/kraft-dinner-q6435805-1.jpg",
+    "images/kraft-dinner-q6435805/kraft-dinner-q6435805-2.jpg",
+    "images/kraft-dinner-q6435805/kraft-dinner-q6435805-3.jpg",
+    "images/kraft-dinner-q6435805/kraft-dinner-q6435805-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6435805",
+    "themealdb": null
+  }
+}
