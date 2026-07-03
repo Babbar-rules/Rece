@@ -1,0 +1,18 @@
+{
+  "id": "Q17035957",
+  "name": "Sio-chiu-le",
+  "description": "Batillaria zonalis cuisine in Taiwan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sio-chiu-le-q17035957/sio-chiu-le-q17035957-1.jpg",
+    "images/sio-chiu-le-q17035957/sio-chiu-le-q17035957-2.jpg",
+    "images/sio-chiu-le-q17035957/sio-chiu-le-q17035957-3.jpg",
+    "images/sio-chiu-le-q17035957/sio-chiu-le-q17035957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17035957",
+    "themealdb": null
+  }
+}

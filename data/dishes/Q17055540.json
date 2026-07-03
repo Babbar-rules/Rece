@@ -1,0 +1,22 @@
+{
+  "id": "Q17055540",
+  "name": "sate Bandeng",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/sate-bandeng-q17055540/sate-bandeng-q17055540-1.jpg",
+    "images/sate-bandeng-q17055540/sate-bandeng-q17055540-2.jpg",
+    "images/sate-bandeng-q17055540/sate-bandeng-q17055540-3.jpg",
+    "images/sate-bandeng-q17055540/sate-bandeng-q17055540-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17055540",
+    "themealdb": null
+  }
+}

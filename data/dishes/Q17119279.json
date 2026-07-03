@@ -1,0 +1,15 @@
+{
+  "id": "Q17119279",
+  "name": "Spaghetti taco",
+  "description": "taco variety",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghetti-taco-q17119279/spaghetti-taco-q17119279-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17119279",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17090617",
+  "name": "Tinga",
+  "description": "Mexican chicken dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tinga-q17090617/tinga-q17090617-1.jpg",
+    "images/tinga-q17090617/tinga-q17090617-2.jpg",
+    "images/tinga-q17090617/tinga-q17090617-3.jpg",
+    "images/tinga-q17090617/tinga-q17090617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17090617",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17116096",
+  "name": "hard candy",
+  "description": "form of sugar candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hard-candy-q17116096/hard-candy-q17116096-1.jpg",
+    "images/hard-candy-q17116096/hard-candy-q17116096-2.jpg",
+    "images/hard-candy-q17116096/hard-candy-q17116096-3.png",
+    "images/hard-candy-q17116096/hard-candy-q17116096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116096",
+    "themealdb": null
+  }
+}

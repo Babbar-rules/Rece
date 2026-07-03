@@ -1,0 +1,18 @@
+{
+  "id": "Q17053542",
+  "name": "Sambal stingray",
+  "description": "seafood dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sambal-stingray-q17053542/sambal-stingray-q17053542-1.jpg",
+    "images/sambal-stingray-q17053542/sambal-stingray-q17053542-2.jpg",
+    "images/sambal-stingray-q17053542/sambal-stingray-q17053542-3.jpg",
+    "images/sambal-stingray-q17053542/sambal-stingray-q17053542-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17053542",
+    "themealdb": null
+  }
+}

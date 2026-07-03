@@ -1,0 +1,20 @@
+{
+  "id": "Q17050727",
+  "name": "Kołacz",
+  "description": "Polish cake",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koacz-q17050727/koacz-q17050727-1.jpg",
+    "images/koacz-q17050727/koacz-q17050727-2.jpg",
+    "images/koacz-q17050727/koacz-q17050727-3.jpg",
+    "images/koacz-q17050727/koacz-q17050727-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17050727",
+    "themealdb": null
+  }
+}

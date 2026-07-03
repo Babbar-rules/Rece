@@ -1,0 +1,20 @@
+{
+  "id": "Q17110888",
+  "name": "Jamaican patty",
+  "description": "pastry that contains various fillings",
+  "nationality": [
+    "Jamaica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jamaican-patty-q17110888/jamaican-patty-q17110888-1.jpg",
+    "images/jamaican-patty-q17110888/jamaican-patty-q17110888-2.jpg",
+    "images/jamaican-patty-q17110888/jamaican-patty-q17110888-3.jpg",
+    "images/jamaican-patty-q17110888/jamaican-patty-q17110888-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17110888",
+    "themealdb": null
+  }
+}

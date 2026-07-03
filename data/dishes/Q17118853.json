@@ -1,0 +1,18 @@
+{
+  "id": "Q17118853",
+  "name": "oyster ice cream",
+  "description": "savory ice cream made from oysters",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oyster-ice-cream-q17118853/oyster-ice-cream-q17118853-1.jpg",
+    "images/oyster-ice-cream-q17118853/oyster-ice-cream-q17118853-2.jpg",
+    "images/oyster-ice-cream-q17118853/oyster-ice-cream-q17118853-3.jpg",
+    "images/oyster-ice-cream-q17118853/oyster-ice-cream-q17118853-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17118853",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q1703796",
+  "name": "Hákarl",
+  "description": "national dish of Iceland consisting of fermented shark",
+  "nationality": [
+    "Iceland"
+  ],
+  "region_cuisine": [
+    "Icelandic cuisine"
+  ],
+  "images": [
+    "images/hakarl-q1703796/hakarl-q1703796-1.jpg",
+    "images/hakarl-q1703796/hakarl-q1703796-2.jpg",
+    "images/hakarl-q1703796/hakarl-q1703796-3.jpg",
+    "images/hakarl-q1703796/hakarl-q1703796-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1703796",
+    "themealdb": null
+  }
+}

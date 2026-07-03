@@ -1,0 +1,22 @@
+{
+  "id": "Q1703515",
+  "name": "pie and mash",
+  "description": "traditional London working-class food consisting of a minced beef pie, mashed potato and parsley sauce",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "English cuisine"
+  ],
+  "images": [
+    "images/pie-and-mash-q1703515/pie-and-mash-q1703515-1.jpg",
+    "images/pie-and-mash-q1703515/pie-and-mash-q1703515-2.jpg",
+    "images/pie-and-mash-q1703515/pie-and-mash-q1703515-3.jpg",
+    "images/pie-and-mash-q1703515/pie-and-mash-q1703515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1703515",
+    "themealdb": null
+  }
+}

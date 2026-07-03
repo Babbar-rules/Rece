@@ -1,0 +1,20 @@
+{
+  "id": "Q17053738",
+  "name": "noodles stirred",
+  "description": "Indonesian chicken noodle food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/noodles-stirred-q17053738/noodles-stirred-q17053738-1.jpg",
+    "images/noodles-stirred-q17053738/noodles-stirred-q17053738-2.jpg",
+    "images/noodles-stirred-q17053738/noodles-stirred-q17053738-3.jpg",
+    "images/noodles-stirred-q17053738/noodles-stirred-q17053738-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17053738",
+    "themealdb": null
+  }
+}

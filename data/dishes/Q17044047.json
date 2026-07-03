@@ -1,0 +1,18 @@
+{
+  "id": "Q17044047",
+  "name": "Plantain soup",
+  "description": "soup made of plantains, eaten in various cultures",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/plantain-soup-q17044047/plantain-soup-q17044047-1.jpg",
+    "images/plantain-soup-q17044047/plantain-soup-q17044047-2.jpg",
+    "images/plantain-soup-q17044047/plantain-soup-q17044047-3.jpg",
+    "images/plantain-soup-q17044047/plantain-soup-q17044047-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17044047",
+    "themealdb": null
+  }
+}

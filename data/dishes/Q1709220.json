@@ -1,0 +1,20 @@
+{
+  "id": "Q1709220",
+  "name": "blondie",
+  "description": "rich, sweet dessert bar",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blondie-q1709220/blondie-q1709220-1.jpg",
+    "images/blondie-q1709220/blondie-q1709220-2.jpg",
+    "images/blondie-q1709220/blondie-q1709220-3.jpg",
+    "images/blondie-q1709220/blondie-q1709220-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1709220",
+    "themealdb": null
+  }
+}

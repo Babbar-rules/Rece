@@ -1,0 +1,22 @@
+{
+  "id": "Q17064971",
+  "name": "cong you ji",
+  "description": "Chinese dish of chicken",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Hakka cuisine"
+  ],
+  "images": [
+    "images/cong-you-ji-q17064971/cong-you-ji-q17064971-1.jpg",
+    "images/cong-you-ji-q17064971/cong-you-ji-q17064971-2.jpg",
+    "images/cong-you-ji-q17064971/cong-you-ji-q17064971-3.png",
+    "images/cong-you-ji-q17064971/cong-you-ji-q17064971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17064971",
+    "themealdb": null
+  }
+}

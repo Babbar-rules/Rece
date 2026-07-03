@@ -1,0 +1,20 @@
+{
+  "id": "Q17049518",
+  "name": "crab in oyster sauce",
+  "description": "Chinese-Indonesian dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/crab-in-oyster-sauce-q17049518/crab-in-oyster-sauce-q17049518-1.jpg",
+    "images/crab-in-oyster-sauce-q17049518/crab-in-oyster-sauce-q17049518-2.jpg",
+    "images/crab-in-oyster-sauce-q17049518/crab-in-oyster-sauce-q17049518-3.jpg",
+    "images/crab-in-oyster-sauce-q17049518/crab-in-oyster-sauce-q17049518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17049518",
+    "themealdb": null
+  }
+}

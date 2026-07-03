@@ -1,0 +1,18 @@
+{
+  "id": "Q1703574",
+  "name": "pinnekjøtt",
+  "description": "traditional Norwegian Christmas lamb dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pinnekjtt-q1703574/pinnekjtt-q1703574-1.jpg",
+    "images/pinnekjtt-q1703574/pinnekjtt-q1703574-2.jpg",
+    "images/pinnekjtt-q1703574/pinnekjtt-q1703574-3.jpg",
+    "images/pinnekjtt-q1703574/pinnekjtt-q1703574-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1703574",
+    "themealdb": null
+  }
+}

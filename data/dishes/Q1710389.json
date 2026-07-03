@@ -1,0 +1,20 @@
+{
+  "id": "Q1710389",
+  "name": "hash brown",
+  "description": "dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hash-brown-q1710389/hash-brown-q1710389-1.jpg",
+    "images/hash-brown-q1710389/hash-brown-q1710389-2.jpg",
+    "images/hash-brown-q1710389/hash-brown-q1710389-3.jpg",
+    "images/hash-brown-q1710389/hash-brown-q1710389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1710389",
+    "themealdb": null
+  }
+}

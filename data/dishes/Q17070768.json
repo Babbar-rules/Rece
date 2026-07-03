@@ -1,0 +1,18 @@
+{
+  "id": "Q17070768",
+  "name": "Frango",
+  "description": "brand of chocolate truffles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frango-q17070768/frango-q17070768-1.jpg",
+    "images/frango-q17070768/frango-q17070768-2.jpg",
+    "images/frango-q17070768/frango-q17070768-3.jpg",
+    "images/frango-q17070768/frango-q17070768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17070768",
+    "themealdb": null
+  }
+}

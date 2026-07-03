@@ -1,0 +1,18 @@
+{
+  "id": "Q17108537",
+  "name": "Nilla Wafers",
+  "description": "Brand of wafer style cookies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nilla-wafers-q17108537/nilla-wafers-q17108537-1.jpg",
+    "images/nilla-wafers-q17108537/nilla-wafers-q17108537-2.jpg",
+    "images/nilla-wafers-q17108537/nilla-wafers-q17108537-3.png",
+    "images/nilla-wafers-q17108537/nilla-wafers-q17108537-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17108537",
+    "themealdb": null
+  }
+}

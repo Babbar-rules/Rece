@@ -1,0 +1,22 @@
+{
+  "id": "Q1703431",
+  "name": "korovai",
+  "description": "wedding bread traditional to East Slavic cuisines",
+  "nationality": [
+    "Kievan Rus'"
+  ],
+  "region_cuisine": [
+    "Slavic cuisine"
+  ],
+  "images": [
+    "images/korovai-q1703431/korovai-q1703431-1.jpg",
+    "images/korovai-q1703431/korovai-q1703431-2.jpg",
+    "images/korovai-q1703431/korovai-q1703431-3.jpg",
+    "images/korovai-q1703431/korovai-q1703431-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1703431",
+    "themealdb": null
+  }
+}

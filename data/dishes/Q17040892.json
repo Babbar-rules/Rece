@@ -1,0 +1,20 @@
+{
+  "id": "Q17040892",
+  "name": "sticky rice meatballs",
+  "description": "meatballs coated with sticky rice",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sticky-rice-meatballs-q17040892/sticky-rice-meatballs-q17040892-1.jpg",
+    "images/sticky-rice-meatballs-q17040892/sticky-rice-meatballs-q17040892-2.jpg",
+    "images/sticky-rice-meatballs-q17040892/sticky-rice-meatballs-q17040892-3.jpg",
+    "images/sticky-rice-meatballs-q17040892/sticky-rice-meatballs-q17040892-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17040892",
+    "themealdb": null
+  }
+}

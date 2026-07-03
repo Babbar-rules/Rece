@@ -1,0 +1,18 @@
+{
+  "id": "Q17119263",
+  "name": "smoked scallop",
+  "description": "scallops that have been smoked",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/smoked-scallop-q17119263/smoked-scallop-q17119263-1.jpg",
+    "images/smoked-scallop-q17119263/smoked-scallop-q17119263-2.jpg",
+    "images/smoked-scallop-q17119263/smoked-scallop-q17119263-3.jpg",
+    "images/smoked-scallop-q17119263/smoked-scallop-q17119263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17119263",
+    "themealdb": null
+  }
+}

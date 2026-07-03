@@ -1,0 +1,20 @@
+{
+  "id": "Q17068746",
+  "name": "Le petit pâté de Pézenas",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/le-petit-pate-de-pezenas-q17068746/le-petit-pate-de-pezenas-q17068746-1.jpg",
+    "images/le-petit-pate-de-pezenas-q17068746/le-petit-pate-de-pezenas-q17068746-2.jpg",
+    "images/le-petit-pate-de-pezenas-q17068746/le-petit-pate-de-pezenas-q17068746-3.jpg",
+    "images/le-petit-pate-de-pezenas-q17068746/le-petit-pate-de-pezenas-q17068746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17068746",
+    "themealdb": null
+  }
+}

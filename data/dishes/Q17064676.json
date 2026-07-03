@@ -1,0 +1,18 @@
+{
+  "id": "Q17064676",
+  "name": "Popcorn Chicken",
+  "description": "chicken dish originated from Kentucky Fried Chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/popcorn-chicken-q17064676/popcorn-chicken-q17064676-1.jpg",
+    "images/popcorn-chicken-q17064676/popcorn-chicken-q17064676-2.jpg",
+    "images/popcorn-chicken-q17064676/popcorn-chicken-q17064676-3.jpg",
+    "images/popcorn-chicken-q17064676/popcorn-chicken-q17064676-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17064676",
+    "themealdb": null
+  }
+}

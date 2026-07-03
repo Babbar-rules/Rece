@@ -1,0 +1,20 @@
+{
+  "id": "Q17052971",
+  "name": "Pig fallopian tubes",
+  "description": "Malaysian stir-fry dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pig-fallopian-tubes-q17052971/pig-fallopian-tubes-q17052971-1.jpg",
+    "images/pig-fallopian-tubes-q17052971/pig-fallopian-tubes-q17052971-2.jpg",
+    "images/pig-fallopian-tubes-q17052971/pig-fallopian-tubes-q17052971-3.jpg",
+    "images/pig-fallopian-tubes-q17052971/pig-fallopian-tubes-q17052971-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17052971",
+    "themealdb": null
+  }
+}

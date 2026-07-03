@@ -1,0 +1,20 @@
+{
+  "id": "Q17109263",
+  "name": "Owo soup",
+  "description": "Nigerian palm oil soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/owo-soup-q17109263/owo-soup-q17109263-1.jpg",
+    "images/owo-soup-q17109263/owo-soup-q17109263-2.jpg",
+    "images/owo-soup-q17109263/owo-soup-q17109263-3.jpg",
+    "images/owo-soup-q17109263/owo-soup-q17109263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17109263",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17116069",
+  "name": "grape ice cream",
+  "description": "ice cream with natural or artificial grape flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grape-ice-cream-q17116069/grape-ice-cream-q17116069-1.jpg",
+    "images/grape-ice-cream-q17116069/grape-ice-cream-q17116069-2.jpg",
+    "images/grape-ice-cream-q17116069/grape-ice-cream-q17116069-3.jpg",
+    "images/grape-ice-cream-q17116069/grape-ice-cream-q17116069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116069",
+    "themealdb": null
+  }
+}

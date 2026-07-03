@@ -1,0 +1,18 @@
+{
+  "id": "Q17119302",
+  "name": "sugar candy",
+  "description": "candy whose primary ingredient is sugar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugar-candy-q17119302/sugar-candy-q17119302-1.jpg",
+    "images/sugar-candy-q17119302/sugar-candy-q17119302-2.jpg",
+    "images/sugar-candy-q17119302/sugar-candy-q17119302-3.jpg",
+    "images/sugar-candy-q17119302/sugar-candy-q17119302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17119302",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17116400",
+  "name": "mixed rice dish",
+  "description": "Food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mixed-rice-dish-q17116400/mixed-rice-dish-q17116400-1.jpg",
+    "images/mixed-rice-dish-q17116400/mixed-rice-dish-q17116400-2.jpg",
+    "images/mixed-rice-dish-q17116400/mixed-rice-dish-q17116400-3.jpg",
+    "images/mixed-rice-dish-q17116400/mixed-rice-dish-q17116400-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116400",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17143425",
+  "name": "Katogo",
+  "description": "Ugandan breakfast dish",
+  "nationality": [
+    "Uganda"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/katogo-q17143425/katogo-q17143425-1.jpg",
+    "images/katogo-q17143425/katogo-q17143425-2.jpg",
+    "images/katogo-q17143425/katogo-q17143425-3.jpg",
+    "images/katogo-q17143425/katogo-q17143425-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17143425",
+    "themealdb": null
+  }
+}

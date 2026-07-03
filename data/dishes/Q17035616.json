@@ -1,0 +1,22 @@
+{
+  "id": "Q17035616",
+  "name": "cong zhua bing",
+  "description": "",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/cong-zhua-bing-q17035616/cong-zhua-bing-q17035616-1.jpg",
+    "images/cong-zhua-bing-q17035616/cong-zhua-bing-q17035616-2.jpg",
+    "images/cong-zhua-bing-q17035616/cong-zhua-bing-q17035616-3.jpg",
+    "images/cong-zhua-bing-q17035616/cong-zhua-bing-q17035616-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17035616",
+    "themealdb": null
+  }
+}

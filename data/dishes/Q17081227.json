@@ -1,0 +1,18 @@
+{
+  "id": "Q17081227",
+  "name": "Pachadi",
+  "description": "South Indian pickle side dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pachadi-q17081227/pachadi-q17081227-1.jpg",
+    "images/pachadi-q17081227/pachadi-q17081227-2.jpg",
+    "images/pachadi-q17081227/pachadi-q17081227-3.jpg",
+    "images/pachadi-q17081227/pachadi-q17081227-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17081227",
+    "themealdb": null
+  }
+}

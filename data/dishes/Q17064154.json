@@ -1,0 +1,20 @@
+{
+  "id": "Q17064154",
+  "name": "Bionico",
+  "description": "Mexican dessert",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bionico-q17064154/bionico-q17064154-1.jpg",
+    "images/bionico-q17064154/bionico-q17064154-2.jpg",
+    "images/bionico-q17064154/bionico-q17064154-3.jpg",
+    "images/bionico-q17064154/bionico-q17064154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17064154",
+    "themealdb": null
+  }
+}

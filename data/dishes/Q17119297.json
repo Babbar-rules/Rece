@@ -1,0 +1,18 @@
+{
+  "id": "Q17119297",
+  "name": "strawberry ice cream",
+  "description": "ice cream with natural or artificial strawberry flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-ice-cream-q17119297/strawberry-ice-cream-q17119297-1.jpg",
+    "images/strawberry-ice-cream-q17119297/strawberry-ice-cream-q17119297-2.jpg",
+    "images/strawberry-ice-cream-q17119297/strawberry-ice-cream-q17119297-3.jpg",
+    "images/strawberry-ice-cream-q17119297/strawberry-ice-cream-q17119297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17119297",
+    "themealdb": null
+  }
+}

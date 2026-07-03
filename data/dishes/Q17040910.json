@@ -1,0 +1,22 @@
+{
+  "id": "Q17040910",
+  "name": "Guokui",
+  "description": "Chinese flatbread",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Shaanxi cuisine"
+  ],
+  "images": [
+    "images/guokui-q17040910/guokui-q17040910-1.jpg",
+    "images/guokui-q17040910/guokui-q17040910-2.jpg",
+    "images/guokui-q17040910/guokui-q17040910-3.png",
+    "images/guokui-q17040910/guokui-q17040910-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17040910",
+    "themealdb": null
+  }
+}

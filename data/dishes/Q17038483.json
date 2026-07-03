@@ -1,0 +1,20 @@
+{
+  "id": "Q17038483",
+  "name": "steak and oyster pie",
+  "description": "victorian English pie dish",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-and-oyster-pie-q17038483/steak-and-oyster-pie-q17038483-1.jpg",
+    "images/steak-and-oyster-pie-q17038483/steak-and-oyster-pie-q17038483-2.jpg",
+    "images/steak-and-oyster-pie-q17038483/steak-and-oyster-pie-q17038483-3.jpg",
+    "images/steak-and-oyster-pie-q17038483/steak-and-oyster-pie-q17038483-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17038483",
+    "themealdb": null
+  }
+}

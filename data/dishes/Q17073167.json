@@ -1,0 +1,20 @@
+{
+  "id": "Q17073167",
+  "name": "Huachinango a la Veracruzana",
+  "description": "fish dish from Veracruz, Mexico",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huachinango-a-la-veracruzana-q17073167/huachinango-a-la-veracruzana-q17073167-1.jpg",
+    "images/huachinango-a-la-veracruzana-q17073167/huachinango-a-la-veracruzana-q17073167-2.jpg",
+    "images/huachinango-a-la-veracruzana-q17073167/huachinango-a-la-veracruzana-q17073167-3.png",
+    "images/huachinango-a-la-veracruzana-q17073167/huachinango-a-la-veracruzana-q17073167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17073167",
+    "themealdb": null
+  }
+}

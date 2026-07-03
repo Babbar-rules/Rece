@@ -1,0 +1,18 @@
+{
+  "id": "Q17116044",
+  "name": "fudge cookie",
+  "description": "type of cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fudge-cookie-q17116044/fudge-cookie-q17116044-1.jpg",
+    "images/fudge-cookie-q17116044/fudge-cookie-q17116044-2.jpg",
+    "images/fudge-cookie-q17116044/fudge-cookie-q17116044-3.jpg",
+    "images/fudge-cookie-q17116044/fudge-cookie-q17116044-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116044",
+    "themealdb": null
+  }
+}

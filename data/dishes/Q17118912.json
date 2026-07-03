@@ -1,0 +1,18 @@
+{
+  "id": "Q17118912",
+  "name": "pistachio ice cream",
+  "description": "ice cream flavor made with pistachio nuts or flavor",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pistachio-ice-cream-q17118912/pistachio-ice-cream-q17118912-1.jpg",
+    "images/pistachio-ice-cream-q17118912/pistachio-ice-cream-q17118912-2.jpg",
+    "images/pistachio-ice-cream-q17118912/pistachio-ice-cream-q17118912-3.jpg",
+    "images/pistachio-ice-cream-q17118912/pistachio-ice-cream-q17118912-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17118912",
+    "themealdb": null
+  }
+}

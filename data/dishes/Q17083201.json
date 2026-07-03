@@ -1,0 +1,20 @@
+{
+  "id": "Q17083201",
+  "name": "New Haven-style pizza",
+  "description": "style coal-fired pizza originating in New Haven, CT, US, with thin, oblong crust, characteristic charring, chewy texture, and limited use of melting cheeses, sometimes topped with clams",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/new-haven-style-pizza-q17083201/new-haven-style-pizza-q17083201-1.jpg",
+    "images/new-haven-style-pizza-q17083201/new-haven-style-pizza-q17083201-2.jpg",
+    "images/new-haven-style-pizza-q17083201/new-haven-style-pizza-q17083201-3.jpg",
+    "images/new-haven-style-pizza-q17083201/new-haven-style-pizza-q17083201-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17083201",
+    "themealdb": null
+  }
+}

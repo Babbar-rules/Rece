@@ -1,0 +1,18 @@
+{
+  "id": "Q17162482",
+  "name": "Paigu niangao",
+  "description": "dish from Shanghai consisting of fried pork chop and niangao (glutinous rice cake)",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paigu-niangao-q17162482/paigu-niangao-q17162482-1.jpg",
+    "images/paigu-niangao-q17162482/paigu-niangao-q17162482-2.jpg",
+    "images/paigu-niangao-q17162482/paigu-niangao-q17162482-3.jpg",
+    "images/paigu-niangao-q17162482/paigu-niangao-q17162482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17162482",
+    "themealdb": null
+  }
+}

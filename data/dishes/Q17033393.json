@@ -1,0 +1,18 @@
+{
+  "id": "Q17033393",
+  "name": "Thukpa bhatuk",
+  "description": "Tibetan cuisine noodle soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/thukpa-bhatuk-q17033393/thukpa-bhatuk-q17033393-1.jpg",
+    "images/thukpa-bhatuk-q17033393/thukpa-bhatuk-q17033393-2.jpg",
+    "images/thukpa-bhatuk-q17033393/thukpa-bhatuk-q17033393-3.jpg",
+    "images/thukpa-bhatuk-q17033393/thukpa-bhatuk-q17033393-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17033393",
+    "themealdb": null
+  }
+}

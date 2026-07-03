@@ -1,0 +1,18 @@
+{
+  "id": "Q17088676",
+  "name": "sorbetes",
+  "description": "Filipino ice cream, made from either milk or coconut milk, usually served with small wafer or sugar cones or bread buns",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sorbetes-q17088676/sorbetes-q17088676-1.jpg",
+    "images/sorbetes-q17088676/sorbetes-q17088676-2.jpg",
+    "images/sorbetes-q17088676/sorbetes-q17088676-3.jpg",
+    "images/sorbetes-q17088676/sorbetes-q17088676-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17088676",
+    "themealdb": null
+  }
+}

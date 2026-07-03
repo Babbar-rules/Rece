@@ -1,0 +1,18 @@
+{
+  "id": "Q17037938",
+  "name": "Nargesi Kebab",
+  "description": "South Asian meat dish with an egg in the middle",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nargesi-kebab-q17037938/nargesi-kebab-q17037938-1.jpg",
+    "images/nargesi-kebab-q17037938/nargesi-kebab-q17037938-2.jpg",
+    "images/nargesi-kebab-q17037938/nargesi-kebab-q17037938-3.jpg",
+    "images/nargesi-kebab-q17037938/nargesi-kebab-q17037938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17037938",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17054148",
+  "name": "Gulha",
+  "description": "Tuna and coconut dumplings",
+  "nationality": [
+    "Maldives"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gulha-q17054148/gulha-q17054148-1.jpg",
+    "images/gulha-q17054148/gulha-q17054148-2.jpg",
+    "images/gulha-q17054148/gulha-q17054148-3.jpg",
+    "images/gulha-q17054148/gulha-q17054148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17054148",
+    "themealdb": null
+  }
+}

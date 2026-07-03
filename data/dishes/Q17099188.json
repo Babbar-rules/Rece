@@ -1,0 +1,84 @@
+{
+  "id": "Q17099188",
+  "name": "Rosół",
+  "description": "traditional Polish meat soup",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Polish cuisine"
+  ],
+  "images": [
+    "images/roso-q17099188/roso-q17099188-1.jpg",
+    "images/roso-q17099188/roso-q17099188-2.jpg",
+    "images/roso-q17099188/roso-q17099188-3.jpg",
+    "images/roso-q17099188/roso-q17099188-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53020",
+    "category": "Chicken",
+    "area": "Polish",
+    "instructions": "Add chicken to a large Dutch oven or stock pot \r\nCover with water\r\nBring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth\r\nIf your pot is big enough, add the vegetables and spices for the last hour of the cooking time\r\nMy Dutch oven wasn’t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately\r\nStrain everything out of the broth\r\nBone the chicken, pulling the meat into large chunks\r\nSlice the carrots\r\nReturn the chicken and carrots to the broth\r\nCook noodles according to package instructions if you’re using them\r\nAdd noodles to bowl and then top with hot soup",
+    "ingredients": [
+      {
+        "ingredient": "Chicken Legs",
+        "measure": "4 Chopped"
+      },
+      {
+        "ingredient": "Onions",
+        "measure": "2 large"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "5 chopped"
+      },
+      {
+        "ingredient": "Leek",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Celery",
+        "measure": "1 small"
+      },
+      {
+        "ingredient": "Cabbage",
+        "measure": "1/4"
+      },
+      {
+        "ingredient": "Cloves",
+        "measure": "1 whole"
+      },
+      {
+        "ingredient": "Allspice",
+        "measure": "1tsp"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "4 sprigs"
+      },
+      {
+        "ingredient": "Dill",
+        "measure": "4 sprigs"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=AU60fxyxXGw",
+    "thumb": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17099188",
+    "themealdb": "53020"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17080719",
+  "name": "carrot salad",
+  "description": "Salad made with carrots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carrot-salad-q17080719/carrot-salad-q17080719-1.jpg",
+    "images/carrot-salad-q17080719/carrot-salad-q17080719-2.jpg",
+    "images/carrot-salad-q17080719/carrot-salad-q17080719-3.jpg",
+    "images/carrot-salad-q17080719/carrot-salad-q17080719-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17080719",
+    "themealdb": null
+  }
+}

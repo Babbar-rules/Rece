@@ -1,0 +1,18 @@
+{
+  "id": "Q17116267",
+  "name": "Lemon stick",
+  "description": "candy variety",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lemon-stick-q17116267/lemon-stick-q17116267-1.jpg",
+    "images/lemon-stick-q17116267/lemon-stick-q17116267-2.jpg",
+    "images/lemon-stick-q17116267/lemon-stick-q17116267-3.jpg",
+    "images/lemon-stick-q17116267/lemon-stick-q17116267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116267",
+    "themealdb": null
+  }
+}

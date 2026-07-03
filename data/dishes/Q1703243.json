@@ -1,0 +1,18 @@
+{
+  "id": "Q1703243",
+  "name": "kreplach",
+  "description": "dumplings of Jewish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kreplach-q1703243/kreplach-q1703243-1.jpg",
+    "images/kreplach-q1703243/kreplach-q1703243-2.jpg",
+    "images/kreplach-q1703243/kreplach-q1703243-3.jpg",
+    "images/kreplach-q1703243/kreplach-q1703243-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1703243",
+    "themealdb": null
+  }
+}

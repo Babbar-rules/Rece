@@ -1,0 +1,20 @@
+{
+  "id": "Q17047960",
+  "name": "maraca pie",
+  "description": "pie dessert originating from Florida",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maraca-pie-q17047960/maraca-pie-q17047960-1.jpg",
+    "images/maraca-pie-q17047960/maraca-pie-q17047960-2.jpg",
+    "images/maraca-pie-q17047960/maraca-pie-q17047960-3.jpg",
+    "images/maraca-pie-q17047960/maraca-pie-q17047960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17047960",
+    "themealdb": null
+  }
+}

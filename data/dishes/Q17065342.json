@@ -1,0 +1,22 @@
+{
+  "id": "Q17065342",
+  "name": "Chicken Chettinad",
+  "description": "chicken curry dish from South India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/chicken-chettinad-q17065342/chicken-chettinad-q17065342-1.jpg",
+    "images/chicken-chettinad-q17065342/chicken-chettinad-q17065342-2.jpg",
+    "images/chicken-chettinad-q17065342/chicken-chettinad-q17065342-3.jpg",
+    "images/chicken-chettinad-q17065342/chicken-chettinad-q17065342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17065342",
+    "themealdb": null
+  }
+}

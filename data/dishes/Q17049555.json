@@ -1,0 +1,20 @@
+{
+  "id": "Q17049555",
+  "name": "Chicken porridge",
+  "description": "Indonesian porridge",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-porridge-q17049555/chicken-porridge-q17049555-1.jpg",
+    "images/chicken-porridge-q17049555/chicken-porridge-q17049555-2.jpg",
+    "images/chicken-porridge-q17049555/chicken-porridge-q17049555-3.jpg",
+    "images/chicken-porridge-q17049555/chicken-porridge-q17049555-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17049555",
+    "themealdb": null
+  }
+}

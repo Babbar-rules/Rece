@@ -1,0 +1,20 @@
+{
+  "id": "Q17119288",
+  "name": "stack cake",
+  "description": "layer cake from Appalachian cuisine",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stack-cake-q17119288/stack-cake-q17119288-1.jpg",
+    "images/stack-cake-q17119288/stack-cake-q17119288-2.jpg",
+    "images/stack-cake-q17119288/stack-cake-q17119288-3.jpg",
+    "images/stack-cake-q17119288/stack-cake-q17119288-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17119288",
+    "themealdb": null
+  }
+}

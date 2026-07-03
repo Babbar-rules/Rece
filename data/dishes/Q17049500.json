@@ -1,0 +1,20 @@
+{
+  "id": "Q17049500",
+  "name": "Colaci",
+  "description": "",
+  "nationality": [
+    "Romania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/colaci-q17049500/colaci-q17049500-1.jpg",
+    "images/colaci-q17049500/colaci-q17049500-2.jpg",
+    "images/colaci-q17049500/colaci-q17049500-3.jpg",
+    "images/colaci-q17049500/colaci-q17049500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17049500",
+    "themealdb": null
+  }
+}

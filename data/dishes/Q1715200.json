@@ -1,0 +1,20 @@
+{
+  "id": "Q1715200",
+  "name": "pelt porridge",
+  "description": "Swabian staple dish of roasted flour",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pelt-porridge-q1715200/pelt-porridge-q1715200-1.jpg",
+    "images/pelt-porridge-q1715200/pelt-porridge-q1715200-2.jpg",
+    "images/pelt-porridge-q1715200/pelt-porridge-q1715200-3.jpg",
+    "images/pelt-porridge-q1715200/pelt-porridge-q1715200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1715200",
+    "themealdb": null
+  }
+}

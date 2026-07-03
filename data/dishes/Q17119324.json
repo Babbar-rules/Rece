@@ -1,0 +1,17 @@
+{
+  "id": "Q17119324",
+  "name": "Tiger tail donut",
+  "description": "dessert food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tiger-tail-donut-q17119324/tiger-tail-donut-q17119324-1.jpg",
+    "images/tiger-tail-donut-q17119324/tiger-tail-donut-q17119324-2.jpg",
+    "images/tiger-tail-donut-q17119324/tiger-tail-donut-q17119324-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17119324",
+    "themealdb": null
+  }
+}

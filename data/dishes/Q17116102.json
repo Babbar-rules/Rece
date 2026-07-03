@@ -1,0 +1,20 @@
+{
+  "id": "Q17116102",
+  "name": "Holsum Bread",
+  "description": "American brand of packaged sliced white bread",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/holsum-bread-q17116102/holsum-bread-q17116102-1.jpg",
+    "images/holsum-bread-q17116102/holsum-bread-q17116102-2.jpg",
+    "images/holsum-bread-q17116102/holsum-bread-q17116102-3.jpg",
+    "images/holsum-bread-q17116102/holsum-bread-q17116102-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116102",
+    "themealdb": null
+  }
+}

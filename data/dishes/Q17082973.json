@@ -1,0 +1,18 @@
+{
+  "id": "Q17082973",
+  "name": "marzipan pig",
+  "description": "marzipan candy in the shape of a pig",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/marzipan-pig-q17082973/marzipan-pig-q17082973-1.jpg",
+    "images/marzipan-pig-q17082973/marzipan-pig-q17082973-2.jpg",
+    "images/marzipan-pig-q17082973/marzipan-pig-q17082973-3.jpg",
+    "images/marzipan-pig-q17082973/marzipan-pig-q17082973-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17082973",
+    "themealdb": null
+  }
+}

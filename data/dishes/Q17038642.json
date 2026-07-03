@@ -1,0 +1,20 @@
+{
+  "id": "Q17038642",
+  "name": "rice with lard",
+  "description": "",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-with-lard-q17038642/rice-with-lard-q17038642-1.jpg",
+    "images/rice-with-lard-q17038642/rice-with-lard-q17038642-2.jpg",
+    "images/rice-with-lard-q17038642/rice-with-lard-q17038642-3.jpg",
+    "images/rice-with-lard-q17038642/rice-with-lard-q17038642-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17038642",
+    "themealdb": null
+  }
+}

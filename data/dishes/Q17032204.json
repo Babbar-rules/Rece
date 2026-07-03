@@ -1,0 +1,18 @@
+{
+  "id": "Q17032204",
+  "name": "Ko-cha",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ko-cha-q17032204/ko-cha-q17032204-1.jpg",
+    "images/ko-cha-q17032204/ko-cha-q17032204-2.jpg",
+    "images/ko-cha-q17032204/ko-cha-q17032204-3.jpg",
+    "images/ko-cha-q17032204/ko-cha-q17032204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17032204",
+    "themealdb": null
+  }
+}

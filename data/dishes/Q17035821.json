@@ -1,0 +1,18 @@
+{
+  "id": "Q17035821",
+  "name": "ginger duck",
+  "description": "duck dish originated from Quanzhou and surroundings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-duck-q17035821/ginger-duck-q17035821-1.jpg",
+    "images/ginger-duck-q17035821/ginger-duck-q17035821-2.jpg",
+    "images/ginger-duck-q17035821/ginger-duck-q17035821-3.jpg",
+    "images/ginger-duck-q17035821/ginger-duck-q17035821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17035821",
+    "themealdb": null
+  }
+}

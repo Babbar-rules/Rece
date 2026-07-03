@@ -1,0 +1,15 @@
+{
+  "id": "Q17107577",
+  "name": "Pipikaula",
+  "description": "Beef-based dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pipikaula-q17107577/pipikaula-q17107577-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17107577",
+    "themealdb": null
+  }
+}

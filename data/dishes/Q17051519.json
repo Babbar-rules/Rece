@@ -1,0 +1,18 @@
+{
+  "id": "Q17051519",
+  "name": "Maruchan",
+  "description": "Japanese brand of instant ramen noodles",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/maruchan-q17051519/maruchan-q17051519-1.jpg",
+    "images/maruchan-q17051519/maruchan-q17051519-2.jpg",
+    "images/maruchan-q17051519/maruchan-q17051519-3.jpg",
+    "images/maruchan-q17051519/maruchan-q17051519-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17051519",
+    "themealdb": null
+  }
+}

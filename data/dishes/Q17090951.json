@@ -1,0 +1,18 @@
+{
+  "id": "Q17090951",
+  "name": "pastrama",
+  "description": "Romanian cured meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pastrama-q17090951/pastrama-q17090951-1.jpg",
+    "images/pastrama-q17090951/pastrama-q17090951-2.jpg",
+    "images/pastrama-q17090951/pastrama-q17090951-3.jpg",
+    "images/pastrama-q17090951/pastrama-q17090951-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17090951",
+    "themealdb": null
+  }
+}

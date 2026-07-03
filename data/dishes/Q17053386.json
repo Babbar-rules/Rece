@@ -1,0 +1,20 @@
+{
+  "id": "Q17053386",
+  "name": "presunto",
+  "description": "Portuguese dry-cured ham",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/presunto-q17053386/presunto-q17053386-1.jpg",
+    "images/presunto-q17053386/presunto-q17053386-2.jpg",
+    "images/presunto-q17053386/presunto-q17053386-3.jpg",
+    "images/presunto-q17053386/presunto-q17053386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17053386",
+    "themealdb": null
+  }
+}

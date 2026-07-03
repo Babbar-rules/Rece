@@ -1,0 +1,18 @@
+{
+  "id": "Q17081569",
+  "name": "Shorwa",
+  "description": "traditional Afghan soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shorwa-q17081569/shorwa-q17081569-1.jpg",
+    "images/shorwa-q17081569/shorwa-q17081569-2.jpg",
+    "images/shorwa-q17081569/shorwa-q17081569-3.jpg",
+    "images/shorwa-q17081569/shorwa-q17081569-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17081569",
+    "themealdb": null
+  }
+}

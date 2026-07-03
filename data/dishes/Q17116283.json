@@ -1,0 +1,18 @@
+{
+  "id": "Q17116283",
+  "name": "Limburger sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/limburger-sandwich-q17116283/limburger-sandwich-q17116283-1.jpg",
+    "images/limburger-sandwich-q17116283/limburger-sandwich-q17116283-2.jpg",
+    "images/limburger-sandwich-q17116283/limburger-sandwich-q17116283-3.jpg",
+    "images/limburger-sandwich-q17116283/limburger-sandwich-q17116283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17116283",
+    "themealdb": null
+  }
+}

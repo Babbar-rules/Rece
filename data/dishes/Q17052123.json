@@ -1,0 +1,18 @@
+{
+  "id": "Q17052123",
+  "name": "Schnecken",
+  "description": "type of sweet bun of German Jewish origin",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/schnecken-q17052123/schnecken-q17052123-1.jpg",
+    "images/schnecken-q17052123/schnecken-q17052123-2.jpg",
+    "images/schnecken-q17052123/schnecken-q17052123-3.jpg",
+    "images/schnecken-q17052123/schnecken-q17052123-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17052123",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q17105624",
+  "name": "garlic ice cream",
+  "description": "flavour of ice cream consisting mainly of vanilla, or honey, and cream as a base, to which garlic is added",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garlic-ice-cream-q17105624/garlic-ice-cream-q17105624-1.jpg",
+    "images/garlic-ice-cream-q17105624/garlic-ice-cream-q17105624-2.jpg",
+    "images/garlic-ice-cream-q17105624/garlic-ice-cream-q17105624-3.jpg",
+    "images/garlic-ice-cream-q17105624/garlic-ice-cream-q17105624-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17105624",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q17050214",
+  "name": "Fish soup bee hoon",
+  "description": "Singaporean and Indonesian soup dish",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-soup-bee-hoon-q17050214/fish-soup-bee-hoon-q17050214-1.jpg",
+    "images/fish-soup-bee-hoon-q17050214/fish-soup-bee-hoon-q17050214-2.jpg",
+    "images/fish-soup-bee-hoon-q17050214/fish-soup-bee-hoon-q17050214-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17050214",
+    "themealdb": null
+  }
+}

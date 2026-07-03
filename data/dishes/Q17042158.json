@@ -1,0 +1,18 @@
+{
+  "id": "Q17042158",
+  "name": "Lorna Doone",
+  "description": "brand of cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lorna-doone-q17042158/lorna-doone-q17042158-1.jpg",
+    "images/lorna-doone-q17042158/lorna-doone-q17042158-2.jpg",
+    "images/lorna-doone-q17042158/lorna-doone-q17042158-3.jpg",
+    "images/lorna-doone-q17042158/lorna-doone-q17042158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17042158",
+    "themealdb": null
+  }
+}

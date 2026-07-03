@@ -1,0 +1,18 @@
+{
+  "id": "Q17113207",
+  "name": "carrot cake cookie",
+  "description": "baked good",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/carrot-cake-cookie-q17113207/carrot-cake-cookie-q17113207-1.jpg",
+    "images/carrot-cake-cookie-q17113207/carrot-cake-cookie-q17113207-2.jpg",
+    "images/carrot-cake-cookie-q17113207/carrot-cake-cookie-q17113207-3.jpg",
+    "images/carrot-cake-cookie-q17113207/carrot-cake-cookie-q17113207-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17113207",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q17056750",
+  "name": "Telur pindang",
+  "description": "Indonesian hard boiled eggs",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/telur-pindang-q17056750/telur-pindang-q17056750-1.jpg",
+    "images/telur-pindang-q17056750/telur-pindang-q17056750-2.jpg",
+    "images/telur-pindang-q17056750/telur-pindang-q17056750-3.jpg",
+    "images/telur-pindang-q17056750/telur-pindang-q17056750-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17056750",
+    "themealdb": null
+  }
+}

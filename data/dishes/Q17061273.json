@@ -1,0 +1,22 @@
+{
+  "id": "Q17061273",
+  "name": "Kachumber",
+  "description": "Indian salad dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/kachumber-q17061273/kachumber-q17061273-1.jpg",
+    "images/kachumber-q17061273/kachumber-q17061273-2.jpg",
+    "images/kachumber-q17061273/kachumber-q17061273-3.jpg",
+    "images/kachumber-q17061273/kachumber-q17061273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17061273",
+    "themealdb": null
+  }
+}

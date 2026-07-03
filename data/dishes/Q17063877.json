@@ -1,0 +1,18 @@
+{
+  "id": "Q17063877",
+  "name": "Bagoong monamon",
+  "description": "philppine food ingredient made by fermenting salted anchovies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bagoong-monamon-q17063877/bagoong-monamon-q17063877-1.jpg",
+    "images/bagoong-monamon-q17063877/bagoong-monamon-q17063877-2.jpg",
+    "images/bagoong-monamon-q17063877/bagoong-monamon-q17063877-3.jpg",
+    "images/bagoong-monamon-q17063877/bagoong-monamon-q17063877-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17063877",
+    "themealdb": null
+  }
+}

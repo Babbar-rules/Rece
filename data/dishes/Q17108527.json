@@ -1,0 +1,18 @@
+{
+  "id": "Q17108527",
+  "name": "Newtons",
+  "description": "Brand of fruit-paste filled pastries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/newtons-q17108527/newtons-q17108527-1.jpg",
+    "images/newtons-q17108527/newtons-q17108527-2.jpg",
+    "images/newtons-q17108527/newtons-q17108527-3.png",
+    "images/newtons-q17108527/newtons-q17108527-4.gif"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17108527",
+    "themealdb": null
+  }
+}

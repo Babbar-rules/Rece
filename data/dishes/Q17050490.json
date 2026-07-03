@@ -1,0 +1,22 @@
+{
+  "id": "Q17050490",
+  "name": "empal gepuk",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/empal-gepuk-q17050490/empal-gepuk-q17050490-1.jpg",
+    "images/empal-gepuk-q17050490/empal-gepuk-q17050490-2.jpg",
+    "images/empal-gepuk-q17050490/empal-gepuk-q17050490-3.jpg",
+    "images/empal-gepuk-q17050490/empal-gepuk-q17050490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17050490",
+    "themealdb": null
+  }
+}

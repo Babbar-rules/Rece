@@ -1,0 +1,22 @@
+{
+  "id": "Q17063016",
+  "name": "jjamppong",
+  "description": "Korean Chinese noodle soup",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "Korean Chinese cuisine"
+  ],
+  "images": [
+    "images/jjamppong-q17063016/jjamppong-q17063016-1.jpg",
+    "images/jjamppong-q17063016/jjamppong-q17063016-2.jpg",
+    "images/jjamppong-q17063016/jjamppong-q17063016-3.jpg",
+    "images/jjamppong-q17063016/jjamppong-q17063016-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17063016",
+    "themealdb": null
+  }
+}

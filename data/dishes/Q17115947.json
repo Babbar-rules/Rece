@@ -1,0 +1,16 @@
+{
+  "id": "Q17115947",
+  "name": "Doughwich",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doughwich-q17115947/doughwich-q17115947-1.jpg",
+    "images/doughwich-q17115947/doughwich-q17115947-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17115947",
+    "themealdb": null
+  }
+}

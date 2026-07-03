@@ -1,0 +1,18 @@
+{
+  "id": "Q17105567",
+  "name": "sweet potato fries",
+  "description": "dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-potato-fries-q17105567/sweet-potato-fries-q17105567-1.jpg",
+    "images/sweet-potato-fries-q17105567/sweet-potato-fries-q17105567-2.jpg",
+    "images/sweet-potato-fries-q17105567/sweet-potato-fries-q17105567-3.jpg",
+    "images/sweet-potato-fries-q17105567/sweet-potato-fries-q17105567-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17105567",
+    "themealdb": null
+  }
+}

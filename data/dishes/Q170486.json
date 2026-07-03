@@ -1,0 +1,56 @@
+{
+  "id": "Q170486",
+  "name": "ham",
+  "description": "processed pork leg foodstuff",
+  "nationality": [
+    "Irish"
+  ],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/ham-q170486/ham-q170486-1.jpg",
+    "images/ham-q170486/ham-q170486-2.jpg",
+    "images/ham-q170486/ham-q170486-3.jpg",
+    "images/ham-q170486/ham-q170486-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53038",
+    "category": "Side",
+    "area": "Irish",
+    "instructions": "STEP 1\r\nBoil the potatoes for 15 mins or until tender. Drain, then mash.\r\n\r\nSTEP 2\r\nHeat the milk and half the butter in the corner of the pan, then beat into the mash, along with the wholegrain mustard.\r\n\r\nSTEP 3\r\nGently fry the spring onions in the remaining butter for 2 mins until just soft but still a perky green. Fold into the mash and serve. Great with gammon or to top a fish pie.",
+    "ingredients": [
+      {
+        "ingredient": "Potatoes",
+        "measure": "1kg"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "200ml"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "50g"
+      },
+      {
+        "ingredient": "Mustard",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "Bunch"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "Bunch"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=_iKllHSC978",
+    "thumb": "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q170486",
+    "themealdb": "53038"
+  }
+}

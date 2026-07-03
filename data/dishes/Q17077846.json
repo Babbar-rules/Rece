@@ -1,0 +1,20 @@
+{
+  "id": "Q17077846",
+  "name": "maja blanca",
+  "description": "Filipino dessert",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maja-blanca-q17077846/maja-blanca-q17077846-1.jpg",
+    "images/maja-blanca-q17077846/maja-blanca-q17077846-2.jpg",
+    "images/maja-blanca-q17077846/maja-blanca-q17077846-3.jpg",
+    "images/maja-blanca-q17077846/maja-blanca-q17077846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17077846",
+    "themealdb": null
+  }
+}
