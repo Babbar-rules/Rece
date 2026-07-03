@@ -1,0 +1,19 @@
+{
+  "id": "Q6030071",
+  "name": "Gavurdağı salatası",
+  "description": "Turkish salad",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gavurdag-salatas-q6030071/gavurdag-salatas-q6030071-1.jpg",
+    "images/gavurdag-salatas-q6030071/gavurdag-salatas-q6030071-2.jpg",
+    "images/gavurdag-salatas-q6030071/gavurdag-salatas-q6030071-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6030071",
+    "themealdb": null
+  }
+}

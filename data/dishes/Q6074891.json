@@ -1,0 +1,17 @@
+{
+  "id": "Q6074891",
+  "name": "picante a la Tacneña",
+  "description": "Peruvian offal dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/picante-a-la-tacnena-q6074891/picante-a-la-tacnena-q6074891-1.jpg",
+    "images/picante-a-la-tacnena-q6074891/picante-a-la-tacnena-q6074891-2.jpg",
+    "images/picante-a-la-tacnena-q6074891/picante-a-la-tacnena-q6074891-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6074891",
+    "themealdb": null
+  }
+}

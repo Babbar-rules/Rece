@@ -1,0 +1,20 @@
+{
+  "id": "Q6049723",
+  "name": "Tokat kebabı",
+  "description": "lamb dish from the Turkish cuisine made in a black oven",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tokat-kebab-q6049723/tokat-kebab-q6049723-1.jpg",
+    "images/tokat-kebab-q6049723/tokat-kebab-q6049723-2.jpg",
+    "images/tokat-kebab-q6049723/tokat-kebab-q6049723-3.jpg",
+    "images/tokat-kebab-q6049723/tokat-kebab-q6049723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6049723",
+    "themealdb": null
+  }
+}

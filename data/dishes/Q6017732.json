@@ -1,0 +1,19 @@
+{
+  "id": "Q6017732",
+  "name": "kaygana",
+  "description": "Turkish egg dish from the Black Sea region",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kaygana-q6017732/kaygana-q6017732-1.jpg",
+    "images/kaygana-q6017732/kaygana-q6017732-2.jpg",
+    "images/kaygana-q6017732/kaygana-q6017732-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6017732",
+    "themealdb": null
+  }
+}

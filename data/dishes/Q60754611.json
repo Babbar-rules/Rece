@@ -1,0 +1,18 @@
+{
+  "id": "Q60754611",
+  "name": "Buddha bowl",
+  "description": "vegetarian meal, served on a bowl which consists of portions of several foods, served cold",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/buddha-bowl-q60754611/buddha-bowl-q60754611-1.jpg",
+    "images/buddha-bowl-q60754611/buddha-bowl-q60754611-2.jpg",
+    "images/buddha-bowl-q60754611/buddha-bowl-q60754611-3.jpg",
+    "images/buddha-bowl-q60754611/buddha-bowl-q60754611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60754611",
+    "themealdb": null
+  }
+}

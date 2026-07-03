@@ -1,0 +1,20 @@
+{
+  "id": "Q5964341",
+  "name": "Spring pancake",
+  "description": "Chinese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spring-pancake-q5964341/spring-pancake-q5964341-1.jpg",
+    "images/spring-pancake-q5964341/spring-pancake-q5964341-2.jpg",
+    "images/spring-pancake-q5964341/spring-pancake-q5964341-3.jpg",
+    "images/spring-pancake-q5964341/spring-pancake-q5964341-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5964341",
+    "themealdb": null
+  }
+}

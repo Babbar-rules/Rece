@@ -1,0 +1,20 @@
+{
+  "id": "Q6036443",
+  "name": "Ankara tava",
+  "description": "Turkish cuisine dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ankara-tava-q6036443/ankara-tava-q6036443-1.jpg",
+    "images/ankara-tava-q6036443/ankara-tava-q6036443-2.jpg",
+    "images/ankara-tava-q6036443/ankara-tava-q6036443-3.jpg",
+    "images/ankara-tava-q6036443/ankara-tava-q6036443-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6036443",
+    "themealdb": null
+  }
+}

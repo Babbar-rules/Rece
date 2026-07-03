@@ -1,0 +1,20 @@
+{
+  "id": "Q6075158",
+  "name": "Picos",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/picos-q6075158/picos-q6075158-1.jpg",
+    "images/picos-q6075158/picos-q6075158-2.jpg",
+    "images/picos-q6075158/picos-q6075158-3.jpg",
+    "images/picos-q6075158/picos-q6075158-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6075158",
+    "themealdb": null
+  }
+}

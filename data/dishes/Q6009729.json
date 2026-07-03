@@ -1,0 +1,20 @@
+{
+  "id": "Q6009729",
+  "name": "kağıt kebabı",
+  "description": "Turkish dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kagt-kebab-q6009729/kagt-kebab-q6009729-1.jpg",
+    "images/kagt-kebab-q6009729/kagt-kebab-q6009729-2.jpg",
+    "images/kagt-kebab-q6009729/kagt-kebab-q6009729-3.jpg",
+    "images/kagt-kebab-q6009729/kagt-kebab-q6009729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6009729",
+    "themealdb": null
+  }
+}

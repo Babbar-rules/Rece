@@ -1,0 +1,18 @@
+{
+  "id": "Q60071727",
+  "name": "Paila ice cream",
+  "description": "Ecuadorian and Colombian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paila-ice-cream-q60071727/paila-ice-cream-q60071727-1.jpg",
+    "images/paila-ice-cream-q60071727/paila-ice-cream-q60071727-2.jpg",
+    "images/paila-ice-cream-q60071727/paila-ice-cream-q60071727-3.jpg",
+    "images/paila-ice-cream-q60071727/paila-ice-cream-q60071727-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60071727",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q599901",
+  "name": "chocolate syrup",
+  "description": "chocolate-flavored condiment",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-syrup-q599901/chocolate-syrup-q599901-1.jpg",
+    "images/chocolate-syrup-q599901/chocolate-syrup-q599901-2.jpg",
+    "images/chocolate-syrup-q599901/chocolate-syrup-q599901-3.jpg",
+    "images/chocolate-syrup-q599901/chocolate-syrup-q599901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q599901",
+    "themealdb": null
+  }
+}

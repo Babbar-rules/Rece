@@ -1,0 +1,18 @@
+{
+  "id": "Q607114",
+  "name": "Thukpa",
+  "description": "noodle soup from Tibet and Nepal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/thukpa-q607114/thukpa-q607114-1.jpg",
+    "images/thukpa-q607114/thukpa-q607114-2.jpg",
+    "images/thukpa-q607114/thukpa-q607114-3.jpg",
+    "images/thukpa-q607114/thukpa-q607114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q607114",
+    "themealdb": null
+  }
+}

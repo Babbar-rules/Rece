@@ -1,0 +1,20 @@
+{
+  "id": "Q5996575",
+  "name": "suimono",
+  "description": "Japanese clear soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suimono-q5996575/suimono-q5996575-1.jpg",
+    "images/suimono-q5996575/suimono-q5996575-2.jpg",
+    "images/suimono-q5996575/suimono-q5996575-3.jpg",
+    "images/suimono-q5996575/suimono-q5996575-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5996575",
+    "themealdb": null
+  }
+}

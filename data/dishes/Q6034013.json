@@ -1,0 +1,20 @@
+{
+  "id": "Q6034013",
+  "name": "Inipit",
+  "description": "traditional pastry in the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/inipit-q6034013/inipit-q6034013-1.jpg",
+    "images/inipit-q6034013/inipit-q6034013-2.jpg",
+    "images/inipit-q6034013/inipit-q6034013-3.jpg",
+    "images/inipit-q6034013/inipit-q6034013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6034013",
+    "themealdb": null
+  }
+}

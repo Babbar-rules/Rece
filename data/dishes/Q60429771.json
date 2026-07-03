@@ -1,0 +1,20 @@
+{
+  "id": "Q60429771",
+  "name": "pickle relish",
+  "description": "condiment with cucumber (gherkin), onion, mustard seeds and peppers; relish made with gherkins",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pickle-relish-q60429771/pickle-relish-q60429771-1.jpg",
+    "images/pickle-relish-q60429771/pickle-relish-q60429771-2.jpg",
+    "images/pickle-relish-q60429771/pickle-relish-q60429771-3.jpg",
+    "images/pickle-relish-q60429771/pickle-relish-q60429771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60429771",
+    "themealdb": null
+  }
+}

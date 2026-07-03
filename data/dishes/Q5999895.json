@@ -1,0 +1,20 @@
+{
+  "id": "Q5999895",
+  "name": "Kayseri yağlaması",
+  "description": "Turkish dish from Kayseri",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kayseri-yaglamas-q5999895/kayseri-yaglamas-q5999895-1.jpg",
+    "images/kayseri-yaglamas-q5999895/kayseri-yaglamas-q5999895-2.jpg",
+    "images/kayseri-yaglamas-q5999895/kayseri-yaglamas-q5999895-3.jpg",
+    "images/kayseri-yaglamas-q5999895/kayseri-yaglamas-q5999895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5999895",
+    "themealdb": null
+  }
+}

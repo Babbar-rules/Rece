@@ -1,0 +1,20 @@
+{
+  "id": "Q60738894",
+  "name": "lugaw",
+  "description": "rice porridge dish in the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lugaw-q60738894/lugaw-q60738894-1.jpg",
+    "images/lugaw-q60738894/lugaw-q60738894-2.jpg",
+    "images/lugaw-q60738894/lugaw-q60738894-3.jpg",
+    "images/lugaw-q60738894/lugaw-q60738894-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60738894",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q596215",
+  "name": "refried beans",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/refried-beans-q596215/refried-beans-q596215-1.jpg",
+    "images/refried-beans-q596215/refried-beans-q596215-2.jpg",
+    "images/refried-beans-q596215/refried-beans-q596215-3.jpg",
+    "images/refried-beans-q596215/refried-beans-q596215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q596215",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "Q6037599",
+  "name": "naleśniki",
+  "description": "Polish crepes",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/nalesniki-q6037599/nalesniki-q6037599-1.jpg",
+    "images/nalesniki-q6037599/nalesniki-q6037599-2.jpg",
+    "images/nalesniki-q6037599/nalesniki-q6037599-3.jpg",
+    "images/nalesniki-q6037599/nalesniki-q6037599-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53022",
+    "category": "Dessert",
+    "area": "Polish",
+    "instructions": "Add flour, eggs, milk, water, and salt in a large bowl then mix with a hand mixer until you have a smooth, lump-free batter.\r\nAt this point, mix in the butter or the vegetable oil. Alternatively, you can use them to grease the pan before frying each pancake.\r\nHeat a non-stick pan over medium heat, then pour in the batter, swirling the pan to help it spread.\r\nWhen the pancake starts pulling away a bit from the sides, and the top is no longer wet, flip it and cook shortly on the other side as well.\r\nTransfer to a plate. Cook the remaining batter until all used up.\r\nServe warm, with the filling of your choice.",
+    "ingredients": [
+      {
+        "ingredient": "Flour",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "3/4 cup"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "3 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=EZS4ev2crHc",
+    "thumb": "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6037599",
+    "themealdb": "53022"
+  }
+}

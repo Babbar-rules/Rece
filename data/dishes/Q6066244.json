@@ -1,0 +1,21 @@
+{
+  "id": "Q6066244",
+  "name": "patatas a lo pobre",
+  "description": "Andalusian potato dish",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the province of Almería",
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/patatas-a-lo-pobre-q6066244/patatas-a-lo-pobre-q6066244-1.jpg",
+    "images/patatas-a-lo-pobre-q6066244/patatas-a-lo-pobre-q6066244-2.jpg",
+    "images/patatas-a-lo-pobre-q6066244/patatas-a-lo-pobre-q6066244-3.jpg",
+    "images/patatas-a-lo-pobre-q6066244/patatas-a-lo-pobre-q6066244-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6066244",
+    "themealdb": null
+  }
+}

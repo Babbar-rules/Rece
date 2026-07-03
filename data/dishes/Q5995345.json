@@ -1,0 +1,23 @@
+{
+  "id": "Q5995345",
+  "name": "ikan bakar",
+  "description": "Indonesian and Malay grilled dish,",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine",
+    "Malaysian cuisine"
+  ],
+  "images": [
+    "images/ikan-bakar-q5995345/ikan-bakar-q5995345-1.jpg",
+    "images/ikan-bakar-q5995345/ikan-bakar-q5995345-2.jpg",
+    "images/ikan-bakar-q5995345/ikan-bakar-q5995345-3.jpg",
+    "images/ikan-bakar-q5995345/ikan-bakar-q5995345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5995345",
+    "themealdb": null
+  }
+}

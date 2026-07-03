@@ -1,0 +1,19 @@
+{
+  "id": "Q6013354",
+  "name": "toyga soup",
+  "description": "traditional yoghurt soup from Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/toyga-soup-q6013354/toyga-soup-q6013354-1.jpg",
+    "images/toyga-soup-q6013354/toyga-soup-q6013354-2.jpg",
+    "images/toyga-soup-q6013354/toyga-soup-q6013354-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6013354",
+    "themealdb": null
+  }
+}

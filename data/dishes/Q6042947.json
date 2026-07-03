@@ -1,0 +1,20 @@
+{
+  "id": "Q6042947",
+  "name": "kol böreği",
+  "description": "Type of börek",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kol-boregi-q6042947/kol-boregi-q6042947-1.gif",
+    "images/kol-boregi-q6042947/kol-boregi-q6042947-2.gif",
+    "images/kol-boregi-q6042947/kol-boregi-q6042947-3.jpg",
+    "images/kol-boregi-q6042947/kol-boregi-q6042947-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6042947",
+    "themealdb": null
+  }
+}

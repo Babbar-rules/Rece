@@ -1,0 +1,18 @@
+{
+  "id": "Q5990243",
+  "name": "majarete",
+  "description": "corn pudding",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/majarete-q5990243/majarete-q5990243-1.jpg",
+    "images/majarete-q5990243/majarete-q5990243-2.jpg",
+    "images/majarete-q5990243/majarete-q5990243-3.jpg",
+    "images/majarete-q5990243/majarete-q5990243-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5990243",
+    "themealdb": null
+  }
+}

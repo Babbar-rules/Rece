@@ -1,0 +1,20 @@
+{
+  "id": "Q59707",
+  "name": "paratha",
+  "description": "fried flatbread originating in the Indian subcontinent",
+  "nationality": [
+    "Indian subcontinent"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paratha-q59707/paratha-q59707-1.jpg",
+    "images/paratha-q59707/paratha-q59707-2.jpg",
+    "images/paratha-q59707/paratha-q59707-3.jpg",
+    "images/paratha-q59707/paratha-q59707-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59707",
+    "themealdb": null
+  }
+}

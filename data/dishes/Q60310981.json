@@ -1,0 +1,18 @@
+{
+  "id": "Q60310981",
+  "name": "chocolate pot",
+  "description": "culinary dish made from chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-pot-q60310981/chocolate-pot-q60310981-1.jpg",
+    "images/chocolate-pot-q60310981/chocolate-pot-q60310981-2.jpg",
+    "images/chocolate-pot-q60310981/chocolate-pot-q60310981-3.jpg",
+    "images/chocolate-pot-q60310981/chocolate-pot-q60310981-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60310981",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q60162114",
+  "name": "beef burger",
+  "description": "hamburgers made with beef meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-burger-q60162114/beef-burger-q60162114-1.jpg",
+    "images/beef-burger-q60162114/beef-burger-q60162114-2.jpg",
+    "images/beef-burger-q60162114/beef-burger-q60162114-3.jpg",
+    "images/beef-burger-q60162114/beef-burger-q60162114-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60162114",
+    "themealdb": null
+  }
+}

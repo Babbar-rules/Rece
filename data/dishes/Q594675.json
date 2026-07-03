@@ -1,0 +1,18 @@
+{
+  "id": "Q594675",
+  "name": "fishcake",
+  "description": "culinary dish consisting of filleted fish or other seafood minced or ground, mixed with a starchy ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fishcake-q594675/fishcake-q594675-1.jpg",
+    "images/fishcake-q594675/fishcake-q594675-2.jpg",
+    "images/fishcake-q594675/fishcake-q594675-3.jpg",
+    "images/fishcake-q594675/fishcake-q594675-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q594675",
+    "themealdb": null
+  }
+}

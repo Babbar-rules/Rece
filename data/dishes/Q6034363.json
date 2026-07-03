@@ -1,0 +1,19 @@
+{
+  "id": "Q6034363",
+  "name": "Injipuli",
+  "description": "A dark brown sweet-sour&spicy Keralite curry made of ginger, tamarind, green chillies and jaggery",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/injipuli-q6034363/injipuli-q6034363-1.jpg",
+    "images/injipuli-q6034363/injipuli-q6034363-2.jpg",
+    "images/injipuli-q6034363/injipuli-q6034363-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6034363",
+    "themealdb": null
+  }
+}

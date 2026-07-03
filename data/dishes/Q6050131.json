@@ -1,0 +1,20 @@
+{
+  "id": "Q6050131",
+  "name": "olla de carne",
+  "description": "Costa Rican stew",
+  "nationality": [
+    "Costa Rica"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/olla-de-carne-q6050131/olla-de-carne-q6050131-1.jpg",
+    "images/olla-de-carne-q6050131/olla-de-carne-q6050131-2.jpg",
+    "images/olla-de-carne-q6050131/olla-de-carne-q6050131-3.jpg",
+    "images/olla-de-carne-q6050131/olla-de-carne-q6050131-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6050131",
+    "themealdb": null
+  }
+}

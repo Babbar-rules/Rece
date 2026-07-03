@@ -1,0 +1,20 @@
+{
+  "id": "Q597836",
+  "name": "Bacalao a la vizcaína",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bacalao-a-la-vizcaina-q597836/bacalao-a-la-vizcaina-q597836-1.jpg",
+    "images/bacalao-a-la-vizcaina-q597836/bacalao-a-la-vizcaina-q597836-2.jpg",
+    "images/bacalao-a-la-vizcaina-q597836/bacalao-a-la-vizcaina-q597836-3.jpg",
+    "images/bacalao-a-la-vizcaina-q597836/bacalao-a-la-vizcaina-q597836-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q597836",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q596409",
+  "name": "bøfsandwich",
+  "description": "Danish hamburger",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bfsandwich-q596409/bfsandwich-q596409-1.jpg",
+    "images/bfsandwich-q596409/bfsandwich-q596409-2.jpg",
+    "images/bfsandwich-q596409/bfsandwich-q596409-3.jpg",
+    "images/bfsandwich-q596409/bfsandwich-q596409-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q596409",
+    "themealdb": null
+  }
+}

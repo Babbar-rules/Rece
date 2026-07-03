@@ -1,0 +1,18 @@
+{
+  "id": "Q6060064",
+  "name": "Papadzules",
+  "description": "Mexican tortilla dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papadzules-q6060064/papadzules-q6060064-1.jpg",
+    "images/papadzules-q6060064/papadzules-q6060064-2.jpg",
+    "images/papadzules-q6060064/papadzules-q6060064-3.jpg",
+    "images/papadzules-q6060064/papadzules-q6060064-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6060064",
+    "themealdb": null
+  }
+}

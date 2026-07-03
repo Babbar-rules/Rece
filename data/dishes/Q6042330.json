@@ -1,0 +1,20 @@
+{
+  "id": "Q6042330",
+  "name": "kuzu kapama",
+  "description": "traditional lamb dish from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuzu-kapama-q6042330/kuzu-kapama-q6042330-1.jpg",
+    "images/kuzu-kapama-q6042330/kuzu-kapama-q6042330-2.jpg",
+    "images/kuzu-kapama-q6042330/kuzu-kapama-q6042330-3.jpg",
+    "images/kuzu-kapama-q6042330/kuzu-kapama-q6042330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6042330",
+    "themealdb": null
+  }
+}

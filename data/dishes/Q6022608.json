@@ -1,0 +1,20 @@
+{
+  "id": "Q6022608",
+  "name": "pumpkin dessert",
+  "description": "dessert from the Turkish cuisine, made with pumpkins.",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pumpkin-dessert-q6022608/pumpkin-dessert-q6022608-1.jpg",
+    "images/pumpkin-dessert-q6022608/pumpkin-dessert-q6022608-2.jpg",
+    "images/pumpkin-dessert-q6022608/pumpkin-dessert-q6022608-3.jpg",
+    "images/pumpkin-dessert-q6022608/pumpkin-dessert-q6022608-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6022608",
+    "themealdb": null
+  }
+}

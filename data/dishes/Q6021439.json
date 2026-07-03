@@ -1,0 +1,18 @@
+{
+  "id": "Q6021439",
+  "name": "Kerebiç",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kerebic-q6021439/kerebic-q6021439-1.jpg",
+    "images/kerebic-q6021439/kerebic-q6021439-2.jpg",
+    "images/kerebic-q6021439/kerebic-q6021439-3.jpg",
+    "images/kerebic-q6021439/kerebic-q6021439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6021439",
+    "themealdb": null
+  }
+}

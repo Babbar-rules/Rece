@@ -1,0 +1,20 @@
+{
+  "id": "Q5989305",
+  "name": "madejas",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/madejas-q5989305/madejas-q5989305-1.jpg",
+    "images/madejas-q5989305/madejas-q5989305-2.jpg",
+    "images/madejas-q5989305/madejas-q5989305-3.jpg",
+    "images/madejas-q5989305/madejas-q5989305-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5989305",
+    "themealdb": null
+  }
+}

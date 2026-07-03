@@ -1,0 +1,20 @@
+{
+  "id": "Q6059380",
+  "name": "Pan de Cádiz",
+  "description": "Andalusian confection",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-de-cadiz-q6059380/pan-de-cadiz-q6059380-1.jpg",
+    "images/pan-de-cadiz-q6059380/pan-de-cadiz-q6059380-2.jpg",
+    "images/pan-de-cadiz-q6059380/pan-de-cadiz-q6059380-3.jpg",
+    "images/pan-de-cadiz-q6059380/pan-de-cadiz-q6059380-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6059380",
+    "themealdb": null
+  }
+}

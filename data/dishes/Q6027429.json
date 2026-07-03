@@ -1,0 +1,19 @@
+{
+  "id": "Q6027429",
+  "name": "hünkârbeğendi",
+  "description": "Meat dish with an eggplant-cheese pure, from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hunkarbegendi-q6027429/hunkarbegendi-q6027429-1.jpg",
+    "images/hunkarbegendi-q6027429/hunkarbegendi-q6027429-2.jpg",
+    "images/hunkarbegendi-q6027429/hunkarbegendi-q6027429-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6027429",
+    "themealdb": null
+  }
+}

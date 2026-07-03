@@ -1,0 +1,20 @@
+{
+  "id": "Q6029192",
+  "name": "yuvalama",
+  "description": "soup from the cuisine of southern Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yuvalama-q6029192/yuvalama-q6029192-1.jpg",
+    "images/yuvalama-q6029192/yuvalama-q6029192-2.jpg",
+    "images/yuvalama-q6029192/yuvalama-q6029192-3.jpg",
+    "images/yuvalama-q6029192/yuvalama-q6029192-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6029192",
+    "themealdb": null
+  }
+}

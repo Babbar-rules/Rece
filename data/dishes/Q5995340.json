@@ -1,0 +1,20 @@
+{
+  "id": "Q5995340",
+  "name": "ikameshi",
+  "description": "squid rice",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ikameshi-q5995340/ikameshi-q5995340-1.jpg",
+    "images/ikameshi-q5995340/ikameshi-q5995340-2.jpg",
+    "images/ikameshi-q5995340/ikameshi-q5995340-3.jpg",
+    "images/ikameshi-q5995340/ikameshi-q5995340-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5995340",
+    "themealdb": null
+  }
+}

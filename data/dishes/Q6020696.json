@@ -1,0 +1,20 @@
+{
+  "id": "Q6020696",
+  "name": "Beypazarı kurusu",
+  "description": "",
+  "nationality": [
+    "Beypazarı district"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beypazar-kurusu-q6020696/beypazar-kurusu-q6020696-1.jpg",
+    "images/beypazar-kurusu-q6020696/beypazar-kurusu-q6020696-2.jpg",
+    "images/beypazar-kurusu-q6020696/beypazar-kurusu-q6020696-3.jpg",
+    "images/beypazar-kurusu-q6020696/beypazar-kurusu-q6020696-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6020696",
+    "themealdb": null
+  }
+}

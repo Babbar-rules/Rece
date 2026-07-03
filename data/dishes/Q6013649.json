@@ -1,0 +1,20 @@
+{
+  "id": "Q6013649",
+  "name": "chicken inasal",
+  "description": "roasted chicken dish from the Philippines",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chicken-inasal-q6013649/chicken-inasal-q6013649-1.jpg",
+    "images/chicken-inasal-q6013649/chicken-inasal-q6013649-2.jpg",
+    "images/chicken-inasal-q6013649/chicken-inasal-q6013649-3.jpg",
+    "images/chicken-inasal-q6013649/chicken-inasal-q6013649-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6013649",
+    "themealdb": null
+  }
+}

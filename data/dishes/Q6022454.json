@@ -1,0 +1,18 @@
+{
+  "id": "Q6022454",
+  "name": "Şıllık",
+  "description": "Turkish dessert crepe filled with walnuts",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sllk-q6022454/sllk-q6022454-1.jpg",
+    "images/sllk-q6022454/sllk-q6022454-2.jpg",
+    "images/sllk-q6022454/sllk-q6022454-3.jpg",
+    "images/sllk-q6022454/sllk-q6022454-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6022454",
+    "themealdb": null
+  }
+}

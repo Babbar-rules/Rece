@@ -1,0 +1,18 @@
+{
+  "id": "Q5978632",
+  "name": "lomito",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lomito-q5978632/lomito-q5978632-1.jpeg",
+    "images/lomito-q5978632/lomito-q5978632-2.jpg",
+    "images/lomito-q5978632/lomito-q5978632-3.jpg",
+    "images/lomito-q5978632/lomito-q5978632-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5978632",
+    "themealdb": null
+  }
+}

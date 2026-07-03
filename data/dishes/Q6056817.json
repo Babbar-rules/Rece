@@ -1,0 +1,17 @@
+{
+  "id": "Q6056817",
+  "name": "Paciencias de Almazán",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/paciencias-de-almazan-q6056817/paciencias-de-almazan-q6056817-1.jpg",
+    "images/paciencias-de-almazan-q6056817/paciencias-de-almazan-q6056817-2.jpg",
+    "images/paciencias-de-almazan-q6056817/paciencias-de-almazan-q6056817-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6056817",
+    "themealdb": null
+  }
+}

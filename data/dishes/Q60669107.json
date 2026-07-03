@@ -1,0 +1,22 @@
+{
+  "id": "Q60669107",
+  "name": "Tandoori roti",
+  "description": "Roti baked in a Tandoor",
+  "nationality": [],
+  "region_cuisine": [
+    "South Asian cuisine",
+    "Pakistani cuisine",
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/tandoori-roti-q60669107/tandoori-roti-q60669107-1.jpg",
+    "images/tandoori-roti-q60669107/tandoori-roti-q60669107-2.jpg",
+    "images/tandoori-roti-q60669107/tandoori-roti-q60669107-3.jpg",
+    "images/tandoori-roti-q60669107/tandoori-roti-q60669107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60669107",
+    "themealdb": null
+  }
+}

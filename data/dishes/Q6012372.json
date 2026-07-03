@@ -1,0 +1,20 @@
+{
+  "id": "Q6012372",
+  "name": "kuzu fırın",
+  "description": "lamb dish from the cuisine of Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuzu-frn-q6012372/kuzu-frn-q6012372-1.jpg",
+    "images/kuzu-frn-q6012372/kuzu-frn-q6012372-2.jpg",
+    "images/kuzu-frn-q6012372/kuzu-frn-q6012372-3.jpg",
+    "images/kuzu-frn-q6012372/kuzu-frn-q6012372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6012372",
+    "themealdb": null
+  }
+}

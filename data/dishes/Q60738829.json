@@ -1,0 +1,20 @@
+{
+  "id": "Q60738829",
+  "name": "pain d'épices",
+  "description": "French quick bread",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pain-depices-q60738829/pain-depices-q60738829-1.jpg",
+    "images/pain-depices-q60738829/pain-depices-q60738829-2.jpg",
+    "images/pain-depices-q60738829/pain-depices-q60738829-3.jpg",
+    "images/pain-depices-q60738829/pain-depices-q60738829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60738829",
+    "themealdb": null
+  }
+}

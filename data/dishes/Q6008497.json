@@ -1,0 +1,20 @@
+{
+  "id": "Q6008497",
+  "name": "Circassian chicken",
+  "description": "chicken dish from the Turkish cuisine",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/circassian-chicken-q6008497/circassian-chicken-q6008497-1.jpg",
+    "images/circassian-chicken-q6008497/circassian-chicken-q6008497-2.jpg",
+    "images/circassian-chicken-q6008497/circassian-chicken-q6008497-3.jpg",
+    "images/circassian-chicken-q6008497/circassian-chicken-q6008497-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6008497",
+    "themealdb": null
+  }
+}

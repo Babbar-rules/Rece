@@ -1,0 +1,18 @@
+{
+  "id": "Q6059772",
+  "name": "Panqueque (crepe)",
+  "description": "South American pancake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/panqueque-crepe-q6059772/panqueque-crepe-q6059772-1.jpg",
+    "images/panqueque-crepe-q6059772/panqueque-crepe-q6059772-2.jpg",
+    "images/panqueque-crepe-q6059772/panqueque-crepe-q6059772-3.jpg",
+    "images/panqueque-crepe-q6059772/panqueque-crepe-q6059772-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6059772",
+    "themealdb": null
+  }
+}

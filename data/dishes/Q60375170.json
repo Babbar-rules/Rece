@@ -1,0 +1,20 @@
+{
+  "id": "Q60375170",
+  "name": "Jeonju-bibimbap",
+  "description": "",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeonju-bibimbap-q60375170/jeonju-bibimbap-q60375170-1.jpg",
+    "images/jeonju-bibimbap-q60375170/jeonju-bibimbap-q60375170-2.jpg",
+    "images/jeonju-bibimbap-q60375170/jeonju-bibimbap-q60375170-3.jpg",
+    "images/jeonju-bibimbap-q60375170/jeonju-bibimbap-q60375170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60375170",
+    "themealdb": null
+  }
+}

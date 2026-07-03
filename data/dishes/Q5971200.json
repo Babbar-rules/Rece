@@ -1,0 +1,20 @@
+{
+  "id": "Q5971200",
+  "name": "Spam musubi",
+  "description": "popular snack and lunch food in Hawaii",
+  "nationality": [
+    "Hawaii"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spam-musubi-q5971200/spam-musubi-q5971200-1.jpg",
+    "images/spam-musubi-q5971200/spam-musubi-q5971200-2.jpg",
+    "images/spam-musubi-q5971200/spam-musubi-q5971200-3.jpg",
+    "images/spam-musubi-q5971200/spam-musubi-q5971200-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5971200",
+    "themealdb": null
+  }
+}

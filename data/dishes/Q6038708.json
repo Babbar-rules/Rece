@@ -1,0 +1,18 @@
+{
+  "id": "Q6038708",
+  "name": "instant-boiled mutton",
+  "description": "hot pot originated from Beijing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/instant-boiled-mutton-q6038708/instant-boiled-mutton-q6038708-1.jpg",
+    "images/instant-boiled-mutton-q6038708/instant-boiled-mutton-q6038708-2.jpg",
+    "images/instant-boiled-mutton-q6038708/instant-boiled-mutton-q6038708-3.jpg",
+    "images/instant-boiled-mutton-q6038708/instant-boiled-mutton-q6038708-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6038708",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q60748908",
+  "name": "bacon-wrapped food",
+  "description": "food that is covered with bacon for additional flavor and texture",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bacon-wrapped-food-q60748908/bacon-wrapped-food-q60748908-1.jpg",
+    "images/bacon-wrapped-food-q60748908/bacon-wrapped-food-q60748908-2.jpg",
+    "images/bacon-wrapped-food-q60748908/bacon-wrapped-food-q60748908-3.jpg",
+    "images/bacon-wrapped-food-q60748908/bacon-wrapped-food-q60748908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60748908",
+    "themealdb": null
+  }
+}

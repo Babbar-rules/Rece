@@ -1,0 +1,20 @@
+{
+  "id": "Q60499622",
+  "name": "queso helado",
+  "description": "Peruvian ice cream dessert",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/queso-helado-q60499622/queso-helado-q60499622-1.jpg",
+    "images/queso-helado-q60499622/queso-helado-q60499622-2.jpg",
+    "images/queso-helado-q60499622/queso-helado-q60499622-3.jpg",
+    "images/queso-helado-q60499622/queso-helado-q60499622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60499622",
+    "themealdb": null
+  }
+}

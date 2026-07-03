@@ -1,0 +1,18 @@
+{
+  "id": "Q6024923",
+  "name": "Pideli köfte",
+  "description": "\"köfte\" (meatball) dish from the Turkish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pideli-kofte-q6024923/pideli-kofte-q6024923-1.jpg",
+    "images/pideli-kofte-q6024923/pideli-kofte-q6024923-2.jpg",
+    "images/pideli-kofte-q6024923/pideli-kofte-q6024923-3.jpg",
+    "images/pideli-kofte-q6024923/pideli-kofte-q6024923-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6024923",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6002629",
+  "name": "broken vermicelli",
+  "description": "thin vermicelli pasta that is broken or cut into short lengths",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/broken-vermicelli-q6002629/broken-vermicelli-q6002629-1.jpg",
+    "images/broken-vermicelli-q6002629/broken-vermicelli-q6002629-2.jpg",
+    "images/broken-vermicelli-q6002629/broken-vermicelli-q6002629-3.jpg",
+    "images/broken-vermicelli-q6002629/broken-vermicelli-q6002629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6002629",
+    "themealdb": null
+  }
+}

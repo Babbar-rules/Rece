@@ -1,0 +1,20 @@
+{
+  "id": "Q6066040",
+  "name": "Pastissets de moniato",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastissets-de-moniato-q6066040/pastissets-de-moniato-q6066040-1.jpg",
+    "images/pastissets-de-moniato-q6066040/pastissets-de-moniato-q6066040-2.jpg",
+    "images/pastissets-de-moniato-q6066040/pastissets-de-moniato-q6066040-3.jpg",
+    "images/pastissets-de-moniato-q6066040/pastissets-de-moniato-q6066040-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6066040",
+    "themealdb": null
+  }
+}

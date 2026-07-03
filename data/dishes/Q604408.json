@@ -1,0 +1,21 @@
+{
+  "id": "Q604408",
+  "name": "madeleine",
+  "description": "type of cake traditional from France",
+  "nationality": [
+    "Spain",
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/madeleine-q604408/madeleine-q604408-1.jpg",
+    "images/madeleine-q604408/madeleine-q604408-2.jpg",
+    "images/madeleine-q604408/madeleine-q604408-3.jpg",
+    "images/madeleine-q604408/madeleine-q604408-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q604408",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6029320",
+  "name": "tahini roll",
+  "description": "Turkish sweet bun (çörek) with tahini",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tahini-roll-q6029320/tahini-roll-q6029320-1.jpg",
+    "images/tahini-roll-q6029320/tahini-roll-q6029320-2.jpg",
+    "images/tahini-roll-q6029320/tahini-roll-q6029320-3.jpg",
+    "images/tahini-roll-q6029320/tahini-roll-q6029320-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6029320",
+    "themealdb": null
+  }
+}

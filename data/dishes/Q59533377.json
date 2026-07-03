@@ -1,0 +1,20 @@
+{
+  "id": "Q59533377",
+  "name": "mulhoe",
+  "description": "Korean cold soup made with raw fish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mulhoe-q59533377/mulhoe-q59533377-1.jpg",
+    "images/mulhoe-q59533377/mulhoe-q59533377-2.jpg",
+    "images/mulhoe-q59533377/mulhoe-q59533377-3.jpg",
+    "images/mulhoe-q59533377/mulhoe-q59533377-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59533377",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q6031965",
+  "name": "chickpea bread",
+  "description": "",
+  "nationality": [
+    "Turkey",
+    "Albania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chickpea-bread-q6031965/chickpea-bread-q6031965-1.jpg",
+    "images/chickpea-bread-q6031965/chickpea-bread-q6031965-2.jpg",
+    "images/chickpea-bread-q6031965/chickpea-bread-q6031965-3.jpg",
+    "images/chickpea-bread-q6031965/chickpea-bread-q6031965-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6031965",
+    "themealdb": null
+  }
+}

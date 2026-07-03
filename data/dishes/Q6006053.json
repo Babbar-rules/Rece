@@ -1,0 +1,20 @@
+{
+  "id": "Q6006053",
+  "name": "Manisa kebap",
+  "description": "Turkish cuisine meat dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/manisa-kebap-q6006053/manisa-kebap-q6006053-1.jpg",
+    "images/manisa-kebap-q6006053/manisa-kebap-q6006053-2.jpg",
+    "images/manisa-kebap-q6006053/manisa-kebap-q6006053-3.jpg",
+    "images/manisa-kebap-q6006053/manisa-kebap-q6006053-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6006053",
+    "themealdb": null
+  }
+}

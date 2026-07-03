@@ -1,0 +1,20 @@
+{
+  "id": "Q5985619",
+  "name": "Iced VoVo",
+  "description": "Australian biscuit",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iced-vovo-q5985619/iced-vovo-q5985619-1.jpg",
+    "images/iced-vovo-q5985619/iced-vovo-q5985619-2.jpg",
+    "images/iced-vovo-q5985619/iced-vovo-q5985619-3.png",
+    "images/iced-vovo-q5985619/iced-vovo-q5985619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5985619",
+    "themealdb": null
+  }
+}

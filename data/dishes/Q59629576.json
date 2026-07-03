@@ -1,0 +1,18 @@
+{
+  "id": "Q59629576",
+  "name": "veal broth",
+  "description": "liquid food preparation with veal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/veal-broth-q59629576/veal-broth-q59629576-1.jpg",
+    "images/veal-broth-q59629576/veal-broth-q59629576-2.jpg",
+    "images/veal-broth-q59629576/veal-broth-q59629576-3.jpg",
+    "images/veal-broth-q59629576/veal-broth-q59629576-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q59629576",
+    "themealdb": null
+  }
+}

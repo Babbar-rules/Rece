@@ -1,0 +1,21 @@
+{
+  "id": "Q6029514",
+  "name": "Kalehjoosh",
+  "description": "popular soup in Iran, Azerbaijan, and Southern Turkey",
+  "nationality": [
+    "Turkey",
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalehjoosh-q6029514/kalehjoosh-q6029514-1.jpg",
+    "images/kalehjoosh-q6029514/kalehjoosh-q6029514-2.jpg",
+    "images/kalehjoosh-q6029514/kalehjoosh-q6029514-3.jpg",
+    "images/kalehjoosh-q6029514/kalehjoosh-q6029514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6029514",
+    "themealdb": null
+  }
+}

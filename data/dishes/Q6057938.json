@@ -1,0 +1,18 @@
+{
+  "id": "Q6057938",
+  "name": "Besmeç",
+  "description": "kind of Turkish köfte",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/besmec-q6057938/besmec-q6057938-1.jpg",
+    "images/besmec-q6057938/besmec-q6057938-2.jpg",
+    "images/besmec-q6057938/besmec-q6057938-3.jpg",
+    "images/besmec-q6057938/besmec-q6057938-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6057938",
+    "themealdb": null
+  }
+}

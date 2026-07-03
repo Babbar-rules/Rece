@@ -1,0 +1,18 @@
+{
+  "id": "Q6011278",
+  "name": "In a Biskit",
+  "description": "Brand of crackers",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/in-a-biskit-q6011278/in-a-biskit-q6011278-1.jpg",
+    "images/in-a-biskit-q6011278/in-a-biskit-q6011278-2.jpg",
+    "images/in-a-biskit-q6011278/in-a-biskit-q6011278-3.jpg",
+    "images/in-a-biskit-q6011278/in-a-biskit-q6011278-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6011278",
+    "themealdb": null
+  }
+}

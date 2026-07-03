@@ -1,0 +1,20 @@
+{
+  "id": "Q60030154",
+  "name": "kkultteok",
+  "description": "Korean rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kkultteok-q60030154/kkultteok-q60030154-1.jpg",
+    "images/kkultteok-q60030154/kkultteok-q60030154-2.jpg",
+    "images/kkultteok-q60030154/kkultteok-q60030154-3.jpg",
+    "images/kkultteok-q60030154/kkultteok-q60030154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60030154",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q60728748",
+  "name": "Llaucha",
+  "description": "empanada boliviana",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/llaucha-q60728748/llaucha-q60728748-1.jpg",
+    "images/llaucha-q60728748/llaucha-q60728748-2.jpg",
+    "images/llaucha-q60728748/llaucha-q60728748-3.jpg",
+    "images/llaucha-q60728748/llaucha-q60728748-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60728748",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q60428660",
+  "name": "Erzurum kadaifi dolması",
+  "description": "dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/erzurum-kadaifi-dolmas-q60428660/erzurum-kadaifi-dolmas-q60428660-1.jpg",
+    "images/erzurum-kadaifi-dolmas-q60428660/erzurum-kadaifi-dolmas-q60428660-2.jpg",
+    "images/erzurum-kadaifi-dolmas-q60428660/erzurum-kadaifi-dolmas-q60428660-3.jpg",
+    "images/erzurum-kadaifi-dolmas-q60428660/erzurum-kadaifi-dolmas-q60428660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60428660",
+    "themealdb": null
+  }
+}

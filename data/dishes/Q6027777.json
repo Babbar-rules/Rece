@@ -1,0 +1,22 @@
+{
+  "id": "Q6027777",
+  "name": "yayla çorbası",
+  "description": "soup from the cuisine of Turkey, known as \"Yayla çorbası\" in Turkish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [
+    "Turkish cuisine"
+  ],
+  "images": [
+    "images/yayla-corbas-q6027777/yayla-corbas-q6027777-1.jpg",
+    "images/yayla-corbas-q6027777/yayla-corbas-q6027777-2.jpg",
+    "images/yayla-corbas-q6027777/yayla-corbas-q6027777-3.jpg",
+    "images/yayla-corbas-q6027777/yayla-corbas-q6027777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6027777",
+    "themealdb": null
+  }
+}

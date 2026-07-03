@@ -1,0 +1,21 @@
+{
+  "id": "Q6024261",
+  "name": "Morisqueta",
+  "description": "Mexican dish",
+  "nationality": [
+    "Mexico",
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/morisqueta-q6024261/morisqueta-q6024261-1.jpg",
+    "images/morisqueta-q6024261/morisqueta-q6024261-2.jpg",
+    "images/morisqueta-q6024261/morisqueta-q6024261-3.jpg",
+    "images/morisqueta-q6024261/morisqueta-q6024261-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6024261",
+    "themealdb": null
+  }
+}

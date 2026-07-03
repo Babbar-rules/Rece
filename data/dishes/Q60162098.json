@@ -1,0 +1,18 @@
+{
+  "id": "Q60162098",
+  "name": "Prosperity Burger",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/prosperity-burger-q60162098/prosperity-burger-q60162098-1.jpg",
+    "images/prosperity-burger-q60162098/prosperity-burger-q60162098-2.jpg",
+    "images/prosperity-burger-q60162098/prosperity-burger-q60162098-3.jpg",
+    "images/prosperity-burger-q60162098/prosperity-burger-q60162098-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60162098",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q60194193",
+  "name": "Gußzwieback",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/guzwieback-q60194193/guzwieback-q60194193-1.jpg",
+    "images/guzwieback-q60194193/guzwieback-q60194193-2.jpg",
+    "images/guzwieback-q60194193/guzwieback-q60194193-3.jpg",
+    "images/guzwieback-q60194193/guzwieback-q60194193-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60194193",
+    "themealdb": null
+  }
+}

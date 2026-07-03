@@ -1,0 +1,20 @@
+{
+  "id": "Q60620989",
+  "name": "crab melt",
+  "description": "sandwich",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/crab-melt-q60620989/crab-melt-q60620989-1.jpg",
+    "images/crab-melt-q60620989/crab-melt-q60620989-2.jpg",
+    "images/crab-melt-q60620989/crab-melt-q60620989-3.jpg",
+    "images/crab-melt-q60620989/crab-melt-q60620989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60620989",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q6024500",
+  "name": "morteruelo",
+  "description": "Spanish pâté",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Castilian-Manchego cuisine"
+  ],
+  "images": [
+    "images/morteruelo-q6024500/morteruelo-q6024500-1.jpg",
+    "images/morteruelo-q6024500/morteruelo-q6024500-2.jpg",
+    "images/morteruelo-q6024500/morteruelo-q6024500-3.jpg",
+    "images/morteruelo-q6024500/morteruelo-q6024500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6024500",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q5983744",
+  "name": "Ibarra",
+  "description": "Mexican brand of chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ibarra-q5983744/ibarra-q5983744-1.jpg",
+    "images/ibarra-q5983744/ibarra-q5983744-2.jpg",
+    "images/ibarra-q5983744/ibarra-q5983744-3.jpg",
+    "images/ibarra-q5983744/ibarra-q5983744-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5983744",
+    "themealdb": null
+  }
+}

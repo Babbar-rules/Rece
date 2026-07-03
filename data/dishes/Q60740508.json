@@ -1,0 +1,20 @@
+{
+  "id": "Q60740508",
+  "name": "pusô",
+  "description": "Filipino rice cake",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puso-q60740508/puso-q60740508-1.jpg",
+    "images/puso-q60740508/puso-q60740508-2.jpg",
+    "images/puso-q60740508/puso-q60740508-3.jpg",
+    "images/puso-q60740508/puso-q60740508-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60740508",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q6068180",
+  "name": "İskilip dolması",
+  "description": "Turkish dish from İskilip, Çorum",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/iskilip-dolmas-q6068180/iskilip-dolmas-q6068180-1.jpg",
+    "images/iskilip-dolmas-q6068180/iskilip-dolmas-q6068180-2.jpg",
+    "images/iskilip-dolmas-q6068180/iskilip-dolmas-q6068180-3.jpg",
+    "images/iskilip-dolmas-q6068180/iskilip-dolmas-q6068180-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6068180",
+    "themealdb": null
+  }
+}

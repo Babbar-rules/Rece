@@ -1,0 +1,20 @@
+{
+  "id": "Q6004351",
+  "name": "Suji ka halwa",
+  "description": "Indian type of halvah made by toasting semolina (called suji, sooji, or rawa) in a fat like ghee or oil",
+  "nationality": [
+    "Asia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suji-ka-halwa-q6004351/suji-ka-halwa-q6004351-1.jpg",
+    "images/suji-ka-halwa-q6004351/suji-ka-halwa-q6004351-2.jpg",
+    "images/suji-ka-halwa-q6004351/suji-ka-halwa-q6004351-3.jpg",
+    "images/suji-ka-halwa-q6004351/suji-ka-halwa-q6004351-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6004351",
+    "themealdb": null
+  }
+}

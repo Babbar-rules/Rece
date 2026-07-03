@@ -1,0 +1,20 @@
+{
+  "id": "Q6072967",
+  "name": "iron egg",
+  "description": "egg-based dish from Taiwan",
+  "nationality": [],
+  "region_cuisine": [
+    "Taiwanese cuisine"
+  ],
+  "images": [
+    "images/iron-egg-q6072967/iron-egg-q6072967-1.jpg",
+    "images/iron-egg-q6072967/iron-egg-q6072967-2.jpg",
+    "images/iron-egg-q6072967/iron-egg-q6072967-3.jpg",
+    "images/iron-egg-q6072967/iron-egg-q6072967-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6072967",
+    "themealdb": null
+  }
+}

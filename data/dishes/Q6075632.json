@@ -1,0 +1,18 @@
+{
+  "id": "Q6075632",
+  "name": "Akçaabat meatballs",
+  "description": "Köfte dish from Turkish cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/akcaabat-meatballs-q6075632/akcaabat-meatballs-q6075632-1.jpg",
+    "images/akcaabat-meatballs-q6075632/akcaabat-meatballs-q6075632-2.jpg",
+    "images/akcaabat-meatballs-q6075632/akcaabat-meatballs-q6075632-3.jpg",
+    "images/akcaabat-meatballs-q6075632/akcaabat-meatballs-q6075632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6075632",
+    "themealdb": null
+  }
+}

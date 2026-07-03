@@ -1,0 +1,18 @@
+{
+  "id": "Q60755899",
+  "name": "Joe Frogger",
+  "description": "cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/joe-frogger-q60755899/joe-frogger-q60755899-1.jpg",
+    "images/joe-frogger-q60755899/joe-frogger-q60755899-2.jpg",
+    "images/joe-frogger-q60755899/joe-frogger-q60755899-3.jpg",
+    "images/joe-frogger-q60755899/joe-frogger-q60755899-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60755899",
+    "themealdb": null
+  }
+}

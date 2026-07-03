@@ -1,0 +1,18 @@
+{
+  "id": "Q6059378",
+  "name": "Pan de Cruz",
+  "description": "Spanish bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-de-cruz-q6059378/pan-de-cruz-q6059378-1.jpg",
+    "images/pan-de-cruz-q6059378/pan-de-cruz-q6059378-2.jpg",
+    "images/pan-de-cruz-q6059378/pan-de-cruz-q6059378-3.jpg",
+    "images/pan-de-cruz-q6059378/pan-de-cruz-q6059378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6059378",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q6059387",
+  "name": "pan dulce",
+  "description": "variety of latinoamerican pastries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-dulce-q6059387/pan-dulce-q6059387-1.jpg",
+    "images/pan-dulce-q6059387/pan-dulce-q6059387-2.jpg",
+    "images/pan-dulce-q6059387/pan-dulce-q6059387-3.jpg",
+    "images/pan-dulce-q6059387/pan-dulce-q6059387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6059387",
+    "themealdb": null
+  }
+}

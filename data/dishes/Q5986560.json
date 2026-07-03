@@ -1,0 +1,18 @@
+{
+  "id": "Q5986560",
+  "name": "Milk-Bone",
+  "description": "American brand of dog food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/milk-bone-q5986560/milk-bone-q5986560-1.jpg",
+    "images/milk-bone-q5986560/milk-bone-q5986560-2.jpg",
+    "images/milk-bone-q5986560/milk-bone-q5986560-3.jpg",
+    "images/milk-bone-q5986560/milk-bone-q5986560-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5986560",
+    "themealdb": null
+  }
+}

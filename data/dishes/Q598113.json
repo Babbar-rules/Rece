@@ -1,0 +1,24 @@
+{
+  "id": "Q598113",
+  "name": "Karelian pasty",
+  "description": "traditional pasties from Karelia",
+  "nationality": [
+    "Finland",
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Karelian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/karelian-pasty-q598113/karelian-pasty-q598113-1.png",
+    "images/karelian-pasty-q598113/karelian-pasty-q598113-2.jpg",
+    "images/karelian-pasty-q598113/karelian-pasty-q598113-3.png",
+    "images/karelian-pasty-q598113/karelian-pasty-q598113-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q598113",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q6002018",
+  "name": "ıslama köfte",
+  "description": "Turkish kofte (köfte) variant",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/slama-kofte-q6002018/slama-kofte-q6002018-1.jpg",
+    "images/slama-kofte-q6002018/slama-kofte-q6002018-2.jpg",
+    "images/slama-kofte-q6002018/slama-kofte-q6002018-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6002018",
+    "themealdb": null
+  }
+}

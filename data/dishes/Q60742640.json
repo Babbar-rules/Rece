@@ -1,0 +1,18 @@
+{
+  "id": "Q60742640",
+  "name": "Vantage loaf",
+  "description": "thirteenth loaf of a baker's dozen",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vantage-loaf-q60742640/vantage-loaf-q60742640-1.jpg",
+    "images/vantage-loaf-q60742640/vantage-loaf-q60742640-2.jpg",
+    "images/vantage-loaf-q60742640/vantage-loaf-q60742640-3.jpg",
+    "images/vantage-loaf-q60742640/vantage-loaf-q60742640-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60742640",
+    "themealdb": null
+  }
+}

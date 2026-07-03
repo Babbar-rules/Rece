@@ -1,0 +1,20 @@
+{
+  "id": "Q60739792",
+  "name": "mamón",
+  "description": "traditional Filipino chiffon or sponge cakes",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mamon-q60739792/mamon-q60739792-1.jpg",
+    "images/mamon-q60739792/mamon-q60739792-2.jpg",
+    "images/mamon-q60739792/mamon-q60739792-3.jpg",
+    "images/mamon-q60739792/mamon-q60739792-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q60739792",
+    "themealdb": null
+  }
+}

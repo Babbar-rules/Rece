@@ -1,0 +1,16 @@
+{
+  "id": "Q6038754",
+  "name": "Gözleme with beef",
+  "description": "Gözleme filled with ground beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gozleme-with-beef-q6038754/gozleme-with-beef-q6038754-1.jpg",
+    "images/gozleme-with-beef-q6038754/gozleme-with-beef-q6038754-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6038754",
+    "themealdb": null
+  }
+}
