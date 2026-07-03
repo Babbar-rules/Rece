@@ -1,0 +1,18 @@
+{
+  "id": "Q7229038",
+  "name": "Pop Mie",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pop-mie-q7229038/pop-mie-q7229038-1.jpg",
+    "images/pop-mie-q7229038/pop-mie-q7229038-2.jpg",
+    "images/pop-mie-q7229038/pop-mie-q7229038-3.jpg",
+    "images/pop-mie-q7229038/pop-mie-q7229038-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7229038",
+    "themealdb": null
+  }
+}

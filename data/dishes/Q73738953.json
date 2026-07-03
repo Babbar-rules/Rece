@@ -1,0 +1,18 @@
+{
+  "id": "Q73738953",
+  "name": "apple fritter",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-fritter-q73738953/apple-fritter-q73738953-1.jpg",
+    "images/apple-fritter-q73738953/apple-fritter-q73738953-2.jpg",
+    "images/apple-fritter-q73738953/apple-fritter-q73738953-3.jpg",
+    "images/apple-fritter-q73738953/apple-fritter-q73738953-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q73738953",
+    "themealdb": null
+  }
+}

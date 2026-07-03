@@ -1,0 +1,22 @@
+{
+  "id": "Q732",
+  "name": "Francesinha",
+  "description": "Portuguese sandwich",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/francesinha-q732/francesinha-q732-1.jpg",
+    "images/francesinha-q732/francesinha-q732-2.jpg",
+    "images/francesinha-q732/francesinha-q732-3.jpg",
+    "images/francesinha-q732/francesinha-q732-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q732",
+    "themealdb": null
+  }
+}

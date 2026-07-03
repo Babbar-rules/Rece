@@ -1,0 +1,20 @@
+{
+  "id": "Q7271398",
+  "name": "Quesito",
+  "description": "pastry from Puerto Rico",
+  "nationality": [
+    "Puerto Rico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quesito-q7271398/quesito-q7271398-1.jpg",
+    "images/quesito-q7271398/quesito-q7271398-2.jpg",
+    "images/quesito-q7271398/quesito-q7271398-3.jpg",
+    "images/quesito-q7271398/quesito-q7271398-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7271398",
+    "themealdb": null
+  }
+}

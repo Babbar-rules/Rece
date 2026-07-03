@@ -1,0 +1,22 @@
+{
+  "id": "Q722595",
+  "name": "quiche",
+  "description": "savoury open pastry tart with a filling of egg, dairy and other ingredients",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/quiche-q722595/quiche-q722595-1.jpg",
+    "images/quiche-q722595/quiche-q722595-2.jpg",
+    "images/quiche-q722595/quiche-q722595-3.jpg",
+    "images/quiche-q722595/quiche-q722595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q722595",
+    "themealdb": null
+  }
+}

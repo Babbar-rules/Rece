@@ -1,0 +1,20 @@
+{
+  "id": "Q72473439",
+  "name": "Creamed Turkish Delights",
+  "description": "dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/creamed-turkish-delights-q72473439/creamed-turkish-delights-q72473439-1.jpg",
+    "images/creamed-turkish-delights-q72473439/creamed-turkish-delights-q72473439-2.jpg",
+    "images/creamed-turkish-delights-q72473439/creamed-turkish-delights-q72473439-3.jpg",
+    "images/creamed-turkish-delights-q72473439/creamed-turkish-delights-q72473439-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q72473439",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q7225702",
+  "name": "Pollo motuleños",
+  "description": "Mexican chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pollo-motulenos-q7225702/pollo-motulenos-q7225702-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7225702",
+    "themealdb": null
+  }
+}

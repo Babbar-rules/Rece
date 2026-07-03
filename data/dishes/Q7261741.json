@@ -1,0 +1,18 @@
+{
+  "id": "Q7261741",
+  "name": "Push Pop",
+  "description": "brand of fruit-flavored lollipops",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/push-pop-q7261741/push-pop-q7261741-1.jpg",
+    "images/push-pop-q7261741/push-pop-q7261741-2.jpg",
+    "images/push-pop-q7261741/push-pop-q7261741-3.jpg",
+    "images/push-pop-q7261741/push-pop-q7261741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7261741",
+    "themealdb": null
+  }
+}

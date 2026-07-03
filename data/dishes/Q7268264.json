@@ -1,0 +1,18 @@
+{
+  "id": "Q7268264",
+  "name": "Quad City-style pizza",
+  "description": "pizza style originating from Quad Cities, US, characterized by a malt crust, tomato sauce with chili flakes, toppings placed under cheese, and being cut into strips",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quad-city-style-pizza-q7268264/quad-city-style-pizza-q7268264-1.jpg",
+    "images/quad-city-style-pizza-q7268264/quad-city-style-pizza-q7268264-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7268264",
+    "themealdb": null
+  }
+}

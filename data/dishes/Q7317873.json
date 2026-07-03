@@ -1,0 +1,18 @@
+{
+  "id": "Q7317873",
+  "name": "Revels",
+  "description": "British confectionery, cholocate-coated",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/revels-q7317873/revels-q7317873-1.jpg",
+    "images/revels-q7317873/revels-q7317873-2.jpg",
+    "images/revels-q7317873/revels-q7317873-3.jpg",
+    "images/revels-q7317873/revels-q7317873-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7317873",
+    "themealdb": null
+  }
+}

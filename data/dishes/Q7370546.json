@@ -1,0 +1,20 @@
+{
+  "id": "Q7370546",
+  "name": "roti tissue",
+  "description": "Malay sweet flatbread",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roti-tissue-q7370546/roti-tissue-q7370546-1.jpg",
+    "images/roti-tissue-q7370546/roti-tissue-q7370546-2.jpg",
+    "images/roti-tissue-q7370546/roti-tissue-q7370546-3.jpg",
+    "images/roti-tissue-q7370546/roti-tissue-q7370546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7370546",
+    "themealdb": null
+  }
+}

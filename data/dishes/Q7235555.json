@@ -1,0 +1,15 @@
+{
+  "id": "Q7235555",
+  "name": "Poularde Albufera",
+  "description": "chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/poularde-albufera-q7235555/poularde-albufera-q7235555-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7235555",
+    "themealdb": null
+  }
+}

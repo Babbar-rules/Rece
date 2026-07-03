@@ -1,0 +1,18 @@
+{
+  "id": "Q7220675",
+  "name": "Nutritious sandwich",
+  "description": "type of sandwich originating from Taiwan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nutritious-sandwich-q7220675/nutritious-sandwich-q7220675-1.jpg",
+    "images/nutritious-sandwich-q7220675/nutritious-sandwich-q7220675-2.jpg",
+    "images/nutritious-sandwich-q7220675/nutritious-sandwich-q7220675-3.jpg",
+    "images/nutritious-sandwich-q7220675/nutritious-sandwich-q7220675-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7220675",
+    "themealdb": null
+  }
+}

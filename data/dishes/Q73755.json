@@ -1,0 +1,22 @@
+{
+  "id": "Q73755",
+  "name": "Melba toast",
+  "description": "dry, crisp, thinly sliced toast, often served with soup and salad or topped with either melted cheese or pâté, named after Nellie Melba, invented by Auguste Escoffier",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/melba-toast-q73755/melba-toast-q73755-1.jpg",
+    "images/melba-toast-q73755/melba-toast-q73755-2.jpg",
+    "images/melba-toast-q73755/melba-toast-q73755-3.jpg",
+    "images/melba-toast-q73755/melba-toast-q73755-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q73755",
+    "themealdb": null
+  }
+}

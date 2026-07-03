@@ -1,0 +1,21 @@
+{
+  "id": "Q7367597",
+  "name": "roscón",
+  "description": "Bread",
+  "nationality": [
+    "Spain",
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roscon-q7367597/roscon-q7367597-1.jpg",
+    "images/roscon-q7367597/roscon-q7367597-2.jpg",
+    "images/roscon-q7367597/roscon-q7367597-3.jpg",
+    "images/roscon-q7367597/roscon-q7367597-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7367597",
+    "themealdb": null
+  }
+}

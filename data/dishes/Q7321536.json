@@ -1,0 +1,18 @@
+{
+  "id": "Q7321536",
+  "name": "rhubarb tart",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rhubarb-tart-q7321536/rhubarb-tart-q7321536-1.jpg",
+    "images/rhubarb-tart-q7321536/rhubarb-tart-q7321536-2.jpg",
+    "images/rhubarb-tart-q7321536/rhubarb-tart-q7321536-3.jpg",
+    "images/rhubarb-tart-q7321536/rhubarb-tart-q7321536-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7321536",
+    "themealdb": null
+  }
+}

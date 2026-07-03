@@ -1,0 +1,19 @@
+{
+  "id": "Q734527",
+  "name": "Svartsoppa",
+  "description": "traditional Swedish dish",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/svartsoppa-q734527/svartsoppa-q734527-1.jpg",
+    "images/svartsoppa-q734527/svartsoppa-q734527-2.jpg",
+    "images/svartsoppa-q734527/svartsoppa-q734527-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q734527",
+    "themealdb": null
+  }
+}

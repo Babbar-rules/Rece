@@ -1,0 +1,18 @@
+{
+  "id": "Q72474549",
+  "name": "Muhallebi with kadayıf",
+  "description": "dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/muhallebi-with-kadayf-q72474549/muhallebi-with-kadayf-q72474549-1.jpg",
+    "images/muhallebi-with-kadayf-q72474549/muhallebi-with-kadayf-q72474549-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q72474549",
+    "themealdb": null
+  }
+}

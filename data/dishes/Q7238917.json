@@ -1,0 +1,20 @@
+{
+  "id": "Q7238917",
+  "name": "prawn soup",
+  "description": "soup dish prepared using freshwater or saltwater prawns as a primary ingredient",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prawn-soup-q7238917/prawn-soup-q7238917-1.jpg",
+    "images/prawn-soup-q7238917/prawn-soup-q7238917-2.jpg",
+    "images/prawn-soup-q7238917/prawn-soup-q7238917-3.jpg",
+    "images/prawn-soup-q7238917/prawn-soup-q7238917-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7238917",
+    "themealdb": null
+  }
+}

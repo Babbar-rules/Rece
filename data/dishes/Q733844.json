@@ -1,0 +1,22 @@
+{
+  "id": "Q733844",
+  "name": "narutomaki",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese Chinese cuisine"
+  ],
+  "images": [
+    "images/narutomaki-q733844/narutomaki-q733844-1.jpg",
+    "images/narutomaki-q733844/narutomaki-q733844-2.jpg",
+    "images/narutomaki-q733844/narutomaki-q733844-3.jpg",
+    "images/narutomaki-q733844/narutomaki-q733844-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q733844",
+    "themealdb": null
+  }
+}

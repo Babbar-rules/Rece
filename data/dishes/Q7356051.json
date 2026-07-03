@@ -1,0 +1,20 @@
+{
+  "id": "Q7356051",
+  "name": "rocky road ice cream",
+  "description": "dessert consisting of chocolate ice cream, nuts, and whole or diced marshmallows",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rocky-road-ice-cream-q7356051/rocky-road-ice-cream-q7356051-1.jpg",
+    "images/rocky-road-ice-cream-q7356051/rocky-road-ice-cream-q7356051-2.jpg",
+    "images/rocky-road-ice-cream-q7356051/rocky-road-ice-cream-q7356051-3.jpg",
+    "images/rocky-road-ice-cream-q7356051/rocky-road-ice-cream-q7356051-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7356051",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q73021048",
+  "name": "bread cubes",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-cubes-q73021048/bread-cubes-q73021048-1.jpg",
+    "images/bread-cubes-q73021048/bread-cubes-q73021048-2.jpg",
+    "images/bread-cubes-q73021048/bread-cubes-q73021048-3.jpg",
+    "images/bread-cubes-q73021048/bread-cubes-q73021048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q73021048",
+    "themealdb": null
+  }
+}

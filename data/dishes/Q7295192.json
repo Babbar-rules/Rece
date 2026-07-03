@@ -1,0 +1,20 @@
+{
+  "id": "Q7295192",
+  "name": "Raspberry Ripple",
+  "description": "flavour of ice-cream",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/raspberry-ripple-q7295192/raspberry-ripple-q7295192-1.jpg",
+    "images/raspberry-ripple-q7295192/raspberry-ripple-q7295192-2.jpg",
+    "images/raspberry-ripple-q7295192/raspberry-ripple-q7295192-3.jpg",
+    "images/raspberry-ripple-q7295192/raspberry-ripple-q7295192-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7295192",
+    "themealdb": null
+  }
+}

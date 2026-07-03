@@ -1,0 +1,20 @@
+{
+  "id": "Q725125",
+  "name": "Ma'amoul",
+  "description": "Arabic shortbread cookies made of semolina and butter",
+  "nationality": [],
+  "region_cuisine": [
+    "Arab cuisine"
+  ],
+  "images": [
+    "images/maamoul-q725125/maamoul-q725125-1.jpg",
+    "images/maamoul-q725125/maamoul-q725125-2.jpg",
+    "images/maamoul-q725125/maamoul-q725125-3.jpg",
+    "images/maamoul-q725125/maamoul-q725125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q725125",
+    "themealdb": null
+  }
+}

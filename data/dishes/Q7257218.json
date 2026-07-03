@@ -1,0 +1,18 @@
+{
+  "id": "Q7257218",
+  "name": "pu pu platter",
+  "description": "tray of American Chinese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pu-pu-platter-q7257218/pu-pu-platter-q7257218-1.jpg",
+    "images/pu-pu-platter-q7257218/pu-pu-platter-q7257218-2.jpg",
+    "images/pu-pu-platter-q7257218/pu-pu-platter-q7257218-3.jpg",
+    "images/pu-pu-platter-q7257218/pu-pu-platter-q7257218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7257218",
+    "themealdb": null
+  }
+}

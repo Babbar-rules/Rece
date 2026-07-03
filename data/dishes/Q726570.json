@@ -1,0 +1,22 @@
+{
+  "id": "Q726570",
+  "name": "Torta pasqualina",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/torta-pasqualina-q726570/torta-pasqualina-q726570-1.jpg",
+    "images/torta-pasqualina-q726570/torta-pasqualina-q726570-2.jpg",
+    "images/torta-pasqualina-q726570/torta-pasqualina-q726570-3.jpg",
+    "images/torta-pasqualina-q726570/torta-pasqualina-q726570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q726570",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7258891",
+  "name": "Puftaloon",
+  "description": "Australian fried scone",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/puftaloon-q7258891/puftaloon-q7258891-1.jpg",
+    "images/puftaloon-q7258891/puftaloon-q7258891-2.jpg",
+    "images/puftaloon-q7258891/puftaloon-q7258891-3.jpg",
+    "images/puftaloon-q7258891/puftaloon-q7258891-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7258891",
+    "themealdb": null
+  }
+}

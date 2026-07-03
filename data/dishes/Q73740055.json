@@ -1,0 +1,18 @@
+{
+  "id": "Q73740055",
+  "name": "appelbeignet",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/appelbeignet-q73740055/appelbeignet-q73740055-1.jpg",
+    "images/appelbeignet-q73740055/appelbeignet-q73740055-2.jpg",
+    "images/appelbeignet-q73740055/appelbeignet-q73740055-3.jpg",
+    "images/appelbeignet-q73740055/appelbeignet-q73740055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q73740055",
+    "themealdb": null
+  }
+}

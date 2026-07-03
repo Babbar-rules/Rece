@@ -1,0 +1,15 @@
+{
+  "id": "Q7370092",
+  "name": "rosvopaisti",
+  "description": "type of roast meat",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7370092",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7235559",
+  "name": "Poulet au fromage",
+  "description": "French chicken and cheese dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poulet-au-fromage-q7235559/poulet-au-fromage-q7235559-1.jpg",
+    "images/poulet-au-fromage-q7235559/poulet-au-fromage-q7235559-2.jpg",
+    "images/poulet-au-fromage-q7235559/poulet-au-fromage-q7235559-3.jpg",
+    "images/poulet-au-fromage-q7235559/poulet-au-fromage-q7235559-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7235559",
+    "themealdb": null
+  }
+}

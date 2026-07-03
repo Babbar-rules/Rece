@@ -1,0 +1,18 @@
+{
+  "id": "Q72817580",
+  "name": "Bürli",
+  "description": "A type of breadroll from Switzerland.",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/burli-q72817580/burli-q72817580-1.jpg",
+    "images/burli-q72817580/burli-q72817580-2.jpg",
+    "images/burli-q72817580/burli-q72817580-3.jpg",
+    "images/burli-q72817580/burli-q72817580-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q72817580",
+    "themealdb": null
+  }
+}

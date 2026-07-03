@@ -1,0 +1,20 @@
+{
+  "id": "Q7278468",
+  "name": "Rab cake",
+  "description": "dessert from Rab, Croatia",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rab-cake-q7278468/rab-cake-q7278468-1.jpg",
+    "images/rab-cake-q7278468/rab-cake-q7278468-2.jpg",
+    "images/rab-cake-q7278468/rab-cake-q7278468-3.jpg",
+    "images/rab-cake-q7278468/rab-cake-q7278468-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7278468",
+    "themealdb": null
+  }
+}

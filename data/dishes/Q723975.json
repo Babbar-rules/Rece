@@ -1,0 +1,20 @@
+{
+  "id": "Q723975",
+  "name": "túrós csusza",
+  "description": "pasta dish",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turos-csusza-q723975/turos-csusza-q723975-1.jpg",
+    "images/turos-csusza-q723975/turos-csusza-q723975-2.jpg",
+    "images/turos-csusza-q723975/turos-csusza-q723975-3.jpg",
+    "images/turos-csusza-q723975/turos-csusza-q723975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q723975",
+    "themealdb": null
+  }
+}

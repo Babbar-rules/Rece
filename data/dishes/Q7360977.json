@@ -1,0 +1,22 @@
+{
+  "id": "Q7360977",
+  "name": "Rollatini",
+  "description": "Italian-style dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian-American cuisine"
+  ],
+  "images": [
+    "images/rollatini-q7360977/rollatini-q7360977-1.jpg",
+    "images/rollatini-q7360977/rollatini-q7360977-2.jpeg",
+    "images/rollatini-q7360977/rollatini-q7360977-3.jpg",
+    "images/rollatini-q7360977/rollatini-q7360977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7360977",
+    "themealdb": null
+  }
+}

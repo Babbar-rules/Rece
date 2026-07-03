@@ -1,0 +1,20 @@
+{
+  "id": "Q7232800",
+  "name": "Portuguese sauce",
+  "description": "Macanese sauce or curry",
+  "nationality": [
+    "Macau"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/portuguese-sauce-q7232800/portuguese-sauce-q7232800-1.jpg",
+    "images/portuguese-sauce-q7232800/portuguese-sauce-q7232800-2.jpg",
+    "images/portuguese-sauce-q7232800/portuguese-sauce-q7232800-3.jpg",
+    "images/portuguese-sauce-q7232800/portuguese-sauce-q7232800-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7232800",
+    "themealdb": null
+  }
+}

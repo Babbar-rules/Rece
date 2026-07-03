@@ -1,0 +1,15 @@
+{
+  "id": "Q7225840",
+  "name": "Polly Waffle",
+  "description": "Australian brand of chocolate bar",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7225840",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7264577",
+  "name": "pâté chaud",
+  "description": "Vietnamese savory puff pastry",
+  "nationality": [
+    "Vietnam"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pate-chaud-q7264577/pate-chaud-q7264577-1.jpg",
+    "images/pate-chaud-q7264577/pate-chaud-q7264577-2.jpg",
+    "images/pate-chaud-q7264577/pate-chaud-q7264577-3.jpg",
+    "images/pate-chaud-q7264577/pate-chaud-q7264577-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7264577",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7272094",
+  "name": "quince dessert",
+  "description": "Turkish dessert made with quince fruits",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quince-dessert-q7272094/quince-dessert-q7272094-1.jpg",
+    "images/quince-dessert-q7272094/quince-dessert-q7272094-2.jpg",
+    "images/quince-dessert-q7272094/quince-dessert-q7272094-3.jpg",
+    "images/quince-dessert-q7272094/quince-dessert-q7272094-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7272094",
+    "themealdb": null
+  }
+}

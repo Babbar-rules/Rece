@@ -1,0 +1,18 @@
+{
+  "id": "Q73740415",
+  "name": "Beignets aux pommes",
+  "description": "fried traditional dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beignets-aux-pommes-q73740415/beignets-aux-pommes-q73740415-1.jpg",
+    "images/beignets-aux-pommes-q73740415/beignets-aux-pommes-q73740415-2.jpg",
+    "images/beignets-aux-pommes-q73740415/beignets-aux-pommes-q73740415-3.jpg",
+    "images/beignets-aux-pommes-q73740415/beignets-aux-pommes-q73740415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q73740415",
+    "themealdb": null
+  }
+}

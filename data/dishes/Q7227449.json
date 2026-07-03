@@ -1,0 +1,18 @@
+{
+  "id": "Q7227449",
+  "name": "Pompano en Papillote",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pompano-en-papillote-q7227449/pompano-en-papillote-q7227449-1.jpg",
+    "images/pompano-en-papillote-q7227449/pompano-en-papillote-q7227449-2.jpg",
+    "images/pompano-en-papillote-q7227449/pompano-en-papillote-q7227449-3.jpg",
+    "images/pompano-en-papillote-q7227449/pompano-en-papillote-q7227449-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7227449",
+    "themealdb": null
+  }
+}

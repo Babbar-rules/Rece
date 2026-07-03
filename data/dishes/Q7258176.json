@@ -1,0 +1,20 @@
+{
+  "id": "Q7258176",
+  "name": "Pucca Chocolate",
+  "description": "Japanese wafer candy",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pucca-chocolate-q7258176/pucca-chocolate-q7258176-1.png",
+    "images/pucca-chocolate-q7258176/pucca-chocolate-q7258176-2.jpg",
+    "images/pucca-chocolate-q7258176/pucca-chocolate-q7258176-3.png",
+    "images/pucca-chocolate-q7258176/pucca-chocolate-q7258176-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7258176",
+    "themealdb": null
+  }
+}

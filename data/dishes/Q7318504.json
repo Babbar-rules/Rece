@@ -1,0 +1,20 @@
+{
+  "id": "Q7318504",
+  "name": "Revithia",
+  "description": "",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/revithia-q7318504/revithia-q7318504-1.jpg",
+    "images/revithia-q7318504/revithia-q7318504-2.jpg",
+    "images/revithia-q7318504/revithia-q7318504-3.jpg",
+    "images/revithia-q7318504/revithia-q7318504-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7318504",
+    "themealdb": null
+  }
+}

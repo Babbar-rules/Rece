@@ -1,0 +1,18 @@
+{
+  "id": "Q7306986",
+  "name": "Reese's Sticks",
+  "description": "Peanut butter candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reeses-sticks-q7306986/reeses-sticks-q7306986-1.jpg",
+    "images/reeses-sticks-q7306986/reeses-sticks-q7306986-2.jpg",
+    "images/reeses-sticks-q7306986/reeses-sticks-q7306986-3.jpg",
+    "images/reeses-sticks-q7306986/reeses-sticks-q7306986-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7306986",
+    "themealdb": null
+  }
+}

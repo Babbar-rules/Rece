@@ -1,0 +1,20 @@
+{
+  "id": "Q7248936",
+  "name": "Proja",
+  "description": "type of cornbread",
+  "nationality": [
+    "Serbia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/proja-q7248936/proja-q7248936-1.jpg",
+    "images/proja-q7248936/proja-q7248936-2.jpg",
+    "images/proja-q7248936/proja-q7248936-3.jpg",
+    "images/proja-q7248936/proja-q7248936-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7248936",
+    "themealdb": null
+  }
+}

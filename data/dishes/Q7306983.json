@@ -1,0 +1,18 @@
+{
+  "id": "Q7306983",
+  "name": "Reese's Crispy Crunchy Bar",
+  "description": "Chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reeses-crispy-crunchy-bar-q7306983/reeses-crispy-crunchy-bar-q7306983-1.jpg",
+    "images/reeses-crispy-crunchy-bar-q7306983/reeses-crispy-crunchy-bar-q7306983-2.jpg",
+    "images/reeses-crispy-crunchy-bar-q7306983/reeses-crispy-crunchy-bar-q7306983-3.jpg",
+    "images/reeses-crispy-crunchy-bar-q7306983/reeses-crispy-crunchy-bar-q7306983-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7306983",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7309432",
+  "name": "Açorda",
+  "description": "Portuguese bread soup",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/acorda-q7309432/acorda-q7309432-1.jpg",
+    "images/acorda-q7309432/acorda-q7309432-2.jpg",
+    "images/acorda-q7309432/acorda-q7309432-3.jpg",
+    "images/acorda-q7309432/acorda-q7309432-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7309432",
+    "themealdb": null
+  }
+}

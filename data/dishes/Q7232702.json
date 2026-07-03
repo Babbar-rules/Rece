@@ -1,0 +1,16 @@
+{
+  "id": "Q7232702",
+  "name": "Portuguese asado",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/portuguese-asado-q7232702/portuguese-asado-q7232702-1.png",
+    "images/portuguese-asado-q7232702/portuguese-asado-q7232702-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7232702",
+    "themealdb": null
+  }
+}

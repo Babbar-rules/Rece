@@ -1,0 +1,18 @@
+{
+  "id": "Q7284444",
+  "name": "Rain-Blo",
+  "description": "bubble gum brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rain-blo-q7284444/rain-blo-q7284444-1.jpg",
+    "images/rain-blo-q7284444/rain-blo-q7284444-2.jpg",
+    "images/rain-blo-q7284444/rain-blo-q7284444-3.png",
+    "images/rain-blo-q7284444/rain-blo-q7284444-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7284444",
+    "themealdb": null
+  }
+}

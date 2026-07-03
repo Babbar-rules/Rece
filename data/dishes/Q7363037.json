@@ -1,0 +1,21 @@
+{
+  "id": "Q7363037",
+  "name": "ketupat sotong",
+  "description": "",
+  "nationality": [
+    "Malaysia",
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ketupat-sotong-q7363037/ketupat-sotong-q7363037-1.jpg",
+    "images/ketupat-sotong-q7363037/ketupat-sotong-q7363037-2.jpg",
+    "images/ketupat-sotong-q7363037/ketupat-sotong-q7363037-3.jpg",
+    "images/ketupat-sotong-q7363037/ketupat-sotong-q7363037-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7363037",
+    "themealdb": null
+  }
+}

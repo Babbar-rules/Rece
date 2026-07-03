@@ -1,0 +1,22 @@
+{
+  "id": "Q73337",
+  "name": "Dong'an chicken",
+  "description": "Chinese chicken dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/dongan-chicken-q73337/dongan-chicken-q73337-1.jpg",
+    "images/dongan-chicken-q73337/dongan-chicken-q73337-2.jpg",
+    "images/dongan-chicken-q73337/dongan-chicken-q73337-3.jpg",
+    "images/dongan-chicken-q73337/dongan-chicken-q73337-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q73337",
+    "themealdb": null
+  }
+}

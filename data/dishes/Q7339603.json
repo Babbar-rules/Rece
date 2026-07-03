@@ -1,0 +1,17 @@
+{
+  "id": "Q7339603",
+  "name": "roadkill cuisine",
+  "description": "preparation and consumption of roadkill",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/roadkill-cuisine-q7339603/roadkill-cuisine-q7339603-1.jpg",
+    "images/roadkill-cuisine-q7339603/roadkill-cuisine-q7339603-2.jpg",
+    "images/roadkill-cuisine-q7339603/roadkill-cuisine-q7339603-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7339603",
+    "themealdb": null
+  }
+}

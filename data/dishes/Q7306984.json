@@ -1,0 +1,18 @@
+{
+  "id": "Q7306984",
+  "name": "Reese's Fast Break",
+  "description": "chocolate bar made by The Hershey Company",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reeses-fast-break-q7306984/reeses-fast-break-q7306984-1.jpg",
+    "images/reeses-fast-break-q7306984/reeses-fast-break-q7306984-2.jpg",
+    "images/reeses-fast-break-q7306984/reeses-fast-break-q7306984-3.jpg",
+    "images/reeses-fast-break-q7306984/reeses-fast-break-q7306984-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7306984",
+    "themealdb": null
+  }
+}

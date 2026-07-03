@@ -1,0 +1,16 @@
+{
+  "id": "Q7321653",
+  "name": "Rhyming recipe",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rhyming-recipe-q7321653/rhyming-recipe-q7321653-1.jpg",
+    "images/rhyming-recipe-q7321653/rhyming-recipe-q7321653-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7321653",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7305283",
+  "name": "red bean cake",
+  "description": "dessert made with red bean paste",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/red-bean-cake-q7305283/red-bean-cake-q7305283-1.jpg",
+    "images/red-bean-cake-q7305283/red-bean-cake-q7305283-2.jpg",
+    "images/red-bean-cake-q7305283/red-bean-cake-q7305283-3.jpg",
+    "images/red-bean-cake-q7305283/red-bean-cake-q7305283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7305283",
+    "themealdb": null
+  }
+}

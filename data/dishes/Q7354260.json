@@ -1,0 +1,64 @@
+{
+  "id": "Q7354260",
+  "name": "rock",
+  "description": "type of hard stick-shaped boiled sugar confectionery",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/rock-q7354260/rock-q7354260-1.jpg",
+    "images/rock-q7354260/rock-q7354260-2.jpg",
+    "images/rock-q7354260/rock-q7354260-3.jpg",
+    "images/rock-q7354260/rock-q7354260-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52901",
+    "category": "Dessert",
+    "area": "British",
+    "instructions": "Preheat oven to 180C/350F/Gas 4 and line a baking tray with baking parchment.\r\nMix the flour, sugar and baking powder in a bowl and rub in the cubed butter until the mixture looks like breadcrumbs, then mix in the dried fruit.\r\nIn a clean bowl, beat the egg and milk together with the vanilla extract.\r\nAdd the egg mixture to the dry ingredients and stir with a spoon until the mixture just comes together as a thick, lumpy dough. Add a teaspoon more milk if you really need it to make the mixture stick together.\r\nPlace golfball-sized spoons of the mixture onto the prepared baking tray. Leave space between them as they will flatten and spread out to double their size during baking.\r\nBake for 15-20 minutes, until golden-brown. Remove from the oven, allow to cool for a couple of minutes then turn them out onto a wire rack to cool.",
+    "ingredients": [
+      {
+        "ingredient": "Self-raising Flour",
+        "measure": "225g"
+      },
+      {
+        "ingredient": "Caster Sugar",
+        "measure": "75g"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Butter",
+        "measure": "125g"
+      },
+      {
+        "ingredient": "Dried Fruit",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "2 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=tY3taZO3Aro",
+    "thumb": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7354260",
+    "themealdb": "52901"
+  }
+}

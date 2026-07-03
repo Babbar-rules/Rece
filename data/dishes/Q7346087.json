@@ -1,0 +1,18 @@
+{
+  "id": "Q7346087",
+  "name": "Peshte Zik",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peshte-zik-q7346087/peshte-zik-q7346087-1.jpg",
+    "images/peshte-zik-q7346087/peshte-zik-q7346087-2.jpg",
+    "images/peshte-zik-q7346087/peshte-zik-q7346087-3.jpg",
+    "images/peshte-zik-q7346087/peshte-zik-q7346087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7346087",
+    "themealdb": null
+  }
+}

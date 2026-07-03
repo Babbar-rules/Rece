@@ -1,0 +1,19 @@
+{
+  "id": "Q7369003",
+  "name": "Roskette",
+  "description": "traditional Chamorro cornstarch cookies",
+  "nationality": [
+    "Guam",
+    "Mariana Islands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roskette-q7369003/roskette-q7369003-1.jpg",
+    "images/roskette-q7369003/roskette-q7369003-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7369003",
+    "themealdb": null
+  }
+}

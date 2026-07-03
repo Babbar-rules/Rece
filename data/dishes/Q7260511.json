@@ -1,0 +1,20 @@
+{
+  "id": "Q7260511",
+  "name": "Kalya",
+  "description": "soup (Russian cuisine)",
+  "nationality": [],
+  "region_cuisine": [
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/kalya-q7260511/kalya-q7260511-1.jpg",
+    "images/kalya-q7260511/kalya-q7260511-2.jpg",
+    "images/kalya-q7260511/kalya-q7260511-3.jpg",
+    "images/kalya-q7260511/kalya-q7260511-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7260511",
+    "themealdb": null
+  }
+}

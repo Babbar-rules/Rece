@@ -1,0 +1,18 @@
+{
+  "id": "Q7371070",
+  "name": "Penang laksa",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/penang-laksa-q7371070/penang-laksa-q7371070-1.jpg",
+    "images/penang-laksa-q7371070/penang-laksa-q7371070-2.jpg",
+    "images/penang-laksa-q7371070/penang-laksa-q7371070-3.jpg",
+    "images/penang-laksa-q7371070/penang-laksa-q7371070-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7371070",
+    "themealdb": null
+  }
+}

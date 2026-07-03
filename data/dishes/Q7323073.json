@@ -1,0 +1,18 @@
+{
+  "id": "Q7323073",
+  "name": "rice cracker",
+  "description": "cracker made from rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-cracker-q7323073/rice-cracker-q7323073-1.jpg",
+    "images/rice-cracker-q7323073/rice-cracker-q7323073-2.jpg",
+    "images/rice-cracker-q7323073/rice-cracker-q7323073-3.jpg",
+    "images/rice-cracker-q7323073/rice-cracker-q7323073-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7323073",
+    "themealdb": null
+  }
+}

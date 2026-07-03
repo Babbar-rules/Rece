@@ -1,0 +1,20 @@
+{
+  "id": "Q7360993",
+  "name": "rolled oyster",
+  "description": "seafood dish from Louisville, Kentucky, U.S. consisting of three oysters dipped in an egg-milk cornmeal batter (pastinga), rolled in cracker crumbs, and deep-fried",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rolled-oyster-q7360993/rolled-oyster-q7360993-1.jpg",
+    "images/rolled-oyster-q7360993/rolled-oyster-q7360993-2.jpg",
+    "images/rolled-oyster-q7360993/rolled-oyster-q7360993-3.jpg",
+    "images/rolled-oyster-q7360993/rolled-oyster-q7360993-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7360993",
+    "themealdb": null
+  }
+}

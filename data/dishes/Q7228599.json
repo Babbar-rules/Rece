@@ -1,0 +1,20 @@
+{
+  "id": "Q7228599",
+  "name": "Poolaki",
+  "description": "certain sort of candy typically made in Iran",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poolaki-q7228599/poolaki-q7228599-1.jpg",
+    "images/poolaki-q7228599/poolaki-q7228599-2.jpg",
+    "images/poolaki-q7228599/poolaki-q7228599-3.jpg",
+    "images/poolaki-q7228599/poolaki-q7228599-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7228599",
+    "themealdb": null
+  }
+}

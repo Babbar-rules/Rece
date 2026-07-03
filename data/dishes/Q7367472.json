@@ -1,0 +1,20 @@
+{
+  "id": "Q7367472",
+  "name": "Rosca",
+  "description": "Spanish bread dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosca-q7367472/rosca-q7367472-1.jpg",
+    "images/rosca-q7367472/rosca-q7367472-2.jpg",
+    "images/rosca-q7367472/rosca-q7367472-3.jpg",
+    "images/rosca-q7367472/rosca-q7367472-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7367472",
+    "themealdb": null
+  }
+}

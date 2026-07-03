@@ -1,0 +1,19 @@
+{
+  "id": "Q7271180",
+  "name": "queijadinha",
+  "description": "Brazilian dessert made of eggs and cheese",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/queijadinha-q7271180/queijadinha-q7271180-1.jpg",
+    "images/queijadinha-q7271180/queijadinha-q7271180-2.jpg",
+    "images/queijadinha-q7271180/queijadinha-q7271180-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7271180",
+    "themealdb": null
+  }
+}

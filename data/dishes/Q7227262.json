@@ -1,0 +1,20 @@
+{
+  "id": "Q7227262",
+  "name": "pomegranate soup",
+  "description": "Iranian and Iraqi dish",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pomegranate-soup-q7227262/pomegranate-soup-q7227262-1.jpg",
+    "images/pomegranate-soup-q7227262/pomegranate-soup-q7227262-2.jpg",
+    "images/pomegranate-soup-q7227262/pomegranate-soup-q7227262-3.jpg",
+    "images/pomegranate-soup-q7227262/pomegranate-soup-q7227262-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7227262",
+    "themealdb": null
+  }
+}

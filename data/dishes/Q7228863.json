@@ -1,0 +1,20 @@
+{
+  "id": "Q7228863",
+  "name": "Poornalu",
+  "description": "sweet snack food",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/poornalu-q7228863/poornalu-q7228863-1.jpg",
+    "images/poornalu-q7228863/poornalu-q7228863-2.jpg",
+    "images/poornalu-q7228863/poornalu-q7228863-3.jpg",
+    "images/poornalu-q7228863/poornalu-q7228863-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7228863",
+    "themealdb": null
+  }
+}

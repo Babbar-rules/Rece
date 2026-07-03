@@ -1,0 +1,18 @@
+{
+  "id": "Q7225765",
+  "name": "Polly",
+  "description": "Swedish candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/polly-q7225765/polly-q7225765-1.png",
+    "images/polly-q7225765/polly-q7225765-2.jpg",
+    "images/polly-q7225765/polly-q7225765-3.jpg",
+    "images/polly-q7225765/polly-q7225765-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7225765",
+    "themealdb": null
+  }
+}

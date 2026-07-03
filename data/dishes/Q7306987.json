@@ -1,0 +1,18 @@
+{
+  "id": "Q7306987",
+  "name": "Reese's Whipps",
+  "description": "Peanut butter candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/reeses-whipps-q7306987/reeses-whipps-q7306987-1.png",
+    "images/reeses-whipps-q7306987/reeses-whipps-q7306987-2.jpg",
+    "images/reeses-whipps-q7306987/reeses-whipps-q7306987-3.jpg",
+    "images/reeses-whipps-q7306987/reeses-whipps-q7306987-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7306987",
+    "themealdb": null
+  }
+}

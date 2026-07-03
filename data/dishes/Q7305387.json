@@ -1,0 +1,20 @@
+{
+  "id": "Q7305387",
+  "name": "Red slaw",
+  "description": "Condiment",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/red-slaw-q7305387/red-slaw-q7305387-1.jpg",
+    "images/red-slaw-q7305387/red-slaw-q7305387-2.jpg",
+    "images/red-slaw-q7305387/red-slaw-q7305387-3.jpg",
+    "images/red-slaw-q7305387/red-slaw-q7305387-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7305387",
+    "themealdb": null
+  }
+}

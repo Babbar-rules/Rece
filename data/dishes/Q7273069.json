@@ -1,0 +1,20 @@
+{
+  "id": "Q7273069",
+  "name": "Quzi",
+  "description": "roasted goat or lamb dish popular in Oman and the UAE",
+  "nationality": [
+    "Mesopotamia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quzi-q7273069/quzi-q7273069-1.jpg",
+    "images/quzi-q7273069/quzi-q7273069-2.jpg",
+    "images/quzi-q7273069/quzi-q7273069-3.jpg",
+    "images/quzi-q7273069/quzi-q7273069-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7273069",
+    "themealdb": null
+  }
+}

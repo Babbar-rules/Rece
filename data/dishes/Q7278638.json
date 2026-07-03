@@ -1,0 +1,20 @@
+{
+  "id": "Q7278638",
+  "name": "rabbit pie",
+  "description": "pie consisting of rabbit meat in a gravy",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rabbit-pie-q7278638/rabbit-pie-q7278638-1.jpg",
+    "images/rabbit-pie-q7278638/rabbit-pie-q7278638-2.jpg",
+    "images/rabbit-pie-q7278638/rabbit-pie-q7278638-3.jpg",
+    "images/rabbit-pie-q7278638/rabbit-pie-q7278638-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7278638",
+    "themealdb": null
+  }
+}

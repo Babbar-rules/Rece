@@ -1,0 +1,18 @@
+{
+  "id": "Q7234749",
+  "name": "lompe",
+  "description": "Norwegian flat potato bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lompe-q7234749/lompe-q7234749-1.jpg",
+    "images/lompe-q7234749/lompe-q7234749-2.jpg",
+    "images/lompe-q7234749/lompe-q7234749-3.jpg",
+    "images/lompe-q7234749/lompe-q7234749-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7234749",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7220724",
+  "name": "Roast duck",
+  "description": "roast duck in Nanjing and Guangdong",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roast-duck-q7220724/roast-duck-q7220724-1.jpg",
+    "images/roast-duck-q7220724/roast-duck-q7220724-2.jpg",
+    "images/roast-duck-q7220724/roast-duck-q7220724-3.jpg",
+    "images/roast-duck-q7220724/roast-duck-q7220724-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7220724",
+    "themealdb": null
+  }
+}

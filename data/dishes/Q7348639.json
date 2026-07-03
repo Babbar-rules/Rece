@@ -1,0 +1,20 @@
+{
+  "id": "Q7348639",
+  "name": "hinava",
+  "description": "Kadazandusun cuisine in Sabah",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hinava-q7348639/hinava-q7348639-1.jpg",
+    "images/hinava-q7348639/hinava-q7348639-2.jpg",
+    "images/hinava-q7348639/hinava-q7348639-3.jpg",
+    "images/hinava-q7348639/hinava-q7348639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7348639",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7313383",
+  "name": "bepang",
+  "description": "sweet dish in Malaysia",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [
+    "Malaysian cuisine"
+  ],
+  "images": [
+    "images/bepang-q7313383/bepang-q7313383-1.jpg",
+    "images/bepang-q7313383/bepang-q7313383-2.jpg",
+    "images/bepang-q7313383/bepang-q7313383-3.jpg",
+    "images/bepang-q7313383/bepang-q7313383-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7313383",
+    "themealdb": null
+  }
+}

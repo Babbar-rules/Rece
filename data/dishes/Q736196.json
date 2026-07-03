@@ -1,0 +1,20 @@
+{
+  "id": "Q736196",
+  "name": "Akafuku Mochi",
+  "description": "confectionery brand",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/akafuku-mochi-q736196/akafuku-mochi-q736196-1.jpg",
+    "images/akafuku-mochi-q736196/akafuku-mochi-q736196-2.jpg",
+    "images/akafuku-mochi-q736196/akafuku-mochi-q736196-3.jpg",
+    "images/akafuku-mochi-q736196/akafuku-mochi-q736196-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q736196",
+    "themealdb": null
+  }
+}

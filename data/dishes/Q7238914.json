@@ -1,0 +1,20 @@
+{
+  "id": "Q7238914",
+  "name": "prawn roll",
+  "description": "Australian foodstuff",
+  "nationality": [
+    "Australia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prawn-roll-q7238914/prawn-roll-q7238914-1.jpg",
+    "images/prawn-roll-q7238914/prawn-roll-q7238914-2.jpg",
+    "images/prawn-roll-q7238914/prawn-roll-q7238914-3.jpg",
+    "images/prawn-roll-q7238914/prawn-roll-q7238914-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7238914",
+    "themealdb": null
+  }
+}

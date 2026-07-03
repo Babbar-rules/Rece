@@ -1,0 +1,18 @@
+{
+  "id": "Q7220505",
+  "name": "Hong Kong Style Beef Entrails",
+  "description": "cantonese beef dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hong-kong-style-beef-entrails-q7220505/hong-kong-style-beef-entrails-q7220505-1.jpg",
+    "images/hong-kong-style-beef-entrails-q7220505/hong-kong-style-beef-entrails-q7220505-2.jpg",
+    "images/hong-kong-style-beef-entrails-q7220505/hong-kong-style-beef-entrails-q7220505-3.jpg",
+    "images/hong-kong-style-beef-entrails-q7220505/hong-kong-style-beef-entrails-q7220505-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7220505",
+    "themealdb": null
+  }
+}

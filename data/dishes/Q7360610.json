@@ -1,0 +1,20 @@
+{
+  "id": "Q7360610",
+  "name": "Rold Gold",
+  "description": "American brand of pretzels",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rold-gold-q7360610/rold-gold-q7360610-1.jpg",
+    "images/rold-gold-q7360610/rold-gold-q7360610-2.jpg",
+    "images/rold-gold-q7360610/rold-gold-q7360610-3.jpg",
+    "images/rold-gold-q7360610/rold-gold-q7360610-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7360610",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7367962",
+  "name": "kuih keria",
+  "description": "Indian-style of doughnut",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuih-keria-q7367962/kuih-keria-q7367962-1.jpg",
+    "images/kuih-keria-q7367962/kuih-keria-q7367962-2.jpg",
+    "images/kuih-keria-q7367962/kuih-keria-q7367962-3.jpg",
+    "images/kuih-keria-q7367962/kuih-keria-q7367962-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7367962",
+    "themealdb": null
+  }
+}

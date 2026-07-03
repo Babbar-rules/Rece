@@ -1,0 +1,18 @@
+{
+  "id": "Q7334731",
+  "name": "Ring Pop",
+  "description": "brand of fruit flavored lollipops",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ring-pop-q7334731/ring-pop-q7334731-1.jpg",
+    "images/ring-pop-q7334731/ring-pop-q7334731-2.jpg",
+    "images/ring-pop-q7334731/ring-pop-q7334731-3.jpg",
+    "images/ring-pop-q7334731/ring-pop-q7334731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7334731",
+    "themealdb": null
+  }
+}

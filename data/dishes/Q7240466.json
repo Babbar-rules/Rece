@@ -1,0 +1,20 @@
+{
+  "id": "Q7240466",
+  "name": "Premium Plus",
+  "description": "soda cracker brand",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/premium-plus-q7240466/premium-plus-q7240466-1.jpg",
+    "images/premium-plus-q7240466/premium-plus-q7240466-2.png",
+    "images/premium-plus-q7240466/premium-plus-q7240466-3.jpg",
+    "images/premium-plus-q7240466/premium-plus-q7240466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7240466",
+    "themealdb": null
+  }
+}

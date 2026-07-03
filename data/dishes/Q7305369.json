@@ -1,0 +1,20 @@
+{
+  "id": "Q7305369",
+  "name": "red pudding",
+  "description": "meat dish served mainly at chip shops in Scotland; made with beef, pork, pork rind or bacon, suet, rusk, wheat flour, spices, salt, beef fat and colouring, formed into a sausage shape, coated in a batter, deep fried, and served hot",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/red-pudding-q7305369/red-pudding-q7305369-1.jpg",
+    "images/red-pudding-q7305369/red-pudding-q7305369-2.jpg",
+    "images/red-pudding-q7305369/red-pudding-q7305369-3.jpg",
+    "images/red-pudding-q7305369/red-pudding-q7305369-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7305369",
+    "themealdb": null
+  }
+}

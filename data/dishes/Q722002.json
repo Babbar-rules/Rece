@@ -1,0 +1,22 @@
+{
+  "id": "Q722002",
+  "name": "paprikash",
+  "description": "Hungarian dish",
+  "nationality": [
+    "Hungary"
+  ],
+  "region_cuisine": [
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/paprikash-q722002/paprikash-q722002-1.jpg",
+    "images/paprikash-q722002/paprikash-q722002-2.jpg",
+    "images/paprikash-q722002/paprikash-q722002-3.jpg",
+    "images/paprikash-q722002/paprikash-q722002-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q722002",
+    "themealdb": null
+  }
+}

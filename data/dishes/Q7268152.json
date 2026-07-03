@@ -1,0 +1,20 @@
+{
+  "id": "Q7268152",
+  "name": "qottab",
+  "description": "deep-fried Iranian almond pastry",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/qottab-q7268152/qottab-q7268152-1.jpg",
+    "images/qottab-q7268152/qottab-q7268152-2.jpg",
+    "images/qottab-q7268152/qottab-q7268152-3.jpg",
+    "images/qottab-q7268152/qottab-q7268152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7268152",
+    "themealdb": null
+  }
+}

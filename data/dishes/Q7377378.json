@@ -1,0 +1,23 @@
+{
+  "id": "Q7377378",
+  "name": "Lempuk",
+  "description": "Food made from durian",
+  "nationality": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "region_cuisine": [
+    "dessert"
+  ],
+  "images": [
+    "images/lempuk-q7377378/lempuk-q7377378-1.jpg",
+    "images/lempuk-q7377378/lempuk-q7377378-2.jpg",
+    "images/lempuk-q7377378/lempuk-q7377378-3.jpg",
+    "images/lempuk-q7377378/lempuk-q7377378-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7377378",
+    "themealdb": null
+  }
+}

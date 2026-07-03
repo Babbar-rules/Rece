@@ -1,0 +1,20 @@
+{
+  "id": "Q7305197",
+  "name": "Red Vines",
+  "description": "brand of red licorice candy",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/red-vines-q7305197/red-vines-q7305197-1.jpg",
+    "images/red-vines-q7305197/red-vines-q7305197-2.jpeg",
+    "images/red-vines-q7305197/red-vines-q7305197-3.jpg",
+    "images/red-vines-q7305197/red-vines-q7305197-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7305197",
+    "themealdb": null
+  }
+}

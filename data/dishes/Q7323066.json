@@ -1,0 +1,72 @@
+{
+  "id": "Q7323066",
+  "name": "rice and peas",
+  "description": "traditional food within the West Indian Caribbean islands",
+  "nationality": [
+    "Jamaican"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/rice-and-peas-q7323066/rice-and-peas-q7323066-1.jpg",
+    "images/rice-and-peas-q7323066/rice-and-peas-q7323066-2.jpg",
+    "images/rice-and-peas-q7323066/rice-and-peas-q7323066-3.jpg",
+    "images/rice-and-peas-q7323066/rice-and-peas-q7323066-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53357",
+    "category": "Vegetarian",
+    "area": "Jamaican",
+    "instructions": "Equipment\r\nDutch oven\r\n\r\nAdd rice, coconut milk, kidney beans, water, kosher salt, allspice, and black pepper to a large pot and stir until combined. Lay green onions, thyme and Scotch bonnet pepper on top. Bring mixture to a boil.\r\nOnce boiling, reduce heat to low and cover with a lid. Allow to cook covered for 18 minutes over low heat, then remove from heat. Leave the lid on for an additional 5 minutes.\r\nOpen the lid and remove the green onion, Scotch bonnet pepper, and thyme. Fluff the rice and peas with a fork. Serve and enjoy.",
+    "ingredients": [
+      {
+        "ingredient": "Rice",
+        "measure": "2 cups"
+      },
+      {
+        "ingredient": "Coconut Milk",
+        "measure": "380g"
+      },
+      {
+        "ingredient": "Kidney Beans",
+        "measure": "450g"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Kosher Salt",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Ground Allspice",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Black Pepper",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Thyme",
+        "measure": "2 sprigs"
+      },
+      {
+        "ingredient": "Scotch Bonnet",
+        "measure": "1"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=swVY-6tUK5g",
+    "thumb": "https://www.themealdb.com/images/media/meals/pkyvrn1764878267.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7323066",
+    "themealdb": "53357"
+  }
+}

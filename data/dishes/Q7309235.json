@@ -1,0 +1,17 @@
+{
+  "id": "Q7309235",
+  "name": "Ayam pansuh",
+  "description": "Indonesian and Malaysian chicken dish",
+  "nationality": [
+    "Malaysia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayam-pansuh-q7309235/ayam-pansuh-q7309235-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7309235",
+    "themealdb": null
+  }
+}
