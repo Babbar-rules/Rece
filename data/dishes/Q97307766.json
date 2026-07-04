@@ -1,0 +1,20 @@
+{
+  "id": "Q97307766",
+  "name": "baayak Porridge",
+  "description": "variations of typical Indonesian food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baayak-porridge-q97307766/baayak-porridge-q97307766-1.jpg",
+    "images/baayak-porridge-q97307766/baayak-porridge-q97307766-2.jpg",
+    "images/baayak-porridge-q97307766/baayak-porridge-q97307766-3.jpg",
+    "images/baayak-porridge-q97307766/baayak-porridge-q97307766-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97307766",
+    "themealdb": null
+  }
+}

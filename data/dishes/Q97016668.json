@@ -1,0 +1,18 @@
+{
+  "id": "Q97016668",
+  "name": "lettuce sandwich",
+  "description": "type of sandwich wrap",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lettuce-sandwich-q97016668/lettuce-sandwich-q97016668-1.jpg",
+    "images/lettuce-sandwich-q97016668/lettuce-sandwich-q97016668-2.jpg",
+    "images/lettuce-sandwich-q97016668/lettuce-sandwich-q97016668-3.jpg",
+    "images/lettuce-sandwich-q97016668/lettuce-sandwich-q97016668-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97016668",
+    "themealdb": null
+  }
+}

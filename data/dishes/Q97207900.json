@@ -1,0 +1,20 @@
+{
+  "id": "Q97207900",
+  "name": "haşıl",
+  "description": "Turkish dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hasl-q97207900/hasl-q97207900-1.jpg",
+    "images/hasl-q97207900/hasl-q97207900-2.jpg",
+    "images/hasl-q97207900/hasl-q97207900-3.jpg",
+    "images/hasl-q97207900/hasl-q97207900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97207900",
+    "themealdb": null
+  }
+}

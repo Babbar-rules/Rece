@@ -1,0 +1,21 @@
+{
+  "id": "Q982758",
+  "name": "Marraqueta",
+  "description": "rolled type of bread",
+  "nationality": [
+    "Chile",
+    "Bolivia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/marraqueta-q982758/marraqueta-q982758-1.jpg",
+    "images/marraqueta-q982758/marraqueta-q982758-2.jpg",
+    "images/marraqueta-q982758/marraqueta-q982758-3.jpg",
+    "images/marraqueta-q982758/marraqueta-q982758-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q982758",
+    "themealdb": null
+  }
+}

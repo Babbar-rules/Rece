@@ -1,0 +1,20 @@
+{
+  "id": "Q97178289",
+  "name": "Kue putu mayang",
+  "description": "Indonesian rice dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kue-putu-mayang-q97178289/kue-putu-mayang-q97178289-1.jpg",
+    "images/kue-putu-mayang-q97178289/kue-putu-mayang-q97178289-2.jpg",
+    "images/kue-putu-mayang-q97178289/kue-putu-mayang-q97178289-3.jpg",
+    "images/kue-putu-mayang-q97178289/kue-putu-mayang-q97178289-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97178289",
+    "themealdb": null
+  }
+}

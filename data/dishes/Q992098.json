@@ -1,0 +1,17 @@
+{
+  "id": "Q992098",
+  "name": "bruckfleisch",
+  "description": "Austrian offal dish",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bruckfleisch-q992098/bruckfleisch-q992098-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q992098",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "Q964296",
+  "name": "Kulcha",
+  "description": "food",
+  "nationality": [
+    "India",
+    "Pakistan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kulcha-q964296/kulcha-q964296-1.jpg",
+    "images/kulcha-q964296/kulcha-q964296-2.jpg",
+    "images/kulcha-q964296/kulcha-q964296-3.jpg",
+    "images/kulcha-q964296/kulcha-q964296-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q964296",
+    "themealdb": null
+  }
+}

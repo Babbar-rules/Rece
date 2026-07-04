@@ -1,0 +1,22 @@
+{
+  "id": "Q973455",
+  "name": "parmigiana",
+  "description": "Italian dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Sicilian cuisine"
+  ],
+  "images": [
+    "images/parmigiana-q973455/parmigiana-q973455-1.jpg",
+    "images/parmigiana-q973455/parmigiana-q973455-2.jpg",
+    "images/parmigiana-q973455/parmigiana-q973455-3.jpg",
+    "images/parmigiana-q973455/parmigiana-q973455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q973455",
+    "themealdb": null
+  }
+}

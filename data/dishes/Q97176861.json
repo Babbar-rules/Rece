@@ -1,0 +1,18 @@
+{
+  "id": "Q97176861",
+  "name": "Ajari-mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ajari-mochi-q97176861/ajari-mochi-q97176861-1.jpg",
+    "images/ajari-mochi-q97176861/ajari-mochi-q97176861-2.jpg",
+    "images/ajari-mochi-q97176861/ajari-mochi-q97176861-3.jpg",
+    "images/ajari-mochi-q97176861/ajari-mochi-q97176861-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97176861",
+    "themealdb": null
+  }
+}

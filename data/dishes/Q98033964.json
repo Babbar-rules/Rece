@@ -1,0 +1,18 @@
+{
+  "id": "Q98033964",
+  "name": "Arctic Zero",
+  "description": "Company",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arctic-zero-q98033964/arctic-zero-q98033964-1.png",
+    "images/arctic-zero-q98033964/arctic-zero-q98033964-2.jpg",
+    "images/arctic-zero-q98033964/arctic-zero-q98033964-3.png",
+    "images/arctic-zero-q98033964/arctic-zero-q98033964-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98033964",
+    "themealdb": null
+  }
+}

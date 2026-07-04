@@ -1,0 +1,18 @@
+{
+  "id": "Q97205859",
+  "name": "Hi-Lemon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hi-lemon-q97205859/hi-lemon-q97205859-1.png",
+    "images/hi-lemon-q97205859/hi-lemon-q97205859-2.jpg",
+    "images/hi-lemon-q97205859/hi-lemon-q97205859-3.jpg",
+    "images/hi-lemon-q97205859/hi-lemon-q97205859-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97205859",
+    "themealdb": null
+  }
+}

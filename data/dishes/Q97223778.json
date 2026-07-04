@@ -1,0 +1,18 @@
+{
+  "id": "Q97223778",
+  "name": "peanut butter sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/peanut-butter-sandwich-q97223778/peanut-butter-sandwich-q97223778-1.jpg",
+    "images/peanut-butter-sandwich-q97223778/peanut-butter-sandwich-q97223778-2.jpg",
+    "images/peanut-butter-sandwich-q97223778/peanut-butter-sandwich-q97223778-3.jpg",
+    "images/peanut-butter-sandwich-q97223778/peanut-butter-sandwich-q97223778-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97223778",
+    "themealdb": null
+  }
+}

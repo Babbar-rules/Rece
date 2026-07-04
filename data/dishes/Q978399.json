@@ -1,0 +1,18 @@
+{
+  "id": "Q978399",
+  "name": "sun-dried tomato",
+  "description": "tomatoes which have been dried in the sun",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sun-dried-tomato-q978399/sun-dried-tomato-q978399-1.jpg",
+    "images/sun-dried-tomato-q978399/sun-dried-tomato-q978399-2.jpg",
+    "images/sun-dried-tomato-q978399/sun-dried-tomato-q978399-3.jpg",
+    "images/sun-dried-tomato-q978399/sun-dried-tomato-q978399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q978399",
+    "themealdb": null
+  }
+}

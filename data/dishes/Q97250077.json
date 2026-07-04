@@ -1,0 +1,20 @@
+{
+  "id": "Q97250077",
+  "name": "wælibæx",
+  "description": "Ossetian traditional pie",
+  "nationality": [
+    "Ossetia"
+  ],
+  "region_cuisine": [
+    "Ossetian cuisine"
+  ],
+  "images": [
+    "images/wlibx-q97250077/wlibx-q97250077-1.jpg",
+    "images/wlibx-q97250077/wlibx-q97250077-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97250077",
+    "themealdb": null
+  }
+}

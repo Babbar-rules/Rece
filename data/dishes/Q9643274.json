@@ -1,0 +1,18 @@
+{
+  "id": "Q9643274",
+  "name": "bafa",
+  "description": "Capeverdean cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bafa-q9643274/bafa-q9643274-1.jpg",
+    "images/bafa-q9643274/bafa-q9643274-2.jpg",
+    "images/bafa-q9643274/bafa-q9643274-3.jpg",
+    "images/bafa-q9643274/bafa-q9643274-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9643274",
+    "themealdb": null
+  }
+}

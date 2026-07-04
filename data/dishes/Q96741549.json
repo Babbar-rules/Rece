@@ -1,0 +1,20 @@
+{
+  "id": "Q96741549",
+  "name": "peynirli pide",
+  "description": "Turkish pide type",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/peynirli-pide-q96741549/peynirli-pide-q96741549-1.jpg",
+    "images/peynirli-pide-q96741549/peynirli-pide-q96741549-2.jpg",
+    "images/peynirli-pide-q96741549/peynirli-pide-q96741549-3.jpg",
+    "images/peynirli-pide-q96741549/peynirli-pide-q96741549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96741549",
+    "themealdb": null
+  }
+}

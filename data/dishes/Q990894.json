@@ -1,0 +1,18 @@
+{
+  "id": "Q990894",
+  "name": "wodzianka",
+  "description": "Polish bread-based soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wodzianka-q990894/wodzianka-q990894-1.png",
+    "images/wodzianka-q990894/wodzianka-q990894-2.jpg",
+    "images/wodzianka-q990894/wodzianka-q990894-3.jpg",
+    "images/wodzianka-q990894/wodzianka-q990894-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q990894",
+    "themealdb": null
+  }
+}

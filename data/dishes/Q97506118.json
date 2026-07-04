@@ -1,0 +1,18 @@
+{
+  "id": "Q97506118",
+  "name": "Blue Bunny",
+  "description": "brand of ice cream made by Wells Enterprises",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blue-bunny-q97506118/blue-bunny-q97506118-1.jpg",
+    "images/blue-bunny-q97506118/blue-bunny-q97506118-2.jpg",
+    "images/blue-bunny-q97506118/blue-bunny-q97506118-3.jpg",
+    "images/blue-bunny-q97506118/blue-bunny-q97506118-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97506118",
+    "themealdb": null
+  }
+}

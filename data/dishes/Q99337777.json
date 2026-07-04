@@ -1,0 +1,18 @@
+{
+  "id": "Q99337777",
+  "name": "tahinopita",
+  "description": "Cypriot cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tahinopita-q99337777/tahinopita-q99337777-1.jpg",
+    "images/tahinopita-q99337777/tahinopita-q99337777-2.jpg",
+    "images/tahinopita-q99337777/tahinopita-q99337777-3.jpg",
+    "images/tahinopita-q99337777/tahinopita-q99337777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99337777",
+    "themealdb": null
+  }
+}

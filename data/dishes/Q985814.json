@@ -1,0 +1,22 @@
+{
+  "id": "Q985814",
+  "name": "Banana roll",
+  "description": "common Chinese or Hongkonger pastry",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/banana-roll-q985814/banana-roll-q985814-1.jpg",
+    "images/banana-roll-q985814/banana-roll-q985814-2.jpg",
+    "images/banana-roll-q985814/banana-roll-q985814-3.jpg",
+    "images/banana-roll-q985814/banana-roll-q985814-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q985814",
+    "themealdb": null
+  }
+}

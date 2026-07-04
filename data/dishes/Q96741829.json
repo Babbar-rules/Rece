@@ -1,0 +1,20 @@
+{
+  "id": "Q96741829",
+  "name": "pide",
+  "description": "Turkish flatbread dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pide-q96741829/pide-q96741829-1.jpg",
+    "images/pide-q96741829/pide-q96741829-2.jpg",
+    "images/pide-q96741829/pide-q96741829-3.jpg",
+    "images/pide-q96741829/pide-q96741829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96741829",
+    "themealdb": null
+  }
+}

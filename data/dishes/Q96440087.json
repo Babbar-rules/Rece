@@ -1,0 +1,18 @@
+{
+  "id": "Q96440087",
+  "name": "kóe-tiâu",
+  "description": "dish with rice noodle as main ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/koe-tiau-q96440087/koe-tiau-q96440087-1.jpg",
+    "images/koe-tiau-q96440087/koe-tiau-q96440087-2.jpg",
+    "images/koe-tiau-q96440087/koe-tiau-q96440087-3.jpg",
+    "images/koe-tiau-q96440087/koe-tiau-q96440087-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96440087",
+    "themealdb": null
+  }
+}

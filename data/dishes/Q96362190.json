@@ -1,0 +1,18 @@
+{
+  "id": "Q96362190",
+  "name": "beef stock",
+  "description": "broth made from cooking beef and beef bones",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beef-stock-q96362190/beef-stock-q96362190-1.jpg",
+    "images/beef-stock-q96362190/beef-stock-q96362190-2.jpg",
+    "images/beef-stock-q96362190/beef-stock-q96362190-3.jpg",
+    "images/beef-stock-q96362190/beef-stock-q96362190-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96362190",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q98915607",
+  "name": "fish head gulai",
+  "description": "Indonesian curry-like dish originating from West Sumatra made using the head of a fish, usually snapper fish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fish-head-gulai-q98915607/fish-head-gulai-q98915607-1.jpg",
+    "images/fish-head-gulai-q98915607/fish-head-gulai-q98915607-2.jpg",
+    "images/fish-head-gulai-q98915607/fish-head-gulai-q98915607-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98915607",
+    "themealdb": null
+  }
+}

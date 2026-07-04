@@ -1,0 +1,18 @@
+{
+  "id": "Q96749544",
+  "name": "hors-d'œuvre",
+  "description": "appetizer in French cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hors-duvre-q96749544/hors-duvre-q96749544-1.jpg",
+    "images/hors-duvre-q96749544/hors-duvre-q96749544-2.jpg",
+    "images/hors-duvre-q96749544/hors-duvre-q96749544-3.jpg",
+    "images/hors-duvre-q96749544/hors-duvre-q96749544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96749544",
+    "themealdb": null
+  }
+}

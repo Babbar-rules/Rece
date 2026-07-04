@@ -1,0 +1,20 @@
+{
+  "id": "Q972267",
+  "name": "Porilainen",
+  "description": "sandwich and street food dish in Finnish cuisine",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/porilainen-q972267/porilainen-q972267-1.jpg",
+    "images/porilainen-q972267/porilainen-q972267-2.gif",
+    "images/porilainen-q972267/porilainen-q972267-3.jpg",
+    "images/porilainen-q972267/porilainen-q972267-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q972267",
+    "themealdb": null
+  }
+}

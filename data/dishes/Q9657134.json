@@ -1,0 +1,20 @@
+{
+  "id": "Q9657134",
+  "name": "bifana",
+  "description": "Portuguese pork sandwich",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bifana-q9657134/bifana-q9657134-1.jpg",
+    "images/bifana-q9657134/bifana-q9657134-2.jpg",
+    "images/bifana-q9657134/bifana-q9657134-3.jpg",
+    "images/bifana-q9657134/bifana-q9657134-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9657134",
+    "themealdb": null
+  }
+}

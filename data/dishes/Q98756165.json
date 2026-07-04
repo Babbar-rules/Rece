@@ -1,0 +1,19 @@
+{
+  "id": "Q98756165",
+  "name": "Havannets",
+  "description": "Argentine brand by Havanna",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/havannets-q98756165/havannets-q98756165-1.png",
+    "images/havannets-q98756165/havannets-q98756165-2.jpg",
+    "images/havannets-q98756165/havannets-q98756165-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98756165",
+    "themealdb": null
+  }
+}

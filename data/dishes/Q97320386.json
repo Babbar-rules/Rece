@@ -1,0 +1,18 @@
+{
+  "id": "Q97320386",
+  "name": "Kurdish pastry",
+  "description": "type of pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kurdish-pastry-q97320386/kurdish-pastry-q97320386-1.jpg",
+    "images/kurdish-pastry-q97320386/kurdish-pastry-q97320386-2.jpg",
+    "images/kurdish-pastry-q97320386/kurdish-pastry-q97320386-3.jpg",
+    "images/kurdish-pastry-q97320386/kurdish-pastry-q97320386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97320386",
+    "themealdb": null
+  }
+}

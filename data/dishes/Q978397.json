@@ -1,0 +1,20 @@
+{
+  "id": "Q978397",
+  "name": "tuna fish sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tuna-fish-sandwich-q978397/tuna-fish-sandwich-q978397-1.jpg",
+    "images/tuna-fish-sandwich-q978397/tuna-fish-sandwich-q978397-2.jpg",
+    "images/tuna-fish-sandwich-q978397/tuna-fish-sandwich-q978397-3.jpg",
+    "images/tuna-fish-sandwich-q978397/tuna-fish-sandwich-q978397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q978397",
+    "themealdb": null
+  }
+}

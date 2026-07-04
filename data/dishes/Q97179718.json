@@ -1,0 +1,18 @@
+{
+  "id": "Q97179718",
+  "name": "Telera",
+  "description": "bread from Cordoba, Spain",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/telera-q97179718/telera-q97179718-1.jpg",
+    "images/telera-q97179718/telera-q97179718-2.jpg",
+    "images/telera-q97179718/telera-q97179718-3.jpg",
+    "images/telera-q97179718/telera-q97179718-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97179718",
+    "themealdb": null
+  }
+}

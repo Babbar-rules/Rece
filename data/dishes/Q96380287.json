@@ -1,0 +1,18 @@
+{
+  "id": "Q96380287",
+  "name": "Sylheti Handesh",
+  "description": "sweet and puffy deep-fried pita",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sylheti-handesh-q96380287/sylheti-handesh-q96380287-1.jpg",
+    "images/sylheti-handesh-q96380287/sylheti-handesh-q96380287-2.jpg",
+    "images/sylheti-handesh-q96380287/sylheti-handesh-q96380287-3.jpg",
+    "images/sylheti-handesh-q96380287/sylheti-handesh-q96380287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96380287",
+    "themealdb": null
+  }
+}

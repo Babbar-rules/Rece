@@ -1,0 +1,20 @@
+{
+  "id": "Q97278843",
+  "name": "Chaoshan beef hot pot",
+  "description": "beef hot pot originated from Chaoshan, Guangdong, China",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chaoshan-beef-hot-pot-q97278843/chaoshan-beef-hot-pot-q97278843-1.jpg",
+    "images/chaoshan-beef-hot-pot-q97278843/chaoshan-beef-hot-pot-q97278843-2.jpg",
+    "images/chaoshan-beef-hot-pot-q97278843/chaoshan-beef-hot-pot-q97278843-3.jpg",
+    "images/chaoshan-beef-hot-pot-q97278843/chaoshan-beef-hot-pot-q97278843-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97278843",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q978405",
+  "name": "aziminu",
+  "description": "Corsican fish soup",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "cuisine of Corsica"
+  ],
+  "images": [
+    "images/aziminu-q978405/aziminu-q978405-1.jpg",
+    "images/aziminu-q978405/aziminu-q978405-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q978405",
+    "themealdb": null
+  }
+}

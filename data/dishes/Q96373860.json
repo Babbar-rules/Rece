@@ -1,0 +1,18 @@
+{
+  "id": "Q96373860",
+  "name": "Boulou",
+  "description": "Libyan Jewish sweet bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/boulou-q96373860/boulou-q96373860-1.jpg",
+    "images/boulou-q96373860/boulou-q96373860-2.jpg",
+    "images/boulou-q96373860/boulou-q96373860-3.jpg",
+    "images/boulou-q96373860/boulou-q96373860-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96373860",
+    "themealdb": null
+  }
+}

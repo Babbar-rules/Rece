@@ -1,0 +1,22 @@
+{
+  "id": "Q985580",
+  "name": "Dapanji",
+  "description": "Chinese and Dungan food with chicken, soy sauce and other Chinese ingredients",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/dapanji-q985580/dapanji-q985580-1.jpg",
+    "images/dapanji-q985580/dapanji-q985580-2.jpg",
+    "images/dapanji-q985580/dapanji-q985580-3.jpg",
+    "images/dapanji-q985580/dapanji-q985580-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q985580",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q962957",
+  "name": "tulumba",
+  "description": "dessert common to Egypt and other countries",
+  "nationality": [
+    "Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tulumba-q962957/tulumba-q962957-1.jpg",
+    "images/tulumba-q962957/tulumba-q962957-2.jpg",
+    "images/tulumba-q962957/tulumba-q962957-3.jpg",
+    "images/tulumba-q962957/tulumba-q962957-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q962957",
+    "themealdb": null
+  }
+}

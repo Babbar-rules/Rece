@@ -1,0 +1,20 @@
+{
+  "id": "Q96755419",
+  "name": "goat gulai",
+  "description": "Indonesian curry-like dish originating from Sumatra island with goat meat as main ingredient",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/goat-gulai-q96755419/goat-gulai-q96755419-1.jpg",
+    "images/goat-gulai-q96755419/goat-gulai-q96755419-2.jpg",
+    "images/goat-gulai-q96755419/goat-gulai-q96755419-3.jpg",
+    "images/goat-gulai-q96755419/goat-gulai-q96755419-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96755419",
+    "themealdb": null
+  }
+}

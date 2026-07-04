@@ -1,0 +1,22 @@
+{
+  "id": "Q980840",
+  "name": "gudeg",
+  "description": "Indonesian traditional dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/gudeg-q980840/gudeg-q980840-1.jpg",
+    "images/gudeg-q980840/gudeg-q980840-2.jpg",
+    "images/gudeg-q980840/gudeg-q980840-3.jpg",
+    "images/gudeg-q980840/gudeg-q980840-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q980840",
+    "themealdb": null
+  }
+}

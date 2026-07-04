@@ -1,0 +1,18 @@
+{
+  "id": "Q97376215",
+  "name": "bean-to-bar",
+  "description": "term created by the craft chocolate movement to describe the manufacturing process from cocoa bean to chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bean-to-bar-q97376215/bean-to-bar-q97376215-1.jpg",
+    "images/bean-to-bar-q97376215/bean-to-bar-q97376215-2.jpg",
+    "images/bean-to-bar-q97376215/bean-to-bar-q97376215-3.jpg",
+    "images/bean-to-bar-q97376215/bean-to-bar-q97376215-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97376215",
+    "themealdb": null
+  }
+}

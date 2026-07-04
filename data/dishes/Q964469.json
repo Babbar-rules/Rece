@@ -1,0 +1,18 @@
+{
+  "id": "Q964469",
+  "name": "Krotekake",
+  "description": "food",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/krotekake-q964469/krotekake-q964469-1.jpg",
+    "images/krotekake-q964469/krotekake-q964469-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q964469",
+    "themealdb": null
+  }
+}

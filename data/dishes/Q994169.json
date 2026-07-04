@@ -1,0 +1,22 @@
+{
+  "id": "Q994169",
+  "name": "Brunswick stew",
+  "description": "stew from the southern US, containing tomatoes, beans, corn, okra, and game meat (squirrel, rabbit, possum, or substituted with chicken)",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/brunswick-stew-q994169/brunswick-stew-q994169-1.jpg",
+    "images/brunswick-stew-q994169/brunswick-stew-q994169-2.jpg",
+    "images/brunswick-stew-q994169/brunswick-stew-q994169-3.jpg",
+    "images/brunswick-stew-q994169/brunswick-stew-q994169-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q994169",
+    "themealdb": null
+  }
+}

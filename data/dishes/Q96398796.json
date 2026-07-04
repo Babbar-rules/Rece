@@ -1,0 +1,20 @@
+{
+  "id": "Q96398796",
+  "name": "pepper and egg sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pepper-and-egg-sandwich-q96398796/pepper-and-egg-sandwich-q96398796-1.jpg",
+    "images/pepper-and-egg-sandwich-q96398796/pepper-and-egg-sandwich-q96398796-2.jpg",
+    "images/pepper-and-egg-sandwich-q96398796/pepper-and-egg-sandwich-q96398796-3.jpg",
+    "images/pepper-and-egg-sandwich-q96398796/pepper-and-egg-sandwich-q96398796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96398796",
+    "themealdb": null
+  }
+}

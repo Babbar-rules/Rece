@@ -1,0 +1,20 @@
+{
+  "id": "Q9630815",
+  "name": "Arroz gordo",
+  "description": "Macanese rice dish",
+  "nationality": [
+    "Macau"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-gordo-q9630815/arroz-gordo-q9630815-1.jpg",
+    "images/arroz-gordo-q9630815/arroz-gordo-q9630815-2.jpg",
+    "images/arroz-gordo-q9630815/arroz-gordo-q9630815-3.jpg",
+    "images/arroz-gordo-q9630815/arroz-gordo-q9630815-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9630815",
+    "themealdb": null
+  }
+}

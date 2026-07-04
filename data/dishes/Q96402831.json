@@ -1,0 +1,20 @@
+{
+  "id": "Q96402831",
+  "name": "roti bolen",
+  "description": "Indonesian bread",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/roti-bolen-q96402831/roti-bolen-q96402831-1.jpg",
+    "images/roti-bolen-q96402831/roti-bolen-q96402831-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96402831",
+    "themealdb": null
+  }
+}

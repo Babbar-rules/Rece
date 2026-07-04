@@ -1,0 +1,20 @@
+{
+  "id": "Q987686",
+  "name": "Moo shu pork",
+  "description": "American Chinese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/moo-shu-pork-q987686/moo-shu-pork-q987686-1.jpg",
+    "images/moo-shu-pork-q987686/moo-shu-pork-q987686-2.jpg",
+    "images/moo-shu-pork-q987686/moo-shu-pork-q987686-3.jpg",
+    "images/moo-shu-pork-q987686/moo-shu-pork-q987686-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q987686",
+    "themealdb": null
+  }
+}

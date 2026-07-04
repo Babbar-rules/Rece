@@ -1,0 +1,20 @@
+{
+  "id": "Q96404818",
+  "name": "saj bread",
+  "description": "unleavened bread baked on a griddle",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saj-bread-q96404818/saj-bread-q96404818-1.jpg",
+    "images/saj-bread-q96404818/saj-bread-q96404818-2.jpg",
+    "images/saj-bread-q96404818/saj-bread-q96404818-3.jpg",
+    "images/saj-bread-q96404818/saj-bread-q96404818-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96404818",
+    "themealdb": null
+  }
+}

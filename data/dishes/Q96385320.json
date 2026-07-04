@@ -1,0 +1,20 @@
+{
+  "id": "Q96385320",
+  "name": "Kanji",
+  "description": "Indian dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kanji-q96385320/kanji-q96385320-1.jpg",
+    "images/kanji-q96385320/kanji-q96385320-2.png",
+    "images/kanji-q96385320/kanji-q96385320-3.png",
+    "images/kanji-q96385320/kanji-q96385320-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96385320",
+    "themealdb": null
+  }
+}

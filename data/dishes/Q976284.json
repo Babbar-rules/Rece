@@ -1,0 +1,18 @@
+{
+  "id": "Q976284",
+  "name": "Violet candy",
+  "description": "confectionary made with essences of violet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/violet-candy-q976284/violet-candy-q976284-1.jpg",
+    "images/violet-candy-q976284/violet-candy-q976284-2.jpg",
+    "images/violet-candy-q976284/violet-candy-q976284-3.jpg",
+    "images/violet-candy-q976284/violet-candy-q976284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q976284",
+    "themealdb": null
+  }
+}

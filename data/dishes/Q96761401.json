@@ -1,0 +1,20 @@
+{
+  "id": "Q96761401",
+  "name": "saag paneer",
+  "description": "",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saag-paneer-q96761401/saag-paneer-q96761401-1.jpg",
+    "images/saag-paneer-q96761401/saag-paneer-q96761401-2.jpg",
+    "images/saag-paneer-q96761401/saag-paneer-q96761401-3.jpg",
+    "images/saag-paneer-q96761401/saag-paneer-q96761401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96761401",
+    "themealdb": null
+  }
+}

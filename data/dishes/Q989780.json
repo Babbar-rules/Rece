@@ -1,0 +1,20 @@
+{
+  "id": "Q989780",
+  "name": "St. Galler brot",
+  "description": "Swiss bread",
+  "nationality": [
+    "Canton of St. Gallen"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/st-galler-brot-q989780/st-galler-brot-q989780-1.jpg",
+    "images/st-galler-brot-q989780/st-galler-brot-q989780-2.jpg",
+    "images/st-galler-brot-q989780/st-galler-brot-q989780-3.jpg",
+    "images/st-galler-brot-q989780/st-galler-brot-q989780-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q989780",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q98915546",
+  "name": "kolmbeng",
+  "description": "a type of bread from Yogyakarta, Indonesia",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kolmbeng-q98915546/kolmbeng-q98915546-1.jpg",
+    "images/kolmbeng-q98915546/kolmbeng-q98915546-2.jpg",
+    "images/kolmbeng-q98915546/kolmbeng-q98915546-3.jpg",
+    "images/kolmbeng-q98915546/kolmbeng-q98915546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98915546",
+    "themealdb": null
+  }
+}

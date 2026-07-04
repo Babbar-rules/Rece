@@ -1,0 +1,20 @@
+{
+  "id": "Q970055",
+  "name": "gachamiga",
+  "description": "",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gachamiga-q970055/gachamiga-q970055-1.jpg",
+    "images/gachamiga-q970055/gachamiga-q970055-2.jpg",
+    "images/gachamiga-q970055/gachamiga-q970055-3.jpg",
+    "images/gachamiga-q970055/gachamiga-q970055-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q970055",
+    "themealdb": null
+  }
+}

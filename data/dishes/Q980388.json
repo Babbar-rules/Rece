@@ -1,0 +1,22 @@
+{
+  "id": "Q980388",
+  "name": "salteña",
+  "description": "Bolivian empanada",
+  "nationality": [
+    "Bolivia"
+  ],
+  "region_cuisine": [
+    "Bolivian cuisine"
+  ],
+  "images": [
+    "images/saltena-q980388/saltena-q980388-1.jpg",
+    "images/saltena-q980388/saltena-q980388-2.jpg",
+    "images/saltena-q980388/saltena-q980388-3.jpg",
+    "images/saltena-q980388/saltena-q980388-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q980388",
+    "themealdb": null
+  }
+}

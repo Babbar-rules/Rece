@@ -1,0 +1,20 @@
+{
+  "id": "Q98716450",
+  "name": "Chilpachole",
+  "description": "Mexican seafood stew",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chilpachole-q98716450/chilpachole-q98716450-1.jpg",
+    "images/chilpachole-q98716450/chilpachole-q98716450-2.jpg",
+    "images/chilpachole-q98716450/chilpachole-q98716450-3.jpg",
+    "images/chilpachole-q98716450/chilpachole-q98716450-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98716450",
+    "themealdb": null
+  }
+}

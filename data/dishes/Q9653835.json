@@ -1,0 +1,18 @@
+{
+  "id": "Q9653835",
+  "name": "Bem-casado",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bem-casado-q9653835/bem-casado-q9653835-1.jpg",
+    "images/bem-casado-q9653835/bem-casado-q9653835-2.jpg",
+    "images/bem-casado-q9653835/bem-casado-q9653835-3.jpg",
+    "images/bem-casado-q9653835/bem-casado-q9653835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9653835",
+    "themealdb": null
+  }
+}

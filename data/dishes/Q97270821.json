@@ -1,0 +1,23 @@
+{
+  "id": "Q97270821",
+  "name": "kömech",
+  "description": "Ugyhur traditional bread",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Uyghur cuisine",
+    "Xinjiang cuisine"
+  ],
+  "images": [
+    "images/komech-q97270821/komech-q97270821-1.jpg",
+    "images/komech-q97270821/komech-q97270821-2.jpg",
+    "images/komech-q97270821/komech-q97270821-3.jpg",
+    "images/komech-q97270821/komech-q97270821-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97270821",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q9753871",
+  "name": "mushroom tea",
+  "description": "infusion of mushrooms in water",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mushroom-tea-q9753871/mushroom-tea-q9753871-1.jpg",
+    "images/mushroom-tea-q9753871/mushroom-tea-q9753871-2.jpg",
+    "images/mushroom-tea-q9753871/mushroom-tea-q9753871-3.jpg",
+    "images/mushroom-tea-q9753871/mushroom-tea-q9753871-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9753871",
+    "themealdb": null
+  }
+}

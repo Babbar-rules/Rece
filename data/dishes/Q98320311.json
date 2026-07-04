@@ -1,0 +1,20 @@
+{
+  "id": "Q98320311",
+  "name": "suiton",
+  "description": "dumpling soup",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suiton-q98320311/suiton-q98320311-1.jpg",
+    "images/suiton-q98320311/suiton-q98320311-2.jpg",
+    "images/suiton-q98320311/suiton-q98320311-3.jpg",
+    "images/suiton-q98320311/suiton-q98320311-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98320311",
+    "themealdb": null
+  }
+}

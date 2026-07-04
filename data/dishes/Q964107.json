@@ -1,0 +1,20 @@
+{
+  "id": "Q964107",
+  "name": "chow mein",
+  "description": "fried noodles",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chow-mein-q964107/chow-mein-q964107-1.jpg",
+    "images/chow-mein-q964107/chow-mein-q964107-2.jpg",
+    "images/chow-mein-q964107/chow-mein-q964107-3.jpg",
+    "images/chow-mein-q964107/chow-mein-q964107-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q964107",
+    "themealdb": null
+  }
+}

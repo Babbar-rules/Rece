@@ -1,0 +1,20 @@
+{
+  "id": "Q977539",
+  "name": "mochi ice cream",
+  "description": "Japanese food mochi adapted to a dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mochi-ice-cream-q977539/mochi-ice-cream-q977539-1.jpg",
+    "images/mochi-ice-cream-q977539/mochi-ice-cream-q977539-2.jpg",
+    "images/mochi-ice-cream-q977539/mochi-ice-cream-q977539-3.jpg",
+    "images/mochi-ice-cream-q977539/mochi-ice-cream-q977539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q977539",
+    "themealdb": null
+  }
+}

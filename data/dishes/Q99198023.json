@@ -1,0 +1,20 @@
+{
+  "id": "Q99198023",
+  "name": "cheese dakgalbi",
+  "description": "Dakgalbi with cheese",
+  "nationality": [],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/cheese-dakgalbi-q99198023/cheese-dakgalbi-q99198023-1.jpeg",
+    "images/cheese-dakgalbi-q99198023/cheese-dakgalbi-q99198023-2.jpg",
+    "images/cheese-dakgalbi-q99198023/cheese-dakgalbi-q99198023-3.jpg",
+    "images/cheese-dakgalbi-q99198023/cheese-dakgalbi-q99198023-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99198023",
+    "themealdb": null
+  }
+}

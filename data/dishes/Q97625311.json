@@ -1,0 +1,20 @@
+{
+  "id": "Q97625311",
+  "name": "Fatit",
+  "description": "",
+  "nationality": [
+    "Saudi Arabia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fatit-q97625311/fatit-q97625311-1.jpg",
+    "images/fatit-q97625311/fatit-q97625311-2.jpg",
+    "images/fatit-q97625311/fatit-q97625311-3.jpg",
+    "images/fatit-q97625311/fatit-q97625311-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97625311",
+    "themealdb": null
+  }
+}

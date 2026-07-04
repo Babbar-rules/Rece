@@ -1,0 +1,20 @@
+{
+  "id": "Q97656573",
+  "name": "chonggak-kimchi",
+  "description": "",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chonggak-kimchi-q97656573/chonggak-kimchi-q97656573-1.jpg",
+    "images/chonggak-kimchi-q97656573/chonggak-kimchi-q97656573-2.jpg",
+    "images/chonggak-kimchi-q97656573/chonggak-kimchi-q97656573-3.jpg",
+    "images/chonggak-kimchi-q97656573/chonggak-kimchi-q97656573-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q97656573",
+    "themealdb": null
+  }
+}

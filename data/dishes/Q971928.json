@@ -1,0 +1,20 @@
+{
+  "id": "Q971928",
+  "name": "monaka",
+  "description": "Japanese confection",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/monaka-q971928/monaka-q971928-1.jpg",
+    "images/monaka-q971928/monaka-q971928-2.jpg",
+    "images/monaka-q971928/monaka-q971928-3.jpg",
+    "images/monaka-q971928/monaka-q971928-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q971928",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q98598236",
+  "name": "Badem şekeri",
+  "description": "sugar coated almond candy, typical of Turkey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/badem-sekeri-q98598236/badem-sekeri-q98598236-1.jpg",
+    "images/badem-sekeri-q98598236/badem-sekeri-q98598236-2.jpg",
+    "images/badem-sekeri-q98598236/badem-sekeri-q98598236-3.jpg",
+    "images/badem-sekeri-q98598236/badem-sekeri-q98598236-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98598236",
+    "themealdb": null
+  }
+}

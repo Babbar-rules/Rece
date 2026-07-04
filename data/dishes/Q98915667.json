@@ -1,0 +1,20 @@
+{
+  "id": "Q98915667",
+  "name": "lontong pical",
+  "description": "",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/lontong-pical-q98915667/lontong-pical-q98915667-1.jpg",
+    "images/lontong-pical-q98915667/lontong-pical-q98915667-2.jpg",
+    "images/lontong-pical-q98915667/lontong-pical-q98915667-3.jpg",
+    "images/lontong-pical-q98915667/lontong-pical-q98915667-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98915667",
+    "themealdb": null
+  }
+}

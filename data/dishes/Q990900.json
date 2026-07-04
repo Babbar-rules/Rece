@@ -1,0 +1,20 @@
+{
+  "id": "Q990900",
+  "name": "bread pudding",
+  "description": "bread-based dessert popular in many countries' cuisines",
+  "nationality": [
+    "Europe"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bread-pudding-q990900/bread-pudding-q990900-1.jpg",
+    "images/bread-pudding-q990900/bread-pudding-q990900-2.jpg",
+    "images/bread-pudding-q990900/bread-pudding-q990900-3.jpg",
+    "images/bread-pudding-q990900/bread-pudding-q990900-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q990900",
+    "themealdb": null
+  }
+}

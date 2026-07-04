@@ -1,0 +1,18 @@
+{
+  "id": "Q9744810",
+  "name": "cheque cheque",
+  "description": "type of Indo-Portuguese food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cheque-cheque-q9744810/cheque-cheque-q9744810-1.jpg",
+    "images/cheque-cheque-q9744810/cheque-cheque-q9744810-2.jpg",
+    "images/cheque-cheque-q9744810/cheque-cheque-q9744810-3.jpg",
+    "images/cheque-cheque-q9744810/cheque-cheque-q9744810-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9744810",
+    "themealdb": null
+  }
+}

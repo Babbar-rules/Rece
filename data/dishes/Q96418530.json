@@ -1,0 +1,22 @@
+{
+  "id": "Q96418530",
+  "name": "Frittelle",
+  "description": "Venetian doughnuts served during Carnival",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Venetian cuisine"
+  ],
+  "images": [
+    "images/frittelle-q96418530/frittelle-q96418530-1.jpg",
+    "images/frittelle-q96418530/frittelle-q96418530-2.jpeg",
+    "images/frittelle-q96418530/frittelle-q96418530-3.jpg",
+    "images/frittelle-q96418530/frittelle-q96418530-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96418530",
+    "themealdb": null
+  }
+}

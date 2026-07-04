@@ -1,0 +1,20 @@
+{
+  "id": "Q98915632",
+  "name": "grubi",
+  "description": "Indonesian sweets",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/grubi-q98915632/grubi-q98915632-1.jpg",
+    "images/grubi-q98915632/grubi-q98915632-2.jpg",
+    "images/grubi-q98915632/grubi-q98915632-3.jpg",
+    "images/grubi-q98915632/grubi-q98915632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98915632",
+    "themealdb": null
+  }
+}

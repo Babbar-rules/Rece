@@ -1,0 +1,22 @@
+{
+  "id": "Q980300",
+  "name": "joulutorttu",
+  "description": "Finnish christmas baked dessert",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/joulutorttu-q980300/joulutorttu-q980300-1.jpg",
+    "images/joulutorttu-q980300/joulutorttu-q980300-2.jpg",
+    "images/joulutorttu-q980300/joulutorttu-q980300-3.jpg",
+    "images/joulutorttu-q980300/joulutorttu-q980300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q980300",
+    "themealdb": null
+  }
+}

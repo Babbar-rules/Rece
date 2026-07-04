@@ -1,0 +1,21 @@
+{
+  "id": "Q96742825",
+  "name": "makaroni schotel",
+  "description": "Indonesian casserole dish",
+  "nationality": [
+    "Europe",
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/makaroni-schotel-q96742825/makaroni-schotel-q96742825-1.jpg",
+    "images/makaroni-schotel-q96742825/makaroni-schotel-q96742825-2.jpg",
+    "images/makaroni-schotel-q96742825/makaroni-schotel-q96742825-3.jpg",
+    "images/makaroni-schotel-q96742825/makaroni-schotel-q96742825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96742825",
+    "themealdb": null
+  }
+}

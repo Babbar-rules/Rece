@@ -1,0 +1,18 @@
+{
+  "id": "Q96325269",
+  "name": "Dubler Mohrenköpfe",
+  "description": "chocolate-coated marshmallow treats",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dubler-mohrenkopfe-q96325269/dubler-mohrenkopfe-q96325269-1.jpg",
+    "images/dubler-mohrenkopfe-q96325269/dubler-mohrenkopfe-q96325269-2.jpg",
+    "images/dubler-mohrenkopfe-q96325269/dubler-mohrenkopfe-q96325269-3.jpg",
+    "images/dubler-mohrenkopfe-q96325269/dubler-mohrenkopfe-q96325269-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96325269",
+    "themealdb": null
+  }
+}

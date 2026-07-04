@@ -1,0 +1,18 @@
+{
+  "id": "Q98141422",
+  "name": "Cheese Kamaboko",
+  "description": "Mixed product of cheese and surimi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cheese-kamaboko-q98141422/cheese-kamaboko-q98141422-1.png",
+    "images/cheese-kamaboko-q98141422/cheese-kamaboko-q98141422-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98141422",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q98078539",
+  "name": "dried fruit bread",
+  "description": "Sweet fruit and nut bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dried-fruit-bread-q98078539/dried-fruit-bread-q98078539-1.jpg",
+    "images/dried-fruit-bread-q98078539/dried-fruit-bread-q98078539-2.jpg",
+    "images/dried-fruit-bread-q98078539/dried-fruit-bread-q98078539-3.jpg",
+    "images/dried-fruit-bread-q98078539/dried-fruit-bread-q98078539-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98078539",
+    "themealdb": null
+  }
+}

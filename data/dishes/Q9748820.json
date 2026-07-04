@@ -1,0 +1,20 @@
+{
+  "id": "Q9748820",
+  "name": "chipa",
+  "description": "traditional food from Paraguay and northeastern Argentina",
+  "nationality": [
+    "Paraguay"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chipa-q9748820/chipa-q9748820-1.jpg",
+    "images/chipa-q9748820/chipa-q9748820-2.jpg",
+    "images/chipa-q9748820/chipa-q9748820-3.jpg",
+    "images/chipa-q9748820/chipa-q9748820-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9748820",
+    "themealdb": null
+  }
+}

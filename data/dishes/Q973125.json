@@ -1,0 +1,20 @@
+{
+  "id": "Q973125",
+  "name": "flódni",
+  "description": "layered cake",
+  "nationality": [
+    "Eastern Europe"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flodni-q973125/flodni-q973125-1.jpg",
+    "images/flodni-q973125/flodni-q973125-2.jpg",
+    "images/flodni-q973125/flodni-q973125-3.jpg",
+    "images/flodni-q973125/flodni-q973125-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q973125",
+    "themealdb": null
+  }
+}

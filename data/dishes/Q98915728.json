@@ -1,0 +1,22 @@
+{
+  "id": "Q98915728",
+  "name": "Gulai Kapau",
+  "description": "Authentic Indonesian food from West Sumatra",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/gulai-kapau-q98915728/gulai-kapau-q98915728-1.jpg",
+    "images/gulai-kapau-q98915728/gulai-kapau-q98915728-2.jpg",
+    "images/gulai-kapau-q98915728/gulai-kapau-q98915728-3.jpg",
+    "images/gulai-kapau-q98915728/gulai-kapau-q98915728-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98915728",
+    "themealdb": null
+  }
+}

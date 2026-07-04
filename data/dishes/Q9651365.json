@@ -1,0 +1,22 @@
+{
+  "id": "Q9651365",
+  "name": "Batatas a murro",
+  "description": "Portuguese potato dish",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [
+    "Portuguese cuisine"
+  ],
+  "images": [
+    "images/batatas-a-murro-q9651365/batatas-a-murro-q9651365-1.jpg",
+    "images/batatas-a-murro-q9651365/batatas-a-murro-q9651365-2.jpg",
+    "images/batatas-a-murro-q9651365/batatas-a-murro-q9651365-3.jpg",
+    "images/batatas-a-murro-q9651365/batatas-a-murro-q9651365-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9651365",
+    "themealdb": null
+  }
+}

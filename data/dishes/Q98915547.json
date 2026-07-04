@@ -1,0 +1,20 @@
+{
+  "id": "Q98915547",
+  "name": "coconut candy",
+  "description": "Indonesian sweets",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-candy-q98915547/coconut-candy-q98915547-1.jpg",
+    "images/coconut-candy-q98915547/coconut-candy-q98915547-2.jpg",
+    "images/coconut-candy-q98915547/coconut-candy-q98915547-3.jpg",
+    "images/coconut-candy-q98915547/coconut-candy-q98915547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98915547",
+    "themealdb": null
+  }
+}

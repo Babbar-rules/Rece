@@ -1,0 +1,22 @@
+{
+  "id": "Q96373297",
+  "name": "beach pizza",
+  "description": "style of pizza local to coastal northern New England",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of New England"
+  ],
+  "images": [
+    "images/beach-pizza-q96373297/beach-pizza-q96373297-1.jpg",
+    "images/beach-pizza-q96373297/beach-pizza-q96373297-2.jpg",
+    "images/beach-pizza-q96373297/beach-pizza-q96373297-3.jpg",
+    "images/beach-pizza-q96373297/beach-pizza-q96373297-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96373297",
+    "themealdb": null
+  }
+}

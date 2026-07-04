@@ -1,0 +1,20 @@
+{
+  "id": "Q98966083",
+  "name": "pipes and potatoes",
+  "description": "Gujarati potato dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Gujarati cuisine"
+  ],
+  "images": [
+    "images/pipes-and-potatoes-q98966083/pipes-and-potatoes-q98966083-1.png",
+    "images/pipes-and-potatoes-q98966083/pipes-and-potatoes-q98966083-2.jpg",
+    "images/pipes-and-potatoes-q98966083/pipes-and-potatoes-q98966083-3.png",
+    "images/pipes-and-potatoes-q98966083/pipes-and-potatoes-q98966083-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q98966083",
+    "themealdb": null
+  }
+}

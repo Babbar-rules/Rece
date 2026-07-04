@@ -1,0 +1,18 @@
+{
+  "id": "Q96742723",
+  "name": "favourite dish",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/favourite-dish-q96742723/favourite-dish-q96742723-1.jpg",
+    "images/favourite-dish-q96742723/favourite-dish-q96742723-2.jpg",
+    "images/favourite-dish-q96742723/favourite-dish-q96742723-3.jpg",
+    "images/favourite-dish-q96742723/favourite-dish-q96742723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96742723",
+    "themealdb": null
+  }
+}

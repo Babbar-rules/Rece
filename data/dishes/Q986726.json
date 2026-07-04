@@ -1,0 +1,18 @@
+{
+  "id": "Q986726",
+  "name": "ox-tongue pastry",
+  "description": "Chinese fried pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ox-tongue-pastry-q986726/ox-tongue-pastry-q986726-1.jpg",
+    "images/ox-tongue-pastry-q986726/ox-tongue-pastry-q986726-2.jpg",
+    "images/ox-tongue-pastry-q986726/ox-tongue-pastry-q986726-3.jpg",
+    "images/ox-tongue-pastry-q986726/ox-tongue-pastry-q986726-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q986726",
+    "themealdb": null
+  }
+}

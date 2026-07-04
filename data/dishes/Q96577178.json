@@ -1,0 +1,18 @@
+{
+  "id": "Q96577178",
+  "name": "pavé chocolate",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pave-chocolate-q96577178/pave-chocolate-q96577178-1.jpg",
+    "images/pave-chocolate-q96577178/pave-chocolate-q96577178-2.jpg",
+    "images/pave-chocolate-q96577178/pave-chocolate-q96577178-3.jpg",
+    "images/pave-chocolate-q96577178/pave-chocolate-q96577178-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96577178",
+    "themealdb": null
+  }
+}

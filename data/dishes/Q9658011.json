@@ -1,0 +1,20 @@
+{
+  "id": "Q9658011",
+  "name": "avoador",
+  "description": "cassava biscuits",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/avoador-q9658011/avoador-q9658011-1.jpg",
+    "images/avoador-q9658011/avoador-q9658011-2.jpg",
+    "images/avoador-q9658011/avoador-q9658011-3.jpg",
+    "images/avoador-q9658011/avoador-q9658011-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9658011",
+    "themealdb": null
+  }
+}

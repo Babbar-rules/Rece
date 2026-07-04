@@ -1,0 +1,20 @@
+{
+  "id": "Q965589",
+  "name": "pumpkin tortelli",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pumpkin-tortelli-q965589/pumpkin-tortelli-q965589-1.jpg",
+    "images/pumpkin-tortelli-q965589/pumpkin-tortelli-q965589-2.jpg",
+    "images/pumpkin-tortelli-q965589/pumpkin-tortelli-q965589-3.jpg",
+    "images/pumpkin-tortelli-q965589/pumpkin-tortelli-q965589-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q965589",
+    "themealdb": null
+  }
+}
