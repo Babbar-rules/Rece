@@ -1,0 +1,20 @@
+{
+  "id": "Q9055021",
+  "name": "Pan de yuca",
+  "description": "type of South American bread",
+  "nationality": [
+    "South America"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-de-yuca-q9055021/pan-de-yuca-q9055021-1.jpg",
+    "images/pan-de-yuca-q9055021/pan-de-yuca-q9055021-2.jpg",
+    "images/pan-de-yuca-q9055021/pan-de-yuca-q9055021-3.jpg",
+    "images/pan-de-yuca-q9055021/pan-de-yuca-q9055021-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9055021",
+    "themealdb": null
+  }
+}

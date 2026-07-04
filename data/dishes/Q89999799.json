@@ -1,0 +1,18 @@
+{
+  "id": "Q89999799",
+  "name": "mixed fruit jam",
+  "description": "type of fruit jam",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mixed-fruit-jam-q89999799/mixed-fruit-jam-q89999799-1.jpg",
+    "images/mixed-fruit-jam-q89999799/mixed-fruit-jam-q89999799-2.jpg",
+    "images/mixed-fruit-jam-q89999799/mixed-fruit-jam-q89999799-3.jpg",
+    "images/mixed-fruit-jam-q89999799/mixed-fruit-jam-q89999799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999799",
+    "themealdb": null
+  }
+}

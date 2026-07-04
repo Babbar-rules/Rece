@@ -1,0 +1,20 @@
+{
+  "id": "Q905204",
+  "name": "kakigōri",
+  "description": "Japanese shaved ice dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kakigori-q905204/kakigori-q905204-1.jpg",
+    "images/kakigori-q905204/kakigori-q905204-2.jpg",
+    "images/kakigori-q905204/kakigori-q905204-3.jpg",
+    "images/kakigori-q905204/kakigori-q905204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q905204",
+    "themealdb": null
+  }
+}

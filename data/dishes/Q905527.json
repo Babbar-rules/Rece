@@ -1,0 +1,22 @@
+{
+  "id": "Q905527",
+  "name": "takoyaki",
+  "description": "ball-shaped Japanese snack with octopus",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/takoyaki-q905527/takoyaki-q905527-1.jpg",
+    "images/takoyaki-q905527/takoyaki-q905527-2.jpg",
+    "images/takoyaki-q905527/takoyaki-q905527-3.jpg",
+    "images/takoyaki-q905527/takoyaki-q905527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q905527",
+    "themealdb": null
+  }
+}

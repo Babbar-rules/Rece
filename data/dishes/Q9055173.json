@@ -1,0 +1,22 @@
+{
+  "id": "Q9055173",
+  "name": "Paparajotes",
+  "description": "dessert in Spanish cousine",
+  "nationality": [
+    "Spain",
+    "Region of Murcia",
+    "Murcia City"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/paparajotes-q9055173/paparajotes-q9055173-1.jpg",
+    "images/paparajotes-q9055173/paparajotes-q9055173-2.jpg",
+    "images/paparajotes-q9055173/paparajotes-q9055173-3.jpg",
+    "images/paparajotes-q9055173/paparajotes-q9055173-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9055173",
+    "themealdb": null
+  }
+}

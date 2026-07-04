@@ -1,0 +1,18 @@
+{
+  "id": "Q9028419",
+  "name": "Mar i muntanya",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mar-i-muntanya-q9028419/mar-i-muntanya-q9028419-1.jpg",
+    "images/mar-i-muntanya-q9028419/mar-i-muntanya-q9028419-2.jpg",
+    "images/mar-i-muntanya-q9028419/mar-i-muntanya-q9028419-3.jpg",
+    "images/mar-i-muntanya-q9028419/mar-i-muntanya-q9028419-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9028419",
+    "themealdb": null
+  }
+}

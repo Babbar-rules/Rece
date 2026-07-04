@@ -1,0 +1,20 @@
+{
+  "id": "Q90224622",
+  "name": "Tarte à la tomate",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tarte-a-la-tomate-q90224622/tarte-a-la-tomate-q90224622-1.jpg",
+    "images/tarte-a-la-tomate-q90224622/tarte-a-la-tomate-q90224622-2.jpg",
+    "images/tarte-a-la-tomate-q90224622/tarte-a-la-tomate-q90224622-3.jpg",
+    "images/tarte-a-la-tomate-q90224622/tarte-a-la-tomate-q90224622-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q90224622",
+    "themealdb": null
+  }
+}

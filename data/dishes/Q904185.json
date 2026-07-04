@@ -1,0 +1,20 @@
+{
+  "id": "Q904185",
+  "name": "rose hip soup",
+  "description": "Swedish soup made from rose hips",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rose-hip-soup-q904185/rose-hip-soup-q904185-1.jpg",
+    "images/rose-hip-soup-q904185/rose-hip-soup-q904185-2.jpg",
+    "images/rose-hip-soup-q904185/rose-hip-soup-q904185-3.jpg",
+    "images/rose-hip-soup-q904185/rose-hip-soup-q904185-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q904185",
+    "themealdb": null
+  }
+}

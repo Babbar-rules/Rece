@@ -1,0 +1,18 @@
+{
+  "id": "Q9033890",
+  "name": "modeling chocolate",
+  "description": "chocolate paste used for decoration",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/modeling-chocolate-q9033890/modeling-chocolate-q9033890-1.jpg",
+    "images/modeling-chocolate-q9033890/modeling-chocolate-q9033890-2.jpg",
+    "images/modeling-chocolate-q9033890/modeling-chocolate-q9033890-3.jpg",
+    "images/modeling-chocolate-q9033890/modeling-chocolate-q9033890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9033890",
+    "themealdb": null
+  }
+}

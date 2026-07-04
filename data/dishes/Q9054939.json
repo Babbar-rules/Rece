@@ -1,0 +1,20 @@
+{
+  "id": "Q9054939",
+  "name": "pa de pagès",
+  "description": "traditional food of Catalonia",
+  "nationality": [],
+  "region_cuisine": [
+    "Catalan cuisine"
+  ],
+  "images": [
+    "images/pa-de-pages-q9054939/pa-de-pages-q9054939-1.jpg",
+    "images/pa-de-pages-q9054939/pa-de-pages-q9054939-2.jpg",
+    "images/pa-de-pages-q9054939/pa-de-pages-q9054939-3.jpg",
+    "images/pa-de-pages-q9054939/pa-de-pages-q9054939-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9054939",
+    "themealdb": null
+  }
+}

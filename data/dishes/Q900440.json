@@ -1,0 +1,20 @@
+{
+  "id": "Q900440",
+  "name": "butadon",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/butadon-q900440/butadon-q900440-1.jpg",
+    "images/butadon-q900440/butadon-q900440-2.jpg",
+    "images/butadon-q900440/butadon-q900440-3.jpg",
+    "images/butadon-q900440/butadon-q900440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q900440",
+    "themealdb": null
+  }
+}

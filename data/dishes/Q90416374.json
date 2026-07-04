@@ -1,0 +1,19 @@
+{
+  "id": "Q90416374",
+  "name": "Befanini",
+  "description": "traditional biscuits of Tuscany",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/befanini-q90416374/befanini-q90416374-1.jpg",
+    "images/befanini-q90416374/befanini-q90416374-2.jpg",
+    "images/befanini-q90416374/befanini-q90416374-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q90416374",
+    "themealdb": null
+  }
+}

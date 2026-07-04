@@ -1,0 +1,16 @@
+{
+  "id": "Q90001011",
+  "name": "Clementine jam",
+  "description": "Clementine jams",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/clementine-jam-q90001011/clementine-jam-q90001011-1.jpg",
+    "images/clementine-jam-q90001011/clementine-jam-q90001011-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q90001011",
+    "themealdb": null
+  }
+}

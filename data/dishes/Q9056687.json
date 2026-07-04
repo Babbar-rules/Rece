@@ -1,0 +1,18 @@
+{
+  "id": "Q9056687",
+  "name": "Pasta marquesa",
+  "description": "Christmas almond and marzipan pastries",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pasta-marquesa-q9056687/pasta-marquesa-q9056687-1.jpg",
+    "images/pasta-marquesa-q9056687/pasta-marquesa-q9056687-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9056687",
+    "themealdb": null
+  }
+}

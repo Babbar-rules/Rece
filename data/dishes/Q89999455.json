@@ -1,0 +1,18 @@
+{
+  "id": "Q89999455",
+  "name": "apricot jam",
+  "description": "jam made from apricots",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apricot-jam-q89999455/apricot-jam-q89999455-1.jpg",
+    "images/apricot-jam-q89999455/apricot-jam-q89999455-2.jpg",
+    "images/apricot-jam-q89999455/apricot-jam-q89999455-3.jpg",
+    "images/apricot-jam-q89999455/apricot-jam-q89999455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999455",
+    "themealdb": null
+  }
+}

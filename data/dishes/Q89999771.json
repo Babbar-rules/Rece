@@ -1,0 +1,18 @@
+{
+  "id": "Q89999771",
+  "name": "melon jam",
+  "description": "jam made from melons",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/melon-jam-q89999771/melon-jam-q89999771-1.jpg",
+    "images/melon-jam-q89999771/melon-jam-q89999771-2.jpg",
+    "images/melon-jam-q89999771/melon-jam-q89999771-3.jpg",
+    "images/melon-jam-q89999771/melon-jam-q89999771-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999771",
+    "themealdb": null
+  }
+}

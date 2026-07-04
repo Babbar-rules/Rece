@@ -1,0 +1,20 @@
+{
+  "id": "Q9026659",
+  "name": "macun şekeri",
+  "description": "traditional Turkish confectionery that comes in varios colours",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/macun-sekeri-q9026659/macun-sekeri-q9026659-1.jpg",
+    "images/macun-sekeri-q9026659/macun-sekeri-q9026659-2.jpg",
+    "images/macun-sekeri-q9026659/macun-sekeri-q9026659-3.jpg",
+    "images/macun-sekeri-q9026659/macun-sekeri-q9026659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9026659",
+    "themealdb": null
+  }
+}

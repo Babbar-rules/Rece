@@ -1,0 +1,20 @@
+{
+  "id": "Q9002202",
+  "name": "Hasma",
+  "description": "also known as Hashima, frog glands popular in Asia",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hasma-q9002202/hasma-q9002202-1.jpg",
+    "images/hasma-q9002202/hasma-q9002202-2.jpg",
+    "images/hasma-q9002202/hasma-q9002202-3.jpg",
+    "images/hasma-q9002202/hasma-q9002202-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9002202",
+    "themealdb": null
+  }
+}

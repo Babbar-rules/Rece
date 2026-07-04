@@ -1,0 +1,20 @@
+{
+  "id": "Q903997",
+  "name": "simit",
+  "description": "ring-shaped bread roll originating in Turkey, typically encrusted with sesame seeds",
+  "nationality": [
+    "Egypt"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/simit-q903997/simit-q903997-1.jpg",
+    "images/simit-q903997/simit-q903997-2.jpg",
+    "images/simit-q903997/simit-q903997-3.jpg",
+    "images/simit-q903997/simit-q903997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q903997",
+    "themealdb": null
+  }
+}

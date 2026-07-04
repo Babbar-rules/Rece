@@ -1,0 +1,18 @@
+{
+  "id": "Q90000772",
+  "name": "grape jam",
+  "description": "jam made from grapes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/grape-jam-q90000772/grape-jam-q90000772-1.jpg",
+    "images/grape-jam-q90000772/grape-jam-q90000772-2.jpg",
+    "images/grape-jam-q90000772/grape-jam-q90000772-3.jpg",
+    "images/grape-jam-q90000772/grape-jam-q90000772-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q90000772",
+    "themealdb": null
+  }
+}

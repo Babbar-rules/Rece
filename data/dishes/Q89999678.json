@@ -1,0 +1,18 @@
+{
+  "id": "Q89999678",
+  "name": "mango jam",
+  "description": "jam made from mangos",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mango-jam-q89999678/mango-jam-q89999678-1.jpg",
+    "images/mango-jam-q89999678/mango-jam-q89999678-2.jpg",
+    "images/mango-jam-q89999678/mango-jam-q89999678-3.jpg",
+    "images/mango-jam-q89999678/mango-jam-q89999678-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999678",
+    "themealdb": null
+  }
+}

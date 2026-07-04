@@ -1,0 +1,18 @@
+{
+  "id": "Q9056689",
+  "name": "alphabet pasta",
+  "description": "Pasta shaped like alphabet letters",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/alphabet-pasta-q9056689/alphabet-pasta-q9056689-1.jpg",
+    "images/alphabet-pasta-q9056689/alphabet-pasta-q9056689-2.jpg",
+    "images/alphabet-pasta-q9056689/alphabet-pasta-q9056689-3.jpg",
+    "images/alphabet-pasta-q9056689/alphabet-pasta-q9056689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9056689",
+    "themealdb": null
+  }
+}

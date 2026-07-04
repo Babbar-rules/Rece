@@ -1,0 +1,22 @@
+{
+  "id": "Q9018082",
+  "name": "Kulajda",
+  "description": "Bohemian cuisine soup",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [
+    "Czech cuisine"
+  ],
+  "images": [
+    "images/kulajda-q9018082/kulajda-q9018082-1.jpg",
+    "images/kulajda-q9018082/kulajda-q9018082-2.jpg",
+    "images/kulajda-q9018082/kulajda-q9018082-3.jpg",
+    "images/kulajda-q9018082/kulajda-q9018082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9018082",
+    "themealdb": null
+  }
+}

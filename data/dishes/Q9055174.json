@@ -1,0 +1,18 @@
+{
+  "id": "Q9055174",
+  "name": "papas de sarrabulho",
+  "description": "Portuguese meat stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/papas-de-sarrabulho-q9055174/papas-de-sarrabulho-q9055174-1.jpg",
+    "images/papas-de-sarrabulho-q9055174/papas-de-sarrabulho-q9055174-2.jpg",
+    "images/papas-de-sarrabulho-q9055174/papas-de-sarrabulho-q9055174-3.jpg",
+    "images/papas-de-sarrabulho-q9055174/papas-de-sarrabulho-q9055174-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9055174",
+    "themealdb": null
+  }
+}

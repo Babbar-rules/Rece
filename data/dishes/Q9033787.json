@@ -1,0 +1,18 @@
+{
+  "id": "Q9033787",
+  "name": "Mixiote",
+  "description": "Mixiote is a traditional pit-barbecued meat dish in central Mexico",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mixiote-q9033787/mixiote-q9033787-1.jpg",
+    "images/mixiote-q9033787/mixiote-q9033787-2.jpg",
+    "images/mixiote-q9033787/mixiote-q9033787-3.jpg",
+    "images/mixiote-q9033787/mixiote-q9033787-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9033787",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q905135",
+  "name": "hongeohoe",
+  "description": "type of fermented fish dish from Korea's Jeolla province",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hongeohoe-q905135/hongeohoe-q905135-1.jpg",
+    "images/hongeohoe-q905135/hongeohoe-q905135-2.jpg",
+    "images/hongeohoe-q905135/hongeohoe-q905135-3.jpg",
+    "images/hongeohoe-q905135/hongeohoe-q905135-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q905135",
+    "themealdb": null
+  }
+}

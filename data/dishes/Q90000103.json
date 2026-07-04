@@ -1,0 +1,18 @@
+{
+  "id": "Q90000103",
+  "name": "tropical fruit jam",
+  "description": "type of fruit jam",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tropical-fruit-jam-q90000103/tropical-fruit-jam-q90000103-1.jpg",
+    "images/tropical-fruit-jam-q90000103/tropical-fruit-jam-q90000103-2.jpg",
+    "images/tropical-fruit-jam-q90000103/tropical-fruit-jam-q90000103-3.jpg",
+    "images/tropical-fruit-jam-q90000103/tropical-fruit-jam-q90000103-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q90000103",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q9054907",
+  "name": "Pamirdin",
+  "description": "",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pamirdin-q9054907/pamirdin-q9054907-1.jpg",
+    "images/pamirdin-q9054907/pamirdin-q9054907-2.jpg",
+    "images/pamirdin-q9054907/pamirdin-q9054907-3.jpg",
+    "images/pamirdin-q9054907/pamirdin-q9054907-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9054907",
+    "themealdb": null
+  }
+}

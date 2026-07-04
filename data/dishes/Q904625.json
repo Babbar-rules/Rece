@@ -1,0 +1,20 @@
+{
+  "id": "Q904625",
+  "name": "bungeoppang",
+  "description": "Korean fish-shaped pastry",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bungeoppang-q904625/bungeoppang-q904625-1.jpg",
+    "images/bungeoppang-q904625/bungeoppang-q904625-2.jpg",
+    "images/bungeoppang-q904625/bungeoppang-q904625-3.jpg",
+    "images/bungeoppang-q904625/bungeoppang-q904625-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q904625",
+    "themealdb": null
+  }
+}

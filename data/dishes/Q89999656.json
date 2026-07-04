@@ -1,0 +1,16 @@
+{
+  "id": "Q89999656",
+  "name": "lychee jam",
+  "description": "jam made from lychees",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lychee-jam-q89999656/lychee-jam-q89999656-1.jpg",
+    "images/lychee-jam-q89999656/lychee-jam-q89999656-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999656",
+    "themealdb": null
+  }
+}

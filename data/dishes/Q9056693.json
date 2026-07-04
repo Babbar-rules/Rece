@@ -1,0 +1,21 @@
+{
+  "id": "Q9056693",
+  "name": "pastafrola",
+  "description": "type of sweet tart",
+  "nationality": [
+    "Uruguay",
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastafrola-q9056693/pastafrola-q9056693-1.jpg",
+    "images/pastafrola-q9056693/pastafrola-q9056693-2.jpg",
+    "images/pastafrola-q9056693/pastafrola-q9056693-3.jpg",
+    "images/pastafrola-q9056693/pastafrola-q9056693-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9056693",
+    "themealdb": null
+  }
+}

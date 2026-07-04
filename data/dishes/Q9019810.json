@@ -1,0 +1,20 @@
+{
+  "id": "Q9019810",
+  "name": "lacón con grelos",
+  "description": "Spanish meat dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Galician cuisine"
+  ],
+  "images": [
+    "images/lacon-con-grelos-q9019810/lacon-con-grelos-q9019810-1.jpg",
+    "images/lacon-con-grelos-q9019810/lacon-con-grelos-q9019810-2.jpg",
+    "images/lacon-con-grelos-q9019810/lacon-con-grelos-q9019810-3.jpg",
+    "images/lacon-con-grelos-q9019810/lacon-con-grelos-q9019810-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9019810",
+    "themealdb": null
+  }
+}

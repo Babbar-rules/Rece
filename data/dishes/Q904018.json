@@ -1,0 +1,18 @@
+{
+  "id": "Q904018",
+  "name": "Frumenty",
+  "description": "porridge of boiled grain in medieval Europe",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frumenty-q904018/frumenty-q904018-1.jpg",
+    "images/frumenty-q904018/frumenty-q904018-2.jpg",
+    "images/frumenty-q904018/frumenty-q904018-3.jpg",
+    "images/frumenty-q904018/frumenty-q904018-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q904018",
+    "themealdb": null
+  }
+}

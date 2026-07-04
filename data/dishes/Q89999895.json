@@ -1,0 +1,18 @@
+{
+  "id": "Q89999895",
+  "name": "Rhubarb jam",
+  "description": "Rhubarb jams",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rhubarb-jam-q89999895/rhubarb-jam-q89999895-1.jpg",
+    "images/rhubarb-jam-q89999895/rhubarb-jam-q89999895-2.jpg",
+    "images/rhubarb-jam-q89999895/rhubarb-jam-q89999895-3.jpg",
+    "images/rhubarb-jam-q89999895/rhubarb-jam-q89999895-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999895",
+    "themealdb": null
+  }
+}

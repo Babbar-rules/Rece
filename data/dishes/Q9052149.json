@@ -1,0 +1,20 @@
+{
+  "id": "Q9052149",
+  "name": "Olla de trigo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [
+    "cuisine of the province of Almería"
+  ],
+  "images": [
+    "images/olla-de-trigo-q9052149/olla-de-trigo-q9052149-1.jpg",
+    "images/olla-de-trigo-q9052149/olla-de-trigo-q9052149-2.jpg",
+    "images/olla-de-trigo-q9052149/olla-de-trigo-q9052149-3.jpg",
+    "images/olla-de-trigo-q9052149/olla-de-trigo-q9052149-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9052149",
+    "themealdb": null
+  }
+}

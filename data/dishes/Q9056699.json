@@ -1,0 +1,19 @@
+{
+  "id": "Q9056699",
+  "name": "Pastel de Chaves",
+  "description": "Portuguese savory pastry",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastel-de-chaves-q9056699/pastel-de-chaves-q9056699-1.jpg",
+    "images/pastel-de-chaves-q9056699/pastel-de-chaves-q9056699-2.jpg",
+    "images/pastel-de-chaves-q9056699/pastel-de-chaves-q9056699-3.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9056699",
+    "themealdb": null
+  }
+}

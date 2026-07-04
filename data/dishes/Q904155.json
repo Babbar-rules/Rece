@@ -1,0 +1,20 @@
+{
+  "id": "Q904155",
+  "name": "Dongchimi",
+  "description": "food",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dongchimi-q904155/dongchimi-q904155-1.jpg",
+    "images/dongchimi-q904155/dongchimi-q904155-2.jpg",
+    "images/dongchimi-q904155/dongchimi-q904155-3.jpg",
+    "images/dongchimi-q904155/dongchimi-q904155-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q904155",
+    "themealdb": null
+  }
+}
