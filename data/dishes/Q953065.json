@@ -1,0 +1,20 @@
+{
+  "id": "Q953065",
+  "name": "nam khao",
+  "description": "lao appetizer salad",
+  "nationality": [
+    "Laos"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nam-khao-q953065/nam-khao-q953065-1.jpg",
+    "images/nam-khao-q953065/nam-khao-q953065-2.jpg",
+    "images/nam-khao-q953065/nam-khao-q953065-3.png",
+    "images/nam-khao-q953065/nam-khao-q953065-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q953065",
+    "themealdb": null
+  }
+}

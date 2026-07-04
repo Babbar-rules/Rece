@@ -1,0 +1,22 @@
+{
+  "id": "Q96207588",
+  "name": "cheese tteokbokki",
+  "description": "Korean snack food",
+  "nationality": [
+    "South Korea"
+  ],
+  "region_cuisine": [
+    "South Korean cuisine"
+  ],
+  "images": [
+    "images/cheese-tteokbokki-q96207588/cheese-tteokbokki-q96207588-1.jpg",
+    "images/cheese-tteokbokki-q96207588/cheese-tteokbokki-q96207588-2.jpg",
+    "images/cheese-tteokbokki-q96207588/cheese-tteokbokki-q96207588-3.jpg",
+    "images/cheese-tteokbokki-q96207588/cheese-tteokbokki-q96207588-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96207588",
+    "themealdb": null
+  }
+}

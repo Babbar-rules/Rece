@@ -1,0 +1,20 @@
+{
+  "id": "Q956379",
+  "name": "quibebé",
+  "description": "semi-sweet winter squash stew",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quibebe-q956379/quibebe-q956379-1.jpg",
+    "images/quibebe-q956379/quibebe-q956379-2.jpg",
+    "images/quibebe-q956379/quibebe-q956379-3.jpg",
+    "images/quibebe-q956379/quibebe-q956379-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q956379",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Q951361",
+  "name": "Vatrushka",
+  "description": "type of pastry",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/vatrushka-q951361/vatrushka-q951361-1.jpeg",
+    "images/vatrushka-q951361/vatrushka-q951361-2.jpg",
+    "images/vatrushka-q951361/vatrushka-q951361-3.jpg",
+    "images/vatrushka-q951361/vatrushka-q951361-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q951361",
+    "themealdb": null
+  }
+}

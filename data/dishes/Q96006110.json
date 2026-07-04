@@ -1,0 +1,20 @@
+{
+  "id": "Q96006110",
+  "name": "pão na chapa",
+  "description": "Brazilian breakfast food",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/pao-na-chapa-q96006110/pao-na-chapa-q96006110-1.jpg",
+    "images/pao-na-chapa-q96006110/pao-na-chapa-q96006110-2.jpg",
+    "images/pao-na-chapa-q96006110/pao-na-chapa-q96006110-3.jpg",
+    "images/pao-na-chapa-q96006110/pao-na-chapa-q96006110-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96006110",
+    "themealdb": null
+  }
+}

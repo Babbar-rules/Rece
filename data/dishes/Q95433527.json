@@ -1,0 +1,18 @@
+{
+  "id": "Q95433527",
+  "name": "Rice pudding cake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-pudding-cake-q95433527/rice-pudding-cake-q95433527-1.jpg",
+    "images/rice-pudding-cake-q95433527/rice-pudding-cake-q95433527-2.jpg",
+    "images/rice-pudding-cake-q95433527/rice-pudding-cake-q95433527-3.jpg",
+    "images/rice-pudding-cake-q95433527/rice-pudding-cake-q95433527-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95433527",
+    "themealdb": null
+  }
+}

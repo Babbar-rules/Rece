@@ -1,0 +1,20 @@
+{
+  "id": "Q95972493",
+  "name": "Wawa Turkey, Apple & Cranberry Wrap",
+  "description": "dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wawa-turkey-apple-cranberry-wrap-q95972493/wawa-turkey-apple-cranberry-wrap-q95972493-1.jpg",
+    "images/wawa-turkey-apple-cranberry-wrap-q95972493/wawa-turkey-apple-cranberry-wrap-q95972493-2.jpg",
+    "images/wawa-turkey-apple-cranberry-wrap-q95972493/wawa-turkey-apple-cranberry-wrap-q95972493-3.jpg",
+    "images/wawa-turkey-apple-cranberry-wrap-q95972493/wawa-turkey-apple-cranberry-wrap-q95972493-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95972493",
+    "themealdb": null
+  }
+}

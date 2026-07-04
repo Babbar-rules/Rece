@@ -1,0 +1,20 @@
+{
+  "id": "Q96050496",
+  "name": "pizza funghi",
+  "description": "pizza with mushrooms",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-funghi-q96050496/pizza-funghi-q96050496-1.jpg",
+    "images/pizza-funghi-q96050496/pizza-funghi-q96050496-2.jpg",
+    "images/pizza-funghi-q96050496/pizza-funghi-q96050496-3.jpg",
+    "images/pizza-funghi-q96050496/pizza-funghi-q96050496-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96050496",
+    "themealdb": null
+  }
+}

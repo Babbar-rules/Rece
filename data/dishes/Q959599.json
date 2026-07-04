@@ -1,0 +1,22 @@
+{
+  "id": "Q959599",
+  "name": "arnadí",
+  "description": "dessert typical of the region of Valencia in Spain, made of pumpkin and sugar",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Valencian cuisine"
+  ],
+  "images": [
+    "images/arnadi-q959599/arnadi-q959599-1.jpg",
+    "images/arnadi-q959599/arnadi-q959599-2.jpg",
+    "images/arnadi-q959599/arnadi-q959599-3.jpg",
+    "images/arnadi-q959599/arnadi-q959599-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q959599",
+    "themealdb": null
+  }
+}

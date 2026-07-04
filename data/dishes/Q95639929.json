@@ -1,0 +1,19 @@
+{
+  "id": "Q95639929",
+  "name": "qizha",
+  "description": "semolina cake",
+  "nationality": [
+    "Syria",
+    "Palestine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/qizha-q95639929/qizha-q95639929-1.jpg",
+    "images/qizha-q95639929/qizha-q95639929-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95639929",
+    "themealdb": null
+  }
+}

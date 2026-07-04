@@ -1,0 +1,18 @@
+{
+  "id": "Q9628921",
+  "name": "Arjamolho",
+  "description": "cold raw soups from Portugal",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arjamolho-q9628921/arjamolho-q9628921-1.jpg",
+    "images/arjamolho-q9628921/arjamolho-q9628921-2.jpg",
+    "images/arjamolho-q9628921/arjamolho-q9628921-3.jpg",
+    "images/arjamolho-q9628921/arjamolho-q9628921-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9628921",
+    "themealdb": null
+  }
+}

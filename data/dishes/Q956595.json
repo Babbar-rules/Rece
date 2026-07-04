@@ -1,0 +1,22 @@
+{
+  "id": "Q956595",
+  "name": "idli",
+  "description": "breakfast in South India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [
+    "Indian cuisine"
+  ],
+  "images": [
+    "images/idli-q956595/idli-q956595-1.jpg",
+    "images/idli-q956595/idli-q956595-2.jpg",
+    "images/idli-q956595/idli-q956595-3.jpg",
+    "images/idli-q956595/idli-q956595-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q956595",
+    "themealdb": null
+  }
+}

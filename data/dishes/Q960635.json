@@ -1,0 +1,20 @@
+{
+  "id": "Q960635",
+  "name": "cat tongues",
+  "description": "tongue-shaped biscuits",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cat-tongues-q960635/cat-tongues-q960635-1.jpg",
+    "images/cat-tongues-q960635/cat-tongues-q960635-2.jpg",
+    "images/cat-tongues-q960635/cat-tongues-q960635-3.jpg",
+    "images/cat-tongues-q960635/cat-tongues-q960635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q960635",
+    "themealdb": null
+  }
+}

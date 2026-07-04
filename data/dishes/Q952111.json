@@ -1,0 +1,20 @@
+{
+  "id": "Q952111",
+  "name": "Podpłomyk",
+  "description": "food",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/podpomyk-q952111/podpomyk-q952111-1.jpg",
+    "images/podpomyk-q952111/podpomyk-q952111-2.jpg",
+    "images/podpomyk-q952111/podpomyk-q952111-3.jpg",
+    "images/podpomyk-q952111/podpomyk-q952111-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q952111",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q961051",
+  "name": "Cacciucco",
+  "description": "Italian stew",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cacciucco-q961051/cacciucco-q961051-1.jpg",
+    "images/cacciucco-q961051/cacciucco-q961051-2.jpg",
+    "images/cacciucco-q961051/cacciucco-q961051-3.jpg",
+    "images/cacciucco-q961051/cacciucco-q961051-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q961051",
+    "themealdb": null
+  }
+}

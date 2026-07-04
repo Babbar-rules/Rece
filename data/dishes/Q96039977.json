@@ -1,0 +1,20 @@
+{
+  "id": "Q96039977",
+  "name": "Huatape",
+  "description": "soup",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/huatape-q96039977/huatape-q96039977-1.jpg",
+    "images/huatape-q96039977/huatape-q96039977-2.jpg",
+    "images/huatape-q96039977/huatape-q96039977-3.png",
+    "images/huatape-q96039977/huatape-q96039977-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96039977",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q952366",
+  "name": "bocconotto",
+  "description": "type of pastry in Italia",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bocconotto-q952366/bocconotto-q952366-1.jpg",
+    "images/bocconotto-q952366/bocconotto-q952366-2.jpg",
+    "images/bocconotto-q952366/bocconotto-q952366-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q952366",
+    "themealdb": null
+  }
+}

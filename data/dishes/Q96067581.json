@@ -1,0 +1,23 @@
+{
+  "id": "Q96067581",
+  "name": "Zalabiyeh",
+  "description": "deep-fried pastry common to the Near East and Indian subcontinent",
+  "nationality": [
+    "Levant"
+  ],
+  "region_cuisine": [
+    "Palestinian cuisine",
+    "Levantine cuisine"
+  ],
+  "images": [
+    "images/zalabiyeh-q96067581/zalabiyeh-q96067581-1.jpg",
+    "images/zalabiyeh-q96067581/zalabiyeh-q96067581-2.jpg",
+    "images/zalabiyeh-q96067581/zalabiyeh-q96067581-3.jpg",
+    "images/zalabiyeh-q96067581/zalabiyeh-q96067581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96067581",
+    "themealdb": null
+  }
+}

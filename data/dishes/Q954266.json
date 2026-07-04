@@ -1,0 +1,20 @@
+{
+  "id": "Q954266",
+  "name": "mujigae-tteok",
+  "description": "rainbow rice cake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mujigae-tteok-q954266/mujigae-tteok-q954266-1.jpg",
+    "images/mujigae-tteok-q954266/mujigae-tteok-q954266-2.jpg",
+    "images/mujigae-tteok-q954266/mujigae-tteok-q954266-3.jpg",
+    "images/mujigae-tteok-q954266/mujigae-tteok-q954266-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q954266",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q96128235",
+  "name": "koppe pan",
+  "description": "type of bread roll of Japan",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/koppe-pan-q96128235/koppe-pan-q96128235-1.jpg",
+    "images/koppe-pan-q96128235/koppe-pan-q96128235-2.jpg",
+    "images/koppe-pan-q96128235/koppe-pan-q96128235-3.jpg",
+    "images/koppe-pan-q96128235/koppe-pan-q96128235-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96128235",
+    "themealdb": null
+  }
+}

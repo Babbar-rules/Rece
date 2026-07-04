@@ -1,0 +1,18 @@
+{
+  "id": "Q955779",
+  "name": "krapfen",
+  "description": "German dessert food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/krapfen-q955779/krapfen-q955779-1.jpg",
+    "images/krapfen-q955779/krapfen-q955779-2.jpg",
+    "images/krapfen-q955779/krapfen-q955779-3.jpg",
+    "images/krapfen-q955779/krapfen-q955779-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q955779",
+    "themealdb": null
+  }
+}

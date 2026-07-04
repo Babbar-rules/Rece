@@ -1,0 +1,19 @@
+{
+  "id": "Q95974446",
+  "name": "Balsamic Roasted Turkey Salad",
+  "description": "salad",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/balsamic-roasted-turkey-salad-q95974446/balsamic-roasted-turkey-salad-q95974446-1.jpg",
+    "images/balsamic-roasted-turkey-salad-q95974446/balsamic-roasted-turkey-salad-q95974446-2.jpg",
+    "images/balsamic-roasted-turkey-salad-q95974446/balsamic-roasted-turkey-salad-q95974446-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95974446",
+    "themealdb": null
+  }
+}

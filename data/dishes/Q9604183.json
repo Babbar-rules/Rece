@@ -1,0 +1,22 @@
+{
+  "id": "Q9604183",
+  "name": "aljotta",
+  "description": "Maltese fish soup",
+  "nationality": [
+    "Malta"
+  ],
+  "region_cuisine": [
+    "Maltese cuisine"
+  ],
+  "images": [
+    "images/aljotta-q9604183/aljotta-q9604183-1.jpg",
+    "images/aljotta-q9604183/aljotta-q9604183-2.jpg",
+    "images/aljotta-q9604183/aljotta-q9604183-3.jpg",
+    "images/aljotta-q9604183/aljotta-q9604183-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9604183",
+    "themealdb": null
+  }
+}

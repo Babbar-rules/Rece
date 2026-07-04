@@ -1,0 +1,49 @@
+{
+  "id": "Q957776",
+  "name": "Migas",
+  "description": "Spanish and Portuguese dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Andalusian cuisine",
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/migas-q957776/migas-q957776-1.png",
+    "images/migas-q957776/migas-q957776-2.jpg",
+    "images/migas-q957776/migas-q957776-3.jpg",
+    "images/migas-q957776/migas-q957776-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53086",
+    "category": "Miscellaneous",
+    "area": "Spanish",
+    "instructions": "Crumble the bread into small pieces. Sprinkle with cold water, cover with a damp cloth and leave for 30 minutes.\r\nHeat 2 tsp of olive oil in a deep pan. Add the garlic cloves separated, skins on; just make a small cut with a knife to open them and keep frying for 5 minutes. Set the garlic aside.\r\nIn the same oil, where we fried everything, simmer the bread, stirring constantly for 15 minutes and add a grinding of black pepper.\r\nAdd the garlic, continue stirring for about 20 minutes. It will be ready when the bread is soft and golden.",
+    "ingredients": [
+      {
+        "ingredient": "Bread",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1 1/2 L"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "Half"
+      },
+      {
+        "ingredient": "Pork",
+        "measure": "1 Handfull"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=GSvFVBpqMKI",
+    "thumb": "https://www.themealdb.com/images/media/meals/xd9aj21740432378.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q957776",
+    "themealdb": "53086"
+  }
+}

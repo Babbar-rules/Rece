@@ -1,0 +1,20 @@
+{
+  "id": "Q9576217",
+  "name": "Acaçá",
+  "description": "maize dish in Brazil",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/acaca-q9576217/acaca-q9576217-1.jpg",
+    "images/acaca-q9576217/acaca-q9576217-2.jpg",
+    "images/acaca-q9576217/acaca-q9576217-3.jpg",
+    "images/acaca-q9576217/acaca-q9576217-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9576217",
+    "themealdb": null
+  }
+}

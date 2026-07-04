@@ -1,0 +1,18 @@
+{
+  "id": "Q95974747",
+  "name": "turkey soup",
+  "description": "type of soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/turkey-soup-q95974747/turkey-soup-q95974747-1.jpg",
+    "images/turkey-soup-q95974747/turkey-soup-q95974747-2.jpg",
+    "images/turkey-soup-q95974747/turkey-soup-q95974747-3.jpg",
+    "images/turkey-soup-q95974747/turkey-soup-q95974747-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95974747",
+    "themealdb": null
+  }
+}

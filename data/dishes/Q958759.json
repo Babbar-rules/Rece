@@ -1,0 +1,20 @@
+{
+  "id": "Q958759",
+  "name": "bamiyeh",
+  "description": "",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bamiyeh-q958759/bamiyeh-q958759-1.jpg",
+    "images/bamiyeh-q958759/bamiyeh-q958759-2.jpg",
+    "images/bamiyeh-q958759/bamiyeh-q958759-3.jpg",
+    "images/bamiyeh-q958759/bamiyeh-q958759-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q958759",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q96000144",
+  "name": "vegan burger patty product",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegan-burger-patty-product-q96000144/vegan-burger-patty-product-q96000144-1.jpg",
+    "images/vegan-burger-patty-product-q96000144/vegan-burger-patty-product-q96000144-2.jpg",
+    "images/vegan-burger-patty-product-q96000144/vegan-burger-patty-product-q96000144-3.jpg",
+    "images/vegan-burger-patty-product-q96000144/vegan-burger-patty-product-q96000144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96000144",
+    "themealdb": null
+  }
+}

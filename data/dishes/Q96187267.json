@@ -1,0 +1,18 @@
+{
+  "id": "Q96187267",
+  "name": "Nasi kari",
+  "description": "Indonesian curry rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nasi-kari-q96187267/nasi-kari-q96187267-1.jpg",
+    "images/nasi-kari-q96187267/nasi-kari-q96187267-2.jpg",
+    "images/nasi-kari-q96187267/nasi-kari-q96187267-3.jpg",
+    "images/nasi-kari-q96187267/nasi-kari-q96187267-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96187267",
+    "themealdb": null
+  }
+}

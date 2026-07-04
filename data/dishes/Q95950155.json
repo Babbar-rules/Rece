@@ -1,0 +1,18 @@
+{
+  "id": "Q95950155",
+  "name": "Ishiyakiimo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ishiyakiimo-q95950155/ishiyakiimo-q95950155-1.jpg",
+    "images/ishiyakiimo-q95950155/ishiyakiimo-q95950155-2.jpg",
+    "images/ishiyakiimo-q95950155/ishiyakiimo-q95950155-3.jpg",
+    "images/ishiyakiimo-q95950155/ishiyakiimo-q95950155-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95950155",
+    "themealdb": null
+  }
+}

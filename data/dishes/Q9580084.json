@@ -1,0 +1,18 @@
+{
+  "id": "Q9580084",
+  "name": "Achar",
+  "description": "Indo-Portuguese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/achar-q9580084/achar-q9580084-1.jpg",
+    "images/achar-q9580084/achar-q9580084-2.jpg",
+    "images/achar-q9580084/achar-q9580084-3.jpg",
+    "images/achar-q9580084/achar-q9580084-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9580084",
+    "themealdb": null
+  }
+}

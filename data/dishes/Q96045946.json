@@ -1,0 +1,22 @@
+{
+  "id": "Q96045946",
+  "name": "hot roll",
+  "description": "deep-fried sushi rolls",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/hot-roll-q96045946/hot-roll-q96045946-1.jpg",
+    "images/hot-roll-q96045946/hot-roll-q96045946-2.jpg",
+    "images/hot-roll-q96045946/hot-roll-q96045946-3.jpg",
+    "images/hot-roll-q96045946/hot-roll-q96045946-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96045946",
+    "themealdb": null
+  }
+}
