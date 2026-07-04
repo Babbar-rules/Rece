@@ -1,0 +1,18 @@
+{
+  "id": "Q812607",
+  "name": "Bayrisch Blockmalz",
+  "description": "Bavarian hard candy",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bayrisch-blockmalz-q812607/bayrisch-blockmalz-q812607-1.jpg",
+    "images/bayrisch-blockmalz-q812607/bayrisch-blockmalz-q812607-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q812607",
+    "themealdb": null
+  }
+}

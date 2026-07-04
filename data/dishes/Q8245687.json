@@ -1,0 +1,20 @@
+{
+  "id": "Q8245687",
+  "name": "Beirut sandwich",
+  "description": "Brazilian sandwich",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beirut-sandwich-q8245687/beirut-sandwich-q8245687-1.jpg",
+    "images/beirut-sandwich-q8245687/beirut-sandwich-q8245687-2.jpg",
+    "images/beirut-sandwich-q8245687/beirut-sandwich-q8245687-3.jpg",
+    "images/beirut-sandwich-q8245687/beirut-sandwich-q8245687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8245687",
+    "themealdb": null
+  }
+}

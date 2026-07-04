@@ -1,0 +1,20 @@
+{
+  "id": "Q791790",
+  "name": "fricassee",
+  "description": "method of cooking meat",
+  "nationality": [],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/fricassee-q791790/fricassee-q791790-1.jpg",
+    "images/fricassee-q791790/fricassee-q791790-2.jpg",
+    "images/fricassee-q791790/fricassee-q791790-3.jpg",
+    "images/fricassee-q791790/fricassee-q791790-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q791790",
+    "themealdb": null
+  }
+}

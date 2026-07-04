@@ -1,0 +1,18 @@
+{
+  "id": "Q7991827",
+  "name": "Wheat Thins",
+  "description": "snack food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wheat-thins-q7991827/wheat-thins-q7991827-1.jpg",
+    "images/wheat-thins-q7991827/wheat-thins-q7991827-2.jpg",
+    "images/wheat-thins-q7991827/wheat-thins-q7991827-3.jpg",
+    "images/wheat-thins-q7991827/wheat-thins-q7991827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7991827",
+    "themealdb": null
+  }
+}

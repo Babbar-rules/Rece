@@ -1,0 +1,20 @@
+{
+  "id": "Q83397433",
+  "name": "doce de ovos",
+  "description": "Portuguese egg custard",
+  "nationality": [
+    "Portugal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/doce-de-ovos-q83397433/doce-de-ovos-q83397433-1.jpg",
+    "images/doce-de-ovos-q83397433/doce-de-ovos-q83397433-2.jpg",
+    "images/doce-de-ovos-q83397433/doce-de-ovos-q83397433-3.jpg",
+    "images/doce-de-ovos-q83397433/doce-de-ovos-q83397433-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83397433",
+    "themealdb": null
+  }
+}

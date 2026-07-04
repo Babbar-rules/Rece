@@ -1,0 +1,15 @@
+{
+  "id": "Q8048811",
+  "name": "Yankie Bar",
+  "description": "Danish chocolate bar",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8048811",
+    "themealdb": null
+  }
+}

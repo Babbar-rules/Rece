@@ -1,0 +1,20 @@
+{
+  "id": "Q818674",
+  "name": "meze",
+  "description": "small dish in the cuisine of the Near East and Balkans",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meze-q818674/meze-q818674-1.jpg",
+    "images/meze-q818674/meze-q818674-2.jpg",
+    "images/meze-q818674/meze-q818674-3.jpg",
+    "images/meze-q818674/meze-q818674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q818674",
+    "themealdb": null
+  }
+}

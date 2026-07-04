@@ -1,0 +1,15 @@
+{
+  "id": "Q83131350",
+  "name": "fusillini",
+  "description": "type of pasta, smaller version of fusilli",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83131350",
+    "themealdb": null
+  }
+}

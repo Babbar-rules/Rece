@@ -1,0 +1,18 @@
+{
+  "id": "Q7991676",
+  "name": "Whatchamacallit",
+  "description": "crisped rice candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/whatchamacallit-q7991676/whatchamacallit-q7991676-1.jpg",
+    "images/whatchamacallit-q7991676/whatchamacallit-q7991676-2.jpg",
+    "images/whatchamacallit-q7991676/whatchamacallit-q7991676-3.jpg",
+    "images/whatchamacallit-q7991676/whatchamacallit-q7991676-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7991676",
+    "themealdb": null
+  }
+}

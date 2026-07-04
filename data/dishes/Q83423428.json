@@ -1,0 +1,20 @@
+{
+  "id": "Q83423428",
+  "name": "Sfogliatelle",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sfogliatelle-q83423428/sfogliatelle-q83423428-1.jpg",
+    "images/sfogliatelle-q83423428/sfogliatelle-q83423428-2.jpg",
+    "images/sfogliatelle-q83423428/sfogliatelle-q83423428-3.jpg",
+    "images/sfogliatelle-q83423428/sfogliatelle-q83423428-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83423428",
+    "themealdb": null
+  }
+}

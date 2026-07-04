@@ -1,0 +1,84 @@
+{
+  "id": "Q816851",
+  "name": "cupcake",
+  "description": "type of small cake",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/cupcake-q816851/cupcake-q816851-1.jpg",
+    "images/cupcake-q816851/cupcake-q816851-2.jpg",
+    "images/cupcake-q816851/cupcake-q816851-3.jpg",
+    "images/cupcake-q816851/cupcake-q816851-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53224",
+    "category": "Dessert",
+    "area": "Saudi Arabian",
+    "instructions": "1\r\nFor Chocolate Cake:Ready all the ingredients. Powder the oreo biscuits, pinch salt and mix warm milk as needed and make a cake batter. Add in baking powder and vinegar and mix.\r\n2\r\nGrease a loose bottomed tin. Pour a 1cm thick layer of the batter.\r\n3\r\nBake in a preheated oven @160°C for 7-8 minutes or until the knife comes out clean. Cool on wire rack.\r\n4\r\nFor Homemade Pistachio Paste:Ready all the pistachio paste ingredients. Slightly melt white chocolate on a double boiler.(else the mixer blade may break) Coarsely powder the pistachio in mixer. Add in condensed milk.\r\n5\r\nAdd in slightly warmed and slightly melted white chocolate and milk as required and crush to a smooth paste.(Green food colour can be add. I haven't.)\r\n6\r\nFor Kunafa: In a kadhaai take ghee and roast the sevaiiya on slow gas. Keep stirring until a pleasant roasted aroma releases. Cool it. Add in the Homemade pistachio paste.Mix well.\r\n7\r\nLip smacking Kunafa is ready. Spread a 2 cm layer on the cooled chocolate cake.\r\n8\r\nMelt dark chocolate and strained malai and prepare the chocolate ganache. Cool and pour on the Kunafa layer.\r\n9\r\nGarnish Pistachio Kunafa Chocolate Cake with chopped pistachio and silver balls. Keep in fridge for 2-3 hours. Then unmould the Kunafa Cake.\r\n10\r\nI also prepared Kunafa cupcakes. Cut and enjoy. The cake looked so pretty that we could either save it or have it!! ☺\r\n11\r\nCross sectional view of the Pistachio Kunafa Chocolate Cake.\r\n12\r\nEnjoy with a new sweet delicacy this festive season with family and friends.",
+    "ingredients": [
+      {
+        "ingredient": "White Chocolate",
+        "measure": "6 tablespoons"
+      },
+      {
+        "ingredient": "Unsalted Pistachio",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Condensed Milk",
+        "measure": "3  tablespoons"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "5 tablespoons"
+      },
+      {
+        "ingredient": "Oreo Cream Biscuits",
+        "measure": "25"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Vinegar",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 pinch"
+      },
+      {
+        "ingredient": "Sevaiiya",
+        "measure": "150g"
+      },
+      {
+        "ingredient": "Ghee",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Dark Chocolate",
+        "measure": "120ml"
+      },
+      {
+        "ingredient": "Malai",
+        "measure": "4 tablespoons"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=vINcKAS7Ig8",
+    "thumb": "https://www.themealdb.com/images/media/meals/yh3sg71763741307.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q816851",
+    "themealdb": "53224"
+  }
+}

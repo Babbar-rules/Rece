@@ -1,0 +1,18 @@
+{
+  "id": "Q8059414",
+  "name": "Yowie",
+  "description": "chocolate",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yowie-q8059414/yowie-q8059414-1.jpg",
+    "images/yowie-q8059414/yowie-q8059414-2.jpg",
+    "images/yowie-q8059414/yowie-q8059414-3.png",
+    "images/yowie-q8059414/yowie-q8059414-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8059414",
+    "themealdb": null
+  }
+}

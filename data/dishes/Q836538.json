@@ -1,0 +1,76 @@
+{
+  "id": "Q836538",
+  "name": "tzatziki",
+  "description": "cold cucumber-yogurt dip, soup, or sauce",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [
+    "Greek cuisine"
+  ],
+  "images": [
+    "images/tzatziki-q836538/tzatziki-q836538-1.jpg",
+    "images/tzatziki-q836538/tzatziki-q836538-2.jpg",
+    "images/tzatziki-q836538/tzatziki-q836538-3.jpg",
+    "images/tzatziki-q836538/tzatziki-q836538-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53010",
+    "category": "Lamb",
+    "area": "Greek",
+    "instructions": "Tip the bulghar into a pan, cover with water and boil for 10 mins. Drain really well in a sieve, pressing out any excess water.\r\n\r\nTo make the tzatziki, squeeze and discard the juice from the cucumber, then mix into the yogurt with the chopped mint and a little salt.\r\n\r\nWork the bulghar into the lamb with the spices, garlic (if using) and seasoning, then shape into 4 burgers. Brush with a little oil and fry or barbecue for about 5 mins each side until cooked all the way through. Serve in the buns (toasted if you like) with the tzatziki, tomatoes, onion and a few mint leaves.",
+    "ingredients": [
+      {
+        "ingredient": "Bulgur Wheat",
+        "measure": "25g"
+      },
+      {
+        "ingredient": "Lamb Mince",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Cumin",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "1 clove finely chopped"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "For frying"
+      },
+      {
+        "ingredient": "Bun",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "Grated"
+      },
+      {
+        "ingredient": "Greek Yogurt",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Mint",
+        "measure": "2 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=s7_TF4ZHjPc",
+    "thumb": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q836538",
+    "themealdb": "53010"
+  }
+}

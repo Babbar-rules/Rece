@@ -1,0 +1,20 @@
+{
+  "id": "Q8018130",
+  "name": "Nabak kimchi",
+  "description": "watery kimchi made of thinly sliced Korean radish and napa cabbage",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nabak-kimchi-q8018130/nabak-kimchi-q8018130-1.jpg",
+    "images/nabak-kimchi-q8018130/nabak-kimchi-q8018130-2.jpg",
+    "images/nabak-kimchi-q8018130/nabak-kimchi-q8018130-3.jpg",
+    "images/nabak-kimchi-q8018130/nabak-kimchi-q8018130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8018130",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q8253265",
+  "name": "buchada de bode",
+  "description": "traditional Northeastern Brazilian dish made with goat offal cooked inside the stomach",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buchada-de-bode-q8253265/buchada-de-bode-q8253265-1.jpg",
+    "images/buchada-de-bode-q8253265/buchada-de-bode-q8253265-2.jpg",
+    "images/buchada-de-bode-q8253265/buchada-de-bode-q8253265-3.jpg",
+    "images/buchada-de-bode-q8253265/buchada-de-bode-q8253265-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8253265",
+    "themealdb": null
+  }
+}

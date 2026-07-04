@@ -1,0 +1,20 @@
+{
+  "id": "Q8068822",
+  "name": "zelnik",
+  "description": "savory pie from the Balkans",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zelnik-q8068822/zelnik-q8068822-1.jpg",
+    "images/zelnik-q8068822/zelnik-q8068822-2.jpg",
+    "images/zelnik-q8068822/zelnik-q8068822-3.jpg",
+    "images/zelnik-q8068822/zelnik-q8068822-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8068822",
+    "themealdb": null
+  }
+}

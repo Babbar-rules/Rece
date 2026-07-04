@@ -1,0 +1,20 @@
+{
+  "id": "Q829243",
+  "name": "Donauwelle",
+  "description": "cake in Germany and Austria",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/donauwelle-q829243/donauwelle-q829243-1.jpg",
+    "images/donauwelle-q829243/donauwelle-q829243-2.jpg",
+    "images/donauwelle-q829243/donauwelle-q829243-3.jpg",
+    "images/donauwelle-q829243/donauwelle-q829243-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q829243",
+    "themealdb": null
+  }
+}

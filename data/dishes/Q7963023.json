@@ -1,0 +1,20 @@
+{
+  "id": "Q7963023",
+  "name": "Wallenbergare",
+  "description": "Swedish dish generally consisting of ground veal, cream, egg yolks and coated in breadcrumbs",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wallenbergare-q7963023/wallenbergare-q7963023-1.jpg",
+    "images/wallenbergare-q7963023/wallenbergare-q7963023-2.jpg",
+    "images/wallenbergare-q7963023/wallenbergare-q7963023-3.jpg",
+    "images/wallenbergare-q7963023/wallenbergare-q7963023-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7963023",
+    "themealdb": null
+  }
+}

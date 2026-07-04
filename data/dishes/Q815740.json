@@ -1,0 +1,22 @@
+{
+  "id": "Q815740",
+  "name": "surimi",
+  "description": "meat paste, usually made from fish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/surimi-q815740/surimi-q815740-1.jpg",
+    "images/surimi-q815740/surimi-q815740-2.jpg",
+    "images/surimi-q815740/surimi-q815740-3.jpg",
+    "images/surimi-q815740/surimi-q815740-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q815740",
+    "themealdb": null
+  }
+}

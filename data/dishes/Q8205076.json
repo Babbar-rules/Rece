@@ -1,0 +1,18 @@
+{
+  "id": "Q8205076",
+  "name": "Arroz a la cazuela",
+  "description": "Spanish rice dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-a-la-cazuela-q8205076/arroz-a-la-cazuela-q8205076-1.jpg",
+    "images/arroz-a-la-cazuela-q8205076/arroz-a-la-cazuela-q8205076-2.jpg",
+    "images/arroz-a-la-cazuela-q8205076/arroz-a-la-cazuela-q8205076-3.jpg",
+    "images/arroz-a-la-cazuela-q8205076/arroz-a-la-cazuela-q8205076-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8205076",
+    "themealdb": null
+  }
+}

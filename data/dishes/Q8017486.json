@@ -1,0 +1,20 @@
+{
+  "id": "Q8017486",
+  "name": "hoe-deopbap",
+  "description": "raw fish bibimbap",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hoe-deopbap-q8017486/hoe-deopbap-q8017486-1.jpg",
+    "images/hoe-deopbap-q8017486/hoe-deopbap-q8017486-2.jpg",
+    "images/hoe-deopbap-q8017486/hoe-deopbap-q8017486-3.jpg",
+    "images/hoe-deopbap-q8017486/hoe-deopbap-q8017486-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8017486",
+    "themealdb": null
+  }
+}

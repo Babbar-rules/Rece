@@ -1,0 +1,22 @@
+{
+  "id": "Q806097",
+  "name": "banana bread",
+  "description": "type of bread or cake made with bananas",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/banana-bread-q806097/banana-bread-q806097-1.jpg",
+    "images/banana-bread-q806097/banana-bread-q806097-2.jpg",
+    "images/banana-bread-q806097/banana-bread-q806097-3.jpg",
+    "images/banana-bread-q806097/banana-bread-q806097-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q806097",
+    "themealdb": null
+  }
+}

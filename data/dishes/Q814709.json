@@ -1,0 +1,20 @@
+{
+  "id": "Q814709",
+  "name": "beignet",
+  "description": "pastry",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/beignet-q814709/beignet-q814709-1.jpg",
+    "images/beignet-q814709/beignet-q814709-2.jpg",
+    "images/beignet-q814709/beignet-q814709-3.jpg",
+    "images/beignet-q814709/beignet-q814709-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q814709",
+    "themealdb": null
+  }
+}

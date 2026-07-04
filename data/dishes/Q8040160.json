@@ -1,0 +1,15 @@
+{
+  "id": "Q8040160",
+  "name": "wyngz",
+  "description": "chicken food product in the shape of a chicken wing or a bite-size appetizer-type product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wyngz-q8040160/wyngz-q8040160-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8040160",
+    "themealdb": null
+  }
+}

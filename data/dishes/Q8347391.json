@@ -1,0 +1,20 @@
+{
+  "id": "Q8347391",
+  "name": "cochinillo asado",
+  "description": "Spanish pork dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cochinillo-asado-q8347391/cochinillo-asado-q8347391-1.jpg",
+    "images/cochinillo-asado-q8347391/cochinillo-asado-q8347391-2.jpg",
+    "images/cochinillo-asado-q8347391/cochinillo-asado-q8347391-3.jpg",
+    "images/cochinillo-asado-q8347391/cochinillo-asado-q8347391-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8347391",
+    "themealdb": null
+  }
+}

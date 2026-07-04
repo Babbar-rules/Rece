@@ -1,0 +1,13 @@
+{
+  "id": "Q7998075",
+  "name": "Wibbly Wobbly Wonder",
+  "description": "ice-cream product",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7998075",
+    "themealdb": null
+  }
+}

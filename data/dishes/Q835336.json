@@ -1,0 +1,20 @@
+{
+  "id": "Q835336",
+  "name": "cart noodle",
+  "description": "Noodle dish which became popular in Hong Kong in the 1950s through being sold by street vendors from carts",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cart-noodle-q835336/cart-noodle-q835336-1.jpg",
+    "images/cart-noodle-q835336/cart-noodle-q835336-2.jpg",
+    "images/cart-noodle-q835336/cart-noodle-q835336-3.jpg",
+    "images/cart-noodle-q835336/cart-noodle-q835336-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q835336",
+    "themealdb": null
+  }
+}

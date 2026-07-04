@@ -1,0 +1,20 @@
+{
+  "id": "Q831381",
+  "name": "Bethmännchen",
+  "description": "Hessian pastry specialty",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bethmannchen-q831381/bethmannchen-q831381-1.jpg",
+    "images/bethmannchen-q831381/bethmannchen-q831381-2.jpg",
+    "images/bethmannchen-q831381/bethmannchen-q831381-3.jpg",
+    "images/bethmannchen-q831381/bethmannchen-q831381-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q831381",
+    "themealdb": null
+  }
+}

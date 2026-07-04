@@ -1,0 +1,18 @@
+{
+  "id": "Q81799",
+  "name": "fast food",
+  "description": "food prepared and served quickly",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fast-food-q81799/fast-food-q81799-1.jpg",
+    "images/fast-food-q81799/fast-food-q81799-2.jpg",
+    "images/fast-food-q81799/fast-food-q81799-3.jpg",
+    "images/fast-food-q81799/fast-food-q81799-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81799",
+    "themealdb": null
+  }
+}

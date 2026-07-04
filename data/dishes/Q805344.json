@@ -1,0 +1,18 @@
+{
+  "id": "Q805344",
+  "name": "Ballotine",
+  "description": "preparation of poultry leg meat",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ballotine-q805344/ballotine-q805344-1.jpg",
+    "images/ballotine-q805344/ballotine-q805344-2.jpg",
+    "images/ballotine-q805344/ballotine-q805344-3.jpg",
+    "images/ballotine-q805344/ballotine-q805344-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q805344",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q8255086",
+  "name": "calas",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/calas-q8255086/calas-q8255086-1.jpg",
+    "images/calas-q8255086/calas-q8255086-2.jpg",
+    "images/calas-q8255086/calas-q8255086-3.jpg",
+    "images/calas-q8255086/calas-q8255086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8255086",
+    "themealdb": null
+  }
+}

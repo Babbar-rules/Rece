@@ -1,0 +1,20 @@
+{
+  "id": "Q7963703",
+  "name": "Walnut Whip",
+  "description": "Chocolate confection by Nestlé",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/walnut-whip-q7963703/walnut-whip-q7963703-1.jpg",
+    "images/walnut-whip-q7963703/walnut-whip-q7963703-2.jpg",
+    "images/walnut-whip-q7963703/walnut-whip-q7963703-3.jpg",
+    "images/walnut-whip-q7963703/walnut-whip-q7963703-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7963703",
+    "themealdb": null
+  }
+}

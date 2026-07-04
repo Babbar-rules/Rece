@@ -1,0 +1,20 @@
+{
+  "id": "Q834563",
+  "name": "Jiuniang",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jiuniang-q834563/jiuniang-q834563-1.jpg",
+    "images/jiuniang-q834563/jiuniang-q834563-2.jpg",
+    "images/jiuniang-q834563/jiuniang-q834563-3.jpg",
+    "images/jiuniang-q834563/jiuniang-q834563-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q834563",
+    "themealdb": null
+  }
+}

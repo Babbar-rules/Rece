@@ -1,0 +1,18 @@
+{
+  "id": "Q8345498",
+  "name": "mint chocolate",
+  "description": "flavored chocolate, made by adding a mint flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mint-chocolate-q8345498/mint-chocolate-q8345498-1.jpg",
+    "images/mint-chocolate-q8345498/mint-chocolate-q8345498-2.jpg",
+    "images/mint-chocolate-q8345498/mint-chocolate-q8345498-3.jpg",
+    "images/mint-chocolate-q8345498/mint-chocolate-q8345498-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8345498",
+    "themealdb": null
+  }
+}

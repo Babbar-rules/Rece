@@ -1,0 +1,18 @@
+{
+  "id": "Q8249032",
+  "name": "bocadillo de tortilla",
+  "description": "Spanish omelette sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bocadillo-de-tortilla-q8249032/bocadillo-de-tortilla-q8249032-1.jpg",
+    "images/bocadillo-de-tortilla-q8249032/bocadillo-de-tortilla-q8249032-2.jpg",
+    "images/bocadillo-de-tortilla-q8249032/bocadillo-de-tortilla-q8249032-3.jpg",
+    "images/bocadillo-de-tortilla-q8249032/bocadillo-de-tortilla-q8249032-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8249032",
+    "themealdb": null
+  }
+}

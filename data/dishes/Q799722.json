@@ -1,0 +1,22 @@
+{
+  "id": "Q799722",
+  "name": "Baeckeoffe",
+  "description": "traditional Alsatian dish",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "Alsatian cuisine"
+  ],
+  "images": [
+    "images/baeckeoffe-q799722/baeckeoffe-q799722-1.jpg",
+    "images/baeckeoffe-q799722/baeckeoffe-q799722-2.jpg",
+    "images/baeckeoffe-q799722/baeckeoffe-q799722-3.jpg",
+    "images/baeckeoffe-q799722/baeckeoffe-q799722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q799722",
+    "themealdb": null
+  }
+}

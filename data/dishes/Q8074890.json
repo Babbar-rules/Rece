@@ -1,0 +1,20 @@
+{
+  "id": "Q8074890",
+  "name": "Ginger Snaps",
+  "description": "Brand of cookies",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-snaps-q8074890/ginger-snaps-q8074890-1.jpg",
+    "images/ginger-snaps-q8074890/ginger-snaps-q8074890-2.gif",
+    "images/ginger-snaps-q8074890/ginger-snaps-q8074890-3.jpg",
+    "images/ginger-snaps-q8074890/ginger-snaps-q8074890-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8074890",
+    "themealdb": null
+  }
+}

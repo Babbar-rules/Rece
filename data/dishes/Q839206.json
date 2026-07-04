@@ -1,0 +1,21 @@
+{
+  "id": "Q839206",
+  "name": "General Tso's chicken",
+  "description": "North American Chinese sweet deep-fried chicken dish",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/general-tsos-chicken-q839206/general-tsos-chicken-q839206-1.jpg",
+    "images/general-tsos-chicken-q839206/general-tsos-chicken-q839206-2.jpg",
+    "images/general-tsos-chicken-q839206/general-tsos-chicken-q839206-3.jpg",
+    "images/general-tsos-chicken-q839206/general-tsos-chicken-q839206-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q839206",
+    "themealdb": null
+  }
+}

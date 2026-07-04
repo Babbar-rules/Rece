@@ -1,0 +1,18 @@
+{
+  "id": "Q7958828",
+  "name": "wacky cake",
+  "description": "spongy, cocoa-based cake which does not use eggs, butter or milk",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wacky-cake-q7958828/wacky-cake-q7958828-1.jpg",
+    "images/wacky-cake-q7958828/wacky-cake-q7958828-2.jpg",
+    "images/wacky-cake-q7958828/wacky-cake-q7958828-3.jpg",
+    "images/wacky-cake-q7958828/wacky-cake-q7958828-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7958828",
+    "themealdb": null
+  }
+}

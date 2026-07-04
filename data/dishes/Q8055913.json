@@ -1,0 +1,20 @@
+{
+  "id": "Q8055913",
+  "name": "kalburabastı",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kalburabast-q8055913/kalburabast-q8055913-1.jpg",
+    "images/kalburabast-q8055913/kalburabast-q8055913-2.jpg",
+    "images/kalburabast-q8055913/kalburabast-q8055913-3.jpg",
+    "images/kalburabast-q8055913/kalburabast-q8055913-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8055913",
+    "themealdb": null
+  }
+}

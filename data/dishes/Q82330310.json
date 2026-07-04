@@ -1,0 +1,20 @@
+{
+  "id": "Q82330310",
+  "name": "Chinese almond biscuit",
+  "description": "Chinese pastry made with ground mung bean",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chinese-almond-biscuit-q82330310/chinese-almond-biscuit-q82330310-1.jpg",
+    "images/chinese-almond-biscuit-q82330310/chinese-almond-biscuit-q82330310-2.jpg",
+    "images/chinese-almond-biscuit-q82330310/chinese-almond-biscuit-q82330310-3.jpg",
+    "images/chinese-almond-biscuit-q82330310/chinese-almond-biscuit-q82330310-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q82330310",
+    "themealdb": null
+  }
+}

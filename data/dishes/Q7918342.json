@@ -1,0 +1,20 @@
+{
+  "id": "Q7918342",
+  "name": "vegetable sandwich",
+  "description": "Type of sandwich",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vegetable-sandwich-q7918342/vegetable-sandwich-q7918342-1.jpg",
+    "images/vegetable-sandwich-q7918342/vegetable-sandwich-q7918342-2.jpg",
+    "images/vegetable-sandwich-q7918342/vegetable-sandwich-q7918342-3.jpg",
+    "images/vegetable-sandwich-q7918342/vegetable-sandwich-q7918342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7918342",
+    "themealdb": null
+  }
+}

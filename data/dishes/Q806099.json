@@ -1,0 +1,18 @@
+{
+  "id": "Q806099",
+  "name": "banana chip",
+  "description": "dried, crispy slice of banana",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/banana-chip-q806099/banana-chip-q806099-1.jpg",
+    "images/banana-chip-q806099/banana-chip-q806099-2.jpg",
+    "images/banana-chip-q806099/banana-chip-q806099-3.jpg",
+    "images/banana-chip-q806099/banana-chip-q806099-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q806099",
+    "themealdb": null
+  }
+}

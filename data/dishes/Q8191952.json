@@ -1,0 +1,18 @@
+{
+  "id": "Q8191952",
+  "name": "harihari-nabe",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/harihari-nabe-q8191952/harihari-nabe-q8191952-1.jpg",
+    "images/harihari-nabe-q8191952/harihari-nabe-q8191952-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8191952",
+    "themealdb": null
+  }
+}

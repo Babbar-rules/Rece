@@ -1,0 +1,18 @@
+{
+  "id": "Q8076477",
+  "name": "À l'amiral",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/a-lamiral-q8076477/a-lamiral-q8076477-1.jpg",
+    "images/a-lamiral-q8076477/a-lamiral-q8076477-2.jpg",
+    "images/a-lamiral-q8076477/a-lamiral-q8076477-3.jpg",
+    "images/a-lamiral-q8076477/a-lamiral-q8076477-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8076477",
+    "themealdb": null
+  }
+}

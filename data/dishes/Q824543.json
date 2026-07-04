@@ -1,0 +1,20 @@
+{
+  "id": "Q824543",
+  "name": "Bernese sausage",
+  "description": "Austrian dish of cheese-stuffed sausage wrapped in bacon",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bernese-sausage-q824543/bernese-sausage-q824543-1.jpg",
+    "images/bernese-sausage-q824543/bernese-sausage-q824543-2.jpg",
+    "images/bernese-sausage-q824543/bernese-sausage-q824543-3.jpg",
+    "images/bernese-sausage-q824543/bernese-sausage-q824543-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q824543",
+    "themealdb": null
+  }
+}

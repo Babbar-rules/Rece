@@ -1,0 +1,16 @@
+{
+  "id": "Q821220",
+  "name": "Beutelwurst",
+  "description": "German blood sausage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/beutelwurst-q821220/beutelwurst-q821220-1.jpg",
+    "images/beutelwurst-q821220/beutelwurst-q821220-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q821220",
+    "themealdb": null
+  }
+}

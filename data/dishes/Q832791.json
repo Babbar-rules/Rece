@@ -1,0 +1,20 @@
+{
+  "id": "Q832791",
+  "name": "focaccia",
+  "description": "oven-baked Italian flat bread, sometimes filled in with other ingredients",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/focaccia-q832791/focaccia-q832791-1.jpg",
+    "images/focaccia-q832791/focaccia-q832791-2.jpg",
+    "images/focaccia-q832791/focaccia-q832791-3.jpg",
+    "images/focaccia-q832791/focaccia-q832791-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q832791",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q837647",
+  "name": "dry-fried beef ho fun",
+  "description": "a beef and noodle Cantonese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dry-fried-beef-ho-fun-q837647/dry-fried-beef-ho-fun-q837647-1.jpg",
+    "images/dry-fried-beef-ho-fun-q837647/dry-fried-beef-ho-fun-q837647-2.jpg",
+    "images/dry-fried-beef-ho-fun-q837647/dry-fried-beef-ho-fun-q837647-3.jpg",
+    "images/dry-fried-beef-ho-fun-q837647/dry-fried-beef-ho-fun-q837647-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q837647",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7995704",
+  "name": "white sugar sponge cake",
+  "description": "Chinese pastry",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/white-sugar-sponge-cake-q7995704/white-sugar-sponge-cake-q7995704-1.jpg",
+    "images/white-sugar-sponge-cake-q7995704/white-sugar-sponge-cake-q7995704-2.jpg",
+    "images/white-sugar-sponge-cake-q7995704/white-sugar-sponge-cake-q7995704-3.jpg",
+    "images/white-sugar-sponge-cake-q7995704/white-sugar-sponge-cake-q7995704-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7995704",
+    "themealdb": null
+  }
+}

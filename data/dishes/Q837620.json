@@ -1,0 +1,20 @@
+{
+  "id": "Q837620",
+  "name": "egg waffle",
+  "description": "Hongkongese street food",
+  "nationality": [
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/egg-waffle-q837620/egg-waffle-q837620-1.jpg",
+    "images/egg-waffle-q837620/egg-waffle-q837620-2.jpg",
+    "images/egg-waffle-q837620/egg-waffle-q837620-3.jpg",
+    "images/egg-waffle-q837620/egg-waffle-q837620-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q837620",
+    "themealdb": null
+  }
+}

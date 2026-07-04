@@ -1,0 +1,18 @@
+{
+  "id": "Q82753397",
+  "name": "bubblegum ice cream",
+  "description": "ice cream with natural or artificial bubblegum flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bubblegum-ice-cream-q82753397/bubblegum-ice-cream-q82753397-1.jpg",
+    "images/bubblegum-ice-cream-q82753397/bubblegum-ice-cream-q82753397-2.jpg",
+    "images/bubblegum-ice-cream-q82753397/bubblegum-ice-cream-q82753397-3.jpg",
+    "images/bubblegum-ice-cream-q82753397/bubblegum-ice-cream-q82753397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q82753397",
+    "themealdb": null
+  }
+}

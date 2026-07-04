@@ -1,0 +1,19 @@
+{
+  "id": "Q83120337",
+  "name": "ciambellone",
+  "description": "Italian ring-shaped cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciambellone-q83120337/ciambellone-q83120337-1.jpeg",
+    "images/ciambellone-q83120337/ciambellone-q83120337-2.jpg",
+    "images/ciambellone-q83120337/ciambellone-q83120337-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83120337",
+    "themealdb": null
+  }
+}

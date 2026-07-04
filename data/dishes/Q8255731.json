@@ -1,0 +1,20 @@
+{
+  "id": "Q8255731",
+  "name": "Callos a la madrileña",
+  "description": "Spanish dish",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/callos-a-la-madrilena-q8255731/callos-a-la-madrilena-q8255731-1.jpg",
+    "images/callos-a-la-madrilena-q8255731/callos-a-la-madrilena-q8255731-2.jpg",
+    "images/callos-a-la-madrilena-q8255731/callos-a-la-madrilena-q8255731-3.jpg",
+    "images/callos-a-la-madrilena-q8255731/callos-a-la-madrilena-q8255731-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8255731",
+    "themealdb": null
+  }
+}

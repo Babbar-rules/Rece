@@ -1,0 +1,18 @@
+{
+  "id": "Q8029804",
+  "name": "Wolf Brand Chili",
+  "description": "brand of chili",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wolf-brand-chili-q8029804/wolf-brand-chili-q8029804-1.jpg",
+    "images/wolf-brand-chili-q8029804/wolf-brand-chili-q8029804-2.jpg",
+    "images/wolf-brand-chili-q8029804/wolf-brand-chili-q8029804-3.jpg",
+    "images/wolf-brand-chili-q8029804/wolf-brand-chili-q8029804-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8029804",
+    "themealdb": null
+  }
+}

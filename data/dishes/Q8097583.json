@@ -1,0 +1,20 @@
+{
+  "id": "Q8097583",
+  "name": "Rosolli",
+  "description": "Finnish Salad",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rosolli-q8097583/rosolli-q8097583-1.jpg",
+    "images/rosolli-q8097583/rosolli-q8097583-2.jpg",
+    "images/rosolli-q8097583/rosolli-q8097583-3.jpg",
+    "images/rosolli-q8097583/rosolli-q8097583-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8097583",
+    "themealdb": null
+  }
+}

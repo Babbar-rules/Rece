@@ -1,0 +1,20 @@
+{
+  "id": "Q8249805",
+  "name": "bok l'hong",
+  "description": "Cambodian papaya salad",
+  "nationality": [
+    "Cambodia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bok-lhong-q8249805/bok-lhong-q8249805-1.jpg",
+    "images/bok-lhong-q8249805/bok-lhong-q8249805-2.jpg",
+    "images/bok-lhong-q8249805/bok-lhong-q8249805-3.jpg",
+    "images/bok-lhong-q8249805/bok-lhong-q8249805-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8249805",
+    "themealdb": null
+  }
+}

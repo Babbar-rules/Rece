@@ -1,0 +1,18 @@
+{
+  "id": "Q8060727",
+  "name": "Yukimi Daifuku",
+  "description": "lotte brand of mochi ice cream",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yukimi-daifuku-q8060727/yukimi-daifuku-q8060727-1.jpg",
+    "images/yukimi-daifuku-q8060727/yukimi-daifuku-q8060727-2.jpg",
+    "images/yukimi-daifuku-q8060727/yukimi-daifuku-q8060727-3.jpg",
+    "images/yukimi-daifuku-q8060727/yukimi-daifuku-q8060727-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8060727",
+    "themealdb": null
+  }
+}

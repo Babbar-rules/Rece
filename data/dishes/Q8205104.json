@@ -1,0 +1,18 @@
+{
+  "id": "Q8205104",
+  "name": "Arroz de sarrabulho",
+  "description": "Portuguese pork dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/arroz-de-sarrabulho-q8205104/arroz-de-sarrabulho-q8205104-1.jpg",
+    "images/arroz-de-sarrabulho-q8205104/arroz-de-sarrabulho-q8205104-2.jpg",
+    "images/arroz-de-sarrabulho-q8205104/arroz-de-sarrabulho-q8205104-3.jpg",
+    "images/arroz-de-sarrabulho-q8205104/arroz-de-sarrabulho-q8205104-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8205104",
+    "themealdb": null
+  }
+}

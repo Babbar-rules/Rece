@@ -1,0 +1,20 @@
+{
+  "id": "Q836151",
+  "name": "cannoli",
+  "description": "Sicilian pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cannoli-q836151/cannoli-q836151-1.jpg",
+    "images/cannoli-q836151/cannoli-q836151-2.jpg",
+    "images/cannoli-q836151/cannoli-q836151-3.jpg",
+    "images/cannoli-q836151/cannoli-q836151-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q836151",
+    "themealdb": null
+  }
+}

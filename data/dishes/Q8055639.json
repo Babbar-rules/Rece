@@ -1,0 +1,18 @@
+{
+  "id": "Q8055639",
+  "name": "Yorkie chocolate bar",
+  "description": "brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yorkie-chocolate-bar-q8055639/yorkie-chocolate-bar-q8055639-1.jpg",
+    "images/yorkie-chocolate-bar-q8055639/yorkie-chocolate-bar-q8055639-2.jpg",
+    "images/yorkie-chocolate-bar-q8055639/yorkie-chocolate-bar-q8055639-3.jpg",
+    "images/yorkie-chocolate-bar-q8055639/yorkie-chocolate-bar-q8055639-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8055639",
+    "themealdb": null
+  }
+}

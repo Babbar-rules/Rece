@@ -1,0 +1,22 @@
+{
+  "id": "Q806839",
+  "name": "banku",
+  "description": "Ghanaian meal made from maize and cassava dough",
+  "nationality": [
+    "Ghana",
+    "Benin",
+    "Togo"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/banku-q806839/banku-q806839-1.jpg",
+    "images/banku-q806839/banku-q806839-2.jpg",
+    "images/banku-q806839/banku-q806839-3.jpg",
+    "images/banku-q806839/banku-q806839-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q806839",
+    "themealdb": null
+  }
+}

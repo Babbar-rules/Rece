@@ -1,0 +1,20 @@
+{
+  "id": "Q796270",
+  "name": "BLT",
+  "description": "bacon, lettuce, and tomato sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/blt-q796270/blt-q796270-1.jpg",
+    "images/blt-q796270/blt-q796270-2.jpg",
+    "images/blt-q796270/blt-q796270-3.jpg",
+    "images/blt-q796270/blt-q796270-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q796270",
+    "themealdb": null
+  }
+}

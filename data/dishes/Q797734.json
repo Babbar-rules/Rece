@@ -1,0 +1,27 @@
+{
+  "id": "Q797734",
+  "name": "babka",
+  "description": "Central and Eastern European sweet yeast cake in the form of a tall cylinder",
+  "nationality": [
+    "Poland",
+    "Russia",
+    "Belarus"
+  ],
+  "region_cuisine": [
+    "Polish cuisine",
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/babka-q797734/babka-q797734-1.jpg",
+    "images/babka-q797734/babka-q797734-2.jpg",
+    "images/babka-q797734/babka-q797734-3.jpg",
+    "images/babka-q797734/babka-q797734-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q797734",
+    "themealdb": null
+  }
+}

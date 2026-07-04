@@ -1,0 +1,18 @@
+{
+  "id": "Q8055510",
+  "name": "York Peppermint Pattie",
+  "description": "peppermint confection produced by Hershey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/york-peppermint-pattie-q8055510/york-peppermint-pattie-q8055510-1.png",
+    "images/york-peppermint-pattie-q8055510/york-peppermint-pattie-q8055510-2.png",
+    "images/york-peppermint-pattie-q8055510/york-peppermint-pattie-q8055510-3.jpg",
+    "images/york-peppermint-pattie-q8055510/york-peppermint-pattie-q8055510-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8055510",
+    "themealdb": null
+  }
+}

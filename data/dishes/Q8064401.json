@@ -1,0 +1,18 @@
+{
+  "id": "Q8064401",
+  "name": "Zagnut",
+  "description": "candy bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zagnut-q8064401/zagnut-q8064401-1.jpg",
+    "images/zagnut-q8064401/zagnut-q8064401-2.jpg",
+    "images/zagnut-q8064401/zagnut-q8064401-3.png",
+    "images/zagnut-q8064401/zagnut-q8064401-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8064401",
+    "themealdb": null
+  }
+}

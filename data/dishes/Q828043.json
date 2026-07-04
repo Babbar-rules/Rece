@@ -1,0 +1,22 @@
+{
+  "id": "Q828043",
+  "name": "bouillabaisse",
+  "description": "traditional Provençal fish stew",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/bouillabaisse-q828043/bouillabaisse-q828043-1.jpg",
+    "images/bouillabaisse-q828043/bouillabaisse-q828043-2.jpg",
+    "images/bouillabaisse-q828043/bouillabaisse-q828043-3.jpg",
+    "images/bouillabaisse-q828043/bouillabaisse-q828043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q828043",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q8194132",
+  "name": "Hakata ramen",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hakata-ramen-q8194132/hakata-ramen-q8194132-1.jpg",
+    "images/hakata-ramen-q8194132/hakata-ramen-q8194132-2.jpg",
+    "images/hakata-ramen-q8194132/hakata-ramen-q8194132-3.jpg",
+    "images/hakata-ramen-q8194132/hakata-ramen-q8194132-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8194132",
+    "themealdb": null
+  }
+}

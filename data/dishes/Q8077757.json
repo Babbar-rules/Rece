@@ -1,0 +1,20 @@
+{
+  "id": "Q8077757",
+  "name": "çoban salad",
+  "description": "Turkish cuisine salad",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coban-salad-q8077757/coban-salad-q8077757-1.jpg",
+    "images/coban-salad-q8077757/coban-salad-q8077757-2.jpg",
+    "images/coban-salad-q8077757/coban-salad-q8077757-3.jpg",
+    "images/coban-salad-q8077757/coban-salad-q8077757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8077757",
+    "themealdb": null
+  }
+}

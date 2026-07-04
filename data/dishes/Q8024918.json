@@ -1,0 +1,20 @@
+{
+  "id": "Q8024918",
+  "name": "wine cake",
+  "description": "cake made with wine in Colombian cuisine",
+  "nationality": [
+    "Colombia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wine-cake-q8024918/wine-cake-q8024918-1.jpg",
+    "images/wine-cake-q8024918/wine-cake-q8024918-2.jpg",
+    "images/wine-cake-q8024918/wine-cake-q8024918-3.jpg",
+    "images/wine-cake-q8024918/wine-cake-q8024918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8024918",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q8063033",
+  "name": "Zero bar",
+  "description": "Candy bar by Hershey",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/zero-bar-q8063033/zero-bar-q8063033-1.jpg",
+    "images/zero-bar-q8063033/zero-bar-q8063033-2.jpg",
+    "images/zero-bar-q8063033/zero-bar-q8063033-3.jpg",
+    "images/zero-bar-q8063033/zero-bar-q8063033-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8063033",
+    "themealdb": null
+  }
+}

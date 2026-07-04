@@ -1,0 +1,18 @@
+{
+  "id": "Q83452931",
+  "name": "Laklak (food)",
+  "description": "A traditional Balinese pancake with grated coconut and melted palm sugar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/laklak-food-q83452931/laklak-food-q83452931-1.jpg",
+    "images/laklak-food-q83452931/laklak-food-q83452931-2.jpg",
+    "images/laklak-food-q83452931/laklak-food-q83452931-3.jpg",
+    "images/laklak-food-q83452931/laklak-food-q83452931-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83452931",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q8044057",
+  "name": "Xi gua lao",
+  "description": "traditional dish of Beijing",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xi-gua-lao-q8044057/xi-gua-lao-q8044057-1.jpg",
+    "images/xi-gua-lao-q8044057/xi-gua-lao-q8044057-2.jpg",
+    "images/xi-gua-lao-q8044057/xi-gua-lao-q8044057-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8044057",
+    "themealdb": null
+  }
+}

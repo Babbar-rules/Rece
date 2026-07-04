@@ -1,0 +1,18 @@
+{
+  "id": "Q7976957",
+  "name": "Wazoo",
+  "description": "candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wazoo-q7976957/wazoo-q7976957-1.jpg",
+    "images/wazoo-q7976957/wazoo-q7976957-2.jpg",
+    "images/wazoo-q7976957/wazoo-q7976957-3.jpg",
+    "images/wazoo-q7976957/wazoo-q7976957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7976957",
+    "themealdb": null
+  }
+}

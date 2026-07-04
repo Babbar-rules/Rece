@@ -1,0 +1,20 @@
+{
+  "id": "Q7995632",
+  "name": "White hot",
+  "description": "variation on the hot dog found primarily in the Rochester, New York",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/white-hot-q7995632/white-hot-q7995632-1.jpg",
+    "images/white-hot-q7995632/white-hot-q7995632-2.jpg",
+    "images/white-hot-q7995632/white-hot-q7995632-3.jpg",
+    "images/white-hot-q7995632/white-hot-q7995632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7995632",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q83629834",
+  "name": "Italian stuffed pasta",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/italian-stuffed-pasta-q83629834/italian-stuffed-pasta-q83629834-1.jpg",
+    "images/italian-stuffed-pasta-q83629834/italian-stuffed-pasta-q83629834-2.jpg",
+    "images/italian-stuffed-pasta-q83629834/italian-stuffed-pasta-q83629834-3.jpg",
+    "images/italian-stuffed-pasta-q83629834/italian-stuffed-pasta-q83629834-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83629834",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Q837480",
+  "name": "aspic",
+  "description": "molded meat gelatin dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Lithuanian cuisine",
+    "Estonian cuisine",
+    "Belarusian cuisine",
+    "Ukrainian cuisine",
+    "Latvian cuisine",
+    "Russian cuisine",
+    "French cuisine"
+  ],
+  "images": [
+    "images/aspic-q837480/aspic-q837480-1.jpg",
+    "images/aspic-q837480/aspic-q837480-2.jpg",
+    "images/aspic-q837480/aspic-q837480-3.jpg",
+    "images/aspic-q837480/aspic-q837480-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q837480",
+    "themealdb": null
+  }
+}

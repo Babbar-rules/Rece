@@ -1,0 +1,20 @@
+{
+  "id": "Q8210687",
+  "name": "ayam rica-rica",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayam-rica-rica-q8210687/ayam-rica-rica-q8210687-1.jpg",
+    "images/ayam-rica-rica-q8210687/ayam-rica-rica-q8210687-2.jpg",
+    "images/ayam-rica-rica-q8210687/ayam-rica-rica-q8210687-3.jpg",
+    "images/ayam-rica-rica-q8210687/ayam-rica-rica-q8210687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8210687",
+    "themealdb": null
+  }
+}

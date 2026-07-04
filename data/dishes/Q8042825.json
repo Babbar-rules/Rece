@@ -1,0 +1,20 @@
+{
+  "id": "Q8042825",
+  "name": "xacuti",
+  "description": "Goan dish of meat with white poppy seeds, coconut and dried red chilies",
+  "nationality": [
+    "Portuguese India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/xacuti-q8042825/xacuti-q8042825-1.jpg",
+    "images/xacuti-q8042825/xacuti-q8042825-2.jpg",
+    "images/xacuti-q8042825/xacuti-q8042825-3.png",
+    "images/xacuti-q8042825/xacuti-q8042825-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8042825",
+    "themealdb": null
+  }
+}

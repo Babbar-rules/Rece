@@ -1,0 +1,20 @@
+{
+  "id": "Q806901",
+  "name": "bannock",
+  "description": "quickbread of Scottish origin",
+  "nationality": [
+    "Kingdom of Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bannock-q806901/bannock-q806901-1.jpg",
+    "images/bannock-q806901/bannock-q806901-2.jpg",
+    "images/bannock-q806901/bannock-q806901-3.jpg",
+    "images/bannock-q806901/bannock-q806901-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q806901",
+    "themealdb": null
+  }
+}

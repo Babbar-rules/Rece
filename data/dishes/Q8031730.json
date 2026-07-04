@@ -1,0 +1,18 @@
+{
+  "id": "Q8031730",
+  "name": "Wonder Ball",
+  "description": "confectionery brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wonder-ball-q8031730/wonder-ball-q8031730-1.jpg",
+    "images/wonder-ball-q8031730/wonder-ball-q8031730-2.jpg",
+    "images/wonder-ball-q8031730/wonder-ball-q8031730-3.jpg",
+    "images/wonder-ball-q8031730/wonder-ball-q8031730-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8031730",
+    "themealdb": null
+  }
+}

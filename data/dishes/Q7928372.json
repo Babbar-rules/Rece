@@ -1,0 +1,18 @@
+{
+  "id": "Q7928372",
+  "name": "Viennese whirl",
+  "description": "British shortbread biscuit, filled with cream and jam",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/viennese-whirl-q7928372/viennese-whirl-q7928372-1.jpg",
+    "images/viennese-whirl-q7928372/viennese-whirl-q7928372-2.jpg",
+    "images/viennese-whirl-q7928372/viennese-whirl-q7928372-3.jpg",
+    "images/viennese-whirl-q7928372/viennese-whirl-q7928372-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7928372",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q836773",
+  "name": "jokbal",
+  "description": "Korean dish of pork trotters",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/jokbal-q836773/jokbal-q836773-1.jpg",
+    "images/jokbal-q836773/jokbal-q836773-2.jpg",
+    "images/jokbal-q836773/jokbal-q836773-3.jpg",
+    "images/jokbal-q836773/jokbal-q836773-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q836773",
+    "themealdb": null
+  }
+}

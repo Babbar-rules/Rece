@@ -1,0 +1,20 @@
+{
+  "id": "Q8051963",
+  "name": "yellowman",
+  "description": "Irish confectionery",
+  "nationality": [
+    "Northern Ireland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yellowman-q8051963/yellowman-q8051963-1.jpg",
+    "images/yellowman-q8051963/yellowman-q8051963-2.jpg",
+    "images/yellowman-q8051963/yellowman-q8051963-3.jpg",
+    "images/yellowman-q8051963/yellowman-q8051963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8051963",
+    "themealdb": null
+  }
+}

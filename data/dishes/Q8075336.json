@@ -1,0 +1,17 @@
+{
+  "id": "Q8075336",
+  "name": "Zuppa alla modenese",
+  "description": "Italian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "cuisine of the province of Modena"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8075336",
+    "themealdb": null
+  }
+}

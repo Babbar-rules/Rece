@@ -1,0 +1,20 @@
+{
+  "id": "Q8010363",
+  "name": "Gopchang jeongol",
+  "description": "spicy Korean stew or casserole",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gopchang-jeongol-q8010363/gopchang-jeongol-q8010363-1.jpg",
+    "images/gopchang-jeongol-q8010363/gopchang-jeongol-q8010363-2.jpg",
+    "images/gopchang-jeongol-q8010363/gopchang-jeongol-q8010363-3.jpg",
+    "images/gopchang-jeongol-q8010363/gopchang-jeongol-q8010363-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8010363",
+    "themealdb": null
+  }
+}

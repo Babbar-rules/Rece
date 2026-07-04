@@ -1,0 +1,18 @@
+{
+  "id": "Q7918345",
+  "name": "tarkari",
+  "description": "Vegetable dishes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tarkari-q7918345/tarkari-q7918345-1.jpg",
+    "images/tarkari-q7918345/tarkari-q7918345-2.jpg",
+    "images/tarkari-q7918345/tarkari-q7918345-3.jpg",
+    "images/tarkari-q7918345/tarkari-q7918345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7918345",
+    "themealdb": null
+  }
+}

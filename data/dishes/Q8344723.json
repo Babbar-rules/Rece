@@ -1,0 +1,18 @@
+{
+  "id": "Q8344723",
+  "name": "chanfana",
+  "description": "Portuguese meat stew",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chanfana-q8344723/chanfana-q8344723-1.jpg",
+    "images/chanfana-q8344723/chanfana-q8344723-2.jpg",
+    "images/chanfana-q8344723/chanfana-q8344723-3.jpg",
+    "images/chanfana-q8344723/chanfana-q8344723-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8344723",
+    "themealdb": null
+  }
+}

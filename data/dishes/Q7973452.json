@@ -1,0 +1,20 @@
+{
+  "id": "Q7973452",
+  "name": "Water biscuit",
+  "description": "type of cracker or biscuit",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/water-biscuit-q7973452/water-biscuit-q7973452-1.jpg",
+    "images/water-biscuit-q7973452/water-biscuit-q7973452-2.jpg",
+    "images/water-biscuit-q7973452/water-biscuit-q7973452-3.jpg",
+    "images/water-biscuit-q7973452/water-biscuit-q7973452-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7973452",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q83421521",
+  "name": "Cagionetti",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cagionetti-q83421521/cagionetti-q83421521-1.jpg",
+    "images/cagionetti-q83421521/cagionetti-q83421521-2.jpg",
+    "images/cagionetti-q83421521/cagionetti-q83421521-3.jpg",
+    "images/cagionetti-q83421521/cagionetti-q83421521-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q83421521",
+    "themealdb": null
+  }
+}

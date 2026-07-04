@@ -1,0 +1,18 @@
+{
+  "id": "Q8055450",
+  "name": "York Fruits",
+  "description": "English brand of fruit jellies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/york-fruits-q8055450/york-fruits-q8055450-1.jpg",
+    "images/york-fruits-q8055450/york-fruits-q8055450-2.jpg",
+    "images/york-fruits-q8055450/york-fruits-q8055450-3.jpg",
+    "images/york-fruits-q8055450/york-fruits-q8055450-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8055450",
+    "themealdb": null
+  }
+}

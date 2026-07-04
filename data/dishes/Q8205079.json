@@ -1,0 +1,20 @@
+{
+  "id": "Q8205079",
+  "name": "arroz carreteiro",
+  "description": "Brazilian rice dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/arroz-carreteiro-q8205079/arroz-carreteiro-q8205079-1.jpg",
+    "images/arroz-carreteiro-q8205079/arroz-carreteiro-q8205079-2.jpg",
+    "images/arroz-carreteiro-q8205079/arroz-carreteiro-q8205079-3.jpg",
+    "images/arroz-carreteiro-q8205079/arroz-carreteiro-q8205079-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8205079",
+    "themealdb": null
+  }
+}

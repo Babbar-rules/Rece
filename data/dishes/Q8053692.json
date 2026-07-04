@@ -1,0 +1,18 @@
+{
+  "id": "Q8053692",
+  "name": "Yin Yang fish",
+  "description": "fish dish where the fish remains alive while being eaten",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yin-yang-fish-q8053692/yin-yang-fish-q8053692-1.jpg",
+    "images/yin-yang-fish-q8053692/yin-yang-fish-q8053692-2.jpg",
+    "images/yin-yang-fish-q8053692/yin-yang-fish-q8053692-3.jpg",
+    "images/yin-yang-fish-q8053692/yin-yang-fish-q8053692-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8053692",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q8013024",
+  "name": "jeonggwa",
+  "description": "Korean confection",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jeonggwa-q8013024/jeonggwa-q8013024-1.jpg",
+    "images/jeonggwa-q8013024/jeonggwa-q8013024-2.jpg",
+    "images/jeonggwa-q8013024/jeonggwa-q8013024-3.jpg",
+    "images/jeonggwa-q8013024/jeonggwa-q8013024-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8013024",
+    "themealdb": null
+  }
+}

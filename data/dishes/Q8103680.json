@@ -1,0 +1,28 @@
+{
+  "id": "Q8103680",
+  "name": "kalach",
+  "description": "Eastern European bread",
+  "nationality": [
+    "Hungary",
+    "Russia",
+    "Ukraine"
+  ],
+  "region_cuisine": [
+    "Ukrainian cuisine",
+    "Czech cuisine",
+    "Polish cuisine",
+    "Bulgarian cuisine",
+    "Russian cuisine"
+  ],
+  "images": [
+    "images/kalach-q8103680/kalach-q8103680-1.jpg",
+    "images/kalach-q8103680/kalach-q8103680-2.jpg",
+    "images/kalach-q8103680/kalach-q8103680-3.jpg",
+    "images/kalach-q8103680/kalach-q8103680-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8103680",
+    "themealdb": null
+  }
+}

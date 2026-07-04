@@ -1,0 +1,20 @@
+{
+  "id": "Q8047029",
+  "name": "Yaka mein",
+  "description": "beef noodle soup",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yaka-mein-q8047029/yaka-mein-q8047029-1.jpg",
+    "images/yaka-mein-q8047029/yaka-mein-q8047029-2.jpg",
+    "images/yaka-mein-q8047029/yaka-mein-q8047029-3.jpg",
+    "images/yaka-mein-q8047029/yaka-mein-q8047029-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8047029",
+    "themealdb": null
+  }
+}

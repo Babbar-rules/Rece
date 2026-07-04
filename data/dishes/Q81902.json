@@ -1,0 +1,20 @@
+{
+  "id": "Q81902",
+  "name": "Irish potato candy",
+  "description": "candy from Philadelphia, USA",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/irish-potato-candy-q81902/irish-potato-candy-q81902-1.jpg",
+    "images/irish-potato-candy-q81902/irish-potato-candy-q81902-2.jpg",
+    "images/irish-potato-candy-q81902/irish-potato-candy-q81902-3.jpg",
+    "images/irish-potato-candy-q81902/irish-potato-candy-q81902-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q81902",
+    "themealdb": null
+  }
+}

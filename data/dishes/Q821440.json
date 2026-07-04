@@ -1,0 +1,18 @@
+{
+  "id": "Q821440",
+  "name": "Berliner Brot",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/berliner-brot-q821440/berliner-brot-q821440-1.jpg",
+    "images/berliner-brot-q821440/berliner-brot-q821440-2.jpg",
+    "images/berliner-brot-q821440/berliner-brot-q821440-3.jpg",
+    "images/berliner-brot-q821440/berliner-brot-q821440-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q821440",
+    "themealdb": null
+  }
+}

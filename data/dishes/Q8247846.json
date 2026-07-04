@@ -1,0 +1,18 @@
+{
+  "id": "Q8247846",
+  "name": "Big King",
+  "description": "Burger King hamburger",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/big-king-q8247846/big-king-q8247846-1.jpg",
+    "images/big-king-q8247846/big-king-q8247846-2.jpg",
+    "images/big-king-q8247846/big-king-q8247846-3.jpg",
+    "images/big-king-q8247846/big-king-q8247846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8247846",
+    "themealdb": null
+  }
+}

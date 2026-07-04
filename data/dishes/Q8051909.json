@@ -1,0 +1,18 @@
+{
+  "id": "Q8051909",
+  "name": "Yellow soybean paste",
+  "description": "fermented paste made from yellow soybeans, salt, and water used in Chinese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yellow-soybean-paste-q8051909/yellow-soybean-paste-q8051909-1.jpg",
+    "images/yellow-soybean-paste-q8051909/yellow-soybean-paste-q8051909-2.jpg",
+    "images/yellow-soybean-paste-q8051909/yellow-soybean-paste-q8051909-3.jpg",
+    "images/yellow-soybean-paste-q8051909/yellow-soybean-paste-q8051909-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8051909",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q806142",
+  "name": "Banbury cake",
+  "description": "food",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/banbury-cake-q806142/banbury-cake-q806142-1.jpg",
+    "images/banbury-cake-q806142/banbury-cake-q806142-2.jpg",
+    "images/banbury-cake-q806142/banbury-cake-q806142-3.jpg",
+    "images/banbury-cake-q806142/banbury-cake-q806142-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q806142",
+    "themealdb": null
+  }
+}

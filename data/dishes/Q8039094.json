@@ -1,0 +1,18 @@
+{
+  "id": "Q8039094",
+  "name": "Wuhan duck",
+  "description": "Chinese dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wuhan-duck-q8039094/wuhan-duck-q8039094-1.jpg",
+    "images/wuhan-duck-q8039094/wuhan-duck-q8039094-2.jpg",
+    "images/wuhan-duck-q8039094/wuhan-duck-q8039094-3.jpg",
+    "images/wuhan-duck-q8039094/wuhan-duck-q8039094-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8039094",
+    "themealdb": null
+  }
+}
