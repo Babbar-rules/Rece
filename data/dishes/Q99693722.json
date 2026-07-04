@@ -1,0 +1,20 @@
+{
+  "id": "Q99693722",
+  "name": "Soft Bröd",
+  "description": "Flatbread",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/soft-brod-q99693722/soft-brod-q99693722-1.jpg",
+    "images/soft-brod-q99693722/soft-brod-q99693722-2.jpg",
+    "images/soft-brod-q99693722/soft-brod-q99693722-3.jpg",
+    "images/soft-brod-q99693722/soft-brod-q99693722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99693722",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q99539198",
+  "name": "Kue bolu",
+  "description": "Indonesian cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kue-bolu-q99539198/kue-bolu-q99539198-1.jpg",
+    "images/kue-bolu-q99539198/kue-bolu-q99539198-2.jpg",
+    "images/kue-bolu-q99539198/kue-bolu-q99539198-3.jpg",
+    "images/kue-bolu-q99539198/kue-bolu-q99539198-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99539198",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q99658926",
+  "name": "Analı kızlı soup",
+  "description": "Turkish cuisine soup",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/anal-kzl-soup-q99658926/anal-kzl-soup-q99658926-1.jpg",
+    "images/anal-kzl-soup-q99658926/anal-kzl-soup-q99658926-2.jpg",
+    "images/anal-kzl-soup-q99658926/anal-kzl-soup-q99658926-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q99658926",
+    "themealdb": null
+  }
+}

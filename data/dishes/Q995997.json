@@ -1,0 +1,20 @@
+{
+  "id": "Q995997",
+  "name": "Haw flakes",
+  "description": "Confectionery",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/haw-flakes-q995997/haw-flakes-q995997-1.jpg",
+    "images/haw-flakes-q995997/haw-flakes-q995997-2.jpg",
+    "images/haw-flakes-q995997/haw-flakes-q995997-3.jpg",
+    "images/haw-flakes-q995997/haw-flakes-q995997-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q995997",
+    "themealdb": null
+  }
+}

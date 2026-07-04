@@ -1,0 +1,20 @@
+{
+  "id": "Q997633",
+  "name": "amatriciana sauce",
+  "description": "Italian sauce",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/amatriciana-sauce-q997633/amatriciana-sauce-q997633-1.jpg",
+    "images/amatriciana-sauce-q997633/amatriciana-sauce-q997633-2.jpg",
+    "images/amatriciana-sauce-q997633/amatriciana-sauce-q997633-3.jpg",
+    "images/amatriciana-sauce-q997633/amatriciana-sauce-q997633-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q997633",
+    "themealdb": null
+  }
+}

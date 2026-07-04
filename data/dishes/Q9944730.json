@@ -1,0 +1,20 @@
+{
+  "id": "Q9944730",
+  "name": "saba misoni",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saba-misoni-q9944730/saba-misoni-q9944730-1.jpg",
+    "images/saba-misoni-q9944730/saba-misoni-q9944730-2.jpg",
+    "images/saba-misoni-q9944730/saba-misoni-q9944730-3.jpg",
+    "images/saba-misoni-q9944730/saba-misoni-q9944730-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9944730",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q997642",
+  "name": "Buccellato",
+  "description": "Italian Christmas cake",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/buccellato-q997642/buccellato-q997642-1.jpg",
+    "images/buccellato-q997642/buccellato-q997642-2.jpg",
+    "images/buccellato-q997642/buccellato-q997642-3.jpg",
+    "images/buccellato-q997642/buccellato-q997642-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q997642",
+    "themealdb": null
+  }
+}
