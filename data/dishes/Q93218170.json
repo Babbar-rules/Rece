@@ -1,0 +1,18 @@
+{
+  "id": "Q93218170",
+  "name": "Shingen Mochi",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/shingen-mochi-q93218170/shingen-mochi-q93218170-1.jpg",
+    "images/shingen-mochi-q93218170/shingen-mochi-q93218170-2.jpg",
+    "images/shingen-mochi-q93218170/shingen-mochi-q93218170-3.jpg",
+    "images/shingen-mochi-q93218170/shingen-mochi-q93218170-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q93218170",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q9167992",
+  "name": "chouquette",
+  "description": "small piece of dough baked then topped with sugar",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chouquette-q9167992/chouquette-q9167992-1.jpg",
+    "images/chouquette-q9167992/chouquette-q9167992-2.jpg",
+    "images/chouquette-q9167992/chouquette-q9167992-3.jpg",
+    "images/chouquette-q9167992/chouquette-q9167992-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9167992",
+    "themealdb": null
+  }
+}

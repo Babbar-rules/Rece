@@ -1,0 +1,17 @@
+{
+  "id": "Q9361623",
+  "name": "tripolini",
+  "description": "type of pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tripolini-q9361623/tripolini-q9361623-1.jpg",
+    "images/tripolini-q9361623/tripolini-q9361623-2.jpg",
+    "images/tripolini-q9361623/tripolini-q9361623-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9361623",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q9356605",
+  "name": "temakizushi",
+  "description": "kind of hand-rolled sushi",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/temakizushi-q9356605/temakizushi-q9356605-1.jpg",
+    "images/temakizushi-q9356605/temakizushi-q9356605-2.jpg",
+    "images/temakizushi-q9356605/temakizushi-q9356605-3.jpg",
+    "images/temakizushi-q9356605/temakizushi-q9356605-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9356605",
+    "themealdb": null
+  }
+}

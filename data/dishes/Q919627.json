@@ -1,0 +1,20 @@
+{
+  "id": "Q919627",
+  "name": "Steckrübeneintopf",
+  "description": "food",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steckrubeneintopf-q919627/steckrubeneintopf-q919627-1.jpg",
+    "images/steckrubeneintopf-q919627/steckrubeneintopf-q919627-2.jpg",
+    "images/steckrubeneintopf-q919627/steckrubeneintopf-q919627-3.jpg",
+    "images/steckrubeneintopf-q919627/steckrubeneintopf-q919627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q919627",
+    "themealdb": null
+  }
+}

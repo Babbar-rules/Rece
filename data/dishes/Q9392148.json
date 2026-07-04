@@ -1,0 +1,22 @@
+{
+  "id": "Q9392148",
+  "name": "shirumono",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/shirumono-q9392148/shirumono-q9392148-1.jpg",
+    "images/shirumono-q9392148/shirumono-q9392148-2.jpg",
+    "images/shirumono-q9392148/shirumono-q9392148-3.jpg",
+    "images/shirumono-q9392148/shirumono-q9392148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9392148",
+    "themealdb": null
+  }
+}

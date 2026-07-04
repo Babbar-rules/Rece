@@ -1,0 +1,15 @@
+{
+  "id": "Q9362605",
+  "name": "tuffoli",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9362605",
+    "themealdb": null
+  }
+}

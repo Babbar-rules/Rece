@@ -1,0 +1,22 @@
+{
+  "id": "Q91227121",
+  "name": "Marlenka",
+  "description": "Armenian honey cake",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/marlenka-q91227121/marlenka-q91227121-1.jpg",
+    "images/marlenka-q91227121/marlenka-q91227121-2.jpg",
+    "images/marlenka-q91227121/marlenka-q91227121-3.jpg",
+    "images/marlenka-q91227121/marlenka-q91227121-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q91227121",
+    "themealdb": null
+  }
+}

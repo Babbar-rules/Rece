@@ -1,0 +1,20 @@
+{
+  "id": "Q9078988",
+  "name": "Almond soup",
+  "description": "Spanish dessert",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/almond-soup-q9078988/almond-soup-q9078988-1.jpg",
+    "images/almond-soup-q9078988/almond-soup-q9078988-2.jpg",
+    "images/almond-soup-q9078988/almond-soup-q9078988-3.jpg",
+    "images/almond-soup-q9078988/almond-soup-q9078988-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9078988",
+    "themealdb": null
+  }
+}

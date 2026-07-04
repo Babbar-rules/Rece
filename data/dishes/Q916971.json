@@ -1,0 +1,76 @@
+{
+  "id": "Q916971",
+  "name": "Brik",
+  "description": "food",
+  "nationality": [
+    "Tunisian"
+  ],
+  "region_cuisine": [
+    "Seafood"
+  ],
+  "images": [
+    "images/brik-q916971/brik-q916971-1.jpg",
+    "images/brik-q916971/brik-q916971-2.jpg",
+    "images/brik-q916971/brik-q916971-3.jpg",
+    "images/brik-q916971/brik-q916971-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52975",
+    "category": "Seafood",
+    "area": "Tunisian",
+    "instructions": "Heat 2 tsp of the oil in a large saucepan and cook the spring onions over a low heat for 3 minutes or until beginning to soften. Add the spinach, cover with a tight-fitting lid and cook for a further 2–3 minutes or until tender and wilted, stirring once or twice. Tip the mixture into a sieve or colander and leave to drain and cool.\r\nUsing a saucer as a guide, cut out 24 rounds about 12.5 cm (5 in) in diameter from the filo pastry, cutting 6 rounds from each sheet. Stack the filo rounds in a pile, then cover with cling film to prevent them from drying out.\r\nWhen the spinach mixture is cool, squeeze out as much excess liquid as possible, then transfer to a bowl. Add the tuna, eggs, hot pepper sauce, and salt and pepper to taste. Mix well.\r\nPreheat the oven to 200°C (400°F, gas mark 6). Take one filo round and very lightly brush with some of the remaining oil. Top with a second round and brush with a little oil, then place a third round on top and brush with oil.\r\nPlace a heaped tbsp of the filling in the middle of the round, then fold the pastry over to make a half-moon shape. Fold in the edges, twisting them to seal, and place on a non-stick baking sheet. Repeat with the remaining pastry and filling to make 8 briks in all.\r\nLightly brush the briks with the remaining oil. Bake for 12–15 minutes or until the pastry is crisp and golden brown.\r\nMeanwhile, combine the tomatoes and cucumber in a bowl and sprinkle with the lemon juice and seasoning to taste. Serve the briks hot with this salad and the chutney.",
+    "ingredients": [
+      {
+        "ingredient": "Olive Oil",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "8"
+      },
+      {
+        "ingredient": "Spinach",
+        "measure": "200g"
+      },
+      {
+        "ingredient": "Filo Pastry",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Tuna",
+        "measure": "1 can"
+      },
+      {
+        "ingredient": "Eggs",
+        "measure": "2"
+      },
+      {
+        "ingredient": "Hotsauce",
+        "measure": "Dash"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "4 Chopped"
+      },
+      {
+        "ingredient": "Cucumber",
+        "measure": "1/4"
+      },
+      {
+        "ingredient": "Lemon Juice",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Apricot Jam",
+        "measure": "4 tbs"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=C5n1fN8TGHs",
+    "thumb": "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q916971",
+    "themealdb": "52975"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q926532",
+  "name": "Piadina",
+  "description": "type of italian thin flatbread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/piadina-q926532/piadina-q926532-1.jpg",
+    "images/piadina-q926532/piadina-q926532-2.jpg",
+    "images/piadina-q926532/piadina-q926532-3.jpg",
+    "images/piadina-q926532/piadina-q926532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q926532",
+    "themealdb": null
+  }
+}

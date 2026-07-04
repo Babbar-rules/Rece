@@ -1,0 +1,50 @@
+{
+  "id": "Q917761",
+  "name": "dulce de leche",
+  "description": "sweet confection",
+  "nationality": [
+    "Uruguay",
+    "Brazil",
+    "Argentina"
+  ],
+  "region_cuisine": [
+    "Dessert"
+  ],
+  "images": [
+    "images/dulce-de-leche-q917761/dulce-de-leche-q917761-1.jpg",
+    "images/dulce-de-leche-q917761/dulce-de-leche-q917761-2.jpg",
+    "images/dulce-de-leche-q917761/dulce-de-leche-q917761-3.jpg",
+    "images/dulce-de-leche-q917761/dulce-de-leche-q917761-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53137",
+    "category": "Dessert",
+    "area": "Argentina",
+    "instructions": "Combine Ingredients: In a large, heavy-bottomed pot, mix the milk, sugar, and baking soda. Cook over low heat, stirring constantly to prevent burning.\r\nThicken: Continue to cook, stirring frequently, until the mixture becomes thick and caramel-colored, about 1-2 hours.\r\nFlavor: Stir in the vanilla extract.\r\nCool: Let the dulce de leche cool, then transfer to a jar. It will thicken further as it cools.\r\nPro Tips:\r\n\r\nStir continuously and keep the heat low to prevent the milk from burning and sticking to the bottom of the pan.\r\nA drop of vanilla extract added at the end of cooking enhances the flavor.",
+    "ingredients": [
+      {
+        "ingredient": "Milk",
+        "measure": "1 Litre"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "300g"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Vanilla Extract",
+        "measure": "1 teaspoon"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=2J0ICGYsBL4",
+    "thumb": "https://www.themealdb.com/images/media/meals/jyjlhj1763075323.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q917761",
+    "themealdb": "53137"
+  }
+}

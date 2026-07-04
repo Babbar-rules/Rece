@@ -1,0 +1,21 @@
+{
+  "id": "Q9293083",
+  "name": "Rinderroulade",
+  "description": "beef dish",
+  "nationality": [
+    "Switzerland",
+    "Bohemia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rinderroulade-q9293083/rinderroulade-q9293083-1.jpg",
+    "images/rinderroulade-q9293083/rinderroulade-q9293083-2.jpg",
+    "images/rinderroulade-q9293083/rinderroulade-q9293083-3.jpg",
+    "images/rinderroulade-q9293083/rinderroulade-q9293083-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9293083",
+    "themealdb": null
+  }
+}

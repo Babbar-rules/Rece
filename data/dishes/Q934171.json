@@ -1,0 +1,20 @@
+{
+  "id": "Q934171",
+  "name": "green tea ice cream",
+  "description": "Dessert",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/green-tea-ice-cream-q934171/green-tea-ice-cream-q934171-1.jpg",
+    "images/green-tea-ice-cream-q934171/green-tea-ice-cream-q934171-2.jpg",
+    "images/green-tea-ice-cream-q934171/green-tea-ice-cream-q934171-3.jpg",
+    "images/green-tea-ice-cream-q934171/green-tea-ice-cream-q934171-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q934171",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q940757",
+  "name": "petit four",
+  "description": "small confectionery or savoury appetizer",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/petit-four-q940757/petit-four-q940757-1.png",
+    "images/petit-four-q940757/petit-four-q940757-2.jpg",
+    "images/petit-four-q940757/petit-four-q940757-3.jpg",
+    "images/petit-four-q940757/petit-four-q940757-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q940757",
+    "themealdb": null
+  }
+}

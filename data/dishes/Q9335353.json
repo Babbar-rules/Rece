@@ -1,0 +1,21 @@
+{
+  "id": "Q9335353",
+  "name": "apple cheese",
+  "description": "traditional Lithuanian dessert",
+  "nationality": [
+    "Poland",
+    "Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-cheese-q9335353/apple-cheese-q9335353-1.jpg",
+    "images/apple-cheese-q9335353/apple-cheese-q9335353-2.jpg",
+    "images/apple-cheese-q9335353/apple-cheese-q9335353-3.jpg",
+    "images/apple-cheese-q9335353/apple-cheese-q9335353-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9335353",
+    "themealdb": null
+  }
+}

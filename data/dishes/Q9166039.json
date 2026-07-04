@@ -1,0 +1,20 @@
+{
+  "id": "Q9166039",
+  "name": "Cookbook:Ukrainian Borscht",
+  "description": "",
+  "nationality": [
+    "Ukraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cookbookukrainian-borscht-q9166039/cookbookukrainian-borscht-q9166039-1.jpg",
+    "images/cookbookukrainian-borscht-q9166039/cookbookukrainian-borscht-q9166039-2.jpg",
+    "images/cookbookukrainian-borscht-q9166039/cookbookukrainian-borscht-q9166039-3.jpg",
+    "images/cookbookukrainian-borscht-q9166039/cookbookukrainian-borscht-q9166039-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9166039",
+    "themealdb": null
+  }
+}

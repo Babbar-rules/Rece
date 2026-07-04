@@ -1,0 +1,18 @@
+{
+  "id": "Q9185291",
+  "name": "cazabe",
+  "description": "cassava bread",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cazabe-q9185291/cazabe-q9185291-1.jpg",
+    "images/cazabe-q9185291/cazabe-q9185291-2.jpg",
+    "images/cazabe-q9185291/cazabe-q9185291-3.jpg",
+    "images/cazabe-q9185291/cazabe-q9185291-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9185291",
+    "themealdb": null
+  }
+}

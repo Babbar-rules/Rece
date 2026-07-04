@@ -1,0 +1,22 @@
+{
+  "id": "Q92180702",
+  "name": "fyddžyn",
+  "description": "Ossetian meat pie",
+  "nationality": [
+    "Ossetia"
+  ],
+  "region_cuisine": [
+    "Ossetian cuisine"
+  ],
+  "images": [
+    "images/fyddzyn-q92180702/fyddzyn-q92180702-1.jpg",
+    "images/fyddzyn-q92180702/fyddzyn-q92180702-2.jpg",
+    "images/fyddzyn-q92180702/fyddzyn-q92180702-3.jpg",
+    "images/fyddzyn-q92180702/fyddzyn-q92180702-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q92180702",
+    "themealdb": null
+  }
+}

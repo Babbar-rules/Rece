@@ -1,0 +1,18 @@
+{
+  "id": "Q9282304",
+  "name": "pickled mushrooms",
+  "description": "mushrooms preserved using vinegar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pickled-mushrooms-q9282304/pickled-mushrooms-q9282304-1.jpg",
+    "images/pickled-mushrooms-q9282304/pickled-mushrooms-q9282304-2.jpg",
+    "images/pickled-mushrooms-q9282304/pickled-mushrooms-q9282304-3.jpg",
+    "images/pickled-mushrooms-q9282304/pickled-mushrooms-q9282304-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9282304",
+    "themealdb": null
+  }
+}

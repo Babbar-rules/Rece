@@ -1,0 +1,20 @@
+{
+  "id": "Q9340263",
+  "name": "Spighe",
+  "description": "Polish name of pasta",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spighe-q9340263/spighe-q9340263-1.jpg",
+    "images/spighe-q9340263/spighe-q9340263-2.jpg",
+    "images/spighe-q9340263/spighe-q9340263-3.jpg",
+    "images/spighe-q9340263/spighe-q9340263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9340263",
+    "themealdb": null
+  }
+}

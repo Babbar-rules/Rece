@@ -1,0 +1,18 @@
+{
+  "id": "Q932080",
+  "name": "Kvikk Lunsj",
+  "description": "brand of chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kvikk-lunsj-q932080/kvikk-lunsj-q932080-1.png",
+    "images/kvikk-lunsj-q932080/kvikk-lunsj-q932080-2.png",
+    "images/kvikk-lunsj-q932080/kvikk-lunsj-q932080-3.jpg",
+    "images/kvikk-lunsj-q932080/kvikk-lunsj-q932080-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q932080",
+    "themealdb": null
+  }
+}

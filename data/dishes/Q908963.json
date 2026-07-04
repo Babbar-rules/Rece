@@ -1,0 +1,20 @@
+{
+  "id": "Q908963",
+  "name": "Mofongo",
+  "description": "Puerto Rican dish.",
+  "nationality": [
+    "Puerto Rico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mofongo-q908963/mofongo-q908963-1.jpg",
+    "images/mofongo-q908963/mofongo-q908963-2.jpg",
+    "images/mofongo-q908963/mofongo-q908963-3.jpg",
+    "images/mofongo-q908963/mofongo-q908963-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q908963",
+    "themealdb": null
+  }
+}

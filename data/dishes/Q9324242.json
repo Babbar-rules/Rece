@@ -1,0 +1,18 @@
+{
+  "id": "Q9324242",
+  "name": "Greek-style fish",
+  "description": "Polish Christmas dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/greek-style-fish-q9324242/greek-style-fish-q9324242-1.jpg",
+    "images/greek-style-fish-q9324242/greek-style-fish-q9324242-2.jpg",
+    "images/greek-style-fish-q9324242/greek-style-fish-q9324242-3.jpg",
+    "images/greek-style-fish-q9324242/greek-style-fish-q9324242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9324242",
+    "themealdb": null
+  }
+}

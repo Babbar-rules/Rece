@@ -1,0 +1,20 @@
+{
+  "id": "Q937960",
+  "name": "tamago kake gohan",
+  "description": "Japanese breakfast dish of rice and egg",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tamago-kake-gohan-q937960/tamago-kake-gohan-q937960-1.jpg",
+    "images/tamago-kake-gohan-q937960/tamago-kake-gohan-q937960-2.jpg",
+    "images/tamago-kake-gohan-q937960/tamago-kake-gohan-q937960-3.jpg",
+    "images/tamago-kake-gohan-q937960/tamago-kake-gohan-q937960-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q937960",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q937013",
+  "name": "bouillon cube",
+  "description": "dehydrated broth or stock formed into a small cube",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bouillon-cube-q937013/bouillon-cube-q937013-1.jpg",
+    "images/bouillon-cube-q937013/bouillon-cube-q937013-2.jpg",
+    "images/bouillon-cube-q937013/bouillon-cube-q937013-3.jpg",
+    "images/bouillon-cube-q937013/bouillon-cube-q937013-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q937013",
+    "themealdb": null
+  }
+}

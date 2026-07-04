@@ -1,0 +1,20 @@
+{
+  "id": "Q929364",
+  "name": "Dal bhat",
+  "description": "Lentil and rice dish",
+  "nationality": [
+    "Nepal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dal-bhat-q929364/dal-bhat-q929364-1.jpg",
+    "images/dal-bhat-q929364/dal-bhat-q929364-2.jpg",
+    "images/dal-bhat-q929364/dal-bhat-q929364-3.jpg",
+    "images/dal-bhat-q929364/dal-bhat-q929364-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q929364",
+    "themealdb": null
+  }
+}

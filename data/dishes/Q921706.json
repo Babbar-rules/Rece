@@ -1,0 +1,20 @@
+{
+  "id": "Q921706",
+  "name": "bhakri",
+  "description": "unleavened bread used in the cuisine of western and central India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bhakri-q921706/bhakri-q921706-1.jpg",
+    "images/bhakri-q921706/bhakri-q921706-2.jpg",
+    "images/bhakri-q921706/bhakri-q921706-3.jpg",
+    "images/bhakri-q921706/bhakri-q921706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q921706",
+    "themealdb": null
+  }
+}

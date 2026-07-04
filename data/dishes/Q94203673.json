@@ -1,0 +1,20 @@
+{
+  "id": "Q94203673",
+  "name": "Bananas Foster cheesecake",
+  "description": "dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bananas-foster-cheesecake-q94203673/bananas-foster-cheesecake-q94203673-1.jpg",
+    "images/bananas-foster-cheesecake-q94203673/bananas-foster-cheesecake-q94203673-2.jpg",
+    "images/bananas-foster-cheesecake-q94203673/bananas-foster-cheesecake-q94203673-3.jpg",
+    "images/bananas-foster-cheesecake-q94203673/bananas-foster-cheesecake-q94203673-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94203673",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q918216",
+  "name": "Zeppole",
+  "description": "Italian pastry",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/zeppole-q918216/zeppole-q918216-1.jpg",
+    "images/zeppole-q918216/zeppole-q918216-2.jpg",
+    "images/zeppole-q918216/zeppole-q918216-3.jpg",
+    "images/zeppole-q918216/zeppole-q918216-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q918216",
+    "themealdb": null
+  }
+}

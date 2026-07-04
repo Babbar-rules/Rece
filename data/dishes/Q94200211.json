@@ -1,0 +1,20 @@
+{
+  "id": "Q94200211",
+  "name": "Bananas Foster ice cream",
+  "description": "dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bananas-foster-ice-cream-q94200211/bananas-foster-ice-cream-q94200211-1.jpg",
+    "images/bananas-foster-ice-cream-q94200211/bananas-foster-ice-cream-q94200211-2.jpg",
+    "images/bananas-foster-ice-cream-q94200211/bananas-foster-ice-cream-q94200211-3.jpg",
+    "images/bananas-foster-ice-cream-q94200211/bananas-foster-ice-cream-q94200211-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94200211",
+    "themealdb": null
+  }
+}

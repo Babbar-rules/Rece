@@ -1,0 +1,17 @@
+{
+  "id": "Q948429",
+  "name": "Ajigonomi",
+  "description": "Japanese snack food mix",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ajigonomi-q948429/ajigonomi-q948429-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q948429",
+    "themealdb": null
+  }
+}

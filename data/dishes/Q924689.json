@@ -1,0 +1,22 @@
+{
+  "id": "Q924689",
+  "name": "soto ayam",
+  "description": "Indonesian spicy chicken soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/soto-ayam-q924689/soto-ayam-q924689-1.jpg",
+    "images/soto-ayam-q924689/soto-ayam-q924689-2.jpg",
+    "images/soto-ayam-q924689/soto-ayam-q924689-3.jpg",
+    "images/soto-ayam-q924689/soto-ayam-q924689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q924689",
+    "themealdb": null
+  }
+}

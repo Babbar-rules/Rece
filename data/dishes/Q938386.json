@@ -1,0 +1,20 @@
+{
+  "id": "Q938386",
+  "name": "Fricasse",
+  "description": "Tunisian savory stuffed fried pastry",
+  "nationality": [
+    "Tunisia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fricasse-q938386/fricasse-q938386-1.jpg",
+    "images/fricasse-q938386/fricasse-q938386-2.jpg",
+    "images/fricasse-q938386/fricasse-q938386-3.jpg",
+    "images/fricasse-q938386/fricasse-q938386-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q938386",
+    "themealdb": null
+  }
+}

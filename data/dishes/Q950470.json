@@ -1,0 +1,18 @@
+{
+  "id": "Q950470",
+  "name": "garum",
+  "description": "fermented fish sauce used as a condiment",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/garum-q950470/garum-q950470-1.jpg",
+    "images/garum-q950470/garum-q950470-2.jpg",
+    "images/garum-q950470/garum-q950470-3.jpg",
+    "images/garum-q950470/garum-q950470-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q950470",
+    "themealdb": null
+  }
+}

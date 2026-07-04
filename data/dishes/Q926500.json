@@ -1,0 +1,18 @@
+{
+  "id": "Q926500",
+  "name": "sesame seed candy",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sesame-seed-candy-q926500/sesame-seed-candy-q926500-1.jpg",
+    "images/sesame-seed-candy-q926500/sesame-seed-candy-q926500-2.jpg",
+    "images/sesame-seed-candy-q926500/sesame-seed-candy-q926500-3.jpg",
+    "images/sesame-seed-candy-q926500/sesame-seed-candy-q926500-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q926500",
+    "themealdb": null
+  }
+}

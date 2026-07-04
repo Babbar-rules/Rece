@@ -1,0 +1,20 @@
+{
+  "id": "Q918148",
+  "name": "papad",
+  "description": "snack food from Indian subcontinent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/papad-q918148/papad-q918148-1.jpg",
+    "images/papad-q918148/papad-q918148-2.jpg",
+    "images/papad-q918148/papad-q918148-3.jpg",
+    "images/papad-q918148/papad-q918148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q918148",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q906754",
+  "name": "McFlurry",
+  "description": "frozen dessert sold at McDonald's",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mcflurry-q906754/mcflurry-q906754-1.jpg",
+    "images/mcflurry-q906754/mcflurry-q906754-2.jpg",
+    "images/mcflurry-q906754/mcflurry-q906754-3.jpg",
+    "images/mcflurry-q906754/mcflurry-q906754-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q906754",
+    "themealdb": null
+  }
+}

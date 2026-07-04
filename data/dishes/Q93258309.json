@@ -1,0 +1,20 @@
+{
+  "id": "Q93258309",
+  "name": "yomogi mochi",
+  "description": "Japanese mugwort rice cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yomogi-mochi-q93258309/yomogi-mochi-q93258309-1.jpg",
+    "images/yomogi-mochi-q93258309/yomogi-mochi-q93258309-2.jpg",
+    "images/yomogi-mochi-q93258309/yomogi-mochi-q93258309-3.jpg",
+    "images/yomogi-mochi-q93258309/yomogi-mochi-q93258309-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q93258309",
+    "themealdb": null
+  }
+}

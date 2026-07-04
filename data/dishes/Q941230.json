@@ -1,0 +1,20 @@
+{
+  "id": "Q941230",
+  "name": "Vitello tonnato",
+  "description": "dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vitello-tonnato-q941230/vitello-tonnato-q941230-1.jpeg",
+    "images/vitello-tonnato-q941230/vitello-tonnato-q941230-2.jpg",
+    "images/vitello-tonnato-q941230/vitello-tonnato-q941230-3.jpeg",
+    "images/vitello-tonnato-q941230/vitello-tonnato-q941230-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q941230",
+    "themealdb": null
+  }
+}

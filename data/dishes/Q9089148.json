@@ -1,0 +1,18 @@
+{
+  "id": "Q9089148",
+  "name": "tortas fritas",
+  "description": "fried and flat breads from Argentina, Paraguay and Uruguay",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tortas-fritas-q9089148/tortas-fritas-q9089148-1.jpg",
+    "images/tortas-fritas-q9089148/tortas-fritas-q9089148-2.jpg",
+    "images/tortas-fritas-q9089148/tortas-fritas-q9089148-3.jpg",
+    "images/tortas-fritas-q9089148/tortas-fritas-q9089148-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9089148",
+    "themealdb": null
+  }
+}

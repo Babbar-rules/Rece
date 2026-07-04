@@ -1,0 +1,22 @@
+{
+  "id": "Q911117",
+  "name": "gopchang",
+  "description": "Korean dish of beef small intestines",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "Korean cuisine"
+  ],
+  "images": [
+    "images/gopchang-q911117/gopchang-q911117-1.jpg",
+    "images/gopchang-q911117/gopchang-q911117-2.jpg",
+    "images/gopchang-q911117/gopchang-q911117-3.jpg",
+    "images/gopchang-q911117/gopchang-q911117-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q911117",
+    "themealdb": null
+  }
+}

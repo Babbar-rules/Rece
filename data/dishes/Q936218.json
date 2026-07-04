@@ -1,0 +1,20 @@
+{
+  "id": "Q936218",
+  "name": "Chakhchoukha",
+  "description": "Algerian dish of torn bread and stew",
+  "nationality": [
+    "Algeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chakhchoukha-q936218/chakhchoukha-q936218-1.jpg",
+    "images/chakhchoukha-q936218/chakhchoukha-q936218-2.jpg",
+    "images/chakhchoukha-q936218/chakhchoukha-q936218-3.jpg",
+    "images/chakhchoukha-q936218/chakhchoukha-q936218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q936218",
+    "themealdb": null
+  }
+}

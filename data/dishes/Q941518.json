@@ -1,0 +1,18 @@
+{
+  "id": "Q941518",
+  "name": "comfit",
+  "description": "confectionery consisting of dried fruits, nuts, seeds or spices coated with sugar candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/comfit-q941518/comfit-q941518-1.jpg",
+    "images/comfit-q941518/comfit-q941518-2.jpg",
+    "images/comfit-q941518/comfit-q941518-3.jpg",
+    "images/comfit-q941518/comfit-q941518-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q941518",
+    "themealdb": null
+  }
+}

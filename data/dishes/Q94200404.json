@@ -1,0 +1,20 @@
+{
+  "id": "Q94200404",
+  "name": "Bananas Foster bread pudding",
+  "description": "dessert",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bananas-foster-bread-pudding-q94200404/bananas-foster-bread-pudding-q94200404-1.jpg",
+    "images/bananas-foster-bread-pudding-q94200404/bananas-foster-bread-pudding-q94200404-2.jpg",
+    "images/bananas-foster-bread-pudding-q94200404/bananas-foster-bread-pudding-q94200404-3.jpg",
+    "images/bananas-foster-bread-pudding-q94200404/bananas-foster-bread-pudding-q94200404-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94200404",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q91545570",
+  "name": "Hutki Shira",
+  "description": "fermented fish curry famous in Sylhet region",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hutki-shira-q91545570/hutki-shira-q91545570-1.jpg",
+    "images/hutki-shira-q91545570/hutki-shira-q91545570-2.jpg",
+    "images/hutki-shira-q91545570/hutki-shira-q91545570-3.jpg",
+    "images/hutki-shira-q91545570/hutki-shira-q91545570-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q91545570",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "Q945096",
+  "name": "Ćevapi",
+  "description": "dish from Southeast Europe",
+  "nationality": [
+    "West Asia",
+    "Persis",
+    "Southeastern Europe"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/cevapi-q945096/cevapi-q945096-1.jpg",
+    "images/cevapi-q945096/cevapi-q945096-2.jpg",
+    "images/cevapi-q945096/cevapi-q945096-3.jpg",
+    "images/cevapi-q945096/cevapi-q945096-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53055",
+    "category": "Beef",
+    "area": "Croatian",
+    "instructions": "Place the ground meat in a bowl. Chop the onion very finely and grate the garlic cloves. Add to the bowl. Add the chopped parsley, all sorts of paprika, baking soda, dried breadcrumbs, water, Vegeta, salt, and pepper.\r\nMix well with the hand mixer fitted with the dough hooks. Cover the bowl with cling film/ plastic foil and leave to rest for 1 or 2 hours in the refrigerator.\r\nTake portions of the meat mixture, about 50-55 g/ 1.7-1.9 oz/ ¼ cup portions, and form the cevapi. The rolls should be about as thick as your thumb and about 7-10 cm/ 3-4 inches long. I had 18 sausages. The recipe can be easily doubled.\r\nGrill the cevapcici on the hot grill pan or on the barbecue for about 12-14 minutes, turning them several times in between, or until brown and cooked through. I checked by cutting one in the middle and then grilling the following batches for the same period of time.\r\nServe hot as suggested above. The cevapcici can be reheated in the oven at 180 degrees Celsius/ 350 degrees Fahrenheit for about 10 minutes or until heated through. Check one, if it is not hot enough, give the sausages a few more minutes.",
+    "ingredients": [
+      {
+        "ingredient": "Minced Beef",
+        "measure": "500g"
+      },
+      {
+        "ingredient": "Minced Pork",
+        "measure": "250g"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "4 cloves"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "3 tblsp chopped"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "3/4 teaspoon"
+      },
+      {
+        "ingredient": "Breadcrumbs",
+        "measure": "2 tbs"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "3 tbs"
+      },
+      {
+        "ingredient": "Vegetable Stock Cube",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "1 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=_MpSxSgS7f8",
+    "thumb": "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q945096",
+    "themealdb": "53055"
+  }
+}

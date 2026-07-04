@@ -1,0 +1,20 @@
+{
+  "id": "Q935807",
+  "name": "injera",
+  "description": "sourdough flatbread",
+  "nationality": [
+    "Ethiopia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/injera-q935807/injera-q935807-1.jpg",
+    "images/injera-q935807/injera-q935807-2.jpg",
+    "images/injera-q935807/injera-q935807-3.jpg",
+    "images/injera-q935807/injera-q935807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q935807",
+    "themealdb": null
+  }
+}

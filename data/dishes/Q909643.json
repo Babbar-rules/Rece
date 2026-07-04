@@ -1,0 +1,20 @@
+{
+  "id": "Q909643",
+  "name": "guk",
+  "description": "class of soup-like dishes in Korean cuisine",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/guk-q909643/guk-q909643-1.jpg",
+    "images/guk-q909643/guk-q909643-2.png",
+    "images/guk-q909643/guk-q909643-3.jpg",
+    "images/guk-q909643/guk-q909643-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q909643",
+    "themealdb": null
+  }
+}

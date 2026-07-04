@@ -1,0 +1,18 @@
+{
+  "id": "Q92298243",
+  "name": "Caramanduca",
+  "description": "a Peruvian biscuit",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caramanduca-q92298243/caramanduca-q92298243-1.jpg",
+    "images/caramanduca-q92298243/caramanduca-q92298243-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q92298243",
+    "themealdb": null
+  }
+}

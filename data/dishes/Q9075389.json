@@ -1,0 +1,20 @@
+{
+  "id": "Q9075389",
+  "name": "Dry of goat",
+  "description": "",
+  "nationality": [
+    "Ecuador"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dry-of-goat-q9075389/dry-of-goat-q9075389-1.jpg",
+    "images/dry-of-goat-q9075389/dry-of-goat-q9075389-2.jpg",
+    "images/dry-of-goat-q9075389/dry-of-goat-q9075389-3.jpg",
+    "images/dry-of-goat-q9075389/dry-of-goat-q9075389-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9075389",
+    "themealdb": null
+  }
+}

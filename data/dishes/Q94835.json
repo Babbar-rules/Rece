@@ -1,0 +1,20 @@
+{
+  "id": "Q94835",
+  "name": "coconut jam",
+  "description": "jam made from a base of coconut milk, eggs and sugar",
+  "nationality": [
+    "Malacca"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coconut-jam-q94835/coconut-jam-q94835-1.jpg",
+    "images/coconut-jam-q94835/coconut-jam-q94835-2.jpg",
+    "images/coconut-jam-q94835/coconut-jam-q94835-3.jpg",
+    "images/coconut-jam-q94835/coconut-jam-q94835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94835",
+    "themealdb": null
+  }
+}

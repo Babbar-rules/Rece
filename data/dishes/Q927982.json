@@ -1,0 +1,22 @@
+{
+  "id": "Q927982",
+  "name": "Cocido Montañés",
+  "description": "Cantabrian bean stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [
+    "Cantabrian cuisine"
+  ],
+  "images": [
+    "images/cocido-montanes-q927982/cocido-montanes-q927982-1.jpg",
+    "images/cocido-montanes-q927982/cocido-montanes-q927982-2.jpg",
+    "images/cocido-montanes-q927982/cocido-montanes-q927982-3.jpg",
+    "images/cocido-montanes-q927982/cocido-montanes-q927982-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q927982",
+    "themealdb": null
+  }
+}

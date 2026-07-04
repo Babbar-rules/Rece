@@ -1,0 +1,20 @@
+{
+  "id": "Q910515",
+  "name": "Galinha à Portuguesa",
+  "description": "Macanese dish of chicken and potatoes and rice",
+  "nationality": [
+    "Portuguese Macau"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/galinha-a-portuguesa-q910515/galinha-a-portuguesa-q910515-1.jpg",
+    "images/galinha-a-portuguesa-q910515/galinha-a-portuguesa-q910515-2.jpg",
+    "images/galinha-a-portuguesa-q910515/galinha-a-portuguesa-q910515-3.jpg",
+    "images/galinha-a-portuguesa-q910515/galinha-a-portuguesa-q910515-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q910515",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q933433",
+  "name": "Kokoretsi",
+  "description": "grilled lamb or goat intestines",
+  "nationality": [
+    "Byzantine Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kokoretsi-q933433/kokoretsi-q933433-1.jpg",
+    "images/kokoretsi-q933433/kokoretsi-q933433-2.jpg",
+    "images/kokoretsi-q933433/kokoretsi-q933433-3.jpg",
+    "images/kokoretsi-q933433/kokoretsi-q933433-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q933433",
+    "themealdb": null
+  }
+}

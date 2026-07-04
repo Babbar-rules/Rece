@@ -1,0 +1,20 @@
+{
+  "id": "Q94208532",
+  "name": "shrimp po' boy",
+  "description": "American sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-po-boy-q94208532/shrimp-po-boy-q94208532-1.jpg",
+    "images/shrimp-po-boy-q94208532/shrimp-po-boy-q94208532-2.jpg",
+    "images/shrimp-po-boy-q94208532/shrimp-po-boy-q94208532-3.jpg",
+    "images/shrimp-po-boy-q94208532/shrimp-po-boy-q94208532-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94208532",
+    "themealdb": null
+  }
+}

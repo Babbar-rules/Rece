@@ -1,0 +1,18 @@
+{
+  "id": "Q917646",
+  "name": "Rigatoni con la pajata",
+  "description": "traditional Italian pasta dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rigatoni-con-la-pajata-q917646/rigatoni-con-la-pajata-q917646-1.jpg",
+    "images/rigatoni-con-la-pajata-q917646/rigatoni-con-la-pajata-q917646-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q917646",
+    "themealdb": null
+  }
+}

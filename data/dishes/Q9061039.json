@@ -1,0 +1,21 @@
+{
+  "id": "Q9061039",
+  "name": "plecing kangkung",
+  "description": "plant based food from Lombok",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/plecing-kangkung-q9061039/plecing-kangkung-q9061039-1.jpg",
+    "images/plecing-kangkung-q9061039/plecing-kangkung-q9061039-2.jpg",
+    "images/plecing-kangkung-q9061039/plecing-kangkung-q9061039-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9061039",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q9366979",
+  "name": "uramakizushi",
+  "description": "kind of rolled sushi with nori on the inside and rice on the outside",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/uramakizushi-q9366979/uramakizushi-q9366979-1.jpg",
+    "images/uramakizushi-q9366979/uramakizushi-q9366979-2.jpg",
+    "images/uramakizushi-q9366979/uramakizushi-q9366979-3.jpg",
+    "images/uramakizushi-q9366979/uramakizushi-q9366979-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9366979",
+    "themealdb": null
+  }
+}

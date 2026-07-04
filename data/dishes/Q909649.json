@@ -1,0 +1,20 @@
+{
+  "id": "Q909649",
+  "name": "sundubu-jjigae",
+  "description": "Korean soft tofu stew",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sundubu-jjigae-q909649/sundubu-jjigae-q909649-1.jpg",
+    "images/sundubu-jjigae-q909649/sundubu-jjigae-q909649-2.jpg",
+    "images/sundubu-jjigae-q909649/sundubu-jjigae-q909649-3.jpg",
+    "images/sundubu-jjigae-q909649/sundubu-jjigae-q909649-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q909649",
+    "themealdb": null
+  }
+}

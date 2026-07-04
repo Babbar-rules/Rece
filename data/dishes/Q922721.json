@@ -1,0 +1,20 @@
+{
+  "id": "Q922721",
+  "name": "Tiger bread",
+  "description": "bread loaf of Dutch origin with a mottled crust made by painting rice paste onto the surface before baking",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiger-bread-q922721/tiger-bread-q922721-1.jpg",
+    "images/tiger-bread-q922721/tiger-bread-q922721-2.jpg",
+    "images/tiger-bread-q922721/tiger-bread-q922721-3.jpg",
+    "images/tiger-bread-q922721/tiger-bread-q922721-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q922721",
+    "themealdb": null
+  }
+}

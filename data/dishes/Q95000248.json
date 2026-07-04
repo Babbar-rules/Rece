@@ -1,0 +1,20 @@
+{
+  "id": "Q95000248",
+  "name": "Mazapán de la Rosa",
+  "description": "Mexican peanut candy, Mexican peanut marzipan",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mazapan-de-la-rosa-q95000248/mazapan-de-la-rosa-q95000248-1.jpg",
+    "images/mazapan-de-la-rosa-q95000248/mazapan-de-la-rosa-q95000248-2.jpg",
+    "images/mazapan-de-la-rosa-q95000248/mazapan-de-la-rosa-q95000248-3.jpg",
+    "images/mazapan-de-la-rosa-q95000248/mazapan-de-la-rosa-q95000248-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95000248",
+    "themealdb": null
+  }
+}

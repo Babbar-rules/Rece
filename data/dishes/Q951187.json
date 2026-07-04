@@ -1,0 +1,20 @@
+{
+  "id": "Q951187",
+  "name": "Mekitsa",
+  "description": "food",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mekitsa-q951187/mekitsa-q951187-1.jpg",
+    "images/mekitsa-q951187/mekitsa-q951187-2.jpg",
+    "images/mekitsa-q951187/mekitsa-q951187-3.jpg",
+    "images/mekitsa-q951187/mekitsa-q951187-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q951187",
+    "themealdb": null
+  }
+}

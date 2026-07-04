@@ -1,0 +1,20 @@
+{
+  "id": "Q938300",
+  "name": "Pumpkin-coconut custard",
+  "description": "a coconut custard steam-baked in a pumpkin or kabocha",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pumpkin-coconut-custard-q938300/pumpkin-coconut-custard-q938300-1.jpg",
+    "images/pumpkin-coconut-custard-q938300/pumpkin-coconut-custard-q938300-2.jpg",
+    "images/pumpkin-coconut-custard-q938300/pumpkin-coconut-custard-q938300-3.jpg",
+    "images/pumpkin-coconut-custard-q938300/pumpkin-coconut-custard-q938300-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q938300",
+    "themealdb": null
+  }
+}

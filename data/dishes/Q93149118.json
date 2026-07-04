@@ -1,0 +1,18 @@
+{
+  "id": "Q93149118",
+  "name": "dinner roll",
+  "description": "type of food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dinner-roll-q93149118/dinner-roll-q93149118-1.jpg",
+    "images/dinner-roll-q93149118/dinner-roll-q93149118-2.jpg",
+    "images/dinner-roll-q93149118/dinner-roll-q93149118-3.jpg",
+    "images/dinner-roll-q93149118/dinner-roll-q93149118-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q93149118",
+    "themealdb": null
+  }
+}

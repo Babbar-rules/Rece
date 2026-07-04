@@ -1,0 +1,20 @@
+{
+  "id": "Q91908928",
+  "name": "pizza quattro formaggi",
+  "description": "kind of pizza",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-quattro-formaggi-q91908928/pizza-quattro-formaggi-q91908928-1.jpg",
+    "images/pizza-quattro-formaggi-q91908928/pizza-quattro-formaggi-q91908928-2.jpg",
+    "images/pizza-quattro-formaggi-q91908928/pizza-quattro-formaggi-q91908928-3.jpg",
+    "images/pizza-quattro-formaggi-q91908928/pizza-quattro-formaggi-q91908928-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q91908928",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q935937",
+  "name": "Miguelitos",
+  "description": "food",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miguelitos-q935937/miguelitos-q935937-1.jpeg",
+    "images/miguelitos-q935937/miguelitos-q935937-2.jpeg",
+    "images/miguelitos-q935937/miguelitos-q935937-3.jpg",
+    "images/miguelitos-q935937/miguelitos-q935937-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q935937",
+    "themealdb": null
+  }
+}

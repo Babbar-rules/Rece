@@ -1,0 +1,20 @@
+{
+  "id": "Q93126485",
+  "name": "german bread roll",
+  "description": "",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/german-bread-roll-q93126485/german-bread-roll-q93126485-1.jpg",
+    "images/german-bread-roll-q93126485/german-bread-roll-q93126485-2.jpg",
+    "images/german-bread-roll-q93126485/german-bread-roll-q93126485-3.jpg",
+    "images/german-bread-roll-q93126485/german-bread-roll-q93126485-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q93126485",
+    "themealdb": null
+  }
+}

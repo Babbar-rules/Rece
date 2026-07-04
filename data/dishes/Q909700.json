@@ -1,0 +1,20 @@
+{
+  "id": "Q909700",
+  "name": "jorim",
+  "description": "Korean simmered dish category",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jorim-q909700/jorim-q909700-1.jpg",
+    "images/jorim-q909700/jorim-q909700-2.jpg",
+    "images/jorim-q909700/jorim-q909700-3.jpg",
+    "images/jorim-q909700/jorim-q909700-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q909700",
+    "themealdb": null
+  }
+}

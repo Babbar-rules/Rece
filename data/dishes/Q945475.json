@@ -1,0 +1,20 @@
+{
+  "id": "Q945475",
+  "name": "coleslaw",
+  "description": "salad consisting primarily of finely-shredded raw cabbage",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/coleslaw-q945475/coleslaw-q945475-1.jpg",
+    "images/coleslaw-q945475/coleslaw-q945475-2.jpg",
+    "images/coleslaw-q945475/coleslaw-q945475-3.jpg",
+    "images/coleslaw-q945475/coleslaw-q945475-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q945475",
+    "themealdb": null
+  }
+}

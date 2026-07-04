@@ -1,0 +1,20 @@
+{
+  "id": "Q9294302",
+  "name": "Hořické roll",
+  "description": "Czech dessert",
+  "nationality": [
+    "Czech Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/horicke-roll-q9294302/horicke-roll-q9294302-1.jpg",
+    "images/horicke-roll-q9294302/horicke-roll-q9294302-2.jpg",
+    "images/horicke-roll-q9294302/horicke-roll-q9294302-3.jpg",
+    "images/horicke-roll-q9294302/horicke-roll-q9294302-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9294302",
+    "themealdb": null
+  }
+}

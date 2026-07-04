@@ -1,0 +1,20 @@
+{
+  "id": "Q9090648",
+  "name": "tutu de feijão",
+  "description": "Brazilian dish of puréed beans thickened with cassava or corn flour",
+  "nationality": [
+    "Brazil"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tutu-de-feijao-q9090648/tutu-de-feijao-q9090648-1.jpg",
+    "images/tutu-de-feijao-q9090648/tutu-de-feijao-q9090648-2.jpg",
+    "images/tutu-de-feijao-q9090648/tutu-de-feijao-q9090648-3.jpg",
+    "images/tutu-de-feijao-q9090648/tutu-de-feijao-q9090648-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9090648",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q9056706",
+  "name": "pastelitos criollos",
+  "description": "Argentinian pastry",
+  "nationality": [
+    "Argentina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pastelitos-criollos-q9056706/pastelitos-criollos-q9056706-1.jpg",
+    "images/pastelitos-criollos-q9056706/pastelitos-criollos-q9056706-2.jpg",
+    "images/pastelitos-criollos-q9056706/pastelitos-criollos-q9056706-3.jpg",
+    "images/pastelitos-criollos-q9056706/pastelitos-criollos-q9056706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9056706",
+    "themealdb": null
+  }
+}

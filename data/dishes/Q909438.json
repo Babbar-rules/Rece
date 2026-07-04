@@ -1,0 +1,23 @@
+{
+  "id": "Q909438",
+  "name": "lavash",
+  "description": "thin flatbread usually leavened, traditionally baked in a tonir",
+  "nationality": [
+    "Armenia",
+    "Middle East"
+  ],
+  "region_cuisine": [
+    "Armenian cuisine"
+  ],
+  "images": [
+    "images/lavash-q909438/lavash-q909438-1.jpg",
+    "images/lavash-q909438/lavash-q909438-2.jpg",
+    "images/lavash-q909438/lavash-q909438-3.jpg",
+    "images/lavash-q909438/lavash-q909438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q909438",
+    "themealdb": null
+  }
+}

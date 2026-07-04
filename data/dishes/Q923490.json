@@ -1,0 +1,20 @@
+{
+  "id": "Q923490",
+  "name": "boule",
+  "description": "traditional round bread shape",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boule-q923490/boule-q923490-1.jpg",
+    "images/boule-q923490/boule-q923490-2.jpg",
+    "images/boule-q923490/boule-q923490-3.jpg",
+    "images/boule-q923490/boule-q923490-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q923490",
+    "themealdb": null
+  }
+}

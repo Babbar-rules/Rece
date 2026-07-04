@@ -1,0 +1,18 @@
+{
+  "id": "Q9060549",
+  "name": "combination meal",
+  "description": "type of meal that typically includes food items and a beverage",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/combination-meal-q9060549/combination-meal-q9060549-1.jpg",
+    "images/combination-meal-q9060549/combination-meal-q9060549-2.jpg",
+    "images/combination-meal-q9060549/combination-meal-q9060549-3.jpg",
+    "images/combination-meal-q9060549/combination-meal-q9060549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9060549",
+    "themealdb": null
+  }
+}

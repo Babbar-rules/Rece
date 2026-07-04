@@ -1,0 +1,23 @@
+{
+  "id": "Q948994",
+  "name": "musakhan",
+  "description": "Palestinian Arab dish",
+  "nationality": [
+    "Jordan",
+    "Palestine"
+  ],
+  "region_cuisine": [
+    "Palestinian cuisine"
+  ],
+  "images": [
+    "images/musakhan-q948994/musakhan-q948994-1.jpg",
+    "images/musakhan-q948994/musakhan-q948994-2.jpg",
+    "images/musakhan-q948994/musakhan-q948994-3.jpg",
+    "images/musakhan-q948994/musakhan-q948994-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q948994",
+    "themealdb": null
+  }
+}

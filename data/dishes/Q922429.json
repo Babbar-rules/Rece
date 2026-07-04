@@ -1,0 +1,19 @@
+{
+  "id": "Q922429",
+  "name": "Jambonette",
+  "description": "",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jambonette-q922429/jambonette-q922429-1.jpg",
+    "images/jambonette-q922429/jambonette-q922429-2.jpg",
+    "images/jambonette-q922429/jambonette-q922429-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q922429",
+    "themealdb": null
+  }
+}

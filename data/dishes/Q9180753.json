@@ -1,0 +1,20 @@
+{
+  "id": "Q9180753",
+  "name": "bryjka",
+  "description": "Polish dish",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bryjka-q9180753/bryjka-q9180753-1.jpg",
+    "images/bryjka-q9180753/bryjka-q9180753-2.jpg",
+    "images/bryjka-q9180753/bryjka-q9180753-3.jpg",
+    "images/bryjka-q9180753/bryjka-q9180753-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9180753",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Q94218682",
+  "name": "vegan gumbo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegan-gumbo-q94218682/vegan-gumbo-q94218682-1.jpg",
+    "images/vegan-gumbo-q94218682/vegan-gumbo-q94218682-2.jpeg",
+    "images/vegan-gumbo-q94218682/vegan-gumbo-q94218682-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q94218682",
+    "themealdb": null
+  }
+}

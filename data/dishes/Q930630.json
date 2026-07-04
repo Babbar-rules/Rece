@@ -1,0 +1,20 @@
+{
+  "id": "Q930630",
+  "name": "monkey bread",
+  "description": "U.S. soft, sweet, sticky pastry, consisting of pieces of soft baked dough sprinkled with cinnamon",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/monkey-bread-q930630/monkey-bread-q930630-1.jpg",
+    "images/monkey-bread-q930630/monkey-bread-q930630-2.jpg",
+    "images/monkey-bread-q930630/monkey-bread-q930630-3.jpg",
+    "images/monkey-bread-q930630/monkey-bread-q930630-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q930630",
+    "themealdb": null
+  }
+}

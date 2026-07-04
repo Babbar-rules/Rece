@@ -1,0 +1,20 @@
+{
+  "id": "Q9373906",
+  "name": "red borscht with mini pierogies",
+  "description": "Polish Christmas Eve soup",
+  "nationality": [
+    "Grand Duchy of Lithuania"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/red-borscht-with-mini-pierogies-q9373906/red-borscht-with-mini-pierogies-q9373906-1.jpg",
+    "images/red-borscht-with-mini-pierogies-q9373906/red-borscht-with-mini-pierogies-q9373906-2.jpg",
+    "images/red-borscht-with-mini-pierogies-q9373906/red-borscht-with-mini-pierogies-q9373906-3.jpg",
+    "images/red-borscht-with-mini-pierogies-q9373906/red-borscht-with-mini-pierogies-q9373906-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9373906",
+    "themealdb": null
+  }
+}
