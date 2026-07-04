@@ -1,0 +1,18 @@
+{
+  "id": "Q86665833",
+  "name": "Pizza Rossini",
+  "description": "Specialties of Pesaro, Italy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pizza-rossini-q86665833/pizza-rossini-q86665833-1.jpg",
+    "images/pizza-rossini-q86665833/pizza-rossini-q86665833-2.jpg",
+    "images/pizza-rossini-q86665833/pizza-rossini-q86665833-3.jpg",
+    "images/pizza-rossini-q86665833/pizza-rossini-q86665833-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86665833",
+    "themealdb": null
+  }
+}

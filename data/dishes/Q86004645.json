@@ -1,0 +1,18 @@
+{
+  "id": "Q86004645",
+  "name": "Dhoda",
+  "description": "confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/dhoda-q86004645/dhoda-q86004645-1.jpg",
+    "images/dhoda-q86004645/dhoda-q86004645-2.jpg",
+    "images/dhoda-q86004645/dhoda-q86004645-3.jpg",
+    "images/dhoda-q86004645/dhoda-q86004645-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86004645",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q85747395",
+  "name": "Biscuit cake",
+  "description": "no bake cake",
+  "nationality": [
+    "Bulgaria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/biscuit-cake-q85747395/biscuit-cake-q85747395-1.jpg",
+    "images/biscuit-cake-q85747395/biscuit-cake-q85747395-2.jpg",
+    "images/biscuit-cake-q85747395/biscuit-cake-q85747395-3.jpg",
+    "images/biscuit-cake-q85747395/biscuit-cake-q85747395-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85747395",
+    "themealdb": null
+  }
+}

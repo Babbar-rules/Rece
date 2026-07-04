@@ -1,0 +1,18 @@
+{
+  "id": "Q85765579",
+  "name": "braised eggs",
+  "description": "traditional Sephardi Jewish dish, popular in Israel",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/braised-eggs-q85765579/braised-eggs-q85765579-1.jpg",
+    "images/braised-eggs-q85765579/braised-eggs-q85765579-2.jpg",
+    "images/braised-eggs-q85765579/braised-eggs-q85765579-3.jpg",
+    "images/braised-eggs-q85765579/braised-eggs-q85765579-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85765579",
+    "themealdb": null
+  }
+}

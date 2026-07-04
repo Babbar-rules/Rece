@@ -1,0 +1,20 @@
+{
+  "id": "Q844466",
+  "name": "siu yuk",
+  "description": "variety of siu mei",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/siu-yuk-q844466/siu-yuk-q844466-1.jpg",
+    "images/siu-yuk-q844466/siu-yuk-q844466-2.jpg",
+    "images/siu-yuk-q844466/siu-yuk-q844466-3.jpg",
+    "images/siu-yuk-q844466/siu-yuk-q844466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q844466",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "Q865004",
+  "name": "tajine",
+  "description": "traditional Amazigh (Berber) stew named after the earthenware pot it was cooked in Maghreb",
+  "nationality": [
+    "Maghreb"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/tajine-q865004/tajine-q865004-1.jpg",
+    "images/tajine-q865004/tajine-q865004-2.jpg",
+    "images/tajine-q865004/tajine-q865004-3.jpg",
+    "images/tajine-q865004/tajine-q865004-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53287",
+    "category": "Chicken",
+    "area": "Algerian",
+    "instructions": "Combine onions, celery, cilantro, and parsley in a large pot. Stir in turmeric, cumin, paprika, ginger, cayenne pepper, salt, and pepper. Place chicken thighs on top. Drizzle olive oil over chicken. Cover and simmer over low heat until chicken is tender, about 40 minutes.\r\n\r\nPlace raisins in a small bowl and cover with hot water; let soak for 10 minutes. Drain.\r\n\r\nPreheat oven to 400 degrees F (200 degrees C).\r\n\r\nTransfer chicken mixture into an oven-safe tagine or casserole dish. Add sweet potato and carrots. Cover with lid or aluminum foil.\r\n\r\nBake in the preheated oven until sweet potato is soft, about 40 minutes. Add drained raisins and prunes. Continue baking, covered, until raisins and prunes are heated through, about 10 minutes.",
+    "ingredients": [
+      {
+        "ingredient": "Onion",
+        "measure": "2 sliced"
+      },
+      {
+        "ingredient": "Celery",
+        "measure": "2 sliced"
+      },
+      {
+        "ingredient": "Cilantro",
+        "measure": "1/2 bag"
+      },
+      {
+        "ingredient": "Parsley",
+        "measure": "1/2 bag"
+      },
+      {
+        "ingredient": "Turmeric",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Ground Cumin",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "1/2 teaspoon"
+      },
+      {
+        "ingredient": "Ground Ginger",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Cayenne Pepper",
+        "measure": "1/4 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Black Pepper",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Chicken Thighs",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "Drizzle"
+      },
+      {
+        "ingredient": "Raisins",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Chicken Stock",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Sweet Potatoes",
+        "measure": "1 large"
+      },
+      {
+        "ingredient": "Carrots",
+        "measure": "3 sliced thinly"
+      },
+      {
+        "ingredient": "Prunes",
+        "measure": "1/4 cup"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=thf-JDXoTVg",
+    "thumb": "https://www.themealdb.com/images/media/meals/d8bfyg1764117503.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q865004",
+    "themealdb": "53287"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q85784604",
+  "name": "McVegan",
+  "description": "vegan hamburger sold by McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcvegan-q85784604/mcvegan-q85784604-1.jpg",
+    "images/mcvegan-q85784604/mcvegan-q85784604-2.jpg",
+    "images/mcvegan-q85784604/mcvegan-q85784604-3.jpg",
+    "images/mcvegan-q85784604/mcvegan-q85784604-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85784604",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q84602282",
+  "name": "rot duan",
+  "description": "",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rot-duan-q84602282/rot-duan-q84602282-1.png",
+    "images/rot-duan-q84602282/rot-duan-q84602282-2.jpg",
+    "images/rot-duan-q84602282/rot-duan-q84602282-3.jpg",
+    "images/rot-duan-q84602282/rot-duan-q84602282-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84602282",
+    "themealdb": null
+  }
+}

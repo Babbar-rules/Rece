@@ -1,0 +1,20 @@
+{
+  "id": "Q86674159",
+  "name": "torta 900",
+  "description": "historical cake designed in Ivrea, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-900-q86674159/torta-900-q86674159-1.jpg",
+    "images/torta-900-q86674159/torta-900-q86674159-2.jpg",
+    "images/torta-900-q86674159/torta-900-q86674159-3.jpg",
+    "images/torta-900-q86674159/torta-900-q86674159-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86674159",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q854342",
+  "name": "panettone",
+  "description": "type of sweet bread loaf originally from Milan",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panettone-q854342/panettone-q854342-1.jpg",
+    "images/panettone-q854342/panettone-q854342-2.jpg",
+    "images/panettone-q854342/panettone-q854342-3.jpg",
+    "images/panettone-q854342/panettone-q854342-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q854342",
+    "themealdb": null
+  }
+}

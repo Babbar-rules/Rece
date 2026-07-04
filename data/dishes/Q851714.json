@@ -1,0 +1,20 @@
+{
+  "id": "Q851714",
+  "name": "mandu-guk",
+  "description": "food",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/mandu-guk-q851714/mandu-guk-q851714-1.jpg",
+    "images/mandu-guk-q851714/mandu-guk-q851714-2.jpg",
+    "images/mandu-guk-q851714/mandu-guk-q851714-3.jpg",
+    "images/mandu-guk-q851714/mandu-guk-q851714-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q851714",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q85979768",
+  "name": "bossam-kimchi",
+  "description": "Korean cuisine",
+  "nationality": [
+    "North Korea"
+  ],
+  "region_cuisine": [
+    "North Korean cuisine"
+  ],
+  "images": [
+    "images/bossam-kimchi-q85979768/bossam-kimchi-q85979768-1.jpg",
+    "images/bossam-kimchi-q85979768/bossam-kimchi-q85979768-2.jpg",
+    "images/bossam-kimchi-q85979768/bossam-kimchi-q85979768-3.jpg",
+    "images/bossam-kimchi-q85979768/bossam-kimchi-q85979768-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85979768",
+    "themealdb": null
+  }
+}

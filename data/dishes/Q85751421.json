@@ -1,0 +1,17 @@
+{
+  "id": "Q85751421",
+  "name": "Champaran meat",
+  "description": "meat dish",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/champaran-meat-q85751421/champaran-meat-q85751421-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85751421",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q865773",
+  "name": "chirashizushi",
+  "description": "sushi consisting of a layer of vinegared rice with a variety of toppings (usually raw seafood) strewn on top",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chirashizushi-q865773/chirashizushi-q865773-1.jpg",
+    "images/chirashizushi-q865773/chirashizushi-q865773-2.jpg",
+    "images/chirashizushi-q865773/chirashizushi-q865773-3.jpg",
+    "images/chirashizushi-q865773/chirashizushi-q865773-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q865773",
+    "themealdb": null
+  }
+}

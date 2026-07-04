@@ -1,0 +1,22 @@
+{
+  "id": "Q85996689",
+  "name": "Moskva slices",
+  "description": "type of cake",
+  "nationality": [
+    "Socialist Federal Republic of Yugoslavia"
+  ],
+  "region_cuisine": [
+    "Serbian cuisine"
+  ],
+  "images": [
+    "images/moskva-slices-q85996689/moskva-slices-q85996689-1.jpg",
+    "images/moskva-slices-q85996689/moskva-slices-q85996689-2.jpg",
+    "images/moskva-slices-q85996689/moskva-slices-q85996689-3.jpg",
+    "images/moskva-slices-q85996689/moskva-slices-q85996689-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85996689",
+    "themealdb": null
+  }
+}

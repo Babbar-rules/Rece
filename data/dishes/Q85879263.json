@@ -1,0 +1,20 @@
+{
+  "id": "Q85879263",
+  "name": "Uba-ga-mochi",
+  "description": "Japanese mochi sweets",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/uba-ga-mochi-q85879263/uba-ga-mochi-q85879263-1.jpg",
+    "images/uba-ga-mochi-q85879263/uba-ga-mochi-q85879263-2.jpg",
+    "images/uba-ga-mochi-q85879263/uba-ga-mochi-q85879263-3.jpg",
+    "images/uba-ga-mochi-q85879263/uba-ga-mochi-q85879263-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85879263",
+    "themealdb": null
+  }
+}

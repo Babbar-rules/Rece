@@ -1,0 +1,18 @@
+{
+  "id": "Q84573706",
+  "name": "blueberry ice cream",
+  "description": "ice cream with natural or artificial blueberry flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blueberry-ice-cream-q84573706/blueberry-ice-cream-q84573706-1.jpg",
+    "images/blueberry-ice-cream-q84573706/blueberry-ice-cream-q84573706-2.jpg",
+    "images/blueberry-ice-cream-q84573706/blueberry-ice-cream-q84573706-3.jpg",
+    "images/blueberry-ice-cream-q84573706/blueberry-ice-cream-q84573706-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84573706",
+    "themealdb": null
+  }
+}

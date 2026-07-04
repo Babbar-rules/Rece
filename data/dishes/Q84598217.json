@@ -1,0 +1,18 @@
+{
+  "id": "Q84598217",
+  "name": "chili burritos",
+  "description": "fast food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chili-burritos-q84598217/chili-burritos-q84598217-1.jpg",
+    "images/chili-burritos-q84598217/chili-burritos-q84598217-2.jpg",
+    "images/chili-burritos-q84598217/chili-burritos-q84598217-3.jpg",
+    "images/chili-burritos-q84598217/chili-burritos-q84598217-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84598217",
+    "themealdb": null
+  }
+}

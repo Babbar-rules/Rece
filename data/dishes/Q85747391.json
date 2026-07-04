@@ -1,0 +1,18 @@
+{
+  "id": "Q85747391",
+  "name": "Biscochos",
+  "description": "sephardi Jewish cookie",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/biscochos-q85747391/biscochos-q85747391-1.png",
+    "images/biscochos-q85747391/biscochos-q85747391-2.jpg",
+    "images/biscochos-q85747391/biscochos-q85747391-3.jpg",
+    "images/biscochos-q85747391/biscochos-q85747391-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85747391",
+    "themealdb": null
+  }
+}

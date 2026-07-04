@@ -1,0 +1,20 @@
+{
+  "id": "Q85735249",
+  "name": "Gbegiri",
+  "description": "traditional Nigerian soup",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gbegiri-q85735249/gbegiri-q85735249-1.jpg",
+    "images/gbegiri-q85735249/gbegiri-q85735249-2.jpg",
+    "images/gbegiri-q85735249/gbegiri-q85735249-3.jpg",
+    "images/gbegiri-q85735249/gbegiri-q85735249-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85735249",
+    "themealdb": null
+  }
+}

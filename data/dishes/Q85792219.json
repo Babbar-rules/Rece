@@ -1,0 +1,19 @@
+{
+  "id": "Q85792219",
+  "name": "Pargiyot",
+  "description": "Israeli skewered chicken dish",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pargiyot-q85792219/pargiyot-q85792219-1.jpg",
+    "images/pargiyot-q85792219/pargiyot-q85792219-2.jpg",
+    "images/pargiyot-q85792219/pargiyot-q85792219-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85792219",
+    "themealdb": null
+  }
+}

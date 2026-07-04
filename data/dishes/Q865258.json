@@ -1,0 +1,20 @@
+{
+  "id": "Q865258",
+  "name": "memil-buchimgae",
+  "description": "buckwheat pancake",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/memil-buchimgae-q865258/memil-buchimgae-q865258-1.jpg",
+    "images/memil-buchimgae-q865258/memil-buchimgae-q865258-2.jpg",
+    "images/memil-buchimgae-q865258/memil-buchimgae-q865258-3.jpg",
+    "images/memil-buchimgae-q865258/memil-buchimgae-q865258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q865258",
+    "themealdb": null
+  }
+}

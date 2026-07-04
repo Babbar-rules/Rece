@@ -1,0 +1,20 @@
+{
+  "id": "Q86660144",
+  "name": "sherbet",
+  "description": "Soviet dessert",
+  "nationality": [],
+  "region_cuisine": [
+    "Soviet cuisine"
+  ],
+  "images": [
+    "images/sherbet-q86660144/sherbet-q86660144-1.jpg",
+    "images/sherbet-q86660144/sherbet-q86660144-2.jpg",
+    "images/sherbet-q86660144/sherbet-q86660144-3.jpg",
+    "images/sherbet-q86660144/sherbet-q86660144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86660144",
+    "themealdb": null
+  }
+}

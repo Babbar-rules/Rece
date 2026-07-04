@@ -1,0 +1,20 @@
+{
+  "id": "Q866714",
+  "name": "Bistecca alla fiorentina",
+  "description": "Italian steak dish",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bistecca-alla-fiorentina-q866714/bistecca-alla-fiorentina-q866714-1.jpg",
+    "images/bistecca-alla-fiorentina-q866714/bistecca-alla-fiorentina-q866714-2.jpg",
+    "images/bistecca-alla-fiorentina-q866714/bistecca-alla-fiorentina-q866714-3.jpg",
+    "images/bistecca-alla-fiorentina-q866714/bistecca-alla-fiorentina-q866714-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q866714",
+    "themealdb": null
+  }
+}

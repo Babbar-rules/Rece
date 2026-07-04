@@ -1,0 +1,20 @@
+{
+  "id": "Q845361",
+  "name": "yumilgwa",
+  "description": "Korean dessert",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yumilgwa-q845361/yumilgwa-q845361-1.jpg",
+    "images/yumilgwa-q845361/yumilgwa-q845361-2.png",
+    "images/yumilgwa-q845361/yumilgwa-q845361-3.jpg",
+    "images/yumilgwa-q845361/yumilgwa-q845361-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q845361",
+    "themealdb": null
+  }
+}

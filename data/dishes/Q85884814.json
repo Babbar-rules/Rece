@@ -1,0 +1,19 @@
+{
+  "id": "Q85884814",
+  "name": "Kuroishi Yakisoba",
+  "description": "",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kuroishi-yakisoba-q85884814/kuroishi-yakisoba-q85884814-1.jpg",
+    "images/kuroishi-yakisoba-q85884814/kuroishi-yakisoba-q85884814-2.jpg",
+    "images/kuroishi-yakisoba-q85884814/kuroishi-yakisoba-q85884814-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85884814",
+    "themealdb": null
+  }
+}

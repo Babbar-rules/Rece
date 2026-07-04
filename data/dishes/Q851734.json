@@ -1,0 +1,20 @@
+{
+  "id": "Q851734",
+  "name": "maeuntang",
+  "description": "Korean spicy fish soup",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/maeuntang-q851734/maeuntang-q851734-1.jpg",
+    "images/maeuntang-q851734/maeuntang-q851734-2.jpg",
+    "images/maeuntang-q851734/maeuntang-q851734-3.jpg",
+    "images/maeuntang-q851734/maeuntang-q851734-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q851734",
+    "themealdb": null
+  }
+}

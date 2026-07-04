@@ -1,0 +1,20 @@
+{
+  "id": "Q85789437",
+  "name": "Norfolk hot dog",
+  "description": "hot dog served served with Lynnhaven mustard, onions and meat sauce, popular in Norfolk, Virginia, US",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/norfolk-hot-dog-q85789437/norfolk-hot-dog-q85789437-1.jpg",
+    "images/norfolk-hot-dog-q85789437/norfolk-hot-dog-q85789437-2.jpg",
+    "images/norfolk-hot-dog-q85789437/norfolk-hot-dog-q85789437-3.jpg",
+    "images/norfolk-hot-dog-q85789437/norfolk-hot-dog-q85789437-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85789437",
+    "themealdb": null
+  }
+}

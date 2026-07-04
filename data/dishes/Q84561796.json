@@ -1,0 +1,18 @@
+{
+  "id": "Q84561796",
+  "name": "blackberry ice cream",
+  "description": "ice cream with natural or artificial blackberry flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/blackberry-ice-cream-q84561796/blackberry-ice-cream-q84561796-1.jpg",
+    "images/blackberry-ice-cream-q84561796/blackberry-ice-cream-q84561796-2.jpg",
+    "images/blackberry-ice-cream-q84561796/blackberry-ice-cream-q84561796-3.jpg",
+    "images/blackberry-ice-cream-q84561796/blackberry-ice-cream-q84561796-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84561796",
+    "themealdb": null
+  }
+}

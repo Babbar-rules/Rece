@@ -1,0 +1,20 @@
+{
+  "id": "Q861189",
+  "name": "chef salad",
+  "description": "U.S. salad consisting of hard-boiled eggs, one or more varieties of meat (e.g. ham, turkey, chicken, roast beef), tomatoes, cucumbers, and cheese, placed upon a bed of tossed lettuce or other leaf vegetables; a variety of dressings may be used",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chef-salad-q861189/chef-salad-q861189-1.jpg",
+    "images/chef-salad-q861189/chef-salad-q861189-2.jpg",
+    "images/chef-salad-q861189/chef-salad-q861189-3.jpg",
+    "images/chef-salad-q861189/chef-salad-q861189-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q861189",
+    "themealdb": null
+  }
+}

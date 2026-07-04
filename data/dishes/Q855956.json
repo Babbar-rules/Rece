@@ -1,0 +1,18 @@
+{
+  "id": "Q855956",
+  "name": "potato bread",
+  "description": "bread made with potato and flour",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/potato-bread-q855956/potato-bread-q855956-1.jpg",
+    "images/potato-bread-q855956/potato-bread-q855956-2.png",
+    "images/potato-bread-q855956/potato-bread-q855956-3.jpg",
+    "images/potato-bread-q855956/potato-bread-q855956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q855956",
+    "themealdb": null
+  }
+}

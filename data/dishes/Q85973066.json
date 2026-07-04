@@ -1,0 +1,18 @@
+{
+  "id": "Q85973066",
+  "name": "meyhane pilavı",
+  "description": "Turkish bulgur dish",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/meyhane-pilav-q85973066/meyhane-pilav-q85973066-1.jpg",
+    "images/meyhane-pilav-q85973066/meyhane-pilav-q85973066-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85973066",
+    "themealdb": null
+  }
+}

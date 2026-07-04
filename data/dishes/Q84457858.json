@@ -1,0 +1,20 @@
+{
+  "id": "Q84457858",
+  "name": "Cansi",
+  "description": "Filipino beef soup originating from the Western Visayas",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cansi-q84457858/cansi-q84457858-1.jpg",
+    "images/cansi-q84457858/cansi-q84457858-2.jpg",
+    "images/cansi-q84457858/cansi-q84457858-3.jpg",
+    "images/cansi-q84457858/cansi-q84457858-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84457858",
+    "themealdb": null
+  }
+}

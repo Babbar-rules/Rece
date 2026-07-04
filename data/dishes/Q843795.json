@@ -1,0 +1,20 @@
+{
+  "id": "Q843795",
+  "name": "bakso",
+  "description": "Tionghoa cuisine",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bakso-q843795/bakso-q843795-1.jpg",
+    "images/bakso-q843795/bakso-q843795-2.jpg",
+    "images/bakso-q843795/bakso-q843795-3.jpg",
+    "images/bakso-q843795/bakso-q843795-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q843795",
+    "themealdb": null
+  }
+}

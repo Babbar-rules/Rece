@@ -1,0 +1,20 @@
+{
+  "id": "Q85811088",
+  "name": "Tupig",
+  "description": "Filipino food",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tupig-q85811088/tupig-q85811088-1.jpg",
+    "images/tupig-q85811088/tupig-q85811088-2.jpg",
+    "images/tupig-q85811088/tupig-q85811088-3.jpg",
+    "images/tupig-q85811088/tupig-q85811088-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85811088",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q842618",
+  "name": "Worcestershire sauce",
+  "description": "sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/worcestershire-sauce-q842618/worcestershire-sauce-q842618-1.jpg",
+    "images/worcestershire-sauce-q842618/worcestershire-sauce-q842618-2.jpg",
+    "images/worcestershire-sauce-q842618/worcestershire-sauce-q842618-3.jpg",
+    "images/worcestershire-sauce-q842618/worcestershire-sauce-q842618-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q842618",
+    "themealdb": null
+  }
+}

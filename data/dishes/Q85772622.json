@@ -1,0 +1,19 @@
+{
+  "id": "Q85772622",
+  "name": "Jødekager",
+  "description": "cookie of Danish Jewish origin",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/jdekager-q85772622/jdekager-q85772622-1.jpg",
+    "images/jdekager-q85772622/jdekager-q85772622-2.jpg",
+    "images/jdekager-q85772622/jdekager-q85772622-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85772622",
+    "themealdb": null
+  }
+}

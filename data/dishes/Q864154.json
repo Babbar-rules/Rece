@@ -1,0 +1,21 @@
+{
+  "id": "Q864154",
+  "name": "Geng",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China",
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/geng-q864154/geng-q864154-1.jpg",
+    "images/geng-q864154/geng-q864154-2.jpg",
+    "images/geng-q864154/geng-q864154-3.jpg",
+    "images/geng-q864154/geng-q864154-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q864154",
+    "themealdb": null
+  }
+}

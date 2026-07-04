@@ -1,0 +1,20 @@
+{
+  "id": "Q846310",
+  "name": "trenette",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trenette-q846310/trenette-q846310-1.jpg",
+    "images/trenette-q846310/trenette-q846310-2.jpg",
+    "images/trenette-q846310/trenette-q846310-3.jpg",
+    "images/trenette-q846310/trenette-q846310-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q846310",
+    "themealdb": null
+  }
+}

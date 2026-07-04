@@ -1,0 +1,20 @@
+{
+  "id": "Q859553",
+  "name": "sundae",
+  "description": "ice cream dessert; consists of scoops of ice cream topped with sauce or syrup, and in some cases other toppings",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sundae-q859553/sundae-q859553-1.jpg",
+    "images/sundae-q859553/sundae-q859553-2.jpg",
+    "images/sundae-q859553/sundae-q859553-3.jpg",
+    "images/sundae-q859553/sundae-q859553-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q859553",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q860465",
+  "name": "roast beef",
+  "description": "traditional English dish of beef which is roasted",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/roast-beef-q860465/roast-beef-q860465-1.jpg",
+    "images/roast-beef-q860465/roast-beef-q860465-2.jpg",
+    "images/roast-beef-q860465/roast-beef-q860465-3.jpg",
+    "images/roast-beef-q860465/roast-beef-q860465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q860465",
+    "themealdb": null
+  }
+}

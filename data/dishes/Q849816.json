@@ -1,0 +1,20 @@
+{
+  "id": "Q849816",
+  "name": "rock candy",
+  "description": "confection composed of relatively large sugar crystals",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rock-candy-q849816/rock-candy-q849816-1.jpg",
+    "images/rock-candy-q849816/rock-candy-q849816-2.jpg",
+    "images/rock-candy-q849816/rock-candy-q849816-3.jpg",
+    "images/rock-candy-q849816/rock-candy-q849816-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q849816",
+    "themealdb": null
+  }
+}

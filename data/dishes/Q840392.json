@@ -1,0 +1,22 @@
+{
+  "id": "Q840392",
+  "name": "carpaccio",
+  "description": "Italian dish of meat or fish, thinly sliced or pounded thin, and served raw",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/carpaccio-q840392/carpaccio-q840392-1.jpg",
+    "images/carpaccio-q840392/carpaccio-q840392-2.jpg",
+    "images/carpaccio-q840392/carpaccio-q840392-3.jpg",
+    "images/carpaccio-q840392/carpaccio-q840392-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q840392",
+    "themealdb": null
+  }
+}

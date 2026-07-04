@@ -1,0 +1,18 @@
+{
+  "id": "Q85757492",
+  "name": "doughnut sandwich",
+  "description": "type of sandwich",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/doughnut-sandwich-q85757492/doughnut-sandwich-q85757492-1.jpg",
+    "images/doughnut-sandwich-q85757492/doughnut-sandwich-q85757492-2.jpg",
+    "images/doughnut-sandwich-q85757492/doughnut-sandwich-q85757492-3.jpg",
+    "images/doughnut-sandwich-q85757492/doughnut-sandwich-q85757492-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85757492",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q86726090",
+  "name": "Bolo de fubá",
+  "description": "Brazilian maize flour cake",
+  "nationality": [],
+  "region_cuisine": [
+    "Brazilian cuisine"
+  ],
+  "images": [
+    "images/bolo-de-fuba-q86726090/bolo-de-fuba-q86726090-1.jpg",
+    "images/bolo-de-fuba-q86726090/bolo-de-fuba-q86726090-2.jpg",
+    "images/bolo-de-fuba-q86726090/bolo-de-fuba-q86726090-3.jpg",
+    "images/bolo-de-fuba-q86726090/bolo-de-fuba-q86726090-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86726090",
+    "themealdb": null
+  }
+}

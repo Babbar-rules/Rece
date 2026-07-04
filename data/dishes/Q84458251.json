@@ -1,0 +1,18 @@
+{
+  "id": "Q84458251",
+  "name": "Sheet pizza",
+  "description": "Thin-crust style pizza baked on a baking sheet",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sheet-pizza-q84458251/sheet-pizza-q84458251-1.jpg",
+    "images/sheet-pizza-q84458251/sheet-pizza-q84458251-2.jpg",
+    "images/sheet-pizza-q84458251/sheet-pizza-q84458251-3.jpg",
+    "images/sheet-pizza-q84458251/sheet-pizza-q84458251-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84458251",
+    "themealdb": null
+  }
+}

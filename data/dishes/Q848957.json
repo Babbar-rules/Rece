@@ -1,0 +1,22 @@
+{
+  "id": "Q848957",
+  "name": "coto makassar",
+  "description": "Indonesian traditional soup",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/coto-makassar-q848957/coto-makassar-q848957-1.jpg",
+    "images/coto-makassar-q848957/coto-makassar-q848957-2.jpg",
+    "images/coto-makassar-q848957/coto-makassar-q848957-3.jpg",
+    "images/coto-makassar-q848957/coto-makassar-q848957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q848957",
+    "themealdb": null
+  }
+}

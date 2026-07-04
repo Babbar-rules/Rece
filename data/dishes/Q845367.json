@@ -1,0 +1,20 @@
+{
+  "id": "Q845367",
+  "name": "gamja-jeon",
+  "description": "potato dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gamja-jeon-q845367/gamja-jeon-q845367-1.jpg",
+    "images/gamja-jeon-q845367/gamja-jeon-q845367-2.jpg",
+    "images/gamja-jeon-q845367/gamja-jeon-q845367-3.jpg",
+    "images/gamja-jeon-q845367/gamja-jeon-q845367-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q845367",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q842376",
+  "name": "har gow",
+  "description": "traditional Cantonese dumpling",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Cantonese cuisine"
+  ],
+  "images": [
+    "images/har-gow-q842376/har-gow-q842376-1.jpg",
+    "images/har-gow-q842376/har-gow-q842376-2.jpg",
+    "images/har-gow-q842376/har-gow-q842376-3.jpg",
+    "images/har-gow-q842376/har-gow-q842376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q842376",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q843884",
+  "name": "myeolchi-jeot",
+  "description": "salted anchovies",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/myeolchi-jeot-q843884/myeolchi-jeot-q843884-1.jpg",
+    "images/myeolchi-jeot-q843884/myeolchi-jeot-q843884-2.jpg",
+    "images/myeolchi-jeot-q843884/myeolchi-jeot-q843884-3.jpg",
+    "images/myeolchi-jeot-q843884/myeolchi-jeot-q843884-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q843884",
+    "themealdb": null
+  }
+}

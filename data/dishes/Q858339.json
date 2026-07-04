@@ -1,0 +1,20 @@
+{
+  "id": "Q858339",
+  "name": "tekkadon",
+  "description": "Japanese rice dish topped with with tuna sashimi",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tekkadon-q858339/tekkadon-q858339-1.jpg",
+    "images/tekkadon-q858339/tekkadon-q858339-2.jpg",
+    "images/tekkadon-q858339/tekkadon-q858339-3.jpg",
+    "images/tekkadon-q858339/tekkadon-q858339-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q858339",
+    "themealdb": null
+  }
+}

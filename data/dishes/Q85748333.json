@@ -1,0 +1,20 @@
+{
+  "id": "Q85748333",
+  "name": "Borracho beans",
+  "description": "traditional Mexican and Southern Texas dish",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/borracho-beans-q85748333/borracho-beans-q85748333-1.jpg",
+    "images/borracho-beans-q85748333/borracho-beans-q85748333-2.jpg",
+    "images/borracho-beans-q85748333/borracho-beans-q85748333-3.jpg",
+    "images/borracho-beans-q85748333/borracho-beans-q85748333-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85748333",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q85802587",
+  "name": "spicy chicken sandwich",
+  "description": "sandwich made with chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spicy-chicken-sandwich-q85802587/spicy-chicken-sandwich-q85802587-1.jpg",
+    "images/spicy-chicken-sandwich-q85802587/spicy-chicken-sandwich-q85802587-2.jpg",
+    "images/spicy-chicken-sandwich-q85802587/spicy-chicken-sandwich-q85802587-3.jpg",
+    "images/spicy-chicken-sandwich-q85802587/spicy-chicken-sandwich-q85802587-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85802587",
+    "themealdb": null
+  }
+}

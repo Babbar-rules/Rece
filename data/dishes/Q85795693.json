@@ -1,0 +1,22 @@
+{
+  "id": "Q85795693",
+  "name": "Rainbow roll",
+  "description": "uramaki sushi roll filled with cucumber, avocado and crab stick",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Japanese cuisine"
+  ],
+  "images": [
+    "images/rainbow-roll-q85795693/rainbow-roll-q85795693-1.jpg",
+    "images/rainbow-roll-q85795693/rainbow-roll-q85795693-2.jpg",
+    "images/rainbow-roll-q85795693/rainbow-roll-q85795693-3.png",
+    "images/rainbow-roll-q85795693/rainbow-roll-q85795693-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85795693",
+    "themealdb": null
+  }
+}

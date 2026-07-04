@@ -1,0 +1,20 @@
+{
+  "id": "Q862974",
+  "name": "baekseolgi",
+  "description": "tteok (Korean rice cake) made of rice flour, sugar, and salt",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/baekseolgi-q862974/baekseolgi-q862974-1.jpg",
+    "images/baekseolgi-q862974/baekseolgi-q862974-2.jpg",
+    "images/baekseolgi-q862974/baekseolgi-q862974-3.jpg",
+    "images/baekseolgi-q862974/baekseolgi-q862974-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q862974",
+    "themealdb": null
+  }
+}

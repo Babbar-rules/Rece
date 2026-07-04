@@ -1,0 +1,18 @@
+{
+  "id": "Q84561780",
+  "name": "azuki bean ice cream",
+  "description": "ice cream with natural or artificial Azuki bean flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/azuki-bean-ice-cream-q84561780/azuki-bean-ice-cream-q84561780-1.jpg",
+    "images/azuki-bean-ice-cream-q84561780/azuki-bean-ice-cream-q84561780-2.jpg",
+    "images/azuki-bean-ice-cream-q84561780/azuki-bean-ice-cream-q84561780-3.jpg",
+    "images/azuki-bean-ice-cream-q84561780/azuki-bean-ice-cream-q84561780-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84561780",
+    "themealdb": null
+  }
+}

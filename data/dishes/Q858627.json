@@ -1,0 +1,20 @@
+{
+  "id": "Q858627",
+  "name": "pirog",
+  "description": "pastry of Russian/Eastern European origin with sweet or savory filling",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pirog-q858627/pirog-q858627-1.jpg",
+    "images/pirog-q858627/pirog-q858627-2.jpg",
+    "images/pirog-q858627/pirog-q858627-3.png",
+    "images/pirog-q858627/pirog-q858627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q858627",
+    "themealdb": null
+  }
+}

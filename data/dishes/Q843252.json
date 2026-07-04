@@ -1,0 +1,20 @@
+{
+  "id": "Q843252",
+  "name": "saeujeot",
+  "description": "jeotgal made from small shrimp",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/saeujeot-q843252/saeujeot-q843252-1.jpg",
+    "images/saeujeot-q843252/saeujeot-q843252-2.jpg",
+    "images/saeujeot-q843252/saeujeot-q843252-3.jpg",
+    "images/saeujeot-q843252/saeujeot-q843252-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q843252",
+    "themealdb": null
+  }
+}

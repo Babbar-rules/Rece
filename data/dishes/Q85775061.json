@@ -1,0 +1,22 @@
+{
+  "id": "Q85775061",
+  "name": "Kugel Yerushalmi",
+  "description": "Baked casserole from Jerusalem",
+  "nationality": [
+    "Ottoman Empire"
+  ],
+  "region_cuisine": [
+    "cuisine of Jerusalem",
+    "Ashkenazi Jewish cuisine"
+  ],
+  "images": [
+    "images/kugel-yerushalmi-q85775061/kugel-yerushalmi-q85775061-1.jpg",
+    "images/kugel-yerushalmi-q85775061/kugel-yerushalmi-q85775061-2.jpg",
+    "images/kugel-yerushalmi-q85775061/kugel-yerushalmi-q85775061-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85775061",
+    "themealdb": null
+  }
+}

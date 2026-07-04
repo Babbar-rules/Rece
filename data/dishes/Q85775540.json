@@ -1,0 +1,20 @@
+{
+  "id": "Q85775540",
+  "name": "Laffa",
+  "description": "Israeli flatbread",
+  "nationality": [
+    "Israel"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/laffa-q85775540/laffa-q85775540-1.jpg",
+    "images/laffa-q85775540/laffa-q85775540-2.jpg",
+    "images/laffa-q85775540/laffa-q85775540-3.jpg",
+    "images/laffa-q85775540/laffa-q85775540-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85775540",
+    "themealdb": null
+  }
+}

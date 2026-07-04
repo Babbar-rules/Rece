@@ -1,0 +1,22 @@
+{
+  "id": "Q843549",
+  "name": "fuqi feipian",
+  "description": "Spicy Sichuan beef dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/fuqi-feipian-q843549/fuqi-feipian-q843549-1.jpg",
+    "images/fuqi-feipian-q843549/fuqi-feipian-q843549-2.jpg",
+    "images/fuqi-feipian-q843549/fuqi-feipian-q843549-3.jpg",
+    "images/fuqi-feipian-q843549/fuqi-feipian-q843549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q843549",
+    "themealdb": null
+  }
+}

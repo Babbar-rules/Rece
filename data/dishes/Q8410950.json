@@ -1,0 +1,22 @@
+{
+  "id": "Q8410950",
+  "name": "Toruko rice",
+  "description": "Japanese dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/toruko-rice-q8410950/toruko-rice-q8410950-1.jpg",
+    "images/toruko-rice-q8410950/toruko-rice-q8410950-2.jpg",
+    "images/toruko-rice-q8410950/toruko-rice-q8410950-3.jpg",
+    "images/toruko-rice-q8410950/toruko-rice-q8410950-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8410950",
+    "themealdb": null
+  }
+}

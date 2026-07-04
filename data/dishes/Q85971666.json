@@ -1,0 +1,21 @@
+{
+  "id": "Q85971666",
+  "name": "LA Kalbi",
+  "description": "Korean beef dish",
+  "nationality": [],
+  "region_cuisine": [
+    "Korean cuisine",
+    "Asian American cuisine"
+  ],
+  "images": [
+    "images/la-kalbi-q85971666/la-kalbi-q85971666-1.jpg",
+    "images/la-kalbi-q85971666/la-kalbi-q85971666-2.jpg",
+    "images/la-kalbi-q85971666/la-kalbi-q85971666-3.jpg",
+    "images/la-kalbi-q85971666/la-kalbi-q85971666-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85971666",
+    "themealdb": null
+  }
+}

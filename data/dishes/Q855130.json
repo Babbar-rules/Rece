@@ -1,0 +1,20 @@
+{
+  "id": "Q855130",
+  "name": "kompyang",
+  "description": "food",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kompyang-q855130/kompyang-q855130-1.jpg",
+    "images/kompyang-q855130/kompyang-q855130-2.jpg",
+    "images/kompyang-q855130/kompyang-q855130-3.jpg",
+    "images/kompyang-q855130/kompyang-q855130-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q855130",
+    "themealdb": null
+  }
+}

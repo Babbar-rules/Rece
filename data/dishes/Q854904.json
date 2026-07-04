@@ -1,0 +1,20 @@
+{
+  "id": "Q854904",
+  "name": "bhatoora",
+  "description": "deep-fried leavened bread from the Indian Subcontinent",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bhatoora-q854904/bhatoora-q854904-1.jpg",
+    "images/bhatoora-q854904/bhatoora-q854904-2.jpg",
+    "images/bhatoora-q854904/bhatoora-q854904-3.jpg",
+    "images/bhatoora-q854904/bhatoora-q854904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q854904",
+    "themealdb": null
+  }
+}

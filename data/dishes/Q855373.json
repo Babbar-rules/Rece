@@ -1,0 +1,20 @@
+{
+  "id": "Q855373",
+  "name": "ice pop",
+  "description": "water-based frozen confection on a stick",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ice-pop-q855373/ice-pop-q855373-1.jpg",
+    "images/ice-pop-q855373/ice-pop-q855373-2.jpg",
+    "images/ice-pop-q855373/ice-pop-q855373-3.jpg",
+    "images/ice-pop-q855373/ice-pop-q855373-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q855373",
+    "themealdb": null
+  }
+}

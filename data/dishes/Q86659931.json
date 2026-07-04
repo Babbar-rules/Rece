@@ -1,0 +1,18 @@
+{
+  "id": "Q86659931",
+  "name": "Pan di Stelle",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/pan-di-stelle-q86659931/pan-di-stelle-q86659931-1.png",
+    "images/pan-di-stelle-q86659931/pan-di-stelle-q86659931-2.jpg",
+    "images/pan-di-stelle-q86659931/pan-di-stelle-q86659931-3.png",
+    "images/pan-di-stelle-q86659931/pan-di-stelle-q86659931-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86659931",
+    "themealdb": null
+  }
+}

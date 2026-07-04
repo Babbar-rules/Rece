@@ -1,0 +1,20 @@
+{
+  "id": "Q847245",
+  "name": "hobak-juk",
+  "description": "Korean porridge",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hobak-juk-q847245/hobak-juk-q847245-1.jpg",
+    "images/hobak-juk-q847245/hobak-juk-q847245-2.jpg",
+    "images/hobak-juk-q847245/hobak-juk-q847245-3.jpg",
+    "images/hobak-juk-q847245/hobak-juk-q847245-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q847245",
+    "themealdb": null
+  }
+}

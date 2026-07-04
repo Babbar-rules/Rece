@@ -1,0 +1,20 @@
+{
+  "id": "Q85788281",
+  "name": "Nestlé Munch",
+  "description": "chocolate bar",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/nestle-munch-q85788281/nestle-munch-q85788281-1.jpg",
+    "images/nestle-munch-q85788281/nestle-munch-q85788281-2.jpg",
+    "images/nestle-munch-q85788281/nestle-munch-q85788281-3.jpg",
+    "images/nestle-munch-q85788281/nestle-munch-q85788281-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85788281",
+    "themealdb": null
+  }
+}

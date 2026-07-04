@@ -1,0 +1,18 @@
+{
+  "id": "Q85784549",
+  "name": "McDouble",
+  "description": "hamburger sold by McDonald's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mcdouble-q85784549/mcdouble-q85784549-1.jpg",
+    "images/mcdouble-q85784549/mcdouble-q85784549-2.jpg",
+    "images/mcdouble-q85784549/mcdouble-q85784549-3.jpg",
+    "images/mcdouble-q85784549/mcdouble-q85784549-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85784549",
+    "themealdb": null
+  }
+}

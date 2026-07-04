@@ -1,0 +1,18 @@
+{
+  "id": "Q866153",
+  "name": "frozen dessert",
+  "description": "dessert made by freezing",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frozen-dessert-q866153/frozen-dessert-q866153-1.jpg",
+    "images/frozen-dessert-q866153/frozen-dessert-q866153-2.jpg",
+    "images/frozen-dessert-q866153/frozen-dessert-q866153-3.jpg",
+    "images/frozen-dessert-q866153/frozen-dessert-q866153-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q866153",
+    "themealdb": null
+  }
+}

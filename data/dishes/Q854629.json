@@ -1,0 +1,23 @@
+{
+  "id": "Q854629",
+  "name": "kissel",
+  "description": "eastern European dish with the consistency of a thick gel",
+  "nationality": [
+    "Russia",
+    "Belarus",
+    "Ukraine",
+    "Kievan Rus'"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kissel-q854629/kissel-q854629-1.jpg",
+    "images/kissel-q854629/kissel-q854629-2.jpg",
+    "images/kissel-q854629/kissel-q854629-3.jpg",
+    "images/kissel-q854629/kissel-q854629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q854629",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q84561781",
+  "name": "azuki bean based food",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/azuki-bean-based-food-q84561781/azuki-bean-based-food-q84561781-1.jpg",
+    "images/azuki-bean-based-food-q84561781/azuki-bean-based-food-q84561781-2.jpg",
+    "images/azuki-bean-based-food-q84561781/azuki-bean-based-food-q84561781-3.jpg",
+    "images/azuki-bean-based-food-q84561781/azuki-bean-based-food-q84561781-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84561781",
+    "themealdb": null
+  }
+}

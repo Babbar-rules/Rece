@@ -1,0 +1,22 @@
+{
+  "id": "Q846849",
+  "name": "hot pot",
+  "description": "Chinese and Southeast Asian dish",
+  "nationality": [
+    "China"
+  ],
+  "region_cuisine": [
+    "Chinese cuisine"
+  ],
+  "images": [
+    "images/hot-pot-q846849/hot-pot-q846849-1.jpg",
+    "images/hot-pot-q846849/hot-pot-q846849-2.jpg",
+    "images/hot-pot-q846849/hot-pot-q846849-3.jpg",
+    "images/hot-pot-q846849/hot-pot-q846849-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q846849",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q86240778",
+  "name": "bulgur pilav",
+  "description": "Turkish cuisine dish made with bulgur",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bulgur-pilav-q86240778/bulgur-pilav-q86240778-1.jpg",
+    "images/bulgur-pilav-q86240778/bulgur-pilav-q86240778-2.jpg",
+    "images/bulgur-pilav-q86240778/bulgur-pilav-q86240778-3.jpg",
+    "images/bulgur-pilav-q86240778/bulgur-pilav-q86240778-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86240778",
+    "themealdb": null
+  }
+}

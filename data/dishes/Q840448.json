@@ -1,0 +1,18 @@
+{
+  "id": "Q840448",
+  "name": "cellophane noodles",
+  "description": "transparent noodle made from starch",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cellophane-noodles-q840448/cellophane-noodles-q840448-1.jpg",
+    "images/cellophane-noodles-q840448/cellophane-noodles-q840448-2.jpg",
+    "images/cellophane-noodles-q840448/cellophane-noodles-q840448-3.jpg",
+    "images/cellophane-noodles-q840448/cellophane-noodles-q840448-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q840448",
+    "themealdb": null
+  }
+}

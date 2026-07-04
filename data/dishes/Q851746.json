@@ -1,0 +1,20 @@
+{
+  "id": "Q851746",
+  "name": "dashi",
+  "description": "class of soup and cooking stock used in Japanese cuisines",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dashi-q851746/dashi-q851746-1.jpg",
+    "images/dashi-q851746/dashi-q851746-2.jpg",
+    "images/dashi-q851746/dashi-q851746-3.jpg",
+    "images/dashi-q851746/dashi-q851746-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q851746",
+    "themealdb": null
+  }
+}

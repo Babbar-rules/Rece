@@ -1,0 +1,18 @@
+{
+  "id": "Q8529545",
+  "name": "light soy sauce",
+  "description": "variety of Chinese soy sauce",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/light-soy-sauce-q8529545/light-soy-sauce-q8529545-1.jpg",
+    "images/light-soy-sauce-q8529545/light-soy-sauce-q8529545-2.jpg",
+    "images/light-soy-sauce-q8529545/light-soy-sauce-q8529545-3.jpg",
+    "images/light-soy-sauce-q8529545/light-soy-sauce-q8529545-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8529545",
+    "themealdb": null
+  }
+}

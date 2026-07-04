@@ -1,0 +1,20 @@
+{
+  "id": "Q846581",
+  "name": "white cut chicken",
+  "description": "Cantonese dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/white-cut-chicken-q846581/white-cut-chicken-q846581-1.jpg",
+    "images/white-cut-chicken-q846581/white-cut-chicken-q846581-2.jpg",
+    "images/white-cut-chicken-q846581/white-cut-chicken-q846581-3.jpg",
+    "images/white-cut-chicken-q846581/white-cut-chicken-q846581-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q846581",
+    "themealdb": null
+  }
+}

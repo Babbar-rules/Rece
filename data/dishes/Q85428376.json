@@ -1,0 +1,20 @@
+{
+  "id": "Q85428376",
+  "name": "Ayvalık tostu",
+  "description": "warm sandwich from Turkey",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ayvalk-tostu-q85428376/ayvalk-tostu-q85428376-1.jpg",
+    "images/ayvalk-tostu-q85428376/ayvalk-tostu-q85428376-2.jpg",
+    "images/ayvalk-tostu-q85428376/ayvalk-tostu-q85428376-3.jpg",
+    "images/ayvalk-tostu-q85428376/ayvalk-tostu-q85428376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85428376",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q84573722",
+  "name": "cherry based food",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/cherry-based-food-q84573722/cherry-based-food-q84573722-1.jpg",
+    "images/cherry-based-food-q84573722/cherry-based-food-q84573722-2.jpg",
+    "images/cherry-based-food-q84573722/cherry-based-food-q84573722-3.jpg",
+    "images/cherry-based-food-q84573722/cherry-based-food-q84573722-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84573722",
+    "themealdb": null
+  }
+}

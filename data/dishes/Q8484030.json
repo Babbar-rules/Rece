@@ -1,0 +1,20 @@
+{
+  "id": "Q8484030",
+  "name": "dark soy sauce",
+  "description": "Chinese dark-coloured soy sauce used mainly for adding colour and flavour to dishes",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dark-soy-sauce-q8484030/dark-soy-sauce-q8484030-1.png",
+    "images/dark-soy-sauce-q8484030/dark-soy-sauce-q8484030-2.png",
+    "images/dark-soy-sauce-q8484030/dark-soy-sauce-q8484030-3.jpg",
+    "images/dark-soy-sauce-q8484030/dark-soy-sauce-q8484030-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8484030",
+    "themealdb": null
+  }
+}

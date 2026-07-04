@@ -1,0 +1,20 @@
+{
+  "id": "Q858345",
+  "name": "kusaya",
+  "description": "Salted-dried and fermented fish produced in the Izu Islands",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kusaya-q858345/kusaya-q858345-1.jpg",
+    "images/kusaya-q858345/kusaya-q858345-2.jpg",
+    "images/kusaya-q858345/kusaya-q858345-3.jpg",
+    "images/kusaya-q858345/kusaya-q858345-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q858345",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q84573720",
+  "name": "caramel ice cream",
+  "description": "ice cream with natural or artificial caramel flavoring",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/caramel-ice-cream-q84573720/caramel-ice-cream-q84573720-1.jpg",
+    "images/caramel-ice-cream-q84573720/caramel-ice-cream-q84573720-2.jpg",
+    "images/caramel-ice-cream-q84573720/caramel-ice-cream-q84573720-3.jpg",
+    "images/caramel-ice-cream-q84573720/caramel-ice-cream-q84573720-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84573720",
+    "themealdb": null
+  }
+}

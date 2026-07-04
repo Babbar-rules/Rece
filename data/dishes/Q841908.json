@@ -1,0 +1,20 @@
+{
+  "id": "Q841908",
+  "name": "chilli crab",
+  "description": "Singaporean dish of mud crabs stir-fried in a semi-thick, sweet and savoury tomato and chilli sauce",
+  "nationality": [
+    "Singapore"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chilli-crab-q841908/chilli-crab-q841908-1.jpg",
+    "images/chilli-crab-q841908/chilli-crab-q841908-2.jpg",
+    "images/chilli-crab-q841908/chilli-crab-q841908-3.jpg",
+    "images/chilli-crab-q841908/chilli-crab-q841908-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q841908",
+    "themealdb": null
+  }
+}

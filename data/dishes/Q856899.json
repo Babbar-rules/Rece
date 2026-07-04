@@ -1,0 +1,21 @@
+{
+  "id": "Q856899",
+  "name": "Deuk Deuk Tong",
+  "description": "Hong Kongese sweet",
+  "nationality": [
+    "People's Republic of China",
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/deuk-deuk-tong-q856899/deuk-deuk-tong-q856899-1.jpg",
+    "images/deuk-deuk-tong-q856899/deuk-deuk-tong-q856899-2.jpg",
+    "images/deuk-deuk-tong-q856899/deuk-deuk-tong-q856899-3.jpg",
+    "images/deuk-deuk-tong-q856899/deuk-deuk-tong-q856899-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q856899",
+    "themealdb": null
+  }
+}

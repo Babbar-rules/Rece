@@ -1,0 +1,16 @@
+{
+  "id": "Q85972545",
+  "name": "Ganjang-chikin",
+  "description": "Korean fried chicken",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ganjang-chikin-q85972545/ganjang-chikin-q85972545-1.jpg",
+    "images/ganjang-chikin-q85972545/ganjang-chikin-q85972545-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85972545",
+    "themealdb": null
+  }
+}

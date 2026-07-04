@@ -1,0 +1,18 @@
+{
+  "id": "Q84431525",
+  "name": "vegetable dish",
+  "description": "dishes and prepared foods primarily featuring plants or parts of plants culinarily used as vegetables",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegetable-dish-q84431525/vegetable-dish-q84431525-1.jpg",
+    "images/vegetable-dish-q84431525/vegetable-dish-q84431525-2.jpg",
+    "images/vegetable-dish-q84431525/vegetable-dish-q84431525-3.jpg",
+    "images/vegetable-dish-q84431525/vegetable-dish-q84431525-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q84431525",
+    "themealdb": null
+  }
+}

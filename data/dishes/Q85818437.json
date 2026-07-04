@@ -1,0 +1,17 @@
+{
+  "id": "Q85818437",
+  "name": "alkaseba",
+  "description": "Middle Eastern dessert",
+  "nationality": [
+    "Middle East"
+  ],
+  "region_cuisine": [
+    "Middle Eastern cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q85818437",
+    "themealdb": null
+  }
+}

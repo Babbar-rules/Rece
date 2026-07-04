@@ -1,0 +1,22 @@
+{
+  "id": "Q865777",
+  "name": "Birnbrot",
+  "description": "yeasted bread with a filling made from dried fruit",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [
+    "Swiss cuisine"
+  ],
+  "images": [
+    "images/birnbrot-q865777/birnbrot-q865777-1.jpg",
+    "images/birnbrot-q865777/birnbrot-q865777-2.jpg",
+    "images/birnbrot-q865777/birnbrot-q865777-3.jpg",
+    "images/birnbrot-q865777/birnbrot-q865777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q865777",
+    "themealdb": null
+  }
+}

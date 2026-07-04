@@ -1,0 +1,56 @@
+{
+  "id": "Q859981",
+  "name": "seswaa",
+  "description": "stewed meat dish of Botswana",
+  "nationality": [
+    "Botswana"
+  ],
+  "region_cuisine": [
+    "Beef"
+  ],
+  "images": [
+    "images/seswaa-q859981/seswaa-q859981-1.jpg",
+    "images/seswaa-q859981/seswaa-q859981-2.jpg",
+    "images/seswaa-q859981/seswaa-q859981-3.jpg",
+    "images/seswaa-q859981/seswaa-q859981-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53470",
+    "category": "Beef",
+    "area": null,
+    "instructions": "Pre heat the oven to 160 degrees Celsius. Cut the meat into large chunks then brown in a dish suitable for slow cooking in the oven such as a cast iron casserole dish.\r\nAdd the whole peeled onion, salt, cracked black pepper, water and bay leaves. Bring to the boil then cover and place into the oven for 4 hours.\r\nAfter 4 hours, remove from oven and place onto the stove burner in order to cook off most of the remaining liquid. Use a wooden spoon to pound or mash up the meat, the meat should fall apart quite easily. and will appear shredded. You may brown the meat further if desired.\r\nCheck seasoning then serve with polenta or the more traditional thick cornmeal porridge known as pap or sadza, and a side of green vegetables.",
+    "ingredients": [
+      {
+        "ingredient": "Beef",
+        "measure": "1 kg"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Bay Leaf",
+        "measure": "3"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Black Pepper",
+        "measure": "Sprinkling"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "1 Litre"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/p7eid81782503889.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q859981",
+    "themealdb": "53470"
+  }
+}
