@@ -1,0 +1,22 @@
+{
+  "id": "Q7565043",
+  "name": "soup joumou",
+  "description": "Haitian soup",
+  "nationality": [
+    "Haiti"
+  ],
+  "region_cuisine": [
+    "Haitian cuisine"
+  ],
+  "images": [
+    "images/soup-joumou-q7565043/soup-joumou-q7565043-1.jpg",
+    "images/soup-joumou-q7565043/soup-joumou-q7565043-2.jpg",
+    "images/soup-joumou-q7565043/soup-joumou-q7565043-3.jpg",
+    "images/soup-joumou-q7565043/soup-joumou-q7565043-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7565043",
+    "themealdb": null
+  }
+}

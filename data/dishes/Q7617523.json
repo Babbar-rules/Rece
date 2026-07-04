@@ -1,0 +1,20 @@
+{
+  "id": "Q7617523",
+  "name": "stir-fried tomato and scrambled eggs",
+  "description": "Chinese dish of scrambled eggs and tomato wedges",
+  "nationality": [
+    "Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stir-fried-tomato-and-scrambled-eggs-q7617523/stir-fried-tomato-and-scrambled-eggs-q7617523-1.png",
+    "images/stir-fried-tomato-and-scrambled-eggs-q7617523/stir-fried-tomato-and-scrambled-eggs-q7617523-2.jpg",
+    "images/stir-fried-tomato-and-scrambled-eggs-q7617523/stir-fried-tomato-and-scrambled-eggs-q7617523-3.jpg",
+    "images/stir-fried-tomato-and-scrambled-eggs-q7617523/stir-fried-tomato-and-scrambled-eggs-q7617523-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7617523",
+    "themealdb": null
+  }
+}

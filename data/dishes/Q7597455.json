@@ -1,0 +1,18 @@
+{
+  "id": "Q7597455",
+  "name": "Stamp and Go",
+  "description": "Jamaican fritter",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stamp-and-go-q7597455/stamp-and-go-q7597455-1.jpg",
+    "images/stamp-and-go-q7597455/stamp-and-go-q7597455-2.jpg",
+    "images/stamp-and-go-q7597455/stamp-and-go-q7597455-3.jpg",
+    "images/stamp-and-go-q7597455/stamp-and-go-q7597455-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7597455",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7601887",
+  "name": "Stargazy pie",
+  "description": "Cornish dish made of baked fish",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stargazy-pie-q7601887/stargazy-pie-q7601887-1.jpg",
+    "images/stargazy-pie-q7601887/stargazy-pie-q7601887-2.jpg",
+    "images/stargazy-pie-q7601887/stargazy-pie-q7601887-3.jpg",
+    "images/stargazy-pie-q7601887/stargazy-pie-q7601887-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7601887",
+    "themealdb": null
+  }
+}

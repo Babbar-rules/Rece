@@ -1,0 +1,18 @@
+{
+  "id": "Q7577444",
+  "name": "Spinach Salad",
+  "description": "salad of green leaves",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spinach-salad-q7577444/spinach-salad-q7577444-1.jpg",
+    "images/spinach-salad-q7577444/spinach-salad-q7577444-2.jpg",
+    "images/spinach-salad-q7577444/spinach-salad-q7577444-3.jpg",
+    "images/spinach-salad-q7577444/spinach-salad-q7577444-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7577444",
+    "themealdb": null
+  }
+}

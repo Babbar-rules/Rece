@@ -1,0 +1,18 @@
+{
+  "id": "Q7578556",
+  "name": "Splice",
+  "description": "Australian ice cream confection",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/splice-q7578556/splice-q7578556-1.jpg",
+    "images/splice-q7578556/splice-q7578556-2.jpg",
+    "images/splice-q7578556/splice-q7578556-3.jpg",
+    "images/splice-q7578556/splice-q7578556-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7578556",
+    "themealdb": null
+  }
+}

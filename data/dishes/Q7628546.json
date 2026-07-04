@@ -1,0 +1,18 @@
+{
+  "id": "Q7628546",
+  "name": "Stuffed clam",
+  "description": "American seafood dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-clam-q7628546/stuffed-clam-q7628546-1.jpg",
+    "images/stuffed-clam-q7628546/stuffed-clam-q7628546-2.jpg",
+    "images/stuffed-clam-q7628546/stuffed-clam-q7628546-3.jpg",
+    "images/stuffed-clam-q7628546/stuffed-clam-q7628546-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7628546",
+    "themealdb": null
+  }
+}

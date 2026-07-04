@@ -1,0 +1,22 @@
+{
+  "id": "Q7572829",
+  "name": "spaghetti with meatballs",
+  "description": "Italian-American dish consisting of spaghetti, tomato sauce and meatballs",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "Italian-American cuisine"
+  ],
+  "images": [
+    "images/spaghetti-with-meatballs-q7572829/spaghetti-with-meatballs-q7572829-1.jpg",
+    "images/spaghetti-with-meatballs-q7572829/spaghetti-with-meatballs-q7572829-2.jpg",
+    "images/spaghetti-with-meatballs-q7572829/spaghetti-with-meatballs-q7572829-3.jpg",
+    "images/spaghetti-with-meatballs-q7572829/spaghetti-with-meatballs-q7572829-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7572829",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7605452",
+  "name": "steamed bread",
+  "description": "Bread made by steaming, not baking",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-bread-q7605452/steamed-bread-q7605452-1.jpg",
+    "images/steamed-bread-q7605452/steamed-bread-q7605452-2.jpg",
+    "images/steamed-bread-q7605452/steamed-bread-q7605452-3.jpg",
+    "images/steamed-bread-q7605452/steamed-bread-q7605452-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7605452",
+    "themealdb": null
+  }
+}

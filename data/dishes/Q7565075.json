@@ -1,0 +1,18 @@
+{
+  "id": "Q7565075",
+  "name": "Sour Patch Kids",
+  "description": "tart candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sour-patch-kids-q7565075/sour-patch-kids-q7565075-1.jpg",
+    "images/sour-patch-kids-q7565075/sour-patch-kids-q7565075-2.jpg",
+    "images/sour-patch-kids-q7565075/sour-patch-kids-q7565075-3.jpg",
+    "images/sour-patch-kids-q7565075/sour-patch-kids-q7565075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7565075",
+    "themealdb": null
+  }
+}

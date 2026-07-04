@@ -1,0 +1,21 @@
+{
+  "id": "Q7636918",
+  "name": "sumaghiyyeh",
+  "description": "Palestinian dish",
+  "nationality": [
+    "Turkey",
+    "Occupied Palestinian territories"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sumaghiyyeh-q7636918/sumaghiyyeh-q7636918-1.jpg",
+    "images/sumaghiyyeh-q7636918/sumaghiyyeh-q7636918-2.jpg",
+    "images/sumaghiyyeh-q7636918/sumaghiyyeh-q7636918-3.jpg",
+    "images/sumaghiyyeh-q7636918/sumaghiyyeh-q7636918-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7636918",
+    "themealdb": null
+  }
+}

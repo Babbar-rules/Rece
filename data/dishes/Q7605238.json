@@ -1,0 +1,20 @@
+{
+  "id": "Q7605238",
+  "name": "steak and kidney pudding",
+  "description": "English savoury pudding made by enclosing diced beef steak and lamb's or pig's kidney pieces in gravy in a suet pastry",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-and-kidney-pudding-q7605238/steak-and-kidney-pudding-q7605238-1.jpg",
+    "images/steak-and-kidney-pudding-q7605238/steak-and-kidney-pudding-q7605238-2.jpg",
+    "images/steak-and-kidney-pudding-q7605238/steak-and-kidney-pudding-q7605238-3.jpg",
+    "images/steak-and-kidney-pudding-q7605238/steak-and-kidney-pudding-q7605238-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7605238",
+    "themealdb": null
+  }
+}

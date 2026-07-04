@@ -1,0 +1,20 @@
+{
+  "id": "Q7616232",
+  "name": "stick candy",
+  "description": "long, cylindrical hard candy with different colors and flavors swirled together",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stick-candy-q7616232/stick-candy-q7616232-1.jpg",
+    "images/stick-candy-q7616232/stick-candy-q7616232-2.jpg",
+    "images/stick-candy-q7616232/stick-candy-q7616232-3.jpg",
+    "images/stick-candy-q7616232/stick-candy-q7616232-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7616232",
+    "themealdb": null
+  }
+}

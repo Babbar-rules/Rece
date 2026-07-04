@@ -1,0 +1,18 @@
+{
+  "id": "Q7634957",
+  "name": "Sugar plum",
+  "description": "hard candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sugar-plum-q7634957/sugar-plum-q7634957-1.png",
+    "images/sugar-plum-q7634957/sugar-plum-q7634957-2.jpg",
+    "images/sugar-plum-q7634957/sugar-plum-q7634957-3.png",
+    "images/sugar-plum-q7634957/sugar-plum-q7634957-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7634957",
+    "themealdb": null
+  }
+}

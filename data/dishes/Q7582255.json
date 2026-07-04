@@ -1,0 +1,15 @@
+{
+  "id": "Q7582255",
+  "name": "Squid cocktail",
+  "description": "Seafood dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/squid-cocktail-q7582255/squid-cocktail-q7582255-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7582255",
+    "themealdb": null
+  }
+}

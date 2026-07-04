@@ -1,0 +1,20 @@
+{
+  "id": "Q7570647",
+  "name": "Southern chicken stew",
+  "description": "American regional chicken stew",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/southern-chicken-stew-q7570647/southern-chicken-stew-q7570647-1.jpg",
+    "images/southern-chicken-stew-q7570647/southern-chicken-stew-q7570647-2.jpg",
+    "images/southern-chicken-stew-q7570647/southern-chicken-stew-q7570647-3.jpg",
+    "images/southern-chicken-stew-q7570647/southern-chicken-stew-q7570647-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7570647",
+    "themealdb": null
+  }
+}

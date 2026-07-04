@@ -1,0 +1,20 @@
+{
+  "id": "Q7601283",
+  "name": "star rock",
+  "description": "British confection",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/star-rock-q7601283/star-rock-q7601283-1.jpg",
+    "images/star-rock-q7601283/star-rock-q7601283-2.jpg",
+    "images/star-rock-q7601283/star-rock-q7601283-3.png",
+    "images/star-rock-q7601283/star-rock-q7601283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7601283",
+    "themealdb": null
+  }
+}

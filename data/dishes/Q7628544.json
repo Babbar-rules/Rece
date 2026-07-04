@@ -1,0 +1,20 @@
+{
+  "id": "Q7628544",
+  "name": "Stuffed chine",
+  "description": "traditional dish of Lincolnshire",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-chine-q7628544/stuffed-chine-q7628544-1.jpg",
+    "images/stuffed-chine-q7628544/stuffed-chine-q7628544-2.jpg",
+    "images/stuffed-chine-q7628544/stuffed-chine-q7628544-3.jpg",
+    "images/stuffed-chine-q7628544/stuffed-chine-q7628544-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7628544",
+    "themealdb": null
+  }
+}

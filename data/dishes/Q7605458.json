@@ -1,0 +1,18 @@
+{
+  "id": "Q7605458",
+  "name": "steamed clams",
+  "description": "Seafood dish consisting of clams",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steamed-clams-q7605458/steamed-clams-q7605458-1.jpg",
+    "images/steamed-clams-q7605458/steamed-clams-q7605458-2.jpg",
+    "images/steamed-clams-q7605458/steamed-clams-q7605458-3.jpg",
+    "images/steamed-clams-q7605458/steamed-clams-q7605458-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7605458",
+    "themealdb": null
+  }
+}

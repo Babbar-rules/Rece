@@ -1,0 +1,20 @@
+{
+  "id": "Q7641870",
+  "name": "sup kambing",
+  "description": "Indonesian dish",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sup-kambing-q7641870/sup-kambing-q7641870-1.jpg",
+    "images/sup-kambing-q7641870/sup-kambing-q7641870-2.jpg",
+    "images/sup-kambing-q7641870/sup-kambing-q7641870-3.jpg",
+    "images/sup-kambing-q7641870/sup-kambing-q7641870-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7641870",
+    "themealdb": null
+  }
+}

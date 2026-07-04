@@ -1,0 +1,18 @@
+{
+  "id": "Q7616330",
+  "name": "Sticky bun",
+  "description": "Type of dessert or breakfast sweet roll",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sticky-bun-q7616330/sticky-bun-q7616330-1.jpg",
+    "images/sticky-bun-q7616330/sticky-bun-q7616330-2.jpg",
+    "images/sticky-bun-q7616330/sticky-bun-q7616330-3.jpg",
+    "images/sticky-bun-q7616330/sticky-bun-q7616330-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7616330",
+    "themealdb": null
+  }
+}

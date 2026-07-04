@@ -1,0 +1,19 @@
+{
+  "id": "Q7620532",
+  "name": "stottie cake",
+  "description": "type of bread that originated in North East England",
+  "nationality": [
+    "England"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stottie-cake-q7620532/stottie-cake-q7620532-1.jpg",
+    "images/stottie-cake-q7620532/stottie-cake-q7620532-2.jpg",
+    "images/stottie-cake-q7620532/stottie-cake-q7620532-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7620532",
+    "themealdb": null
+  }
+}

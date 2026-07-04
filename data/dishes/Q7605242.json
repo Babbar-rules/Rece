@@ -1,0 +1,20 @@
+{
+  "id": "Q7605242",
+  "name": "steak sandwich",
+  "description": "type of sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-sandwich-q7605242/steak-sandwich-q7605242-1.jpg",
+    "images/steak-sandwich-q7605242/steak-sandwich-q7605242-2.jpg",
+    "images/steak-sandwich-q7605242/steak-sandwich-q7605242-3.jpg",
+    "images/steak-sandwich-q7605242/steak-sandwich-q7605242-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7605242",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q7565047",
+  "name": "Soup alla Canavese",
+  "description": "Italian soup",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7565047",
+    "themealdb": null
+  }
+}

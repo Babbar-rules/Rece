@@ -1,0 +1,22 @@
+{
+  "id": "Q7640203",
+  "name": "Sungeoguk",
+  "description": "North Korean soup dish",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [
+    "North Korean cuisine"
+  ],
+  "images": [
+    "images/sungeoguk-q7640203/sungeoguk-q7640203-1.jpg",
+    "images/sungeoguk-q7640203/sungeoguk-q7640203-2.png",
+    "images/sungeoguk-q7640203/sungeoguk-q7640203-3.png",
+    "images/sungeoguk-q7640203/sungeoguk-q7640203-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7640203",
+    "themealdb": null
+  }
+}

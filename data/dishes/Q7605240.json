@@ -1,0 +1,20 @@
+{
+  "id": "Q7605240",
+  "name": "steak pie",
+  "description": "British meat pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/steak-pie-q7605240/steak-pie-q7605240-1.jpg",
+    "images/steak-pie-q7605240/steak-pie-q7605240-2.jpg",
+    "images/steak-pie-q7605240/steak-pie-q7605240-3.jpg",
+    "images/steak-pie-q7605240/steak-pie-q7605240-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7605240",
+    "themealdb": null
+  }
+}

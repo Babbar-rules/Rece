@@ -1,0 +1,17 @@
+{
+  "id": "Q7563795",
+  "name": "Sorullos",
+  "description": "Puerto Rican fried cornmeal dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sorullos-q7563795/sorullos-q7563795-1.jpg",
+    "images/sorullos-q7563795/sorullos-q7563795-2.jpg",
+    "images/sorullos-q7563795/sorullos-q7563795-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7563795",
+    "themealdb": null
+  }
+}

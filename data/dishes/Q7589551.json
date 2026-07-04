@@ -1,0 +1,18 @@
+{
+  "id": "Q7589551",
+  "name": "St. Louis-style barbecue",
+  "description": "dish associated with St. Louis, Missouri, U.S., consisting of spare ribs slow- smoked in a barbecue pit or barbecue grill fueled by wood, charcoal, or both",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/st-louis-style-barbecue-q7589551/st-louis-style-barbecue-q7589551-1.jpg",
+    "images/st-louis-style-barbecue-q7589551/st-louis-style-barbecue-q7589551-2.jpg",
+    "images/st-louis-style-barbecue-q7589551/st-louis-style-barbecue-q7589551-3.jpg",
+    "images/st-louis-style-barbecue-q7589551/st-louis-style-barbecue-q7589551-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7589551",
+    "themealdb": null
+  }
+}

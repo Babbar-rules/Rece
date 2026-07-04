@@ -1,0 +1,18 @@
+{
+  "id": "Q7576925",
+  "name": "spiced bun",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spiced-bun-q7576925/spiced-bun-q7576925-1.jpg",
+    "images/spiced-bun-q7576925/spiced-bun-q7576925-2.jpg",
+    "images/spiced-bun-q7576925/spiced-bun-q7576925-3.jpg",
+    "images/spiced-bun-q7576925/spiced-bun-q7576925-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7576925",
+    "themealdb": null
+  }
+}

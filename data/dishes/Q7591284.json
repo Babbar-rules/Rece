@@ -1,0 +1,20 @@
+{
+  "id": "Q7591284",
+  "name": "St. Paul sandwich",
+  "description": "sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/st-paul-sandwich-q7591284/st-paul-sandwich-q7591284-1.jpg",
+    "images/st-paul-sandwich-q7591284/st-paul-sandwich-q7591284-2.jpg",
+    "images/st-paul-sandwich-q7591284/st-paul-sandwich-q7591284-3.jpg",
+    "images/st-paul-sandwich-q7591284/st-paul-sandwich-q7591284-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7591284",
+    "themealdb": null
+  }
+}

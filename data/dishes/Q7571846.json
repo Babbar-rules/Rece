@@ -1,0 +1,20 @@
+{
+  "id": "Q7571846",
+  "name": "sowans",
+  "description": "Scottish dish",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sowans-q7571846/sowans-q7571846-1.jpg",
+    "images/sowans-q7571846/sowans-q7571846-2.jpg",
+    "images/sowans-q7571846/sowans-q7571846-3.jpg",
+    "images/sowans-q7571846/sowans-q7571846-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7571846",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q762285",
+  "name": "Dakos",
+  "description": "Greek cuisine starter",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dakos-q762285/dakos-q762285-1.jpg",
+    "images/dakos-q762285/dakos-q762285-2.jpg",
+    "images/dakos-q762285/dakos-q762285-3.jpg",
+    "images/dakos-q762285/dakos-q762285-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q762285",
+    "themealdb": null
+  }
+}

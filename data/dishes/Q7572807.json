@@ -1,0 +1,18 @@
+{
+  "id": "Q7572807",
+  "name": "SpaghettiOs",
+  "description": "American brand of canned pasta",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spaghettios-q7572807/spaghettios-q7572807-1.jpg",
+    "images/spaghettios-q7572807/spaghettios-q7572807-2.jpg",
+    "images/spaghettios-q7572807/spaghettios-q7572807-3.jpg",
+    "images/spaghettios-q7572807/spaghettios-q7572807-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7572807",
+    "themealdb": null
+  }
+}

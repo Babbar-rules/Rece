@@ -1,0 +1,18 @@
+{
+  "id": "Q7605615",
+  "name": "steel-cut oats",
+  "description": "groats of whole oats cut into pieces",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/steel-cut-oats-q7605615/steel-cut-oats-q7605615-1.jpeg",
+    "images/steel-cut-oats-q7605615/steel-cut-oats-q7605615-2.jpeg",
+    "images/steel-cut-oats-q7605615/steel-cut-oats-q7605615-3.jpg",
+    "images/steel-cut-oats-q7605615/steel-cut-oats-q7605615-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7605615",
+    "themealdb": null
+  }
+}

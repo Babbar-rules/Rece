@@ -1,0 +1,20 @@
+{
+  "id": "Q7622416",
+  "name": "Strawberry Delight",
+  "description": "Desert salad",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/strawberry-delight-q7622416/strawberry-delight-q7622416-1.jpg",
+    "images/strawberry-delight-q7622416/strawberry-delight-q7622416-2.jpg",
+    "images/strawberry-delight-q7622416/strawberry-delight-q7622416-3.jpg",
+    "images/strawberry-delight-q7622416/strawberry-delight-q7622416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7622416",
+    "themealdb": null
+  }
+}

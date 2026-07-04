@@ -1,0 +1,20 @@
+{
+  "id": "Q7634410",
+  "name": "suet pudding",
+  "description": "pudding made with wheat flour and suet",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suet-pudding-q7634410/suet-pudding-q7634410-1.jpg",
+    "images/suet-pudding-q7634410/suet-pudding-q7634410-2.jpg",
+    "images/suet-pudding-q7634410/suet-pudding-q7634410-3.jpg",
+    "images/suet-pudding-q7634410/suet-pudding-q7634410-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7634410",
+    "themealdb": null
+  }
+}

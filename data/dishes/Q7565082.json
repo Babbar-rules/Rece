@@ -1,0 +1,20 @@
+{
+  "id": "Q7565082",
+  "name": "sour cream doughnut",
+  "description": "doughnut made from sour cream batter",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sour-cream-doughnut-q7565082/sour-cream-doughnut-q7565082-1.jpg",
+    "images/sour-cream-doughnut-q7565082/sour-cream-doughnut-q7565082-2.jpg",
+    "images/sour-cream-doughnut-q7565082/sour-cream-doughnut-q7565082-3.jpg",
+    "images/sour-cream-doughnut-q7565082/sour-cream-doughnut-q7565082-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7565082",
+    "themealdb": null
+  }
+}

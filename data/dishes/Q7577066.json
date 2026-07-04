@@ -1,0 +1,20 @@
+{
+  "id": "Q7577066",
+  "name": "Spider roll",
+  "description": "sushi roll",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spider-roll-q7577066/spider-roll-q7577066-1.jpg",
+    "images/spider-roll-q7577066/spider-roll-q7577066-2.jpg",
+    "images/spider-roll-q7577066/spider-roll-q7577066-3.jpg",
+    "images/spider-roll-q7577066/spider-roll-q7577066-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7577066",
+    "themealdb": null
+  }
+}

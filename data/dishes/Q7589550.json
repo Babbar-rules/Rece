@@ -1,0 +1,20 @@
+{
+  "id": "Q7589550",
+  "name": "St. Louis-style pizza",
+  "description": "type of pizza originating from St. Louis, Missouri, US, characterized by thin cracker-like crust without yeast, use of Provel cheese, and being cut into squares/rectangles",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/st-louis-style-pizza-q7589550/st-louis-style-pizza-q7589550-1.jpg",
+    "images/st-louis-style-pizza-q7589550/st-louis-style-pizza-q7589550-2.jpg",
+    "images/st-louis-style-pizza-q7589550/st-louis-style-pizza-q7589550-3.jpg",
+    "images/st-louis-style-pizza-q7589550/st-louis-style-pizza-q7589550-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7589550",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7576924",
+  "name": "Spiced beef",
+  "description": "form of salt beef",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/spiced-beef-q7576924/spiced-beef-q7576924-1.jpg",
+    "images/spiced-beef-q7576924/spiced-beef-q7576924-2.jpg",
+    "images/spiced-beef-q7576924/spiced-beef-q7576924-3.jpg",
+    "images/spiced-beef-q7576924/spiced-beef-q7576924-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7576924",
+    "themealdb": null
+  }
+}

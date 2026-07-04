@@ -1,0 +1,20 @@
+{
+  "id": "Q7630489",
+  "name": "chaoshou",
+  "description": "spicy sauce over steamed, meat-filled dumplings",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/chaoshou-q7630489/chaoshou-q7630489-1.jpg",
+    "images/chaoshou-q7630489/chaoshou-q7630489-2.jpg",
+    "images/chaoshou-q7630489/chaoshou-q7630489-3.jpg",
+    "images/chaoshou-q7630489/chaoshou-q7630489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7630489",
+    "themealdb": null
+  }
+}

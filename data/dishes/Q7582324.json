@@ -1,0 +1,20 @@
+{
+  "id": "Q7582324",
+  "name": "Squirrel",
+  "description": "brand of peanut butter",
+  "nationality": [
+    "Canada"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/squirrel-q7582324/squirrel-q7582324-1.jpg",
+    "images/squirrel-q7582324/squirrel-q7582324-2.jpg",
+    "images/squirrel-q7582324/squirrel-q7582324-3.jpg",
+    "images/squirrel-q7582324/squirrel-q7582324-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7582324",
+    "themealdb": null
+  }
+}

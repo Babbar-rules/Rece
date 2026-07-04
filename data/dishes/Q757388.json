@@ -1,0 +1,20 @@
+{
+  "id": "Q757388",
+  "name": "Milka",
+  "description": "chocolate brand",
+  "nationality": [
+    "Switzerland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/milka-q757388/milka-q757388-1.jpg",
+    "images/milka-q757388/milka-q757388-2.jpg",
+    "images/milka-q757388/milka-q757388-3.jpg",
+    "images/milka-q757388/milka-q757388-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q757388",
+    "themealdb": null
+  }
+}

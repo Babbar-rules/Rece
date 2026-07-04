@@ -1,0 +1,20 @@
+{
+  "id": "Q7619467",
+  "name": "stonner kebab",
+  "description": "pork sausage wrapped in strips of döner meat, coated in two layers of batter, and then deep fried, served on a bed of chips",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stonner-kebab-q7619467/stonner-kebab-q7619467-1.jpg",
+    "images/stonner-kebab-q7619467/stonner-kebab-q7619467-2.jpg",
+    "images/stonner-kebab-q7619467/stonner-kebab-q7619467-3.jpg",
+    "images/stonner-kebab-q7619467/stonner-kebab-q7619467-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7619467",
+    "themealdb": null
+  }
+}

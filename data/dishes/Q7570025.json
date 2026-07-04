@@ -1,0 +1,17 @@
+{
+  "id": "Q7570025",
+  "name": "Southern Illinois chowder",
+  "description": "American chowder",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/southern-illinois-chowder-q7570025/southern-illinois-chowder-q7570025-1.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7570025",
+    "themealdb": null
+  }
+}

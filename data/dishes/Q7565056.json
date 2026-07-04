@@ -1,0 +1,18 @@
+{
+  "id": "Q7565056",
+  "name": "Soup with risotto",
+  "description": "Italian-American dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/soup-with-risotto-q7565056/soup-with-risotto-q7565056-1.jpg",
+    "images/soup-with-risotto-q7565056/soup-with-risotto-q7565056-2.jpg",
+    "images/soup-with-risotto-q7565056/soup-with-risotto-q7565056-3.jpg",
+    "images/soup-with-risotto-q7565056/soup-with-risotto-q7565056-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7565056",
+    "themealdb": null
+  }
+}

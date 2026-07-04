@@ -1,0 +1,20 @@
+{
+  "id": "Q7634947",
+  "name": "Sugar mice",
+  "description": "traditional sugar candy popular in the United Kingdom",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sugar-mice-q7634947/sugar-mice-q7634947-1.jpg",
+    "images/sugar-mice-q7634947/sugar-mice-q7634947-2.jpg",
+    "images/sugar-mice-q7634947/sugar-mice-q7634947-3.jpg",
+    "images/sugar-mice-q7634947/sugar-mice-q7634947-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7634947",
+    "themealdb": null
+  }
+}

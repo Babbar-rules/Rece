@@ -1,0 +1,20 @@
+{
+  "id": "Q7581885",
+  "name": "squab pie",
+  "description": "English meat pie",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/squab-pie-q7581885/squab-pie-q7581885-1.jpg",
+    "images/squab-pie-q7581885/squab-pie-q7581885-2.jpg",
+    "images/squab-pie-q7581885/squab-pie-q7581885-3.jpg",
+    "images/squab-pie-q7581885/squab-pie-q7581885-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7581885",
+    "themealdb": null
+  }
+}

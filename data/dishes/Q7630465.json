@@ -1,0 +1,20 @@
+{
+  "id": "Q7630465",
+  "name": "suama",
+  "description": "Japanese sweet",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/suama-q7630465/suama-q7630465-1.jpg",
+    "images/suama-q7630465/suama-q7630465-2.jpg",
+    "images/suama-q7630465/suama-q7630465-3.jpg",
+    "images/suama-q7630465/suama-q7630465-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7630465",
+    "themealdb": null
+  }
+}

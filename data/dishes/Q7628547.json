@@ -1,0 +1,18 @@
+{
+  "id": "Q7628547",
+  "name": "stuffed ham",
+  "description": "Ham dish from Maryland, United States",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/stuffed-ham-q7628547/stuffed-ham-q7628547-1.jpg",
+    "images/stuffed-ham-q7628547/stuffed-ham-q7628547-2.jpg",
+    "images/stuffed-ham-q7628547/stuffed-ham-q7628547-3.jpg",
+    "images/stuffed-ham-q7628547/stuffed-ham-q7628547-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7628547",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Q7623197",
+  "name": "Strela candy",
+  "description": "Ukrainian chocolate candy with brandy-flavored filling",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/strela-candy-q7623197/strela-candy-q7623197-1.jpg",
+    "images/strela-candy-q7623197/strela-candy-q7623197-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7623197",
+    "themealdb": null
+  }
+}
