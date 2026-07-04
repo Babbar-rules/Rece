@@ -1,0 +1,18 @@
+{
+  "id": "Q7689600",
+  "name": "Taxi",
+  "description": "chocolate biscuit brand",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/taxi-q7689600/taxi-q7689600-1.jpg",
+    "images/taxi-q7689600/taxi-q7689600-2.jpg",
+    "images/taxi-q7689600/taxi-q7689600-3.jpg",
+    "images/taxi-q7689600/taxi-q7689600-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7689600",
+    "themealdb": null
+  }
+}

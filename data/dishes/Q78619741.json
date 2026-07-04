@@ -1,0 +1,22 @@
+{
+  "id": "Q78619741",
+  "name": "gulai tambunsu",
+  "description": "Indonesian food originating from West Sumatra",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/gulai-tambunsu-q78619741/gulai-tambunsu-q78619741-1.jpg",
+    "images/gulai-tambunsu-q78619741/gulai-tambunsu-q78619741-2.jpg",
+    "images/gulai-tambunsu-q78619741/gulai-tambunsu-q78619741-3.jpg",
+    "images/gulai-tambunsu-q78619741/gulai-tambunsu-q78619741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q78619741",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7858438",
+  "name": "Twirl",
+  "description": "Cadbury chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/twirl-q7858438/twirl-q7858438-1.jpg",
+    "images/twirl-q7858438/twirl-q7858438-2.jpg",
+    "images/twirl-q7858438/twirl-q7858438-3.png",
+    "images/twirl-q7858438/twirl-q7858438-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7858438",
+    "themealdb": null
+  }
+}

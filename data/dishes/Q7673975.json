@@ -1,0 +1,20 @@
+{
+  "id": "Q7673975",
+  "name": "taco soup",
+  "description": "type of soup",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taco-soup-q7673975/taco-soup-q7673975-1.jpg",
+    "images/taco-soup-q7673975/taco-soup-q7673975-2.jpg",
+    "images/taco-soup-q7673975/taco-soup-q7673975-3.jpg",
+    "images/taco-soup-q7673975/taco-soup-q7673975-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7673975",
+    "themealdb": null
+  }
+}

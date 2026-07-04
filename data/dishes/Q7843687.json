@@ -1,0 +1,20 @@
+{
+  "id": "Q7843687",
+  "name": "tripoline",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tripoline-q7843687/tripoline-q7843687-1.jpg",
+    "images/tripoline-q7843687/tripoline-q7843687-2.jpg",
+    "images/tripoline-q7843687/tripoline-q7843687-3.jpg",
+    "images/tripoline-q7843687/tripoline-q7843687-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7843687",
+    "themealdb": null
+  }
+}

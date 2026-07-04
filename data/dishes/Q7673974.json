@@ -1,0 +1,20 @@
+{
+  "id": "Q7673974",
+  "name": "Taco salad",
+  "description": "tex-Mex food",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taco-salad-q7673974/taco-salad-q7673974-1.jpg",
+    "images/taco-salad-q7673974/taco-salad-q7673974-2.jpg",
+    "images/taco-salad-q7673974/taco-salad-q7673974-3.jpg",
+    "images/taco-salad-q7673974/taco-salad-q7673974-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7673974",
+    "themealdb": null
+  }
+}

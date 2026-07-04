@@ -1,0 +1,20 @@
+{
+  "id": "Q7852883",
+  "name": "Tunde ke kabab",
+  "description": "Buffalo meat galouti kebab, is a popular dish in Lucknow, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tunde-ke-kabab-q7852883/tunde-ke-kabab-q7852883-1.jpg",
+    "images/tunde-ke-kabab-q7852883/tunde-ke-kabab-q7852883-2.jpg",
+    "images/tunde-ke-kabab-q7852883/tunde-ke-kabab-q7852883-3.jpg",
+    "images/tunde-ke-kabab-q7852883/tunde-ke-kabab-q7852883-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7852883",
+    "themealdb": null
+  }
+}

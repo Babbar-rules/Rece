@@ -1,0 +1,20 @@
+{
+  "id": "Q76928331",
+  "name": "gosht",
+  "description": "class of South Asian meat dishes typically constituent of goat meat",
+  "nationality": [],
+  "region_cuisine": [
+    "South Asian cuisine"
+  ],
+  "images": [
+    "images/gosht-q76928331/gosht-q76928331-1.jpg",
+    "images/gosht-q76928331/gosht-q76928331-2.jpg",
+    "images/gosht-q76928331/gosht-q76928331-3.jpg",
+    "images/gosht-q76928331/gosht-q76928331-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q76928331",
+    "themealdb": null
+  }
+}

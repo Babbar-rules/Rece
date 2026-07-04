@@ -1,0 +1,22 @@
+{
+  "id": "Q7825801",
+  "name": "torikatsu",
+  "description": "Japanese fried chicken dish",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [
+    "yōshoku"
+  ],
+  "images": [
+    "images/torikatsu-q7825801/torikatsu-q7825801-1.jpg",
+    "images/torikatsu-q7825801/torikatsu-q7825801-2.jpg",
+    "images/torikatsu-q7825801/torikatsu-q7825801-3.jpg",
+    "images/torikatsu-q7825801/torikatsu-q7825801-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7825801",
+    "themealdb": null
+  }
+}

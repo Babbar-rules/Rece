@@ -1,0 +1,18 @@
+{
+  "id": "Q7649699",
+  "name": "sustainable sushi",
+  "description": "sushi made from fished or farmed sources that can be maintained or whose future production does not significantly jeopardize the ecosystems from which it is acquired",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sustainable-sushi-q7649699/sustainable-sushi-q7649699-1.jpg",
+    "images/sustainable-sushi-q7649699/sustainable-sushi-q7649699-2.jpg",
+    "images/sustainable-sushi-q7649699/sustainable-sushi-q7649699-3.jpg",
+    "images/sustainable-sushi-q7649699/sustainable-sushi-q7649699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7649699",
+    "themealdb": null
+  }
+}

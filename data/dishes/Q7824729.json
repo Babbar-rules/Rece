@@ -1,0 +1,18 @@
+{
+  "id": "Q7824729",
+  "name": "top sirloin",
+  "description": "cut of meat from the primal loin, subprimal sirloin, of a beef carcass",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/top-sirloin-q7824729/top-sirloin-q7824729-1.jpg",
+    "images/top-sirloin-q7824729/top-sirloin-q7824729-2.jpg",
+    "images/top-sirloin-q7824729/top-sirloin-q7824729-3.jpg",
+    "images/top-sirloin-q7824729/top-sirloin-q7824729-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7824729",
+    "themealdb": null
+  }
+}

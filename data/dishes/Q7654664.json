@@ -1,0 +1,20 @@
+{
+  "id": "Q7654664",
+  "name": "Swedish Fish",
+  "description": "fish-shaped chewy candy",
+  "nationality": [
+    "Sweden"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/swedish-fish-q7654664/swedish-fish-q7654664-1.png",
+    "images/swedish-fish-q7654664/swedish-fish-q7654664-2.jpeg",
+    "images/swedish-fish-q7654664/swedish-fish-q7654664-3.jpg",
+    "images/swedish-fish-q7654664/swedish-fish-q7654664-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7654664",
+    "themealdb": null
+  }
+}

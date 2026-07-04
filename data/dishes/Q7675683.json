@@ -1,0 +1,20 @@
+{
+  "id": "Q7675683",
+  "name": "tahu goreng",
+  "description": "Southeast Asian fried tofu",
+  "nationality": [
+    "Association of Southeast Asian Nations"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tahu-goreng-q7675683/tahu-goreng-q7675683-1.jpg",
+    "images/tahu-goreng-q7675683/tahu-goreng-q7675683-2.jpg",
+    "images/tahu-goreng-q7675683/tahu-goreng-q7675683-3.jpg",
+    "images/tahu-goreng-q7675683/tahu-goreng-q7675683-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7675683",
+    "themealdb": null
+  }
+}

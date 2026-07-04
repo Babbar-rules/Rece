@@ -1,0 +1,22 @@
+{
+  "id": "Q7691137",
+  "name": "tea sandwich",
+  "description": "small prepared sandwich meant to be eaten at afternoon teatime to stave off hunger until the main meal",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [
+    "British cuisine"
+  ],
+  "images": [
+    "images/tea-sandwich-q7691137/tea-sandwich-q7691137-1.jpg",
+    "images/tea-sandwich-q7691137/tea-sandwich-q7691137-2.jpg",
+    "images/tea-sandwich-q7691137/tea-sandwich-q7691137-3.jpg",
+    "images/tea-sandwich-q7691137/tea-sandwich-q7691137-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7691137",
+    "themealdb": null
+  }
+}

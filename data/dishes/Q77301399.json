@@ -1,0 +1,20 @@
+{
+  "id": "Q77301399",
+  "name": "spezzatino",
+  "description": "Italian meat-based stew",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/spezzatino-q77301399/spezzatino-q77301399-1.jpg",
+    "images/spezzatino-q77301399/spezzatino-q77301399-2.jpg",
+    "images/spezzatino-q77301399/spezzatino-q77301399-3.jpg",
+    "images/spezzatino-q77301399/spezzatino-q77301399-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q77301399",
+    "themealdb": null
+  }
+}

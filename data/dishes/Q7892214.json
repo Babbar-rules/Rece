@@ -1,0 +1,20 @@
+{
+  "id": "Q7892214",
+  "name": "taffy",
+  "description": "type of soft candy",
+  "nationality": [
+    "New Jersey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taffy-q7892214/taffy-q7892214-1.jpg",
+    "images/taffy-q7892214/taffy-q7892214-2.jpg",
+    "images/taffy-q7892214/taffy-q7892214-3.jpg",
+    "images/taffy-q7892214/taffy-q7892214-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7892214",
+    "themealdb": null
+  }
+}

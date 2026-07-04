@@ -1,0 +1,20 @@
+{
+  "id": "Q7675057",
+  "name": "Taftan",
+  "description": "Asian bread",
+  "nationality": [
+    "Iran"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taftan-q7675057/taftan-q7675057-1.jpg",
+    "images/taftan-q7675057/taftan-q7675057-2.jpg",
+    "images/taftan-q7675057/taftan-q7675057-3.jpg",
+    "images/taftan-q7675057/taftan-q7675057-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7675057",
+    "themealdb": null
+  }
+}

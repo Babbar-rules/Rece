@@ -1,0 +1,18 @@
+{
+  "id": "Q767956",
+  "name": "bò 7 món",
+  "description": "set selection of beef dishes in Vietnamese cuisine",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/bo-7-mon-q767956/bo-7-mon-q767956-1.jpg",
+    "images/bo-7-mon-q767956/bo-7-mon-q767956-2.jpg",
+    "images/bo-7-mon-q767956/bo-7-mon-q767956-3.jpg",
+    "images/bo-7-mon-q767956/bo-7-mon-q767956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q767956",
+    "themealdb": null
+  }
+}

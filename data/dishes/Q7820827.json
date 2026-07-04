@@ -1,0 +1,20 @@
+{
+  "id": "Q7820827",
+  "name": "Tonis puri",
+  "description": "type of Georgian bread",
+  "nationality": [
+    "Georgia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tonis-puri-q7820827/tonis-puri-q7820827-1.jpg",
+    "images/tonis-puri-q7820827/tonis-puri-q7820827-2.jpg",
+    "images/tonis-puri-q7820827/tonis-puri-q7820827-3.jpg",
+    "images/tonis-puri-q7820827/tonis-puri-q7820827-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7820827",
+    "themealdb": null
+  }
+}

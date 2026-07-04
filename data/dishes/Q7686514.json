@@ -1,0 +1,20 @@
+{
+  "id": "Q7686514",
+  "name": "taro ball",
+  "description": "traditional Taiwanese cuisine dessert made of taro",
+  "nationality": [
+    "Taiwan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/taro-ball-q7686514/taro-ball-q7686514-1.jpg",
+    "images/taro-ball-q7686514/taro-ball-q7686514-2.jpg",
+    "images/taro-ball-q7686514/taro-ball-q7686514-3.jpg",
+    "images/taro-ball-q7686514/taro-ball-q7686514-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7686514",
+    "themealdb": null
+  }
+}

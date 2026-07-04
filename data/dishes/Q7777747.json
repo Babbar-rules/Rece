@@ -1,0 +1,20 @@
+{
+  "id": "Q7777747",
+  "name": "Theeyal",
+  "description": "South Indian roasted coconut stew",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/theeyal-q7777747/theeyal-q7777747-1.jpg",
+    "images/theeyal-q7777747/theeyal-q7777747-2.jpg",
+    "images/theeyal-q7777747/theeyal-q7777747-3.jpg",
+    "images/theeyal-q7777747/theeyal-q7777747-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7777747",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q7808550",
+  "name": "Tinutuan porridge",
+  "description": "Indonesian dish with rice and squash",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/tinutuan-porridge-q7808550/tinutuan-porridge-q7808550-1.jpg",
+    "images/tinutuan-porridge-q7808550/tinutuan-porridge-q7808550-2.jpg",
+    "images/tinutuan-porridge-q7808550/tinutuan-porridge-q7808550-3.jpg",
+    "images/tinutuan-porridge-q7808550/tinutuan-porridge-q7808550-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7808550",
+    "themealdb": null
+  }
+}

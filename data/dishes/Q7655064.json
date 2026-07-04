@@ -1,0 +1,18 @@
+{
+  "id": "Q7655064",
+  "name": "SweeTarts",
+  "description": "sweet and sour candies",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweetarts-q7655064/sweetarts-q7655064-1.jpg",
+    "images/sweetarts-q7655064/sweetarts-q7655064-2.jpg",
+    "images/sweetarts-q7655064/sweetarts-q7655064-3.jpg",
+    "images/sweetarts-q7655064/sweetarts-q7655064-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7655064",
+    "themealdb": null
+  }
+}

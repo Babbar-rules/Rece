@@ -1,0 +1,20 @@
+{
+  "id": "Q7664181",
+  "name": "Szałot",
+  "description": "salad from Silesia, Poland",
+  "nationality": [
+    "Silesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/szaot-q7664181/szaot-q7664181-1.jpg",
+    "images/szaot-q7664181/szaot-q7664181-2.jpg",
+    "images/szaot-q7664181/szaot-q7664181-3.jpg",
+    "images/szaot-q7664181/szaot-q7664181-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7664181",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q77469893",
+  "name": "apple jam",
+  "description": "jam made from apples",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/apple-jam-q77469893/apple-jam-q77469893-1.jpg",
+    "images/apple-jam-q77469893/apple-jam-q77469893-2.jpg",
+    "images/apple-jam-q77469893/apple-jam-q77469893-3.jpg",
+    "images/apple-jam-q77469893/apple-jam-q77469893-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q77469893",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7661457",
+  "name": "Symphony (candy)",
+  "description": "chocolate bar by Hershey's",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/symphony-candy-q7661457/symphony-candy-q7661457-1.jpg",
+    "images/symphony-candy-q7661457/symphony-candy-q7661457-2.jpg",
+    "images/symphony-candy-q7661457/symphony-candy-q7661457-3.jpg",
+    "images/symphony-candy-q7661457/symphony-candy-q7661457-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7661457",
+    "themealdb": null
+  }
+}

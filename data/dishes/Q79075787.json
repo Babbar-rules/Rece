@@ -1,0 +1,20 @@
+{
+  "id": "Q79075787",
+  "name": "New York-style bagel",
+  "description": "variety of bagel originating from the Jewish community of New York City",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/new-york-style-bagel-q79075787/new-york-style-bagel-q79075787-1.jpg",
+    "images/new-york-style-bagel-q79075787/new-york-style-bagel-q79075787-2.jpg",
+    "images/new-york-style-bagel-q79075787/new-york-style-bagel-q79075787-3.jpg",
+    "images/new-york-style-bagel-q79075787/new-york-style-bagel-q79075787-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q79075787",
+    "themealdb": null
+  }
+}

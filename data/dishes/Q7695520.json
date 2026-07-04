@@ -1,0 +1,23 @@
+{
+  "id": "Q7695520",
+  "name": "Tekwan",
+  "description": "Indonesian's traditional food",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine",
+    "Palembang cuisine"
+  ],
+  "images": [
+    "images/tekwan-q7695520/tekwan-q7695520-1.jpg",
+    "images/tekwan-q7695520/tekwan-q7695520-2.jpg",
+    "images/tekwan-q7695520/tekwan-q7695520-3.jpg",
+    "images/tekwan-q7695520/tekwan-q7695520-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7695520",
+    "themealdb": null
+  }
+}

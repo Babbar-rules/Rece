@@ -1,0 +1,20 @@
+{
+  "id": "Q7856139",
+  "name": "turon",
+  "description": "Philippine banana snack",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/turon-q7856139/turon-q7856139-1.jpg",
+    "images/turon-q7856139/turon-q7856139-2.jpg",
+    "images/turon-q7856139/turon-q7856139-3.jpg",
+    "images/turon-q7856139/turon-q7856139-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7856139",
+    "themealdb": null
+  }
+}

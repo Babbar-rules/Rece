@@ -1,0 +1,20 @@
+{
+  "id": "Q7688659",
+  "name": "Tauco",
+  "description": "Indonesian fermented bean paste",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tauco-q7688659/tauco-q7688659-1.jpg",
+    "images/tauco-q7688659/tauco-q7688659-2.jpg",
+    "images/tauco-q7688659/tauco-q7688659-3.jpg",
+    "images/tauco-q7688659/tauco-q7688659-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7688659",
+    "themealdb": null
+  }
+}

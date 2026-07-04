@@ -1,0 +1,20 @@
+{
+  "id": "Q7818554",
+  "name": "tomato and egg soup",
+  "description": "Chinese soup dish",
+  "nationality": [
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomato-and-egg-soup-q7818554/tomato-and-egg-soup-q7818554-1.jpg",
+    "images/tomato-and-egg-soup-q7818554/tomato-and-egg-soup-q7818554-2.jpg",
+    "images/tomato-and-egg-soup-q7818554/tomato-and-egg-soup-q7818554-3.jpg",
+    "images/tomato-and-egg-soup-q7818554/tomato-and-egg-soup-q7818554-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7818554",
+    "themealdb": null
+  }
+}

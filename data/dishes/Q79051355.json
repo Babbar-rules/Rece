@@ -1,0 +1,18 @@
+{
+  "id": "Q79051355",
+  "name": "Nutella Biscuits",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nutella-biscuits-q79051355/nutella-biscuits-q79051355-1.jpg",
+    "images/nutella-biscuits-q79051355/nutella-biscuits-q79051355-2.jpg",
+    "images/nutella-biscuits-q79051355/nutella-biscuits-q79051355-3.jpg",
+    "images/nutella-biscuits-q79051355/nutella-biscuits-q79051355-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q79051355",
+    "themealdb": null
+  }
+}

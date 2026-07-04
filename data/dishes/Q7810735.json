@@ -1,0 +1,20 @@
+{
+  "id": "Q7810735",
+  "name": "tlayuda",
+  "description": "Oaxacan dish of a large, thin, crunchy, partially fried or toasted filled tortilla",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tlayuda-q7810735/tlayuda-q7810735-1.jpg",
+    "images/tlayuda-q7810735/tlayuda-q7810735-2.jpg",
+    "images/tlayuda-q7810735/tlayuda-q7810735-3.jpg",
+    "images/tlayuda-q7810735/tlayuda-q7810735-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7810735",
+    "themealdb": null
+  }
+}

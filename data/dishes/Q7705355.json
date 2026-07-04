@@ -1,0 +1,18 @@
+{
+  "id": "Q7705355",
+  "name": "Terva Leijona",
+  "description": "Finnish liquorice candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/terva-leijona-q7705355/terva-leijona-q7705355-1.jpg",
+    "images/terva-leijona-q7705355/terva-leijona-q7705355-2.jpg",
+    "images/terva-leijona-q7705355/terva-leijona-q7705355-3.jpg",
+    "images/terva-leijona-q7705355/terva-leijona-q7705355-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7705355",
+    "themealdb": null
+  }
+}

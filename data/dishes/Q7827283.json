@@ -1,0 +1,20 @@
+{
+  "id": "Q7827283",
+  "name": "Torta Ahogada",
+  "description": "pork birote bread sandwich in chile de árbol sauce",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torta-ahogada-q7827283/torta-ahogada-q7827283-1.jpg",
+    "images/torta-ahogada-q7827283/torta-ahogada-q7827283-2.jpg",
+    "images/torta-ahogada-q7827283/torta-ahogada-q7827283-3.jpg",
+    "images/torta-ahogada-q7827283/torta-ahogada-q7827283-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7827283",
+    "themealdb": null
+  }
+}

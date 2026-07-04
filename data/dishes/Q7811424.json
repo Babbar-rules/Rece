@@ -1,0 +1,16 @@
+{
+  "id": "Q7811424",
+  "name": "Toaster Strudel",
+  "description": "Brand of toaster pastries",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/toaster-strudel-q7811424/toaster-strudel-q7811424-1.jpg",
+    "images/toaster-strudel-q7811424/toaster-strudel-q7811424-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7811424",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q7809258",
+  "name": "tirokafteri",
+  "description": "Greek cuisine starter",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tirokafteri-q7809258/tirokafteri-q7809258-1.jpg",
+    "images/tirokafteri-q7809258/tirokafteri-q7809258-2.jpg",
+    "images/tirokafteri-q7809258/tirokafteri-q7809258-3.png",
+    "images/tirokafteri-q7809258/tirokafteri-q7809258-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7809258",
+    "themealdb": null
+  }
+}

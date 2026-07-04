@@ -1,0 +1,22 @@
+{
+  "id": "Q780115",
+  "name": "Pastiera",
+  "description": "Neapolitan tart",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Neapolitan cuisine"
+  ],
+  "images": [
+    "images/pastiera-q780115/pastiera-q780115-1.jpg",
+    "images/pastiera-q780115/pastiera-q780115-2.jpg",
+    "images/pastiera-q780115/pastiera-q780115-3.jpg",
+    "images/pastiera-q780115/pastiera-q780115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q780115",
+    "themealdb": null
+  }
+}

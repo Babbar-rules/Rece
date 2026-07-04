@@ -1,0 +1,20 @@
+{
+  "id": "Q782794",
+  "name": "fortune cookie",
+  "description": "crispy cookie with printed paper fortune inside",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fortune-cookie-q782794/fortune-cookie-q782794-1.jpg",
+    "images/fortune-cookie-q782794/fortune-cookie-q782794-2.jpg",
+    "images/fortune-cookie-q782794/fortune-cookie-q782794-3.jpg",
+    "images/fortune-cookie-q782794/fortune-cookie-q782794-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q782794",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7655635",
+  "name": "sweet roll",
+  "description": "baked yeast-leavened dessert or breakfast",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/sweet-roll-q7655635/sweet-roll-q7655635-1.jpg",
+    "images/sweet-roll-q7655635/sweet-roll-q7655635-2.jpg",
+    "images/sweet-roll-q7655635/sweet-roll-q7655635-3.jpg",
+    "images/sweet-roll-q7655635/sweet-roll-q7655635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7655635",
+    "themealdb": null
+  }
+}

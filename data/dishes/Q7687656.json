@@ -1,0 +1,18 @@
+{
+  "id": "Q7687656",
+  "name": "Tasso ham",
+  "description": "smoked, spiced, and cured meat made from hog's shoulder",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tasso-ham-q7687656/tasso-ham-q7687656-1.jpg",
+    "images/tasso-ham-q7687656/tasso-ham-q7687656-2.jpg",
+    "images/tasso-ham-q7687656/tasso-ham-q7687656-3.jpg",
+    "images/tasso-ham-q7687656/tasso-ham-q7687656-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7687656",
+    "themealdb": null
+  }
+}

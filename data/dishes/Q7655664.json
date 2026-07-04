@@ -1,0 +1,19 @@
+{
+  "id": "Q7655664",
+  "name": "sweetened potato casserole",
+  "description": "Finnish dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sweetened-potato-casserole-q7655664/sweetened-potato-casserole-q7655664-1.jpg",
+    "images/sweetened-potato-casserole-q7655664/sweetened-potato-casserole-q7655664-2.jpg",
+    "images/sweetened-potato-casserole-q7655664/sweetened-potato-casserole-q7655664-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7655664",
+    "themealdb": null
+  }
+}

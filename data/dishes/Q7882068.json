@@ -1,0 +1,20 @@
+{
+  "id": "Q7882068",
+  "name": "quiche Lorraine",
+  "description": "savory open pastry tart with a filling of egg, cream and bacon",
+  "nationality": [
+    "Duchy of Lorraine"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/quiche-lorraine-q7882068/quiche-lorraine-q7882068-1.jpg",
+    "images/quiche-lorraine-q7882068/quiche-lorraine-q7882068-2.jpg",
+    "images/quiche-lorraine-q7882068/quiche-lorraine-q7882068-3.jpg",
+    "images/quiche-lorraine-q7882068/quiche-lorraine-q7882068-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7882068",
+    "themealdb": null
+  }
+}

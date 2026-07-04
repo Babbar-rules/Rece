@@ -1,0 +1,20 @@
+{
+  "id": "Q7862790",
+  "name": "tương",
+  "description": "condiment made from soybeans",
+  "nationality": [],
+  "region_cuisine": [
+    "Vietnamese cuisine"
+  ],
+  "images": [
+    "images/tuong-q7862790/tuong-q7862790-1.jpg",
+    "images/tuong-q7862790/tuong-q7862790-2.jpg",
+    "images/tuong-q7862790/tuong-q7862790-3.jpg",
+    "images/tuong-q7862790/tuong-q7862790-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7862790",
+    "themealdb": null
+  }
+}

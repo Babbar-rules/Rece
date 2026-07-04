@@ -1,0 +1,22 @@
+{
+  "id": "Q769635",
+  "name": "Biscotti",
+  "description": "twice-baked cookies or biscuits originating in the Italian city of Prato",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian cuisine"
+  ],
+  "images": [
+    "images/biscotti-q769635/biscotti-q769635-1.jpg",
+    "images/biscotti-q769635/biscotti-q769635-2.jpg",
+    "images/biscotti-q769635/biscotti-q769635-3.jpg",
+    "images/biscotti-q769635/biscotti-q769635-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q769635",
+    "themealdb": null
+  }
+}

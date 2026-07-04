@@ -1,0 +1,20 @@
+{
+  "id": "Q7684416",
+  "name": "Tapalapa",
+  "description": "traditional African bread",
+  "nationality": [
+    "Senegal"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tapalapa-q7684416/tapalapa-q7684416-1.jpg",
+    "images/tapalapa-q7684416/tapalapa-q7684416-2.jpg",
+    "images/tapalapa-q7684416/tapalapa-q7684416-3.jpg",
+    "images/tapalapa-q7684416/tapalapa-q7684416-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7684416",
+    "themealdb": null
+  }
+}

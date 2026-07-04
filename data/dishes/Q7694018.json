@@ -1,0 +1,18 @@
+{
+  "id": "Q7694018",
+  "name": "Teddy Grahams",
+  "description": "brand of bear-shaped graham cracker snacks",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/teddy-grahams-q7694018/teddy-grahams-q7694018-1.jpg",
+    "images/teddy-grahams-q7694018/teddy-grahams-q7694018-2.jpg",
+    "images/teddy-grahams-q7694018/teddy-grahams-q7694018-3.jpg",
+    "images/teddy-grahams-q7694018/teddy-grahams-q7694018-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7694018",
+    "themealdb": null
+  }
+}

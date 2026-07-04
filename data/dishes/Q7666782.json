@@ -1,0 +1,20 @@
+{
+  "id": "Q7666782",
+  "name": "Sütlü Nuriye",
+  "description": "Turkish dessert",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sutlu-nuriye-q7666782/sutlu-nuriye-q7666782-1.jpg",
+    "images/sutlu-nuriye-q7666782/sutlu-nuriye-q7666782-2.jpg",
+    "images/sutlu-nuriye-q7666782/sutlu-nuriye-q7666782-3.jpg",
+    "images/sutlu-nuriye-q7666782/sutlu-nuriye-q7666782-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7666782",
+    "themealdb": null
+  }
+}

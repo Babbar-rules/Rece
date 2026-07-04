@@ -1,0 +1,20 @@
+{
+  "id": "Q7680375",
+  "name": "Talunan",
+  "description": "Filipino food",
+  "nationality": [
+    "Philippines"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/talunan-q7680375/talunan-q7680375-1.jpg",
+    "images/talunan-q7680375/talunan-q7680375-2.jpg",
+    "images/talunan-q7680375/talunan-q7680375-3.jpg",
+    "images/talunan-q7680375/talunan-q7680375-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7680375",
+    "themealdb": null
+  }
+}

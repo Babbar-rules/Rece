@@ -1,0 +1,20 @@
+{
+  "id": "Q7709199",
+  "name": "Thai suki",
+  "description": "Thai hot pot",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thai-suki-q7709199/thai-suki-q7709199-1.jpg",
+    "images/thai-suki-q7709199/thai-suki-q7709199-2.jpg",
+    "images/thai-suki-q7709199/thai-suki-q7709199-3.jpg",
+    "images/thai-suki-q7709199/thai-suki-q7709199-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7709199",
+    "themealdb": null
+  }
+}

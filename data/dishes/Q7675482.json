@@ -1,0 +1,20 @@
+{
+  "id": "Q7675482",
+  "name": "tahinli pide",
+  "description": "pide sort (sweet)",
+  "nationality": [
+    "Turkey"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tahinli-pide-q7675482/tahinli-pide-q7675482-1.jpg",
+    "images/tahinli-pide-q7675482/tahinli-pide-q7675482-2.jpg",
+    "images/tahinli-pide-q7675482/tahinli-pide-q7675482-3.jpg",
+    "images/tahinli-pide-q7675482/tahinli-pide-q7675482-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7675482",
+    "themealdb": null
+  }
+}

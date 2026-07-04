@@ -1,0 +1,18 @@
+{
+  "id": "Q7808983",
+  "name": "tipsy cake",
+  "description": "cake soaked in alcohol",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tipsy-cake-q7808983/tipsy-cake-q7808983-1.jpg",
+    "images/tipsy-cake-q7808983/tipsy-cake-q7808983-2.jpg",
+    "images/tipsy-cake-q7808983/tipsy-cake-q7808983-3.jpg",
+    "images/tipsy-cake-q7808983/tipsy-cake-q7808983-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7808983",
+    "themealdb": null
+  }
+}

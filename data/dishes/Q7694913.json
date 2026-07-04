@@ -1,0 +1,20 @@
+{
+  "id": "Q7694913",
+  "name": "Tehri",
+  "description": "Food",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tehri-q7694913/tehri-q7694913-1.jpg",
+    "images/tehri-q7694913/tehri-q7694913-2.jpg",
+    "images/tehri-q7694913/tehri-q7694913-3.jpg",
+    "images/tehri-q7694913/tehri-q7694913-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7694913",
+    "themealdb": null
+  }
+}

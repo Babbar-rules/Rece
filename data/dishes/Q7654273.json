@@ -1,0 +1,22 @@
+{
+  "id": "Q7654273",
+  "name": "Swede casserole",
+  "description": "Finnish Christmas casserole dish",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [
+    "Finnish cuisine"
+  ],
+  "images": [
+    "images/swede-casserole-q7654273/swede-casserole-q7654273-1.jpg",
+    "images/swede-casserole-q7654273/swede-casserole-q7654273-2.jpg",
+    "images/swede-casserole-q7654273/swede-casserole-q7654273-3.jpg",
+    "images/swede-casserole-q7654273/swede-casserole-q7654273-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7654273",
+    "themealdb": null
+  }
+}

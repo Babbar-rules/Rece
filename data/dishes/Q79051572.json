@@ -1,0 +1,18 @@
+{
+  "id": "Q79051572",
+  "name": "Gocciole",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/gocciole-q79051572/gocciole-q79051572-1.jpg",
+    "images/gocciole-q79051572/gocciole-q79051572-2.jpg",
+    "images/gocciole-q79051572/gocciole-q79051572-3.jpg",
+    "images/gocciole-q79051572/gocciole-q79051572-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q79051572",
+    "themealdb": null
+  }
+}

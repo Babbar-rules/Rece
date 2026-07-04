@@ -1,0 +1,21 @@
+{
+  "id": "Q770977",
+  "name": "Caldo verde",
+  "description": "Portuguese soup",
+  "nationality": [
+    "Portugal",
+    "People's Republic of China"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/caldo-verde-q770977/caldo-verde-q770977-1.jpg",
+    "images/caldo-verde-q770977/caldo-verde-q770977-2.jpg",
+    "images/caldo-verde-q770977/caldo-verde-q770977-3.jpg",
+    "images/caldo-verde-q770977/caldo-verde-q770977-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q770977",
+    "themealdb": null
+  }
+}

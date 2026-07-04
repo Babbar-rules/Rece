@@ -1,0 +1,18 @@
+{
+  "id": "Q766777",
+  "name": "relish",
+  "description": "cooked, pickled, or chopped vegetable or fruit food item typically used as a condiment",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/relish-q766777/relish-q766777-1.jpg",
+    "images/relish-q766777/relish-q766777-2.jpg",
+    "images/relish-q766777/relish-q766777-3.jpg",
+    "images/relish-q766777/relish-q766777-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q766777",
+    "themealdb": null
+  }
+}

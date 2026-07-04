@@ -1,0 +1,18 @@
+{
+  "id": "Q7800152",
+  "name": "Tian mo",
+  "description": "A Traditional Breakfast Soup",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tian-mo-q7800152/tian-mo-q7800152-1.jpg",
+    "images/tian-mo-q7800152/tian-mo-q7800152-2.jpg",
+    "images/tian-mo-q7800152/tian-mo-q7800152-3.jpg",
+    "images/tian-mo-q7800152/tian-mo-q7800152-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7800152",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q7858075",
+  "name": "Twin Bing",
+  "description": "cherry, peanut, and chocolate candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/twin-bing-q7858075/twin-bing-q7858075-1.jpg",
+    "images/twin-bing-q7858075/twin-bing-q7858075-2.jpg",
+    "images/twin-bing-q7858075/twin-bing-q7858075-3.jpg",
+    "images/twin-bing-q7858075/twin-bing-q7858075-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7858075",
+    "themealdb": null
+  }
+}

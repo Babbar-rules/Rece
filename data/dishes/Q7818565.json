@@ -1,0 +1,23 @@
+{
+  "id": "Q7818565",
+  "name": "Italian tomato pie",
+  "description": "Italian-American baked good",
+  "nationality": [
+    "United States",
+    "Italy"
+  ],
+  "region_cuisine": [
+    "Italian-American cuisine"
+  ],
+  "images": [
+    "images/italian-tomato-pie-q7818565/italian-tomato-pie-q7818565-1.jpg",
+    "images/italian-tomato-pie-q7818565/italian-tomato-pie-q7818565-2.jpg",
+    "images/italian-tomato-pie-q7818565/italian-tomato-pie-q7818565-3.jpg",
+    "images/italian-tomato-pie-q7818565/italian-tomato-pie-q7818565-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7818565",
+    "themealdb": null
+  }
+}

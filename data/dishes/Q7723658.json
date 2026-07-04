@@ -1,0 +1,24 @@
+{
+  "id": "Q7723658",
+  "name": "glogg",
+  "description": "mulled wine traditionally from the Nordic countries",
+  "nationality": [],
+  "region_cuisine": [
+    "Danish cuisine",
+    "Norwegian cuisine",
+    "Estonian cuisine",
+    "Finnish cuisine",
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/glogg-q7723658/glogg-q7723658-1.jpg",
+    "images/glogg-q7723658/glogg-q7723658-2.jpg",
+    "images/glogg-q7723658/glogg-q7723658-3.jpg",
+    "images/glogg-q7723658/glogg-q7723658-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7723658",
+    "themealdb": null
+  }
+}

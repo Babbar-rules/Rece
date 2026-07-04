@@ -1,0 +1,20 @@
+{
+  "id": "Q7878708",
+  "name": "Ulam",
+  "description": "Traditional Malaysia salad originating from Malay Penisula",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ulam-q7878708/ulam-q7878708-1.jpg",
+    "images/ulam-q7878708/ulam-q7878708-2.jpg",
+    "images/ulam-q7878708/ulam-q7878708-3.png",
+    "images/ulam-q7878708/ulam-q7878708-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7878708",
+    "themealdb": null
+  }
+}

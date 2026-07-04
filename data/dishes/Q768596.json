@@ -1,0 +1,20 @@
+{
+  "id": "Q768596",
+  "name": "michetta",
+  "description": "Italian white bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/michetta-q768596/michetta-q768596-1.jpg",
+    "images/michetta-q768596/michetta-q768596-2.jpg",
+    "images/michetta-q768596/michetta-q768596-3.jpg",
+    "images/michetta-q768596/michetta-q768596-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q768596",
+    "themealdb": null
+  }
+}

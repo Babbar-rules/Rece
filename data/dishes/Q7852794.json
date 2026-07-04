@@ -1,0 +1,20 @@
+{
+  "id": "Q7852794",
+  "name": "Tuna casserole",
+  "description": "American casserole dish",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tuna-casserole-q7852794/tuna-casserole-q7852794-1.jpg",
+    "images/tuna-casserole-q7852794/tuna-casserole-q7852794-2.jpg",
+    "images/tuna-casserole-q7852794/tuna-casserole-q7852794-3.jpg",
+    "images/tuna-casserole-q7852794/tuna-casserole-q7852794-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7852794",
+    "themealdb": null
+  }
+}

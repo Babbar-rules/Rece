@@ -1,0 +1,22 @@
+{
+  "id": "Q7650627",
+  "name": "suya",
+  "description": "snack of skewered meat popular in Nigeria and Cameroon originating from the Hausa people",
+  "nationality": [
+    "Nigeria"
+  ],
+  "region_cuisine": [
+    "Nigerian cuisine"
+  ],
+  "images": [
+    "images/suya-q7650627/suya-q7650627-1.jpg",
+    "images/suya-q7650627/suya-q7650627-2.jpg",
+    "images/suya-q7650627/suya-q7650627-3.jpg",
+    "images/suya-q7650627/suya-q7650627-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7650627",
+    "themealdb": null
+  }
+}

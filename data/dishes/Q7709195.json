@@ -1,0 +1,20 @@
+{
+  "id": "Q7709195",
+  "name": "Thai salads",
+  "description": "Thai cuisine",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thai-salads-q7709195/thai-salads-q7709195-1.jpg",
+    "images/thai-salads-q7709195/thai-salads-q7709195-2.jpg",
+    "images/thai-salads-q7709195/thai-salads-q7709195-3.jpg",
+    "images/thai-salads-q7709195/thai-salads-q7709195-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7709195",
+    "themealdb": null
+  }
+}

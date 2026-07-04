@@ -1,0 +1,20 @@
+{
+  "id": "Q7818540",
+  "name": "tomate frito",
+  "description": "basic preparation of Spanish cuisine",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomate-frito-q7818540/tomate-frito-q7818540-1.jpg",
+    "images/tomate-frito-q7818540/tomate-frito-q7818540-2.jpg",
+    "images/tomate-frito-q7818540/tomate-frito-q7818540-3.jpg",
+    "images/tomate-frito-q7818540/tomate-frito-q7818540-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7818540",
+    "themealdb": null
+  }
+}

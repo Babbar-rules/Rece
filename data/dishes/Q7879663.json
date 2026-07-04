@@ -1,0 +1,18 @@
+{
+  "id": "Q7879663",
+  "name": "ginger snap",
+  "description": "biscuit with ginger flavor",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ginger-snap-q7879663/ginger-snap-q7879663-1.jpg",
+    "images/ginger-snap-q7879663/ginger-snap-q7879663-2.jpg",
+    "images/ginger-snap-q7879663/ginger-snap-q7879663-3.jpg",
+    "images/ginger-snap-q7879663/ginger-snap-q7879663-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7879663",
+    "themealdb": null
+  }
+}

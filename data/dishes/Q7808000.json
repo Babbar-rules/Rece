@@ -1,0 +1,18 @@
+{
+  "id": "Q7808000",
+  "name": "Tinapa",
+  "description": "Filipino smoked fish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tinapa-q7808000/tinapa-q7808000-1.jpg",
+    "images/tinapa-q7808000/tinapa-q7808000-2.jpg",
+    "images/tinapa-q7808000/tinapa-q7808000-3.jpg",
+    "images/tinapa-q7808000/tinapa-q7808000-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7808000",
+    "themealdb": null
+  }
+}

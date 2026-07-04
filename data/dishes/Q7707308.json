@@ -1,0 +1,18 @@
+{
+  "id": "Q7707308",
+  "name": "Texan",
+  "description": "chocolate bar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/texan-q7707308/texan-q7707308-1.jpg",
+    "images/texan-q7707308/texan-q7707308-2.jpg",
+    "images/texan-q7707308/texan-q7707308-3.jpg",
+    "images/texan-q7707308/texan-q7707308-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7707308",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q7818558",
+  "name": "Tomato bredie",
+  "description": "South African stew",
+  "nationality": [
+    "South Africa"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tomato-bredie-q7818558/tomato-bredie-q7818558-1.jpg",
+    "images/tomato-bredie-q7818558/tomato-bredie-q7818558-2.jpg",
+    "images/tomato-bredie-q7818558/tomato-bredie-q7818558-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7818558",
+    "themealdb": null
+  }
+}

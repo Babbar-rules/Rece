@@ -1,0 +1,20 @@
+{
+  "id": "Q7843969",
+  "name": "Triscuit",
+  "description": "Brand of snack crackers",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/triscuit-q7843969/triscuit-q7843969-1.jpg",
+    "images/triscuit-q7843969/triscuit-q7843969-2.png",
+    "images/triscuit-q7843969/triscuit-q7843969-3.jpg",
+    "images/triscuit-q7843969/triscuit-q7843969-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7843969",
+    "themealdb": null
+  }
+}

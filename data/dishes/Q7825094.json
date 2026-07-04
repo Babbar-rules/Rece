@@ -1,0 +1,16 @@
+{
+  "id": "Q7825094",
+  "name": "Topote",
+  "description": "local dish of Veracruz, Mexico",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/topote-q7825094/topote-q7825094-1.jpg",
+    "images/topote-q7825094/topote-q7825094-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7825094",
+    "themealdb": null
+  }
+}

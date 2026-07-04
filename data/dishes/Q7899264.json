@@ -1,0 +1,18 @@
+{
+  "id": "Q7899264",
+  "name": "upside-down cake",
+  "description": "type of cake",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/upside-down-cake-q7899264/upside-down-cake-q7899264-1.jpg",
+    "images/upside-down-cake-q7899264/upside-down-cake-q7899264-2.jpg",
+    "images/upside-down-cake-q7899264/upside-down-cake-q7899264-3.jpg",
+    "images/upside-down-cake-q7899264/upside-down-cake-q7899264-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7899264",
+    "themealdb": null
+  }
+}

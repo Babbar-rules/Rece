@@ -1,0 +1,22 @@
+{
+  "id": "Q776904",
+  "name": "submarine sandwich",
+  "description": "sandwich originating from the U.S.; consists of a length of bread or roll split lengthwise and filled with a variety of meats, cheeses, vegetables, and condiments; named after its appearance similar to a submarine",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [
+    "cuisine of the United States"
+  ],
+  "images": [
+    "images/submarine-sandwich-q776904/submarine-sandwich-q776904-1.jpg",
+    "images/submarine-sandwich-q776904/submarine-sandwich-q776904-2.jpg",
+    "images/submarine-sandwich-q776904/submarine-sandwich-q776904-3.jpg",
+    "images/submarine-sandwich-q776904/submarine-sandwich-q776904-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q776904",
+    "themealdb": null
+  }
+}

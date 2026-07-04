@@ -1,0 +1,17 @@
+{
+  "id": "Q7808813",
+  "name": "Tipatipa",
+  "description": "Batak food item",
+  "nationality": [
+    "Indonesia"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7808813",
+    "themealdb": null
+  }
+}

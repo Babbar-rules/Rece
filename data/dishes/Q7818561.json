@@ -1,0 +1,18 @@
+{
+  "id": "Q7818561",
+  "name": "tomato compote",
+  "description": "side dish made from cooked tomatoes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tomato-compote-q7818561/tomato-compote-q7818561-1.jpg",
+    "images/tomato-compote-q7818561/tomato-compote-q7818561-2.jpg",
+    "images/tomato-compote-q7818561/tomato-compote-q7818561-3.jpg",
+    "images/tomato-compote-q7818561/tomato-compote-q7818561-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7818561",
+    "themealdb": null
+  }
+}

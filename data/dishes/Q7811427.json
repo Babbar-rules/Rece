@@ -1,0 +1,18 @@
+{
+  "id": "Q7811427",
+  "name": "toaster pastry",
+  "description": "Type of pastry, typically but optionally toasted and normally store-bought",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/toaster-pastry-q7811427/toaster-pastry-q7811427-1.jpg",
+    "images/toaster-pastry-q7811427/toaster-pastry-q7811427-2.jpg",
+    "images/toaster-pastry-q7811427/toaster-pastry-q7811427-3.jpg",
+    "images/toaster-pastry-q7811427/toaster-pastry-q7811427-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7811427",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "Q7827307",
+  "name": "Tortita negra",
+  "description": "Argentinian pastry",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tortita-negra-q7827307/tortita-negra-q7827307-1.jpg",
+    "images/tortita-negra-q7827307/tortita-negra-q7827307-2.jpg",
+    "images/tortita-negra-q7827307/tortita-negra-q7827307-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7827307",
+    "themealdb": null
+  }
+}

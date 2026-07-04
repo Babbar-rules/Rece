@@ -1,0 +1,18 @@
+{
+  "id": "Q7804593",
+  "name": "Timbale",
+  "description": "type of cooking pan, and the foods cooked with it",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/timbale-q7804593/timbale-q7804593-1.jpg",
+    "images/timbale-q7804593/timbale-q7804593-2.jpg",
+    "images/timbale-q7804593/timbale-q7804593-3.jpg",
+    "images/timbale-q7804593/timbale-q7804593-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7804593",
+    "themealdb": null
+  }
+}

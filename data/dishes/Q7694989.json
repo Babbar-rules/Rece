@@ -1,0 +1,20 @@
+{
+  "id": "Q7694989",
+  "name": "Teiglach",
+  "description": "small, knotted pastries boiled in a honeyed syrup",
+  "nationality": [],
+  "region_cuisine": [
+    "Jewish cuisine"
+  ],
+  "images": [
+    "images/teiglach-q7694989/teiglach-q7694989-1.jpg",
+    "images/teiglach-q7694989/teiglach-q7694989-2.jpg",
+    "images/teiglach-q7694989/teiglach-q7694989-3.jpg",
+    "images/teiglach-q7694989/teiglach-q7694989-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7694989",
+    "themealdb": null
+  }
+}

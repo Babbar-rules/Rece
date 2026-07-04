@@ -1,0 +1,20 @@
+{
+  "id": "Q7784272",
+  "name": "Thin Mints",
+  "description": "Girl Scout cookie flavor",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thin-mints-q7784272/thin-mints-q7784272-1.jpg",
+    "images/thin-mints-q7784272/thin-mints-q7784272-2.jpg",
+    "images/thin-mints-q7784272/thin-mints-q7784272-3.jpg",
+    "images/thin-mints-q7784272/thin-mints-q7784272-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7784272",
+    "themealdb": null
+  }
+}

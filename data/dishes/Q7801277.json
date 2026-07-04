@@ -1,0 +1,20 @@
+{
+  "id": "Q7801277",
+  "name": "tiffin",
+  "description": "cake-like confection",
+  "nationality": [
+    "Scotland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tiffin-q7801277/tiffin-q7801277-1.jpg",
+    "images/tiffin-q7801277/tiffin-q7801277-2.png",
+    "images/tiffin-q7801277/tiffin-q7801277-3.jpg",
+    "images/tiffin-q7801277/tiffin-q7801277-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7801277",
+    "themealdb": null
+  }
+}

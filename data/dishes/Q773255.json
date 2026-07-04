@@ -1,0 +1,18 @@
+{
+  "id": "Q773255",
+  "name": "ngapi",
+  "description": "fish paste from Myanmar",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/ngapi-q773255/ngapi-q773255-1.jpg",
+    "images/ngapi-q773255/ngapi-q773255-2.jpg",
+    "images/ngapi-q773255/ngapi-q773255-3.jpg",
+    "images/ngapi-q773255/ngapi-q773255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q773255",
+    "themealdb": null
+  }
+}

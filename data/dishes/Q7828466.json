@@ -1,0 +1,20 @@
+{
+  "id": "Q7828466",
+  "name": "Tottenham cake",
+  "description": "sponge cake baked in large metal trays, covered either in pink icing or jam",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tottenham-cake-q7828466/tottenham-cake-q7828466-1.jpg",
+    "images/tottenham-cake-q7828466/tottenham-cake-q7828466-2.jpg",
+    "images/tottenham-cake-q7828466/tottenham-cake-q7828466-3.jpg",
+    "images/tottenham-cake-q7828466/tottenham-cake-q7828466-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7828466",
+    "themealdb": null
+  }
+}

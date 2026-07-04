@@ -1,0 +1,20 @@
+{
+  "id": "Q7689067",
+  "name": "tavern sandwich",
+  "description": "sandwich",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/tavern-sandwich-q7689067/tavern-sandwich-q7689067-1.jpg",
+    "images/tavern-sandwich-q7689067/tavern-sandwich-q7689067-2.jpg",
+    "images/tavern-sandwich-q7689067/tavern-sandwich-q7689067-3.jpg",
+    "images/tavern-sandwich-q7689067/tavern-sandwich-q7689067-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7689067",
+    "themealdb": null
+  }
+}

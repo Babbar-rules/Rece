@@ -1,0 +1,18 @@
+{
+  "id": "Q7801531",
+  "name": "Tiger meat",
+  "description": "raw beef dish, made fromraw beef, raw egg, onion, salt, pepper, and other seasonings",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/tiger-meat-q7801531/tiger-meat-q7801531-1.jpg",
+    "images/tiger-meat-q7801531/tiger-meat-q7801531-2.jpg",
+    "images/tiger-meat-q7801531/tiger-meat-q7801531-3.jpg",
+    "images/tiger-meat-q7801531/tiger-meat-q7801531-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q7801531",
+    "themealdb": null
+  }
+}
