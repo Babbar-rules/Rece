@@ -1,0 +1,19 @@
+{
+  "id": "Q875363",
+  "name": "Wibele",
+  "description": "German sweet biscuit",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/wibele-q875363/wibele-q875363-1.jpg",
+    "images/wibele-q875363/wibele-q875363-2.jpg",
+    "images/wibele-q875363/wibele-q875363-3.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q875363",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q8961756",
+  "name": "flaki",
+  "description": "traditional Polish meat stew",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/flaki-q8961756/flaki-q8961756-1.jpg",
+    "images/flaki-q8961756/flaki-q8961756-2.jpg",
+    "images/flaki-q8961756/flaki-q8961756-3.jpg",
+    "images/flaki-q8961756/flaki-q8961756-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8961756",
+    "themealdb": null
+  }
+}

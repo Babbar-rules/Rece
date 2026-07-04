@@ -1,0 +1,20 @@
+{
+  "id": "Q895789",
+  "name": "Butterkuchen",
+  "description": "German butter cake",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/butterkuchen-q895789/butterkuchen-q895789-1.jpg",
+    "images/butterkuchen-q895789/butterkuchen-q895789-2.jpg",
+    "images/butterkuchen-q895789/butterkuchen-q895789-3.jpg",
+    "images/butterkuchen-q895789/butterkuchen-q895789-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q895789",
+    "themealdb": null
+  }
+}

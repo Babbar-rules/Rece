@@ -1,0 +1,20 @@
+{
+  "id": "Q873699",
+  "name": "gangjeong",
+  "description": "Korean confection",
+  "nationality": [
+    "Korea"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gangjeong-q873699/gangjeong-q873699-1.jpg",
+    "images/gangjeong-q873699/gangjeong-q873699-2.jpg",
+    "images/gangjeong-q873699/gangjeong-q873699-3.jpg",
+    "images/gangjeong-q873699/gangjeong-q873699-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q873699",
+    "themealdb": null
+  }
+}

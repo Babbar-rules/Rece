@@ -1,0 +1,20 @@
+{
+  "id": "Q893306",
+  "name": "Boraki",
+  "description": "Armenian cuisine",
+  "nationality": [
+    "Armenia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boraki-q893306/boraki-q893306-1.jpg",
+    "images/boraki-q893306/boraki-q893306-2.jpg",
+    "images/boraki-q893306/boraki-q893306-3.jpg",
+    "images/boraki-q893306/boraki-q893306-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q893306",
+    "themealdb": null
+  }
+}

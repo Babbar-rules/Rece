@@ -1,0 +1,18 @@
+{
+  "id": "Q8729741",
+  "name": "chocolate-covered banana",
+  "description": "Japanese candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/chocolate-covered-banana-q8729741/chocolate-covered-banana-q8729741-1.jpg",
+    "images/chocolate-covered-banana-q8729741/chocolate-covered-banana-q8729741-2.jpg",
+    "images/chocolate-covered-banana-q8729741/chocolate-covered-banana-q8729741-3.jpg",
+    "images/chocolate-covered-banana-q8729741/chocolate-covered-banana-q8729741-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8729741",
+    "themealdb": null
+  }
+}

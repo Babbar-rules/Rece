@@ -1,0 +1,18 @@
+{
+  "id": "Q88006009",
+  "name": "Motichur Laddu",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/motichur-laddu-q88006009/motichur-laddu-q88006009-1.jpg",
+    "images/motichur-laddu-q88006009/motichur-laddu-q88006009-2.jpg",
+    "images/motichur-laddu-q88006009/motichur-laddu-q88006009-3.jpg",
+    "images/motichur-laddu-q88006009/motichur-laddu-q88006009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q88006009",
+    "themealdb": null
+  }
+}

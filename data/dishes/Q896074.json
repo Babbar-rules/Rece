@@ -1,0 +1,18 @@
+{
+  "id": "Q896074",
+  "name": "Frankfurter Rippchen",
+  "description": "traditional hessian dish, Germany",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/frankfurter-rippchen-q896074/frankfurter-rippchen-q896074-1.jpg",
+    "images/frankfurter-rippchen-q896074/frankfurter-rippchen-q896074-2.jpg",
+    "images/frankfurter-rippchen-q896074/frankfurter-rippchen-q896074-3.jpg",
+    "images/frankfurter-rippchen-q896074/frankfurter-rippchen-q896074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q896074",
+    "themealdb": null
+  }
+}

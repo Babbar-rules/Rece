@@ -1,0 +1,20 @@
+{
+  "id": "Q869080",
+  "name": "pork shogayaki",
+  "description": "Japanese dish of pork in a ginger soy sauce",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/pork-shogayaki-q869080/pork-shogayaki-q869080-1.jpg",
+    "images/pork-shogayaki-q869080/pork-shogayaki-q869080-2.jpg",
+    "images/pork-shogayaki-q869080/pork-shogayaki-q869080-3.jpg",
+    "images/pork-shogayaki-q869080/pork-shogayaki-q869080-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869080",
+    "themealdb": null
+  }
+}

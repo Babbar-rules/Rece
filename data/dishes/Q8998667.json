@@ -1,0 +1,18 @@
+{
+  "id": "Q8998667",
+  "name": "Kintarō-ame",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/kintaro-ame-q8998667/kintaro-ame-q8998667-1.jpg",
+    "images/kintaro-ame-q8998667/kintaro-ame-q8998667-2.jpg",
+    "images/kintaro-ame-q8998667/kintaro-ame-q8998667-3.jpg",
+    "images/kintaro-ame-q8998667/kintaro-ame-q8998667-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8998667",
+    "themealdb": null
+  }
+}

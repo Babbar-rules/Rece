@@ -1,0 +1,18 @@
+{
+  "id": "Q897096",
+  "name": "Saure Kutteln",
+  "description": "swabian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/saure-kutteln-q897096/saure-kutteln-q897096-1.jpg",
+    "images/saure-kutteln-q897096/saure-kutteln-q897096-2.jpg",
+    "images/saure-kutteln-q897096/saure-kutteln-q897096-3.jpg",
+    "images/saure-kutteln-q897096/saure-kutteln-q897096-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q897096",
+    "themealdb": null
+  }
+}

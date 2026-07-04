@@ -1,0 +1,21 @@
+{
+  "id": "Q877072",
+  "name": "Demae Itcho",
+  "description": "instant noodle",
+  "nationality": [
+    "Japan",
+    "Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/demae-itcho-q877072/demae-itcho-q877072-1.jpg",
+    "images/demae-itcho-q877072/demae-itcho-q877072-2.jpg",
+    "images/demae-itcho-q877072/demae-itcho-q877072-3.jpg",
+    "images/demae-itcho-q877072/demae-itcho-q877072-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q877072",
+    "themealdb": null
+  }
+}

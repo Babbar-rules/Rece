@@ -1,0 +1,16 @@
+{
+  "id": "Q8963686",
+  "name": "Jellied veal",
+  "description": "Swedish cold cut dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/jellied-veal-q8963686/jellied-veal-q8963686-1.jpg",
+    "images/jellied-veal-q8963686/jellied-veal-q8963686-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8963686",
+    "themealdb": null
+  }
+}

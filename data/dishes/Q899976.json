@@ -1,0 +1,20 @@
+{
+  "id": "Q899976",
+  "name": "czernina",
+  "description": "Polish soup made of duck blood and clear poultry broth",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/czernina-q899976/czernina-q899976-1.jpg",
+    "images/czernina-q899976/czernina-q899976-2.jpg",
+    "images/czernina-q899976/czernina-q899976-3.jpg",
+    "images/czernina-q899976/czernina-q899976-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q899976",
+    "themealdb": null
+  }
+}

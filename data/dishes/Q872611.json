@@ -1,0 +1,18 @@
+{
+  "id": "Q872611",
+  "name": "Mohr im Hemd",
+  "description": "Austrian dessert",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mohr-im-hemd-q872611/mohr-im-hemd-q872611-1.jpg",
+    "images/mohr-im-hemd-q872611/mohr-im-hemd-q872611-2.jpg",
+    "images/mohr-im-hemd-q872611/mohr-im-hemd-q872611-3.jpg",
+    "images/mohr-im-hemd-q872611/mohr-im-hemd-q872611-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q872611",
+    "themealdb": null
+  }
+}

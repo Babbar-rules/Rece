@@ -1,0 +1,20 @@
+{
+  "id": "Q869167",
+  "name": "Miyagegashi",
+  "description": "Japanese souvenir sweet",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/miyagegashi-q869167/miyagegashi-q869167-1.jpg",
+    "images/miyagegashi-q869167/miyagegashi-q869167-2.jpg",
+    "images/miyagegashi-q869167/miyagegashi-q869167-3.jpg",
+    "images/miyagegashi-q869167/miyagegashi-q869167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869167",
+    "themealdb": null
+  }
+}

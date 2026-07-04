@@ -1,0 +1,18 @@
+{
+  "id": "Q874397",
+  "name": "inarizushi",
+  "description": "Tofu pocket filled with rice",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/inarizushi-q874397/inarizushi-q874397-1.jpg",
+    "images/inarizushi-q874397/inarizushi-q874397-2.jpg",
+    "images/inarizushi-q874397/inarizushi-q874397-3.jpg",
+    "images/inarizushi-q874397/inarizushi-q874397-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q874397",
+    "themealdb": null
+  }
+}

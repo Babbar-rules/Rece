@@ -1,0 +1,20 @@
+{
+  "id": "Q869366",
+  "name": "rotelle",
+  "description": "type of pasta",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rotelle-q869366/rotelle-q869366-1.jpg",
+    "images/rotelle-q869366/rotelle-q869366-2.jpg",
+    "images/rotelle-q869366/rotelle-q869366-3.jpg",
+    "images/rotelle-q869366/rotelle-q869366-4.jpeg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869366",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q894562",
+  "name": "Boston cream pie",
+  "description": "cake made with custard and chocolate",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/boston-cream-pie-q894562/boston-cream-pie-q894562-1.jpg",
+    "images/boston-cream-pie-q894562/boston-cream-pie-q894562-2.jpg",
+    "images/boston-cream-pie-q894562/boston-cream-pie-q894562-3.jpg",
+    "images/boston-cream-pie-q894562/boston-cream-pie-q894562-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q894562",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q86744144",
+  "name": "Miyazu Curry Yakisoba",
+  "description": "local food in Miyazu, Kyoto, Japan",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/miyazu-curry-yakisoba-q86744144/miyazu-curry-yakisoba-q86744144-1.jpg",
+    "images/miyazu-curry-yakisoba-q86744144/miyazu-curry-yakisoba-q86744144-2.jpg",
+    "images/miyazu-curry-yakisoba-q86744144/miyazu-curry-yakisoba-q86744144-3.jpg",
+    "images/miyazu-curry-yakisoba-q86744144/miyazu-curry-yakisoba-q86744144-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q86744144",
+    "themealdb": null
+  }
+}

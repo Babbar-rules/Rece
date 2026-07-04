@@ -1,0 +1,20 @@
+{
+  "id": "Q87987417",
+  "name": "stjerneskud",
+  "description": "seafood smørrebrød",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/stjerneskud-q87987417/stjerneskud-q87987417-1.jpg",
+    "images/stjerneskud-q87987417/stjerneskud-q87987417-2.jpg",
+    "images/stjerneskud-q87987417/stjerneskud-q87987417-3.jpg",
+    "images/stjerneskud-q87987417/stjerneskud-q87987417-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87987417",
+    "themealdb": null
+  }
+}

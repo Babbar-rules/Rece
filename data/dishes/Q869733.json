@@ -1,0 +1,20 @@
+{
+  "id": "Q869733",
+  "name": "Twix",
+  "description": "chocolate-coated cookie candy bar",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/twix-q869733/twix-q869733-1.jpg",
+    "images/twix-q869733/twix-q869733-2.jpg",
+    "images/twix-q869733/twix-q869733-3.jpg",
+    "images/twix-q869733/twix-q869733-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869733",
+    "themealdb": null
+  }
+}

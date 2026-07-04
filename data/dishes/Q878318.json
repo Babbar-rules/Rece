@@ -1,0 +1,20 @@
+{
+  "id": "Q878318",
+  "name": "Hochzeitssuppe",
+  "description": "food",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hochzeitssuppe-q878318/hochzeitssuppe-q878318-1.jpg",
+    "images/hochzeitssuppe-q878318/hochzeitssuppe-q878318-2.jpg",
+    "images/hochzeitssuppe-q878318/hochzeitssuppe-q878318-3.jpg",
+    "images/hochzeitssuppe-q878318/hochzeitssuppe-q878318-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q878318",
+    "themealdb": null
+  }
+}

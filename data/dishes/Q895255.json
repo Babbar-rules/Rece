@@ -1,0 +1,22 @@
+{
+  "id": "Q895255",
+  "name": "Bourride",
+  "description": "meal based on fish and seafood, variant of bouillabaisse",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [
+    "French cuisine"
+  ],
+  "images": [
+    "images/bourride-q895255/bourride-q895255-1.jpg",
+    "images/bourride-q895255/bourride-q895255-2.jpg",
+    "images/bourride-q895255/bourride-q895255-3.jpg",
+    "images/bourride-q895255/bourride-q895255-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q895255",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q89406934",
+  "name": "Inchicapi",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/inchicapi-q89406934/inchicapi-q89406934-1.jpg",
+    "images/inchicapi-q89406934/inchicapi-q89406934-2.jpg",
+    "images/inchicapi-q89406934/inchicapi-q89406934-3.jpg",
+    "images/inchicapi-q89406934/inchicapi-q89406934-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89406934",
+    "themealdb": null
+  }
+}

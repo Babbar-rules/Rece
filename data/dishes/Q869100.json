@@ -1,0 +1,20 @@
+{
+  "id": "Q869100",
+  "name": "kiritanpo",
+  "description": "Japanese food",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kiritanpo-q869100/kiritanpo-q869100-1.jpg",
+    "images/kiritanpo-q869100/kiritanpo-q869100-2.jpg",
+    "images/kiritanpo-q869100/kiritanpo-q869100-3.jpg",
+    "images/kiritanpo-q869100/kiritanpo-q869100-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869100",
+    "themealdb": null
+  }
+}

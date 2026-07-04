@@ -1,0 +1,18 @@
+{
+  "id": "Q89370832",
+  "name": "Qassami tawa",
+  "description": "fried dough popular in Saudi Arabia",
+  "nationality": [
+    "Saudi Arabia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/qassami-tawa-q89370832/qassami-tawa-q89370832-1.jpg",
+    "images/qassami-tawa-q89370832/qassami-tawa-q89370832-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89370832",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Q875287",
+  "name": "Knieküchle",
+  "description": "deep fried dough pastry",
+  "nationality": [
+    "Austria",
+    "Germany",
+    "Tyrol"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kniekuchle-q875287/kniekuchle-q875287-1.jpg",
+    "images/kniekuchle-q875287/kniekuchle-q875287-2.jpg",
+    "images/kniekuchle-q875287/kniekuchle-q875287-3.jpg",
+    "images/kniekuchle-q875287/kniekuchle-q875287-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q875287",
+    "themealdb": null
+  }
+}

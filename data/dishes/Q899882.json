@@ -1,0 +1,21 @@
+{
+  "id": "Q899882",
+  "name": "Bratwurst",
+  "description": "type of sausage",
+  "nationality": [
+    "Austria",
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bratwurst-q899882/bratwurst-q899882-1.jpg",
+    "images/bratwurst-q899882/bratwurst-q899882-2.jpg",
+    "images/bratwurst-q899882/bratwurst-q899882-3.jpg",
+    "images/bratwurst-q899882/bratwurst-q899882-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q899882",
+    "themealdb": null
+  }
+}

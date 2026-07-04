@@ -1,0 +1,20 @@
+{
+  "id": "Q869660",
+  "name": "scone",
+  "description": "British quick bread",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/scone-q869660/scone-q869660-1.jpg",
+    "images/scone-q869660/scone-q869660-2.jpg",
+    "images/scone-q869660/scone-q869660-3.jpg",
+    "images/scone-q869660/scone-q869660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869660",
+    "themealdb": null
+  }
+}

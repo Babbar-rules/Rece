@@ -1,0 +1,20 @@
+{
+  "id": "Q871619",
+  "name": "bear claw",
+  "description": "pastry with almond paste filling",
+  "nationality": [
+    "United States"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bear-claw-q871619/bear-claw-q871619-1.jpg",
+    "images/bear-claw-q871619/bear-claw-q871619-2.jpg",
+    "images/bear-claw-q871619/bear-claw-q871619-3.png",
+    "images/bear-claw-q871619/bear-claw-q871619-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q871619",
+    "themealdb": null
+  }
+}

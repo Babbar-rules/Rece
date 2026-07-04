@@ -1,0 +1,20 @@
+{
+  "id": "Q883031",
+  "name": "floating island",
+  "description": "French dessert consisting of a meringue floating on crème anglaise",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/floating-island-q883031/floating-island-q883031-1.jpg",
+    "images/floating-island-q883031/floating-island-q883031-2.jpg",
+    "images/floating-island-q883031/floating-island-q883031-3.jpg",
+    "images/floating-island-q883031/floating-island-q883031-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q883031",
+    "themealdb": null
+  }
+}

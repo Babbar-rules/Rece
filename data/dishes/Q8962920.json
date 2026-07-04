@@ -1,0 +1,20 @@
+{
+  "id": "Q8962920",
+  "name": "Frutas de Aragón",
+  "description": "traditional Aragonese candy",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frutas-de-aragon-q8962920/frutas-de-aragon-q8962920-1.jpg",
+    "images/frutas-de-aragon-q8962920/frutas-de-aragon-q8962920-2.jpg",
+    "images/frutas-de-aragon-q8962920/frutas-de-aragon-q8962920-3.jpg",
+    "images/frutas-de-aragon-q8962920/frutas-de-aragon-q8962920-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8962920",
+    "themealdb": null
+  }
+}

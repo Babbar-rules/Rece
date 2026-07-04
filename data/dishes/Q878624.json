@@ -1,0 +1,69 @@
+{
+  "id": "Q878624",
+  "name": "congee",
+  "description": "type of rice, millet or grain porridge or gruel popular in many Asian countries",
+  "nationality": [
+    "Asia",
+    "China"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/congee-q878624/congee-q878624-1.jpg",
+    "images/congee-q878624/congee-q878624-2.jpg",
+    "images/congee-q878624/congee-q878624-3.jpg",
+    "images/congee-q878624/congee-q878624-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52956",
+    "category": "Chicken",
+    "area": "Chinese",
+    "instructions": "STEP 1 - MARINATING THE CHICKEN\r\nIn a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\nSet the chicken aside.\r\nSTEP 2 - RINSE THE WHITE RICE\r\nRinse the rice in a metal bowl or pot a couple times and then drain the water.\r\nSTEP 2 - BOILING THE WHITE RICE\r\nNext add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\nAfter 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\nNext add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\nAfter an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\nServe the rice porridge in a bowl\r\nOptional: add Coriander on top of the rice porridge.",
+    "ingredients": [
+      {
+        "ingredient": "Chicken",
+        "measure": "8 oz"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Pepper",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Ginger Cordial",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Ginger",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Spring Onions",
+        "measure": "1 tbs"
+      },
+      {
+        "ingredient": "Rice",
+        "measure": "1/2 cup"
+      },
+      {
+        "ingredient": "Water",
+        "measure": "8 cups"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "2 oz"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=kqEfk801E94",
+    "thumb": "https://www.themealdb.com/images/media/meals/1529446352.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q878624",
+    "themealdb": "52956"
+  }
+}

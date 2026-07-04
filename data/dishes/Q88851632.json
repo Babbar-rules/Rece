@@ -1,0 +1,20 @@
+{
+  "id": "Q88851632",
+  "name": "vety and atomi",
+  "description": "",
+  "nationality": [
+    "Finland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vety-and-atomi-q88851632/vety-and-atomi-q88851632-1.jpg",
+    "images/vety-and-atomi-q88851632/vety-and-atomi-q88851632-2.jpg",
+    "images/vety-and-atomi-q88851632/vety-and-atomi-q88851632-3.jpg",
+    "images/vety-and-atomi-q88851632/vety-and-atomi-q88851632-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q88851632",
+    "themealdb": null
+  }
+}

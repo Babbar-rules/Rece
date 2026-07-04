@@ -1,0 +1,20 @@
+{
+  "id": "Q878765",
+  "name": "Schnitzel Holstein",
+  "description": "German dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schnitzel-holstein-q878765/schnitzel-holstein-q878765-1.jpg",
+    "images/schnitzel-holstein-q878765/schnitzel-holstein-q878765-2.jpg",
+    "images/schnitzel-holstein-q878765/schnitzel-holstein-q878765-3.jpg",
+    "images/schnitzel-holstein-q878765/schnitzel-holstein-q878765-4.png"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q878765",
+    "themealdb": null
+  }
+}

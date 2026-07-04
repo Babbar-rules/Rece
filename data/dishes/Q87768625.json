@@ -1,0 +1,18 @@
+{
+  "id": "Q87768625",
+  "name": "Deep-fried wonton",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/deep-fried-wonton-q87768625/deep-fried-wonton-q87768625-1.jpg",
+    "images/deep-fried-wonton-q87768625/deep-fried-wonton-q87768625-2.jpg",
+    "images/deep-fried-wonton-q87768625/deep-fried-wonton-q87768625-3.jpg",
+    "images/deep-fried-wonton-q87768625/deep-fried-wonton-q87768625-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87768625",
+    "themealdb": null
+  }
+}

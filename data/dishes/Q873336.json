@@ -1,0 +1,20 @@
+{
+  "id": "Q873336",
+  "name": "shrimp toast",
+  "description": "Chinese dim sum dish",
+  "nationality": [
+    "British Hong Kong"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/shrimp-toast-q873336/shrimp-toast-q873336-1.jpg",
+    "images/shrimp-toast-q873336/shrimp-toast-q873336-2.jpg",
+    "images/shrimp-toast-q873336/shrimp-toast-q873336-3.jpg",
+    "images/shrimp-toast-q873336/shrimp-toast-q873336-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q873336",
+    "themealdb": null
+  }
+}

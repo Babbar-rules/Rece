@@ -1,0 +1,18 @@
+{
+  "id": "Q8961074",
+  "name": "feijão tropeiro",
+  "description": "Brazilian dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/feijao-tropeiro-q8961074/feijao-tropeiro-q8961074-1.jpg",
+    "images/feijao-tropeiro-q8961074/feijao-tropeiro-q8961074-2.jpg",
+    "images/feijao-tropeiro-q8961074/feijao-tropeiro-q8961074-3.jpg",
+    "images/feijao-tropeiro-q8961074/feijao-tropeiro-q8961074-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8961074",
+    "themealdb": null
+  }
+}

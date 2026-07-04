@@ -1,0 +1,20 @@
+{
+  "id": "Q88079420",
+  "name": "Camotillo",
+  "description": "",
+  "nationality": [
+    "Peru"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/camotillo-q88079420/camotillo-q88079420-1.jpg",
+    "images/camotillo-q88079420/camotillo-q88079420-2.jpg",
+    "images/camotillo-q88079420/camotillo-q88079420-3.jpg",
+    "images/camotillo-q88079420/camotillo-q88079420-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q88079420",
+    "themealdb": null
+  }
+}

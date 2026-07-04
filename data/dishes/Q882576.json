@@ -1,0 +1,20 @@
+{
+  "id": "Q882576",
+  "name": "Brathering",
+  "description": "traditional German fish dish",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/brathering-q882576/brathering-q882576-1.jpg",
+    "images/brathering-q882576/brathering-q882576-2.jpg",
+    "images/brathering-q882576/brathering-q882576-3.jpg",
+    "images/brathering-q882576/brathering-q882576-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q882576",
+    "themealdb": null
+  }
+}

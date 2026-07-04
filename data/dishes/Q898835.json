@@ -1,0 +1,20 @@
+{
+  "id": "Q898835",
+  "name": "Dutch-process cocoa",
+  "description": "Dutch process removing cocoa butter and treating the cocoa mass with an alkalizing agent to remove bitterness",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dutch-process-cocoa-q898835/dutch-process-cocoa-q898835-1.jpg",
+    "images/dutch-process-cocoa-q898835/dutch-process-cocoa-q898835-2.jpg",
+    "images/dutch-process-cocoa-q898835/dutch-process-cocoa-q898835-3.jpg",
+    "images/dutch-process-cocoa-q898835/dutch-process-cocoa-q898835-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q898835",
+    "themealdb": null
+  }
+}

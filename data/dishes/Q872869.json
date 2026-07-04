@@ -1,0 +1,20 @@
+{
+  "id": "Q872869",
+  "name": "Toruń gingerbread",
+  "description": "Polish gingerbread",
+  "nationality": [
+    "Poland"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/torun-gingerbread-q872869/torun-gingerbread-q872869-1.jpg",
+    "images/torun-gingerbread-q872869/torun-gingerbread-q872869-2.jpg",
+    "images/torun-gingerbread-q872869/torun-gingerbread-q872869-3.jpg",
+    "images/torun-gingerbread-q872869/torun-gingerbread-q872869-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q872869",
+    "themealdb": null
+  }
+}

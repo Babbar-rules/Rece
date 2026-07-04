@@ -1,0 +1,21 @@
+{
+  "id": "Q899218",
+  "name": "Kyiv cake",
+  "description": "Ukrainian brand of dessert cake",
+  "nationality": [
+    "Ukraine",
+    "Ukrainian Soviet Socialist Republic"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kyiv-cake-q899218/kyiv-cake-q899218-1.jpg",
+    "images/kyiv-cake-q899218/kyiv-cake-q899218-2.jpg",
+    "images/kyiv-cake-q899218/kyiv-cake-q899218-3.jpg",
+    "images/kyiv-cake-q899218/kyiv-cake-q899218-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q899218",
+    "themealdb": null
+  }
+}

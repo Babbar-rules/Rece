@@ -1,0 +1,20 @@
+{
+  "id": "Q869617",
+  "name": "garganelli",
+  "description": "tube-shaped sort of macaroni",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/garganelli-q869617/garganelli-q869617-1.jpg",
+    "images/garganelli-q869617/garganelli-q869617-2.png",
+    "images/garganelli-q869617/garganelli-q869617-3.jpg",
+    "images/garganelli-q869617/garganelli-q869617-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869617",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q890193",
+  "name": "Yule log",
+  "description": "traditional dessert sponge cake, made to resemble a miniature Yule log and traditionally served near Christmas",
+  "nationality": [
+    "France"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/yule-log-q890193/yule-log-q890193-1.jpg",
+    "images/yule-log-q890193/yule-log-q890193-2.jpg",
+    "images/yule-log-q890193/yule-log-q890193-3.jpg",
+    "images/yule-log-q890193/yule-log-q890193-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q890193",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q8727818",
+  "name": "andesteg",
+  "description": "Danish roast duck",
+  "nationality": [
+    "Denmark"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/andesteg-q8727818/andesteg-q8727818-1.jpg",
+    "images/andesteg-q8727818/andesteg-q8727818-2.jpg",
+    "images/andesteg-q8727818/andesteg-q8727818-3.jpg",
+    "images/andesteg-q8727818/andesteg-q8727818-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8727818",
+    "themealdb": null
+  }
+}

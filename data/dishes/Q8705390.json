@@ -1,0 +1,73 @@
+{
+  "id": "Q8705390",
+  "name": "buñuelo",
+  "description": "fried dough ball",
+  "nationality": [
+    "al-Andalus"
+  ],
+  "region_cuisine": [
+    "Latin American cuisine",
+    "Spanish cuisine"
+  ],
+  "images": [
+    "images/bunuelo-q8705390/bunuelo-q8705390-1.jpg",
+    "images/bunuelo-q8705390/bunuelo-q8705390-2.jpg",
+    "images/bunuelo-q8705390/bunuelo-q8705390-3.jpg",
+    "images/bunuelo-q8705390/bunuelo-q8705390-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53523",
+    "category": "Side",
+    "area": null,
+    "instructions": "Place all the ingredients, except the oil in a medium bowl and mix well using your hands until soft and smooth dough is obtained.\r\nForm small balls using your hands.\r\nIn a deep pot, heat the vegetable oil to 300°F (Warm, not very hot). Carefully drop the balls in the warm oil and fry for about 3 to 4 minutes or until gilden brown.\r\nRemove from the oil and drain on a plate lined with paper towels. Serve.\r\n\r\nFrying Colombian buñuelos using the right temperature is very important. The oil can't be very hot or very cold. Be sure the oil is heated to 300 to 320 grades F.",
+    "ingredients": [
+      {
+        "ingredient": "Vegetable Oil",
+        "measure": "For frying"
+      },
+      {
+        "ingredient": "Cornstarch",
+        "measure": "1 1/2 cup"
+      },
+      {
+        "ingredient": "Tapioca",
+        "measure": "1/4 cup"
+      },
+      {
+        "ingredient": "Feta",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Farmers Cheese",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Egg",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Baking Powder",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Sugar",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "Pinch"
+      },
+      {
+        "ingredient": "Milk",
+        "measure": "5 tablespoons"
+      }
+    ],
+    "youtube": "",
+    "thumb": "https://www.themealdb.com/images/media/meals/bza0g51782856541.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q8705390",
+    "themealdb": "53523"
+  }
+}

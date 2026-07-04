@@ -1,0 +1,20 @@
+{
+  "id": "Q886824",
+  "name": "black soup",
+  "description": "ancient Spartan staple soup made of boiled pigs' legs, blood, salt and vinegar",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/black-soup-q886824/black-soup-q886824-1.jpg",
+    "images/black-soup-q886824/black-soup-q886824-2.jpg",
+    "images/black-soup-q886824/black-soup-q886824-3.jpg",
+    "images/black-soup-q886824/black-soup-q886824-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q886824",
+    "themealdb": null
+  }
+}

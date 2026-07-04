@@ -1,0 +1,20 @@
+{
+  "id": "Q880562",
+  "name": "Rostbrätel",
+  "description": "",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/rostbratel-q880562/rostbratel-q880562-1.jpg",
+    "images/rostbratel-q880562/rostbratel-q880562-2.jpg",
+    "images/rostbratel-q880562/rostbratel-q880562-3.jpg",
+    "images/rostbratel-q880562/rostbratel-q880562-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q880562",
+    "themealdb": null
+  }
+}

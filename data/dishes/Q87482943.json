@@ -1,0 +1,18 @@
+{
+  "id": "Q87482943",
+  "name": "Wafer cake",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/wafer-cake-q87482943/wafer-cake-q87482943-1.jpg",
+    "images/wafer-cake-q87482943/wafer-cake-q87482943-2.jpg",
+    "images/wafer-cake-q87482943/wafer-cake-q87482943-3.jpg",
+    "images/wafer-cake-q87482943/wafer-cake-q87482943-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87482943",
+    "themealdb": null
+  }
+}

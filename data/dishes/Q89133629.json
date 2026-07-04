@@ -1,0 +1,18 @@
+{
+  "id": "Q89133629",
+  "name": "floor-baked bread",
+  "description": "bread that is directly baked on the floor of an oven instead of a pan or mold",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/floor-baked-bread-q89133629/floor-baked-bread-q89133629-1.jpg",
+    "images/floor-baked-bread-q89133629/floor-baked-bread-q89133629-2.jpg",
+    "images/floor-baked-bread-q89133629/floor-baked-bread-q89133629-3.jpg",
+    "images/floor-baked-bread-q89133629/floor-baked-bread-q89133629-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89133629",
+    "themealdb": null
+  }
+}

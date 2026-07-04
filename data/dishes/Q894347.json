@@ -1,0 +1,20 @@
+{
+  "id": "Q894347",
+  "name": "Bosnian pot",
+  "description": "Bosnian dish",
+  "nationality": [
+    "Bosnia and Herzegovina"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bosnian-pot-q894347/bosnian-pot-q894347-1.jpg",
+    "images/bosnian-pot-q894347/bosnian-pot-q894347-2.jpg",
+    "images/bosnian-pot-q894347/bosnian-pot-q894347-3.jpg",
+    "images/bosnian-pot-q894347/bosnian-pot-q894347-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q894347",
+    "themealdb": null
+  }
+}

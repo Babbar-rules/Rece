@@ -1,0 +1,84 @@
+{
+  "id": "Q871272",
+  "name": "fajita",
+  "description": "term found in Tex-Mex cuisine, commonly referring to any grilled meat usually served as a taco on a flour or corn tortilla",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [
+    "Vegetarian"
+  ],
+  "images": [
+    "images/fajita-q871272/fajita-q871272-1.jpg",
+    "images/fajita-q871272/fajita-q871272-2.jpg",
+    "images/fajita-q871272/fajita-q871272-3.jpg",
+    "images/fajita-q871272/fajita-q871272-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "52870",
+    "category": "Vegetarian",
+    "area": "Mexican",
+    "instructions": "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking.\r\n\r\nMeanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve.\r\n\r\nHeat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines. \r\n\r\nPut everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over.",
+    "ingredients": [
+      {
+        "ingredient": "Chickpeas",
+        "measure": "400g"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "1 tblsp"
+      },
+      {
+        "ingredient": "Paprika",
+        "measure": "pinch"
+      },
+      {
+        "ingredient": "Tomatoes",
+        "measure": "2 small cut chunks"
+      },
+      {
+        "ingredient": "Red Onions",
+        "measure": "1 finely sliced"
+      },
+      {
+        "ingredient": "Red Wine Vinegar",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Avocado",
+        "measure": "1"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "Juice of 1"
+      },
+      {
+        "ingredient": "Lime",
+        "measure": "Chopped"
+      },
+      {
+        "ingredient": "Sour Cream",
+        "measure": "100g"
+      },
+      {
+        "ingredient": "Harissa Spice",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Corn Tortillas",
+        "measure": "4"
+      },
+      {
+        "ingredient": "Coriander",
+        "measure": "to serve"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=LGY3V7EGpT0",
+    "thumb": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q871272",
+    "themealdb": "52870"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q876740",
+  "name": "Schlutzkrapfen",
+  "description": "type of stuffed pasta",
+  "nationality": [
+    "Tyrol"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/schlutzkrapfen-q876740/schlutzkrapfen-q876740-1.jpg",
+    "images/schlutzkrapfen-q876740/schlutzkrapfen-q876740-2.jpg",
+    "images/schlutzkrapfen-q876740/schlutzkrapfen-q876740-3.jpg",
+    "images/schlutzkrapfen-q876740/schlutzkrapfen-q876740-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q876740",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q896947",
+  "name": "Birnen, Bohnen und Speck",
+  "description": "traditional German dish of pears, beans and bacon",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/birnen-bohnen-und-speck-q896947/birnen-bohnen-und-speck-q896947-1.jpg",
+    "images/birnen-bohnen-und-speck-q896947/birnen-bohnen-und-speck-q896947-2.jpg",
+    "images/birnen-bohnen-und-speck-q896947/birnen-bohnen-und-speck-q896947-3.jpg",
+    "images/birnen-bohnen-und-speck-q896947/birnen-bohnen-und-speck-q896947-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q896947",
+    "themealdb": null
+  }
+}

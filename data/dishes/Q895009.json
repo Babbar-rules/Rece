@@ -1,0 +1,20 @@
+{
+  "id": "Q895009",
+  "name": "bougatsa",
+  "description": "Greek breakfast pastry",
+  "nationality": [
+    "Greece"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bougatsa-q895009/bougatsa-q895009-1.jpg",
+    "images/bougatsa-q895009/bougatsa-q895009-2.jpg",
+    "images/bougatsa-q895009/bougatsa-q895009-3.jpg",
+    "images/bougatsa-q895009/bougatsa-q895009-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q895009",
+    "themealdb": null
+  }
+}

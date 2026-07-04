@@ -1,0 +1,18 @@
+{
+  "id": "Q881582",
+  "name": "nun's puffs",
+  "description": "dessert pastry",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/nuns-puffs-q881582/nuns-puffs-q881582-1.jpg",
+    "images/nuns-puffs-q881582/nuns-puffs-q881582-2.jpg",
+    "images/nuns-puffs-q881582/nuns-puffs-q881582-3.jpg",
+    "images/nuns-puffs-q881582/nuns-puffs-q881582-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q881582",
+    "themealdb": null
+  }
+}

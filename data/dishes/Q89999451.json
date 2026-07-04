@@ -1,0 +1,18 @@
+{
+  "id": "Q89999451",
+  "name": "vegetable jam",
+  "description": "type of jam",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/vegetable-jam-q89999451/vegetable-jam-q89999451-1.png",
+    "images/vegetable-jam-q89999451/vegetable-jam-q89999451-2.jpg",
+    "images/vegetable-jam-q89999451/vegetable-jam-q89999451-3.jpg",
+    "images/vegetable-jam-q89999451/vegetable-jam-q89999451-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999451",
+    "themealdb": null
+  }
+}

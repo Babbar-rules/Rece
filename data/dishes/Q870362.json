@@ -1,0 +1,18 @@
+{
+  "id": "Q870362",
+  "name": "rice bread",
+  "description": "food",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rice-bread-q870362/rice-bread-q870362-1.jpg",
+    "images/rice-bread-q870362/rice-bread-q870362-2.jpg",
+    "images/rice-bread-q870362/rice-bread-q870362-3.jpg",
+    "images/rice-bread-q870362/rice-bread-q870362-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q870362",
+    "themealdb": null
+  }
+}

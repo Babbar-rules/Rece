@@ -1,0 +1,18 @@
+{
+  "id": "Q87769626",
+  "name": "rajogi",
+  "description": "Korean Chinese chicken dish",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/rajogi-q87769626/rajogi-q87769626-1.jpg",
+    "images/rajogi-q87769626/rajogi-q87769626-2.jpg",
+    "images/rajogi-q87769626/rajogi-q87769626-3.jpg",
+    "images/rajogi-q87769626/rajogi-q87769626-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87769626",
+    "themealdb": null
+  }
+}

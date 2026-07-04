@@ -1,0 +1,20 @@
+{
+  "id": "Q894045",
+  "name": "Borodinsky bread",
+  "description": "dark brown sourdough rye bread of Russian origin",
+  "nationality": [
+    "Russia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/borodinsky-bread-q894045/borodinsky-bread-q894045-1.jpg",
+    "images/borodinsky-bread-q894045/borodinsky-bread-q894045-2.jpg",
+    "images/borodinsky-bread-q894045/borodinsky-bread-q894045-3.jpg",
+    "images/borodinsky-bread-q894045/borodinsky-bread-q894045-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q894045",
+    "themealdb": null
+  }
+}

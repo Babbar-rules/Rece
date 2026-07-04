@@ -1,0 +1,20 @@
+{
+  "id": "Q87919415",
+  "name": "Colache",
+  "description": "Sautéed zucchini with poblano pepper",
+  "nationality": [
+    "Mexico"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/colache-q87919415/colache-q87919415-1.jpg",
+    "images/colache-q87919415/colache-q87919415-2.jpg",
+    "images/colache-q87919415/colache-q87919415-3.jpg",
+    "images/colache-q87919415/colache-q87919415-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87919415",
+    "themealdb": null
+  }
+}

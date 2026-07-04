@@ -1,0 +1,20 @@
+{
+  "id": "Q87928460",
+  "name": "khao phan phak",
+  "description": "Thai rice sheet wrap with vegetables",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/khao-phan-phak-q87928460/khao-phan-phak-q87928460-1.jpg",
+    "images/khao-phan-phak-q87928460/khao-phan-phak-q87928460-2.jpg",
+    "images/khao-phan-phak-q87928460/khao-phan-phak-q87928460-3.jpg",
+    "images/khao-phan-phak-q87928460/khao-phan-phak-q87928460-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87928460",
+    "themealdb": null
+  }
+}

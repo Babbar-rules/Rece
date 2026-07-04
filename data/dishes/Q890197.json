@@ -1,0 +1,23 @@
+{
+  "id": "Q890197",
+  "name": "lutefisk",
+  "description": "traditional fish dish of some Nordic countries",
+  "nationality": [
+    "Norway"
+  ],
+  "region_cuisine": [
+    "Norwegian cuisine",
+    "Swedish cuisine"
+  ],
+  "images": [
+    "images/lutefisk-q890197/lutefisk-q890197-1.jpg",
+    "images/lutefisk-q890197/lutefisk-q890197-2.jpg",
+    "images/lutefisk-q890197/lutefisk-q890197-3.jpg",
+    "images/lutefisk-q890197/lutefisk-q890197-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q890197",
+    "themealdb": null
+  }
+}

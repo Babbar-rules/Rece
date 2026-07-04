@@ -1,0 +1,20 @@
+{
+  "id": "Q87590",
+  "name": "castella",
+  "description": "Japanese sponge cake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/castella-q87590/castella-q87590-1.jpg",
+    "images/castella-q87590/castella-q87590-2.jpg",
+    "images/castella-q87590/castella-q87590-3.jpg",
+    "images/castella-q87590/castella-q87590-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87590",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q895167",
+  "name": "Bounty",
+  "description": "chocolate bar manufactured by Mars, Incorporated",
+  "nationality": [
+    "United Kingdom"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/bounty-q895167/bounty-q895167-1.jpg",
+    "images/bounty-q895167/bounty-q895167-2.jpg",
+    "images/bounty-q895167/bounty-q895167-3.jpg",
+    "images/bounty-q895167/bounty-q895167-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q895167",
+    "themealdb": null
+  }
+}

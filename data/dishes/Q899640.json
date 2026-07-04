@@ -1,0 +1,72 @@
+{
+  "id": "Q899640",
+  "name": "roast chicken",
+  "description": "Whole chicken or large pieces of meat cooked by boiling or fried",
+  "nationality": [
+    "Algerian"
+  ],
+  "region_cuisine": [
+    "Chicken"
+  ],
+  "images": [
+    "images/roast-chicken-q899640/roast-chicken-q899640-1.jpg",
+    "images/roast-chicken-q899640/roast-chicken-q899640-2.jpg",
+    "images/roast-chicken-q899640/roast-chicken-q899640-3.jpg",
+    "images/roast-chicken-q899640/roast-chicken-q899640-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53280",
+    "category": "Chicken",
+    "area": "Algerian",
+    "instructions": "Preheat oven to 350 degrees F (175 degrees C).\r\n\r\nMix water, onion, olive oil, balsamic vinegar, Dijon mustard, garlic, black pepper, cayenne pepper, and salt together in a roasting dish. Add chicken; turn until well coated with mixture.\r\n\r\nBake in the preheated oven until an instant-read thermometer inserted into the thickest part of the thigh, near the bone, reads 165 degrees F (74 degrees C), about 1 hour 30 minutes.",
+    "ingredients": [
+      {
+        "ingredient": "Water",
+        "measure": "1 cup"
+      },
+      {
+        "ingredient": "Onion",
+        "measure": "1 chopped"
+      },
+      {
+        "ingredient": "Olive Oil",
+        "measure": "5 tablespoons"
+      },
+      {
+        "ingredient": "Balsamic Vinegar",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Dijon Mustard",
+        "measure": "1 tablespoon"
+      },
+      {
+        "ingredient": "Garlic",
+        "measure": "3 Cloves Crushed"
+      },
+      {
+        "ingredient": "Black Pepper",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Cayenne Pepper",
+        "measure": "1 tsp"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "To taste"
+      },
+      {
+        "ingredient": "Chicken",
+        "measure": "1"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=78O6Sv7HNO0",
+    "thumb": "https://www.themealdb.com/images/media/meals/nlxald1764112200.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q899640",
+    "themealdb": "53280"
+  }
+}

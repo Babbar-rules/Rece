@@ -1,0 +1,20 @@
+{
+  "id": "Q896508",
+  "name": "Gaisburger Marsch",
+  "description": "German food",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/gaisburger-marsch-q896508/gaisburger-marsch-q896508-1.jpg",
+    "images/gaisburger-marsch-q896508/gaisburger-marsch-q896508-2.jpg",
+    "images/gaisburger-marsch-q896508/gaisburger-marsch-q896508-3.jpeg",
+    "images/gaisburger-marsch-q896508/gaisburger-marsch-q896508-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q896508",
+    "themealdb": null
+  }
+}

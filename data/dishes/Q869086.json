@@ -1,0 +1,20 @@
+{
+  "id": "Q869086",
+  "name": "hirayachi",
+  "description": "Okinawa-style pancake",
+  "nationality": [
+    "Japan"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/hirayachi-q869086/hirayachi-q869086-1.jpg",
+    "images/hirayachi-q869086/hirayachi-q869086-2.jpg",
+    "images/hirayachi-q869086/hirayachi-q869086-3.jpg",
+    "images/hirayachi-q869086/hirayachi-q869086-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869086",
+    "themealdb": null
+  }
+}

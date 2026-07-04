@@ -1,0 +1,18 @@
+{
+  "id": "Q884785",
+  "name": "baking chocolate",
+  "description": "type of dark chocolate as baking ingredient",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baking-chocolate-q884785/baking-chocolate-q884785-1.gif",
+    "images/baking-chocolate-q884785/baking-chocolate-q884785-2.jpg",
+    "images/baking-chocolate-q884785/baking-chocolate-q884785-3.jpg",
+    "images/baking-chocolate-q884785/baking-chocolate-q884785-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q884785",
+    "themealdb": null
+  }
+}

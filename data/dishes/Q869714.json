@@ -1,0 +1,20 @@
+{
+  "id": "Q869714",
+  "name": "Campanelle",
+  "description": "type of pasta shaped like a bell or flower",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/campanelle-q869714/campanelle-q869714-1.jpg",
+    "images/campanelle-q869714/campanelle-q869714-2.jpg",
+    "images/campanelle-q869714/campanelle-q869714-3.jpg",
+    "images/campanelle-q869714/campanelle-q869714-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q869714",
+    "themealdb": null
+  }
+}

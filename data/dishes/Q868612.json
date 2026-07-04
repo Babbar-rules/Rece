@@ -1,0 +1,18 @@
+{
+  "id": "Q868612",
+  "name": "Skittles",
+  "description": "brand of sugar-coated fruit flavored candy",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/skittles-q868612/skittles-q868612-1.jpg",
+    "images/skittles-q868612/skittles-q868612-2.jpg",
+    "images/skittles-q868612/skittles-q868612-3.jpg",
+    "images/skittles-q868612/skittles-q868612-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q868612",
+    "themealdb": null
+  }
+}

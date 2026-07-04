@@ -1,0 +1,20 @@
+{
+  "id": "Q877538",
+  "name": "kifli",
+  "description": "crescent-shaped bread roll, originating in Central Europe",
+  "nationality": [
+    "Austria"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/kifli-q877538/kifli-q877538-1.jpg",
+    "images/kifli-q877538/kifli-q877538-2.jpg",
+    "images/kifli-q877538/kifli-q877538-3.jpg",
+    "images/kifli-q877538/kifli-q877538-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q877538",
+    "themealdb": null
+  }
+}

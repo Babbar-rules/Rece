@@ -1,0 +1,20 @@
+{
+  "id": "Q868184",
+  "name": "Frìttuli",
+  "description": "traditional pork dish from Calabria, Italy",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/frittuli-q868184/frittuli-q868184-1.jpg",
+    "images/frittuli-q868184/frittuli-q868184-2.jpg",
+    "images/frittuli-q868184/frittuli-q868184-3.jpg",
+    "images/frittuli-q868184/frittuli-q868184-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q868184",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Q89999446",
+  "name": "fruit jam",
+  "description": "type of jam made with fruit",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/fruit-jam-q89999446/fruit-jam-q89999446-1.jpg",
+    "images/fruit-jam-q89999446/fruit-jam-q89999446-2.jpg",
+    "images/fruit-jam-q89999446/fruit-jam-q89999446-3.jpg",
+    "images/fruit-jam-q89999446/fruit-jam-q89999446-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89999446",
+    "themealdb": null
+  }
+}

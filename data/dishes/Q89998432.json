@@ -1,0 +1,18 @@
+{
+  "id": "Q89998432",
+  "name": "Christmas sweet",
+  "description": "Christmas themed confections",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/christmas-sweet-q89998432/christmas-sweet-q89998432-1.jpg",
+    "images/christmas-sweet-q89998432/christmas-sweet-q89998432-2.jpg",
+    "images/christmas-sweet-q89998432/christmas-sweet-q89998432-3.jpg",
+    "images/christmas-sweet-q89998432/christmas-sweet-q89998432-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q89998432",
+    "themealdb": null
+  }
+}

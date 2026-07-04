@@ -1,0 +1,20 @@
+{
+  "id": "Q887700",
+  "name": "Thuringian sausage",
+  "description": "sausage from Germany",
+  "nationality": [
+    "Thuringia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/thuringian-sausage-q887700/thuringian-sausage-q887700-1.jpg",
+    "images/thuringian-sausage-q887700/thuringian-sausage-q887700-2.jpg",
+    "images/thuringian-sausage-q887700/thuringian-sausage-q887700-3.jpg",
+    "images/thuringian-sausage-q887700/thuringian-sausage-q887700-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q887700",
+    "themealdb": null
+  }
+}

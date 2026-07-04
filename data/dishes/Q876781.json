@@ -1,0 +1,20 @@
+{
+  "id": "Q876781",
+  "name": "Vinschgauer",
+  "description": "South Tyrolean bread",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/vinschgauer-q876781/vinschgauer-q876781-1.jpg",
+    "images/vinschgauer-q876781/vinschgauer-q876781-2.jpg",
+    "images/vinschgauer-q876781/vinschgauer-q876781-3.jpg",
+    "images/vinschgauer-q876781/vinschgauer-q876781-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q876781",
+    "themealdb": null
+  }
+}

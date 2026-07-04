@@ -1,0 +1,23 @@
+{
+  "id": "Q867426",
+  "name": "Cendol",
+  "description": "Indonesian traditional drink from Jawa Tengah",
+  "nationality": [
+    "Indonesia",
+    "Java"
+  ],
+  "region_cuisine": [
+    "Indonesian cuisine"
+  ],
+  "images": [
+    "images/cendol-q867426/cendol-q867426-1.jpg",
+    "images/cendol-q867426/cendol-q867426-2.jpg",
+    "images/cendol-q867426/cendol-q867426-3.jpg",
+    "images/cendol-q867426/cendol-q867426-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q867426",
+    "themealdb": null
+  }
+}

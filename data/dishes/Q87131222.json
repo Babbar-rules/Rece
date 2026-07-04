@@ -1,0 +1,18 @@
+{
+  "id": "Q87131222",
+  "name": "Yukjeon",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/yukjeon-q87131222/yukjeon-q87131222-1.jpg",
+    "images/yukjeon-q87131222/yukjeon-q87131222-2.jpg",
+    "images/yukjeon-q87131222/yukjeon-q87131222-3.jpg",
+    "images/yukjeon-q87131222/yukjeon-q87131222-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q87131222",
+    "themealdb": null
+  }
+}

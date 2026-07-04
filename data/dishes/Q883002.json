@@ -1,0 +1,22 @@
+{
+  "id": "Q883002",
+  "name": "mutzbraten",
+  "description": "spit-roasted pork specialty",
+  "nationality": [
+    "Germany"
+  ],
+  "region_cuisine": [
+    "German cuisine"
+  ],
+  "images": [
+    "images/mutzbraten-q883002/mutzbraten-q883002-1.jpg",
+    "images/mutzbraten-q883002/mutzbraten-q883002-2.jpg",
+    "images/mutzbraten-q883002/mutzbraten-q883002-3.jpg",
+    "images/mutzbraten-q883002/mutzbraten-q883002-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q883002",
+    "themealdb": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Q88359674",
+  "name": "Sfincione",
+  "description": "",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/sfincione-q88359674/sfincione-q88359674-1.jpg",
+    "images/sfincione-q88359674/sfincione-q88359674-2.jpg",
+    "images/sfincione-q88359674/sfincione-q88359674-3.jpg",
+    "images/sfincione-q88359674/sfincione-q88359674-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q88359674",
+    "themealdb": null
+  }
+}
