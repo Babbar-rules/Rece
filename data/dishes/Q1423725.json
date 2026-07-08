@@ -1,0 +1,60 @@
+{
+  "id": "Q1423725",
+  "name": "cucumber salad",
+  "description": "dish",
+  "nationality": [
+    "Chinese"
+  ],
+  "region_cuisine": [
+    "Side"
+  ],
+  "images": [
+    "images/cucumber-salad-q1423725/cucumber-salad-q1423725-1.jpg",
+    "images/cucumber-salad-q1423725/cucumber-salad-q1423725-2.jpg",
+    "images/cucumber-salad-q1423725/cucumber-salad-q1423725-3.jpg",
+    "images/cucumber-salad-q1423725/cucumber-salad-q1423725-4.jpg"
+  ],
+  "recipe": {
+    "source": "TheMealDB",
+    "source_id": "53378",
+    "category": "Side",
+    "area": "Chinese",
+    "instructions": "Prep the cucumbers:\r\nPeel the cucumbers. Cut them into quarters, lengthwise. (If the seeds are bitter, scrape out the seeds and discard.) Cut the cucumbers again, crosswise, into 1/2-inch thick pieces.\r\n\r\nToss the salad:\r\nPlace cucumbers into a serving bowl. Sprinkle with salt. Toss with sesame oil, seasoned rice vinegar, basil (if using), and chili flakes. Sprinkle with toasted sesame seeds if using.",
+    "ingredients": [
+      {
+        "ingredient": "Cucumber",
+        "measure": "2 medium"
+      },
+      {
+        "ingredient": "Salt",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Sesame Seed Oil",
+        "measure": "2 tsp"
+      },
+      {
+        "ingredient": "Rice Vinegar",
+        "measure": "2 tablespoons"
+      },
+      {
+        "ingredient": "Basil Leaves",
+        "measure": "6"
+      },
+      {
+        "ingredient": "Red Chilli Flakes",
+        "measure": "1/2 tsp"
+      },
+      {
+        "ingredient": "Sesame Seed",
+        "measure": "2 tsp"
+      }
+    ],
+    "youtube": "https://www.youtube.com/watch?v=q37qn81lg5c",
+    "thumb": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg"
+  },
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1423725",
+    "themealdb": "53378"
+  }
+}
