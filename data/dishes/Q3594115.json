@@ -1,0 +1,18 @@
+{
+  "id": "Q3594115",
+  "name": "mid-boiled egg",
+  "description": "egg boiled during 5 minutes",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/mid-boiled-egg-q3594115/mid-boiled-egg-q3594115-1.jpg",
+    "images/mid-boiled-egg-q3594115/mid-boiled-egg-q3594115-2.jpg",
+    "images/mid-boiled-egg-q3594115/mid-boiled-egg-q3594115-3.jpg",
+    "images/mid-boiled-egg-q3594115/mid-boiled-egg-q3594115-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3594115",
+    "themealdb": null
+  }
+}

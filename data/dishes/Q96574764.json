@@ -1,0 +1,18 @@
+{
+  "id": "Q96574764",
+  "name": "Farinata di ceci",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/farinata-di-ceci-q96574764/farinata-di-ceci-q96574764-1.jpg",
+    "images/farinata-di-ceci-q96574764/farinata-di-ceci-q96574764-2.jpg",
+    "images/farinata-di-ceci-q96574764/farinata-di-ceci-q96574764-3.jpg",
+    "images/farinata-di-ceci-q96574764/farinata-di-ceci-q96574764-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q96574764",
+    "themealdb": null
+  }
+}
