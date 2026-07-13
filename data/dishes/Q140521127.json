@@ -1,0 +1,18 @@
+{
+  "id": "Q140521127",
+  "name": "lobster soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/lobster-soup-q140521127/lobster-soup-q140521127-1.jpg",
+    "images/lobster-soup-q140521127/lobster-soup-q140521127-2.jpg",
+    "images/lobster-soup-q140521127/lobster-soup-q140521127-3.jpg",
+    "images/lobster-soup-q140521127/lobster-soup-q140521127-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140521127",
+    "themealdb": null
+  }
+}

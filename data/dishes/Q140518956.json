@@ -1,0 +1,18 @@
+{
+  "id": "Q140518956",
+  "name": "crayfish soup",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/crayfish-soup-q140518956/crayfish-soup-q140518956-1.jpg",
+    "images/crayfish-soup-q140518956/crayfish-soup-q140518956-2.jpg",
+    "images/crayfish-soup-q140518956/crayfish-soup-q140518956-3.jpg",
+    "images/crayfish-soup-q140518956/crayfish-soup-q140518956-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140518956",
+    "themealdb": null
+  }
+}

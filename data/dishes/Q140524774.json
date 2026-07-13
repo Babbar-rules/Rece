@@ -1,0 +1,17 @@
+{
+  "id": "Q140524774",
+  "name": "Oinotomo",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/oinotomo-q140524774/oinotomo-q140524774-1.jpg",
+    "images/oinotomo-q140524774/oinotomo-q140524774-2.jpg",
+    "images/oinotomo-q140524774/oinotomo-q140524774-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140524774",
+    "themealdb": null
+  }
+}
