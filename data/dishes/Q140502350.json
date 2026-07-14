@@ -1,0 +1,18 @@
+{
+  "id": "Q140502350",
+  "name": "Baked fruit dessert",
+  "description": "fruit dessert with a topping",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/baked-fruit-dessert-q140502350/baked-fruit-dessert-q140502350-1.jpg",
+    "images/baked-fruit-dessert-q140502350/baked-fruit-dessert-q140502350-2.jpg",
+    "images/baked-fruit-dessert-q140502350/baked-fruit-dessert-q140502350-3.jpg",
+    "images/baked-fruit-dessert-q140502350/baked-fruit-dessert-q140502350-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140502350",
+    "themealdb": null
+  }
+}
