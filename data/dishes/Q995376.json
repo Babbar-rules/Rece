@@ -1,0 +1,20 @@
+{
+  "id": "Q995376",
+  "name": "Fabada asturiana",
+  "description": "Spanish bean stew",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/fabada-asturiana-q995376/fabada-asturiana-q995376-1.jpg",
+    "images/fabada-asturiana-q995376/fabada-asturiana-q995376-2.jpg",
+    "images/fabada-asturiana-q995376/fabada-asturiana-q995376-3.jpg",
+    "images/fabada-asturiana-q995376/fabada-asturiana-q995376-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q995376",
+    "themealdb": null
+  }
+}
