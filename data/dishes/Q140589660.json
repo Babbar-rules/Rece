@@ -1,0 +1,20 @@
+{
+  "id": "Q140589660",
+  "name": "Café Noir",
+  "description": "cookie",
+  "nationality": [
+    "Netherlands"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cafe-noir-q140589660/cafe-noir-q140589660-1.jpg",
+    "images/cafe-noir-q140589660/cafe-noir-q140589660-2.jpg",
+    "images/cafe-noir-q140589660/cafe-noir-q140589660-3.jpg",
+    "images/cafe-noir-q140589660/cafe-noir-q140589660-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140589660",
+    "themealdb": null
+  }
+}

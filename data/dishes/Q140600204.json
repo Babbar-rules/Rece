@@ -1,0 +1,20 @@
+{
+  "id": "Q140600204",
+  "name": "café helado",
+  "description": "Chilean frozen dessert",
+  "nationality": [
+    "Chile"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cafe-helado-q140600204/cafe-helado-q140600204-1.jpg",
+    "images/cafe-helado-q140600204/cafe-helado-q140600204-2.jpg",
+    "images/cafe-helado-q140600204/cafe-helado-q140600204-3.jpg",
+    "images/cafe-helado-q140600204/cafe-helado-q140600204-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140600204",
+    "themealdb": null
+  }
+}
