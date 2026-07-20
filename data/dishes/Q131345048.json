@@ -1,0 +1,21 @@
+{
+  "id": "Q131345048",
+  "name": "panianky",
+  "description": "Ukrainian christmas gingerbread",
+  "nationality": [
+    "Ukraine",
+    "Russian Empire"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/panianky-q131345048/panianky-q131345048-1.jpg",
+    "images/panianky-q131345048/panianky-q131345048-2.jpg",
+    "images/panianky-q131345048/panianky-q131345048-3.jpg",
+    "images/panianky-q131345048/panianky-q131345048-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131345048",
+    "themealdb": null
+  }
+}
