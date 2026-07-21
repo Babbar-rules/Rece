@@ -1,0 +1,23 @@
+{
+  "id": "Q140635489",
+  "name": "carp on a stick",
+  "description": "smoked fish dish from Croatia",
+  "nationality": [
+    "Croatia"
+  ],
+  "region_cuisine": [
+    "Croatian cuisine",
+    "Hungarian cuisine"
+  ],
+  "images": [
+    "images/carp-on-a-stick-q140635489/carp-on-a-stick-q140635489-1.jpg",
+    "images/carp-on-a-stick-q140635489/carp-on-a-stick-q140635489-2.jpg",
+    "images/carp-on-a-stick-q140635489/carp-on-a-stick-q140635489-3.jpg",
+    "images/carp-on-a-stick-q140635489/carp-on-a-stick-q140635489-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140635489",
+    "themealdb": null
+  }
+}
