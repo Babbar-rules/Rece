@@ -1,0 +1,18 @@
+{
+  "id": "Q3924066",
+  "name": "Prosciutto Veneto Berico-Euganeo PDO",
+  "description": "Italian PDO meat product",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/prosciutto-veneto-berico-euganeo-pdo-q3924066/prosciutto-veneto-berico-euganeo-pdo-q3924066-1.jpg",
+    "images/prosciutto-veneto-berico-euganeo-pdo-q3924066/prosciutto-veneto-berico-euganeo-pdo-q3924066-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3924066",
+    "themealdb": null
+  }
+}
