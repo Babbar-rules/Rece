@@ -1,0 +1,18 @@
+{
+  "id": "Q65132461",
+  "name": "Cuddureddi PAT",
+  "description": "traditional Italian bakery product (PAT)",
+  "nationality": [
+    "Italy"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/cuddureddi-pat-q65132461/cuddureddi-pat-q65132461-1.jpg",
+    "images/cuddureddi-pat-q65132461/cuddureddi-pat-q65132461-2.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65132461",
+    "themealdb": null
+  }
+}
