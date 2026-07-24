@@ -1,0 +1,20 @@
+{
+  "id": "Q133871239",
+  "name": "Trivandrum Boli",
+  "description": "traditional delicacy from Kerala, India",
+  "nationality": [
+    "India"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/trivandrum-boli-q133871239/trivandrum-boli-q133871239-1.jpg",
+    "images/trivandrum-boli-q133871239/trivandrum-boli-q133871239-2.jpg",
+    "images/trivandrum-boli-q133871239/trivandrum-boli-q133871239-3.jpg",
+    "images/trivandrum-boli-q133871239/trivandrum-boli-q133871239-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q133871239",
+    "themealdb": null
+  }
+}
