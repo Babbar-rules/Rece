@@ -1,0 +1,20 @@
+{
+  "id": "Q109453166",
+  "name": "Dalí bread",
+  "description": "type of bread inspired by Salvador Dalí",
+  "nationality": [
+    "Spain"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/dali-bread-q109453166/dali-bread-q109453166-1.jpg",
+    "images/dali-bread-q109453166/dali-bread-q109453166-2.jpg",
+    "images/dali-bread-q109453166/dali-bread-q109453166-3.jpg",
+    "images/dali-bread-q109453166/dali-bread-q109453166-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q109453166",
+    "themealdb": null
+  }
+}
