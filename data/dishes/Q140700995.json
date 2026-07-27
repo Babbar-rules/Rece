@@ -1,0 +1,20 @@
+{
+  "id": "Q140700995",
+  "name": "foi thong",
+  "description": "",
+  "nationality": [
+    "Thailand"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/foi-thong-q140700995/foi-thong-q140700995-1.jpg",
+    "images/foi-thong-q140700995/foi-thong-q140700995-2.jpg",
+    "images/foi-thong-q140700995/foi-thong-q140700995-3.jpg",
+    "images/foi-thong-q140700995/foi-thong-q140700995-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140700995",
+    "themealdb": null
+  }
+}
