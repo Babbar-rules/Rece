@@ -1,0 +1,18 @@
+{
+  "id": "Q140724932",
+  "name": "Hawaii cookery",
+  "description": "",
+  "nationality": [],
+  "region_cuisine": [],
+  "images": [
+    "images/hawaii-cookery-q140724932/hawaii-cookery-q140724932-1.jpg",
+    "images/hawaii-cookery-q140724932/hawaii-cookery-q140724932-2.jpg",
+    "images/hawaii-cookery-q140724932/hawaii-cookery-q140724932-3.jpg",
+    "images/hawaii-cookery-q140724932/hawaii-cookery-q140724932-4.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q140724932",
+    "themealdb": null
+  }
+}

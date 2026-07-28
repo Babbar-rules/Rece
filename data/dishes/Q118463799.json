@@ -1,0 +1,19 @@
+{
+  "id": "Q118463799",
+  "name": "Cigánska pečienka",
+  "description": "typical Slovak fast food",
+  "nationality": [
+    "Slovakia"
+  ],
+  "region_cuisine": [],
+  "images": [
+    "images/ciganska-pecienka-q118463799/ciganska-pecienka-q118463799-1.jpg",
+    "images/ciganska-pecienka-q118463799/ciganska-pecienka-q118463799-2.jpg",
+    "images/ciganska-pecienka-q118463799/ciganska-pecienka-q118463799-3.jpg"
+  ],
+  "recipe": null,
+  "sources": {
+    "wikidata": "https://www.wikidata.org/wiki/Q118463799",
+    "themealdb": null
+  }
+}
